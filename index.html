@@ -72,13 +72,13 @@ title: Commons OS Pattern Library
     <ul class="pattern-list">
       {% for pattern in site.universal limit:5 %}
       <li>
-        <a href="{{ pattern.url }}">{{ pattern.title }}</a>
+        <a href="{{ site.baseurl }}{{ pattern.url }}">{{ pattern.title }}</a>
         <span class="badge badge-universal">Universal</span>
       </li>
       {% endfor %}
       {% for pattern in site.human-universal limit:5 %}
       <li>
-        <a href="{{ pattern.url }}">{{ pattern.title }}</a>
+        <a href="{{ site.baseurl }}{{ pattern.url }}">{{ pattern.title }}</a>
         <span class="badge badge-human-universal">Human-Universal</span>
       </li>
       {% endfor %}

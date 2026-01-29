@@ -3,12 +3,12 @@ layout: default
 title: universal Patterns
 ---
 
-<h1>universal Patterns</h1>
+<h1>{{ page.title }}</h1>
 
 <ul class="pattern-list">
 {% for pattern in site.universal %}
 <li>
-  <a href="{{ pattern.url }}">{{ pattern.title }}</a>
+  <a href="{{ site.baseurl }}{{ pattern.url }}">{{ pattern.title }}</a>
 </li>
 {% endfor %}
 </ul>
