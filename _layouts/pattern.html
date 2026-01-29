@@ -1,0 +1,157 @@
+---
+layout: default
+---
+
+<article class="pattern">
+  <header class="pattern-header">
+    <div class="pattern-meta">
+      <span class="badge badge-{{ page.tags.universality | default: 'domain' }}">
+        {{ page.tags.universality | default: 'domain' }}
+      </span>
+      <span class="badge" style="background: #f1f5f9; color: #475569;">
+        {{ page.tags.domain | default: 'general' }}
+      </span>
+      {% if page.tags.commons_alignment %}
+      <span class="badge" style="background: #ecfdf5; color: #065f46;">
+        Commons: {{ page.tags.commons_alignment }}/5
+      </span>
+      {% endif %}
+    </div>
+    
+    <h1>{{ page.title }}</h1>
+    
+    {% if page.aliases %}
+    <p class="aliases">
+      Also known as: {{ page.aliases | join: ", " }}
+    </p>
+    {% endif %}
+  </header>
+  
+  <div class="pattern-content">
+    {{ content }}
+  </div>
+  
+  {% if page.related or page.generalizes_from or page.specializes_to %}
+  <aside class="pattern-relationships">
+    <h2>Related Patterns</h2>
+    
+    {% if page.generalizes_from and page.generalizes_from.size > 0 %}
+    <div class="relationship-group">
+      <h3>Generalizes From (Parent Patterns)</h3>
+      <ul>
+        {% for rel_id in page.generalizes_from %}
+          {% assign rel_pattern = site.data.registry | where: "id", rel_id | first %}
+          {% if rel_pattern %}
+          <li><a href="{{ site.baseurl }}/{{ rel_pattern.level }}/{{ rel_pattern.slug }}/">{{ rel_pattern.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+    
+    {% if page.specializes_to and page.specializes_to.size > 0 %}
+    <div class="relationship-group">
+      <h3>Specializes To (Child Patterns)</h3>
+      <ul>
+        {% for rel_id in page.specializes_to %}
+          {% assign rel_pattern = site.data.registry | where: "id", rel_id | first %}
+          {% if rel_pattern %}
+          <li><a href="{{ site.baseurl }}/{{ rel_pattern.level }}/{{ rel_pattern.slug }}/">{{ rel_pattern.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+    
+    {% if page.related and page.related.size > 0 %}
+    <div class="relationship-group">
+      <h3>Related Patterns</h3>
+      <ul>
+        {% for rel_id in page.related limit:10 %}
+          {% assign rel_pattern = site.data.registry | where: "id", rel_id | first %}
+          {% if rel_pattern %}
+          <li><a href="{{ site.baseurl }}/{{ rel_pattern.level }}/{{ rel_pattern.slug }}/">{{ rel_pattern.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+  </aside>
+  {% endif %}
+  
+  <footer class="pattern-footer">
+    <p>
+      <strong>ID:</strong> <code>{{ page.id }}</code> &middot;
+      <strong>Version:</strong> {{ page.version | default: "1.0" }} &middot;
+      <strong>License:</strong> {{ page.license | default: "CC-BY-SA-4.0" }}
+    </p>
+    <p>
+      <a href="https://github.com/commons-os/patterns/blob/main/_{{ page.collection }}/{{ page.slug }}.md">View source on GitHub</a> &middot;
+      <a href="https://github.com/commons-os/patterns/edit/main/_{{ page.collection }}/{{ page.slug }}.md">Edit this pattern</a>
+    </p>
+  </footer>
+</article>
+
+<style>
+  .pattern-header {
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--border);
+  }
+  
+  .pattern-meta {
+    margin-bottom: 1rem;
+  }
+  
+  .pattern-meta .badge {
+    margin-right: 0.5rem;
+  }
+  
+  .aliases {
+    color: var(--text-muted);
+    font-style: italic;
+  }
+  
+  .pattern-relationships {
+    margin-top: 3rem;
+    padding: 1.5rem;
+    background: var(--surface);
+    border-radius: 8px;
+  }
+  
+  .pattern-relationships h2 {
+    margin-top: 0;
+    border-bottom: none;
+  }
+  
+  .relationship-group {
+    margin-bottom: 1.5rem;
+  }
+  
+  .relationship-group:last-child {
+    margin-bottom: 0;
+  }
+  
+  .relationship-group h3 {
+    font-size: 1rem;
+    color: var(--text-muted);
+    margin-top: 0;
+  }
+  
+  .relationship-group ul {
+    margin: 0.5rem 0 0 0;
+    padding-left: 1.5rem;
+  }
+  
+  .pattern-footer {
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border);
+    font-size: 0.875rem;
+    color: var(--text-muted);
+  }
+  
+  .pattern-footer code {
+    font-size: 0.75rem;
+  }
+</style>

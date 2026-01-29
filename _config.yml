@@ -1,0 +1,94 @@
+# Commons OS Pattern Library - Jekyll Configuration
+# GitHub Pages will use this to generate the static site
+
+title: Commons OS Pattern Library
+description: Open-source knowledge graph of organizational patterns for a more equitable and sustainable world
+url: "https://commons-os.github.io"
+baseurl: "/patterns"
+
+# Repository info
+repository: commons-os/patterns
+
+# Attribution
+author:
+  name: cloudsters
+  url: https://cloudsters.net
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Kramdown settings for better markdown rendering
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    default_lang: yaml
+    
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Collections for patterns by universality level
+collections:
+  universal:
+    output: true
+    permalink: /universal/:name/
+  human-universal:
+    output: true
+    permalink: /human-universal/:name/
+  domain:
+    output: true
+    permalink: /domain/:name/
+  context-specific:
+    output: true
+    permalink: /context-specific/:name/
+  implementation:
+    output: true
+    permalink: /implementation/:name/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "universal"
+    values:
+      layout: "pattern"
+  - scope:
+      path: ""
+      type: "human-universal"
+    values:
+      layout: "pattern"
+  - scope:
+      path: ""
+      type: "domain"
+    values:
+      layout: "pattern"
+  - scope:
+      path: ""
+      type: "context-specific"
+    values:
+      layout: "pattern"
+  - scope:
+      path: ""
+      type: "implementation"
+    values:
+      layout: "pattern"
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - pattern-registry.json
+  - pattern-relationships.json
+  - "*.py"
+  - README.md
+
+# Include data files
+include:
+  - _data

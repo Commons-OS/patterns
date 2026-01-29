@@ -1,0 +1,227 @@
+---
+layout: default
+title: Commons OS Pattern Library
+---
+
+<div class="home">
+  <section class="hero">
+    <h1>Commons OS Pattern Library</h1>
+    <p class="lead">
+      An open-source knowledge graph of <strong>926 organizational patterns</strong> 
+      documented in Alexandrian format for a more equitable and sustainable world.
+    </p>
+    <p>
+      Distributed by <a href="https://cloudsters.net">cloudsters</a> under 
+      <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0</a>
+    </p>
+  </section>
+  
+  <section class="stats">
+    <div class="stat-card">
+      <div class="stat-number">926</div>
+      <div class="stat-label">Patterns</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">3,545</div>
+      <div class="stat-label">Relationships</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">~2.9M</div>
+      <div class="stat-label">Words</div>
+    </div>
+  </section>
+  
+  <section class="browse">
+    <h2>Browse by Universality Level</h2>
+    
+    <div class="level-grid">
+      <a href="{{ site.baseurl }}/universal/" class="level-card universal">
+        <h3>Universal</h3>
+        <p>{{ site.universal.size }} patterns</p>
+        <span class="desc">Apply across all domains and contexts</span>
+      </a>
+      
+      <a href="{{ site.baseurl }}/human-universal/" class="level-card human-universal">
+        <h3>Human-Universal</h3>
+        <p>{{ site.human-universal.size }} patterns</p>
+        <span class="desc">Apply to human organizations universally</span>
+      </a>
+      
+      <a href="{{ site.baseurl }}/domain/" class="level-card domain">
+        <h3>Domain</h3>
+        <p>{{ site.domain.size }} patterns</p>
+        <span class="desc">Apply within specific domains</span>
+      </a>
+      
+      <a href="{{ site.baseurl }}/context-specific/" class="level-card context-specific">
+        <h3>Context-Specific</h3>
+        <p>{{ site.context-specific.size }} patterns</p>
+        <span class="desc">Apply in specific contexts</span>
+      </a>
+      
+      <a href="{{ site.baseurl }}/implementation/" class="level-card implementation">
+        <h3>Implementation</h3>
+        <p>{{ site.implementation.size }} patterns</p>
+        <span class="desc">Specific implementation approaches</span>
+      </a>
+    </div>
+  </section>
+  
+  <section class="recent">
+    <h2>Featured Patterns</h2>
+    <ul class="pattern-list">
+      {% for pattern in site.universal limit:5 %}
+      <li>
+        <a href="{{ pattern.url }}">{{ pattern.title }}</a>
+        <span class="badge badge-universal">Universal</span>
+      </li>
+      {% endfor %}
+      {% for pattern in site.human-universal limit:5 %}
+      <li>
+        <a href="{{ pattern.url }}">{{ pattern.title }}</a>
+        <span class="badge badge-human-universal">Human-Universal</span>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  
+  <section class="about">
+    <h2>About Commons OS</h2>
+    <p>
+      Commons OS is building an open-source knowledge graph of organizational patterns 
+      to help organizations transition toward more equitable, sustainable, and 
+      commons-aligned ways of working.
+    </p>
+    <p>
+      Each pattern is documented with:
+    </p>
+    <ul>
+      <li><strong>9 standardized sections</strong> following the Alexandrian format</li>
+      <li><strong>Commons Alignment Assessment</strong> across 7 dimensions</li>
+      <li><strong>Cognitive Era Considerations</strong> for AI/automation readiness</li>
+      <li><strong>TypeID (UUID v7)</strong> for stable cross-references</li>
+      <li><strong>Bidirectional relationships</strong> to related patterns</li>
+    </ul>
+    <p>
+      <a href="https://github.com/commons-os/patterns">Contribute on GitHub</a> &middot;
+      <a href="https://cloudsters.net">Learn more at cloudsters.net</a>
+    </p>
+  </section>
+</div>
+
+<style>
+  .hero {
+    text-align: center;
+    padding: 3rem 0;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 2rem;
+  }
+  
+  .hero h1 {
+    margin-top: 0;
+    font-size: 2.5rem;
+  }
+  
+  .lead {
+    font-size: 1.25rem;
+    color: var(--text-muted);
+    max-width: 600px;
+    margin: 1rem auto;
+  }
+  
+  .stats {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin: 2rem 0;
+  }
+  
+  .stat-card {
+    text-align: center;
+    padding: 1.5rem 2rem;
+    background: var(--surface);
+    border-radius: 8px;
+  }
+  
+  .stat-number {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--primary);
+  }
+  
+  .stat-label {
+    color: var(--text-muted);
+    font-size: 0.875rem;
+    text-transform: uppercase;
+  }
+  
+  .level-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin: 1rem 0;
+  }
+  
+  .level-card {
+    display: block;
+    padding: 1.5rem;
+    border-radius: 8px;
+    text-decoration: none;
+    color: var(--text);
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  
+  .level-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  
+  .level-card h3 {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.1rem;
+  }
+  
+  .level-card p {
+    margin: 0;
+    font-weight: 600;
+  }
+  
+  .level-card .desc {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+  }
+  
+  .level-card.universal { background: #dbeafe; }
+  .level-card.human-universal { background: #dcfce7; }
+  .level-card.domain { background: #fef3c7; }
+  .level-card.context-specific { background: #fce7f3; }
+  .level-card.implementation { background: #f3e8ff; }
+  
+  .pattern-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .pattern-list li {
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .pattern-list li:last-child {
+    border-bottom: none;
+  }
+  
+  .about {
+    margin-top: 3rem;
+    padding: 2rem;
+    background: var(--surface);
+    border-radius: 8px;
+  }
+  
+  .about h2 {
+    margin-top: 0;
+  }
+</style>
