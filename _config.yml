@@ -25,30 +25,24 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     default_lang: yaml
-    
-# Plugins
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
 
 # Collections for patterns by universality level
 collections:
   universal:
     output: true
-    permalink: /universal/:name/
+    permalink: /:collection/:name/
   human-universal:
     output: true
-    permalink: /human-universal/:name/
+    permalink: /:collection/:name/
   domain:
     output: true
-    permalink: /domain/:name/
+    permalink: /:collection/:name/
   context-specific:
     output: true
-    permalink: /context-specific/:name/
+    permalink: /:collection/:name/
   implementation:
     output: true
-    permalink: /implementation/:name/
+    permalink: /:collection/:name/
 
 # Default front matter
 defaults:
@@ -84,10 +78,7 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
-  - pattern-registry.json
-  - pattern-relationships.json
   - "*.py"
-  - README.md
 
 # Include data files
 include:
