@@ -348,7 +348,6 @@
         <a href="/patterns/" class="nav-link patterns active">⚙️ Patterns</a>
         <a href="/context/" class="nav-link contexts">🎯 Context</a>
         <a href="/lighthouses/" class="nav-link lighthouses">🏠 Lighthouses</a>
-        <a href="/patterns/suggest/" class="nav-link">Suggest</a>
       </div>
       
       <div class="nav-search">
@@ -357,7 +356,7 @@
         <div class="search-results" id="search-results"></div>
       </div>
       
-      <a href="https://cloudsters.net" class="nav-cta" target="_blank">Join Community</a>
+      <a href="https://cloudsters.net" class="nav-cta" target="_blank">Join</a>
     </div>
   </nav>
   
@@ -419,7 +418,14 @@
       const results = fuse.search(query).slice(0, 10);
       
       if (results.length === 0) {
-        searchResults.innerHTML = '<div class="search-no-results">No patterns found. <a href="{{ site.baseurl }}/suggest/">Suggest this pattern?</a></div>';
+        const encodedQuery = encodeURIComponent(query);
+        searchResults.innerHTML = `
+          <div class="search-no-results">
+            <p style="margin-bottom: 10px;">No patterns found for "<strong>${query}</strong>"</p>
+            <p style="font-size: 0.9em; margin-bottom: 15px;">Help us grow the library!</p>
+            <a href="https://github.com/Commons-OS/patterns/issues/new?title=[Pattern Suggestion] ${encodedQuery}&body=I'd like to suggest a new pattern: ${encodedQuery}%0A%0ADescription:%0A%0AWhy this pattern matters:" target="_blank" style="display: inline-block; padding: 8px 16px; background: #2196f3; color: white; border-radius: 20px; text-decoration: none;">⚙️ Suggest this Pattern</a>
+          </div>
+        `;
         searchResults.classList.add('active');
         return;
       }
