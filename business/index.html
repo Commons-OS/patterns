@@ -60,22 +60,31 @@ title: Business Patterns - Commons OS
     font-size: 0.9em;
   }
   
-  .section-header {
-    margin-top: 50px;
-    margin-bottom: 20px;
-    padding-bottom: 10px;
-    border-bottom: 3px solid #ff9800;
+  .filter-bar {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
   }
   
-  .section-header h2 {
-    margin: 0;
-    color: #333;
-    font-weight: 500;
+  .filter-btn {
+    padding: 8px 16px;
+    border: 2px solid #e0e0e0;
+    border-radius: 20px;
+    background: white;
+    cursor: pointer;
+    font-size: 0.9em;
+    transition: all 0.2s ease;
   }
   
-  .section-header p {
-    margin: 5px 0 0 0;
-    color: #666;
+  .filter-btn:hover, .filter-btn.active {
+    border-color: #ff9800;
+    background: #fff3e0;
+    color: #e65100;
   }
   
   .patterns-grid {
@@ -131,7 +140,6 @@ title: Business Patterns - Commons OS
     color: #ff9800;
     text-decoration: none;
     font-weight: 500;
-    transition: all 0.2s ease;
   }
   
   .back-link:hover {
@@ -139,7 +147,7 @@ title: Business Patterns - Commons OS
   }
 </style>
 
-<a href="{{ site.baseurl }}/" class="back-link">← Back to Commons OS</a>
+<a href="{{ site.baseurl }}/" class="back-link">← Back to Pattern Engine</a>
 
 <div class="domain-header">
   <div class="icon-circle">🏢</div>
@@ -149,7 +157,7 @@ title: Business Patterns - Commons OS
 
 <div class="stats-row">
   <div class="stat-item">
-    <div class="number">926</div>
+    <div class="number">{{ site.patterns.size }}</div>
     <div class="label">Total Patterns</div>
   </div>
   <div class="stat-item">
@@ -162,77 +170,41 @@ title: Business Patterns - Commons OS
   </div>
 </div>
 
-<div class="section-header">
-  <h2>Universal Patterns</h2>
-  <p>Foundational principles that apply across all domains</p>
+<div class="filter-bar">
+  <button class="filter-btn active" data-filter="all">All Patterns</button>
+  <button class="filter-btn" data-filter="universal">Universal</button>
+  <button class="filter-btn" data-filter="human-universal">Human-Universal</button>
+  <button class="filter-btn" data-filter="domain">Domain</button>
+  <button class="filter-btn" data-filter="context-specific">Context-Specific</button>
+  <button class="filter-btn" data-filter="implementation">Implementation</button>
 </div>
-<div class="patterns-grid">
-  {% for pattern in site.universal %}
-  <a href="{{ site.baseurl }}{{ pattern.url }}" class="pattern-card">
+
+<div class="patterns-grid" id="patterns-container">
+  {% for pattern in site.patterns %}
+  {% assign universality = pattern.tags.universality | default: "domain" %}
+  <a href="{{ site.baseurl }}{{ pattern.url }}" class="pattern-card" data-universality="{{ universality }}">
     <h3>{{ pattern.title }}</h3>
     <div class="meta">
-      <span class="tag">Universal</span>
+      <span class="tag">{{ universality | capitalize }}</span>
     </div>
   </a>
   {% endfor %}
 </div>
 
-<div class="section-header">
-  <h2>Human-Universal Patterns</h2>
-  <p>Patterns that work across human cultures and contexts</p>
-</div>
-<div class="patterns-grid">
-  {% for pattern in site.human-universal %}
-  <a href="{{ site.baseurl }}{{ pattern.url }}" class="pattern-card">
-    <h3>{{ pattern.title }}</h3>
-    <div class="meta">
-      <span class="tag">Human-Universal</span>
-    </div>
-  </a>
-  {% endfor %}
-</div>
-
-<div class="section-header">
-  <h2>Domain Patterns</h2>
-  <p>Patterns specific to organizational and business contexts</p>
-</div>
-<div class="patterns-grid">
-  {% for pattern in site.domain %}
-  <a href="{{ site.baseurl }}{{ pattern.url }}" class="pattern-card">
-    <h3>{{ pattern.title }}</h3>
-    <div class="meta">
-      <span class="tag">Domain</span>
-    </div>
-  </a>
-  {% endfor %}
-</div>
-
-<div class="section-header">
-  <h2>Context-Specific Patterns</h2>
-  <p>Patterns tailored to specific industries or situations</p>
-</div>
-<div class="patterns-grid">
-  {% for pattern in site.context-specific %}
-  <a href="{{ site.baseurl }}{{ pattern.url }}" class="pattern-card">
-    <h3>{{ pattern.title }}</h3>
-    <div class="meta">
-      <span class="tag">Context-Specific</span>
-    </div>
-  </a>
-  {% endfor %}
-</div>
-
-<div class="section-header">
-  <h2>Implementation Patterns</h2>
-  <p>Concrete implementations and tools</p>
-</div>
-<div class="patterns-grid">
-  {% for pattern in site.implementation %}
-  <a href="{{ site.baseurl }}{{ pattern.url }}" class="pattern-card">
-    <h3>{{ pattern.title }}</h3>
-    <div class="meta">
-      <span class="tag">Implementation</span>
-    </div>
-  </a>
-  {% endfor %}
-</div>
+<script>
+document.querySelectorAll('.filter-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    
+    const filter = btn.dataset.filter;
+    document.querySelectorAll('.pattern-card').forEach(card => {
+      if (filter === 'all' || card.dataset.universality === filter) {
+        card.style.display = 'block';
+      } else {
+        card.style.display = 'none';
+      }
+    });
+  });
+});
+</script>

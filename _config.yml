@@ -1,6 +1,4 @@
 # Commons OS Pattern Library - Jekyll Configuration
-# GitHub Pages will use this to generate the static site
-
 title: Commons OS Pattern Library
 description: Open-source knowledge graph of organizational patterns for a more equitable and sustainable world
 url: "https://commons-os.github.io"
@@ -18,57 +16,23 @@ author:
 markdown: kramdown
 highlighter: rouge
 
-# Kramdown settings for better markdown rendering
+# Kramdown settings
 kramdown:
   input: GFM
   hard_wrap: false
   syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    default_lang: yaml
 
-# Collections for patterns by universality level
+# Single flat collection for all patterns
 collections:
-  universal:
+  patterns:
     output: true
-    permalink: /:collection/:name/
-  human-universal:
-    output: true
-    permalink: /:collection/:name/
-  domain:
-    output: true
-    permalink: /:collection/:name/
-  context-specific:
-    output: true
-    permalink: /:collection/:name/
-  implementation:
-    output: true
-    permalink: /:collection/:name/
+    permalink: /:name/
 
-# Default front matter
+# Default front matter for patterns
 defaults:
   - scope:
       path: ""
-      type: "universal"
-    values:
-      layout: "pattern"
-  - scope:
-      path: ""
-      type: "human-universal"
-    values:
-      layout: "pattern"
-  - scope:
-      path: ""
-      type: "domain"
-    values:
-      layout: "pattern"
-  - scope:
-      path: ""
-      type: "context-specific"
-    values:
-      layout: "pattern"
-  - scope:
-      path: ""
-      type: "implementation"
+      type: "patterns"
     values:
       layout: "pattern"
 
