@@ -5,7 +5,10 @@
     "slug": "31-systems-thinking-meadows",
     "level": "universal",
     "url": "/universal/31-systems-thinking-meadows/",
-    "aliases": [],
+    "aliases": [
+      "Thinking in Systems",
+      "Meadowsian Systems Thinking"
+    ],
     "tags": [
       "meta"
     ]
@@ -82,7 +85,10 @@
     "slug": "systems-thinking",
     "level": "universal",
     "url": "/universal/systems-thinking/",
-    "aliases": [],
+    "aliases": [
+      "Holistic Thinking",
+      "Complex Systems Thinking"
+    ],
     "tags": [
       "meta"
     ]
@@ -91,286 +97,272 @@
     "id": "pat_01kg5023vdecr9aqhgm6vrn97d",
     "title": "Consent Agenda - Quaker-Based",
     "slug": "10-consent-agenda-quaker-based",
-    "level": "human_universal",
+    "level": "human-universal",
     "url": "/human-universal/10-consent-agenda-quaker-based/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023veffgvjftvvtnx05sz",
     "title": "Zero Trust Security",
     "slug": "23-zero-trust-security",
-    "level": "human_universal",
+    "level": "human-universal",
     "url": "/human-universal/23-zero-trust-security/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023veffgvjftvw4v9njvv",
     "title": "Project-Based Learning",
     "slug": "72-project-based-learning",
-    "level": "human_universal",
+    "level": "human-universal",
     "url": "/human-universal/72-project-based-learning/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023veffgvjftvyx5gt7r4",
     "title": "Experiential Learning",
     "slug": "73-experiential-learning",
-    "level": "human_universal",
+    "level": "human-universal",
     "url": "/human-universal/73-experiential-learning/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023vfe319pmms6msc3xr5",
     "title": "Action Learning - Revans",
     "slug": "78-action-learning-revans",
-    "level": "human_universal",
+    "level": "human-universal",
     "url": "/human-universal/78-action-learning-revans/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023vfe319pmms9bf7qv9m",
     "title": "Psychological Safety",
     "slug": "82-psychological-safety-edmondson",
-    "level": "human_universal",
+    "level": "human-universal",
     "url": "/human-universal/82-psychological-safety-edmondson/",
     "aliases": [],
     "tags": [
-      "culture"
-    ]
-  },
-  {
-    "id": "",
-    "title": "Blended Learning",
-    "slug": "blended-learning",
-    "level": "human_universal",
-    "url": "/human-universal/blended-learning/",
-    "aliases": [],
-    "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023vgec9bpzpwctk4xpv1",
     "title": "Collective Leadership - Distributed Authority Models",
     "slug": "collective-leadership-distributed-authority-models",
-    "level": "human_universal",
+    "level": "human-universal",
     "url": "/human-universal/collective-leadership-distributed-authority-models/",
     "aliases": [],
     "tags": [
-      "governance"
-    ]
-  },
-  {
-    "id": "",
-    "title": "Community Land Trust (CLT) Development Models",
-    "slug": "community-land-trust-clt-development-models",
-    "level": "human_universal",
-    "url": "/human-universal/community-land-trust-clt-development-models/",
-    "aliases": [],
-    "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023vhev9b6swdpd3e6zy9",
-    "title": "Consent-Based Decision Making: Distinct from Consensus",
+    "title": "'Consent-Based Decision Making: Distinct from Consensus'",
     "slug": "consent-based-decision-making-distinct-from-consensus",
-    "level": "human_universal",
+    "level": "human-universal",
     "url": "/human-universal/consent-based-decision-making-distinct-from-consensus/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023vhev9b6swdrszd75z9",
     "title": "Consent-Based Decision Making",
     "slug": "consent-based-decision-making",
-    "level": "human_universal",
+    "level": "human-universal",
     "url": "/human-universal/consent-based-decision-making/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023vjetsaajnc11ej4vg5",
     "title": "Continuous Improvement (CI) - Generic Frameworks",
     "slug": "continuous-improvement-ci-generic-frameworks",
-    "level": "human_universal",
+    "level": "human-universal",
     "url": "/human-universal/continuous-improvement-ci-generic-frameworks/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023vjetsaajnc397n2n2m",
     "title": "Deep Learning for Defect Detection",
     "slug": "deep-learning-for-defect-detection",
-    "level": "human_universal",
+    "level": "human-universal",
     "url": "/human-universal/deep-learning-for-defect-detection/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023vke6gsrh5cwp1vsjec",
     "title": "Federated Learning",
     "slug": "federated-learning",
-    "level": "human_universal",
+    "level": "human-universal",
     "url": "/human-universal/federated-learning/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023vke6gsrh5cyb1wbkte",
     "title": "Gemba Kaizen - Shop Floor Improvement",
     "slug": "gemba-kaizen-shop-floor-improvement",
-    "level": "human_universal",
+    "level": "human-universal",
     "url": "/human-universal/gemba-kaizen-shop-floor-improvement/",
-    "aliases": [],
+    "aliases": [
+      "Gemba",
+      "Kaizen",
+      "Continuous Improvement",
+      "Lean Manufacturing"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023vke6gsrh5d1d62b8dq",
     "title": "Human-AI Collaboration Models",
     "slug": "human-ai-collaboration-models",
-    "level": "human_universal",
+    "level": "human-universal",
     "url": "/human-universal/human-ai-collaboration-models/",
     "aliases": [],
     "tags": [
-      "technology"
-    ]
-  },
-  {
-    "id": "",
-    "title": "Kaizen (Continuous Improvement)",
-    "slug": "kaizen-continuous-improvement",
-    "level": "human_universal",
-    "url": "/human-universal/kaizen-continuous-improvement/",
-    "aliases": [],
-    "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023vmfk9bnr9pzvxb1j3z",
     "title": "Kaizen",
     "slug": "kaizen-documented",
-    "level": "human_universal",
+    "level": "human-universal",
     "url": "/human-universal/kaizen-documented/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023vnfb1bfct0d6g13gv7",
     "title": "Land Trusts",
     "slug": "land-trusts-documented",
-    "level": "human_universal",
+    "level": "human-universal",
     "url": "/human-universal/land-trusts-documented/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023vnfb1bfct0ekd6f535",
     "title": "Learning Commons",
     "slug": "learning-commons",
-    "level": "human_universal",
+    "level": "human-universal",
     "url": "/human-universal/learning-commons/",
-    "aliases": [],
+    "aliases": [
+      "Scholars Commons",
+      "Information Commons"
+    ],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023vnfb1bfct0h3sg3yqf",
     "title": "Learning Organization (Senge)",
     "slug": "learning-organization-senge-if-distinct-from-organizational-learning",
-    "level": "human_universal",
+    "level": "human-universal",
     "url": "/human-universal/learning-organization-senge-if-distinct-from-organizational-learning/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023vpfrgr7sxzm8p1fym6",
     "title": "Machine Learning for Design",
     "slug": "machine-learning-for-design",
-    "level": "human_universal",
+    "level": "human-universal",
     "url": "/human-universal/machine-learning-for-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023vpfrgr7sxzpx4q5heb",
     "title": "Online Learning Models",
     "slug": "online-learning-models",
-    "level": "human_universal",
+    "level": "human-universal",
     "url": "/human-universal/online-learning-models/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023vqf39rban1nh99qmbf",
     "title": "Personalized Learning",
     "slug": "personalized-learning",
-    "level": "human_universal",
+    "level": "human-universal",
     "url": "/human-universal/personalized-learning/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
+    ]
+  },
+  {
+    "id": "pat_placeholder",
+    "title": "Psychological Safety (Edmondson)",
+    "slug": "psychological-safety-edmondson",
+    "level": "human-universal",
+    "url": "/human-universal/psychological-safety-edmondson/",
+    "aliases": [],
+    "tags": [
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023vqf39rban1rdba6bgq",
     "title": "Reinforcement Learning for Control Systems",
     "slug": "reinforcement-learning-for-control-systems",
-    "level": "human_universal",
+    "level": "human-universal",
     "url": "/human-universal/reinforcement-learning-for-control-systems/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023vrftsrqhnp8hkrt2ws",
     "title": "Wiki-Based Collaboration",
     "slug": "wiki-based-collaboration",
-    "level": "human_universal",
+    "level": "human-universal",
     "url": "/human-universal/wiki-based-collaboration/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
@@ -381,7 +373,7 @@
     "url": "/domain/1-sociocracy-original-gerard-endenburg/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -392,7 +384,7 @@
     "url": "/domain/1-triple-bottom-line-elkington/",
     "aliases": [],
     "tags": [
-      "sustainability"
+      "meta"
     ]
   },
   {
@@ -403,7 +395,7 @@
     "url": "/domain/100-complementary-currencies/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -414,7 +406,7 @@
     "url": "/domain/100-microservices-architecture/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -425,7 +417,7 @@
     "url": "/domain/11-industrial-ecology/",
     "aliases": [],
     "tags": [
-      "sustainability"
+      "meta"
     ]
   },
   {
@@ -436,7 +428,7 @@
     "url": "/domain/12-agile-governance/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -447,7 +439,7 @@
     "url": "/domain/12-symbiotic-networks-industrial-symbiosis/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -458,7 +450,7 @@
     "url": "/domain/13-regenerative-economics-fullerton/",
     "aliases": [],
     "tags": [
-      "sustainability"
+      "meta"
     ]
   },
   {
@@ -469,18 +461,7 @@
     "url": "/domain/14-board-governance-carver-policy-governance/",
     "aliases": [],
     "tags": [
-      "governance"
-    ]
-  },
-  {
-    "id": "",
-    "title": "Supply Chain Management - Stakeholder Approach",
-    "slug": "14-supply-chain-management-stakeholder-approach",
-    "level": "domain",
-    "url": "/domain/14-supply-chain-management-stakeholder-approach/",
-    "aliases": [],
-    "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -491,7 +472,7 @@
     "url": "/domain/15-cooperative-governance-mondragon-model/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -502,18 +483,7 @@
     "url": "/domain/15-open-innovation/",
     "aliases": [],
     "tags": [
-      "operations"
-    ]
-  },
-  {
-    "id": "pat_01kg5023vyfzhvteh01za2yrvr",
-    "title": "Behavior-Driven Development (BDD)",
-    "slug": "16-behavior-driven-development-bdd",
-    "level": "domain",
-    "url": "/domain/16-behavior-driven-development-bdd/",
-    "aliases": [],
-    "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -524,7 +494,7 @@
     "url": "/domain/16-six-sigma-motorolage/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -535,7 +505,7 @@
     "url": "/domain/17-lean-six-sigma/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -546,7 +516,7 @@
     "url": "/domain/17-service-oriented-architecture-soa/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -557,7 +527,7 @@
     "url": "/domain/18-api-first-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -568,7 +538,7 @@
     "url": "/domain/18-theory-of-constraints-goldratt/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -579,7 +549,7 @@
     "url": "/domain/19-platform-engineering/",
     "aliases": [],
     "tags": [
-      "domain"
+      "meta"
     ]
   },
   {
@@ -590,7 +560,7 @@
     "url": "/domain/2-stakeholder-capitalism-wef/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -601,7 +571,7 @@
     "url": "/domain/20-cloud-native-architecture/",
     "aliases": [],
     "tags": [
-      "domain"
+      "meta"
     ]
   },
   {
@@ -612,7 +582,7 @@
     "url": "/domain/21-serverless-computing/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -623,7 +593,7 @@
     "url": "/domain/22-edge-computing/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -634,7 +604,7 @@
     "url": "/domain/23-a3-thinking-toyota/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -645,7 +615,7 @@
     "url": "/domain/24-pdca-cycle-deming/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -654,9 +624,11 @@
     "slug": "24-privacy-by-design-cavoukian",
     "level": "domain",
     "url": "/domain/24-privacy-by-design-cavoukian/",
-    "aliases": [],
+    "aliases": [
+      "PbD"
+    ],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -667,7 +639,7 @@
     "url": "/domain/26-value-stream-mapping/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -678,7 +650,7 @@
     "url": "/domain/27-digital-twin-technology/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -689,7 +661,7 @@
     "url": "/domain/27-just-in-time-jit/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -700,7 +672,7 @@
     "url": "/domain/28-jidoka-automation-with-human-touch/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -711,7 +683,7 @@
     "url": "/domain/29-domain-driven-design-ddd/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -722,7 +694,7 @@
     "url": "/domain/29-poka-yoke-error-proofing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -733,7 +705,7 @@
     "url": "/domain/30-andon-system-visual-management/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -744,7 +716,7 @@
     "url": "/domain/30-event-driven-architecture/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -755,7 +727,7 @@
     "url": "/domain/31-heijunka-production-leveling/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -764,9 +736,12 @@
     "slug": "33-pull-systems",
     "level": "domain",
     "url": "/domain/33-pull-systems/",
-    "aliases": [],
+    "aliases": [
+      "Pull Production",
+      "Just-in-Time Production"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -775,9 +750,12 @@
     "slug": "34-adaptive-management-holling",
     "level": "domain",
     "url": "/domain/34-adaptive-management-holling/",
-    "aliases": [],
+    "aliases": [
+      "Adaptive Resource Management",
+      "Adaptive Environmental Assessment and Management"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -788,7 +766,7 @@
     "url": "/domain/34-extreme-programming-xp/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -810,7 +788,7 @@
     "url": "/domain/35-spotify-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -821,7 +799,7 @@
     "url": "/domain/36-balanced-scorecard-kaplan-norton/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -832,18 +810,20 @@
     "url": "/domain/36-metamodernism-hanzi-freinacht/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023w4eagvvdvdb8axdvkj",
-    "title": "Strategy Maps: Kaplan & Norton",
+    "title": "'Strategy Maps: Kaplan & Norton'",
     "slug": "37-strategy-maps-kaplan-norton",
     "level": "domain",
     "url": "/domain/37-strategy-maps-kaplan-norton/",
-    "aliases": [],
+    "aliases": [
+      "Strategy Mapping"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -854,7 +834,7 @@
     "url": "/domain/38-relational-ontology-indigenousfeminist/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -865,7 +845,7 @@
     "url": "/domain/38-x-matrix-hoshin-kanri/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -876,7 +856,7 @@
     "url": "/domain/39-care-ethics-gilligan-tronto/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -887,7 +867,7 @@
     "url": "/domain/39-swot-analysis/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -898,7 +878,7 @@
     "url": "/domain/4-inclusive-business-bop-strategies/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -909,7 +889,7 @@
     "url": "/domain/4-quadratic-voting-weyl-posner/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -920,7 +900,7 @@
     "url": "/domain/40-tows-matrix/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -931,18 +911,7 @@
     "url": "/domain/41-agroecology/",
     "aliases": [],
     "tags": [
-      "sustainability"
-    ]
-  },
-  {
-    "id": "",
-    "title": "Porter's Five Forces",
-    "slug": "41-porters-five-forces",
-    "level": "domain",
-    "url": "/domain/41-porters-five-forces/",
-    "aliases": [],
-    "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -951,9 +920,11 @@
     "slug": "42-biodynamic-agriculture",
     "level": "domain",
     "url": "/domain/42-biodynamic-agriculture/",
-    "aliases": [],
+    "aliases": [
+      "Anthroposophic Agriculture"
+    ],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
@@ -962,9 +933,12 @@
     "slug": "42-porters-generic-strategies",
     "level": "domain",
     "url": "/domain/42-porters-generic-strategies/",
-    "aliases": [],
+    "aliases": [
+      "Porter's Competitive Strategies",
+      "Generic Competitive Strategies"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -973,9 +947,11 @@
     "slug": "43-organic-certification-systems",
     "level": "domain",
     "url": "/domain/43-organic-certification-systems/",
-    "aliases": [],
+    "aliases": [
+      "Organic Verification Systems"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -986,7 +962,7 @@
     "url": "/domain/43-value-chain-analysis-porter/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -997,7 +973,7 @@
     "url": "/domain/44-bcg-matrix-boston-consulting-group/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1008,7 +984,7 @@
     "url": "/domain/44-fair-trade/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -1019,7 +995,7 @@
     "url": "/domain/45-ge-mckinsey-matrix/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1030,7 +1006,7 @@
     "url": "/domain/46-ansoff-matrix-growth-strategies/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1041,7 +1017,7 @@
     "url": "/domain/46-slow-food-movement/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1052,7 +1028,7 @@
     "url": "/domain/47-farm-to-table/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1063,7 +1039,7 @@
     "url": "/domain/47-strategy-diamond-hambrick-frederickson/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1074,7 +1050,7 @@
     "url": "/domain/48-mckinsey-7s/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1085,7 +1061,7 @@
     "url": "/domain/49-community-gardens/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
@@ -1096,7 +1072,7 @@
     "url": "/domain/5-futarchy-robin-hanson/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1107,7 +1083,7 @@
     "url": "/domain/5-social-license-to-operate/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1118,7 +1094,7 @@
     "url": "/domain/50-pestel-analysis/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1127,9 +1103,11 @@
     "slug": "51-lean-canvas-ash-maurya",
     "level": "domain",
     "url": "/domain/51-lean-canvas-ash-maurya/",
-    "aliases": [],
+    "aliases": [
+      "Lean Business Canvas"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1140,7 +1118,7 @@
     "url": "/domain/53-jobs-to-be-done-christensen/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1151,7 +1129,7 @@
     "url": "/domain/54-freemium-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1162,7 +1140,7 @@
     "url": "/domain/55-subscription-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1173,7 +1151,7 @@
     "url": "/domain/57-franchise-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1184,7 +1162,7 @@
     "url": "/domain/58-open-source-business-models/",
     "aliases": [],
     "tags": [
-      "value-creation"
+      "meta"
     ]
   },
   {
@@ -1195,7 +1173,7 @@
     "url": "/domain/59-b-corporation-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1206,7 +1184,7 @@
     "url": "/domain/59-maker-movement/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1217,7 +1195,7 @@
     "url": "/domain/6-corporate-social-responsibility-csr/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1228,18 +1206,18 @@
     "url": "/domain/60-social-enterprise-models/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023wdeh98phj12medq9n2",
-    "title": "Doughnut Economics: Kate Raworth",
+    "title": "'Doughnut Economics: Kate Raworth'",
     "slug": "61-doughnut-economics-kate-raworth",
     "level": "domain",
     "url": "/domain/61-doughnut-economics-kate-raworth/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1250,7 +1228,7 @@
     "url": "/domain/61-integrated-care/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1261,7 +1239,7 @@
     "url": "/domain/62-patient-centered-care/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1272,7 +1250,7 @@
     "url": "/domain/62-wellbeing-economy/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1283,7 +1261,7 @@
     "url": "/domain/63-steady-state-economics-herman-daly/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1294,7 +1272,7 @@
     "url": "/domain/63-value-based-care/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1305,7 +1283,7 @@
     "url": "/domain/64-mutual-aid-networks/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -1316,7 +1294,7 @@
     "url": "/domain/64-population-health-management/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1327,7 +1305,7 @@
     "url": "/domain/65-community-wealth-building-preston-model/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -1338,7 +1316,7 @@
     "url": "/domain/65-holistic-health/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1349,7 +1327,7 @@
     "url": "/domain/66-foundational-economy/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1358,9 +1336,13 @@
     "slug": "66-preventive-health",
     "level": "domain",
     "url": "/domain/66-preventive-health/",
-    "aliases": [],
+    "aliases": [
+      "Corporate Wellness",
+      "Workplace Wellness",
+      "Proactive Health Management"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1371,7 +1353,7 @@
     "url": "/domain/67-one-health-approach/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1380,9 +1362,12 @@
     "slug": "67-solidarity-economy",
     "level": "domain",
     "url": "/domain/67-solidarity-economy/",
-    "aliases": [],
+    "aliases": [
+      "Social and Solidarity Economy",
+      "SSE"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1393,7 +1378,7 @@
     "url": "/domain/68-cooperative-business-models-detailed/",
     "aliases": [],
     "tags": [
-      "value-creation"
+      "meta"
     ]
   },
   {
@@ -1404,7 +1389,7 @@
     "url": "/domain/69-impact-business-models/",
     "aliases": [],
     "tags": [
-      "value-creation"
+      "meta"
     ]
   },
   {
@@ -1415,18 +1400,7 @@
     "url": "/domain/70-regenerative-business-models/",
     "aliases": [],
     "tags": [
-      "value-creation"
-    ]
-  },
-  {
-    "id": "",
-    "title": "Conscious Capitalism",
-    "slug": "71-conscious-capitalism-mackey-sisodia",
-    "level": "domain",
-    "url": "/domain/71-conscious-capitalism-mackey-sisodia/",
-    "aliases": [],
-    "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -1437,7 +1411,7 @@
     "url": "/domain/72-servant-leadership-greenleaf/",
     "aliases": [],
     "tags": [
-      "sustainability"
+      "meta"
     ]
   },
   {
@@ -1448,18 +1422,18 @@
     "url": "/domain/73-transformational-leadership-burns-bass/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023wkey887v6x9h9rmanf",
-    "title": "Authentic Leadership: George",
+    "title": "'Authentic Leadership: George'",
     "slug": "74-authentic-leadership-george",
     "level": "domain",
     "url": "/domain/74-authentic-leadership-george/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1468,9 +1442,12 @@
     "slug": "75-adaptive-leadership-heifetz",
     "level": "domain",
     "url": "/domain/75-adaptive-leadership-heifetz/",
-    "aliases": [],
+    "aliases": [
+      "Heifetz-Linsky-Grashow Model",
+      "Leadership on the Line"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1481,7 +1458,7 @@
     "url": "/domain/76-distributed-leadership-spillane/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1492,7 +1469,7 @@
     "url": "/domain/77-renewable-energy-systems/",
     "aliases": [],
     "tags": [
-      "sustainability"
+      "meta"
     ]
   },
   {
@@ -1503,7 +1480,7 @@
     "url": "/domain/79-microgrids/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1525,7 +1502,7 @@
     "url": "/domain/8-un-sustainable-development-goals-sdgs/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -1536,18 +1513,7 @@
     "url": "/domain/8-workplace-democracy/",
     "aliases": [],
     "tags": [
-      "governance"
-    ]
-  },
-  {
-    "id": "",
-    "title": "Community Energy Cooperatives",
-    "slug": "80-community-energy-cooperatives",
-    "level": "domain",
-    "url": "/domain/80-community-energy-cooperatives/",
-    "aliases": [],
-    "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
@@ -1556,9 +1522,12 @@
     "slug": "80-seci-model-knowledge-creation-nonaka-takeuchi",
     "level": "domain",
     "url": "/domain/80-seci-model-knowledge-creation-nonaka-takeuchi/",
-    "aliases": [],
+    "aliases": [
+      "SECI Model",
+      "Nonaka-Takeuchi Model"
+    ],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
@@ -1567,9 +1536,12 @@
     "slug": "81-demand-response",
     "level": "domain",
     "url": "/domain/81-demand-response/",
-    "aliases": [],
+    "aliases": [
+      "Load Response",
+      "Demand Side Response"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1580,7 +1552,7 @@
     "url": "/domain/81-emotional-intelligence-goleman/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1591,7 +1563,7 @@
     "url": "/domain/82-net-zero-energy/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1602,7 +1574,7 @@
     "url": "/domain/83-activity-based-costing-abc/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1613,7 +1585,7 @@
     "url": "/domain/84-zero-based-budgeting/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1622,9 +1594,12 @@
     "slug": "85-mittelstand-german-sme-model",
     "level": "domain",
     "url": "/domain/85-mittelstand-german-sme-model/",
-    "aliases": [],
+    "aliases": [
+      "Hidden Champions",
+      "German Mittelstand"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1635,7 +1610,7 @@
     "url": "/domain/85-rolling-forecasts/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1646,7 +1621,7 @@
     "url": "/domain/86-italian-industrial-districts/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1655,9 +1630,12 @@
     "slug": "86-throughput-accounting-toc",
     "level": "domain",
     "url": "/domain/86-throughput-accounting-toc/",
-    "aliases": [],
+    "aliases": [
+      "Theory of Constraints Accounting",
+      "Constraint Accounting"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1668,7 +1646,7 @@
     "url": "/domain/88-harambee-kenya/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1677,9 +1655,12 @@
     "slug": "88-target-costing",
     "level": "domain",
     "url": "/domain/88-target-costing/",
-    "aliases": [],
+    "aliases": [
+      "Target Cost Management",
+      "Genka Kikaku"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1688,9 +1669,13 @@
     "slug": "89-multi-capital-accounting-eight-capitals",
     "level": "domain",
     "url": "/domain/89-multi-capital-accounting-eight-capitals/",
-    "aliases": [],
+    "aliases": [
+      "Multi-Capitalism",
+      "Integrated Reporting",
+      "Thrivability"
+    ],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -1699,31 +1684,23 @@
     "slug": "89-ujamaa-tanzania",
     "level": "domain",
     "url": "/domain/89-ujamaa-tanzania/",
-    "aliases": [],
+    "aliases": [
+      "African Socialism",
+      "Familyhood"
+    ],
     "tags": [
-      "operations"
-    ]
-  },
-  {
-    "id": "",
-    "title": "Collective Leadership",
-    "slug": "9-collective-leadership",
-    "level": "domain",
-    "url": "/domain/9-collective-leadership/",
-    "aliases": [],
-    "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023wzfh8v37zk6xqjbnzk",
-    "title": "Planetary Boundaries: Stockholm Resilience",
+    "title": "'Planetary Boundaries: Stockholm Resilience'",
     "slug": "9-planetary-boundaries-stockholm-resilience",
     "level": "domain",
     "url": "/domain/9-planetary-boundaries-stockholm-resilience/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1732,9 +1709,12 @@
     "slug": "90-confucian-business-ethics",
     "level": "domain",
     "url": "/domain/90-confucian-business-ethics/",
-    "aliases": [],
+    "aliases": [
+      "Confucian Ethics in Business",
+      "Rushang"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1745,7 +1725,7 @@
     "url": "/domain/91-buddhist-economics-schumacher/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1756,18 +1736,7 @@
     "url": "/domain/91-integrated-reporting-ir-framework/",
     "aliases": [],
     "tags": [
-      "implementation"
-    ]
-  },
-  {
-    "id": "",
-    "title": "GRI Standards - Sustainability Reporting",
-    "slug": "92-gri-standards-sustainability-reporting",
-    "level": "domain",
-    "url": "/domain/92-gri-standards-sustainability-reporting/",
-    "aliases": [],
-    "tags": [
-      "sustainability"
+      "meta"
     ]
   },
   {
@@ -1778,7 +1747,7 @@
     "url": "/domain/93-b-impact-assessment/",
     "aliases": [],
     "tags": [
-      "sustainability"
+      "meta"
     ]
   },
   {
@@ -1789,7 +1758,7 @@
     "url": "/domain/93-stakeholder-councils/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1798,9 +1767,12 @@
     "slug": "94-common-good-balance-sheet-economy-for-common-good",
     "level": "domain",
     "url": "/domain/94-common-good-balance-sheet-economy-for-common-good/",
-    "aliases": [],
+    "aliases": [
+      "ECG Balance Sheet",
+      "Common Good Matrix"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1811,7 +1783,7 @@
     "url": "/domain/94-network-governance/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -1822,7 +1794,7 @@
     "url": "/domain/95-federated-governance/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -1833,7 +1805,7 @@
     "url": "/domain/96-credit-union-governance/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -1844,7 +1816,7 @@
     "url": "/domain/96-test-driven-development-tdd/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -1855,7 +1827,7 @@
     "url": "/domain/97-continuous-integrationcontinuous-deployment-cicd/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -1866,7 +1838,7 @@
     "url": "/domain/98-reputation-based-governance/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -1877,7 +1849,7 @@
     "url": "/domain/98-site-reliability-engineering-sre-google/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -1888,7 +1860,7 @@
     "url": "/domain/99-community-currencies-local-exchange/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
@@ -1899,7 +1871,7 @@
     "url": "/domain/99-infrastructure-as-code-iac/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -1910,7 +1882,7 @@
     "url": "/domain/a3-thinking-toyota-problem-solving/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1921,7 +1893,7 @@
     "url": "/domain/a3-thinking-toyota/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1932,7 +1904,7 @@
     "url": "/domain/ab-testing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1943,7 +1915,7 @@
     "url": "/domain/aboriginal-australian-systems/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1954,7 +1926,7 @@
     "url": "/domain/academic-strategy-models/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1965,7 +1937,7 @@
     "url": "/domain/activity-based-costing-abc-cost-allocation/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1974,9 +1946,11 @@
     "slug": "adaptive-management-holling",
     "level": "domain",
     "url": "/domain/adaptive-management-holling/",
-    "aliases": [],
+    "aliases": [
+      "Adaptive Environmental Assessment and Management"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -1987,7 +1961,7 @@
     "url": "/domain/adhocracy-mintzberg/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2009,7 +1983,7 @@
     "url": "/domain/advanced-product-quality-planning-apqp/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2020,7 +1994,7 @@
     "url": "/domain/advertising-model-attention-economy/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2031,7 +2005,7 @@
     "url": "/domain/advisory-boards-governance/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -2042,7 +2016,7 @@
     "url": "/domain/african-socialism/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2053,7 +2027,7 @@
     "url": "/domain/african-traditional-systems/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2064,7 +2038,7 @@
     "url": "/domain/after-action-reviews/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2075,7 +2049,7 @@
     "url": "/domain/agency-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2086,7 +2060,7 @@
     "url": "/domain/aggregator-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2095,9 +2069,12 @@
     "slug": "agile-governance-it-governance-frameworks",
     "level": "domain",
     "url": "/domain/agile-governance-it-governance-frameworks/",
-    "aliases": [],
+    "aliases": [
+      "Agile IT Governance",
+      "Lean Governance"
+    ],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -2108,7 +2085,7 @@
     "url": "/domain/agile-software-development-manifesto-principles/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -2119,7 +2096,7 @@
     "url": "/domain/agile-software-development/",
     "aliases": [],
     "tags": [
-      "domain"
+      "meta"
     ]
   },
   {
@@ -2130,7 +2107,7 @@
     "url": "/domain/agile-unified-process-aup/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -2141,7 +2118,7 @@
     "url": "/domain/ai-alignment-research/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -2152,7 +2129,7 @@
     "url": "/domain/ai-assisted-engineering-optimization/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -2163,7 +2140,7 @@
     "url": "/domain/ai-augmented-organizations/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -2174,7 +2151,7 @@
     "url": "/domain/ai-cooperatives/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -2183,9 +2160,12 @@
     "slug": "ai-driven-topology-optimization",
     "level": "domain",
     "url": "/domain/ai-driven-topology-optimization/",
-    "aliases": [],
+    "aliases": [
+      "Machine Learning-Based Topology Optimization",
+      "Deep Learning Topology Optimization"
+    ],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -2196,7 +2176,7 @@
     "url": "/domain/ai-for-social-good/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -2207,7 +2187,7 @@
     "url": "/domain/ai-governance-models/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -2218,7 +2198,7 @@
     "url": "/domain/ai-powered-design-assistants/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -2229,7 +2209,7 @@
     "url": "/domain/ai-powered-simulation/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -2240,7 +2220,7 @@
     "url": "/domain/algorithmic-management/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2251,7 +2231,7 @@
     "url": "/domain/amazonian-indigenous-systems/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2262,7 +2242,7 @@
     "url": "/domain/andon-system/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2273,7 +2253,7 @@
     "url": "/domain/ansoff-matrix/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2284,7 +2264,7 @@
     "url": "/domain/api-first-design-interface-driven/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -2295,7 +2275,7 @@
     "url": "/domain/appreciative-inquiry-if-not-in-strategy/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -2306,7 +2286,7 @@
     "url": "/domain/aquaponics/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2317,7 +2297,7 @@
     "url": "/domain/arctic-indigenous-systems/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2328,7 +2308,7 @@
     "url": "/domain/arp4754-guidelines-for-development-of-civil-aircraft-and-systems/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -2339,7 +2319,7 @@
     "url": "/domain/arts-and-crafts-movement-design-principles/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -2350,7 +2330,7 @@
     "url": "/domain/as9100-quality-management-system/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2361,7 +2341,7 @@
     "url": "/domain/asian-indigenous-systems/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2372,7 +2352,7 @@
     "url": "/domain/asset-light-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2383,7 +2363,7 @@
     "url": "/domain/auction-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2394,7 +2374,7 @@
     "url": "/domain/augmented-reality-ar-product-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -2403,9 +2383,12 @@
     "slug": "austrian-economics",
     "level": "domain",
     "url": "/domain/austrian-economics/",
-    "aliases": [],
+    "aliases": [
+      "Austrian School of Economics",
+      "Vienna School"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2416,7 +2399,7 @@
     "url": "/domain/autogestion-worker-self-management/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2427,7 +2410,7 @@
     "url": "/domain/automated-decision-systems/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2438,7 +2421,7 @@
     "url": "/domain/axiomatic-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -2449,7 +2432,7 @@
     "url": "/domain/b-corporation-model-benefit-corporation/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2460,7 +2443,7 @@
     "url": "/domain/b-impact-assessment-b-corp-measurement/",
     "aliases": [],
     "tags": [
-      "sustainability"
+      "meta"
     ]
   },
   {
@@ -2471,7 +2454,7 @@
     "url": "/domain/bcg-matrix/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2482,7 +2465,7 @@
     "url": "/domain/bauhaus-design-philosophy/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -2493,7 +2476,7 @@
     "url": "/domain/behavior-driven-development-bdd/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -2504,7 +2487,7 @@
     "url": "/domain/behavioral-economics/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2515,7 +2498,7 @@
     "url": "/domain/behavioral-management-mcgregor-xy/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2524,9 +2507,13 @@
     "slug": "benchmarking",
     "level": "domain",
     "url": "/domain/benchmarking/",
-    "aliases": [],
+    "aliases": [
+      "Competitive Benchmarking",
+      "Process Benchmarking",
+      "Strategic Benchmarking"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2537,7 +2524,7 @@
     "url": "/domain/beneficial-ai/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -2548,7 +2535,7 @@
     "url": "/domain/biomimicry/",
     "aliases": [],
     "tags": [
-      "sustainability"
+      "meta"
     ]
   },
   {
@@ -2557,9 +2544,13 @@
     "slug": "blockchain-governance-beyond-daos",
     "level": "domain",
     "url": "/domain/blockchain-governance-beyond-daos/",
-    "aliases": [],
+    "aliases": [
+      "Decentralized Governance",
+      "Hybrid Governance Models",
+      "Post-DAO Governance"
+    ],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -2570,7 +2561,7 @@
     "url": "/domain/blue-ocean-strategy-innovation/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2581,7 +2572,7 @@
     "url": "/domain/blue-ocean-strategy-value-innovation/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2592,7 +2583,7 @@
     "url": "/domain/board-governance-models-carver-policy-governance/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -2603,7 +2594,7 @@
     "url": "/domain/brain-computer-interface-bci-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -2614,7 +2605,7 @@
     "url": "/domain/break-even-analysis/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2625,7 +2616,7 @@
     "url": "/domain/british-cooperative-movement/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2636,7 +2627,7 @@
     "url": "/domain/brokerage-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2647,7 +2638,7 @@
     "url": "/domain/buddhist-economics/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2658,18 +2649,7 @@
     "url": "/domain/buen-vivir-documented/",
     "aliases": [],
     "tags": [
-      "operations"
-    ]
-  },
-  {
-    "id": "",
-    "title": "Building Information Modeling (BIM)",
-    "slug": "building-information-modeling-bim",
-    "level": "domain",
-    "url": "/domain/building-information-modeling-bim/",
-    "aliases": [],
-    "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -2691,7 +2671,7 @@
     "url": "/domain/cadcam-integration/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2702,7 +2682,7 @@
     "url": "/domain/capital-budgeting/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -2713,7 +2693,7 @@
     "url": "/domain/carbon-neutral-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -2724,7 +2704,7 @@
     "url": "/domain/care-ethics-gilligan-tronto/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2733,20 +2713,12 @@
     "slug": "cash-flow-management",
     "level": "domain",
     "url": "/domain/cash-flow-management/",
-    "aliases": [],
+    "aliases": [
+      "Financial Resilience",
+      "Liquidity Management"
+    ],
     "tags": [
-      "operations"
-    ]
-  },
-  {
-    "id": "",
-    "title": "Chaebol R&D Structure",
-    "slug": "chaebol-rd-structure",
-    "level": "domain",
-    "url": "/domain/chaebol-rd-structure/",
-    "aliases": [],
-    "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2757,7 +2729,7 @@
     "url": "/domain/change-management-models-beyond-documented/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2768,7 +2740,7 @@
     "url": "/domain/chaos-engineering/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -2779,7 +2751,7 @@
     "url": "/domain/charismatic-leadership/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2790,7 +2762,7 @@
     "url": "/domain/chinese-guanxi-networks/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2799,9 +2771,12 @@
     "slug": "chinese-state-capitalism",
     "level": "domain",
     "url": "/domain/chinese-state-capitalism/",
-    "aliases": [],
+    "aliases": [
+      "Party-State Capitalism",
+      "Socialism with Chinese Characteristics"
+    ],
     "tags": [
-      "domain"
+      "meta"
     ]
   },
   {
@@ -2812,7 +2787,7 @@
     "url": "/domain/circuit-simulation-spice/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -2823,7 +2798,7 @@
     "url": "/domain/circular-economy-design-principles/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -2834,7 +2809,7 @@
     "url": "/domain/circular-economy/",
     "aliases": [],
     "tags": [
-      "sustainability"
+      "meta"
     ]
   },
   {
@@ -2845,7 +2820,7 @@
     "url": "/domain/classical-economics-smith/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2856,7 +2831,7 @@
     "url": "/domain/cloud-native-architecture-kubernetes-containers/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -2867,7 +2842,7 @@
     "url": "/domain/cloud-native-development/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -2878,7 +2853,7 @@
     "url": "/domain/cmmi-for-development-aerospace/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -2889,7 +2864,7 @@
     "url": "/domain/co-creation/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2898,9 +2873,12 @@
     "slug": "co-housing",
     "level": "domain",
     "url": "/domain/co-housing/",
-    "aliases": [],
+    "aliases": [
+      "cooperative housing",
+      "collaborative housing"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2911,7 +2889,7 @@
     "url": "/domain/collaborative-filtering/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2922,7 +2900,7 @@
     "url": "/domain/collective-intelligence/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2933,7 +2911,7 @@
     "url": "/domain/collective-leadership-various-models/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2944,7 +2922,7 @@
     "url": "/domain/commons-based-peer-production/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2955,7 +2933,7 @@
     "url": "/domain/commons-governance-various-models/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -2966,7 +2944,7 @@
     "url": "/domain/commons-transition-strategies/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -2977,7 +2955,7 @@
     "url": "/domain/community-based-resource-management/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
@@ -2988,7 +2966,7 @@
     "url": "/domain/community-energy/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
@@ -2999,7 +2977,7 @@
     "url": "/domain/community-owned-production/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3010,7 +2988,7 @@
     "url": "/domain/complementary-currencies-parallel-systems/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3021,7 +2999,7 @@
     "url": "/domain/complementary-medicine/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3032,7 +3010,7 @@
     "url": "/domain/computational-fluid-dynamics-cfd-in-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3043,7 +3021,7 @@
     "url": "/domain/computer-vision-for-quality-control/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3054,7 +3032,7 @@
     "url": "/domain/concurrent-engineering/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3065,7 +3043,7 @@
     "url": "/domain/concurrent-product-development/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3076,7 +3054,7 @@
     "url": "/domain/configuration-management/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3087,7 +3065,7 @@
     "url": "/domain/conflict-resolution-models/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3098,7 +3076,7 @@
     "url": "/domain/conglomerate-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3109,7 +3087,7 @@
     "url": "/domain/consensus-based-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3120,7 +3098,7 @@
     "url": "/domain/consulting-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3131,7 +3109,7 @@
     "url": "/domain/contextual-inquiry/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3142,7 +3120,7 @@
     "url": "/domain/contingency-leadership-fiedler/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3164,7 +3142,7 @@
     "url": "/domain/continuous-deliverydeployment-cd/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3175,7 +3153,7 @@
     "url": "/domain/continuous-integration-ci/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3186,7 +3164,7 @@
     "url": "/domain/continuous-integrationcontinuous-deployment-cicd-automation/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3197,7 +3175,7 @@
     "url": "/domain/control-charts/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3208,7 +3186,7 @@
     "url": "/domain/cooperative-business-models-worker-consumer-producer/",
     "aliases": [],
     "tags": [
-      "value-creation"
+      "meta"
     ]
   },
   {
@@ -3219,7 +3197,7 @@
     "url": "/domain/cooperative-design-principles/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3230,7 +3208,7 @@
     "url": "/domain/cooperative-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3241,7 +3219,7 @@
     "url": "/domain/cooperative-economics/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3252,7 +3230,7 @@
     "url": "/domain/cooperative-governance-models-rochdale-mondragon-variants/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -3263,7 +3241,7 @@
     "url": "/domain/cooperative-supply-chains/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3274,7 +3252,7 @@
     "url": "/domain/copyfair-licensing/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -3296,18 +3274,18 @@
     "url": "/domain/core-competence/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023y6fxsa08h2ab6zb90p",
-    "title": "Corporate Social Responsibility (CSR): Traditional Model",
+    "title": "'Corporate Social Responsibility (CSR): Traditional Model'",
     "slug": "corporate-social-responsibility-csr-traditional-model",
     "level": "domain",
     "url": "/domain/corporate-social-responsibility-csr-traditional-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3318,7 +3296,7 @@
     "url": "/domain/cradle-to-cradle-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3329,7 +3307,7 @@
     "url": "/domain/crowdsourcing-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3340,7 +3318,7 @@
     "url": "/domain/crowdsourcing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3351,7 +3329,7 @@
     "url": "/domain/cultural-intelligence/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3362,7 +3340,7 @@
     "url": "/domain/customer-experience-cx-management/",
     "aliases": [],
     "tags": [
-      "value-creation"
+      "meta"
     ]
   },
   {
@@ -3373,7 +3351,7 @@
     "url": "/domain/customer-journey-mapping/",
     "aliases": [],
     "tags": [
-      "value-creation"
+      "meta"
     ]
   },
   {
@@ -3384,7 +3362,7 @@
     "url": "/domain/cyber-physical-systems-cps/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3395,7 +3373,7 @@
     "url": "/domain/daos-documented/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3406,7 +3384,7 @@
     "url": "/domain/data-monetization-information-economy/",
     "aliases": [],
     "tags": [
-      "value-creation"
+      "meta"
     ]
   },
   {
@@ -3417,7 +3395,7 @@
     "url": "/domain/de-stijl-movement/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3428,7 +3406,7 @@
     "url": "/domain/decentralized-ai/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -3439,7 +3417,7 @@
     "url": "/domain/degrowth-documented/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3450,7 +3428,7 @@
     "url": "/domain/deliberative-democracy-fishkin/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -3461,7 +3439,7 @@
     "url": "/domain/deliberative-democracy-fishkins-model/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -3470,9 +3448,12 @@
     "slug": "democratic-schools",
     "level": "domain",
     "url": "/domain/democratic-schools/",
-    "aliases": [],
+    "aliases": [
+      "Free Schools",
+      "Self-Directed Education"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3483,7 +3464,7 @@
     "url": "/domain/design-for-aesthetics/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3494,7 +3475,7 @@
     "url": "/domain/design-for-assembly-dfa/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3505,7 +3486,7 @@
     "url": "/domain/design-for-corrosion-resistance/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3516,7 +3497,7 @@
     "url": "/domain/design-for-cost/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3527,7 +3508,7 @@
     "url": "/domain/design-for-disassembly/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3538,7 +3519,7 @@
     "url": "/domain/design-for-environment-dfe/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3549,7 +3530,7 @@
     "url": "/domain/design-for-ergonomics/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3560,7 +3541,7 @@
     "url": "/domain/design-for-maintainability/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3571,7 +3552,7 @@
     "url": "/domain/design-for-manufacture-dfm/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3582,7 +3563,7 @@
     "url": "/domain/design-for-quality/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3593,7 +3574,7 @@
     "url": "/domain/design-for-recycling/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3604,7 +3585,7 @@
     "url": "/domain/design-for-reliability/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3615,7 +3596,7 @@
     "url": "/domain/design-for-safety/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3626,18 +3607,7 @@
     "url": "/domain/design-for-serviceability/",
     "aliases": [],
     "tags": [
-      "design"
-    ]
-  },
-  {
-    "id": "",
-    "title": "Design for Six Sigma (DFSS)",
-    "slug": "design-for-six-sigma-dfss",
-    "level": "domain",
-    "url": "/domain/design-for-six-sigma-dfss/",
-    "aliases": [],
-    "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3648,7 +3618,7 @@
     "url": "/domain/design-for-test-dft/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3659,7 +3629,7 @@
     "url": "/domain/design-for-sustainability-dfs/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3670,7 +3640,7 @@
     "url": "/domain/design-for-testability/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3681,7 +3651,7 @@
     "url": "/domain/design-for-x-dfx/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3692,7 +3662,7 @@
     "url": "/domain/design-history-file-dhf/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3703,7 +3673,7 @@
     "url": "/domain/design-patterns-gang-of-four/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3714,7 +3684,7 @@
     "url": "/domain/design-thinking/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3725,7 +3695,7 @@
     "url": "/domain/devops/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3736,7 +3706,7 @@
     "url": "/domain/digital-twin-technology-virtual-representations/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -3747,7 +3717,7 @@
     "url": "/domain/direct-sales-model/",
     "aliases": [],
     "tags": [
-      "value-creation"
+      "meta"
     ]
   },
   {
@@ -3758,7 +3728,7 @@
     "url": "/domain/disciplined-agile-delivery-dad/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3769,7 +3739,7 @@
     "url": "/domain/discounted-cash-flow-dcf/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3780,7 +3750,7 @@
     "url": "/domain/disruptive-innovation-strategy/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3802,7 +3772,7 @@
     "url": "/domain/distributed-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3813,7 +3783,7 @@
     "url": "/domain/diy-do-it-yourself-culture/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
@@ -3824,7 +3794,7 @@
     "url": "/domain/dmaic-six-sigma-methodology/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3835,18 +3805,18 @@
     "url": "/domain/dmaic-six-sigma/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023yff49sdcxh4pwn9kb5",
-    "title": "Documented: Published, Described, Accessible",
+    "title": "'Documented: Published, Described, Accessible'",
     "slug": "documented-published-described-accessible",
     "level": "domain",
     "url": "/domain/documented-published-described-accessible/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3857,7 +3827,7 @@
     "url": "/domain/domain-driven-design-ddd/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3868,7 +3838,7 @@
     "url": "/domain/donut-economics-documented/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3879,7 +3849,7 @@
     "url": "/domain/doughnut-economics-product-application/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3890,7 +3860,7 @@
     "url": "/domain/driver-based-planning-predictive-modeling/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3901,7 +3871,7 @@
     "url": "/domain/dynamic-capabilities/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3912,7 +3882,7 @@
     "url": "/domain/ecodesign/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -3923,7 +3893,7 @@
     "url": "/domain/ecological-economics/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3934,7 +3904,7 @@
     "url": "/domain/economia-popular/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3945,7 +3915,7 @@
     "url": "/domain/economic-order-quantity-eoq/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3954,9 +3924,12 @@
     "slug": "ecosystem-orchestration",
     "level": "domain",
     "url": "/domain/ecosystem-orchestration/",
-    "aliases": [],
+    "aliases": [
+      "Platform Orchestration",
+      "Digital Ecosystem Management"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3967,7 +3940,7 @@
     "url": "/domain/ecosystem-strategy/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -3978,7 +3951,7 @@
     "url": "/domain/edge-ai/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -3989,7 +3962,7 @@
     "url": "/domain/eisenhower-matrix/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4000,7 +3973,7 @@
     "url": "/domain/electronic-design-automation-eda-workflows/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -4011,7 +3984,7 @@
     "url": "/domain/emcemi-design-for-compliance/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -4022,7 +3995,7 @@
     "url": "/domain/emerging-ecosystem-frameworks/",
     "aliases": [],
     "tags": [
-      "implementation"
+      "meta"
     ]
   },
   {
@@ -4033,7 +4006,7 @@
     "url": "/domain/emotional-intelligence-goleman/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4044,7 +4017,7 @@
     "url": "/domain/empathy-mapping/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4055,7 +4028,7 @@
     "url": "/domain/energy-cooperatives/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4066,7 +4039,7 @@
     "url": "/domain/energy-efficiency-programs/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4077,7 +4050,7 @@
     "url": "/domain/enterprise-resource-planning-erp/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4088,7 +4061,7 @@
     "url": "/domain/environmental-accounting-ecological-costs/",
     "aliases": [],
     "tags": [
-      "sustainability"
+      "meta"
     ]
   },
   {
@@ -4099,7 +4072,7 @@
     "url": "/domain/ethical-leadership/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4110,7 +4083,7 @@
     "url": "/domain/ethnographic-research/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4121,7 +4094,7 @@
     "url": "/domain/evolutionary-economics/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4132,18 +4105,7 @@
     "url": "/domain/experience-design-xd/",
     "aliases": [],
     "tags": [
-      "design"
-    ]
-  },
-  {
-    "id": "",
-    "title": "Experience Model",
-    "slug": "experience-model",
-    "level": "domain",
-    "url": "/domain/experience-model/",
-    "aliases": [],
-    "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4154,7 +4116,7 @@
     "url": "/domain/expert-consultation-implicit-through-published-works/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4165,7 +4127,7 @@
     "url": "/domain/expert-systems-in-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -4176,7 +4138,7 @@
     "url": "/domain/explainable-ai-systems/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -4187,7 +4149,7 @@
     "url": "/domain/fab-labs/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4196,9 +4158,12 @@
     "slug": "fablab-network-model",
     "level": "domain",
     "url": "/domain/fablab-network-model/",
-    "aliases": [],
+    "aliases": [
+      "Fab Lab Network",
+      "Fabrication Laboratory Network"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4209,7 +4174,7 @@
     "url": "/domain/fail-fast-philosophy/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -4220,7 +4185,7 @@
     "url": "/domain/failure-mode-and-effects-analysis-fmea/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -4231,7 +4196,7 @@
     "url": "/domain/failure-mode-effects-analysis-fmea/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -4242,7 +4207,7 @@
     "url": "/domain/fault-tree-analysis/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4253,7 +4218,7 @@
     "url": "/domain/fda-design-controls-21-cfr-82030/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -4264,7 +4229,7 @@
     "url": "/domain/feature-flagstoggles/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4275,7 +4240,7 @@
     "url": "/domain/feminist-economics/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4286,7 +4251,7 @@
     "url": "/domain/feng-shui/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -4297,7 +4262,7 @@
     "url": "/domain/financial-ratio-analysis/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4308,7 +4273,7 @@
     "url": "/domain/finite-element-analysis-fea-driven-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -4319,7 +4284,7 @@
     "url": "/domain/first-nations-north-america/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4328,9 +4293,11 @@
     "slug": "food-sovereignty",
     "level": "domain",
     "url": "/domain/food-sovereignty/",
-    "aliases": [],
+    "aliases": [
+      "Peoples' Food Sovereignty"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4341,7 +4308,7 @@
     "url": "/domain/fordism-assembly-line-production/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4352,7 +4319,7 @@
     "url": "/domain/foundational-economy-essential-services/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4363,7 +4330,7 @@
     "url": "/domain/fourth-generation-rd/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4374,7 +4341,7 @@
     "url": "/domain/fraunhofer-model-applied-research/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4385,7 +4352,7 @@
     "url": "/domain/french-dirigisme/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4396,7 +4363,7 @@
     "url": "/domain/functional-decomposition/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4407,7 +4374,7 @@
     "url": "/domain/functional-safety-iso-26262/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4418,7 +4385,7 @@
     "url": "/domain/futarchy-robin-hansons-prediction-market-governance/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -4429,7 +4396,7 @@
     "url": "/domain/futures-thinking/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4440,7 +4407,7 @@
     "url": "/domain/garage-startup-culture/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
@@ -4451,7 +4418,7 @@
     "url": "/domain/ge-mckinsey-matrix-nine-box-matrix/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4462,7 +4429,7 @@
     "url": "/domain/gemba-walks/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4473,7 +4440,7 @@
     "url": "/domain/genchi-genbutsu-go-and-see/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4484,7 +4451,7 @@
     "url": "/domain/generative-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -4495,7 +4462,7 @@
     "url": "/domain/genetic-algorithms-for-optimization/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4506,7 +4473,7 @@
     "url": "/domain/geometric-dimensioning-tolerancing-gdt/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4517,7 +4484,7 @@
     "url": "/domain/getting-things-done-gtd/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4528,7 +4495,7 @@
     "url": "/domain/gift-economy-documented/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4539,7 +4506,7 @@
     "url": "/domain/gift-economy-reciprocity-based/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4550,7 +4517,7 @@
     "url": "/domain/gitcoin-grants/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4561,7 +4528,7 @@
     "url": "/domain/gitops/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4572,7 +4539,7 @@
     "url": "/domain/green-building-leed-breeam/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -4583,7 +4550,7 @@
     "url": "/domain/green-engineering/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -4594,7 +4561,7 @@
     "url": "/domain/growth-mindset-dweck/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4605,7 +4572,7 @@
     "url": "/domain/guanxi-networks-in-product-development/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -4616,7 +4583,7 @@
     "url": "/domain/hackerspaces-makerspaces/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4627,7 +4594,7 @@
     "url": "/domain/halal-economy/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4638,7 +4605,7 @@
     "url": "/domain/harambee-kenya/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4649,7 +4616,7 @@
     "url": "/domain/hardware-description-language-hdl-design-vhdl-verilog/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -4660,7 +4627,7 @@
     "url": "/domain/hardware-description-language-hdl-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -4671,7 +4638,7 @@
     "url": "/domain/haudenosaunee-documented/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4682,7 +4649,7 @@
     "url": "/domain/hazard-analysis-and-critical-control-points-haccp/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4693,7 +4660,7 @@
     "url": "/domain/hazard-analysis/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4704,7 +4671,7 @@
     "url": "/domain/heijunka-production-leveling/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4715,7 +4682,7 @@
     "url": "/domain/holocracy-lite-simplified-versions/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4726,7 +4693,7 @@
     "url": "/domain/homeschooling/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4737,7 +4704,7 @@
     "url": "/domain/horizontal-integration-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4748,7 +4715,7 @@
     "url": "/domain/hoshin-kanri-policy-deployment/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -4759,7 +4726,7 @@
     "url": "/domain/hoshin-planning-strategic-planning/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4770,7 +4737,7 @@
     "url": "/domain/human-centered-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -4781,7 +4748,7 @@
     "url": "/domain/human-factors-in-packaging-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -4792,7 +4759,7 @@
     "url": "/domain/human-relations-mayo/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4803,7 +4770,7 @@
     "url": "/domain/hybrid-combinations/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4814,7 +4781,7 @@
     "url": "/domain/hybrid-governance-models/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -4825,7 +4792,7 @@
     "url": "/domain/hydroponics/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4836,7 +4803,7 @@
     "url": "/domain/iatf-16949-quality-management-system/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4847,18 +4814,7 @@
     "url": "/domain/ich-q10-pharmaceutical-quality-system/",
     "aliases": [],
     "tags": [
-      "operations"
-    ]
-  },
-  {
-    "id": "",
-    "title": "ICH Q12 (Product Lifecycle Management)",
-    "slug": "ich-q12-product-lifecycle-management",
-    "level": "domain",
-    "url": "/domain/ich-q12-product-lifecycle-management/",
-    "aliases": [],
-    "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4869,7 +4825,7 @@
     "url": "/domain/ich-q8-pharmaceutical-development/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -4880,18 +4836,18 @@
     "url": "/domain/ich-q9-quality-risk-management/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023z4ejgvpxs037kvc9jh",
-    "title": "Implemented: Evidence of Real-World Use",
+    "title": "'Implemented: Evidence of Real-World Use'",
     "slug": "implemented-evidence-of-real-world-use",
     "level": "domain",
     "url": "/domain/implemented-evidence-of-real-world-use/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4902,7 +4858,7 @@
     "url": "/domain/inclusive-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -4913,7 +4869,7 @@
     "url": "/domain/incremental-development-model/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -4924,7 +4880,7 @@
     "url": "/domain/incremental-development/",
     "aliases": [],
     "tags": [
-      "domain"
+      "meta"
     ]
   },
   {
@@ -4935,7 +4891,7 @@
     "url": "/domain/indian-joint-family-business/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4946,7 +4902,7 @@
     "url": "/domain/indigenous-design-principles-seven-generations/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -4957,7 +4913,7 @@
     "url": "/domain/indigenous-fire-management/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4968,7 +4924,7 @@
     "url": "/domain/indigenous-food-systems/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -4979,7 +4935,7 @@
     "url": "/domain/indigenous-governance-various-traditions-beyond-maorihaudenosaunee/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -4990,7 +4946,7 @@
     "url": "/domain/industrial-ecology-closed-loop-systems/",
     "aliases": [],
     "tags": [
-      "sustainability"
+      "meta"
     ]
   },
   {
@@ -5001,7 +4957,7 @@
     "url": "/domain/industrial-internet-of-things-iiot/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -5012,7 +4968,7 @@
     "url": "/domain/industrie-40/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5023,7 +4979,7 @@
     "url": "/domain/informal-economy-models/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5034,7 +4990,7 @@
     "url": "/domain/infrastructure-as-code-iac-terraform-etc/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -5045,7 +5001,7 @@
     "url": "/domain/initial-comprehensive-taxonomy/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5054,9 +5010,12 @@
     "slug": "institutional-economics",
     "level": "domain",
     "url": "/domain/institutional-economics/",
-    "aliases": [],
+    "aliases": [
+      "Old Institutional Economics",
+      "OIE"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5078,7 +5037,7 @@
     "url": "/domain/integrated-computational-materials-engineering-icme/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -5089,7 +5048,7 @@
     "url": "/domain/integrated-product-development-ipd/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -5100,7 +5059,7 @@
     "url": "/domain/integrated-project-delivery-ipd/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5111,7 +5070,7 @@
     "url": "/domain/interface-control/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5122,7 +5081,7 @@
     "url": "/domain/internal-rate-of-return-irr/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5133,7 +5092,7 @@
     "url": "/domain/inventory-management/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5144,7 +5103,7 @@
     "url": "/domain/investment-daos/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5155,7 +5114,7 @@
     "url": "/domain/investment-frameworks/",
     "aliases": [],
     "tags": [
-      "implementation"
+      "meta"
     ]
   },
   {
@@ -5166,7 +5125,7 @@
     "url": "/domain/ipc-standards-for-pcb-design-ipc-2221/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -5177,7 +5136,7 @@
     "url": "/domain/iso-13485-medical-device-qms/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5188,7 +5147,7 @@
     "url": "/domain/iterative-development/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -5199,7 +5158,7 @@
     "url": "/domain/japanese-management-wa-nemawashi/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5210,7 +5169,7 @@
     "url": "/domain/jidoka-automation-with-human-touch/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5221,7 +5180,7 @@
     "url": "/domain/jobs-to-be-done-jtbd/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5232,7 +5191,7 @@
     "url": "/domain/joint-venture-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5243,7 +5202,7 @@
     "url": "/domain/just-in-time-inventory/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5254,7 +5213,7 @@
     "url": "/domain/just-in-time-jit-production-system/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5263,9 +5222,13 @@
     "slug": "kanban-original-toyota-system",
     "level": "domain",
     "url": "/domain/kanban-original-toyota-system/",
-    "aliases": [],
+    "aliases": [
+      "Toyota Production System",
+      "Just-in-Time System",
+      "TPS"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5274,9 +5237,13 @@
     "slug": "kanban-production",
     "level": "domain",
     "url": "/domain/kanban-production/",
-    "aliases": [],
+    "aliases": [
+      "Just-In-Time (JIT)",
+      "Toyota Production System (TPS)",
+      "Lean Manufacturing"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5287,7 +5254,7 @@
     "url": "/domain/kanban/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5298,7 +5265,7 @@
     "url": "/domain/kano-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5309,7 +5276,7 @@
     "url": "/domain/keynesian-economics/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5320,7 +5287,7 @@
     "url": "/domain/kinematics-dynamics-analysis/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5331,7 +5298,7 @@
     "url": "/domain/knowledge-management-nonaka-takeuchi/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
@@ -5342,7 +5309,7 @@
     "url": "/domain/knowledge-management-systems/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
@@ -5353,7 +5320,7 @@
     "url": "/domain/korean-chaebol-system/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5364,7 +5331,7 @@
     "url": "/domain/large-scale-scrum-less/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -5375,7 +5342,7 @@
     "url": "/domain/lead-user-innovation/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5386,7 +5353,7 @@
     "url": "/domain/leader-member-exchange-lmx/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5397,7 +5364,7 @@
     "url": "/domain/lean-accounting-value-stream-costing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5408,7 +5375,18 @@
     "url": "/domain/lean-accounting/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
+    ]
+  },
+  {
+    "id": "pat_placeholder",
+    "title": "Lean Canvas - Ash Maurya's Adaptation",
+    "slug": "lean-canvas-ash-mauryas-adaptation",
+    "level": "domain",
+    "url": "/domain/lean-canvas-ash-mauryas-adaptation/",
+    "aliases": [],
+    "tags": [
+      "meta"
     ]
   },
   {
@@ -5419,7 +5397,7 @@
     "url": "/domain/lean-canvas-maurya/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5430,7 +5408,7 @@
     "url": "/domain/lean-construction/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5441,7 +5419,7 @@
     "url": "/domain/lean-manufacturing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5452,7 +5430,7 @@
     "url": "/domain/lean-six-sigma-combined-approach/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5463,7 +5441,7 @@
     "url": "/domain/lean-software-development/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5474,7 +5452,7 @@
     "url": "/domain/lean-startup-ries/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5485,7 +5463,7 @@
     "url": "/domain/leasing-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5496,7 +5474,7 @@
     "url": "/domain/licensing-model-ip-monetization/",
     "aliases": [],
     "tags": [
-      "value-creation"
+      "meta"
     ]
   },
   {
@@ -5507,7 +5485,7 @@
     "url": "/domain/life-cycle-costing-total-cost-ownership/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5518,7 +5496,7 @@
     "url": "/domain/living-building-challenge/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -5529,7 +5507,7 @@
     "url": "/domain/local-material-sourcing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5540,18 +5518,7 @@
     "url": "/domain/maasai-east-africa/",
     "aliases": [],
     "tags": [
-      "technology"
-    ]
-  },
-  {
-    "id": "",
-    "title": "Machine Vision Systems",
-    "slug": "machine-vision-systems",
-    "level": "domain",
-    "url": "/domain/machine-vision-systems/",
-    "aliases": [],
-    "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
@@ -5562,7 +5529,7 @@
     "url": "/domain/maintainability-engineering/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -5573,7 +5540,7 @@
     "url": "/domain/maker-commons/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5593,9 +5560,12 @@
     "slug": "management-by-objectives-drucker",
     "level": "domain",
     "url": "/domain/management-by-objectives-drucker/",
-    "aliases": [],
+    "aliases": [
+      "MBO",
+      "Management by Objectives"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5606,7 +5576,7 @@
     "url": "/domain/maori-design-principles/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -5617,18 +5587,7 @@
     "url": "/domain/maori-documented/",
     "aliases": [],
     "tags": [
-      "operations"
-    ]
-  },
-  {
-    "id": "",
-    "title": "Marketplace Model - Two-Sided Platforms",
-    "slug": "marketplace-model-two-sided-platforms",
-    "level": "domain",
-    "url": "/domain/marketplace-model-two-sided-platforms/",
-    "aliases": [],
-    "tags": [
-      "value-creation"
+      "meta"
     ]
   },
   {
@@ -5639,7 +5598,7 @@
     "url": "/domain/marxian-economics/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5650,7 +5609,7 @@
     "url": "/domain/material-requirements-planning-mrp/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -5661,7 +5620,7 @@
     "url": "/domain/matrix-governance/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -5672,7 +5631,7 @@
     "url": "/domain/mbse-model-based-systems-engineering/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -5683,7 +5642,7 @@
     "url": "/domain/mckinsey-7s-organizational-alignment/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5694,7 +5653,7 @@
     "url": "/domain/membership-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5705,7 +5664,7 @@
     "url": "/domain/memphis-design-movement/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -5714,9 +5673,12 @@
     "slug": "meritocracy-models",
     "level": "domain",
     "url": "/domain/meritocracy-models/",
-    "aliases": [],
+    "aliases": [
+      "Merit-based System",
+      "Talent-based Organization"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5727,7 +5689,7 @@
     "url": "/domain/metamodernism-hanzi-freinacht/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5738,7 +5700,7 @@
     "url": "/domain/metaverse-product-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -5749,7 +5711,7 @@
     "url": "/domain/microservices-architecture-distributed-systems/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -5758,9 +5720,11 @@
     "slug": "mil-std-882-system-safety",
     "level": "domain",
     "url": "/domain/mil-std-882-system-safety/",
-    "aliases": [],
+    "aliases": [
+      "System Safety"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5771,7 +5735,7 @@
     "url": "/domain/minimum-viable-product-mvp-ries/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -5782,7 +5746,7 @@
     "url": "/domain/model-driven-development/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -5804,7 +5768,7 @@
     "url": "/domain/modernist-design-movement/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -5815,7 +5779,7 @@
     "url": "/domain/modular-construction/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5826,7 +5790,7 @@
     "url": "/domain/modular-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -5837,7 +5801,7 @@
     "url": "/domain/moloch-daos/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5848,7 +5812,7 @@
     "url": "/domain/monozukuri-the-art-of-making-things/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5859,7 +5823,7 @@
     "url": "/domain/motivation-theories/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5870,7 +5834,7 @@
     "url": "/domain/mutual-aid-networks-solidarity-based/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -5881,7 +5845,7 @@
     "url": "/domain/mutual-aid-production-networks/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5892,7 +5856,7 @@
     "url": "/domain/mutual-society-governance/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -5903,7 +5867,7 @@
     "url": "/domain/nanotechnology-product-engineering/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -5914,7 +5878,7 @@
     "url": "/domain/nasa-systems-engineering-npr-71231/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -5923,9 +5887,11 @@
     "slug": "natural-capitalism-hawken-lovins",
     "level": "domain",
     "url": "/domain/natural-capitalism-hawken-lovins/",
-    "aliases": [],
+    "aliases": [
+      "Ecological Capitalism"
+    ],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -5936,7 +5902,7 @@
     "url": "/domain/nemawashi-consensus-building/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -5947,7 +5913,7 @@
     "url": "/domain/neoclassical-economics/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5958,7 +5924,7 @@
     "url": "/domain/net-positive-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -5969,7 +5935,7 @@
     "url": "/domain/scrum/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -5980,7 +5946,7 @@
     "url": "/domain/net-present-value-npv/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -5991,7 +5957,7 @@
     "url": "/domain/neural-architecture-search/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -6002,7 +5968,7 @@
     "url": "/domain/neural-networks-for-system-identification/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6013,7 +5979,7 @@
     "url": "/domain/neuromorphic-engineering/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -6024,7 +5990,7 @@
     "url": "/domain/nft-communities/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6035,7 +6001,7 @@
     "url": "/domain/nordic-model-scandinavia/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6046,7 +6012,7 @@
     "url": "/domain/on-demand-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6057,7 +6023,7 @@
     "url": "/domain/open-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -6068,7 +6034,7 @@
     "url": "/domain/open-innovation-platforms/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -6079,7 +6045,7 @@
     "url": "/domain/open-source-ecology-ose/",
     "aliases": [],
     "tags": [
-      "sustainability"
+      "meta"
     ]
   },
   {
@@ -6090,7 +6056,7 @@
     "url": "/domain/open-source-hardware-oshwa/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -6101,7 +6067,7 @@
     "url": "/domain/oral-tradition-storytelling-in-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -6112,7 +6078,7 @@
     "url": "/domain/organizational-development-lewin-schein/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -6123,7 +6089,7 @@
     "url": "/domain/pacific-islander-systems/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6134,7 +6100,7 @@
     "url": "/domain/package-design-and-development-process/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -6145,7 +6111,7 @@
     "url": "/domain/pair-programming/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -6156,7 +6122,7 @@
     "url": "/domain/palli-palli-hurry-hurry-development-culture/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -6178,7 +6144,7 @@
     "url": "/domain/parallel-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -6189,7 +6155,7 @@
     "url": "/domain/pareto-analysis-8020/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6200,7 +6166,7 @@
     "url": "/domain/participatory-budgeting-if-not-in-financial/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6211,7 +6177,7 @@
     "url": "/domain/participatory-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -6222,7 +6188,7 @@
     "url": "/domain/passive-house/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6242,9 +6208,13 @@
     "slug": "pay-what-you-want-model",
     "level": "domain",
     "url": "/domain/pay-what-you-want-model/",
-    "aliases": [],
+    "aliases": [
+      "Value-for-Value Model",
+      "Pay What You Wish",
+      "PWYW"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6255,7 +6225,7 @@
     "url": "/domain/payback-period/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6266,7 +6236,7 @@
     "url": "/domain/pdca-cycle-plan-do-check-act-deming/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6277,7 +6247,7 @@
     "url": "/domain/peer-production-license/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6288,7 +6258,7 @@
     "url": "/domain/peer-to-peer-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6299,7 +6269,7 @@
     "url": "/domain/peer-to-peer-p2p-production/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6308,9 +6278,11 @@
     "slug": "permaculture-design",
     "level": "domain",
     "url": "/domain/permaculture-design/",
-    "aliases": [],
+    "aliases": [
+      "Permanent Agriculture"
+    ],
     "tags": [
-      "domain"
+      "meta"
     ]
   },
   {
@@ -6321,7 +6293,7 @@
     "url": "/domain/permaculture-documented/",
     "aliases": [],
     "tags": [
-      "domain"
+      "meta"
     ]
   },
   {
@@ -6332,7 +6304,7 @@
     "url": "/domain/permaculture-inspired-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -6343,7 +6315,7 @@
     "url": "/domain/persona-development/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -6354,7 +6326,7 @@
     "url": "/domain/personal-fabrication/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6365,7 +6337,7 @@
     "url": "/domain/pestle-analysis/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6376,7 +6348,7 @@
     "url": "/domain/planetary-boundaries-stockholm-resilience-centre/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6387,7 +6359,7 @@
     "url": "/domain/platform-business-models/",
     "aliases": [],
     "tags": [
-      "value-creation"
+      "meta"
     ]
   },
   {
@@ -6398,7 +6370,7 @@
     "url": "/domain/platform-cooperativism/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -6409,7 +6381,7 @@
     "url": "/domain/platform-ecosystems/",
     "aliases": [],
     "tags": [
-      "domain"
+      "meta"
     ]
   },
   {
@@ -6420,7 +6392,7 @@
     "url": "/domain/platform-engineering-internal-developer-platforms/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -6431,7 +6403,7 @@
     "url": "/domain/platform-governance-ostrom-inspired/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -6442,7 +6414,7 @@
     "url": "/domain/platform-strategy/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -6453,7 +6425,7 @@
     "url": "/domain/poka-yoke-mistake-proofing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6464,7 +6436,7 @@
     "url": "/domain/polymer-product-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -6475,7 +6447,7 @@
     "url": "/domain/porters-diamond/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6486,7 +6458,7 @@
     "url": "/domain/porters-five-forces-competitive-analysis/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6497,7 +6469,7 @@
     "url": "/domain/porters-generic-strategies-cost-differentiation-focus/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6508,7 +6480,7 @@
     "url": "/domain/positive-organizational-scholarship-cameron-dutton/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6519,7 +6491,7 @@
     "url": "/domain/post-growth-economy/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6530,7 +6502,7 @@
     "url": "/domain/post-keynesian-economics/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6541,7 +6513,18 @@
     "url": "/domain/postmodern-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
+    ]
+  },
+  {
+    "id": "pat_placeholder",
+    "title": "Precious Plastic (Distributed Recycling)",
+    "slug": "precious-plastic-distributed-recycling",
+    "level": "domain",
+    "url": "/domain/precious-plastic-distributed-recycling/",
+    "aliases": [],
+    "tags": [
+      "meta"
     ]
   },
   {
@@ -6552,7 +6535,7 @@
     "url": "/domain/precision-medicine/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6563,18 +6546,7 @@
     "url": "/domain/predictive-maintenance/",
     "aliases": [],
     "tags": [
-      "technology"
-    ]
-  },
-  {
-    "id": "pat_01kg5023zpf9s89sx25bs0g0et",
-    "title": "Predictive Modeling in Design",
-    "slug": "predictive-modeling-in-design",
-    "level": "domain",
-    "url": "/domain/predictive-modeling-in-design/",
-    "aliases": [],
-    "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -6585,7 +6557,7 @@
     "url": "/domain/prefabrication/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6596,7 +6568,7 @@
     "url": "/domain/product-lifecycle-management-plm/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6607,7 +6579,7 @@
     "url": "/domain/product-portfolio-management/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6618,7 +6590,7 @@
     "url": "/domain/product-roadmapping/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6629,7 +6601,7 @@
     "url": "/domain/product-systems-engineering-pse/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -6640,7 +6612,7 @@
     "url": "/domain/profit-tree/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6651,7 +6623,7 @@
     "url": "/domain/progressive-web-apps-pwa/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6662,7 +6634,7 @@
     "url": "/domain/protocol-daos/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6673,7 +6645,7 @@
     "url": "/domain/prototype-model/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -6684,7 +6656,7 @@
     "url": "/domain/prototyping/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6695,7 +6667,7 @@
     "url": "/domain/public-health-models/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6704,9 +6676,12 @@
     "slug": "pull-systems-demand-driven-production",
     "level": "domain",
     "url": "/domain/pull-systems-demand-driven-production/",
-    "aliases": [],
+    "aliases": [
+      "Demand-Driven Production",
+      "Just-in-Time Production"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6717,7 +6692,7 @@
     "url": "/domain/quadratic-funding/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6728,7 +6703,7 @@
     "url": "/domain/quality-function-deployment-qfd/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6739,7 +6714,7 @@
     "url": "/domain/quantum-computing-product-development/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -6750,7 +6725,7 @@
     "url": "/domain/quechuaaymara-andes/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6761,7 +6736,7 @@
     "url": "/domain/rapid-application-development-rad/",
     "aliases": [],
     "tags": [
-      "domain"
+      "meta"
     ]
   },
   {
@@ -6772,7 +6747,7 @@
     "url": "/domain/razor-razorblade-model-loss-leader/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6783,7 +6758,7 @@
     "url": "/domain/reaction-engineering-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -6794,7 +6769,7 @@
     "url": "/domain/real-options-analysis/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6805,7 +6780,7 @@
     "url": "/domain/red-ocean-vs-blue-ocean/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6816,7 +6791,7 @@
     "url": "/domain/regenerative-agriculture-documented/",
     "aliases": [],
     "tags": [
-      "sustainability"
+      "meta"
     ]
   },
   {
@@ -6827,7 +6802,7 @@
     "url": "/domain/regenerative-agriculture-principles-for-products/",
     "aliases": [],
     "tags": [
-      "sustainability"
+      "meta"
     ]
   },
   {
@@ -6838,7 +6813,7 @@
     "url": "/domain/regenerative-business-models-beyond-sustainability/",
     "aliases": [],
     "tags": [
-      "sustainability"
+      "meta"
     ]
   },
   {
@@ -6849,7 +6824,7 @@
     "url": "/domain/regenerative-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -6860,7 +6835,7 @@
     "url": "/domain/regenerative-economy-documented/",
     "aliases": [],
     "tags": [
-      "sustainability"
+      "meta"
     ]
   },
   {
@@ -6869,9 +6844,11 @@
     "slug": "reggio-emilia-approach",
     "level": "domain",
     "url": "/domain/reggio-emilia-approach/",
-    "aliases": [],
+    "aliases": [
+      "Reggio Emilia Philosophy"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6882,7 +6859,7 @@
     "url": "/domain/regional-accounting-standards/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6893,7 +6870,7 @@
     "url": "/domain/regional-governance-variations/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -6904,7 +6881,7 @@
     "url": "/domain/regional-variations/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6915,7 +6892,7 @@
     "url": "/domain/relational-ontology-indigenous-feminist/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6926,7 +6903,7 @@
     "url": "/domain/reliability-engineering/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -6937,7 +6914,7 @@
     "url": "/domain/rental-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6948,7 +6925,7 @@
     "url": "/domain/repair-cafes/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -6959,7 +6936,7 @@
     "url": "/domain/reprap-project/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -6970,7 +6947,7 @@
     "url": "/domain/representative-democracy-business-context/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -6981,7 +6958,7 @@
     "url": "/domain/requirements-engineering/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -6992,7 +6969,7 @@
     "url": "/domain/resource-based-view/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7003,7 +6980,7 @@
     "url": "/domain/retroactive-public-goods-funding/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7014,7 +6991,7 @@
     "url": "/domain/retrospectives/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7025,7 +7002,7 @@
     "url": "/domain/reverse-auction-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7036,7 +7013,7 @@
     "url": "/domain/reverse-engineering/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7045,9 +7022,13 @@
     "slug": "rhenish-capitalism-germany",
     "level": "domain",
     "url": "/domain/rhenish-capitalism-germany/",
-    "aliases": [],
+    "aliases": [
+      "Rhineland Capitalism",
+      "Social Market Economy",
+      "German Model"
+    ],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7058,7 +7039,7 @@
     "url": "/domain/rhenish-capitalism/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7069,7 +7050,7 @@
     "url": "/domain/right-to-repair-movement/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -7080,7 +7061,7 @@
     "url": "/domain/risk-management/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7091,7 +7072,7 @@
     "url": "/domain/roadmapping/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7102,7 +7083,7 @@
     "url": "/domain/rolling-forecasts-continuous-planning/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7113,7 +7094,7 @@
     "url": "/domain/root-cause-analysis-5-whys-fishbone/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7124,7 +7105,7 @@
     "url": "/domain/safety-engineering/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7135,7 +7116,7 @@
     "url": "/domain/sami-scandinavia/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7146,7 +7127,7 @@
     "url": "/domain/scaled-agile-framework-safe/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7157,7 +7138,7 @@
     "url": "/domain/scientific-management-taylor/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7166,9 +7147,11 @@
     "slug": "scrum-detailed-variants-scrumscale-less-safe",
     "level": "domain",
     "url": "/domain/scrum-detailed-variants-scrumscale-less-safe/",
-    "aliases": [],
+    "aliases": [
+      "Agile Scrum"
+    ],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7179,7 +7162,7 @@
     "url": "/domain/security-engineering/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7190,7 +7173,7 @@
     "url": "/domain/semiconductor-product-development-lifecycle/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7201,7 +7184,7 @@
     "url": "/domain/sensory-analysis-in-product-development/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7212,7 +7195,7 @@
     "url": "/domain/servant-leadership-governance/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -7223,7 +7206,7 @@
     "url": "/domain/serverless-architecture/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7234,7 +7217,7 @@
     "url": "/domain/serverless-computing-function-as-a-service/",
     "aliases": [],
     "tags": [
-      "domain"
+      "meta"
     ]
   },
   {
@@ -7245,7 +7228,7 @@
     "url": "/domain/service-blueprinting/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7256,7 +7239,7 @@
     "url": "/domain/service-daos/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7267,7 +7250,7 @@
     "url": "/domain/service-design-thinking/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7278,7 +7261,7 @@
     "url": "/domain/service-dominant-logic/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7289,7 +7272,7 @@
     "url": "/domain/service-ecosystem-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7300,7 +7283,7 @@
     "url": "/domain/service-innovation/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7311,7 +7294,7 @@
     "url": "/domain/service-journey-mapping/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7322,18 +7305,18 @@
     "url": "/domain/service-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg5023zyebsatbkqnj79t1bm",
-    "title": "Service-Oriented Architecture (SOA): Enterprise Integration",
+    "title": "'Service-Oriented Architecture (SOA): Enterprise Integration'",
     "slug": "service-oriented-architecture-soa-enterprise-integration",
     "level": "domain",
     "url": "/domain/service-oriented-architecture-soa-enterprise-integration/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7344,7 +7327,7 @@
     "url": "/domain/service-oriented-architecture-soa/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7355,7 +7338,7 @@
     "url": "/domain/service-prototyping/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7364,9 +7347,12 @@
     "slug": "service-safari",
     "level": "domain",
     "url": "/domain/service-safari/",
-    "aliases": [],
+    "aliases": [
+      "Mystery Shopping",
+      "Auto-ethnography"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7377,7 +7363,7 @@
     "url": "/domain/shaker-design-principles/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7388,7 +7374,7 @@
     "url": "/domain/shanzhai-iterative-copying-innovation/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -7399,7 +7385,7 @@
     "url": "/domain/shape-up-basecamp/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7410,7 +7396,7 @@
     "url": "/domain/signal-integrity-power-integrity-sipi-analysis/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7421,7 +7407,7 @@
     "url": "/domain/silicon-valley-innovation-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7432,7 +7418,7 @@
     "url": "/domain/site-reliability-engineering-sre-googles-approach/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7443,7 +7429,7 @@
     "url": "/domain/site-reliability-engineering-sre/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7454,7 +7440,7 @@
     "url": "/domain/situational-leadership-hersey-blanchard/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7465,7 +7451,7 @@
     "url": "/domain/six-sigma-dmaic/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7476,7 +7462,7 @@
     "url": "/domain/six-sigma-motorolage-quality-system/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7485,9 +7471,12 @@
     "slug": "sloanism-gm-decentralization",
     "level": "domain",
     "url": "/domain/sloanism-gm-decentralization/",
-    "aliases": [],
+    "aliases": [
+      "Coordinated Decentralization",
+      "The GM Way"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7498,7 +7487,7 @@
     "url": "/domain/smart-factories/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7509,7 +7498,7 @@
     "url": "/domain/smed-single-minute-exchange-of-die/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7520,7 +7509,7 @@
     "url": "/domain/social-accounting-stakeholder-impact/",
     "aliases": [],
     "tags": [
-      "sustainability"
+      "meta"
     ]
   },
   {
@@ -7531,7 +7520,7 @@
     "url": "/domain/social-and-solidarity-economy-various/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7542,7 +7531,7 @@
     "url": "/domain/social-daos/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7553,7 +7542,7 @@
     "url": "/domain/social-economics/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7562,9 +7551,12 @@
     "slug": "social-enterprise-models-hybrid-value",
     "level": "domain",
     "url": "/domain/social-enterprise-models-hybrid-value/",
-    "aliases": [],
+    "aliases": [
+      "Hybrid Social Enterprise",
+      "Hybrid Value Chain"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7575,7 +7567,7 @@
     "url": "/domain/social-license-to-operate-miningextractive/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7586,7 +7578,7 @@
     "url": "/domain/social-market-economy/",
     "aliases": [],
     "tags": [
-      "value-creation"
+      "meta"
     ]
   },
   {
@@ -7597,7 +7589,7 @@
     "url": "/domain/social-technical-systems-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7608,7 +7600,7 @@
     "url": "/domain/sociocracy-original-gerard-endenburgs-original-model/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -7619,7 +7611,7 @@
     "url": "/domain/sociotechnical-systems-tavistock/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -7630,7 +7622,7 @@
     "url": "/domain/solidarity-economy-alternative-paradigm/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7641,7 +7633,7 @@
     "url": "/domain/solidarity-economy-production-systems/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7652,7 +7644,7 @@
     "url": "/domain/southeast-asian-family-business/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7663,7 +7655,7 @@
     "url": "/domain/space-systems-engineering-design-for-extreme-environments/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7674,7 +7666,7 @@
     "url": "/domain/spiral-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7685,7 +7677,7 @@
     "url": "/domain/spiritual-leadership/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7696,7 +7688,7 @@
     "url": "/domain/steady-state-economy-documented/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7707,7 +7699,7 @@
     "url": "/domain/steward-ownership-governance-purpose-foundation-model/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -7718,7 +7710,7 @@
     "url": "/domain/stewardship-governance/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -7729,7 +7721,7 @@
     "url": "/domain/strategic-foresight/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7740,7 +7732,7 @@
     "url": "/domain/strategic-intent-hamel-prahalad/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7751,7 +7743,7 @@
     "url": "/domain/streamline-moderne/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7762,7 +7754,7 @@
     "url": "/domain/subscription-model-recurring-revenue/",
     "aliases": [],
     "tags": [
-      "value-creation"
+      "meta"
     ]
   },
   {
@@ -7773,7 +7765,7 @@
     "url": "/domain/supply-chain-management/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7784,7 +7776,7 @@
     "url": "/domain/sustainable-packaging-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7795,7 +7787,7 @@
     "url": "/domain/swarm-intelligence/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7806,7 +7798,7 @@
     "url": "/domain/swarm-robotics-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7817,7 +7809,7 @@
     "url": "/domain/synthetic-biology-design-build-test-learn-cycle/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7828,7 +7820,7 @@
     "url": "/domain/system-design/",
     "aliases": [],
     "tags": [
-      "domain"
+      "meta"
     ]
   },
   {
@@ -7839,7 +7831,7 @@
     "url": "/domain/systems-architecture/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7848,9 +7840,12 @@
     "slug": "systems-integration",
     "level": "domain",
     "url": "/domain/systems-integration/",
-    "aliases": [],
+    "aliases": [
+      "IT Integration",
+      "Software Integration"
+    ],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7861,7 +7856,7 @@
     "url": "/domain/systems-modeling-language-sysml/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7872,7 +7867,7 @@
     "url": "/domain/systems-theory-von-bertalanffy/",
     "aliases": [],
     "tags": [
-      "domain"
+      "meta"
     ]
   },
   {
@@ -7883,7 +7878,7 @@
     "url": "/domain/target-costing-market-driven-pricing/",
     "aliases": [],
     "tags": [
-      "value-creation"
+      "meta"
     ]
   },
   {
@@ -7894,7 +7889,7 @@
     "url": "/domain/taylorism-scientific-management/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7905,7 +7900,7 @@
     "url": "/domain/team-development-models/",
     "aliases": [],
     "tags": [
-      "domain"
+      "meta"
     ]
   },
   {
@@ -7916,7 +7911,7 @@
     "url": "/domain/technical-performance-measurement/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7927,7 +7922,7 @@
     "url": "/domain/technocracy/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7938,7 +7933,7 @@
     "url": "/domain/technology-adoption-lifecycle-moore/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -7949,7 +7944,7 @@
     "url": "/domain/technology-roadmapping/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -7960,7 +7955,7 @@
     "url": "/domain/temporal-coverage-historical-to-emerging/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -7971,7 +7966,7 @@
     "url": "/domain/test-driven-development-tdd-testing-first/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7982,7 +7977,7 @@
     "url": "/domain/theory-of-change-organizational-development/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -7991,9 +7986,12 @@
     "slug": "theory-of-constraints-goldratts-toc",
     "level": "domain",
     "url": "/domain/theory-of-constraints-goldratts-toc/",
-    "aliases": [],
+    "aliases": [
+      "TOC",
+      "Goldratt's Theory of Constraints"
+    ],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -8004,7 +8002,7 @@
     "url": "/domain/theory-of-constraints-toc/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -8015,7 +8013,7 @@
     "url": "/domain/throughput-accounting-toc-financial/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8026,7 +8024,7 @@
     "url": "/domain/time-banking-for-collaborative-making/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8037,7 +8035,7 @@
     "url": "/domain/time-blocking/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8048,7 +8046,7 @@
     "url": "/domain/token-based-governance/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -8059,7 +8057,7 @@
     "url": "/domain/token-economics/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8070,7 +8068,7 @@
     "url": "/domain/total-quality-management-tqm/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8081,7 +8079,7 @@
     "url": "/domain/touchpoint-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -8092,18 +8090,7 @@
     "url": "/domain/tows-matrix-swot-extension/",
     "aliases": [],
     "tags": [
-      "operations"
-    ]
-  },
-  {
-    "id": "",
-    "title": "Toyota Production System (TPS)",
-    "slug": "toyota-production-system-tps",
-    "level": "domain",
-    "url": "/domain/toyota-production-system-tps/",
-    "aliases": [],
-    "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8114,7 +8101,7 @@
     "url": "/domain/tps-documented/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8125,7 +8112,7 @@
     "url": "/domain/trade-off-analysis/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8136,7 +8123,7 @@
     "url": "/domain/traditional-budgeting/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8147,7 +8134,7 @@
     "url": "/domain/traditional-ecological-knowledge-tek/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
@@ -8158,7 +8145,7 @@
     "url": "/domain/traditional-hierarchical-models/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8169,7 +8156,7 @@
     "url": "/domain/traditional-management-theories/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8180,7 +8167,7 @@
     "url": "/domain/traditional-medicine-systems/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8191,7 +8178,7 @@
     "url": "/domain/traditional-water-management/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8202,7 +8189,7 @@
     "url": "/domain/treasury-management/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8213,18 +8200,18 @@
     "url": "/domain/transactional-leadership/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg502407eyh8wbympscg4e10",
-    "title": "Transferable: Applicable Beyond Single Organization",
+    "title": "'Transferable: Applicable Beyond Single Organization'",
     "slug": "transferable-applicable-beyond-single-organization",
     "level": "domain",
     "url": "/domain/transferable-applicable-beyond-single-organization/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8235,7 +8222,7 @@
     "url": "/domain/transition-to-renewables/",
     "aliases": [],
     "tags": [
-      "sustainability"
+      "meta"
     ]
   },
   {
@@ -8257,7 +8244,7 @@
     "url": "/domain/true-cost-accounting-externalities-included/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8268,7 +8255,7 @@
     "url": "/domain/true-cost-accounting/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8279,7 +8266,7 @@
     "url": "/domain/two-speed-development-model/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -8290,7 +8277,7 @@
     "url": "/domain/ubuntu-documented/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8301,7 +8288,7 @@
     "url": "/domain/ujamaa-tanzania/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8312,7 +8299,7 @@
     "url": "/domain/unified-modeling-language-uml/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8323,7 +8310,7 @@
     "url": "/domain/universal-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -8334,7 +8321,7 @@
     "url": "/domain/unschooling/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8345,7 +8332,7 @@
     "url": "/domain/upcycling-repurposing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8356,7 +8343,7 @@
     "url": "/domain/urban-agriculture/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
@@ -8367,7 +8354,7 @@
     "url": "/domain/usability-engineering-for-medical-devices-iec-62366/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -8378,7 +8365,7 @@
     "url": "/domain/usability-testing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8389,7 +8376,7 @@
     "url": "/domain/user-story-mapping/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8400,7 +8387,7 @@
     "url": "/domain/v-model-for-automotive-systems-engineering/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -8411,7 +8398,7 @@
     "url": "/domain/v-model/",
     "aliases": [],
     "tags": [
-      "domain"
+      "meta"
     ]
   },
   {
@@ -8422,7 +8409,7 @@
     "url": "/domain/value-chain-analysis/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -8433,7 +8420,18 @@
     "url": "/domain/value-chain-coordination/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
+    ]
+  },
+  {
+    "id": "pat_placeholder",
+    "title": "Value Disciplines (Treacy & Wiersema)",
+    "slug": "value-disciplines-treacy-wiersema",
+    "level": "domain",
+    "url": "/domain/value-disciplines-treacy-wiersema/",
+    "aliases": [],
+    "tags": [
+      "meta"
     ]
   },
   {
@@ -8444,7 +8442,7 @@
     "url": "/domain/value-net-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8455,7 +8453,7 @@
     "url": "/domain/value-proposition-canvas/",
     "aliases": [],
     "tags": [
-      "value-creation"
+      "meta"
     ]
   },
   {
@@ -8466,7 +8464,7 @@
     "url": "/domain/value-stream-mapping-lean-tool/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8477,7 +8475,7 @@
     "url": "/domain/vastu-shastra/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8488,7 +8486,7 @@
     "url": "/domain/vdi-2221-systematic-approach-to-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -8499,7 +8497,7 @@
     "url": "/domain/verification-validation-vv/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8510,7 +8508,7 @@
     "url": "/domain/vernacular-architecture/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -8521,7 +8519,18 @@
     "url": "/domain/vertical-farming/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
+    ]
+  },
+  {
+    "id": "pat_placeholder",
+    "title": "Vertical Integration Model",
+    "slug": "vertical-integration-model",
+    "level": "domain",
+    "url": "/domain/vertical-integration-model/",
+    "aliases": [],
+    "tags": [
+      "meta"
     ]
   },
   {
@@ -8532,7 +8541,7 @@
     "url": "/domain/virtual-reality-vr-product-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -8543,7 +8552,7 @@
     "url": "/domain/voice-of-the-customer-voc/",
     "aliases": [],
     "tags": [
-      "value-creation"
+      "meta"
     ]
   },
   {
@@ -8554,7 +8563,7 @@
     "url": "/domain/vrio-framework/",
     "aliases": [],
     "tags": [
-      "implementation"
+      "meta"
     ]
   },
   {
@@ -8565,7 +8574,7 @@
     "url": "/domain/wabi-sabi-japanese-aesthetic/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8576,7 +8585,7 @@
     "url": "/domain/war-gaming/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8587,7 +8596,7 @@
     "url": "/domain/waterfall-development/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -8598,7 +8607,7 @@
     "url": "/domain/waterfall-model-royce/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8609,7 +8618,7 @@
     "url": "/domain/web3-governance-decentralized-web/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -8620,7 +8629,7 @@
     "url": "/domain/web3-governance/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -8631,7 +8640,7 @@
     "url": "/domain/wellbeing-economy-beyond-gdp/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8642,18 +8651,7 @@
     "url": "/domain/wikihouse-open-source-housing/",
     "aliases": [],
     "tags": [
-      "operations"
-    ]
-  },
-  {
-    "id": "",
-    "title": "Worker Cooperative Product Development Models",
-    "slug": "worker-cooperative-product-development-models",
-    "level": "domain",
-    "url": "/domain/worker-cooperative-product-development-models/",
-    "aliases": [],
-    "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -8664,7 +8662,7 @@
     "url": "/domain/working-backward-amazon/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -8675,7 +8673,7 @@
     "url": "/domain/working-capital-management/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -8686,7 +8684,7 @@
     "url": "/domain/workplace-democracy-formal-models/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -8697,344 +8695,336 @@
     "url": "/domain/zero-based-budgeting-justification-based/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240gfv9r5nq18d4pn699",
     "title": "Shared Governance - Healthcare",
     "slug": "13-shared-governance-healthcare",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/13-shared-governance-healthcare/",
-    "aliases": [],
+    "aliases": [
+      "Nursing Shared Governance",
+      "Professional Shared Governance"
+    ],
     "tags": [
-      "governance"
-    ]
-  },
-  {
-    "id": "",
-    "title": "Cellular Manufacturing",
-    "slug": "32-cellular-manufacturing",
-    "level": "context_specific",
-    "url": "/context-specific/32-cellular-manufacturing/",
-    "aliases": [],
-    "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240gfv9r5nq1df7rt5e3",
     "title": "Industry 4.0",
     "slug": "51-industry-40",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/51-industry-40/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240hf7g93xhge0avhwjy",
     "title": "Smart Manufacturing",
     "slug": "52-smart-manufacturing",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/52-smart-manufacturing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240hf7g93xhghcy7bqnh",
     "title": "Advanced Manufacturing",
     "slug": "53-advanced-manufacturing",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/53-advanced-manufacturing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240hf7g93xhgjz7fp64g",
     "title": "Flexible Manufacturing",
     "slug": "55-flexible-manufacturing",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/55-flexible-manufacturing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240hf7g93xhgnnqj6kv4",
     "title": "Green Manufacturing",
     "slug": "56-green-manufacturing",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/56-green-manufacturing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240hf7g93xhgqfz3v8sy",
     "title": "Additive Manufacturing (3D Printing)",
     "slug": "57-additive-manufacturing-3d-printing",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/57-additive-manufacturing-3d-printing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240jfastcwdc0pk9m6dj",
     "title": "Distributed Manufacturing",
     "slug": "58-distributed-manufacturing",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/58-distributed-manufacturing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240jfastcwdc2dzvc9tg",
     "title": "Waldorf Education",
     "slug": "70-waldorf-education",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/70-waldorf-education/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240jfastcwdc48ex8qjj",
     "title": "Competency-Based Education",
     "slug": "74-competency-based-education",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/74-competency-based-education/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240jfastcwdc7c1jtnh2",
     "title": "Islamic Finance - Detailed",
     "slug": "92-islamic-finance-detailed",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/92-islamic-finance-detailed/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240jfastcwdc8qvvj76x",
     "title": "Microfinance Models - Grameen, BRAC",
     "slug": "95-microfinance-models-grameen-brac",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/95-microfinance-models-grameen-brac/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240jfastcwdca2ctsf5h",
     "title": "Adaptive Software Development",
     "slug": "adaptive-software-development",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/adaptive-software-development/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240jfastcwdcdbgxbdb1",
     "title": "Augmented Reality in Manufacturing",
     "slug": "augmented-reality-in-manufacturing",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/augmented-reality-in-manufacturing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240kf018z02axxh6r51x",
     "title": "AUTOSAR (Automotive Open System Architecture)",
     "slug": "autosar-automotive-software-architecture",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/autosar-automotive-software-architecture/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240kf018z02azbs3qdjk",
     "title": "Behavior-Driven Development (BDD): Specification by Example",
     "slug": "behavior-driven-development-bdd-specification-by-example",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/behavior-driven-development-bdd-specification-by-example/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240kf018z02b1d1kn1ba",
     "title": "Big Data Analytics in Manufacturing",
     "slug": "big-data-analytics-in-manufacturing",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/big-data-analytics-in-manufacturing/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240kf018z02b2h9yk9eq",
     "title": "Cellular Manufacturing - Work Cell Design",
     "slug": "cellular-manufacturing-work-cell-design",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/cellular-manufacturing-work-cell-design/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240me98tfa0ytg0gvbt5",
     "title": "Community Supported Manufacturing",
     "slug": "community-supported-manufacturing",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/community-supported-manufacturing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240me98tfa0ywfemjtm1",
     "title": "Computer-Integrated Manufacturing",
     "slug": "computer-integrated-manufacturing",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/computer-integrated-manufacturing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240me98tfa0yyh6z7xv6",
     "title": "Cryptocurrency Finance - DeFi Models",
     "slug": "cryptocurrency-finance-defi-models",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/cryptocurrency-finance-defi-models/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240me98tfa0z0stfk708",
     "title": "DeFi (Decentralized Finance)",
     "slug": "defi-decentralized-finance",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/defi-decentralized-finance/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240me98tfa0z3ecggfvc",
     "title": "Digital Manufacturing",
     "slug": "digital-manufacturing",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/digital-manufacturing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240me98tfa0z5h8ade8f",
     "title": "DO-178C (Software in Airborne Systems)",
     "slug": "do-178c-software-in-airborne-systems",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/do-178c-software-in-airborne-systems/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240me98tfa0z70ectx60",
     "title": "Edge Computing in Manufacturing",
     "slug": "edge-computing-in-manufacturing",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/edge-computing-in-manufacturing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240nfz989qp3483e7pbp",
     "title": "Flexible Manufacturing Systems (FMS)",
     "slug": "flexible-manufacturing-systems-fms",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/flexible-manufacturing-systems-fms/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240nfz989qp386mzfbyn",
     "title": "Good Manufacturing Practice (GMP)",
     "slug": "good-manufacturing-practice-gmp",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/good-manufacturing-practice-gmp/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240nfz989qp3byswxc8t",
     "title": "Holding Company Model",
     "slug": "holding-company-model",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/holding-company-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240nfz989qp3d2bx6vvq",
     "title": "IEC 62304 (Medical Device Software)",
     "slug": "iec-62304-medical-device-software",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/iec-62304-medical-device-software/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240pfa89r4q20psxv27v",
     "title": "Industry 4.0 Principles",
     "slug": "industry-40-principles",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/industry-40-principles/",
     "aliases": [],
     "tags": [
@@ -9045,132 +9035,135 @@
     "id": "pat_01kg50240pfa89r4q22v1kc08c",
     "title": "Internet of Things (IoT) for Manufacturing",
     "slug": "internet-of-things-iot-for-manufacturing",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/internet-of-things-iot-for-manufacturing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240pfa89r4q24ctm0q0w",
     "title": "Just-in-Time (JIT) Manufacturing",
     "slug": "just-in-time-jit-manufacturing",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/just-in-time-jit-manufacturing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240pfa89r4q26v5wkphp",
     "title": "Lights-Out Manufacturing",
     "slug": "lights-out-manufacturing",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/lights-out-manufacturing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240pfa89r4q292qxdcgr",
     "title": "Local Manufacturing",
     "slug": "local-manufacturing",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/local-manufacturing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240pfa89r4q2ajyn7pb9",
     "title": "Manufacturing Model",
     "slug": "manufacturing-model",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/manufacturing-model/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240qf7082yepfp46nrbt",
     "title": "Molecular Manufacturing",
     "slug": "molecular-manufacturing",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/molecular-manufacturing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240rf3s9mqrqtzjztgas",
     "title": "Robotics & Automation in Manufacturing",
     "slug": "robotics-automation-in-manufacturing",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/robotics-automation-in-manufacturing/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240rf3s9mqrqw0pp5mwn",
     "title": "Sector-Specific Governance (Healthcare, Education, Etc.)",
     "slug": "sector-specific-governance-healthcare-education-etc",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/sector-specific-governance-healthcare-education-etc/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240rf3s9mqrqzp0c8t14",
     "title": "Shared Governance - Healthcare Models",
     "slug": "shared-governance-healthcare-models",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/shared-governance-healthcare-models/",
-    "aliases": [],
+    "aliases": [
+      "Nursing Shared Governance",
+      "Professional Shared Governance"
+    ],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240rf3s9mqrr00ebz8bv",
     "title": "Software Development Life Cycle (SDLC)",
     "slug": "software-development-life-cycle-sdlc",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/software-development-life-cycle-sdlc/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240rf3s9mqrr284wczhz",
     "title": "Sustainable Manufacturing",
     "slug": "sustainable-manufacturing",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/sustainable-manufacturing/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240rf3s9mqrr5mv147t1",
     "title": "Wholesale/Retail Model",
     "slug": "wholesaleretail-model",
-    "level": "context_specific",
+    "level": "context-specific",
     "url": "/context-specific/wholesaleretail-model/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -9181,7 +9174,7 @@
     "url": "/implementation/11-dynamic-governance-sociocratic-circle-method/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -9192,18 +9185,7 @@
     "url": "/implementation/19-business-process-reengineering-hammer-champy/",
     "aliases": [],
     "tags": [
-      "design"
-    ]
-  },
-  {
-    "id": "",
-    "title": "5S Methodology",
-    "slug": "20-5s-methodology",
-    "level": "implementation",
-    "url": "/implementation/20-5s-methodology/",
-    "aliases": [],
-    "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -9214,7 +9196,7 @@
     "url": "/implementation/25-data-governance-frameworks-dama/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -9225,7 +9207,7 @@
     "url": "/implementation/26-ai-ethics-frameworks/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -9241,13 +9223,13 @@
   },
   {
     "id": "pat_01kg50240sfm8re6ep9jg3hk27",
-    "title": "Process Philosophy: Whitehead",
+    "title": "'Process Philosophy: Whitehead'",
     "slug": "37-process-philosophy-whitehead",
     "level": "implementation",
     "url": "/implementation/37-process-philosophy-whitehead/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -9258,7 +9240,7 @@
     "url": "/implementation/52-value-proposition-canvas-osterwalder/",
     "aliases": [],
     "tags": [
-      "value-creation"
+      "meta"
     ]
   },
   {
@@ -9269,7 +9251,7 @@
     "url": "/implementation/5s-methodology-workplace-organization/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -9280,7 +9262,7 @@
     "url": "/implementation/69-montessori-method/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -9291,18 +9273,7 @@
     "url": "/implementation/79-communities-of-practice-wenger/",
     "aliases": [],
     "tags": [
-      "culture"
-    ]
-  },
-  {
-    "id": "",
-    "title": "Aboriginal Land Management Practices",
-    "slug": "aboriginal-land-management-practices",
-    "level": "implementation",
-    "url": "/implementation/aboriginal-land-management-practices/",
-    "aliases": [],
-    "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
@@ -9313,7 +9284,7 @@
     "url": "/implementation/ai-ethics-frameworks-responsible-ai/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -9324,7 +9295,7 @@
     "url": "/implementation/ai-safety-frameworks/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -9335,7 +9306,7 @@
     "url": "/implementation/best-practices-transfer/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
@@ -9346,7 +9317,7 @@
     "url": "/implementation/bioprinting-design-methodology/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -9357,7 +9328,7 @@
     "url": "/implementation/business-model-canvas-osterwalder/",
     "aliases": [],
     "tags": [
-      "value-creation"
+      "meta"
     ]
   },
   {
@@ -9368,18 +9339,18 @@
     "url": "/implementation/circles-method/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
     "id": "pat_01kg50240vft1bjmxt2wepykwn",
-    "title": "Coherent: Clear Principles, Practices, Outcomes",
+    "title": "'Coherent: Clear Principles, Practices, Outcomes'",
     "slug": "coherent-clear-principles-practices-outcomes",
     "level": "implementation",
     "url": "/implementation/coherent-clear-principles-practices-outcomes/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
@@ -9390,7 +9361,7 @@
     "url": "/implementation/communication-frameworks/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
@@ -9401,7 +9372,7 @@
     "url": "/implementation/communities-of-practice/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
@@ -9423,7 +9394,7 @@
     "url": "/implementation/crystal-methods/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -9434,18 +9405,7 @@
     "url": "/implementation/delphi-method/",
     "aliases": [],
     "tags": [
-      "operations"
-    ]
-  },
-  {
-    "id": "",
-    "title": "Diversity & Inclusion Frameworks",
-    "slug": "diversity-inclusion-frameworks",
-    "level": "implementation",
-    "url": "/implementation/diversity-inclusion-frameworks/",
-    "aliases": [],
-    "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
@@ -9456,7 +9416,7 @@
     "url": "/implementation/dynamic-systems-development-method-dsdm/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -9467,7 +9427,7 @@
     "url": "/implementation/edge-computing-distributed-processing/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -9478,7 +9438,7 @@
     "url": "/implementation/emerging-strategy-tools/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -9489,7 +9449,7 @@
     "url": "/implementation/esg-framework/",
     "aliases": [],
     "tags": [
-      "sustainability"
+      "meta"
     ]
   },
   {
@@ -9522,7 +9482,7 @@
     "url": "/implementation/front-end-innovation-process/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -9531,9 +9491,13 @@
     "slug": "intergenerational-equity-frameworks",
     "level": "implementation",
     "url": "/implementation/intergenerational-equity-frameworks/",
-    "aliases": [],
+    "aliases": [
+      "Intergenerational Justice",
+      "Intergenerational Fairness",
+      "Future Generations Framework"
+    ],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -9544,7 +9508,7 @@
     "url": "/implementation/ista-testing-procedures/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -9555,7 +9519,7 @@
     "url": "/implementation/materials-selection-process-ashby-charts/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -9566,7 +9530,7 @@
     "url": "/implementation/mittelstand-innovation-practices/",
     "aliases": [],
     "tags": [
-      "culture"
+      "meta"
     ]
   },
   {
@@ -9577,7 +9541,7 @@
     "url": "/implementation/multi-stakeholder-governance-formal-frameworks/",
     "aliases": [],
     "tags": [
-      "governance"
+      "meta"
     ]
   },
   {
@@ -9588,7 +9552,7 @@
     "url": "/implementation/natural-language-processing-for-requirements/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -9599,7 +9563,7 @@
     "url": "/implementation/new-product-development-npd-process-booz-allen-hamilton/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -9632,7 +9596,7 @@
     "url": "/implementation/phase-gate-process/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -9643,7 +9607,7 @@
     "url": "/implementation/pomodoro-technique/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -9652,9 +9616,11 @@
     "slug": "power-electronics-design-methodology",
     "level": "implementation",
     "url": "/implementation/power-electronics-design-methodology/",
-    "aliases": [],
+    "aliases": [
+      "PEDM"
+    ],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -9665,7 +9631,7 @@
     "url": "/implementation/privacy-by-design-cavoukians-framework/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -9676,7 +9642,7 @@
     "url": "/implementation/process-capability-analysis/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -9687,7 +9653,7 @@
     "url": "/implementation/process-design-and-simulation-aspen-hysys/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -9698,7 +9664,7 @@
     "url": "/implementation/process-philosophy-whitehead/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -9709,7 +9675,7 @@
     "url": "/implementation/product-generation-process/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -9720,7 +9686,7 @@
     "url": "/implementation/production-part-approval-process-ppap/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -9742,7 +9708,7 @@
     "url": "/implementation/robust-design-taguchi-methods/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -9764,7 +9730,7 @@
     "url": "/implementation/separation-process-design/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -9775,7 +9741,7 @@
     "url": "/implementation/stage-gate-process-cooper/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -9786,7 +9752,7 @@
     "url": "/implementation/statistical-process-control-spc/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -9819,7 +9785,7 @@
     "url": "/implementation/technology-specific-frameworks/",
     "aliases": [],
     "tags": [
-      "technology"
+      "meta"
     ]
   },
   {
@@ -9841,7 +9807,7 @@
     "url": "/implementation/tool-specific-methodologies/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -9852,7 +9818,7 @@
     "url": "/implementation/traditional-craftsmanship-techniques/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -9863,7 +9829,7 @@
     "url": "/implementation/un-sustainable-development-goals-sdgs-global-framework/",
     "aliases": [],
     "tags": [
-      "design"
+      "meta"
     ]
   },
   {
@@ -9874,7 +9840,7 @@
     "url": "/implementation/valuation-methodologies/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   },
   {
@@ -9896,7 +9862,7 @@
     "url": "/implementation/x-matrix-hoshin-kanri-tool/",
     "aliases": [],
     "tags": [
-      "operations"
+      "meta"
     ]
   }
-]// Cache bust: 1769773534
+]
