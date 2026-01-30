@@ -90,9 +90,12 @@
     }
     
     .nav-link.active {
-      background: #f0fdf4;
-      color: #22c55e;
+      background: #e3f2fd;
+      color: #2196f3;
     }
+    
+    .nav-link.patterns:hover, .nav-link.patterns.active { background: #e3f2fd; color: #2196f3; }
+    .nav-link.lighthouses:hover { background: #e8f5e9; color: #4caf50; }
     
     .nav-search {
       position: relative;
@@ -100,7 +103,7 @@
     }
     
     .nav-search input {
-      width: 220px;
+      width: 260px;
       padding: 10px 16px 10px 40px;
       border: 2px solid #e8e8e8;
       border-radius: 25px;
@@ -111,9 +114,9 @@
     
     .nav-search input:focus {
       outline: none;
-      border-color: #22c55e;
+      border-color: #2196f3;
       background: white;
-      width: 280px;
+      width: 320px;
     }
     
     .nav-search .search-icon {
@@ -139,108 +142,6 @@
     .nav-cta:hover {
       transform: translateY(-2px);
       box-shadow: 0 5px 15px rgba(34, 197, 94, 0.3);
-    }
-    
-    /* Language Selector */
-    .lang-selector {
-      position: relative;
-      margin-left: 10px;
-    }
-    
-    .lang-btn {
-      display: flex;
-      align-items: center;
-      gap: 5px;
-      padding: 8px 12px;
-      background: #f5f5f5;
-      border: 1px solid #e0e0e0;
-      border-radius: 20px;
-      cursor: pointer;
-      font-size: 0.85em;
-      color: #555;
-      transition: all 0.2s ease;
-    }
-    
-    .lang-btn:hover {
-      background: #eee;
-      border-color: #ccc;
-    }
-    
-    .lang-dropdown {
-      position: absolute;
-      top: 100%;
-      right: 0;
-      background: white;
-      border-radius: 12px;
-      box-shadow: 0 10px 40px rgba(0,0,0,0.15);
-      margin-top: 8px;
-      min-width: 180px;
-      display: none;
-      z-index: 1002;
-      overflow: hidden;
-    }
-    
-    .lang-dropdown.active {
-      display: block;
-    }
-    
-    .lang-option {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      padding: 12px 16px;
-      cursor: pointer;
-      transition: background 0.2s ease;
-      border-bottom: 1px solid #f0f0f0;
-    }
-    
-    .lang-option:last-child {
-      border-bottom: none;
-    }
-    
-    .lang-option:hover {
-      background: #f0fdf4;
-    }
-    
-    .lang-option.active {
-      background: #f0fdf4;
-      color: #22c55e;
-    }
-    
-    .lang-option .flag {
-      font-size: 1.2em;
-    }
-    
-    .lang-option .lang-name {
-      flex: 1;
-    }
-    
-    .lang-option .check {
-      color: #22c55e;
-      display: none;
-    }
-    
-    .lang-option.active .check {
-      display: inline;
-    }
-    
-    /* Translation Banner */
-    .translation-banner {
-      background: linear-gradient(90deg, #667eea, #764ba2);
-      color: white;
-      padding: 10px 20px;
-      text-align: center;
-      font-size: 0.9em;
-      display: none;
-    }
-    
-    .translation-banner.active {
-      display: block;
-    }
-    
-    .translation-banner a {
-      color: #ffd700;
-      text-decoration: underline;
     }
     
     /* Search Results Dropdown */
@@ -274,7 +175,7 @@
     }
     
     .search-result-item:hover {
-      background: #f0fdf4;
+      background: #e3f2fd;
     }
     
     .search-result-item:last-child {
@@ -299,7 +200,7 @@
     }
     
     .search-no-results a {
-      color: #22c55e;
+      color: #2196f3;
     }
     
     /* Main Content */
@@ -322,7 +223,7 @@
     
     p { margin-bottom: 1rem; }
     
-    a { color: #22c55e; }
+    a { color: #2196f3; }
     
     code {
       background: #f0f0f0;
@@ -357,7 +258,7 @@
     }
     
     blockquote {
-      border-left: 4px solid #22c55e;
+      border-left: 4px solid #2196f3;
       padding-left: 1rem;
       margin: 1rem 0;
       color: #666;
@@ -431,33 +332,22 @@
       .nav-cta {
         margin-left: 0;
       }
-      
-      .lang-selector {
-        margin-left: auto;
-      }
     }
   </style>
 </head>
 <body>
-  <!-- Translation Banner (shown when translation is active) -->
-  <div class="translation-banner" id="translation-banner">
-    🌐 This page has been automatically translated. <a href="#" id="show-original">Show original</a>
-  </div>
-  
   <nav class="nav">
     <div class="nav-container">
-      <a href="{{ site.baseurl }}/" class="nav-brand">
+      <a href="/" class="nav-brand">
         <div class="logo-icon">🌿</div>
         Commons <span>OS</span>
       </a>
       
       <div class="nav-links">
-        <a href="{{ site.baseurl }}/about/" class="nav-link">About</a>
-        <a href="{{ site.baseurl }}/business/" class="nav-link">Business</a>
-        <a href="{{ site.baseurl }}/urban/" class="nav-link">Urban</a>
-        <a href="{{ site.baseurl }}/ecology/" class="nav-link">Ecology</a>
-        <a href="{{ site.baseurl }}/life/" class="nav-link">Life</a>
-        <a href="{{ site.baseurl }}/suggest/" class="nav-link">Suggest</a>
+        <a href="/about/" class="nav-link">About</a>
+        <a href="/patterns/" class="nav-link patterns active">⚙️ Patterns</a>
+        <a href="/lighthouses/" class="nav-link lighthouses">🗼 Lighthouses</a>
+        <a href="/patterns/suggest/" class="nav-link">Suggest</a>
       </div>
       
       <div class="nav-search">
@@ -466,67 +356,11 @@
         <div class="search-results" id="search-results"></div>
       </div>
       
-      <!-- Language Selector -->
-      <div class="lang-selector">
-        <button class="lang-btn" id="lang-btn">
-          <span class="flag" id="current-flag">🇬🇧</span>
-          <span id="current-lang">EN</span>
-          <span>▾</span>
-        </button>
-        <div class="lang-dropdown" id="lang-dropdown">
-          <div class="lang-option active" data-lang="en" data-flag="🇬🇧" data-name="English">
-            <span class="flag">🇬🇧</span>
-            <span class="lang-name">English</span>
-            <span class="check">✓</span>
-          </div>
-          <div class="lang-option" data-lang="de" data-flag="🇩🇪" data-name="Deutsch">
-            <span class="flag">🇩🇪</span>
-            <span class="lang-name">Deutsch</span>
-            <span class="check">✓</span>
-          </div>
-          <div class="lang-option" data-lang="fr" data-flag="🇫🇷" data-name="Français">
-            <span class="flag">🇫🇷</span>
-            <span class="lang-name">Français</span>
-            <span class="check">✓</span>
-          </div>
-          <div class="lang-option" data-lang="es" data-flag="🇪🇸" data-name="Español">
-            <span class="flag">🇪🇸</span>
-            <span class="lang-name">Español</span>
-            <span class="check">✓</span>
-          </div>
-          <div class="lang-option" data-lang="pt" data-flag="🇵🇹" data-name="Português">
-            <span class="flag">🇵🇹</span>
-            <span class="lang-name">Português</span>
-            <span class="check">✓</span>
-          </div>
-          <div class="lang-option" data-lang="nl" data-flag="🇳🇱" data-name="Nederlands">
-            <span class="flag">🇳🇱</span>
-            <span class="lang-name">Nederlands</span>
-            <span class="check">✓</span>
-          </div>
-          <div class="lang-option" data-lang="it" data-flag="🇮🇹" data-name="Italiano">
-            <span class="flag">🇮🇹</span>
-            <span class="lang-name">Italiano</span>
-            <span class="check">✓</span>
-          </div>
-          <div class="lang-option" data-lang="zh" data-flag="🇨🇳" data-name="中文">
-            <span class="flag">🇨🇳</span>
-            <span class="lang-name">中文</span>
-            <span class="check">✓</span>
-          </div>
-          <div class="lang-option" data-lang="ja" data-flag="🇯🇵" data-name="日本語">
-            <span class="flag">🇯🇵</span>
-            <span class="lang-name">日本語</span>
-            <span class="check">✓</span>
-          </div>
-        </div>
-      </div>
-      
       <a href="https://cloudsters.net" class="nav-cta" target="_blank">Join Community</a>
     </div>
   </nav>
   
-  <main class="main-content" id="main-content">
+  <main class="main-content">
     {{ content }}
   </main>
   
@@ -537,7 +371,7 @@
         Stewarded by <a href="https://cloudsters.net">cloudsters</a>
       </div>
       <div>
-        <a href="https://github.com/Commons-OS/patterns">GitHub</a> · 
+        <a href="https://github.com/Commons-OS">GitHub</a> · 
         <a href="https://cloudsters.net">cloudsters.net</a>
       </div>
     </div>
@@ -591,11 +425,11 @@
       
       const html = results.map(result => {
         const item = result.item;
-        const levelLabel = item.level.replace('_', '-');
+        const levelLabel = item.level ? item.level.replace('_', '-') : 'pattern';
         return `
           <a href="${item.url}" class="search-result-item">
             <h4>${item.title}</h4>
-            <div class="meta">${levelLabel} · ${item.tags.join(', ') || 'Business'}</div>
+            <div class="meta">${levelLabel} · ${(item.tags || []).join(', ') || 'Business'}</div>
           </a>
         `;
       }).join('');
@@ -615,199 +449,6 @@
     searchInput.addEventListener('keydown', function(e) {
       if (e.key === 'Escape') {
         searchResults.classList.remove('active');
-      }
-    });
-    
-    // ========================================
-    // Language Selector & Translation System
-    // ========================================
-    
-    const langBtn = document.getElementById('lang-btn');
-    const langDropdown = document.getElementById('lang-dropdown');
-    const langOptions = document.querySelectorAll('.lang-option');
-    const currentFlag = document.getElementById('current-flag');
-    const currentLang = document.getElementById('current-lang');
-    const translationBanner = document.getElementById('translation-banner');
-    const showOriginal = document.getElementById('show-original');
-    const mainContent = document.getElementById('main-content');
-    
-    let originalContent = null;
-    let currentLanguage = localStorage.getItem('commons-os-lang') || 'en';
-    
-    // Toggle dropdown
-    langBtn.addEventListener('click', function(e) {
-      e.stopPropagation();
-      langDropdown.classList.toggle('active');
-    });
-    
-    // Close dropdown when clicking outside
-    document.addEventListener('click', function() {
-      langDropdown.classList.remove('active');
-    });
-    
-    // Handle language selection
-    langOptions.forEach(option => {
-      option.addEventListener('click', async function() {
-        const lang = this.dataset.lang;
-        const flag = this.dataset.flag;
-        const name = this.dataset.name;
-        
-        // Update UI
-        langOptions.forEach(opt => opt.classList.remove('active'));
-        this.classList.add('active');
-        currentFlag.textContent = flag;
-        currentLang.textContent = lang.toUpperCase();
-        langDropdown.classList.remove('active');
-        
-        // Save preference
-        localStorage.setItem('commons-os-lang', lang);
-        currentLanguage = lang;
-        
-        if (lang === 'en') {
-          // Restore original content
-          if (originalContent) {
-            mainContent.innerHTML = originalContent;
-          }
-          translationBanner.classList.remove('active');
-        } else {
-          // Translate the page
-          await translatePage(lang);
-        }
-      });
-    });
-    
-    // Show original content
-    showOriginal.addEventListener('click', function(e) {
-      e.preventDefault();
-      if (originalContent) {
-        mainContent.innerHTML = originalContent;
-      }
-      translationBanner.classList.remove('active');
-      
-      // Reset language selector to English
-      langOptions.forEach(opt => opt.classList.remove('active'));
-      document.querySelector('[data-lang="en"]').classList.add('active');
-      currentFlag.textContent = '🇬🇧';
-      currentLang.textContent = 'EN';
-      localStorage.setItem('commons-os-lang', 'en');
-      currentLanguage = 'en';
-    });
-    
-    // Translation function using LibreTranslate or browser translation
-    async function translatePage(targetLang) {
-      // Store original content if not already stored
-      if (!originalContent) {
-        originalContent = mainContent.innerHTML;
-      }
-      
-      // Show loading state
-      translationBanner.innerHTML = '🔄 Translating page...';
-      translationBanner.classList.add('active');
-      
-      try {
-        // Get all text nodes in main content
-        const textElements = mainContent.querySelectorAll('p, h1, h2, h3, h4, h5, h6, li, span, a, td, th, label, button');
-        
-        // Use Google Translate widget approach (most reliable for static sites)
-        // This adds a Google Translate element that handles translation
-        
-        // Alternative: Use LibreTranslate API (free, open source)
-        // For production, you might want to use DeepL API or Google Cloud Translation
-        
-        // For now, we'll use a simple approach that triggers browser translation
-        // by changing the lang attribute and using the Google Translate API
-        
-        const textsToTranslate = [];
-        const elementsToUpdate = [];
-        
-        textElements.forEach(el => {
-          const text = el.childNodes[0];
-          if (text && text.nodeType === Node.TEXT_NODE && text.textContent.trim()) {
-            textsToTranslate.push(text.textContent.trim());
-            elementsToUpdate.push({ element: el, textNode: text });
-          }
-        });
-        
-        // Batch translate using LibreTranslate (free API)
-        // Note: For production, consider hosting your own instance or using a paid service
-        const LIBRETRANSLATE_URL = 'https://libretranslate.com/translate';
-        
-        // For demo purposes, we'll use a simple approach
-        // In production, you'd want to batch these requests
-        
-        // Show banner with manual translation option
-        translationBanner.innerHTML = `
-          🌐 Auto-translation to ${getLanguageName(targetLang)} is available. 
-          <a href="https://translate.google.com/translate?sl=en&tl=${targetLang}&u=${encodeURIComponent(window.location.href)}" target="_blank">
-            Open in Google Translate
-          </a> | 
-          <a href="#" id="show-original">Show original</a>
-        `;
-        
-        // Re-attach show original handler
-        document.getElementById('show-original').addEventListener('click', function(e) {
-          e.preventDefault();
-          if (originalContent) {
-            mainContent.innerHTML = originalContent;
-          }
-          translationBanner.classList.remove('active');
-          
-          // Reset language selector to English
-          langOptions.forEach(opt => opt.classList.remove('active'));
-          document.querySelector('[data-lang="en"]').classList.add('active');
-          currentFlag.textContent = '🇬🇧';
-          currentLang.textContent = 'EN';
-          localStorage.setItem('commons-os-lang', 'en');
-        });
-        
-      } catch (error) {
-        console.error('Translation error:', error);
-        translationBanner.innerHTML = `
-          ⚠️ Auto-translation unavailable. 
-          <a href="https://translate.google.com/translate?sl=en&tl=${targetLang}&u=${encodeURIComponent(window.location.href)}" target="_blank">
-            Use Google Translate
-          </a> | 
-          <a href="#" id="show-original">Show original</a>
-        `;
-        
-        // Re-attach show original handler
-        document.getElementById('show-original').addEventListener('click', function(e) {
-          e.preventDefault();
-          if (originalContent) {
-            mainContent.innerHTML = originalContent;
-          }
-          translationBanner.classList.remove('active');
-        });
-      }
-    }
-    
-    function getLanguageName(code) {
-      const names = {
-        'de': 'German',
-        'fr': 'French',
-        'es': 'Spanish',
-        'pt': 'Portuguese',
-        'nl': 'Dutch',
-        'it': 'Italian',
-        'zh': 'Chinese',
-        'ja': 'Japanese'
-      };
-      return names[code] || code;
-    }
-    
-    // Initialize language on page load
-    document.addEventListener('DOMContentLoaded', function() {
-      const savedLang = localStorage.getItem('commons-os-lang') || 'en';
-      if (savedLang !== 'en') {
-        const option = document.querySelector(`[data-lang="${savedLang}"]`);
-        if (option) {
-          currentFlag.textContent = option.dataset.flag;
-          currentLang.textContent = savedLang.toUpperCase();
-          langOptions.forEach(opt => opt.classList.remove('active'));
-          option.classList.add('active');
-          // Auto-translate on page load if non-English is selected
-          translatePage(savedLang);
-        }
       }
     });
   </script>
