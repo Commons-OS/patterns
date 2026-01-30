@@ -3,225 +3,509 @@ layout: default
 title: Commons OS Pattern Library
 ---
 
-<div class="home">
-  <section class="hero">
-    <h1>Commons OS Pattern Library</h1>
-    <p class="lead">
-      An open-source knowledge graph of <strong>926 organizational patterns</strong> 
-      documented in Alexandrian format for a more equitable and sustainable world.
-    </p>
-    <p>
-      Distributed by <a href="https://cloudsters.net">cloudsters</a> under 
-      <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0</a>
-    </p>
-  </section>
-  
-  <section class="stats">
-    <div class="stat-card">
-      <div class="stat-number">926</div>
-      <div class="stat-label">Patterns</div>
-    </div>
-    <div class="stat-card">
-      <div class="stat-number">3,545</div>
-      <div class="stat-label">Relationships</div>
-    </div>
-    <div class="stat-card">
-      <div class="stat-number">~2.9M</div>
-      <div class="stat-label">Words</div>
-    </div>
-  </section>
-  
-  <section class="browse">
-    <h2>Browse by Universality Level</h2>
-    
-    <div class="level-grid">
-      <a href="{{ site.baseurl }}/universal/" class="level-card universal">
-        <h3>Universal</h3>
-        <p>{{ site.universal.size }} patterns</p>
-        <span class="desc">Apply across all domains and contexts</span>
-      </a>
-      
-      <a href="{{ site.baseurl }}/human-universal/" class="level-card human-universal">
-        <h3>Human-Universal</h3>
-        <p>{{ site.human-universal.size }} patterns</p>
-        <span class="desc">Apply to human organizations universally</span>
-      </a>
-      
-      <a href="{{ site.baseurl }}/domain/" class="level-card domain">
-        <h3>Domain</h3>
-        <p>{{ site.domain.size }} patterns</p>
-        <span class="desc">Apply within specific domains</span>
-      </a>
-      
-      <a href="{{ site.baseurl }}/context-specific/" class="level-card context-specific">
-        <h3>Context-Specific</h3>
-        <p>{{ site.context-specific.size }} patterns</p>
-        <span class="desc">Apply in specific contexts</span>
-      </a>
-      
-      <a href="{{ site.baseurl }}/implementation/" class="level-card implementation">
-        <h3>Implementation</h3>
-        <p>{{ site.implementation.size }} patterns</p>
-        <span class="desc">Specific implementation approaches</span>
-      </a>
-    </div>
-  </section>
-  
-  <section class="recent">
-    <h2>Featured Patterns</h2>
-    <ul class="pattern-list">
-      {% for pattern in site.universal limit:5 %}
-      <li>
-        <a href="{{ site.baseurl }}{{ pattern.url }}">{{ pattern.title }}</a>
-        <span class="badge badge-universal">Universal</span>
-      </li>
-      {% endfor %}
-      {% for pattern in site.human-universal limit:5 %}
-      <li>
-        <a href="{{ site.baseurl }}{{ pattern.url }}">{{ pattern.title }}</a>
-        <span class="badge badge-human-universal">Human-Universal</span>
-      </li>
-      {% endfor %}
-    </ul>
-  </section>
-  
-  <section class="about">
-    <h2>About Commons OS</h2>
-    <p>
-      Commons OS is building an open-source knowledge graph of organizational patterns 
-      to help organizations transition toward more equitable, sustainable, and 
-      commons-aligned ways of working.
-    </p>
-    <p>
-      Each pattern is documented with:
-    </p>
-    <ul>
-      <li><strong>9 standardized sections</strong> following the Alexandrian format</li>
-      <li><strong>Commons Alignment Assessment</strong> across 7 dimensions</li>
-      <li><strong>Cognitive Era Considerations</strong> for AI/automation readiness</li>
-      <li><strong>TypeID (UUID v7)</strong> for stable cross-references</li>
-      <li><strong>Bidirectional relationships</strong> to related patterns</li>
-    </ul>
-    <p>
-      <a href="https://github.com/commons-os/patterns">Contribute on GitHub</a> &middot;
-      <a href="https://cloudsters.net">Learn more at cloudsters.net</a>
-    </p>
-  </section>
-</div>
-
 <style>
+  /* Hero Section */
   .hero {
     text-align: center;
-    padding: 3rem 0;
-    border-bottom: 1px solid var(--border);
-    margin-bottom: 2rem;
+    padding: 60px 20px;
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+    color: white;
+    margin: -20px -20px 40px -20px;
   }
   
   .hero h1 {
-    margin-top: 0;
-    font-size: 2.5rem;
+    font-size: 2.8em;
+    margin-bottom: 10px;
+    font-weight: 300;
+    letter-spacing: 2px;
   }
   
-  .lead {
-    font-size: 1.25rem;
-    color: var(--text-muted);
-    max-width: 600px;
-    margin: 1rem auto;
+  .hero h1 span {
+    font-weight: 600;
+    color: #4ade80;
   }
   
-  .stats {
+  .hero .tagline {
+    font-size: 1.4em;
+    color: #94a3b8;
+    margin-bottom: 30px;
+    font-weight: 300;
+  }
+  
+  .hero .tagline strong {
+    color: #4ade80;
+    font-weight: 500;
+  }
+  
+  .hero .cta-buttons {
     display: flex;
+    gap: 15px;
     justify-content: center;
-    gap: 2rem;
-    margin: 2rem 0;
+    flex-wrap: wrap;
   }
   
-  .stat-card {
-    text-align: center;
-    padding: 1.5rem 2rem;
-    background: var(--surface);
-    border-radius: 8px;
+  .hero .cta-buttons a {
+    padding: 12px 28px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.3s ease;
   }
   
-  .stat-number {
-    font-size: 2rem;
-    font-weight: 700;
-    color: var(--primary);
+  .hero .cta-primary {
+    background: #4ade80;
+    color: #1a1a2e;
   }
   
-  .stat-label {
-    color: var(--text-muted);
-    font-size: 0.875rem;
-    text-transform: uppercase;
+  .hero .cta-primary:hover {
+    background: #22c55e;
+    transform: translateY(-2px);
   }
   
-  .level-grid {
+  .hero .cta-secondary {
+    border: 2px solid #4ade80;
+    color: #4ade80;
+  }
+  
+  .hero .cta-secondary:hover {
+    background: rgba(74, 222, 128, 0.1);
+  }
+  
+  /* Section Styling */
+  .section {
+    margin-bottom: 50px;
+  }
+  
+  .section h2 {
+    font-size: 1.8em;
+    color: #1e293b;
+    margin-bottom: 10px;
+    border-bottom: 3px solid #4ade80;
+    padding-bottom: 10px;
+    display: inline-block;
+  }
+  
+  .section .subtitle {
+    color: #64748b;
+    font-size: 1.1em;
+    margin-bottom: 25px;
+  }
+  
+  /* Commons Domains Grid */
+  .domains-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 1rem;
-    margin: 1rem 0;
+    gap: 20px;
+    margin-top: 20px;
   }
   
-  .level-card {
-    display: block;
-    padding: 1.5rem;
-    border-radius: 8px;
+  .domain-card {
+    background: white;
+    border: 2px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 25px;
+    text-align: center;
+    transition: all 0.3s ease;
     text-decoration: none;
-    color: var(--text);
-    transition: transform 0.2s, box-shadow 0.2s;
+    color: inherit;
   }
   
-  .level-card:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  .domain-card:hover {
+    border-color: #4ade80;
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
   }
   
-  .level-card h3 {
-    margin: 0 0 0.5rem 0;
-    font-size: 1.1rem;
+  .domain-card .icon {
+    font-size: 3em;
+    margin-bottom: 15px;
   }
   
-  .level-card p {
+  .domain-card h3 {
+    margin: 0 0 8px 0;
+    color: #1e293b;
+    font-size: 1.3em;
+  }
+  
+  .domain-card p {
     margin: 0;
+    color: #64748b;
+    font-size: 0.9em;
+  }
+  
+  .domain-card.coming-soon {
+    opacity: 0.6;
+    border-style: dashed;
+  }
+  
+  .domain-card.coming-soon:hover {
+    transform: none;
+    box-shadow: none;
+    border-color: #e2e8f0;
+  }
+  
+  .domain-card .badge {
+    display: inline-block;
+    background: #4ade80;
+    color: #1a1a2e;
+    padding: 3px 10px;
+    border-radius: 12px;
+    font-size: 0.75em;
     font-weight: 600;
+    margin-top: 10px;
   }
   
-  .level-card .desc {
-    font-size: 0.8rem;
-    color: var(--text-muted);
+  .domain-card .badge.coming {
+    background: #94a3b8;
+    color: white;
   }
   
-  .level-card.universal { background: #dbeafe; }
-  .level-card.human-universal { background: #dcfce7; }
-  .level-card.domain { background: #fef3c7; }
-  .level-card.context-specific { background: #fce7f3; }
-  .level-card.implementation { background: #f3e8ff; }
-  
-  .pattern-list {
-    list-style: none;
-    padding: 0;
-  }
-  
-  .pattern-list li {
-    padding: 0.75rem 0;
-    border-bottom: 1px solid var(--border);
+  /* Stats Bar */
+  .stats-bar {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+    padding: 20px;
+    background: #f8fafc;
+    border-radius: 12px;
+    margin: 30px 0;
   }
   
-  .pattern-list li:last-child {
-    border-bottom: none;
+  .stat {
+    text-align: center;
   }
   
-  .about {
-    margin-top: 3rem;
-    padding: 2rem;
-    background: var(--surface);
-    border-radius: 8px;
+  .stat .number {
+    font-size: 2em;
+    font-weight: 700;
+    color: #4ade80;
   }
   
-  .about h2 {
+  .stat .label {
+    color: #64748b;
+    font-size: 0.9em;
+  }
+  
+  /* Suits Section */
+  .suits-intro {
+    background: linear-gradient(135deg, #f0fdf4 0%, #ecfdf5 100%);
+    border: 2px solid #bbf7d0;
+    border-radius: 12px;
+    padding: 30px;
+    margin: 30px 0;
+  }
+  
+  .suits-intro h3 {
+    color: #166534;
     margin-top: 0;
   }
+  
+  .suits-intro p {
+    color: #15803d;
+    margin-bottom: 0;
+  }
+  
+  /* Browse by Level */
+  .levels-grid {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+  }
+  
+  .level-link {
+    padding: 12px 24px;
+    background: #f1f5f9;
+    border-radius: 8px;
+    text-decoration: none;
+    color: #475569;
+    font-weight: 500;
+    transition: all 0.3s ease;
+  }
+  
+  .level-link:hover {
+    background: #4ade80;
+    color: #1a1a2e;
+  }
+  
+  .level-link .count {
+    background: #cbd5e1;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 0.85em;
+    margin-left: 8px;
+  }
+  
+  .level-link:hover .count {
+    background: rgba(0,0,0,0.2);
+  }
+  
+  /* Contribute Section */
+  .contribute-section {
+    background: #1e293b;
+    color: white;
+    border-radius: 12px;
+    padding: 40px;
+    margin: 40px 0;
+  }
+  
+  .contribute-section h2 {
+    color: white;
+    border-bottom-color: #4ade80;
+  }
+  
+  .contribute-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+    margin-top: 25px;
+  }
+  
+  .contribute-card {
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 10px;
+    padding: 25px;
+    text-align: center;
+  }
+  
+  .contribute-card .icon {
+    font-size: 2em;
+    margin-bottom: 15px;
+  }
+  
+  .contribute-card h4 {
+    margin: 0 0 8px 0;
+    color: #4ade80;
+  }
+  
+  .contribute-card p {
+    margin: 0 0 15px 0;
+    color: #94a3b8;
+    font-size: 0.9em;
+  }
+  
+  .contribute-card a {
+    display: inline-block;
+    padding: 8px 20px;
+    background: transparent;
+    border: 1px solid #4ade80;
+    color: #4ade80;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 0.9em;
+    transition: all 0.3s ease;
+  }
+  
+  .contribute-card a:hover {
+    background: #4ade80;
+    color: #1e293b;
+  }
+  
+  /* About Section */
+  .about-section {
+    background: #f8fafc;
+    border-radius: 12px;
+    padding: 30px;
+    margin: 30px 0;
+  }
+  
+  .about-section p {
+    color: #475569;
+    line-height: 1.8;
+    margin: 0;
+  }
+  
+  /* Footer */
+  .home-footer {
+    text-align: center;
+    padding: 30px;
+    color: #64748b;
+    border-top: 1px solid #e2e8f0;
+    margin-top: 40px;
+  }
+  
+  .home-footer a {
+    color: #4ade80;
+  }
 </style>
+
+<!-- Hero Section -->
+<div class="hero">
+  <h1>Commons <span>OS</span></h1>
+  <p class="tagline">For <strong>Commons Engineers</strong> — building resilient cities, organizations, ecologies, and lives.</p>
+  <div class="cta-buttons">
+    <a href="#domains" class="cta-primary">Explore Patterns</a>
+    <a href="#contribute" class="cta-secondary">Become a Commons Engineer</a>
+  </div>
+</div>
+
+<!-- Stats Bar -->
+<div class="stats-bar">
+  <div class="stat">
+    <div class="number">926</div>
+    <div class="label">Patterns</div>
+  </div>
+  <div class="stat">
+    <div class="number">3,545</div>
+    <div class="label">Relationships</div>
+  </div>
+  <div class="stat">
+    <div class="number">4</div>
+    <div class="label">Commons Domains</div>
+  </div>
+  <div class="stat">
+    <div class="number">∞</div>
+    <div class="label">Possibilities</div>
+  </div>
+</div>
+
+<!-- Commons Domains Section -->
+<div class="section" id="domains">
+  <h2>Commons Domains</h2>
+  <p class="subtitle">Choose your domain. Find patterns that work. Build what lasts.</p>
+  
+  <div class="domains-grid">
+    <a href="{{ site.baseurl }}/domain/" class="domain-card">
+      <div class="icon">🏙️</div>
+      <h3>Urban</h3>
+      <p>Cities, neighborhoods, infrastructure, public spaces</p>
+      <span class="badge coming">Coming Soon</span>
+    </a>
+    
+    <a href="{{ site.baseurl }}/domain/" class="domain-card">
+      <div class="icon">🏢</div>
+      <h3>Business</h3>
+      <p>Organizations, enterprises, cooperatives, ventures</p>
+      <span class="badge">926 Patterns</span>
+    </a>
+    
+    <a href="{{ site.baseurl }}/domain/" class="domain-card">
+      <div class="icon">🌿</div>
+      <h3>Ecology</h3>
+      <p>Biodiversity, ecosystems, regeneration, natural commons</p>
+      <span class="badge coming">Coming Soon</span>
+    </a>
+    
+    <a href="{{ site.baseurl }}/domain/" class="domain-card">
+      <div class="icon">🌱</div>
+      <h3>Life</h3>
+      <p>Purpose, health, relationships, wealth, personal mastery</p>
+      <span class="badge coming">Coming Soon</span>
+    </a>
+  </div>
+  
+  <div class="domains-grid" style="margin-top: 15px;">
+    <div class="domain-card coming-soon">
+      <div class="icon">📚</div>
+      <h3>Knowledge</h3>
+      <p>Learning, research, wisdom traditions</p>
+      <span class="badge coming">Future</span>
+    </div>
+    
+    <div class="domain-card coming-soon">
+      <div class="icon">🎭</div>
+      <h3>Culture</h3>
+      <p>Arts, traditions, identity, heritage</p>
+      <span class="badge coming">Future</span>
+    </div>
+    
+    <div class="domain-card coming-soon">
+      <div class="icon">➕</div>
+      <h3>More Domains</h3>
+      <p>The commons is ever-expanding</p>
+      <span class="badge coming">Contribute</span>
+    </div>
+  </div>
+</div>
+
+<!-- Superpower Suits Section -->
+<div class="suits-intro">
+  <h3>🦸 Commons Superpower Suits</h3>
+  <p>
+    <strong>You are the Commons Engineer.</strong> The patterns are your toolkit. 
+    Soon, you'll be able to "suit up" with domain-specific AI assistants that help you 
+    find the right patterns for your context — whether you're an Urban Engineer designing 
+    a resilient neighborhood, a Business Engineer restructuring an organization, 
+    a Regenerative Engineer restoring an ecosystem, or a Life Engineer crafting a meaningful life.
+  </p>
+</div>
+
+<!-- Browse by Universality Level -->
+<div class="section">
+  <h2>Browse by Universality</h2>
+  <p class="subtitle">Patterns range from universal principles to context-specific implementations.</p>
+  
+  <div class="levels-grid">
+    <a href="{{ site.baseurl }}/universal/" class="level-link">
+      Universal <span class="count">{{ site.universal.size }}</span>
+    </a>
+    <a href="{{ site.baseurl }}/human-universal/" class="level-link">
+      Human-Universal <span class="count">{{ site.human-universal.size }}</span>
+    </a>
+    <a href="{{ site.baseurl }}/domain/" class="level-link">
+      Domain <span class="count">{{ site.domain.size }}</span>
+    </a>
+    <a href="{{ site.baseurl }}/context-specific/" class="level-link">
+      Context-Specific <span class="count">{{ site.context-specific.size }}</span>
+    </a>
+    <a href="{{ site.baseurl }}/implementation/" class="level-link">
+      Implementation <span class="count">{{ site.implementation.size }}</span>
+    </a>
+  </div>
+</div>
+
+<!-- About Section -->
+<div class="about-section">
+  <p>
+    <strong>Commons OS</strong> is an open-source pattern library for building systems that last. 
+    Whether you're designing a regenerative city, a thriving community, a sustainable organization, 
+    or a meaningful life — the same underlying patterns apply. We call the people who master this 
+    discipline <strong>Commons Engineers</strong>.
+  </p>
+</div>
+
+<!-- Contribute Section -->
+<div class="contribute-section" id="contribute">
+  <h2>Want to Contribute & Learn More?</h2>
+  
+  <div class="contribute-grid">
+    <div class="contribute-card">
+      <div class="icon">🌐</div>
+      <h4>Explore</h4>
+      <p>Browse patterns, read documentation, discover connections</p>
+      <a href="{{ site.baseurl }}/domain/">Browse Free</a>
+    </div>
+    
+    <div class="contribute-card">
+      <div class="icon">🤝</div>
+      <h4>Join</h4>
+      <p>Connect with Commons Engineers worldwide</p>
+      <a href="https://cloudsters.net" target="_blank">€5/month</a>
+    </div>
+    
+    <div class="contribute-card">
+      <div class="icon">🎓</div>
+      <h4>Learn</h4>
+      <p>Structured curriculum, certification, mentorship</p>
+      <a href="https://cloudsters.net" target="_blank">Academy</a>
+    </div>
+    
+    <div class="contribute-card">
+      <div class="icon">🚀</div>
+      <h4>Build</h4>
+      <p>Work on real commons projects with cloudsters</p>
+      <a href="https://cloudsters.net" target="_blank">Services</a>
+    </div>
+  </div>
+</div>
+
+<!-- Footer -->
+<div class="home-footer">
+  <p>
+    Commons OS is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC-BY-SA-4.0</a><br>
+    Stewarded by <a href="https://cloudsters.net" target="_blank">cloudsters</a> · 
+    <a href="https://github.com/Commons-OS/patterns" target="_blank">GitHub</a>
+  </p>
+</div>
