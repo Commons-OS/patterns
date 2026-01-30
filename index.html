@@ -417,6 +417,27 @@ title: Commons OS Pattern Library
   .home-footer a:hover {
     text-decoration: underline;
   }
+
+  /* Engines Section */
+  .engines-section { margin: 60px 0; }
+  .engines-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 30px; margin-top: 30px; }
+  .engine-card { background: white; border-radius: 16px; padding: 30px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); border-top: 4px solid; }
+  .engine-card.pattern-engine { border-top-color: var(--warm-blue); }
+  .engine-card.context-engine { border-top-color: var(--warm-orange); }
+  .engine-icon { font-size: 2.5em; margin-bottom: 15px; }
+  .engine-card h3 { font-size: 1.4em; margin: 0 0 5px 0; color: var(--text-dark); }
+  .engine-tagline { color: var(--text-muted); font-style: italic; margin: 0 0 20px 0; }
+  .engine-card ul { list-style: none; padding: 0; margin: 0 0 20px 0; }
+  .engine-card li { padding: 8px 0 8px 28px; position: relative; color: var(--text-dark); border-bottom: 1px solid #f0f0f0; }
+  .engine-card li:last-child { border-bottom: none; }
+  .engine-card.pattern-engine li::before { content: "⚡"; position: absolute; left: 0; }
+  .engine-card.context-engine li::before { content: "🎯"; position: absolute; left: 0; }
+  .engine-note { font-size: 0.9em; color: var(--text-muted); margin: 0; padding-top: 15px; border-top: 1px dashed #ddd; }
+  .engines-intersection { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 16px; padding: 30px; margin-top: 30px; text-align: center; }
+  .intersection-icon { font-size: 2em; margin-bottom: 10px; }
+  .engines-intersection p { margin: 0; font-size: 1.1em; line-height: 1.7; }
+  .engines-intersection strong { color: #ffd700; }
+
 </style>
 
 <!-- Hero Section -->
@@ -519,6 +540,48 @@ title: Commons OS Pattern Library
     a Regenerative Engineer restoring an ecosystem, or a Life Engineer crafting a meaningful life.
   </p>
 </div>
+
+<!-- The Two Engines Section -->
+<div class="section engines-section">
+  <h2>The Two Engines of Commons OS</h2>
+  <p class="subtitle">Patterns alone aren't enough. You need the right patterns for your specific context.</p>
+  
+  <div class="engines-grid">
+    <div class="engine-card pattern-engine">
+      <div class="engine-icon">⚙️</div>
+      <h3>Pattern Engine</h3>
+      <p class="engine-tagline">The collective intelligence of proven solutions</p>
+      <ul>
+        <li>926+ documented patterns and growing</li>
+        <li>3,545 relationships mapped between patterns</li>
+        <li>Fuzzy search across titles, aliases, and tags</li>
+        <li>Duplicate detection for contributions</li>
+        <li>Patterns organized by domain and universality</li>
+      </ul>
+      <p class="engine-note">The Pattern Engine retrieves, connects, and suggests patterns based on what you're building.</p>
+    </div>
+    
+    <div class="engine-card context-engine">
+      <div class="engine-icon">🎯</div>
+      <h3>Context Engine</h3>
+      <p class="engine-tagline">Deep understanding of your specific situation</p>
+      <ul>
+        <li>Ingests your Context Blueprint</li>
+        <li>Understands your timeslices (baseline → future)</li>
+        <li>Knows your constraints, culture, and resources</li>
+        <li>Adapts patterns to your reality</li>
+        <li>Guides incremental implementation</li>
+      </ul>
+      <p class="engine-note">The Context Engine ensures patterns aren't generic advice — they're specific guidance for YOUR commons.</p>
+    </div>
+  </div>
+  
+  <div class="engines-intersection">
+    <div class="intersection-icon">✨</div>
+    <p><strong>The magic happens at the intersection.</strong> When Pattern Engine meets Context Engine, you get contextual patterns — not "here's how Sociocracy works" but "here's how Sociocracy would work for YOUR 50-person company in Germany with THESE constraints."</p>
+  </div>
+</div>
+
 
 <!-- Browse by Universality Level -->
 <div class="section">
