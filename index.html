@@ -418,25 +418,115 @@ title: Commons OS Pattern Library
     text-decoration: underline;
   }
 
-  /* Engines Section */
-  .engines-section { margin: 60px 0; }
-  .engines-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 30px; margin-top: 30px; }
-  .engine-card { background: white; border-radius: 16px; padding: 30px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); border-top: 4px solid; }
+  /* Three Engines Section */
+  .engines-section { 
+    margin: 60px 0; 
+  }
+  
+  .engines-grid { 
+    display: grid; 
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
+    gap: 25px; 
+    margin-top: 30px; 
+  }
+  
+  .engine-card { 
+    background: white; 
+    border-radius: 16px; 
+    padding: 30px; 
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08); 
+    border-top: 5px solid;
+    transition: transform 0.3s ease;
+  }
+  
+  .engine-card:hover {
+    transform: translateY(-5px);
+  }
+  
   .engine-card.pattern-engine { border-top-color: var(--warm-blue); }
   .engine-card.context-engine { border-top-color: var(--warm-orange); }
-  .engine-icon { font-size: 2.5em; margin-bottom: 15px; }
-  .engine-card h3 { font-size: 1.4em; margin: 0 0 5px 0; color: var(--text-dark); }
-  .engine-tagline { color: var(--text-muted); font-style: italic; margin: 0 0 20px 0; }
-  .engine-card ul { list-style: none; padding: 0; margin: 0 0 20px 0; }
-  .engine-card li { padding: 8px 0 8px 28px; position: relative; color: var(--text-dark); border-bottom: 1px solid #f0f0f0; }
-  .engine-card li:last-child { border-bottom: none; }
+  .engine-card.lighthouse-engine { border-top-color: var(--warm-green); }
+  
+  .engine-card .engine-icon {
+    font-size: 2.5em;
+    margin-bottom: 15px;
+  }
+  
+  .engine-card h3 { 
+    font-size: 1.4em; 
+    margin: 0 0 5px 0; 
+    color: var(--text-dark); 
+  }
+  
+  .engine-tagline { 
+    color: var(--text-muted); 
+    font-style: italic; 
+    margin: 0 0 20px 0; 
+  }
+  
+  .engine-card ul { 
+    list-style: none; 
+    padding: 0; 
+    margin: 0 0 20px 0; 
+  }
+  
+  .engine-card li { 
+    padding: 8px 0 8px 28px; 
+    position: relative; 
+    color: var(--text-dark); 
+    border-bottom: 1px solid #f0f0f0; 
+  }
+  
+  .engine-card li:last-child { 
+    border-bottom: none; 
+  }
+  
   .engine-card.pattern-engine li::before { content: "⚡"; position: absolute; left: 0; }
   .engine-card.context-engine li::before { content: "🎯"; position: absolute; left: 0; }
-  .engine-note { font-size: 0.9em; color: var(--text-muted); margin: 0; padding-top: 15px; border-top: 1px dashed #ddd; }
-  .engines-intersection { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 16px; padding: 30px; margin-top: 30px; text-align: center; }
-  .intersection-icon { font-size: 2em; margin-bottom: 10px; }
-  .engines-intersection p { margin: 0; font-size: 1.1em; line-height: 1.7; }
-  .engines-intersection strong { color: #ffd700; }
+  .engine-card.lighthouse-engine li::before { content: "✨"; position: absolute; left: 0; }
+  
+  .engine-note { 
+    font-size: 0.9em; 
+    color: var(--text-muted); 
+    margin: 0; 
+    padding-top: 15px; 
+    border-top: 1px dashed #ddd; 
+  }
+  
+  .engines-intersection { 
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 
+    color: white; 
+    border-radius: 16px; 
+    padding: 30px; 
+    margin-top: 30px; 
+    text-align: center; 
+  }
+  
+  .intersection-icon { 
+    font-size: 2em; 
+    margin-bottom: 10px; 
+  }
+  
+  .engines-intersection p { 
+    margin: 0; 
+    font-size: 1.1em; 
+    line-height: 1.7; 
+  }
+  
+  .engines-intersection strong { 
+    color: #ffd700; 
+  }
+
+  .engine-badge {
+    display: inline-block;
+    padding: 3px 10px;
+    background: #f0f0f0;
+    border-radius: 12px;
+    font-size: 0.75em;
+    color: #888;
+    margin-left: 10px;
+    font-style: normal;
+  }
 
 </style>
 
@@ -446,7 +536,7 @@ title: Commons OS Pattern Library
   <p class="tagline">For <strong>Commons Engineers</strong> — building resilient<br>cities, organizations, ecologies, and lives.</p>
   <div class="cta-buttons">
     <a href="#domains" class="cta-primary">Explore Patterns</a>
-    <a href="#contribute" class="cta-secondary">Become a Commons Engineer</a>
+    <a href="{{ site.baseurl }}/about/" class="cta-secondary">What is a Commons?</a>
   </div>
 </div>
 
@@ -541,10 +631,10 @@ title: Commons OS Pattern Library
   </p>
 </div>
 
-<!-- The Two Engines Section -->
+<!-- The Three Engines Section -->
 <div class="section engines-section">
-  <h2>The Two Engines of Commons OS</h2>
-  <p class="subtitle">Patterns alone aren't enough. You need the right patterns for your specific context.</p>
+  <h2>The Three Engines of Commons OS</h2>
+  <p class="subtitle">Patterns alone aren't enough. You need patterns adapted to your context, inspired by those who've done it before.</p>
   
   <div class="engines-grid">
     <div class="engine-card pattern-engine">
@@ -563,7 +653,7 @@ title: Commons OS Pattern Library
     
     <div class="engine-card context-engine">
       <div class="engine-icon">🎯</div>
-      <h3>Context Engine</h3>
+      <h3>Context Engine <span class="engine-badge">Coming Soon</span></h3>
       <p class="engine-tagline">Deep understanding of your specific situation</p>
       <ul>
         <li>Ingests your Context Blueprint</li>
@@ -574,11 +664,25 @@ title: Commons OS Pattern Library
       </ul>
       <p class="engine-note">The Context Engine ensures patterns aren't generic advice — they're specific guidance for YOUR commons.</p>
     </div>
+    
+    <div class="engine-card lighthouse-engine">
+      <div class="engine-icon">🗼</div>
+      <h3>Lighthouse Engine <span class="engine-badge">Coming Soon</span></h3>
+      <p class="engine-tagline">Organizations and cities leading the way</p>
+      <ul>
+        <li>Profiles of exemplary commons entities</li>
+        <li>From Patagonia to Oslo, Mondragon to Vienna</li>
+        <li>Maps which patterns each lighthouse uses</li>
+        <li>Evidence from public data and reports</li>
+        <li>Pathways for engagement and verification</li>
+      </ul>
+      <p class="engine-note">The Lighthouse Engine shows what's possible — real organizations and cities embodying commons patterns.</p>
+    </div>
   </div>
   
   <div class="engines-intersection">
     <div class="intersection-icon">✨</div>
-    <p><strong>The magic happens at the intersection.</strong> When Pattern Engine meets Context Engine, you get contextual patterns — not "here's how Sociocracy works" but "here's how Sociocracy would work for YOUR 50-person company in Germany with THESE constraints."</p>
+    <p><strong>The magic happens at the intersection.</strong> When Pattern Engine meets Context Engine, informed by Lighthouse examples, you get contextual patterns — not "here's how Sociocracy works" but "here's how Sociocracy would work for YOUR 50-person company in Germany, inspired by how Buurtzorg did it."</p>
   </div>
 </div>
 

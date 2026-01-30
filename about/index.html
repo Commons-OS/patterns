@@ -1,0 +1,489 @@
+---
+layout: default
+title: About Commons OS
+---
+
+<style>
+  :root {
+    --warm-pink: #e91e63;
+    --warm-blue: #2196f3;
+    --warm-orange: #ff9800;
+    --warm-green: #4caf50;
+    --warm-purple: #9c27b0;
+    --text-dark: #333;
+    --text-muted: #666;
+  }
+
+  /* Hero Section */
+  .about-hero {
+    text-align: center;
+    padding: 60px 20px;
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    color: white;
+    margin: -20px -20px 40px -20px;
+  }
+  
+  .about-hero h1 {
+    font-size: 2.8em;
+    margin-bottom: 20px;
+    font-weight: 300;
+  }
+  
+  .about-hero .subtitle {
+    font-size: 1.3em;
+    color: rgba(255,255,255,0.8);
+    max-width: 700px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+
+  /* Section Styling */
+  .about-section {
+    margin-bottom: 60px;
+  }
+  
+  .about-section h2 {
+    font-size: 2em;
+    color: var(--text-dark);
+    margin-bottom: 25px;
+    font-weight: 500;
+  }
+  
+  .about-section h2::after {
+    content: '';
+    display: block;
+    width: 60px;
+    height: 4px;
+    background: linear-gradient(90deg, var(--warm-pink), var(--warm-orange));
+    margin-top: 10px;
+    border-radius: 2px;
+  }
+
+  /* Commons Definition Box */
+  .commons-definition {
+    background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ed 100%);
+    border-radius: 16px;
+    padding: 40px;
+    margin: 30px 0;
+    border-left: 5px solid var(--warm-blue);
+  }
+  
+  .commons-definition blockquote {
+    font-size: 1.3em;
+    color: var(--text-dark);
+    margin: 0 0 20px 0;
+    font-style: italic;
+    line-height: 1.6;
+    border: none;
+    padding: 0;
+  }
+  
+  .commons-definition .attribution {
+    color: var(--text-muted);
+    font-size: 0.95em;
+  }
+
+  /* Urgency Section */
+  .urgency-section {
+    background: linear-gradient(135deg, #ff6b6b 0%, #ee5a5a 100%);
+    color: white;
+    border-radius: 16px;
+    padding: 40px;
+    margin: 40px 0;
+  }
+  
+  .urgency-section h2 {
+    color: white;
+    margin-top: 0;
+  }
+  
+  .urgency-section h2::after {
+    background: rgba(255,255,255,0.5);
+  }
+  
+  .urgency-section p {
+    font-size: 1.1em;
+    line-height: 1.8;
+    margin-bottom: 20px;
+  }
+  
+  .urgency-section strong {
+    color: #ffd700;
+  }
+
+  /* Challenges Grid */
+  .challenges-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 25px;
+    margin: 30px 0;
+  }
+  
+  .challenge-card {
+    background: white;
+    border-radius: 12px;
+    padding: 25px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+    transition: transform 0.3s ease;
+  }
+  
+  .challenge-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .challenge-card .icon {
+    font-size: 2em;
+    margin-bottom: 15px;
+  }
+  
+  .challenge-card h4 {
+    margin: 0 0 10px 0;
+    color: var(--text-dark);
+    font-size: 1.2em;
+  }
+  
+  .challenge-card p {
+    margin: 0;
+    color: var(--text-muted);
+    font-size: 0.95em;
+    line-height: 1.6;
+  }
+
+  /* Commons Engineer Section */
+  .engineer-section {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border-radius: 16px;
+    padding: 50px 40px;
+    margin: 40px 0;
+    text-align: center;
+  }
+  
+  .engineer-section h2 {
+    color: white;
+    margin-top: 0;
+  }
+  
+  .engineer-section h2::after {
+    margin: 15px auto 0;
+    background: rgba(255,255,255,0.5);
+  }
+  
+  .engineer-section p {
+    font-size: 1.15em;
+    line-height: 1.8;
+    max-width: 800px;
+    margin: 0 auto 30px;
+  }
+  
+  .engineer-traits {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    margin-top: 30px;
+  }
+  
+  .trait {
+    background: rgba(255,255,255,0.15);
+    padding: 15px 25px;
+    border-radius: 30px;
+    font-weight: 500;
+  }
+
+  /* Three Engines Section */
+  .engines-overview {
+    margin: 50px 0;
+  }
+  
+  .engines-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 25px;
+    margin-top: 30px;
+  }
+  
+  .engine-card {
+    background: white;
+    border-radius: 16px;
+    padding: 30px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    border-top: 5px solid;
+    transition: transform 0.3s ease;
+  }
+  
+  .engine-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .engine-card.pattern { border-top-color: var(--warm-blue); }
+  .engine-card.context { border-top-color: var(--warm-orange); }
+  .engine-card.lighthouse { border-top-color: var(--warm-green); }
+  
+  .engine-card .icon {
+    font-size: 2.5em;
+    margin-bottom: 15px;
+  }
+  
+  .engine-card h3 {
+    margin: 0 0 10px 0;
+    font-size: 1.4em;
+    color: var(--text-dark);
+  }
+  
+  .engine-card .tagline {
+    color: var(--text-muted);
+    font-style: italic;
+    margin-bottom: 20px;
+  }
+  
+  .engine-card p {
+    color: var(--text-dark);
+    line-height: 1.7;
+    margin: 0;
+  }
+
+  /* History Section */
+  .history-section {
+    background: #fafafa;
+    border-radius: 16px;
+    padding: 40px;
+    margin: 40px 0;
+  }
+  
+  .history-section h3 {
+    color: var(--warm-purple);
+    margin-top: 0;
+    font-size: 1.3em;
+  }
+  
+  .history-section p {
+    line-height: 1.8;
+    color: var(--text-dark);
+  }
+
+  /* CTA Section */
+  .cta-section {
+    text-align: center;
+    padding: 50px 20px;
+    background: linear-gradient(135deg, #f5f7fa 0%, #e8ecf1 100%);
+    border-radius: 16px;
+    margin: 40px 0;
+  }
+  
+  .cta-section h2 {
+    margin-top: 0;
+  }
+  
+  .cta-section h2::after {
+    margin: 15px auto 0;
+  }
+  
+  .cta-buttons {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+  }
+  
+  .cta-buttons a {
+    padding: 14px 32px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 1.05em;
+    transition: all 0.3s ease;
+  }
+  
+  .cta-primary {
+    background: linear-gradient(135deg, var(--warm-pink) 0%, #c2185b 100%);
+    color: white;
+  }
+  
+  .cta-primary:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 30px rgba(233, 30, 99, 0.3);
+  }
+  
+  .cta-secondary {
+    background: white;
+    color: var(--text-dark);
+    border: 2px solid #ddd;
+  }
+  
+  .cta-secondary:hover {
+    border-color: var(--warm-blue);
+    color: var(--warm-blue);
+  }
+</style>
+
+<!-- Hero Section -->
+<div class="about-hero">
+  <h1>What is Commons OS?</h1>
+  <p class="subtitle">A pattern library and collective intelligence system for building resilient commons — shared resources governed by communities for the benefit of all.</p>
+</div>
+
+<!-- What is a Commons? -->
+<div class="about-section">
+  <h2>What is a Commons?</h2>
+  
+  <div class="commons-definition">
+    <blockquote>
+      "A commons is a shared resource — whether natural, cultural, digital, or social — that is governed by a community according to rules and norms that ensure its sustainability and equitable access for all."
+    </blockquote>
+    <p class="attribution">— Inspired by the work of Elinor Ostrom, Nobel Prize in Economics 2009</p>
+  </div>
+  
+  <p style="font-size: 1.1em; line-height: 1.8; color: var(--text-dark);">
+    Commons have existed throughout human history: shared pastures, fisheries, forests, irrigation systems, and knowledge traditions. They represent a <strong>third way</strong> beyond the false dichotomy of state control versus private ownership — a way where communities self-organize to manage shared resources sustainably.
+  </p>
+  
+  <p style="font-size: 1.1em; line-height: 1.8; color: var(--text-dark);">
+    Today, we see commons everywhere: <strong>open-source software</strong> (Linux, Wikipedia), <strong>community land trusts</strong>, <strong>cooperative businesses</strong> (Mondragon, REI), <strong>urban commons</strong> (community gardens, makerspaces), and <strong>knowledge commons</strong> (Creative Commons, open science). The commons is not a relic of the past — it's a blueprint for the future.
+  </p>
+</div>
+
+<!-- Why Now? The Urgency -->
+<div class="urgency-section">
+  <h2>Why the World Needs Commons Engineers — Now</h2>
+  
+  <p>
+    We are living through a <strong>polycrisis</strong> — multiple interconnected crises that threaten the foundations of human civilization: climate breakdown, biodiversity collapse, rising inequality, institutional decay, and a crisis of meaning. The systems we inherited from the 20th century — extractive capitalism, centralized states, fragmented communities — are failing us.
+  </p>
+  
+  <p>
+    <strong>The old playbook doesn't work anymore.</strong> We can't solve 21st-century problems with 20th-century thinking. We need new patterns — proven solutions that create resilience, regeneration, and shared prosperity. We need people who can see the whole system and know how to rebuild it.
+  </p>
+  
+  <p>
+    <strong>We call these people Commons Engineers.</strong>
+  </p>
+</div>
+
+<!-- The Challenges -->
+<div class="about-section">
+  <h2>The Challenges We Face</h2>
+  
+  <div class="challenges-grid">
+    <div class="challenge-card">
+      <div class="icon">🌡️</div>
+      <h4>Climate & Ecology</h4>
+      <p>Ecosystems collapsing, biodiversity loss, climate instability threatening food systems and habitability.</p>
+    </div>
+    
+    <div class="challenge-card">
+      <div class="icon">📉</div>
+      <h4>Economic Inequality</h4>
+      <p>Wealth concentration, precarious work, communities hollowed out by extraction and financialization.</p>
+    </div>
+    
+    <div class="challenge-card">
+      <div class="icon">🏛️</div>
+      <h4>Institutional Decay</h4>
+      <p>Trust in institutions at historic lows, governance systems unable to address complex challenges.</p>
+    </div>
+    
+    <div class="challenge-card">
+      <div class="icon">🧭</div>
+      <h4>Crisis of Meaning</h4>
+      <p>Loneliness epidemic, loss of community, disconnection from purpose and each other.</p>
+    </div>
+    
+    <div class="challenge-card">
+      <div class="icon">🏙️</div>
+      <h4>Urban Fragility</h4>
+      <p>Cities designed for cars not people, housing crises, infrastructure failing under new pressures.</p>
+    </div>
+    
+    <div class="challenge-card">
+      <div class="icon">🤖</div>
+      <h4>Technological Disruption</h4>
+      <p>AI and automation reshaping work, surveillance capitalism, digital divides widening.</p>
+    </div>
+  </div>
+  
+  <p style="font-size: 1.1em; line-height: 1.8; color: var(--text-dark); margin-top: 30px;">
+    These challenges are interconnected — and so are the solutions. <strong>Commons OS</strong> is a library of patterns that address these challenges across domains: Urban, Business, Ecology, and Life. Each pattern is a proven solution, documented with evidence, connected to related patterns, and ready to be adapted to your context.
+  </p>
+</div>
+
+<!-- Who is a Commons Engineer? -->
+<div class="engineer-section">
+  <h2>Who is a Commons Engineer?</h2>
+  
+  <p>
+    A <strong>Commons Engineer</strong> is someone who designs, builds, and maintains systems that serve the common good. They see the patterns that connect — how a regenerative farm uses the same principles as a thriving cooperative, how a resilient neighborhood mirrors a healthy ecosystem.
+  </p>
+  
+  <p>
+    Commons Engineers don't just fix problems — they <strong>redesign systems</strong> so problems don't arise in the first place. They work at the intersection of technology, governance, ecology, and human flourishing.
+  </p>
+  
+  <div class="engineer-traits">
+    <div class="trait">🔍 Systems Thinkers</div>
+    <div class="trait">🌱 Regenerative Designers</div>
+    <div class="trait">🤝 Community Builders</div>
+    <div class="trait">⚡ Pattern Practitioners</div>
+  </div>
+</div>
+
+<!-- The Three Engines -->
+<div class="about-section engines-overview">
+  <h2>The Three Engines of Commons OS</h2>
+  <p style="font-size: 1.1em; color: var(--text-muted);">Commons OS is powered by three interconnected engines that work together to help you build what matters.</p>
+  
+  <div class="engines-grid">
+    <div class="engine-card pattern">
+      <div class="icon">⚙️</div>
+      <h3>Pattern Engine</h3>
+      <p class="tagline">The collective intelligence of proven solutions</p>
+      <p>926+ documented patterns organized by domain and universality. Search, explore, and discover connections between patterns. The Pattern Engine retrieves and suggests patterns based on what you're building.</p>
+    </div>
+    
+    <div class="engine-card context">
+      <div class="icon">🎯</div>
+      <h3>Context Engine</h3>
+      <p class="tagline">Deep understanding of your specific situation</p>
+      <p>Patterns alone aren't enough — you need patterns adapted to YOUR reality. The Context Engine ingests your situation, constraints, and goals, then tailors patterns to your specific context. <em>(Coming soon)</em></p>
+    </div>
+    
+    <div class="engine-card lighthouse">
+      <div class="icon">🗼</div>
+      <h3>Lighthouse Engine</h3>
+      <p class="tagline">Organizations and cities leading the way</p>
+      <p>Real-world examples of commons in action. From Patagonia to Oslo, from Mondragon to community land trusts — see how leading organizations and cities embody commons patterns. <em>(Coming soon)</em></p>
+    </div>
+  </div>
+</div>
+
+<!-- History & Inspiration -->
+<div class="history-section">
+  <h3>Standing on the Shoulders of Giants</h3>
+  
+  <p>
+    Commons OS builds on decades of research and practice. We draw inspiration from <strong>Elinor Ostrom's</strong> groundbreaking work on governing the commons, <strong>Christopher Alexander's</strong> pattern language for architecture, <strong>Donella Meadows'</strong> systems thinking, and countless practitioners who have built thriving commons around the world.
+  </p>
+  
+  <p>
+    The patterns in this library come from diverse traditions: <strong>indigenous knowledge systems</strong> that have sustained communities for millennia, <strong>cooperative movements</strong> that have created alternatives to extractive capitalism, <strong>regenerative agriculture</strong> that heals rather than depletes, and <strong>digital commons</strong> that prove abundance is possible.
+  </p>
+  
+  <p>
+    We don't claim to have invented these patterns — we've curated, documented, and connected them so that Commons Engineers everywhere can find what they need to build what matters.
+  </p>
+</div>
+
+<!-- Call to Action -->
+<div class="cta-section">
+  <h2>Ready to Build?</h2>
+  <p style="font-size: 1.1em; color: var(--text-muted); max-width: 600px; margin: 0 auto 20px;">
+    Whether you're designing a regenerative city, restructuring an organization, restoring an ecosystem, or crafting a meaningful life — the patterns are here. Start exploring.
+  </p>
+  
+  <div class="cta-buttons">
+    <a href="{{ site.baseurl }}/business/" class="cta-primary">Explore Patterns</a>
+    <a href="{{ site.baseurl }}/suggest/" class="cta-secondary">Suggest a Pattern</a>
+    <a href="https://cloudsters.net" class="cta-secondary" target="_blank">Join Community</a>
+  </div>
+</div>
