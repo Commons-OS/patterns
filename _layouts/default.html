@@ -4,123 +4,237 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title | default: site.title }}</title>
-  <meta name="description" content="{{ page.description | default: site.description }}">
-  
-  <!-- SEO -->
-  {% seo %}
-  
-  <!-- Styles -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
   <style>
-    :root {
-      --primary: #2563eb;
-      --secondary: #64748b;
-      --background: #ffffff;
-      --surface: #f8fafc;
-      --text: #1e293b;
-      --text-muted: #64748b;
-      --border: #e2e8f0;
-      --success: #22c55e;
-    }
-    
     * {
-      box-sizing: border-box;
       margin: 0;
       padding: 0;
+      box-sizing: border-box;
     }
     
     body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
       line-height: 1.6;
-      color: var(--text);
-      background: var(--background);
+      color: #333;
+      background: #fafafa;
     }
     
-    header {
-      background: var(--surface);
-      border-bottom: 1px solid var(--border);
-      padding: 1rem 2rem;
+    /* Navigation */
+    .nav {
+      background: white;
+      border-bottom: 1px solid #e8e8e8;
+      padding: 0 20px;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.03);
     }
     
-    header nav {
+    .nav-container {
       max-width: 1200px;
       margin: 0 auto;
       display: flex;
-      justify-content: space-between;
       align-items: center;
+      justify-content: space-between;
+      height: 65px;
     }
     
-    header .logo {
-      font-size: 1.25rem;
-      font-weight: 700;
-      color: var(--primary);
+    .nav-brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
       text-decoration: none;
+      font-weight: 600;
+      font-size: 1.2em;
+      color: #333;
     }
     
-    header .nav-links a {
-      margin-left: 1.5rem;
-      color: var(--text-muted);
+    .nav-brand .logo-icon {
+      width: 36px;
+      height: 36px;
+      background: linear-gradient(135deg, #4ade80 0%, #22c55e 100%);
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-size: 1.2em;
+    }
+    
+    .nav-brand span {
+      color: #22c55e;
+    }
+    
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    
+    .nav-link {
+      padding: 8px 16px;
       text-decoration: none;
+      color: #555;
+      font-weight: 500;
+      font-size: 0.95em;
+      border-radius: 8px;
+      transition: all 0.2s ease;
     }
     
-    header .nav-links a:hover {
-      color: var(--primary);
+    .nav-link:hover {
+      background: #f0fdf4;
+      color: #22c55e;
     }
     
-    main {
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 2rem;
+    .nav-link.active {
+      background: #f0fdf4;
+      color: #22c55e;
     }
     
-    footer {
-      background: var(--surface);
-      border-top: 1px solid var(--border);
-      padding: 2rem;
+    .nav-search {
+      position: relative;
+      margin-left: 20px;
+    }
+    
+    .nav-search input {
+      width: 220px;
+      padding: 10px 16px 10px 40px;
+      border: 2px solid #e8e8e8;
+      border-radius: 25px;
+      font-size: 0.9em;
+      transition: all 0.2s ease;
+      background: #f8f8f8;
+    }
+    
+    .nav-search input:focus {
+      outline: none;
+      border-color: #22c55e;
+      background: white;
+      width: 280px;
+    }
+    
+    .nav-search .search-icon {
+      position: absolute;
+      left: 14px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: #999;
+    }
+    
+    .nav-cta {
+      padding: 10px 20px;
+      background: linear-gradient(135deg, #22c55e 0%, #16a34a 100%);
+      color: white;
+      text-decoration: none;
+      border-radius: 25px;
+      font-weight: 500;
+      font-size: 0.9em;
+      transition: all 0.2s ease;
+      margin-left: 15px;
+    }
+    
+    .nav-cta:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 5px 15px rgba(34, 197, 94, 0.3);
+    }
+    
+    /* Search Results Dropdown */
+    .search-results {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: -60px;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 10px 40px rgba(0,0,0,0.15);
+      margin-top: 10px;
+      max-height: 400px;
+      overflow-y: auto;
+      display: none;
+      z-index: 1001;
+    }
+    
+    .search-results.active {
+      display: block;
+    }
+    
+    .search-result-item {
+      display: block;
+      padding: 12px 16px;
+      border-bottom: 1px solid #f0f0f0;
+      cursor: pointer;
+      transition: background 0.2s ease;
+      text-decoration: none;
+      color: inherit;
+    }
+    
+    .search-result-item:hover {
+      background: #f0fdf4;
+    }
+    
+    .search-result-item:last-child {
+      border-bottom: none;
+    }
+    
+    .search-result-item h4 {
+      font-size: 0.95em;
+      color: #333;
+      margin-bottom: 3px;
+    }
+    
+    .search-result-item .meta {
+      font-size: 0.8em;
+      color: #888;
+    }
+    
+    .search-no-results {
+      padding: 20px;
       text-align: center;
-      color: var(--text-muted);
-      margin-top: 4rem;
+      color: #888;
     }
     
-    footer a {
-      color: var(--primary);
+    .search-no-results a {
+      color: #22c55e;
     }
     
+    /* Main Content */
+    .main-content {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+    
+    /* Content styling */
     h1, h2, h3, h4, h5, h6 {
-      margin-top: 2rem;
-      margin-bottom: 1rem;
+      margin-top: 1.5em;
+      margin-bottom: 0.5em;
       line-height: 1.3;
     }
     
     h1 { font-size: 2rem; }
-    h2 { font-size: 1.5rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; }
+    h2 { font-size: 1.5rem; border-bottom: 2px solid #e8e8e8; padding-bottom: 0.5rem; }
     h3 { font-size: 1.25rem; }
     
-    p {
-      margin-bottom: 1rem;
-    }
+    p { margin-bottom: 1rem; }
     
-    a {
-      color: var(--primary);
-    }
+    a { color: #22c55e; }
     
     code {
-      background: var(--surface);
+      background: #f0f0f0;
       padding: 0.2rem 0.4rem;
       border-radius: 4px;
       font-size: 0.9em;
     }
     
     pre {
-      background: var(--surface);
+      background: #f5f5f5;
       padding: 1rem;
       border-radius: 8px;
       overflow-x: auto;
       margin: 1rem 0;
-    }
-    
-    pre code {
-      background: none;
-      padding: 0;
     }
     
     table {
@@ -132,19 +246,19 @@
     th, td {
       padding: 0.75rem;
       text-align: left;
-      border-bottom: 1px solid var(--border);
+      border-bottom: 1px solid #e8e8e8;
     }
     
     th {
-      background: var(--surface);
+      background: #f5f5f5;
       font-weight: 600;
     }
     
     blockquote {
-      border-left: 4px solid var(--primary);
+      border-left: 4px solid #22c55e;
       padding-left: 1rem;
       margin: 1rem 0;
-      color: var(--text-muted);
+      color: #666;
     }
     
     ul, ol {
@@ -152,53 +266,190 @@
       padding-left: 2rem;
     }
     
-    li {
-      margin-bottom: 0.5rem;
+    li { margin-bottom: 0.5rem; }
+    
+    /* Footer */
+    .footer {
+      background: #1a1a2e;
+      color: white;
+      padding: 40px 20px;
+      margin-top: 60px;
     }
     
-    .badge {
-      display: inline-block;
-      padding: 0.25rem 0.5rem;
-      border-radius: 4px;
-      font-size: 0.75rem;
-      font-weight: 600;
-      text-transform: uppercase;
+    .footer-container {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 20px;
     }
     
-    .badge-universal { background: #dbeafe; color: #1e40af; }
-    .badge-human-universal { background: #dcfce7; color: #166534; }
-    .badge-domain { background: #fef3c7; color: #92400e; }
-    .badge-context-specific { background: #fce7f3; color: #9d174d; }
-    .badge-implementation { background: #f3e8ff; color: #7c3aed; }
+    .footer a {
+      color: #4ade80;
+      text-decoration: none;
+    }
+    
+    .footer a:hover {
+      text-decoration: underline;
+    }
+    
+    /* Mobile responsive */
+    @media (max-width: 900px) {
+      .nav-container {
+        flex-wrap: wrap;
+        height: auto;
+        padding: 15px 0;
+      }
+      
+      .nav-links {
+        order: 3;
+        width: 100%;
+        justify-content: center;
+        margin-top: 10px;
+        flex-wrap: wrap;
+      }
+      
+      .nav-search {
+        margin-left: 0;
+        margin-top: 10px;
+        width: 100%;
+        order: 4;
+      }
+      
+      .nav-search input {
+        width: 100%;
+      }
+      
+      .nav-search input:focus {
+        width: 100%;
+      }
+      
+      .nav-cta {
+        margin-left: 0;
+      }
+    }
   </style>
 </head>
 <body>
-  <header>
-    <nav>
-      <a href="{{ site.baseurl }}/" class="logo">Commons OS Patterns</a>
+  <nav class="nav">
+    <div class="nav-container">
+      <a href="{{ site.baseurl }}/" class="nav-brand">
+        <div class="logo-icon">🌿</div>
+        Commons <span>OS</span>
+      </a>
+      
       <div class="nav-links">
-        <a href="{{ site.baseurl }}/">Home</a>
-        <a href="{{ site.baseurl }}/universal/">Universal</a>
-        <a href="{{ site.baseurl }}/domain/">Domain</a>
-        <a href="https://cloudsters.net" target="_blank">cloudsters.net</a>
-        <a href="https://github.com/commons-os/patterns" target="_blank">GitHub</a>
+        <a href="{{ site.baseurl }}/" class="nav-link">Home</a>
+        <a href="{{ site.baseurl }}/business/" class="nav-link">Business</a>
+        <a href="{{ site.baseurl }}/urban/" class="nav-link">Urban</a>
+        <a href="{{ site.baseurl }}/ecology/" class="nav-link">Ecology</a>
+        <a href="{{ site.baseurl }}/life/" class="nav-link">Life</a>
+        <a href="{{ site.baseurl }}/suggest/" class="nav-link">Suggest</a>
       </div>
-    </nav>
-  </header>
+      
+      <div class="nav-search">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="search-input" placeholder="Search patterns..." autocomplete="off">
+        <div class="search-results" id="search-results"></div>
+      </div>
+      
+      <a href="https://cloudsters.net" class="nav-cta" target="_blank">Join Community</a>
+    </div>
+  </nav>
   
-  <main>
+  <main class="main-content">
     {{ content }}
   </main>
   
-  <footer>
-    <p>
-      <strong>Commons OS Pattern Library</strong> &middot; 
-      Distributed by <a href="https://cloudsters.net">cloudsters</a> &middot;
-      <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0</a>
-    </p>
-    <p style="margin-top: 0.5rem; font-size: 0.875rem;">
-      Building an open-source knowledge graph of organizational patterns for a more equitable and sustainable world.
-    </p>
+  <footer class="footer">
+    <div class="footer-container">
+      <div>
+        Commons OS is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0</a><br>
+        Stewarded by <a href="https://cloudsters.net">cloudsters</a>
+      </div>
+      <div>
+        <a href="https://github.com/Commons-OS/patterns">GitHub</a> · 
+        <a href="https://cloudsters.net">cloudsters.net</a>
+      </div>
+    </div>
   </footer>
+  
+  <script>
+    // Initialize Fuse.js search
+    let fuse;
+    let searchIndex = [];
+    
+    // Load search index
+    fetch('{{ site.baseurl }}/search-index.json')
+      .then(response => response.json())
+      .then(data => {
+        searchIndex = data;
+        fuse = new Fuse(searchIndex, {
+          keys: [
+            { name: 'title', weight: 0.4 },
+            { name: 'aliases', weight: 0.3 },
+            { name: 'tags', weight: 0.2 },
+            { name: 'slug', weight: 0.1 }
+          ],
+          threshold: 0.4,
+          includeScore: true,
+          minMatchCharLength: 2
+        });
+      })
+      .catch(err => console.log('Search index not loaded:', err));
+    
+    // Search functionality
+    const searchInput = document.getElementById('search-input');
+    const searchResults = document.getElementById('search-results');
+    
+    searchInput.addEventListener('input', function() {
+      const query = this.value.trim();
+      
+      if (query.length < 2) {
+        searchResults.classList.remove('active');
+        return;
+      }
+      
+      if (!fuse) return;
+      
+      const results = fuse.search(query).slice(0, 10);
+      
+      if (results.length === 0) {
+        searchResults.innerHTML = '<div class="search-no-results">No patterns found. <a href="{{ site.baseurl }}/suggest/">Suggest this pattern?</a></div>';
+        searchResults.classList.add('active');
+        return;
+      }
+      
+      const html = results.map(result => {
+        const item = result.item;
+        const levelLabel = item.level.replace('_', '-');
+        return `
+          <a href="{{ site.baseurl }}${item.url}" class="search-result-item">
+            <h4>${item.title}</h4>
+            <div class="meta">${levelLabel} · ${item.tags.join(', ') || 'Business'}</div>
+          </a>
+        `;
+      }).join('');
+      
+      searchResults.innerHTML = html;
+      searchResults.classList.add('active');
+    });
+    
+    // Close search results when clicking outside
+    document.addEventListener('click', function(e) {
+      if (!searchInput.contains(e.target) && !searchResults.contains(e.target)) {
+        searchResults.classList.remove('active');
+      }
+    });
+    
+    // Navigate with keyboard
+    searchInput.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') {
+        searchResults.classList.remove('active');
+      }
+    });
+  </script>
 </body>
 </html>
