@@ -426,7 +426,7 @@
         const item = result.item;
         const levelLabel = item.level.replace('_', '-');
         return `
-          <a href="{{ site.baseurl }}${item.url}" class="search-result-item">
+          <a href="${item.url}" class="search-result-item">
             <h4>${item.title}</h4>
             <div class="meta">${levelLabel} · ${item.tags.join(', ') || 'Business'}</div>
           </a>
