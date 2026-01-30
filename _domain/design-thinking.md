@@ -16,6 +16,7 @@ tags:
   origin: [ideo, stanford-d-school]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023zxf81byjg3hz71nf6p"]
 enables: []

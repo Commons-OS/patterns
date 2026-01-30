@@ -16,6 +16,7 @@ tags:
   origin: []
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023wdeh98phj0t4jdgd0v"]
 specializes_to: []
 enables: []

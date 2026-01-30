@@ -16,6 +16,7 @@ tags:
   origin: [academic, social-sector]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023wdeh98phj10nzxp70t"]
 specializes_to: []
 enables: []

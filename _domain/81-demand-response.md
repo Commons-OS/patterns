@@ -16,6 +16,7 @@ tags:
   origin: ["Electric Utilities", "Energy Crises of the 1970s"]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: []
 enables: []

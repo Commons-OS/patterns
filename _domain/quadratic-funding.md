@@ -16,6 +16,7 @@ tags:
   origin: ["A Flexible Design for Funding Public Goods"]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: []
 enables: []

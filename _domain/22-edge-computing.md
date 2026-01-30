@@ -16,6 +16,7 @@ tags:
   origin: [content-delivery-networks, cdn]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg50240me98tfa0z70ectx60", "pat_01kg50240wfjh98jqwvahk6aav"]
 enables: []

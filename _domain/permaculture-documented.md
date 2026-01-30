@@ -16,6 +16,7 @@ tags:
   origin: [academic, bill-mollison, david-holmgren]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023zme99s1z08pwp5kr2f", "pat_01kg5023zketsrxaxyx0mwmm0x"]
 enables: []

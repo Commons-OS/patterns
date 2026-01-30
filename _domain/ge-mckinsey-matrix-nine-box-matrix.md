@@ -16,6 +16,7 @@ tags:
   origin: ["General Electric", "McKinsey & Company"]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023w9f70agabwqbp52gwq"]
 specializes_to: []
 enables: []

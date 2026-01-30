@@ -16,6 +16,7 @@ tags:
   origin: [academic, library-science]
   status: draft
   commons_alignment: 5
+commons_domain: business
 generalizes_from: []
 specializes_to: []
 enables: []

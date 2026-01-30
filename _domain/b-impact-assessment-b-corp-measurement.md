@@ -16,6 +16,7 @@ tags:
   origin: [B Lab]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023x0ed9tvrqaye97r6y1"]
 specializes_to: []
 enables: []

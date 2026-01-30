@@ -13,6 +13,7 @@ tags:
   origin: [19th Century Rural Electrification, Modern Renewable Energy Movement]
   status: draft
   commons_alignment: 5
+commons_domain: business
 generalizes_from: ["pat_01kg5023yje10ty2877frnpbaj", "pat_01kg5023y0eh0v55ey69tvz0zw"]
 specializes_to: []
 enables: []

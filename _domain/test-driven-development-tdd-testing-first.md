@@ -16,6 +16,7 @@ tags:
   origin: ["Kent Beck", "Extreme Programming"]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023x3f8gtc1a35akjqc6t"]
 specializes_to: []
 enables: []

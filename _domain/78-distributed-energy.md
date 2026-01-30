@@ -17,6 +17,7 @@ tags:
   origin: [academic, industrial]
   status: draft
   commons_alignment: 4
+commons_domain: business
 generalizes_from: []
 specializes_to: []
 enables: []

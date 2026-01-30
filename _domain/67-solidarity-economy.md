@@ -16,6 +16,7 @@ tags:
   origin: ["latin-american-social-movements"]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg502401ejststry286zez84", "pat_01kg502401ejststry1gj0yvhy", "pat_01kg5023zzecsb265d0n6cvkxr"]
 enables: []

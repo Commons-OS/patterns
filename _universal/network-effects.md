@@ -16,6 +16,7 @@ tags:
   origin: [academic, bell-telephone]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023vcf5rv73jqy7rt0422"]
 enables: []

@@ -16,6 +16,7 @@ tags:
   origin: [academic, policy]
   status: draft
   commons_alignment: 5
+commons_domain: business
 generalizes_from: ["pat_01kg5023wjfg8tqb1zkapfve8q"]
 specializes_to: []
 enables: []

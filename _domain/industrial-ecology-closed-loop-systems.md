@@ -16,6 +16,7 @@ tags:
   origin: [academic, Robert Frosch, Nicholas E. Gallopoulos]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023vveprts2atensmx579"]
 specializes_to: []
 enables: []

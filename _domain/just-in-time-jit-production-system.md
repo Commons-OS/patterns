@@ -16,6 +16,7 @@ tags:
   origin: [toyota]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023w1f29v6bdxm7ht2mkj"]
 specializes_to: []
 enables: []

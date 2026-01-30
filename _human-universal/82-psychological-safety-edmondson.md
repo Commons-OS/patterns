@@ -16,6 +16,7 @@ tags:
   origin: [academic, amy-edmondson]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023vqf39rban1qtb2w4ev"]
 enables: []

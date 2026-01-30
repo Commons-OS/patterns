@@ -16,6 +16,7 @@ tags:
   origin: [Ash Maurya, Lean Startup]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: []
 enables: []

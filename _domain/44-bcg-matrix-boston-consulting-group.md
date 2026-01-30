@@ -16,6 +16,7 @@ tags:
   origin: [boston-consulting-group]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023xjea9ve0dr1fhacvrd"]
 specializes_to: []
 enables: []

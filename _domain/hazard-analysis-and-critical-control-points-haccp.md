@@ -16,6 +16,7 @@ tags:
   origin: [NASA, Pillsbury]
   status: draft
   commons_alignment: 1
+commons_domain: business
 generalizes_from: ["pat_01kg5023z1fns9y8zkab5bbkz1"]
 specializes_to: []
 enables: []

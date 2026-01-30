@@ -16,6 +16,7 @@ tags:
   origin: [toyota-production-system]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023w3fmhsjawr9a7mja9w"]
 specializes_to: []
 enables: []

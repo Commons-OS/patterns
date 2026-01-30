@@ -16,6 +16,7 @@ tags:
   origin: [alexander-osterwalder, strategyzer]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg50240sfm8re6epa0wyd5k3"]
 enables: []

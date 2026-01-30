@@ -16,6 +16,7 @@ tags:
   origin: [google, cncf]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023vzfs093rykdd5ep4vh"]
 specializes_to: []
 enables: []

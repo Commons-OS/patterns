@@ -16,6 +16,7 @@ tags:
   origin: [C.K. Prahalad, Gary Hamel]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023y5fnhb2ej6ganthvm3"]
 specializes_to: []
 enables: []

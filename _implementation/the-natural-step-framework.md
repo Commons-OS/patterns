@@ -16,6 +16,7 @@ tags:
   origin: [karl-henrik-robert, sweden]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: []
 enables: []

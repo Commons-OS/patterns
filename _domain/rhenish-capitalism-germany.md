@@ -16,6 +16,7 @@ tags:
   origin: [academic, post-war-germany]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023zve6sv1r0bjen2aqqs"]
 specializes_to: []
 enables: []

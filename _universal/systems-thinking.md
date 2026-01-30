@@ -16,6 +16,7 @@ tags:
   origin: ["academic", "cybernetics"]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023v9fj0a69mjvb68mp32", "pat_01kg5023vcf5rv73jr3zqvr93y"]
 enables: []

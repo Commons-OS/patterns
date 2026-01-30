@@ -16,6 +16,7 @@ tags:
   origin: [rational-software, grady-booch, james-rumbaugh, ivar-jacobson, object-management-group]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: []
 enables: []

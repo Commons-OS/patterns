@@ -16,6 +16,7 @@ tags:
   origin: [google, spotify, netflix]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023vzfs093ryk8ek6spvb"]
 specializes_to: []
 enables: []

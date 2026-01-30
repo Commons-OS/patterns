@@ -16,6 +16,7 @@ tags:
   origin: [software-engineering, web-development]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023vyfzhvteh09vngf3mp"]
 specializes_to: []
 enables: []

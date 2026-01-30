@@ -16,6 +16,7 @@ tags:
   origin: [sociocracy]
   status: draft
   commons_alignment: 4
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023vhev9b6swdpd3e6zy9"]
 enables: []

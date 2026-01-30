@@ -13,6 +13,7 @@ tags:
   origin: [andrew-carnegie, ford-motor-company]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: []
 enables: []

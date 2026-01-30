@@ -16,6 +16,7 @@ tags:
   origin: ["John Maynard Keynes"]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023zpf9s89sx1vq3rcpc2"]
 enables: []

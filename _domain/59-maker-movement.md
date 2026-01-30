@@ -16,6 +16,7 @@ tags:
   origin: [make-magazine]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023zde79btwvkh6whd7af"]
 enables: []

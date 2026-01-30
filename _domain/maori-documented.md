@@ -16,6 +16,7 @@ tags:
   origin: [Maori]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023zde79btwvkns2hde3c", "pat_01kg5023z6f40rvkrsj7tzpehh"]
 enables: []

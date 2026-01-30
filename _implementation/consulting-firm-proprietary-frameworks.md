@@ -16,6 +16,7 @@ tags:
   origin: [consulting-firms]
   status: draft
   commons_alignment: 1
+commons_domain: business
 generalizes_from: []
 specializes_to: []
 enables: []

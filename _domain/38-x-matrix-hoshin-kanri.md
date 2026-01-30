@@ -16,6 +16,7 @@ tags:
   origin: [toyota, yoji-akao]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg502410ekgvrq2tx6wz36nr"]
 enables: []

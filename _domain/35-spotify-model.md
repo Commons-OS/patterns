@@ -16,6 +16,7 @@ tags:
   origin: [spotify, henrik-kniberg, anders-ivarsson]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg50240wfjh98jqx0vjzv358"]
 enables: []

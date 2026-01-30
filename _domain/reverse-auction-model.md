@@ -16,6 +16,7 @@ tags:
   origin: [freemarkets, general-electric]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023xge89s6mx3vwpszg7s"]
 specializes_to: []
 enables: []

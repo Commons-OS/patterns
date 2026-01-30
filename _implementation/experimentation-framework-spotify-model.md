@@ -16,6 +16,7 @@ tags:
   origin: [spotify]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023w4eagvvdvd5vbc1hhq"]
 specializes_to: []
 enables: []

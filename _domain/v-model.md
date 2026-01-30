@@ -16,6 +16,7 @@ tags:
   origin: [barry-boehm, german-government, us-government]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg502409fv0sm380gapf8kf2"]
 enables: []

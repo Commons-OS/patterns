@@ -16,6 +16,7 @@ tags:
   origin: [gerard-endenburg]
   status: draft
   commons_alignment: 4
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg502401ejststrxw4haba08"]
 enables: []

@@ -16,6 +16,7 @@ tags:
   origin: [german-government]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg50240afth9zmxpdf3rmzzt"]
 specializes_to: []
 enables: []

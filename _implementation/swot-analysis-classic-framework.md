@@ -16,6 +16,7 @@ tags:
   origin: [Stanford Research Institute]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023w7f0htcqtrv6h89qa8"]
 specializes_to: []
 enables: []

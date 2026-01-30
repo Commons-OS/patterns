@@ -16,6 +16,7 @@ tags:
   origin: [publishing, software]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg502403e39rjfypb71w2jqd"]
 enables: []

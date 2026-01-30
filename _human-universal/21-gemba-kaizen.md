@@ -14,6 +14,7 @@ tags:
   origin: [toyota, kaizen-institute]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023vmfk9bnr9pzvxb1j3z"]
 specializes_to: ["pat_01kg5023vke6gsrh5cyb1wbkte"]
 enables: []

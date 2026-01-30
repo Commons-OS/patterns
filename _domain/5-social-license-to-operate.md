@@ -16,6 +16,7 @@ tags:
   origin: [academic, mining-industry]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg502400fggs2ayqpma37g4a"]
 enables: []

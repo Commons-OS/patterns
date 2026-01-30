@@ -16,6 +16,7 @@ tags:
   origin: [academic, stanford-university]
   status: draft
   commons_alignment: 4
+commons_domain: business
 generalizes_from: ["pat_01kg5023y8e9ssb52a35ebq4yd"]
 specializes_to: []
 enables: []

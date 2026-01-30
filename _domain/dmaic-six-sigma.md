@@ -16,6 +16,7 @@ tags:
   origin: [motorola, general-electric]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023zzecsb265cp79x0gvh", "pat_01kg5023vyfzhvteh02a487gvh"]
 specializes_to: ["pat_01kg5023yff49sdcxh112zqp12"]
 enables: []

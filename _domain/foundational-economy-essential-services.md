@@ -16,6 +16,7 @@ tags:
   origin: ["Foundational Economy Collective"]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023wgfr18qmwgjnmvv1p8"]
 specializes_to: []
 enables: []

@@ -16,6 +16,7 @@ tags:
   origin: [academic, James S. Fishkin, Stanford University]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023y8e9ssb52a5snc91pm"]
 enables: []

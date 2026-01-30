@@ -16,6 +16,7 @@ tags:
   origin: [agile-manifesto, hirotaka-takeuchi, ikujiro-nonaka]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023zbftgswm71hgn15e2f", "pat_01kg5023zwft8t7k639ctqfhce"]
 enables: []

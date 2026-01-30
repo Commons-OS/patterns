@@ -16,6 +16,7 @@ tags:
   origin: ["19th-century self-help movement", "Post-war consumerism"]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: []
 enables: []

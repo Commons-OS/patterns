@@ -16,6 +16,7 @@ tags:
   origin: [sociocracy, Gerard Endenburg]
   status: draft
   commons_alignment: 4
+commons_domain: business
 generalizes_from: ["pat_01kg5023vhev9b6swdrszd75z9"]
 specializes_to: []
 enables: []

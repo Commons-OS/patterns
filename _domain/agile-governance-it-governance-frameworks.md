@@ -16,6 +16,7 @@ tags:
   origin: [agile-manifesto]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023vwe00rptkqr3z6pkd9"]
 specializes_to: []
 enables: []

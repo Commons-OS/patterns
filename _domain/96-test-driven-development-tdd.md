@@ -16,6 +16,7 @@ tags:
   origin: [kent-beck, agile-manifesto]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg502405es8af4s5xh049533"]
 enables: []

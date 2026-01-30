@@ -17,6 +17,7 @@ tags:
   origin: [world-economic-forum, klaus-schwab]
   status: draft
   commons_alignment: 4
+commons_domain: business
 generalizes_from: ["pat_01kg5023vzfs093rykahhhp6zr"]
 specializes_to: []
 enables: []

@@ -16,6 +16,7 @@ tags:
   origin: ["Bill Mollison", "David Holmgren"]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023zketsrxaxyzegzykkj"]
 specializes_to: []
 enables: []

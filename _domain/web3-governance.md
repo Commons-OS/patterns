@@ -16,6 +16,7 @@ tags:
   origin: [academic, crypto-anarchism]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg50240ef0s85r2hx5nbfb92"]
 enables: []

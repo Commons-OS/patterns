@@ -16,6 +16,7 @@ tags:
   origin: [academic, business, ecology]
   status: draft
   commons_alignment: 5
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023zseyh85cxg8cr7f0nk"]
 enables: []

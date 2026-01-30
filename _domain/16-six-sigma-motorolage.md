@@ -16,6 +16,7 @@ tags:
   origin: [motorola]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023vyfzhvteh04eykysqz", "pat_01kg5023ybeqhsr5sn20s4jgvn", "pat_01kg5023zcf99tjg7qgdbhqfkm", "pat_01kg5023zzecsb265cmvvzam6v", "pat_01kg5023yff49sdcxh112zqp12", "pat_01kg5023yff49sdcxh3j5m7fyt"]
 enables: []

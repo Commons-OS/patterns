@@ -16,6 +16,7 @@ tags:
   origin: [robert-k-greenleaf]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023zxf81byjg36v3g80vk"]
 enables: []

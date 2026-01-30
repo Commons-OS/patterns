@@ -16,6 +16,7 @@ tags:
   origin: [academic, organizational-theory]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023wyfeht2yyf00zh5d5h"]
 specializes_to: []
 enables: []

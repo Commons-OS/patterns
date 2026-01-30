@@ -16,6 +16,7 @@ tags:
   origin: [gerard-endenburg, kees-boeke]
   status: draft
   commons_alignment: 4
+commons_domain: business
 generalizes_from: ["pat_01kg5023vveprts2at71w6e29g"]
 specializes_to: []
 enables: []

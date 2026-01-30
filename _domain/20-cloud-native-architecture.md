@@ -16,6 +16,7 @@ tags:
   origin: [google, pivotal]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023xwf518k5w2msa0cgjr"]
 enables: []

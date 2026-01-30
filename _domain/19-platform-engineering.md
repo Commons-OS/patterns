@@ -16,6 +16,7 @@ tags:
   origin: [thoughtworks, gartner]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023znes88czf32w2emzxq"]
 enables: []

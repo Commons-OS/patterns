@@ -16,6 +16,7 @@ tags:
   origin: [toyota, lean-manufacturing]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023zbftgswm71sjjf53xx"]
 specializes_to: []
 enables: []

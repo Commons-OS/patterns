@@ -17,6 +17,7 @@ tags:
   origin: [Stan Davis, B. Joseph Pine II]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: []
 enables: []

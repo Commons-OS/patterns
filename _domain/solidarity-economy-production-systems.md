@@ -16,6 +16,7 @@ tags:
   origin: [academic, activist]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023whehgsjwtbq21f60nk"]
 specializes_to: []
 enables: []

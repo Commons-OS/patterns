@@ -16,6 +16,7 @@ tags:
   origin: [dan-north, agile-manifesto]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023vyfzhvteh01za2yrvr", "pat_01kg5023xjea9ve0dr2yn0ng4v"]
 specializes_to: []
 enables: []

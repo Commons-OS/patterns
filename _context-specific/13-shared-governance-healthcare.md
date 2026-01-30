@@ -16,6 +16,7 @@ tags:
   origin: ["academic", "healthcare"]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg50240rf3s9mqrqzp0c8t14"]
 enables: []

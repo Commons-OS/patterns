@@ -16,6 +16,7 @@ tags:
   origin: ["A.S. Neill", "John Dewey", "Leo Tolstoy"]
   status: draft
   commons_alignment: 4
+commons_domain: business
 generalizes_from: []
 specializes_to: []
 enables: []

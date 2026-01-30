@@ -16,6 +16,7 @@ tags:
   origin: [academic, wef]
   status: draft
   commons_alignment: 5
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg502402e8s98e5wh453cf4r"]
 enables: []

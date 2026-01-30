@@ -16,6 +16,7 @@ tags:
   origin: [academic, UNEP, TEEBAgriFood]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg502408eg1s5s6d44048n4m"]
 enables: []

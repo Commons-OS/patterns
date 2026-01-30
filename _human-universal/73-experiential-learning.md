@@ -16,6 +16,7 @@ tags:
   origin: [David A. Kolb, John Dewey, Kurt Lewin, Jean Piaget]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: []
 enables: []

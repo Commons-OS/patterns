@@ -13,6 +13,7 @@ tags:
   origin: [academic, organizational-theory]
   status: draft
   commons_alignment: 4
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023vgec9bpzpwctk4xpv1", "pat_01kg5023xyf2svqa9h1p4x62ps"]
 enables: []

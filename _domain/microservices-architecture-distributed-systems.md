@@ -16,6 +16,7 @@ tags:
   origin: [ThoughtWorks, Martin Fowler, James Lewis]
   status: draft
   commons_alignment: 4
+commons_domain: business
 generalizes_from: []
 specializes_to: []
 enables: []

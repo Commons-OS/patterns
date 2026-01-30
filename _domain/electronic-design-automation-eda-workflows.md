@@ -16,6 +16,7 @@ tags:
   origin: [semiconductor industry]
   status: draft
   commons_alignment: 2
+commons_domain: business
 generalizes_from: []
 specializes_to: []
 enables: []

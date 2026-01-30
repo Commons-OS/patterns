@@ -16,6 +16,7 @@ tags:
   origin: [amazon, netflix, stripe]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023xfergseskeq5q38czx"]
 enables: []

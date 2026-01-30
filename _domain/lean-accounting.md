@@ -16,6 +16,7 @@ tags:
   origin: [toyota, lean-enterprise-institute]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023zbftgswm71pbcccp6b"]
 enables: []

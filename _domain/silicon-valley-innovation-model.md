@@ -16,6 +16,7 @@ tags:
   origin: [stanford-university, fairchild-semiconductor, darpa]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: []
 enables: []

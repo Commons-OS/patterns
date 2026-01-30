@@ -16,6 +16,7 @@ tags:
   origin: [academic, maker-movement, industry-4.0]
   status: draft
   commons_alignment: 4
+commons_domain: business
 generalizes_from: []
 specializes_to: []
 enables: []

@@ -16,6 +16,7 @@ tags:
   origin: [Jerome H. Lemelson, industrial automation]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg50240nfz989qp3483e7pbp"]
 enables: []

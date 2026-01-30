@@ -16,6 +16,7 @@ tags:
   origin: [academic, "c.s. holling"]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023w3fmhsjawranmejk1a"]
 specializes_to: []
 enables: []

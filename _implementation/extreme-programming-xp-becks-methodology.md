@@ -16,6 +16,7 @@ tags:
   origin: [kent-beck, chrysler-c3-project]
   status: draft
   commons_alignment: 3
+commons_domain: business
 generalizes_from: ["pat_01kg5023w3fmhsjawrdrgjrrxn"]
 specializes_to: []
 enables: []
