@@ -90,12 +90,14 @@
     }
     
     .nav-link.active {
-      background: #e3f2fd;
-      color: #2196f3;
+      background: #f0fdf4;
+      color: #22c55e;
     }
     
-    .nav-link.patterns:hover, .nav-link.patterns.active { background: #e3f2fd; color: #2196f3; }
+    /* Engine-specific nav styling */
+    .nav-link.patterns:hover { background: #e3f2fd; color: #2196f3; }
     .nav-link.lighthouses:hover { background: #e8f5e9; color: #4caf50; }
+    .nav-link.contexts:hover { background: #fff3e0; color: #ff9800; }
     
     .nav-search {
       position: relative;
@@ -114,7 +116,7 @@
     
     .nav-search input:focus {
       outline: none;
-      border-color: #2196f3;
+      border-color: #22c55e;
       background: white;
       width: 320px;
     }
@@ -154,7 +156,7 @@
       border-radius: 12px;
       box-shadow: 0 10px 40px rgba(0,0,0,0.15);
       margin-top: 10px;
-      max-height: 400px;
+      max-height: 500px;
       overflow-y: auto;
       display: none;
       z-index: 1001;
@@ -164,10 +166,35 @@
       display: block;
     }
     
+    .search-results-group {
+      border-bottom: 1px solid #f0f0f0;
+    }
+    
+    .search-results-group:last-child {
+      border-bottom: none;
+    }
+    
+    .search-results-group-header {
+      padding: 10px 16px 6px;
+      font-size: 0.75em;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: #888;
+      background: #fafafa;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    
+    .search-results-group-header.patterns { color: #2196f3; }
+    .search-results-group-header.lighthouses { color: #4caf50; }
+    .search-results-group-header.contexts { color: #ff9800; }
+    
     .search-result-item {
       display: block;
       padding: 12px 16px;
-      border-bottom: 1px solid #f0f0f0;
+      border-bottom: 1px solid #f5f5f5;
       cursor: pointer;
       transition: background 0.2s ease;
       text-decoration: none;
@@ -175,7 +202,7 @@
     }
     
     .search-result-item:hover {
-      background: #e3f2fd;
+      background: #f8f8f8;
     }
     
     .search-result-item:last-child {
@@ -186,7 +213,21 @@
       font-size: 0.95em;
       color: #333;
       margin-bottom: 3px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
     }
+    
+    .search-result-item .type-badge {
+      font-size: 0.7em;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-weight: 500;
+    }
+    
+    .search-result-item .type-badge.pattern { background: #e3f2fd; color: #2196f3; }
+    .search-result-item .type-badge.lighthouse { background: #e8f5e9; color: #4caf50; }
+    .search-result-item .type-badge.context { background: #fff3e0; color: #ff9800; }
     
     .search-result-item .meta {
       font-size: 0.8em;
@@ -196,12 +237,40 @@
     .search-no-results {
       padding: 20px;
       text-align: center;
-      color: #888;
+      color: #666;
     }
     
-    .search-no-results a {
-      color: #2196f3;
+    .search-no-results p {
+      margin-bottom: 15px;
     }
+    
+    .search-no-results .suggest-links {
+      display: flex;
+      gap: 15px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    
+    .search-no-results .suggest-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 16px;
+      background: #f5f5f5;
+      border-radius: 20px;
+      color: #555;
+      text-decoration: none;
+      font-size: 0.9em;
+      transition: all 0.2s ease;
+    }
+    
+    .search-no-results .suggest-link:hover {
+      background: #22c55e;
+      color: white;
+    }
+    
+    .search-no-results .suggest-link.pattern:hover { background: #2196f3; }
+    .search-no-results .suggest-link.lighthouse:hover { background: #4caf50; }
     
     /* Main Content */
     .main-content {
@@ -223,7 +292,7 @@
     
     p { margin-bottom: 1rem; }
     
-    a { color: #2196f3; }
+    a { color: #22c55e; }
     
     code {
       background: #f0f0f0;
@@ -258,7 +327,7 @@
     }
     
     blockquote {
-      border-left: 4px solid #2196f3;
+      border-left: 4px solid #22c55e;
       padding-left: 1rem;
       margin: 1rem 0;
       color: #666;
@@ -314,6 +383,11 @@
         flex-wrap: wrap;
       }
       
+      .nav-link {
+        padding: 6px 12px;
+        font-size: 0.9em;
+      }
+      
       .nav-search {
         margin-left: 0;
         margin-top: 10px;
@@ -333,6 +407,13 @@
         margin-left: 0;
       }
     }
+    
+    @media (max-width: 600px) {
+      .nav-link {
+        padding: 5px 10px;
+        font-size: 0.85em;
+      }
+    }
   </style>
 </head>
 <body>
@@ -345,14 +426,14 @@
       
       <div class="nav-links">
         <a href="/about/" class="nav-link">About</a>
-        <a href="/patterns/" class="nav-link patterns active">⬡ Patterns</a>
+        <a href="/patterns/" class="nav-link patterns">⬡ Patterns</a>
         <a href="/context/" class="nav-link contexts">⚙️ Context</a>
         <a href="/lighthouses/" class="nav-link lighthouses">🗼 Lighthouses</a>
       </div>
       
       <div class="nav-search">
         <span class="search-icon">🔍</span>
-        <input type="text" id="search-input" placeholder="Search patterns..." autocomplete="off">
+        <input type="text" id="search-input" placeholder="Search patterns, lighthouses..." autocomplete="off">
         <div class="search-results" id="search-results"></div>
       </div>
       
@@ -378,68 +459,156 @@
   </footer>
   
   <script>
-    // Initialize Fuse.js search
-    let fuse;
-    let searchIndex = [];
+    // Unified Search across all engines
+    let searchIndexes = {
+      patterns: [],
+      lighthouses: [],
+      contexts: []
+    };
+    let fuse = {
+      patterns: null,
+      lighthouses: null,
+      contexts: null
+    };
     
-    // Load search index
-    fetch('{{ site.baseurl }}/search-index.json')
-      .then(response => response.json())
-      .then(data => {
-        searchIndex = data;
-        fuse = new Fuse(searchIndex, {
-          keys: [
-            { name: 'title', weight: 0.4 },
-            { name: 'aliases', weight: 0.3 },
-            { name: 'tags', weight: 0.2 },
-            { name: 'slug', weight: 0.1 }
-          ],
-          threshold: 0.4,
-          includeScore: true,
-          minMatchCharLength: 2
-        });
-      })
-      .catch(err => console.log('Search index not loaded:', err));
+    const fuseOptions = {
+      keys: [
+        { name: 'title', weight: 0.4 },
+        { name: 'aliases', weight: 0.2 },
+        { name: 'tags', weight: 0.2 },
+        { name: 'description', weight: 0.1 },
+        { name: 'slug', weight: 0.1 }
+      ],
+      threshold: 0.4,
+      includeScore: true,
+      minMatchCharLength: 2
+    };
+    
+    // Load search indexes from all repos
+    Promise.all([
+      fetch('/patterns/search-index.json').then(r => r.ok ? r.json() : []).catch(() => []),
+      fetch('/lighthouses/search-index.json').then(r => r.ok ? r.json() : []).catch(() => []),
+      fetch('/contexts/search-index.json').then(r => r.ok ? r.json() : []).catch(() => [])
+    ]).then(([patterns, lighthouses, contexts]) => {
+      searchIndexes.patterns = patterns.map(p => ({ ...p, type: 'pattern' }));
+      searchIndexes.lighthouses = lighthouses.map(l => ({ ...l, type: 'lighthouse' }));
+      searchIndexes.contexts = contexts.map(c => ({ ...c, type: 'context' }));
+      
+      if (searchIndexes.patterns.length) {
+        fuse.patterns = new Fuse(searchIndexes.patterns, fuseOptions);
+      }
+      if (searchIndexes.lighthouses.length) {
+        fuse.lighthouses = new Fuse(searchIndexes.lighthouses, fuseOptions);
+      }
+      if (searchIndexes.contexts.length) {
+        fuse.contexts = new Fuse(searchIndexes.contexts, fuseOptions);
+      }
+    });
     
     // Search functionality
     const searchInput = document.getElementById('search-input');
     const searchResults = document.getElementById('search-results');
+    let currentQuery = '';
     
     searchInput.addEventListener('input', function() {
       const query = this.value.trim();
+      currentQuery = query;
       
       if (query.length < 2) {
         searchResults.classList.remove('active');
         return;
       }
       
-      if (!fuse) return;
+      let allResults = [];
       
-      const results = fuse.search(query).slice(0, 10);
+      // Search patterns
+      if (fuse.patterns) {
+        const patternResults = fuse.patterns.search(query).slice(0, 5);
+        allResults.push(...patternResults.map(r => ({ ...r.item, score: r.score })));
+      }
       
-      if (results.length === 0) {
+      // Search lighthouses
+      if (fuse.lighthouses) {
+        const lighthouseResults = fuse.lighthouses.search(query).slice(0, 5);
+        allResults.push(...lighthouseResults.map(r => ({ ...r.item, score: r.score })));
+      }
+      
+      // Search contexts
+      if (fuse.contexts) {
+        const contextResults = fuse.contexts.search(query).slice(0, 3);
+        allResults.push(...contextResults.map(r => ({ ...r.item, score: r.score })));
+      }
+      
+      if (allResults.length === 0) {
         const encodedQuery = encodeURIComponent(query);
         searchResults.innerHTML = `
           <div class="search-no-results">
-            <p style="margin-bottom: 10px;">No patterns found for "<strong>${query}</strong>"</p>
-            <p style="font-size: 0.9em; margin-bottom: 15px;">Help us grow the library!</p>
-            <a href="https://github.com/Commons-OS/patterns/issues/new?title=[Pattern Suggestion] ${encodedQuery}&body=I'd like to suggest a new pattern: ${encodedQuery}%0A%0ADescription:%0A%0AWhy this pattern matters:" target="_blank" style="display: inline-block; padding: 8px 16px; background: #2196f3; color: white; border-radius: 20px; text-decoration: none;">⬡ Suggest this Pattern</a>
+            <p>No results found for "<strong>${query}</strong>"</p>
+            <p style="font-size: 0.9em; color: #888; margin-bottom: 15px;">Can't find what you're looking for? Help us grow the library!</p>
+            <div class="suggest-links">
+              <a href="https://github.com/Commons-OS/patterns/issues/new?title=[Pattern Suggestion] ${encodedQuery}&body=I'd like to suggest a new pattern: ${encodedQuery}%0A%0ADescription:%0A%0AWhy this pattern matters:" class="suggest-link pattern" target="_blank">
+                ⬡ Suggest Pattern
+              </a>
+              <a href="https://github.com/Commons-OS/lighthouses/issues/new?title=[Lighthouse Suggestion] ${encodedQuery}&body=I'd like to suggest a new lighthouse: ${encodedQuery}%0A%0AType: Organization / City%0A%0ACountry:%0A%0AWhy this is a lighthouse:" class="suggest-link lighthouse" target="_blank">
+                🗼 Suggest Lighthouse
+              </a>
+            </div>
           </div>
         `;
         searchResults.classList.add('active');
         return;
       }
       
-      const html = results.map(result => {
-        const item = result.item;
-        const levelLabel = item.level ? item.level.replace('_', '-') : 'pattern';
-        return `
-          <a href="${item.url}" class="search-result-item">
-            <h4>${item.title}</h4>
-            <div class="meta">${levelLabel} · ${(item.tags || []).join(', ') || 'Business'}</div>
-          </a>
+      // Group results by type
+      const grouped = {
+        patterns: allResults.filter(r => r.type === 'pattern'),
+        lighthouses: allResults.filter(r => r.type === 'lighthouse'),
+        contexts: allResults.filter(r => r.type === 'context')
+      };
+      
+      let html = '';
+      
+      if (grouped.patterns.length > 0) {
+        html += `
+          <div class="search-results-group">
+            <div class="search-results-group-header patterns">⚙️ Patterns (${grouped.patterns.length})</div>
+            ${grouped.patterns.map(item => `
+              <a href="${item.url}" class="search-result-item">
+                <h4>${item.title}</h4>
+                <div class="meta">${item.level ? item.level.replace('_', '-') : 'Pattern'} · ${(item.tags || []).slice(0, 3).join(', ') || 'Business'}</div>
+              </a>
+            `).join('')}
+          </div>
         `;
-      }).join('');
+      }
+      
+      if (grouped.lighthouses.length > 0) {
+        html += `
+          <div class="search-results-group">
+            <div class="search-results-group-header lighthouses">🏠 Lighthouses (${grouped.lighthouses.length})</div>
+            ${grouped.lighthouses.map(item => `
+              <a href="${item.url}" class="search-result-item">
+                <h4>${item.title}</h4>
+                <div class="meta">${item.category || 'Organization'} · ${item.country || ''}</div>
+              </a>
+            `).join('')}
+          </div>
+        `;
+      }
+      
+      if (grouped.contexts.length > 0) {
+        html += `
+          <div class="search-results-group">
+            <div class="search-results-group-header contexts">🎯 Contexts (${grouped.contexts.length})</div>
+            ${grouped.contexts.map(item => `
+              <a href="${item.url}" class="search-result-item">
+                <h4>${item.title}</h4>
+                <div class="meta">${item.domain || 'Context'}</div>
+              </a>
+            `).join('')}
+          </div>
+        `;
+      }
       
       searchResults.innerHTML = html;
       searchResults.classList.add('active');
