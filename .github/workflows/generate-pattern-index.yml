@@ -1,0 +1,37 @@
+name: Generate Pattern Index
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '_patterns/**'
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  generate-index:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: pip install pyyaml
+      
+      - name: Generate pattern index
+        run: python scripts/generate_pattern_index.py
+      
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add _data/pattern_index.json
+          git diff --staged --quiet || git commit -m "Auto-update pattern index [skip ci]"
+          git push
