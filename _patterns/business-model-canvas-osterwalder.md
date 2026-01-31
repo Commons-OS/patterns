@@ -15,7 +15,7 @@ tags:
   era: digital
   origin: [academic, entrepreneurship]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 2
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -143,21 +143,40 @@ While AI can automate many aspects of business model design and analysis, the hu
 
 As AI and other emerging technologies continue to evolve, the Business Model Canvas is likely to become an even more dynamic and interactive tool. We may see the emergence of "living" business models that can automatically adapt and evolve in response to changing market conditions. However, the fundamental principles of the canvas – its holistic view, customer-centricity, and visual simplicity – will likely remain as relevant as ever.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Business Model Canvas, in its standard form, is a neutral tool that can be used to design a wide range of business models, from highly extractive to more commons-oriented. Its alignment with commons principles depends entirely on how it is used and the values that guide its application.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-1.  **Stakeholder Mapping**: The canvas explicitly includes "Customer Segments" and "Key Partners," but it does not inherently encourage a broad mapping of all stakeholders, such as employees, the community, and the environment. To improve its commons alignment, the canvas could be extended to include a dedicated section for stakeholder analysis.
-2.  **Value Creation**: The "Value Proposition" block focuses on the value created for customers, but it does not distinguish between different types of value (e.g., financial, social, environmental). A more commons-aligned approach would involve explicitly defining the social and environmental value propositions alongside the economic ones.
-3.  **Value Preservation**: The canvas is primarily focused on the present and the near future. It does not have a built-in mechanism for considering the long-term sustainability and resilience of the business model. To address this, a "Value Preservation" block could be added to the canvas.
-4.  **Shared Rights & Responsibilities**: The BMC does not explicitly address the distribution of rights and responsibilities among stakeholders. A commons-oriented version of the canvas would need to incorporate a framework for defining and allocating these rights and responsibilities in a fair and equitable manner.
-5.  **Systematic Design**: The canvas provides a systematic framework for designing a business model, but it does not prescribe any particular design principles. A commons-aligned design process would involve using the canvas in a participatory and iterative way, with a focus on co-creation and stakeholder engagement.
-6.  **Systems of Systems**: The BMC can be used to design business models that operate within larger systems, but it does not explicitly encourage a systems-of-systems perspective. To foster this, the canvas could be used in conjunction with other tools, such as ecosystem mapping and value network analysis.
-7.  **Fractal Properties**: The principles of the Business Model Canvas can be applied at different scales, from individual entrepreneurs to large corporations. This fractal nature makes it a versatile tool for promoting commons-oriented thinking at all levels of the economy.
+**1. Stakeholder Architecture:**
+The Business Model Canvas provides a limited stakeholder perspective, focusing primarily on "Customer Segments" and "Key Partners." It lacks a native framework for defining the broader Rights and Responsibilities essential for a commons, failing to explicitly include the environment, local communities, or future generations as key stakeholders. The tool is designed from the perspective of a single organization, mapping external relationships for its own strategic benefit rather than architecting a system of shared stewardship.
 
-**Overall Score**: 3/5 (Transitional)
+**2. Value Creation Capability:**
+The canvas is centered on how a business creates, delivers, and, most importantly, *captures* economic value through its "Value Proposition" and "Revenue Streams." While it can be adapted, its fundamental structure does not inherently prompt users to design for collective value creation, such as social well-being, ecological regeneration, or knowledge commons. The framework treats value as something delivered *to* a customer, not co-created *by* a diverse network of stakeholders.
 
-The Business Model Canvas is a powerful tool for business model innovation, but its standard form is not inherently aligned with commons principles. However, it can be adapted and extended to create more socially and environmentally responsible business models. By incorporating a broader stakeholder perspective, a more holistic view of value creation, and a long-term orientation, the canvas can be a valuable tool for building a more just and sustainable economy.
+**3. Resilience & Adaptability:**
+The BMC is an excellent tool for promoting adaptability within a single organization, encouraging iterative thinking and pivots in response to market feedback. However, it addresses resilience from a business continuity perspective rather than a systemic one. It helps an organization adapt to maintain its own viability, but does not provide mechanisms for enhancing the resilience of the entire ecosystem it operates within.
+
+**4. Ownership Architecture:**
+The canvas operates on an implicit model of traditional corporate ownership, where the goal is to optimize the business model to generate returns for shareholders or private owners. It does not provide any structure for defining ownership as a bundle of rights and responsibilities distributed among stakeholders. The logic of the canvas is geared towards capturing value, which is antithetical to commons principles of stewarding and circulating value.
+
+**5. Design for Autonomy:**
+The BMC is a high-level strategic tool that requires significant human interpretation, discussion, and decision-making, making it poorly suited for direct integration with autonomous systems like DAOs. While AI can augment the process by providing data for the canvas blocks, the framework itself is not designed for the low-coordination, rule-based logic that autonomous agents require. It serves as a map for humans, not an executable protocol for machines.
+
+**6. Composability & Interoperability:**
+The Business Model Canvas is highly composable with other management and innovation frameworks like the Value Proposition Canvas, Lean Startup, and Design Thinking. This interoperability is one of its greatest strengths, allowing it to be part of a larger toolkit for organizational design. However, it is designed to model a single entity, not to define the interoperable protocols between multiple entities in a larger value-creation system.
+
+**7. Fractal Value Creation:**
+The pattern exhibits strong fractal properties, as the nine-block logic can be applied to analyze or design value-exchange systems at various scales—from a single product or personal career to a department, an entire enterprise, or even a multi-organization collaboration. This scalability allows the core concepts to be used consistently across different levels of an organization. However, it consistently frames value creation from the perspective of a single entity at each scale, rather than a nested system of commons.
+
+**Overall Score: 2/5 (Partial Enabler)**
+
+**Rationale:**
+The Business Model Canvas is a powerful tool for mapping and innovating on value exchange from a single organization's perspective. It is a "Partial Enabler" because while it promotes systemic thinking about how a business operates, its core logic is fundamentally oriented around value capture, not collective value creation. It lacks the stakeholder breadth, multi-capital value framework, and distributed ownership concepts central to the Commons OS v2.0 definition. It helps create better businesses, but not necessarily commons.
+
+**Opportunities for Improvement:**
+- Augment the canvas with a "Commons" block to explicitly define shared resources, stewardship rules, and contributions to and from the commons.
+- Redefine "Revenue Streams" as "Value Flows" to account for non-monetary value exchange (e.g., knowledge, data, social capital) and contributions to the public good.
+- Add a "Stakeholder Rights & Responsibilities" block to move beyond the limited "Customer" and "Partner" roles and define a more equitable governance architecture.
 
 ### 9. Resources & References
 

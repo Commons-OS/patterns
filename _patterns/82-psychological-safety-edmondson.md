@@ -15,7 +15,7 @@ tags:
   era: [industrial, digital, cognitive]
   origin: [academic, amy-edmondson]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023vqf39rban1qtb2w4ev"]
@@ -124,25 +124,40 @@ Psychological safety is a shared belief held by members of a team that the team 
 
 - **Evolution Outlook**: In the cognitive era, psychological safety will become even more critical as organizations increasingly rely on human-machine collaboration to solve complex problems. The ability to learn, adapt, and innovate in partnership with AI will depend on a culture where humans feel safe to experiment, challenge the status quo, and admit when they don't have all the answers. The focus will shift from individual performance to the effectiveness of the human-machine team, and psychological safety will be the glue that holds these teams together.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-1.  **Stakeholder Mapping**: The primary stakeholders of psychological safety are the team members and leaders within an organization. However, the impact of this pattern extends to the entire organization, its customers, and even the broader community. When teams feel safe to innovate and speak up about problems, the quality of products and services improves, benefiting customers. A healthy work environment also contributes to employee well-being, which has positive ripple effects on families and communities. The pattern is comprehensive in its consideration of the immediate team, but could be more explicit in its mapping of these broader stakeholder interests.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-2.  **Value Creation**: Psychological safety creates multiple forms of value. For individuals, it creates a more positive and supportive work environment, reducing stress and promoting personal growth. For teams, it unlocks collective intelligence, leading to better problem-solving, increased innovation, and higher performance. For the organization, it creates a more resilient and adaptive culture, enabling it to thrive in a complex and changing world. The primary beneficiaries are the team members and the organization, but customers and the wider community also benefit from the improved outcomes that result.
+**1. Stakeholder Architecture:**
+The pattern primarily defines rights and responsibilities for team members and leaders. Leaders are responsible for creating a safe environment, while members are responsible for contributing constructively. This architecture indirectly benefits external stakeholders like customers and the community through higher quality outcomes and improved employee well-being, but it does not formally grant them rights or responsibilities within the system.
 
-3.  **Value Preservation**: The relevance of psychological safety is maintained over time through its focus on continuous learning and adaptation. By creating a culture where it is safe to experiment and learn from failure, psychological safety enables organizations to evolve and adapt to new challenges and opportunities. The principles of psychological safety are timeless and universal, as they are grounded in fundamental human needs for belonging, respect, and meaning.
+**2. Value Creation Capability:**
+Psychological Safety is a powerful enabler of non-economic value. It directly fosters the creation of knowledge and resilience value by creating a context where teams can learn from failure and adapt to change. It also generates significant social value by improving team cohesion, trust, and individual well-being, which are essential for long-term collective success.
 
-4.  **Shared Rights & Responsibilities**: Psychological safety is a shared responsibility. Leaders have a responsibility to create the conditions for psychological safety by modeling vulnerability, curiosity, and respect. Team members have a responsibility to contribute to a safe environment by speaking up constructively, listening actively, and treating each other with respect. The rights of individuals to express themselves and be heard are balanced by their responsibility to do so in a way that is respectful and productive.
+**3. Resilience & Adaptability:**
+This is a core strength of the pattern, as it is fundamentally designed to help systems thrive on change. By making it safe to admit errors, ask questions, and challenge the status quo, it builds the capacity for continuous learning and adaptation. This allows a group to maintain coherence and function effectively when faced with complexity and stress.
 
-5.  **Systematic Design**: Psychological safety is enabled by a set of interconnected systems and processes. These include hiring and promotion systems that select for and reward leaders who are skilled at creating psychological safety, performance management systems that focus on learning and development rather than blame, and communication and decision-making processes that are inclusive and transparent. The pattern is not a standalone intervention but requires a systemic approach to be truly effective.
+**4. Ownership Architecture:**
+The pattern promotes a form of distributed cultural ownership rather than formal equity. Team members gain a sense of ownership over their collective work environment and its outcomes by being empowered to contribute their voice and perspective. This shared responsibility for maintaining the "commons" of a safe and productive culture represents a shift beyond purely monetary definitions of ownership.
 
-6.  **Systems of Systems**: Psychological safety is a foundational pattern that enables the effective implementation of many other organizational patterns, such as Agile, Lean, and Holacracy. These patterns rely on collaboration, rapid feedback, and continuous improvement, all of which are dependent on a culture of psychological safety. Psychological safety can be seen as a meta-pattern that creates the conditions for other patterns to thrive.
+**5. Design for Autonomy:**
+Psychological Safety is highly compatible with autonomous systems, as it fosters a high-trust, low-blame environment that reduces the need for top-down control and micromanagement. This low coordination overhead is critical for the effective functioning of distributed teams, DAOs, and human-AI collaborations. It provides the cultural foundation for autonomous agents to interact, learn, and align effectively.
 
-7.  **Fractal Properties**: The principles of psychological safety are fractal, meaning they apply at all scales of a system, from individuals to teams, departments, organizations, and even ecosystems. A psychologically safe interaction between two people is characterized by the same principles of respect, curiosity, and vulnerability as a psychologically safe team or organization. This fractal nature allows the pattern to be scaled and adapted to a wide range of contexts.
+**6. Composability & Interoperability:**
+The pattern is highly composable, acting as a foundational "meta-pattern" that enhances the effectiveness of other organizational structures. It is a prerequisite for successfully implementing frameworks like Agile, Lean, and Holacracy, which depend on open communication and rapid feedback loops. Its presence or absence directly impacts the interoperability of other collaborative patterns.
 
-**Overall Score**: 3/5 (Transitional)
+**7. Fractal Value Creation:**
+The logic of creating safety for interpersonal risk-taking is fractal, applying across multiple scales. The core principles of respect, curiosity, and vulnerability are as relevant in a two-person dialogue as they are in a large organization or a multi-stakeholder ecosystem. This allows the pattern to be deployed consistently to foster value creation at every level of a system.
 
-**Rationale**: Psychological safety is a powerful pattern for creating more humane and effective organizations. It is transitional because while it challenges traditional command-and-control hierarchies and promotes more distributed forms of leadership, it is often implemented within the context of a traditional, for-profit corporation. To become more commons-aligned, the pattern could be more explicit about its application to multi-stakeholder collaborations and its potential to create value for the broader community, not just for the organization and its customers. There is an opportunity to explore how psychological safety can be used to foster trust and collaboration in multi-organization ecosystems and commons-based peer production networks.
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+The pattern is a powerful enabler of collective intelligence, resilience, and knowledge creation. It establishes the foundational cultural conditions necessary for complex, adaptive systems to thrive. While not a complete value creation architecture on its own, its role as a meta-pattern that enhances the interoperability and effectiveness of other structures makes it a critical component of any commons-based system.
+
+**Opportunities for Improvement:**
+- Explicitly map the rights and responsibilities to a wider range of stakeholders beyond the immediate team, including customers, the environment, and future generations.
+- Develop specific practices for cultivating psychological safety in human-machine teams and fully autonomous, distributed systems (DAOs).
+- Integrate the concept with formal ownership and governance models to link the cultural benefits directly to stakeholder rights and rewards.
 
 ### 9. Resources & References
 

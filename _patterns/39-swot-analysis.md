@@ -132,99 +132,47 @@ Before embarking on a SWOT analysis, several prerequisites should be in place to
 
 **Notable Adopters:**
 
-SWOT analysis is one of the most widely used strategic planning tools in the world, and it has been adopted by countless organizations across all industries. Some notable examples include:
+SWOT analysis is one of the most widely used strategic planning tools in the world, adopted by countless organizations of all sizes and across all industries. Its simplicity and effectiveness have made it a staple of business school curricula and corporate strategy sessions for decades. While it is difficult to pinpoint specific, high-profile "adopters" in the same way one might for a proprietary technology, its use is ubiquitous in the business world.
 
-*   **Amazon:** The e-commerce giant has used SWOT analysis to identify opportunities for diversification, leading to its expansion into cloud computing (Amazon Web Services), streaming media, and other ventures.
-*   **Starbucks:** The coffeehouse chain has used SWOT analysis to navigate challenges such as increased competition and changing consumer preferences, while also identifying opportunities for global expansion and product innovation.
-*   **Coca-Cola:** The beverage corporation has used SWOT analysis to maintain its market leadership position by identifying and responding to threats such as health concerns about sugary drinks and the rise of new competitors.
-*   **Apple:** The technology company has used SWOT analysis to leverage its brand strength and innovation capabilities to create new product categories and dominate existing ones.
-*   **Nike:** The athletic apparel and footwear company has used SWOT analysis to identify opportunities for growth in emerging markets and to address challenges such as supply chain disruptions and labor issues.
+**Scholarly Research:**
 
-**Documented Outcomes:**
+A vast body of academic literature exists on SWOT analysis, examining its theoretical underpinnings, practical applications, and limitations. Research has explored its effectiveness in various contexts, from small businesses to multinational corporations, and has sought to refine and improve the methodology over time. While some critics argue that SWOT analysis can be overly simplistic and prone to bias, it remains a widely respected and utilized tool in the field of strategic management.
 
-The use of SWOT analysis has been linked to a variety of positive outcomes for organizations, including:
+### 7. Related Patterns
 
-*   **Improved Strategic Focus:** SWOT analysis helps organizations to clarify their strategic priorities and to focus their resources on the most important issues.
-*   **Enhanced Decision-Making:** By providing a clear and concise overview of the internal and external environments, SWOT analysis can help to improve the quality of strategic decision-making.
-*   **Increased Agility and Adaptability:** By regularly reviewing and updating their SWOT analysis, organizations can become more agile and adaptable to changes in the market.
-*   **Improved Financial Performance:** While it is difficult to establish a direct causal link, many organizations that use SWOT analysis report improved financial performance, including increased revenue, profitability, and market share.
+*   **[TOWS Matrix](https://commons-os.github.io/patterns/tows-matrix/):** The TOWS Matrix is a direct evolution of the SWOT analysis, focusing on the development of actionable strategies by matching internal factors (Strengths and Weaknesses) with external factors (Opportunities and Threats). It provides a more structured approach to strategy formulation than the basic SWOT analysis.
 
-**Research Support:**
+### 8. Commons Alignment Assessment (v2.0)
 
-While SWOT analysis is a widely used and practical tool, it has also been the subject of academic research. Studies have shown that when used correctly, SWOT analysis can be an effective tool for strategic planning. However, research has also highlighted some of the limitations of the tool, such as the potential for bias and the need for a more rigorous and data-driven approach. For example, a 1997 study by Hill and Westbrook found that many companies were using SWOT analysis in a superficial and uncritical way, which limited its effectiveness.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-### 7. Cognitive Era Considerations
+**1. Stakeholder Architecture:**
+SWOT analysis does not inherently define Rights and Responsibilities for stakeholders. However, its participative nature allows for the inclusion of diverse stakeholders in the strategic conversation, including employees, customers, and partners. The framework is flexible enough to be adapted to consider the needs of the environment and future generations, but this is not a built-in feature.
 
-**Cognitive Augmentation Potential:**
+**2. Value Creation Capability:**
+Traditionally, SWOT analysis is used to maximize economic value and competitive advantage. However, the framework is value-agnostic and can be applied to create other forms of value, such as social, ecological, or knowledge value. Its effectiveness in this regard depends entirely on the intention and focus of the participants.
 
-In the cognitive era, artificial intelligence (AI) and automation have the potential to significantly enhance the power of SWOT analysis. AI-powered tools can be used to automate the data gathering and analysis process, providing a more comprehensive and up-to-date picture of the internal and external environments. For example, natural language processing (NLP) can be used to analyze large volumes of text data from sources such as customer reviews, social media, and news articles to identify emerging trends and sentiment. Machine learning algorithms can be used to identify patterns and correlations in data that might not be apparent to human analysts.
+**3. Resilience & Adaptability:**
+The iterative nature of SWOT analysis, which encourages regular scanning of the internal and external environments, strongly supports resilience and adaptability. By continuously reassessing their position, organizations can better anticipate and respond to change, maintain coherence under stress, and thrive in complex environments. This is a key strength of the pattern.
 
-**Human-Machine Balance:**
+**4. Ownership Architecture:**
+SWOT analysis does not address ownership architecture in any meaningful way. It is a strategic planning tool, not a governance or ownership model, and as such, it does not define ownership in terms of Rights and Responsibilities beyond the context of strategic advantage.
 
-While AI can augment the SWOT analysis process, it is unlikely to replace the need for human judgment and creativity. The role of the human in the loop will be to interpret the outputs of the AI-powered tools, to apply their domain expertise and intuition, and to facilitate the collaborative process of strategy development. The most effective approach will be a human-machine partnership, where AI provides the data and insights, and humans provide the wisdom and strategic direction.
+**5. Design for Autonomy:**
+The pattern is not designed for autonomous systems. It is a high-level, deliberative process that requires significant human coordination, collaboration, and subjective interpretation. Therefore, it is not readily compatible with AI, DAOs, or other distributed, low-coordination systems.
 
-**Evolution Outlook:**
+**6. Composability & Interoperability:**
+SWOT analysis is highly composable and interoperable with other strategic planning patterns, such as PESTLE analysis and the TOWS Matrix. It serves as a foundational input for more detailed strategic frameworks, allowing for the creation of more comprehensive and robust value-creation systems.
 
-In the future, we can expect to see the evolution of more sophisticated and dynamic SWOT analysis tools that are integrated with other strategic planning and performance management systems. These tools will provide real-time insights and alerts, enabling organizations to be more proactive and responsive to changes in the environment. We may also see the development of more specialized SWOT analysis frameworks for specific industries or contexts.
-
-### 8. Commons Alignment Assessment
-
-1.  **Stakeholder Mapping:** SWOT analysis, in its original SOFT conception, was explicitly designed to incorporate stakeholder values into the strategic planning process. However, in its modern application, the focus is often more on the organization itself. A more commons-aligned approach would involve a more explicit and comprehensive mapping of all stakeholders, including employees, customers, suppliers, local communities, and the environment, and a systematic consideration of their interests in the analysis.
-
-2.  **Value Creation:** SWOT analysis is primarily focused on creating value for the organization, typically in the form of increased profitability and market share. A more commons-aligned approach would consider a broader range of value creation, including social, environmental, and cultural value. It would also consider how value is distributed among different stakeholders.
-
-3.  **Value Preservation:** The dynamic and iterative nature of SWOT analysis, with its emphasis on regular review and adaptation, is well-aligned with the principle of value preservation. By continuously monitoring the internal and external environments, organizations can ensure that their strategies remain relevant and effective over time.
-
-4.  **Shared Rights & Responsibilities:** The collaborative and inclusive nature of the SWOT analysis process, when practiced effectively, can help to foster a sense of shared rights and responsibilities among participants. However, a more commons-aligned approach would involve a more explicit discussion of how rights and responsibilities are distributed among all stakeholders, not just those involved in the analysis.
-
-5.  **Systematic Design:** SWOT analysis provides a systematic and structured process for strategic planning. This is well-aligned with the principle of systematic design. However, the effectiveness of the system depends on the quality of the data and the rigor of the analysis.
-
-6.  **Systems of Systems:** SWOT analysis can be applied at multiple scales, from the individual to the ecosystem level. This makes it a flexible and adaptable tool that can be used to analyze the interactions between different systems. However, a more commons-aligned approach would involve a more explicit consideration of how the organization is embedded in a larger system of systems and how its actions impact other parts of the system.
-
-7.  **Fractal Properties:** The core principles of SWOT analysis—assessing strengths, weaknesses, opportunities, and threats—can be applied at any scale, from the individual to the organization as a whole. This demonstrates the fractal properties of the pattern.
+**7. Fractal Value Creation:**
+The logic of SWOT analysis is fractal, as it can be effectively applied at multiple scales, from individuals and teams to entire organizations and ecosystems. This allows for a coherent approach to strategic alignment across different levels of a system, enabling value-creation logic to be scaled.
 
 **Overall Score: 3 (Transitional)**
 
-SWOT analysis is a powerful and widely used tool that has the potential to be a valuable component of a commons-aligned approach to strategic planning. However, in its typical application, it often falls short of its full potential. To become more commons-aligned, organizations need to adopt a more stakeholder-centric, long-term, and systemic perspective in their use of the tool. The opportunities for improvement lie in more explicitly incorporating stakeholder mapping, broadening the definition of value creation, and more systematically considering the organization's role in the larger system of systems.
+**Rationale:**
+SWOT analysis is a powerful and adaptable tool for strategic planning that exhibits strong alignment with the principles of Resilience, Composability, and Fractal Value Creation. However, it falls short in the areas of Stakeholder Architecture, Ownership Architecture, and Design for Autonomy, which are central to the v2.0 framework. It is a transitional pattern because while not inherently designed for commons-based value creation, it can be adapted and repurposed to serve this end with conscious effort.
 
-### 9. Resources & References
-
-**Essential Reading:**
-
-*   Puyt, R. W., Lie, F. B., & Wilderom, C. P. M. (2023). The origins of SWOT analysis. *Long Range Planning*, *56*(3), 102304.
-*   Hill, T., & Westbrook, R. (1997). SWOT analysis: it's time for a product recall. *Long range planning*, *30*(1), 46-52.
-*   Sammut-Bonnici, T., & Galea, D. (2015). SWOT analysis. *Wiley encyclopedia of management*, 1-8.
-
-**Organizations & Communities:**
-
-*   **Strategic Planning Society:** A professional association for strategic planners, offering resources, events, and networking opportunities.
-*   **Association for Strategic Planning:** A non-profit organization dedicated to advancing the art and science of strategic planning.
-
-**Tools & Platforms:**
-
-*   **Visual Paradigm:** An online platform that provides a variety of business and strategic planning tools, including a SWOT analysis template.
-*   **Miro:** A collaborative online whiteboard that can be used to facilitate remote SWOT analysis sessions.
-
-**References:**
-
-[1] Investopedia. (2023). *SWOT Analysis: What It Is, How It Works, and How to Perform an Analysis*. [https://www.investopedia.com/terms/s/swot.asp](https://www.investopedia.com/terms/s/swot.asp)
-
-[2] Puyt, R. W., Lie, F. B., & Wilderom, C. P. M. (2023). The origins of SWOT analysis. *Long Range Planning*, *56*(3), 102304. [https://www.sciencedirect.com/science/article/pii/S0024630123000110](https://www.sciencedirect.com/science/article/pii/S0024630123000110)
-
-[3] Pepperdine University Graziadio Business School. (2024). *Best Practices for Successful SWOT Analysis*. [https://bschool.pepperdine.edu/personal-growth/article/best-practices-for-successful-swot-analysis.htm](https://bschool.pepperdine.edu/personal-growth/article/best-practices-for-successful-swot-analysis.htm)
-
-[4] Quantive. (n.d.). *SWOT Analysis: Definition, 8 Steps, Uses, & Examples*. [https://quantive.com/resources/articles/swot-analysis](https://quantive.com/resources/articles/swot-analysis)
-
-[5] Visual Paradigm. (n.d.). *SWOT Analysis Case Studies*. [https://online.visual-paradigm.com/knowledge/swot-analysis/swot-analysis-case-studies/](https://online.visual-paradigm.com/knowledge/swot-analysis/swot-analysis-case-studies/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/39-swot-analysis/](https://commons-os.github.io/patterns/domain/39-swot-analysis/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/39-swot-analysis.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/39-swot-analysis.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
+**Opportunities for Improvement:**
+- Integrate a multi-stakeholder perspective explicitly into the framework, prompting users to consider the Rights and Responsibilities of all affected parties, including non-human stakeholders.
+- Develop a "Commons-Oriented SWOT" variant that guides users to assess Strengths, Weaknesses, Opportunities, and Threats in relation to collective value creation rather than just competitive advantage.
+- Combine SWOT with patterns that more directly address governance and ownership to create a more complete value creation architecture.

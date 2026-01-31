@@ -166,7 +166,42 @@ While AI and automation have the potential to enhance academic strategy, it is i
 
 In the future, we can expect to see academic strategy models become increasingly data-driven, personalized, and agile. AI and machine learning will play an increasingly important role in all aspects of strategic planning, from environmental scanning to performance monitoring. We can also expect to see a greater emphasis on interdisciplinary collaboration and a more holistic approach to student success. The traditional boundaries between academic disciplines and administrative functions will become increasingly blurred, as institutions move towards a more integrated and student-centered model of education.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
+
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
+
+**1. Stakeholder Architecture:**
+Academic Strategy Models advocate for broad stakeholder engagement, including faculty, students, staff, and external partners. However, the distribution of rights and responsibilities often remains hierarchical, with senior administration holding primary decision-making power. The framework provides a structure for consultation but does not inherently guarantee co-creation or equitable influence for all stakeholders, particularly non-human ones like the environment.
+
+**2. Value Creation Capability:**
+The pattern is explicitly designed for value creation, but this value is often narrowly defined by institutional metrics like enrollment, rankings, and research funding. While it can be adapted to foster social, ecological, and knowledge value, its core application tends to prioritize economic and competitive advantage over collective well-being.
+
+**3. Resilience & Adaptability:**
+Resilience and adaptability are core principles, addressed through practices like environmental scanning, scenario planning, and continuous monitoring. The pattern enables institutions to anticipate and respond to external changes, helping them maintain coherence under stress. However, resilience can be compromised if the focus remains on preserving existing structures rather than fostering systemic health.
+
+**4. Ownership Architecture:**
+The concept of shared governance aligns with a commons-based ownership architecture, but the pattern's implementation often falls short of this ideal. Ownership is typically tied to traditional administrative and governance roles rather than a distributed model of rights and responsibilities. The framework does not inherently redefine ownership beyond conventional institutional hierarchies.
+
+**5. Design for Autonomy:**
+While not originally designed for autonomous systems, the pattern's principles are compatible with them, as noted in its 'Cognitive Era' considerations. AI can augment data analysis and decision-making, reducing coordination overhead. However, traditional, top-down implementation can create significant bureaucratic friction, hindering the autonomy of individuals and teams.
+
+**6. Composability & Interoperability:**
+This pattern is highly composable, designed to integrate various other tools and methodologies like SWOT analysis, Balanced Scorecard, and Benchmarking. It can serve as a meta-framework that combines with other governance and operational patterns to build more comprehensive value-creation systems for an entire institution.
+
+**7. Fractal Value Creation:**
+The pattern exhibits strong fractal properties, as its strategic logic can be applied at multiple scales—from individual departments and research teams to the entire university system. This allows for strategic alignment across different levels of the institution. The challenge lies in ensuring that value creation at each scale contributes to the health of the whole.
+
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+Academic Strategy Models are transitional because they provide a robust framework for long-term planning and stakeholder coordination, but their effectiveness in creating collective value depends heavily on their implementation. While they possess the tools for resilience and multi-scale application, they often default to hierarchical, resource-focused approaches that fall short of a true commons architecture. They require significant adaptation to shift from institutional preservation to enabling a resilient value-creating ecosystem.
+
+**Opportunities for Improvement:**
+- Integrate explicit metrics for social, ecological, and knowledge value to move beyond purely economic indicators.
+- Develop more robust mechanisms for co-creation and shared decision-making that empower a wider range of stakeholders.
+- Explicitly define the rights and responsibilities of non-human stakeholders, such as the environment and future generations, within the strategic framework.
+
+### 9. Resources & References
 
 **1. Stakeholder Mapping:**
 

@@ -177,41 +177,40 @@ While AI can automate many of the technical aspects of ABC, the human element re
 
 The integration of AI and ABC is likely to lead to the development of more dynamic and real-time costing systems. Instead of relying on periodic updates, these systems will be able to continuously monitor and analyze cost data, providing managers with up-to-the-minute insights into the profitability of their products, services, and customers. This will enable organizations to be more agile and responsive to changes in the market, and to make more informed decisions in a rapidly changing business environment.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-This assessment evaluates the alignment of Activity-Based Costing (ABC) with the principles of a commons-based approach, considering how it can be used to create and sustain shared value.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**1. Stakeholder Mapping:**
+**1. Stakeholder Architecture:**
+Activity-Based Costing (ABC) primarily focuses on internal stakeholders like management and employees, and external stakeholders like customers, by clarifying the costs associated with serving them. The rights and responsibilities are defined through the lens of resource consumption and activity performance. However, in its standard application, it does not inherently account for the rights of non-human stakeholders like the environment, nor does it explicitly consider future generations.
 
-ABC provides a framework for mapping the stakeholders involved in the value creation process. By identifying the activities that are performed to serve different customers and customer segments, ABC can help to make the costs of serving each stakeholder more transparent. This can lead to a more equitable distribution of resources and a better understanding of the value created for each stakeholder group. However, a traditional application of ABC may focus primarily on customers and shareholders, neglecting other important stakeholders such as employees, suppliers, and the community. A commons-aligned approach to ABC would require a more expansive view of stakeholders, considering the social and environmental impacts of the organization's activities.
+**2. Value Creation Capability:**
+ABC strongly enables economic value creation by providing a granular understanding of cost structures, leading to improved efficiency and profitability. This detailed financial insight is its core strength. While it does not directly measure social, ecological, or knowledge value, the efficiencies it creates can free up resources that can be intentionally reinvested into these other value streams.
 
-**2. Value Creation:**
+**3. Resilience & Adaptability:**
+By offering a more accurate map of cost drivers and profitability, ABC enhances an organization's ability to adapt to market changes and make resilient strategic decisions. It allows for a more precise understanding of which products or services are most viable under stress. However, its focus remains on financial resilience rather than a more holistic view of adaptive capacity that includes social or ecological factors.
 
-ABC can be a powerful tool for understanding and optimizing value creation. By providing a more accurate picture of the cost of products and services, ABC can help organizations to identify and eliminate waste, improve efficiency, and focus on their most value-creating activities. This can lead to lower prices for customers, higher profits for shareholders, and a more sustainable business model. However, the definition of value in a traditional ABC implementation is often limited to financial value. A commons-aligned approach would require a broader definition of value, encompassing social and environmental value as well.
+**4. Ownership Architecture:**
+ABC does not directly address ownership architecture in terms of defining rights and responsibilities beyond a financial context. It is a management accounting methodology focused on cost allocation and operational efficiency. The concept of ownership remains tied to the traditional model of monetary equity and control over resources.
 
-**3. Value Preservation:**
+**5. Design for Autonomy:**
+ABC is highly compatible with autonomous systems, including AI and DAOs, due to its structured, data-driven nature. The clear mapping of activities to costs creates a logic that can be easily automated and used by algorithms for real-time decision-making and resource allocation with low coordination overhead. As noted in the pattern's Cognitive Era Considerations, AI can significantly augment the implementation and analysis within an ABC system.
 
-ABC can contribute to value preservation by providing the information needed to make sound strategic decisions. By understanding the true cost and profitability of products and services, organizations can make better decisions about which products to invest in, which to divest, and how to price their offerings. This can help to ensure the long-term sustainability of the organization and its ability to continue creating value for its stakeholders. However, a short-term focus on cost reduction can sometimes lead to decisions that undermine long-term value creation, such as underinvestment in research and development or employee training.
+**6. Composability & Interoperability:**
+This pattern is highly composable and designed to interoperate with other management systems. It can be integrated with budgeting, performance management, and process improvement frameworks to create a more comprehensive system for managing value creation. This interoperability allows it to serve as a foundational layer in a larger, more complex organizational architecture.
 
-**4. Shared Rights & Responsibilities:**
-
-ABC can help to create a greater sense of shared responsibility within an organization by making the costs of activities more transparent. When employees understand how their actions impact costs, they are more likely to take ownership of their work and to look for ways to improve efficiency. However, if ABC is used in a top-down, command-and-control manner, it can lead to a culture of blame and a lack of trust. A commons-aligned approach would require a more participatory and collaborative approach to ABC, with employees at all levels involved in the process of identifying activities, defining cost drivers, and analyzing results.
-
-**5. Systematic Design:**
-
-ABC is a systematic and data-driven approach to cost management. It provides a structured framework for identifying, measuring, and managing costs, which can help to improve the overall efficiency and effectiveness of the organization. The systematic nature of ABC can also help to create a common language and understanding of costs across the organization, which can facilitate communication and collaboration.
-
-**6. Systems of Systems:**
-
-ABC can be integrated with other management systems, such as budgeting, performance measurement, and process improvement, to create a more comprehensive and effective system of systems. When integrated with these other systems, ABC can provide the information needed to set realistic budgets, to measure performance against targets, and to identify and prioritize opportunities for improvement. This can help to create a more aligned and integrated organization, with all parts of the business working together to achieve common goals.
-
-**7. Fractal Properties:**
-
-The principles of ABC can be applied at multiple scales, from individual departments to the entire organization and even across supply chains. This fractal property makes ABC a flexible and adaptable methodology that can be tailored to the specific needs of any organization. For example, a large, complex organization might implement a full-scale ABC system, while a smaller, simpler organization might use a more streamlined version of the methodology.
+**7. Fractal Value Creation:**
+ABC exhibits strong fractal properties, as its logic can be applied at multiple scales. The methodology of linking costs to activities can be used at the level of a small team, a department, an entire organization, or even extended across a supply chain or value network. This scalability allows the core principle of cost transparency to be replicated and adapted to various contexts.
 
 **Overall Score: 3 (Transitional)**
 
-Activity-Based Costing is a powerful tool for improving cost management and decision-making. However, its alignment with a commons-based approach depends heavily on how it is implemented and used. A traditional, financially-focused implementation of ABC may fall short of the ideals of a commons, while a more holistic and participatory approach can be a powerful enabler of shared value creation. To improve its commons alignment, organizations should strive to adopt a broader definition of value, to engage all stakeholders in the ABC process, and to use the insights gained from ABC to create a more just and sustainable business model.
+**Rationale:**
+Activity-Based Costing is a powerful transitional pattern. While its primary focus is on optimizing financial value within a single organization, its systematic and data-driven approach provides a crucial foundation for more advanced value creation architectures. Its compatibility with AI and its fractal nature give it significant potential, but it requires a conscious effort to broaden its scope to include non-financial value and a wider range of stakeholders to become fully aligned with a commons-centric model.
+
+**Opportunities for Improvement:**
+- Expand the definition of "cost" to include negative externalities, such as social and environmental impacts, creating a more holistic view of an activity's true cost.
+- Integrate ABC with stakeholder mapping frameworks to explicitly include the rights and needs of a broader set of stakeholders (e.g., community, environment) in the cost analysis.
+- Use the insights from ABC to not only maximize profit but to strategically allocate resources towards activities that generate social, ecological, and knowledge value.
 
 ### 9. Resources & References
 

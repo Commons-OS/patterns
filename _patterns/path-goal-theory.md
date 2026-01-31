@@ -131,21 +131,40 @@ Another key consideration in the cognitive era is the importance of collaboratio
 
 Finally, the rapid pace of technological change in the cognitive era means that leaders need to be able to help their followers to adapt to new technologies and ways of working. This may require a combination of directive and supportive leadership. Leaders may need to provide clear guidance on how to use new technologies, while also providing the emotional support that is needed to help followers to cope with the stress of change.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Commons Alignment Assessment evaluates how well the Path-Goal Theory aligns with the principles of a commons-based approach. The assessment is based on seven dimensions, each of which is rated on a scale of 1 to 5, where 1 represents low alignment and 5 represents high alignment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Rating | Rationale |
-|---|---|---|
-| **Openness & Transparency** | 3 | The theory encourages clear communication of goals and expectations, which aligns with the principle of transparency. However, it does not explicitly address the importance of open access to information and knowledge. |
-| **Decentralization & Federation** | 2 | The theory is leader-centric and does not explicitly promote decentralized decision-making. While it does include a participative leadership style, the ultimate decision-making authority still rests with the leader. |
-| **Collaboration & Cooperation** | 4 | The theory's emphasis on supportive and participative leadership styles fosters a collaborative and cooperative work environment. By encouraging teamwork and mutual support, the theory aligns well with this principle. |
-| **Community & Culture** | 3 | The theory's focus on creating a supportive and positive work environment contributes to the development of a strong community and culture. However, it does not explicitly address the importance of shared values and norms. |
-| **Sustainability & Resilience** | 2 | The theory does not explicitly address the importance of long-term sustainability and resilience. Its primary focus is on short-term motivation and performance. |
-| **Equity & Inclusion** | 3 | The theory's emphasis on tailoring leadership style to the needs of individual followers can contribute to a more equitable and inclusive work environment. However, it does not explicitly address issues of power and privilege. |
-| **Holism & Systems Thinking** | 2 | The theory takes a relatively narrow view of leadership, focusing primarily on the relationship between the leader and the followers. It does not explicitly address the broader organizational and societal context in which leadership takes place. |
+**1. Stakeholder Architecture:**
+The pattern primarily defines Rights (e.g., to receive clear goals and support) and Responsibilities (e.g., to provide guidance and remove obstacles) within a leader-follower dyad. It is internally focused on the immediate team or organization and does not explicitly define roles or responsibilities for external stakeholders like the environment, other organizations, or future generations.
 
-**Overall Commons Alignment Score:** 3
+**2. Value Creation Capability:**
+The theory is designed to enhance motivation and performance, which directly enables the creation of value, primarily in the form of productivity and organizational goal attainment. While it doesn't explicitly mention social or ecological value, the framework is flexible enough that a leader could define 'goals' in these broader terms. However, its core framing is oriented towards business and knowledge value within an organizational context.
+
+**3. Resilience & Adaptability:**
+This is a core strength of the pattern. The entire theory is contingent on leaders adapting their style to follower characteristics and the work environment. This inherent flexibility helps teams maintain coherence and effectiveness when facing changing tasks, new challenges, or stressful situations, thereby building system resilience.
+
+**4. Ownership Architecture:**
+The pattern does not formally address ownership architecture. It operates within a traditional model where ownership is separate from the work being managed. However, the 'participative' leadership style can foster a sense of psychological ownership and agency among followers by involving them in decision-making, even if it doesn't alter the formal distribution of rights and responsibilities.
+
+**5. Design for Autonomy:**
+The theory's compatibility with autonomy varies by leadership style. While the 'directive' style is low-autonomy, the 'participative' and 'achievement-oriented' styles are well-suited for empowering autonomous, knowledge-driven teams and could be applied within distributed systems like DAOs. The framework is not inherently designed for low-coordination overhead, as it still posits a central leader as the primary coordinator.
+
+**6. Composability & Interoperability:**
+As a leadership model, Path-Goal Theory is highly composable. It is not a rigid organizational structure but a set of behaviors that can be integrated into various other patterns, from traditional hierarchies to more decentralized networks. A leader in a Holacracy circle or a project lead in a DAO could effectively use its principles to motivate their team.
+
+**7. Fractal Value Creation:**
+The core logic of a leader clarifying paths, setting goals, and removing obstacles for a group can be applied at multiple scales. A team leader uses it with their direct reports, a department head uses it with their team leaders, and an executive uses it with their VPs. This makes the value-creation logic of the pattern fractal in nature.
+
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+Path-Goal Theory provides a strong framework for adaptive leadership and motivating teams, which enables value creation. Its contingency-based approach promotes resilience. However, it remains fundamentally leader-centric and does not explicitly address distributed ownership, a broad stakeholder architecture, or non-economic value creation, requiring significant adaptation for a full commons alignment.
+
+**Opportunities for Improvement:**
+- Expand the definition of 'goals' to explicitly include social, ecological, and knowledge value, not just organizational performance.
+- Integrate a stakeholder model that extends beyond the leader-follower dyad to include external stakeholders, the environment, and future generations.
+- Develop a variant of the theory for peer-to-peer relationships that distributes the 'leader' responsibilities across a team to better support decentralized systems.
 
 ## 9. Resources & References
 

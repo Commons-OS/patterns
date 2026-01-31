@@ -15,7 +15,7 @@ tags:
   era: [agricultural, cognitive]
   origin: [academic, indigenous-knowledge]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -180,21 +180,40 @@ Despite the potential for automation, the human element remains central to agroe
 
 In the future, agroecology is likely to evolve into a more data-driven and technologically integrated practice, without losing its core principles. We can expect to see the emergence of "smart" agroecological farms that use technology to optimize ecological processes. The development of open-source platforms for sharing data and knowledge among farmers could accelerate the pace of innovation and adaptation. As the challenges of climate change and resource scarcity intensify, agroecology, augmented by cognitive tools, will become an increasingly important pathway to building a food-secure future.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-This assessment evaluates the Agroecology pattern against the seven dimensions of a commons-aligned system.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-1.  **Stakeholder Mapping**: Agroecology is inherently inclusive, recognizing a wide range of stakeholders beyond just producers and consumers. This includes local communities, indigenous groups, researchers, policymakers, and the environment itself. The principle of "co-creation of knowledge" ensures that diverse perspectives are integrated into the design and management of food systems.
-2.  **Value Creation**: The pattern creates multiple forms of value. Ecologically, it enhances biodiversity, soil health, and water quality. Socially, it promotes equity, community resilience, and food sovereignty. Economically, it can lead to more stable and diversified incomes for farmers by reducing dependence on costly external inputs. The benefits are intended to be shared broadly among stakeholders.
-3.  **Value Preservation**: Agroecology focuses on regeneration and resilience, ensuring the long-term preservation of natural resources. By building soil organic matter, conserving water, and protecting biodiversity, it maintains the productive capacity of the land for future generations. The emphasis on sharing knowledge also preserves and enriches the intangible cultural heritage associated with food and farming.
-4.  **Shared Rights & Responsibilities**: The principle of "responsible governance" calls for fair and transparent mechanisms for managing natural resources. Agroecology often promotes community-based management systems, such as seed banks and water user associations, where rights and responsibilities are shared among community members.
-5.  **Systematic Design**: Agroecology is a highly systematic pattern. The 10 Elements and 13 Principles provide a clear framework for designing integrated systems that optimize ecological and social functions. Practices are not applied in isolation but are combined in a way that creates positive synergies.
-6.  **Systems of Systems**: Agroecology is a meta-pattern that integrates well with other commons-aligned patterns. It can be combined with Permaculture design principles, Holistic Management grazing practices, and Community-Supported Agriculture (CSA) models to create even more resilient and equitable food systems.
-7.  **Fractal Properties**: The principles of agroecology are fractal, meaning they can be applied at any scale. The same principles of diversity, synergy, and recycling can be used to design a small backyard garden, a family farm, or an entire regional food system.
+**1. Stakeholder Architecture:**
+Agroecology defines a broad stakeholder architecture that includes farmers, researchers, indigenous communities, policymakers, and the environment itself. It distributes Rights and Responsibilities through principles like "co-creation and sharing of knowledge" and "responsible governance," fostering a collaborative and inclusive approach. By focusing on the long-term health of the ecosystem, the pattern inherently considers the rights of future generations to a productive and healthy environment.
 
-**Overall Score: 3/5 (Transitional)**
+**2. Value Creation Capability:**
+The pattern excels at enabling collective value creation far beyond simple economic output. It systematically generates ecological value by enhancing biodiversity and soil health, social value by promoting equity and food sovereignty, and knowledge value through participatory research and knowledge sharing. This holistic approach to value creation is a direct response to the narrow, profit-driven focus of industrial agriculture.
 
-Agroecology receives a score of 3, indicating it is a transitional pattern. While its principles are highly aligned with a commons-based approach, its practical implementation often occurs within a dominant economic and political system that is extractive. Many agroecological projects still have to navigate conventional market structures and policy environments that do not fully support their goals. However, by creating alternative food networks, promoting social equity, and regenerating natural resources, agroecology represents a clear and powerful pathway away from extractive models and toward a true food commons.
+**3. Resilience & Adaptability:**
+Resilience and adaptability are at the core of the agroecological approach. The emphasis on diversity at genetic, species, and ecosystem levels creates systems that can better withstand shocks and adapt to change. The pattern encourages local adaptation and continuous learning, allowing it to thrive in complex and unpredictable environments, thereby maintaining coherence under stress.
+
+**4. Ownership Architecture:**
+While not prescribing a specific ownership model, agroecology promotes an ownership architecture rooted in stewardship. Principles like "secure land tenure" and community-based management of resources (e.g., seed banks) tie ownership rights to the responsibilities of care and regeneration. This shifts the focus from ownership as a right to extract value to ownership as a responsibility to sustain value.
+
+**5. Design for Autonomy:**
+Agroecology is highly compatible with autonomous and distributed systems. Its emphasis on on-farm input production, local resource use, and decentralized knowledge networks reduces dependence on centralized control and lowers coordination overhead. As noted in the pattern, it is well-suited for augmentation with AI and other cognitive tools to create "smart" agroecological systems that are both autonomous and ecologically attuned.
+
+**6. Composability & Interoperability:**
+The pattern is highly composable, functioning as a meta-pattern that can be integrated with other practices like Permaculture, Holistic Management, and Community-Supported Agriculture. This interoperability allows for the creation of larger, more complex value-creation systems tailored to specific contexts. Its modular nature enables a flexible and adaptive approach to building sustainable food systems.
+
+**7. Fractal Value Creation:**
+Agroecology exhibits strong fractal properties, as its core value-creation logic can be applied at multiple scales. The principles of diversity, synergy, and recycling are as relevant to a small urban garden as they are to a large agricultural landscape or a regional food system. This scalability allows the pattern to be replicated and adapted across different contexts, creating nested systems of resilient value creation.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Agroecology is a powerful enabler of resilient collective value creation. It provides a comprehensive framework for designing and managing food systems that are socially just, ecologically sound, and economically viable. The pattern strongly aligns with the 7 Pillars of the Commons OS v2.0 framework, particularly in its emphasis on stakeholder inclusivity, multi-dimensional value creation, and resilience. It scores a 4 because while it provides a robust architecture for value creation, its successful implementation often depends on a supportive policy and economic environment, which is not always present.
+
+**Opportunities for Improvement:**
+- Develop stronger financial and policy instruments to support farmers transitioning to agroecology, de-risking the process and accelerating adoption.
+- Enhance the integration of modern technology, such as AI and remote sensing, to create more data-driven and responsive agroecological systems, while ensuring these tools remain accessible and affordable for smallholders.
+- Strengthen linkages between urban and rural areas through the promotion of agroecological principles in urban planning and the development of regional food systems that connect urban consumers directly with agroecological producers.
 
 ### 9. Resources & References
 

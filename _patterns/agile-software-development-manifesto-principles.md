@@ -15,7 +15,7 @@ tags:
   era: [digital]
   origin: [agile-manifesto]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: ["pat_01kg5023xaemr9xsmcy13gf405"]
 specializes_to: []
@@ -117,77 +117,39 @@ A growing body of research provides empirical support for the effectiveness of a
 
 ### 7. Cognitive Era Considerations
 
-**Cognitive Augmentation Potential**:
+The principles of the Agile Manifesto are highly relevant in the Cognitive Era, as they provide a foundation for the kind of iterative, learning-based approach that is essential for developing and deploying AI systems. The emphasis on collaboration, feedback, and adaptation is well-suited to the challenges of working with complex, probabilistic systems. However, the rise of AI also presents new challenges for agile. For example, the traditional focus on user stories may need to be adapted to account for the needs of AI agents and other non-human actors. Similarly, the principle of face-to-face conversation may need to be re-evaluated in a world where teams are increasingly distributed and reliant on digital communication tools.
 
-Artificial intelligence and automation have the potential to significantly enhance the principles of the Agile Manifesto. AI-powered tools can automate repetitive tasks, such as testing and deployment, freeing up developers to focus on more creative and strategic work. AI can also be used to analyze large datasets and identify patterns that would be difficult for humans to detect. This can help teams to make better decisions and to more effectively prioritize their work. For example, AI can be used to predict which user stories are most likely to deliver the most value to the customer, or to identify potential risks and bottlenecks in the development process.
+### 8. Commons Alignment Assessment (v2.0)
 
-**Human-Machine Balance**:
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-While AI has the potential to augment many aspects of agile development, it is important to remember that the Agile Manifesto is fundamentally about people. The first value of the manifesto is “Individuals and interactions over processes and tools.” AI should be seen as a tool to support and enhance human collaboration, not to replace it. The uniquely human aspects of agile development, such as creativity, empathy, and strategic thinking, will remain essential. The most effective agile teams will be those that are able to strike the right balance between human and machine intelligence.
+**1. Stakeholder Architecture:**
+The Agile principles define a narrow stakeholder architecture focused primarily on the customer, developers, and business people. Rights and Responsibilities are implicitly defined: customers have the right to change requirements, and the team has the responsibility to deliver value and the right to a supportive environment. It does not explicitly account for broader stakeholders like the environment, future generations, or the wider community.
 
-**Evolution Outlook**:
+**2. Value Creation Capability:**
+The framework excels at creating functional and economic value by prioritizing the "early and continuous delivery of valuable software." It also generates social value within the team through principles of sustainable pace and empowerment. However, its definition of value is primarily customer-centric and does not inherently include ecological, broader social, or knowledge-commons value.
 
-The principles of the Agile Manifesto are timeless, but the way in which they are implemented will continue to evolve. As AI and other new technologies emerge, agile teams will need to adapt their practices to take advantage of these new capabilities. The future of agile will likely involve a closer integration of human and machine intelligence, with AI-powered tools being used to support and augment the work of agile teams. This will enable teams to deliver value to customers faster and more effectively than ever before.
+**3. Resilience & Adaptability:**
+This is the core strength of the Agile principles. The explicit mandate to "Welcome changing requirements" and the practice of frequent reflection and adjustment create a system designed to thrive on change. By delivering working software in short iterations, it maintains coherence and adapts to complexity, making it highly resilient to market and technical uncertainty.
 
-### 8. Commons Alignment Assessment
+**4. Ownership Architecture:**
+Agile promotes stewardship and distributed responsibility over the development process and product through "self-organizing teams." However, it operates within traditional ownership structures where the commissioning organization typically owns the intellectual property. It does not propose an alternative model of ownership based on a wider set of rights and responsibilities.
 
-1.  **Stakeholder Mapping**: The Agile Manifesto principles explicitly identify several key stakeholders: the **customer**, whose satisfaction is the highest priority; **developers**, who build the software; **business people**, who must collaborate with developers daily; and **users**, who, along with sponsors and developers, should be able to maintain a sustainable pace. This mapping is comprehensive within the context of a software development project, but it is primarily focused on the immediate participants in the value chain. It does not explicitly consider broader stakeholders such as the community, the environment, or future generations.
+**5. Design for Autonomy:**
+The principles are highly compatible with autonomous systems. The emphasis on "self-organizing teams" and trusting "motivated individuals" aligns perfectly with the operational philosophy of DAOs and distributed work. The focus on simplicity and frequent delivery of working software lowers coordination overhead, making it a suitable framework for systems with a high degree of agent-based autonomy.
 
-2.  **Value Creation**: The primary form of value created is **valuable software**, which directly benefits the **customer**. The principles also create value for the **development team** by promoting a sustainable pace, a supportive environment, and a sense of ownership and motivation. The **business** benefits from a competitive advantage gained through the ability to respond to change and deliver value quickly. The value created is primarily economic and functional, with less emphasis on social or environmental value.
+**6. Composability & Interoperability:**
+As a set of principles rather than a rigid methodology, Agile is inherently composable. It is designed to be combined with various practices (like Scrum or Kanban) and can be adapted to different domains. Its focus on "technical excellence and good design" encourages the creation of modular, interoperable systems that can be integrated into larger value-creation architectures.
 
-3.  **Value Preservation**: The principles of the Agile Manifesto are designed to preserve value over time by embracing change. The principle of **welcoming changing requirements** ensures that the software remains relevant to the customer's needs. **Continuous delivery** and **frequent feedback loops** allow for course correction and prevent the development of features that are no longer valuable. The focus on **technical excellence and good design** enhances the long-term maintainability and adaptability of the software.
+**7. Fractal Value Creation:**
+The core feedback loop of delivering value, reflecting, and adapting is fractal. This logic can be applied at the scale of an individual, a team, a department, or an entire organization. The existence of scaling frameworks like SAFe and LeSS demonstrates that the value-creation pattern can be replicated across multiple scales, even if it introduces new complexities.
 
-4.  **Shared Rights & Responsibilities**: The Agile Manifesto promotes a significant shift in rights and responsibilities compared to traditional, hierarchical models. The principle that **"the best architectures, requirements, and designs emerge from self-organizing teams"** empowers the development team with a high degree of autonomy and decision-making authority. The principle of daily collaboration between **business people and developers** creates a shared sense of responsibility for the success of the project. However, the ultimate authority still typically resides with the business and the customer, who define what is valuable.
+**Overall Score: 4 (Value Creation Enabler)**
 
-5.  **Systematic Design**: The Agile Manifesto principles are themselves a high-level design for a more effective way of developing software. They are operationalized through a variety of systematic practices and frameworks, such as **Scrum, Kanban, sprints, daily stand-ups, and retrospectives**. These practices provide a structured and repeatable process for implementing the principles and for continuously improving the development process.
+**Rationale:**
+The Agile Manifesto principles provide a powerful and proven engine for adaptive value creation, team empowerment, and resilience. It strongly enables many aspects of a commons, particularly adaptability and autonomy. However, its stakeholder aperture is narrow, and it lacks a built-in framework for considering ecological impact or alternative ownership models, preventing it from being a complete value creation architecture on its own.
 
-6.  **Systems of Systems**: The Agile Manifesto principles are a foundational pattern that can be composed with a wide range of other patterns and methodologies. They are frequently used in conjunction with **DevOps**, which extends the principles of agility to the entire software delivery lifecycle. They are also the basis for a number of **scaling frameworks**, such as SAFe and LeSS, which are designed to apply agile principles to large, complex organizations. This demonstrates a high degree of composability.
-
-7.  **Fractal Properties**: The principles of the Agile Manifesto exhibit strong fractal properties. The core ideas of customer focus, continuous improvement, and collaboration can be applied at all scales, from an **individual developer** to a **single team**, a **department**, or an **entire organization**. The Spotify model, with its squads, tribes, chapters, and guilds, is a good example of how agile principles can be scaled in a fractal manner.
-
-**Overall Score**: 3 (Transitional)
-
-**Rationale**: The Agile Manifesto principles represent a significant step forward from traditional, command-and-control models of work. They promote a more human-centric, collaborative, and adaptive approach to software development. However, they are still primarily focused on the customer-producer relationship and the creation of economic value. They do not explicitly address broader commons-based concerns, such as the social and environmental impact of the software being developed. To move to a higher level of commons alignment, the principles would need to be extended to consider a wider range of stakeholders and a broader definition of value.
-### 9. Resources & References
-
-**Essential Reading**:
-
-*   **Fowler, M., & Highsmith, J. (2001). The Agile Manifesto. *Software Development, 9*(8), 28-35.** This is the original article that introduced the Agile Manifesto to the world. It provides a concise overview of the four values and twelve principles of agile software development.
-*   **Adkins, L. (2010). *Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition*. Addison-Wesley Professional.** This book is a practical guide for anyone who is responsible for leading an agile team. It provides a wealth of information on how to create a high-performing agile team.
-*   **Sutherland, J. (2014). *Scrum: The Art of Doing Twice the Work in Half the Time*. Crown Business.** This book, written by one of the co-creators of Scrum, provides a comprehensive overview of the Scrum framework. It is an essential read for anyone who wants to understand how to implement Scrum in their organization.
-
-**Organizations & Communities**:
-
-*   **Agile Alliance:** The Agile Alliance is a non-profit organization that is dedicated to promoting the principles and practices of agile software development. It provides a wealth of resources, including articles, webinars, and conferences.
-*   **Scrum.org:** Scrum.org is an organization that is dedicated to the Scrum framework. It provides training, certification, and a variety of other resources for Scrum practitioners.
-*   **Scaled Agile, Inc.:** Scaled Agile, Inc. is the organization behind the Scaled Agile Framework (SAFe). It provides training, certification, and other resources for organizations that are looking to scale agile to the enterprise level.
-
-**Tools & Platforms**:
-
-*   **Jira:** Jira is a popular project management tool that is widely used by agile teams. It provides a variety of features that support agile practices, such as backlogs, burndown charts, and Kanban boards.
-*   **Trello:** Trello is a simple and intuitive project management tool that is based on the Kanban method. It is a good choice for small teams that are just getting started with agile.
-*   **Azure DevOps:** Azure DevOps is a suite of tools from Microsoft that provides a complete solution for agile development. It includes features for planning, development, testing, and deployment.
-
-**References**:
-
-[1] Fowler, M., & Highsmith, J. (2001). The Agile Manifesto. *Software Development, 9*(8), 28-35.
-
-[2] The Standish Group. (2011). *The CHAOS Report*.
-
-[3] Krancher, O., et al. (2020). Agile Software Development Practices and Success in Outsourced Projects. *Project Management Journal, 51*(4), 435-451.
-
-[4] Steegh, R., et al. (2021). A teamwork effectiveness model for agile software development. *Information and Software Technology, 139*, 106655.
-
-[5] Smartsheet. (2024, August 26). *Real-Life Agile Project Management & Famous Success Stories*. Retrieved from https://www.smartsheet.com/content/agile-project-management-examples
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/agile-software-development-manifesto-principles/](https://commons-os.github.io/patterns/domain/agile-software-development-manifesto-principles/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/agile-software-development-manifesto-principles.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/agile-software-development-manifesto-principles.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
+**Opportunities for Improvement:**
+- Explicitly expand the definition of "customer" and "business people" to include a wider range of stakeholders, such as end-users, the community, and ecological representatives.
+- Integrate "health metrics" beyond working software, including team well-being, knowledge sharing, and ecological footprint, as primary measures of progress.
+- Combine Agile principles with patterns that offer more robust ownership and governance models to ensure value created is distributed equitably among all contributing stakeholders.

@@ -15,7 +15,7 @@ tags:
   era: [digital, cognitive]
   origin: [academic]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -191,39 +191,40 @@ In the cognitive era, team development models will likely evolve to incorporate 
 *   **Personalized Team Development:** AI will enable personalized team development plans, tailored to the specific needs and characteristics of each team.
 *   **Continuous and Automated Feedback:** The traditional, linear stages of team development may become more fluid and iterative, with AI providing continuous and automated feedback to support ongoing team learning and adaptation.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-**1. Stakeholder Mapping:**
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-Team development models inherently focus on the primary stakeholders of a team: the team members and the team leader. The models provide a framework for understanding and managing the relationships between these stakeholders. However, they do not explicitly address a broader set of stakeholders, such as customers, suppliers, or the wider community. The focus is primarily internal to the team and the organization.
+**1. Stakeholder Architecture:**
+The pattern primarily defines Rights and Responsibilities for the internal stakeholders of a team: the members and the leader. It provides a clear structure for navigating roles and interpersonal dynamics within this defined group. However, it does not explicitly extend its architecture to include external stakeholders such as customers, the environment, or future generations, focusing on the team as a closed system.
 
-**2. Value Creation:**
+**2. Value Creation Capability:**
+The model is a powerful enabler of collective value creation, primarily by improving team effectiveness, which leads to enhanced economic and knowledge-based outputs. It directly fosters the creation of social value by building trust, cohesion, and psychological safety. While not explicitly focused on ecological value, the resulting efficiency can reduce waste and resource consumption.
 
-The primary value created by team development models is the improvement of team effectiveness and performance. This leads to better outcomes for the organization, such as increased productivity, innovation, and employee engagement. The value is shared among the team members (through a more positive and productive work environment), the organization (through better results), and customers (through better products and services).
+**3. Resilience & Adaptability:**
+The framework is fundamentally designed to build resilience and adaptability. The "Storming" stage provides a managed process for confronting and integrating conflict, helping the system maintain coherence under stress. By guiding a team through predictable stages of development, it equips the collective to thrive on change and adapt to complexity, a core tenet of resilient systems.
 
-**3. Value Preservation:**
+**4. Ownership Architecture:**
+The pattern promotes a shift in ownership from a centralized leader to a distributed sense of responsibility and accountability among team members. This is a form of stewardship over the team's process and goals. It does not, however, define ownership in terms of equity or formal Rights to the value created, focusing on psychological rather than structural ownership.
 
-Team development models contribute to value preservation by creating more resilient and adaptive teams. By learning to navigate the stages of development, teams are better equipped to handle challenges and changes in their environment. The practice of capturing lessons learned during the adjourning stage is a key mechanism for preserving knowledge and value for future teams.
+**5. Design for Autonomy:**
+The progression towards the "Performing" stage is a direct path to greater autonomy, where the team becomes self-managing and requires low coordination overhead. The principles are abstract and universally applicable, making them highly compatible with distributed systems, DAOs, and hybrid human-AI teams where agents must learn to coordinate and align effectively.
 
-**4. Shared Rights & Responsibilities:**
+**6. Composability & Interoperability:**
+Team Development Models are a meta-pattern, designed for high composability. They function as a social-emotional layer that integrates seamlessly with other operational patterns like Agile, Scrum, or Holacracy. This interoperability allows it to provide the necessary group-dynamic foundation for a wide variety of larger value-creation systems.
 
-The models explicitly address the distribution of responsibilities within the team, particularly as it evolves through the stages. In the forming stage, responsibilities are often unclear, while in the performing stage, they are clearly defined and shared among team members. The models encourage a shift from leader-centric responsibility to shared responsibility among all team members.
+**7. Fractal Value Creation:**
+The value-creation logic of progressing through stages of development is highly fractal. The same dynamics of Forming, Storming, Norming, and Performing can be observed at multiple scales, from small sub-teams to entire departments, and even in multi-organizational partnerships. This allows the pattern to be applied consistently across a nested system-of-systems.
 
-**5. Systematic Design:**
+**Overall Score: 4 (Value Creation Enabler)**
 
-Team development models are themselves a form of systematic design, providing a structured approach to understanding and managing team dynamics. They are often complemented by other systems and processes, such as team charters, communication protocols, and performance management systems.
+**Rationale:**
+The model provides a robust framework for developing the collective capability of a team, which is the core of the Commons OS v2.0 definition. It directly addresses the creation of social value, resilience, and adaptability, which are essential for any value-creating system. While it doesn't explicitly define a broad stakeholder architecture or a non-monetary ownership model, it is highly composable and serves as a critical enabler for other patterns that do, building the necessary social foundation upon which more complex commons architectures can be built.
 
-**6. Systems of Systems:**
-
-Team development models can be seen as a component of a larger system of organizational development. They interact with other patterns, such as leadership models, communication strategies, and project management methodologies. For example, the Tuckman model is often used in conjunction with Agile and Scrum to manage the dynamics of development teams.
-
-**7. Fractal Properties:**
-
-The principles of team development can be applied at multiple scales. A large project team may have sub-teams that go through their own stages of development. The dynamics of forming, storming, norming, and performing can also be observed in the relationships between different departments or even between different organizations in a partnership.
-
-**Overall Score: 3/5 (Transitional)**
-
-Team development models are a valuable tool for improving team effectiveness, but they are primarily focused on the internal dynamics of the team and the organization. They are a transitional pattern because they promote collaboration and shared responsibility, but they do not inherently challenge the traditional hierarchical structures of most organizations. To become more commons-aligned, the models could be extended to more explicitly include the perspectives of external stakeholders and to promote more democratic and equitable forms of team governance.
+**Opportunities for Improvement:**
+- Integrate an explicit stakeholder mapping exercise (beyond the team) into the "Forming" stage to broaden the team's awareness of its systemic context.
+- Evolve the "Performing" stage to include practices for co-stewardship of the value created, linking team performance to the health of the broader commons.
+- Develop modules for applying the model to hybrid human-AI teams, defining the stages of development for human-machine collaboration.
 
 
 ### 9. Resources & References

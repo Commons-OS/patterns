@@ -15,7 +15,7 @@ tags:
   era: [digital, cognitive]
   origin: [academic, healthcare-reform]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -172,7 +172,40 @@ While AI and automation have the potential to transform integrated care, it is i
 
 In the future, we can expect to see AI and automation become increasingly integrated into all aspects of integrated care. This will lead to more proactive, personalized, and predictive models of care, with a greater focus on prevention and early intervention. AI will also play a key role in enabling the shift from a fee-for-service to a value-based care model, by providing the data and analytics needed to measure and reward high-quality, cost-effective care.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
+
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
+
+**1. Stakeholder Architecture:**
+The pattern defines a comprehensive stakeholder architecture, distributing Rights and Responsibilities among patients, families, healthcare providers, social care services, payers, and policymakers. It reframes the patient's role from a passive recipient to an active partner in their care, with the right to co-design their treatment and the responsibility to engage in self-management. This collaborative governance model establishes a framework for collective stewardship of health outcomes.
+
+**2. Value Creation Capability:**
+Integrated Care is explicitly designed to generate diverse forms of value beyond economic efficiencies. It enhances social value by improving patient quality of life, satisfaction, and overall well-being. By focusing on population health and proactive interventions, it builds community resilience and knowledge value through the systematic collection and analysis of health data for continuous improvement.
+
+**3. Resilience & Adaptability:**
+The pattern inherently promotes resilience and adaptability by breaking down silos and fostering a culture of collaboration across the healthcare system. Its emphasis on adapting to local contexts, continuous learning, and data-driven improvement allows the system to evolve and respond to changing needs and complex challenges. By coordinating care, it helps maintain system coherence and prevent service disruptions under stress.
+
+**4. Ownership Architecture:**
+Ownership is defined through a sophisticated web of Rights and Responsibilities, moving beyond a purely financial or equity-based model. Patients have ownership over their care journey, providers have stewardship responsibilities for care quality, and payers are responsible for enabling value-creating activities. This architecture fosters a sense of collective ownership over the community's health and well-being.
+
+**5. Design for Autonomy:**
+The pattern is highly compatible with autonomous systems, as detailed in its 'Cognitive Era Considerations'. It explicitly outlines how AI and automation can augment clinical decision-making, automate administrative tasks, and empower patients. Its distributed, team-based structure is well-suited for integration with decentralized technologies like DAOs, potentially reducing coordination overhead once interoperability is achieved.
+
+**6. Composability & Interoperability:**
+Integrated Care is a foundational meta-pattern that is designed to compose with other patterns like Population Health Management and the Patient-Centered Medical Home. It acts as an organizing layer for creating larger, more complex value-creation systems. While it highlights the critical challenge of interoperability, particularly in IT systems, it also points toward solutions, making it a driver for greater system-wide integration.
+
+**7. Fractal Value Creation:**
+The principles of Integrated Care exhibit strong fractal properties, applying consistently across multiple scales. The core logic of collaborative, person-centered value creation can be implemented at the level of a single patient-provider team, a hospital department, a multi-organizational network, and an entire regional health ecosystem. This scalability allows the value-creation model to be replicated and adapted throughout the system.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Integrated Care is a powerful framework that strongly enables resilient, collective value creation by redesigning stakeholder relationships and focusing on holistic, long-term health outcomes. It provides a clear architecture for distributing rights and responsibilities and generating multiple forms of value. However, its full potential is often constrained by legacy systems, particularly fragmented funding and a lack of IT interoperability, preventing it from being a complete, standalone Value Creation Architecture (Score 5).
+
+**Opportunities for Improvement:**
+- Develop standardized, open-source data models and APIs to accelerate IT system interoperability and reduce the friction of collaboration.
+- Design and promote blended, value-based funding models that are independent of existing fee-for-service structures to better align financial incentives.
+- Create formal governance frameworks that explicitly define the Rights and Responsibilities of AI and autonomous agents within the care team.
 
 **1. Stakeholder Mapping:**
 

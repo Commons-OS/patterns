@@ -15,7 +15,7 @@ tags:
   era: []
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -125,19 +125,40 @@ Furthermore, the Cognitive Era enables a more distributed and decentralized form
 
 Artificial intelligence can also play a significant role in enhancing the CSM model. AI-powered design tools can help to automate the process of creating and optimizing product designs, while machine learning algorithms can be used to personalize products to meet the specific needs of individual consumers. This level of customization and responsiveness is difficult to achieve in traditional mass manufacturing systems, giving CSM a distinct advantage in the Cognitive Era.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Commons Alignment Assessment evaluates how well the Community Supported Manufacturing pattern aligns with the principles of a commons-based economy. The assessment is based on seven dimensions, each of which is rated on a scale of 1 to 5, where 1 represents low alignment and 5 represents high alignment. The overall commons alignment score for this pattern is 3.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Rating | Assessment |
-| :--- | :--- | :--- |
-| **Openness and Accessibility** | 4 | CSM strongly promotes openness and accessibility, particularly when combined with open source hardware. The use of open source licenses ensures that the designs for the products are freely available and can be modified and improved upon by the community. However, the physical products themselves may not be accessible to everyone, depending on the cost and the distribution model. |
-| **Community Governance** | 4 | The principle of community ownership and control is central to the CSM model. The community of stakeholders has a significant say in what is produced, how it is produced, and how it is distributed. This democratic governance structure ensures that the manufacturing process is aligned with the values and needs of the community. |
-| **Economic Reciprocity** | 3 | CSM promotes a fair distribution of value and resources by creating a direct link between producers and consumers. However, the model does not inherently address the issue of wealth inequality. The distribution of rewards depends on the specific governance and ownership structure of the CSM. |
-| **Social and Ecological Responsibility** | 3 | CSM has the potential to have a positive impact on society and the environment by promoting the localization of manufacturing and the use of sustainable materials. However, the social and ecological impact of a CSM depends on the specific practices and values of the community. |
-| **Technological Sovereignty** | 4 | CSM empowers people to control their own technology by giving them a direct say in the design and production of the goods they need. This is particularly true when CSM is combined with open source hardware, which gives people the freedom to modify and repair their own devices. |
-| **Knowledge Sharing** | 4 | CSM promotes the sharing of knowledge and skills by creating a collaborative environment where people can learn from each other. The use of open source licenses also encourages the sharing of designs and other technical information. |
-| **Global Collaboration** | 2 | While CSM can facilitate global collaboration, particularly in the context of open source hardware projects, its primary focus is on local and regional production. The model is not designed to support large-scale global manufacturing and distribution. |
+**1. Stakeholder Architecture:**
+The pattern establishes a clear Rights and Responsibilities architecture between producers and consumers. Consumers have the right to influence product design and receive goods, balanced by the responsibility of providing upfront capital. While this primarily focuses on human stakeholders, the emphasis on localization and open source principles implicitly extends consideration to the local environment and a broader community of users, though it could be more explicit about non-human stakeholders.
+
+**2. Value Creation Capability:**
+CSM excels at creating collective value beyond the purely economic. It generates significant social value through community building and direct relationships, knowledge value via collaborative design and open source practices, and resilience value by fostering local self-sufficiency. This multi-faceted approach to value creation is a core strength of the pattern, moving beyond simple production and consumption.
+
+**3. Resilience & Adaptability:**
+The model is inherently designed for resilience. By localizing production and creating tight feedback loops between producers and consumers, it allows systems to adapt quickly to changing needs and external shocks. This structure helps maintain coherence under stress, as the community has a shared investment in the system's success, making it far more adaptable than rigid, global supply chains.
+
+**4. Ownership Architecture:**
+CSM reframes ownership as a structure of Rights and Responsibilities rather than just monetary equity. The principles of "Community Ownership and Control" and "Shared Risk and Reward" define ownership through active participation, stewardship, and collective decision-making. This aligns strongly with a commons-based approach where stakeholdership is earned through contribution and commitment, not just capital.
+
+**5. Design for Autonomy:**
+The pattern is highly compatible with distributed and autonomous systems. Its emphasis on local production nodes, transparent governance, and open, modular designs makes it a natural fit for coordination via DAOs or other distributed technologies. The model reduces complex logistical overhead, enabling more autonomous and scalable manufacturing cells that can respond directly to community needs.
+
+**6. Composability & Interoperability:**
+This pattern is highly composable, acting as a foundational component for larger value-creation systems. It explicitly integrates with Open Source Hardware patterns and can be readily combined with other patterns for governance (e.g., Sociocracy), finance (e.g., local currencies), and data management. This modularity allows it to be a key building block in a diverse, interoperable ecosystem of commons-based patterns.
+
+**7. Fractal Value Creation:**
+The value-creation logic of CSM is fractal, meaning it can be applied effectively at multiple scales. A small community can use it for a single product run, a network of communities can establish a regional production ecosystem, and a global open source project can use it to coordinate distributed manufacturing. The core principle of community-driven value creation remains coherent and functional whether applied to a neighborhood or a global network.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Community Supported Manufacturing is a powerful enabler of collective value creation, with strong alignment across most of the 7 Pillars. It provides a robust framework for building resilient, adaptive, and community-centric production systems. Its core logic shifts the focus from resource extraction to the development of collective capabilities.
+
+**Opportunities for Improvement:**
+- Explicitly define the Rights and Responsibilities of non-human stakeholders, such as the environment or the AI and machinery involved in production.
+- Develop clearer governance templates for how to manage shared data and intellectual property generated by the community.
+- Strengthen the framework for fractal scaling by creating standardized interoperability protocols between different CSM instances.
 
 ## 9. Resources & References
 

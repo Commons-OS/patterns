@@ -15,7 +15,7 @@ tags:
   era: [digital, cognitive]
   origin: [preston-city-council, cles, democracy-collaborative]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -111,72 +111,37 @@ The Preston Model's principles are well-suited for the Cognitive Era. AI, data a
 
 - **Evolution Outlook:** The model will likely evolve into an AI-optimized system, with digital twins for policy simulation and predictive capabilities for economic needs. The challenge is to ensure this evolution serves the goal of a democratic, equitable, and human-centered economy.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Preston Model represents a significant shift away from extractive, conventional economic development towards a more commons-oriented approach. Its alignment with the principles of a commons is strong, though with opportunities for further development. This assessment evaluates the model against the seven dimensions of commons alignment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-1.  **Stakeholder Mapping**: The model is built on a foundation of comprehensive stakeholder mapping, centered on the concept of "anchor institutions." This explicitly identifies key public and non-profit organizations as central actors with a stake in the local economy. The model also implicitly includes local businesses, employees, and residents as key stakeholders who benefit from its interventions. The mapping is comprehensive in its identification of institutional actors, but could be strengthened by more formalized mechanisms for engaging residents and smaller community groups in the governance of the anchor network itself.
+**1. Stakeholder Architecture:**
+The pattern defines clear responsibilities for anchor institutions to act in the interest of the local commons. It identifies a broad set of stakeholders including businesses, employees, and residents, but formalizes their rights and roles less explicitly than for the core institutions. The architecture is robust in its institutional focus but could be enhanced by creating more direct channels for resident participation in the governance of the value creation system.
 
-2.  **Value Creation**: The Preston Model excels at creating and retaining multiple forms of value. It shifts the focus from the singular pursuit of financial profit to a more holistic view of value that includes:
-    *   **Economic Value:** Increased local economic activity, job creation, and business growth.
-    *   **Social Value:** Improved wages, better working conditions, and increased community cohesion.
-    *   **Institutional Value:** Stronger, more collaborative relationships between anchor institutions.
-    The primary beneficiaries are local businesses, their employees, and the wider community that benefits from a more resilient and inclusive economy. The value is captured locally, directly countering the extractive tendencies of conventional models.
+**2. Value Creation Capability:**
+It excels at enabling collective value creation far beyond simple economic output. The model is explicitly designed to generate social value through fair employment, ecological value through the productive use of assets, and knowledge value by building local skills and business capacity. This holistic approach directly counters extractive economic models by focusing on retaining and circulating diverse forms of value within the community.
 
-3.  **Value Preservation**: The model is designed for long-term value preservation. By building local institutions (cooperatives, a potential community bank) and embedding CWB principles into the core mission of anchor institutions, it seeks to create a self-sustaining system that is not dependent on short-term political cycles or external funding. The focus on building local supply chains and skills also enhances the long-term productive capacity of the local economy, preserving its ability to create value over time.
+**3. Resilience & Adaptability:**
+The model is fundamentally a strategy for building resilience. By diversifying the local economy with plural ownership models and strengthening local supply chains, it reduces dependence on external corporations and makes the community less vulnerable to economic shocks. Its origin as a response to a major project failure demonstrates its inherent adaptability and capacity to help a system maintain coherence under stress.
 
-4.  **Shared Rights & Responsibilities**: The model promotes a distribution of rights and responsibilities. Anchor institutions take on the responsibility of being civic actors, using their economic power for the collective good. The promotion of cooperatives and employee ownership directly distributes economic rights (ownership and control) to workers. However, the rights of residents to directly participate in the governance of the overall strategy could be more formally defined. While the model is implemented by a democratically elected council, more direct forms of participatory governance could enhance this dimension.
+**4. Ownership Architecture:**
+A core principle is "Plural and Democratic Ownership," which redefines ownership as a set of rights and responsibilities, not just monetary equity. The model actively promotes cooperatives and employee-owned businesses, distributing control and accountability more broadly. It also reframes public assets as tools for long-term community benefit rather than items for short-term sale, aligning with a stewardship-based view of ownership.
 
-5.  **Systematic Design**: The Preston Model is a highly systematic design for local economic development. It is not a collection of ad-hoc projects, but an integrated system where each component reinforces the others. The spend analysis informs the procurement strategy, which in turn creates opportunities for cooperative development, which is then supported by the drive for local financial institutions. This systematic approach is one of its key strengths.
+**5. Design for Autonomy:**
+The pattern is heavily reliant on human-centric coordination, such as relationship building and institutional collaboration, which gives it a high initial coordination overhead. While Section 7 notes its potential for augmentation with AI and data analytics, its core logic is not inherently designed for compatibility with autonomous systems like DAOs. It is a transitional pattern in this regard, capable of being adapted but not natively autonomous.
 
-6.  **Systems of Systems**: The model demonstrates a strong understanding of the economy as a system of systems. It recognizes that the local economy is interconnected with regional, national, and global systems, and seeks to reshape the local system to be more resilient and less dependent on the whims of global capital. It also composes well with other patterns, such as the promotion of the Real Living Wage and the development of a circular economy.
+**6. Composability & Interoperability:**
+The Preston Model is highly composable, designed as a framework that integrates multiple other patterns and initiatives. It naturally combines with Fair Employment charters, local banking movements, and cooperative development programs. This interoperability allows it to be adapted to different local contexts and to form part of a larger, multi-faceted system for building a commons-based economy.
 
-7.  **Fractal Properties**: The core principles of the Preston Model exhibit fractal properties, applying at multiple scales. The idea of using existing resources for local benefit can be applied at the level of an individual household, a neighborhood, a city, or a region. The principles of democratic ownership and fair employment are scalable from a small cooperative to a large anchor institution.
+**7. Fractal Value Creation:**
+The pattern's value-creation logic is fractal, applying at multiple scales. While implemented at a city-wide, ecosystem level through the anchor network, its core principles can be scaled down. Individual organizations can adopt progressive procurement, departments can prioritize local hiring, and even individuals can contribute by supporting local, cooperatively-owned businesses, demonstrating that the logic holds true from the macro to the micro level.
 
-**Overall Score: 3 - Transitional**
+**Overall Score: 4 (Value Creation Enabler)**
 
-The Preston Model is a leading example of a transitional economic model. It represents a significant and successful move away from the extractive logic of neoliberalism towards a more commons-aligned approach. It has demonstrably shifted economic outcomes and has created a powerful new narrative about what is possible in local economic development.
+**Rationale:**
+The Preston Model is a powerful and proven framework for enabling resilient, collective value creation. It strongly aligns with most pillars of the v2.0 framework, particularly in its focus on holistic value, stakeholder responsibility, and alternative ownership models. It serves as a crucial bridge from extractive economic systems toward a true commons-based economy.
 
-**Rationale**: The score of 3 reflects the fact that while the model is highly aligned in its principles and practices, it is still operating within a broader, dominant economic system that is not aligned with the commons. The model is a powerful intervention to counter this system at the local level, but it is not (and does not claim to be) a fully-realized commons in itself. It is a transitional strategy, building the institutions and culture that could lead to a more fully-fledged commons economy over time.
-
-**Opportunities for Improvement**: To move towards a higher level of commons alignment, the model could focus on:
-*   **Deepening Democratic Participation:** Creating more formal mechanisms for residents and community groups to participate in the governance of the anchor network.
-*   **Expanding Community Ownership:** Moving beyond a focus on anchor institutions to more actively support community ownership of land, energy, and other key assets.
-*   **Developing Alternative Financial Systems:** Accelerating the development of a regional community bank and other forms of non-extractive finance.
-_**
-### 9. Resources & References
-
-This section provides a curated list of resources for those wishing to delve deeper into the Preston Model and the broader Community Wealth Building movement.
-
-- **Essential Reading**:
-    - **"How we built community wealth in Preston" (2019) by CLES and Preston City Council:** This is the definitive report on the first six years of the Preston Model, detailing its origins, achievements, and lessons learned. It provides a comprehensive, on-the-ground account of the model's implementation.
-    - **"The Preston Model and the Modern Politics of Municipal Socialism" (2018) by Thomas M. Hanna, Joe Bilsborough, and Joe Guinan:** This article, published by The Democracy Collaborative, provides a robust theoretical and political analysis of the Preston Model, placing it in the context of a new wave of "municipal socialism."
-    - **"The Road to Ruin: A New History of British Politics" (2018) by Andrew Adonis:** While not exclusively about the Preston Model, this book provides a powerful critique of the UK's centralized, finance-driven economic model, highlighting the need for alternative approaches like the one pioneered in Preston.
-
-- **Organizations & Communities**:
-    - **Centre for Local Economic Strategies (CLES):** The key intellectual and practical partner in the development of the Preston Model. CLES is the UK's leading independent think-and-do tank focused on local economic development and Community Wealth Building.
-    - **The Democracy Collaborative:** A US-based research and development lab for the democratic economy, which pioneered many of the foundational concepts of Community Wealth Building and has extensively documented the Preston Model.
-    - **Preston City Council:** The driving force behind the model. The council's website provides up-to-date information on the latest developments and initiatives.
-
-- **Tools & Platforms**:
-    - **CLES Website (cles.org.uk):** An extensive repository of research, case studies, and practical guides on Community Wealth Building.
-    - **The Democracy Collaborative Website (democracycollaborative.org):** A rich source of information on the theory and practice of CWB, with a particular focus on US and international examples.
-
-- **References**:
-    1.  Preston City Council. (n.d.). *What is Community Wealth Building?* Retrieved from https://www.preston.gov.uk/article/1335/What-is-Community-Wealth-Building
-    2.  Wikipedia. (2025, October 25). *Community wealth building*. Retrieved from https://en.wikipedia.org/wiki/Community_wealth_building
-    3.  Centre for Local Economic Strategies. (n.d.). *The Preston Model*. Retrieved from https://cles.org.uk/the-preston-model/
-    4.  CLES & Preston City Council. (2019). *How we built community wealth in Preston*. Retrieved from https://cles.org.uk/wp-content/uploads/2019/07/CLES_Preston-Document_WEB-AW.pdf
-    5.  The Democracy Collaborative. (2025, August 15). *New study confirms: Community Wealth Building delivers real benefits*. Retrieved from https://www.democracycollaborative.org/blogs/new-study-confirms-cwb-real-benefits
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/65-community-wealth-building-preston-model/](https://commons-os.github.io/patterns/domain/65-community-wealth-building-preston-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/65-community-wealth-building-preston-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/65-community-wealth-building-preston-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
+**Opportunities for Improvement:**
+- Formalize the rights and roles of residents in the governance of the anchor network to enhance democratic accountability.
+- Explore deeper integration with digital and autonomous systems to reduce coordination overhead and scale impact.
+- Develop more explicit mechanisms for valuing and regenerating ecological and knowledge-based commons alongside economic and social ones.

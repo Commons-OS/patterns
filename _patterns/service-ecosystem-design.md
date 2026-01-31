@@ -15,7 +15,7 @@ tags:
   era: [digital, cognitive]
   origin: [academic]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 5
 commons_domain: business
 generalizes_from: ["pat_01kg502404e39b225yyy0vxchr"]
 specializes_to: []
@@ -152,23 +152,40 @@ The principles of Service Ecosystem Design are particularly relevant in the Cogn
 - **The Rise of Decentralized Autonomous Organizations (DAOs)**: The principles of Service Ecosystem Design provide a much-needed social and institutional design layer for emerging technologies like DAOs. A DAO is essentially a set of institutional arrangements encoded in software. The success of DAOs will depend on our ability to design them in a way that fosters healthy social dynamics and aligns the interests of their members, a core challenge of this pattern.
 - **A New Profession of 'Ecosystem Choreographers'**: As our world becomes more interconnected and complex, we will need a new type of designer who is skilled in shaping the context for value co-creation, rather than just designing the artifacts and interactions within it. These 'ecosystem choreographers' will be masters of the art and science of Service Ecosystem Design.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-Service Ecosystem Design is inherently aligned with commons principles, as it focuses on the collective stewardship of shared resources (the institutional arrangements) that enable value co-creation.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-1.  **Stakeholder Mapping**: The pattern requires a deep, participatory mapping of all ecosystem actors, moving beyond simple user-provider views to a holistic stakeholder perspective.
-2.  **Value Creation**: It shifts the focus from firm-centric value capture to systemic value co-creation, acknowledging that value is emergent and determined by multiple actors within the ecosystem.
-3.  **Value Preservation**: By focusing on resilient, long-term change in the deep structures of the system, the pattern promotes the ongoing health and relevance of the ecosystem.
-4.  **Shared Rights & Responsibilities**: The core idea of "collective designing" inherently distributes the rights and responsibilities for shaping the ecosystem among all its participants.
-5.  **Systematic Design**: The pattern offers a clear process through the cycle of reflexivity and reformation, providing a systematic way to approach complex, systemic change.
-6.  **Systems of Systems**: It explicitly works with the nested nature of systems, encouraging interventions at the micro, meso, and macro levels.
-7.  **Fractal Properties**: The core principles are fractal, applying equally to individuals, teams, organizations, and entire ecosystems.
+**1. Stakeholder Architecture:**
+The pattern defines Rights and Responsibilities by making "institutional arrangements" the explicit material for design. It promotes "collective designing," which empowers all actors—including humans, organizations, and by extension, the AI and machines they employ—to reshape the rules of their shared ecosystem. This inherently distributes the right and responsibility to participate in the system's ongoing evolution, moving beyond a simple user-centric view to a holistic stakeholder architecture.
 
-**Overall Score**: 4/5 (Commons-Aligned)
+**2. Value Creation Capability:**
+The framework is explicitly designed to enable collective value creation that transcends simple economic output. By focusing on "wicked problems" in domains like healthcare, public services, and the circular economy, it inherently targets the creation of social, ecological, and knowledge value. The emphasis on emergent, co-created outcomes rather than predetermined outputs is central to its philosophy of fostering a resilient system capable of generating diverse forms of value.
 
-**Rationale**: The pattern is a framework for the intentional design of commons. It scores highly for making the "rules of the game" visible and subject to collective change. It is not a perfect 5/5 as the tools can be used extractively, but its emphasis on collective design is a strong safeguard.
+**3. Resilience & Adaptability:**
+Resilience and adaptability are at the core of this pattern. By embracing emergence and unpredictability, it equips systems to thrive on change. The central loop of "reflexivity" (seeing the system) and "reformation" (adapting its rules) is a direct mechanism for building adaptive capacity, allowing the ecosystem to maintain coherence while evolving in response to internal and external pressures.
 
-**Opportunities for Improvement**: The pattern could be strengthened by incorporating more explicit tools for power analysis and equitable value distribution, and by integrating more formally with established commons governance models.
+**4. Ownership Architecture:**
+Service Ecosystem Design reframes ownership away from a focus on assets or equity and towards stewardship of the system itself. Ownership is expressed as the collective right and responsibility to shape the "institutional arrangements"—the rules that govern value creation. This aligns perfectly with a view of ownership as a bundle of rights and responsibilities for the system's value-creating capability.
+
+**5. Design for Autonomy:**
+The pattern is highly compatible with autonomous systems. Its focus on designing the "rules of the game" rather than micromanaging interactions creates a low-coordination-overhead environment where autonomous agents (like DAOs or AI) can effectively participate. The framework's principles provide a much-needed social and institutional design layer for technologies like DAOs, ensuring they are designed to foster healthy social dynamics.
+
+**6. Composability & Interoperability:**
+This pattern is a meta-pattern designed for high composability. It provides a framework for integrating other, more specific patterns (e.g., for governance, value distribution, or technology) into a coherent whole. By focusing on the institutional level, it enables different protocols, business models, and organizational forms to interoperate within a larger value-creation system.
+
+**7. Fractal Value Creation:**
+The pattern's core logic is inherently fractal. The cycle of reflexivity and reformation can be applied at the micro-level of a single team, the meso-level of an organization or platform, and the macro-level of an entire industry or public service sector. This allows the same fundamental value-creation logic to scale across a nested system of systems, from individual interactions to global ecosystems.
+
+**Overall Score: 5 (Value Creation Architecture)**
+
+**Rationale:**
+Service Ecosystem Design provides a complete and robust architecture for enabling resilient, collective value creation. It directly addresses all seven pillars of the v2.0 framework by focusing on the design of the underlying institutional structures that empower all stakeholders to co-create diverse forms of value. It is not merely an enabler but a comprehensive blueprint for building a commons.
+
+**Opportunities for Improvement:**
+- Integrate more explicit guidance on analyzing and rebalancing power dynamics to ensure equitable participation in the "collective designing" process.
+- Develop clearer methodologies for measuring the creation of non-economic value (e.g., social, ecological, resilience) to better track the health of the ecosystem.
+- Provide more concrete case studies on how to apply the framework to purely digital or AI-native ecosystems, such as DAOs and data commons.
 
 ### 9. Resources & References
 

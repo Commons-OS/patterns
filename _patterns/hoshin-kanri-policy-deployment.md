@@ -194,11 +194,40 @@ Hoshin Kanri is designed for integration with other management systems like Lean
 
 **7. Fractal Properties:**
 
-Hoshin Kanri exhibits strong fractal properties. The core principles and practices of Hoshin Kanri can be applied at all levels of the organization, from the corporate level down to individual teams. This allows for a consistent and aligned approach to strategic planning and execution throughout the organization. This fractal nature is what enables Hoshin Kanri to create alignment and coherence in large, complex systems.
+Hoshin Kanri exhibits strong fractal properties. The core principles and practices of Hoshin Kanri can be applied at all levels of the organization, from the corporate level down to individual teams. This allows for a consistent and aligned appr### 8. Commons Alignment Assessment (v2.0)
+
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
+
+**1. Stakeholder Architecture:**
+Hoshin Kanri defines Rights and Responsibilities primarily for internal stakeholders through its cascading goal and "catchball" processes. While this aligns the organization, it lacks a broader architecture that explicitly includes external stakeholders like the environment, community, or future generations. Responsibilities are assigned, but the corresponding rights for all stakeholders are not clearly defined or distributed.
+
+**2. Value Creation Capability:**
+The pattern is highly effective at creating economic value by aligning the organization towards strategic goals. However, its focus is not explicitly on collective value creation beyond financial returns. Social, ecological, and knowledge value are not primary considerations, and the value created is captured mostly by the organization itself rather than being distributed among all contributing stakeholders.
+
+**3. Resilience & Adaptability:**
+Resilience and adaptability are core strengths of Hoshin Kanri, primarily through the integrated PDCA (Plan-Do-Check-Act) cycle and regular reviews. This allows the system to thrive on change, adapt to complexity, and maintain coherence under stress by continuously learning and adjusting its course. The methodology is designed for navigating complex and dynamic environments.
+
+**4. Ownership Architecture:**
+Ownership in Hoshin Kanri is defined through the responsibility for achieving cascaded objectives. It does not, however, fundamentally redefine ownership beyond the traditional model of monetary equity. The Rights and Responsibilities are primarily operational, not structural, and do not extend to a broader concept of stewardship or collective ownership of the value created.
+
+**5. Design for Autonomy:**
+The hierarchical and cascading nature of Hoshin Kanri can create coordination overhead, but it is compatible with distributed systems and AI, as noted in its Cognitive Era Considerations. The "catchball" process, while collaborative, can be slow. However, the clear alignment of goals can enable autonomous action within defined boundaries, making it adaptable to more decentralized structures.
+
+**6. Composability & Interoperability:**
+Hoshin Kanri is highly composable and interoperable, designed to integrate with other management systems like Lean, Six Sigma, and TQM. It often serves as the strategic layer that directs the application of these other patterns, allowing for the construction of larger, more comprehensive value-creation systems.
+
+**7. Fractal Value Creation:**
+The pattern exhibits strong fractal properties, as its value-creation logic can be applied at multiple scales. The process of cascading goals from the organizational level down to individual teams demonstrates its ability to create alignment and coherence across different scales of an enterprise or even an ecosystem.
 
 **Overall Score: 3 (Transitional)**
 
-Hoshin Kanri is a powerful and effective management methodology that has many of the elements of a commons-aligned pattern. Its emphasis on stakeholder engagement, continuous improvement, and systematic design are all in line with a commons approach. However, its primary focus on creating economic value for the organization, rather than for a broader set of stakeholders, and its hierarchical nature prevent it from being fully commons-aligned. To move to a higher level of commons alignment, Hoshin Kanri would need to be adapted to include a more explicit focus on social and environmental value, a more equitable distribution of rights and responsibilities, and a more inclusive approach to stakeholder engagement.
+**Rationale:**
+Hoshin Kanri is a powerful methodology for creating alignment and driving strategic execution, which are foundational for collective value creation. Its strengths in adaptability, composability, and fractal design give it significant potential. However, its traditional focus on top-down, hierarchical control and economic value for the organization, without a broader stakeholder and value perspective, limits its alignment with the commons framework. It is a transitional pattern that can be adapted to enable more resilient and collective value creation.
+
+**Opportunities for Improvement:**
+- Integrate a multi-stakeholder perspective into the "catchball" process, including representatives from the community, environment, and other relevant stakeholder groups.
+- Expand the definition of "value" beyond economic metrics to include social, ecological, and knowledge-based KPIs in the Hoshin X-Matrix.
+- Redefine the concept of ownership to include shared rights and responsibilities for the value created, moving beyond a purely operational focus.
 
 ## 9. Resources & References
 

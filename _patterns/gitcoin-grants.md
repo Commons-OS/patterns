@@ -15,7 +15,7 @@ tags:
   era: [digital]
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -142,21 +142,40 @@ Another key consideration for the Cognitive Era is the need to create new models
 
 Finally, the Cognitive Era will require new forms of governance that are able to adapt to the rapid pace of technological change. The Gitcoin DAO provides a model for how this can be done, as it allows communities to collectively make decisions about the development and deployment of new technologies. The use of on-chain governance and token-based voting can help to ensure that these decisions are made in a transparent and accountable manner.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Gitcoin Grants pattern is strongly aligned with the principles of the commons. It is a powerful tool for building and sustaining digital commons, and it has the potential to be applied to a wide range of other domains. The following is an assessment of the pattern's alignment with the seven core dimensions of the commons.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Alignment | Rationale |
-|---|---|---|
-| **Access** | High | Gitcoin Grants is an open and permissionless platform that is accessible to anyone with an internet connection. The use of cryptocurrency for donations and matching funds allows for a truly global and censorship-resistant funding mechanism. |
-| **Governance** | High | The platform is governed by the Gitcoin DAO, which is a decentralized autonomous organization that is controlled by its community of users. This ensures that the platform is developed and operated in a way that is aligned with the interests of the commons. |
-| **Participation** | High | The Quadratic Funding mechanism is designed to encourage broad-based participation from the community. Even small contributions can have a significant impact on the allocation of matching funds, which gives everyone a voice in the funding process. |
-| **Knowledge** | High | The entire Gitcoin Grants process is transparent and open. All grant applications, contributions, and matching fund allocations are recorded on the blockchain, making them publicly verifiable. This transparency fosters a culture of shared learning and continuous improvement. |
-| **Sustainability** | Medium | While Gitcoin Grants has been successful in funding a wide range of projects, the long-term sustainability of the model is still an open question. The platform is reliant on a steady stream of matching funds, and it is not yet clear whether this can be sustained over the long term. |
-| **Fairness** | High | The Quadratic Funding mechanism is designed to be fair and equitable. It ensures that the projects with the broadest support receive the largest share of the matching funds, regardless of the total amount of money they have raised. |
-| **Resilience** | Medium | The decentralized nature of the Gitcoin platform makes it resilient to censorship and control by any single actor. However, the platform is still reliant on the underlying infrastructure of the Ethereum blockchain, which could be a single point of failure. |
+**1. Stakeholder Architecture:**
+Gitcoin Grants defines a multi-sided stakeholder architecture of project creators, individual donors, and matching fund partners, all governed by the Gitcoin DAO. Rights and Responsibilities are distributed across this network, with Sybil resistance mechanisms like Gitcoin Passport ensuring that influence is tied to unique human identity, not just capital. This architecture creates a clear framework for participation and governance over the commons of public goods funding.
 
-**Overall Commons Alignment Score:** 3/5
+**2. Value Creation Capability:**
+The pattern's primary function is to enable the collective creation of value far beyond economic output, specifically focusing on "public goods" like open-source software, knowledge, and community infrastructure. By using Quadratic Funding, it translates widespread, small-scale support into significant funding, thereby capturing and amplifying a community's collective preference for what is valuable. This directly fosters social, knowledge, and resilience value for the entire ecosystem.
+
+**3. Resilience & Adaptability:**
+Built on a decentralized blockchain and governed by a DAO, the pattern exhibits high resilience to censorship or single-party control. The cyclical nature of grant rounds allows for continuous iteration and adaptation based on community feedback and changing needs. By funding foundational infrastructure, Gitcoin Grants enhances the resilience of the entire ecosystem that builds upon the public goods it helps create.
+
+**4. Ownership Architecture:**
+Ownership is decoupled from traditional equity and instead expressed as the right to participate in governance and influence resource allocation via the Gitcoin DAO and GTC token. The pattern defines ownership as a form of stewardship, where value is created for the collective rather than extracted for shareholders. This aligns with a view of ownership as a set of rights and responsibilities within a value-creation system.
+
+**5. Design for Autonomy:**
+As a Web3-native pattern, Gitcoin Grants is inherently designed for a world of DAOs, smart contracts, and distributed systems. The Quadratic Funding mechanism is an algorithmic, low-overhead method for resource allocation that can operate with significant autonomy. Its integration with verifiable digital identity (Gitcoin Passport) makes it compatible with a future where autonomous agents could participate in funding and governance.
+
+**6. Composability & Interoperability:**
+The pattern is highly composable and has served as a foundational "money lego" for public goods funding. Its open-source nature allows its core mechanism (QF) to be forked, adapted, and integrated into other platforms or DAOs. It interoperates with the broader blockchain ecosystem for payments, identity, and governance, demonstrating its ability to be a building block in larger value-creation systems.
+
+**7. Fractal Value Creation:**
+The core logic of Quadratic Funding is fractal, meaning it can be applied at various scales. Gitcoin itself has demonstrated this by running smaller, "cause-based" rounds for specific ecosystems like climate or research. The same principle could be used by a small community to fund local projects or within a large enterprise to allocate departmental budgets, showing that its value-creation logic is not tied to a single scale.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Gitcoin Grants is a powerful and proven enabler of collective value creation. It provides a robust architecture for funding public goods by translating broad community support into directed funding, fostering a resilient and open-source ecosystem. While it depends on an external matching pool, its design for stakeholder engagement, decentralized governance, and composability makes it a cornerstone pattern for the digital commons.
+
+**Opportunities for Improvement:**
+- Develop more robust models for long-term sustainability of matching funds to reduce reliance on large, centralized donors.
+- Enhance the stakeholder architecture to more explicitly account for the rights of the environment or future generations in project evaluation.
+- Continue to innovate on Sybil resistance to ensure the integrity of the "one person, one vote" principle as AI and bots become more sophisticated.
 
 ## 9. Resources & References
 

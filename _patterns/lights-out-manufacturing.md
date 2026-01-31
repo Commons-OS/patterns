@@ -45,8 +45,6 @@ repository: https://github.com/commons-os/patterns
 
 ## 7. Cognitive Era Considerations
 
-## 8. Commons Alignment Assessment
-
 ## 9. Resources & References
 
 ## 1. Overview
@@ -109,7 +107,7 @@ The adoption of lights-out manufacturing has demonstrated a significant and meas
 
 *   **Increased Productivity and Throughput:** One of the most significant impacts is a dramatic increase in productivity. Automated factories can operate 24/7 with minimal downtime, leading to a substantial increase in production output. The FANUC factory in Japan, which produces robots using other robots, is a classic example, running for up to 30 days unattended.
 
-*   **Improved Quality and Consistency:** Automation eliminates the variability and potential for error associated with human labor. This results in a higher level of product quality and consistency. Automated inspection systems can detect defects with a high degree of accuracy, reducing the number of faulty products that reach the market.
+*   **Improved Consistency and Quality:** Automation eliminates the variability associated with human labor, leading to a higher level of consistency and quality in the finished products. Automated quality control systems can detect defects with a precision that is often beyond human capability, reducing the rate of defects and rework.
 
 *   **Reduced Operational Costs:** While the initial investment is high, lights-out manufacturing can lead to significant long-term cost savings. These savings come from reduced labor costs, lower energy consumption (as there is no need for lighting, heating, or cooling for human comfort), and a reduction in material waste.
 
@@ -127,23 +125,40 @@ One of the most significant developments is the application of machine learning 
 
 Furthermore, the integration of AI is enhancing the capabilities of robots and autonomous systems. AI-powered vision systems are enabling robots to perform more complex and delicate tasks that were previously beyond their reach. Natural Language Processing (NLP) is facilitating more intuitive human-machine interaction, allowing engineers to communicate with the factory's operating system in plain language. The ultimate vision is a cognitive factory that can not only manage its own operations but also adapt to unforeseen circumstances, learn from its experiences, and collaborate with other factories in a distributed manufacturing network. This represents a fundamental shift from automation to true autonomy, where the factory becomes a self-aware and self-optimizing entity.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The principles of lights-out manufacturing present a complex and somewhat contradictory picture when assessed against the dimensions of a commons-based economy. While it offers the potential for significant efficiency gains and resource optimization, it also raises concerns about equity, accessibility, and the distribution of benefits.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-*   **Openness and Transparency:** Lights-out manufacturing, in its current form, is largely a proprietary endeavor. The technologies and intellectual property are typically owned by large corporations, and there is little transparency into the inner workings of these automated factories. This is in direct contrast to the commons principle of open access to knowledge and technology.
+**1. Stakeholder Architecture:**
+The stakeholder architecture is narrowly focused on the capital owners and the automated systems they deploy. Rights are concentrated with the owners, while responsibilities are delegated to machines and a small, remote human oversight team. The pattern inherently minimizes the role of on-site human labor, treating them as a component to be engineered out, rather than as key stakeholders. The environment and future generations are not actively included in the governance structure, though they may experience secondary effects like reduced energy use.
 
-*   **Decentralization and Distribution:** While the technology itself is often centralized within a single corporate entity, the concept of a distributed network of smaller, automated factories has the potential to align with the principle of decentralization. This could lead to a more resilient and localized manufacturing ecosystem, reducing the reliance on long and fragile supply chains.
+**2. Value Creation Capability:**
+Value creation is defined almost exclusively in economic terms: efficiency, productivity, and profit maximization. The pattern does not inherently create social value, and in fact, can create social deficits through job displacement. While it can produce knowledge value in the form of operational data, this knowledge is typically proprietary and siloed, not shared for collective benefit. Ecological value is a byproduct of efficiency rather than a primary design goal.
 
-*   **Community and Collaboration:** The current model of lights-out manufacturing is not conducive to community-based collaboration. It is a capital-intensive model that is largely inaccessible to small businesses and community-led initiatives. However, there is potential for a commons-based approach where open-source hardware and software could enable the development of smaller, more affordable automated manufacturing systems.
+**3. Resilience & Adaptability:**
+The pattern demonstrates high technical resilience, capable of continuous operation and adaptation to production changes through reprogramming. It is resilient to labor shocks and human error. However, this creates a fragile, highly-optimized system vulnerable to systemic risks like cyber-attacks, energy grid failures, and complex supply chain disruptions for its own maintenance. It lacks the adaptive capacity that comes from a diverse, multi-stakeholder ecosystem.
 
-*   **Sustainability and Regeneration:** Lights-out manufacturing can contribute to environmental sustainability by optimizing energy consumption and reducing material waste. However, the full life-cycle impact of the technology, including the energy required to produce and operate the robots and data centers, needs to be carefully assessed. A true commons alignment would require a commitment to circular economy principles and the use of renewable energy.
+**4. Ownership Architecture:**
+Ownership is defined in a traditional, capital-centric manner, based on monetary equity and control of physical and intellectual property. The architecture does not conceptualize ownership as a bundle of rights and responsibilities distributed among various stakeholders. The value generated by the automated system accrues almost entirely to the capital owners, with little to no mechanism for broader value distribution.
 
-*   **Equity and Inclusion:** This is perhaps the most challenging dimension. The potential for job displacement is a major concern, and there is a risk that the benefits of automation will be concentrated in the hands of a few. A commons-aligned approach would require a focus on equitable distribution of the wealth generated by automation, as well as investment in education and training to help workers transition to new roles.
+**5. Design for Autonomy:**
+This is the pattern's strongest area of alignment. It is fundamentally designed for high degrees of autonomy, leveraging AI, robotics, and data-driven control systems to minimize coordination overhead. The system is inherently compatible with machine-to-machine economies, DAOs, and other distributed, autonomous technological systems. It serves as a foundational building block for a future of autonomous production.
 
-*   **Purpose and Values:** The primary purpose of lights-out manufacturing in its current form is to maximize profit and efficiency for private corporations. A commons-based approach would prioritize a broader set of values, such as social well-being, environmental sustainability, and community resilience.
+**6. Composability & Interoperability:**
+Lights-Out Manufacturing can be composed with other patterns in a production value chain, such as automated logistics and ERP systems. However, interoperability is often dependent on proprietary APIs and vendor-specific integrations rather than open standards. This can lead to vendor lock-in and create "black box" systems that are difficult to integrate into a broader, more open, and collaborative commons-based ecosystem.
 
-*   **Governance and Stewardship:** The governance of lights-out manufacturing is currently in the hands of private companies. A commons-based model would involve a more participatory and democratic form of governance, where stakeholders from across the community have a say in how the technology is developed and used.
+**7. Fractal Value Creation:**
+The core logic of automation for efficiency can be applied fractally, from a single robotic cell to a full factory, and even to a network of distributed factories. However, the value creation model itself—centralized profit for a single owner—does not become more collective or generative as it scales. It simply replicates the same extractive logic at larger or smaller scopes, failing to create a resilient, multi-scale value creation system for a commons.
+
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+The pattern is a powerful engine for automation and efficiency, making it a key transitional component for future autonomous systems. Its high score in "Design for Autonomy" shows its potential. However, its architecture for ownership, stakeholder engagement, and value creation remains firmly rooted in a legacy, capital-centric model, creating significant social and systemic risks. It has major gaps in its ability to foster resilient, *collective* value creation.
+
+**Opportunities for Improvement:**
+- Develop open-source hardware and software standards to make the technology more accessible and interoperable, reducing vendor lock-in.
+- Integrate new ownership and governance models, such as DAOs or cooperatives, to distribute the value created more equitably among a wider set of stakeholders, including former workers and local communities.
+- Redesign the system to prioritize ecological value creation, such as integrating with circular economy principles for material reuse and powering operations with renewable energy grids.
 
 ## 9. Resources & References
 

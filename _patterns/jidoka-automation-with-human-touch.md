@@ -15,7 +15,7 @@ tags:
   era: [industrial]
   origin: []
   status: draft
-  commons_alignment: 2
+  commons_alignment: 3
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -105,76 +105,37 @@ The principles of Jidoka can also be applied to knowledge work, where the "produ
 
 As we move towards a future of increasingly autonomous systems, the role of the human in Jidoka will continue to evolve. While the direct intervention of a human operator may become less frequent, the need for human oversight and continuous improvement will remain. The focus will shift from manual intervention to the design and maintenance of intelligent systems that can learn from their mistakes and adapt to changing conditions. The ultimate goal of Jidoka in the Cognitive Era is to create a symbiotic relationship between humans and machines, where each can leverage the strengths of the other to achieve a level of quality and efficiency that would be impossible to achieve alone.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Commons Alignment Assessment evaluates how well a pattern aligns with the principles of a commons-based approach. The assessment is based on seven dimensions, each rated on a scale of 1 to 5, with 5 being the highest alignment. The overall score is the average of the seven dimensions.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-### 1. Openness and Transparency
+**1. Stakeholder Architecture:**
+Jidoka primarily defines Rights and Responsibilities for machine operators and production line managers. The right to stop the entire production line is a significant responsibility delegated to individuals, empowering them to act on behalf of the system's quality. However, its stakeholder architecture is limited to the production process and does not explicitly consider the rights of other stakeholders like the environment, future generations, or the broader community.
 
-Jidoka promotes transparency by making problems visible as soon as they occur. The Andon system, a key component of Jidoka, is a visual management tool that provides real-time information on the status of the production line to everyone. This transparency fosters a culture of openness where problems are not hidden but are seen as opportunities for improvement. However, the knowledge and implementation of Jidoka can be proprietary within a company, which limits its full openness.
+**2. Value Creation Capability:**
+The pattern excels at creating economic value by improving quality, reducing waste, and increasing efficiency. It also generates knowledge value through its root cause analysis process, leading to continuous improvement of the production system. However, its contribution to social and ecological value is indirect and not a primary focus.
 
-**Score: 3/5**
+**3. Resilience & Adaptability:**
+Jidoka is a powerful tool for building resilience and adaptability into a production system. By detecting and addressing abnormalities at the source, it prevents the propagation of failures and allows the system to maintain coherence under stress. The "stop and fix" principle fosters a culture of rapid response and learning, which is essential for adapting to complexity.
 
-### 2. Community and Collaboration
+**4. Ownership Architecture:**
+Jidoka promotes a sense of ownership over quality among frontline workers. By empowering them to stop the line, it gives them a direct stake in the outcome of the production process. However, this ownership is limited to the operational level and does not extend to the governance or equity of the organization.
 
-Jidoka encourages collaboration between operators, engineers, and managers to solve problems and improve processes. When a problem is detected, a team is assembled to investigate the root cause and implement a solution. This collaborative approach to problem-solving is a key strength of Jidoka. However, this collaboration is typically limited to within the boundaries of a single organization.
+**5. Design for Autonomy:**
+The pattern is highly compatible with AI and distributed systems. The core principle of "autonomation" (automation with a human touch) is a precursor to modern human-in-the-loop AI systems. Its decentralized nature of empowering operators to make local decisions reduces coordination overhead and aligns well with the principles of autonomous systems.
 
-**Score: 3/5**
+**6. Composability & Interoperability:**
+Jidoka is a highly composable pattern that can be combined with other lean manufacturing principles like Kanban, 5S, and Total Productive Maintenance to create a comprehensive production system. It is also interoperable with various technologies, from simple Andon lights to sophisticated sensor networks and AI-powered monitoring systems.
 
-### 3. Distributive and Decentralized
+**7. Fractal Value Creation:**
+The value-creation logic of Jidoka can be applied at multiple scales. At the micro-level, it improves the quality of individual workstations. At the meso-level, it enhances the performance of the entire production line. At the macro-level, it can be applied to entire supply chains and even to knowledge work and software development, demonstrating its fractal nature.
 
-Jidoka empowers frontline workers to stop production and take ownership of quality. This decentralization of authority is a key aspect of Jidoka and is in stark contrast to traditional top-down management approaches. However, the overall production system is still centrally controlled, and the decision-making power of individual workers is limited to their immediate work area.
+**Overall Score: 3 (Transitional)**
 
-**Score: 2/5**
+**Rationale:**
+Jidoka is a powerful pattern for creating resilient and efficient production systems. Its emphasis on empowering frontline workers, continuous improvement, and building quality into the process aligns well with many of the principles of the Commons OS v2.0 framework. However, its focus is primarily on economic value creation within the boundaries of a single organization. To become a true Value Creation Architecture, it needs to be adapted to a broader context that explicitly considers the rights and responsibilities of all stakeholders and a more holistic view of value creation that includes social and ecological dimensions.
 
-### 4. Sustainability and Resilience
-
-By focusing on quality at the source and preventing defects, Jidoka contributes to the sustainability of the production process by reducing waste and rework. The continuous improvement aspect of Jidoka also helps to build a more resilient and adaptable production system. However, the focus is primarily on economic and operational sustainability, with less emphasis on environmental or social sustainability.
-
-**Score: 2/5**
-
-### 5. Fairness and Equity
-
-Jidoka can contribute to a fairer and more equitable workplace by empowering workers and giving them a voice in the production process. The focus on standardized work can also help to ensure that all workers are treated fairly and have the same opportunities for success. However, the intense focus on efficiency and productivity can also lead to a high-pressure work environment.
-
-**Score: 2/5**
-
-### 6. Purpose and Values
-
-The underlying purpose of Jidoka is to create a more efficient and effective production system by building quality into the process. The values of Jidoka are rooted in the principles of continuous improvement, respect for people, and teamwork. These values are closely aligned with the principles of a commons-based approach. However, the ultimate goal is still to maximize profit for the organization.
-
-**Score: 2/5**
-
-### 7. Modularity and Forkability
-
-The principles of Jidoka are highly modular and can be applied to a wide range of industries and processes. The tools and techniques of Jidoka, such as Andon and Poka-Yoke, can be easily adapted to different contexts. However, the successful implementation of Jidoka requires a deep understanding of the underlying philosophy and a commitment to continuous improvement, which can make it difficult to simply "fork" and replicate.
-
-**Score: 2/5**
-
-### Overall Commons Alignment Score
-
-The overall Commons Alignment Score for Jidoka is **2/5**. While Jidoka has some elements that align with a commons-based approach, such as its emphasis on transparency, collaboration, and decentralization, its primary focus on efficiency and profitability within a single organization limits its full alignment with the principles of the commons.
-
-## 9. Resources & References
-
-[1] Lean Enterprise Institute. (n.d.). *Jidoka*. Retrieved from https://www.lean.org/lexicon-terms/jidoka/
-
-[2] SafetyCulture. (2025, March 28). *Understanding Jidoka: A Lean Principle in Manufacturing*. Retrieved from https://safetyculture.com/topics/jidoka
-
-[3] 6Sigma.us. (2024, March 25). *Jidoka - Toyota Production System. A Complete Guide (2024)*. Retrieved from https://www.6sigma.us/manufacturing/jidoka-toyota-production-system/
-
-[4] Businessmap.io. (n.d.). *What is Jidoka?*. Retrieved from https://businessmap.io/continuous-flow/jidoka
-
-[5] Mecalux.com. (2024, December 4). *Jidoka: The method that improves manufacturing processes*. Retrieved from https://www.mecalux.com/blog/jidoka
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/jidoka-automation-with-human-touch/](https://commons-os.github.io/patterns/domain/jidoka-automation-with-human-touch/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/jidoka-automation-with-human-touch.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/jidoka-automation-with-human-touch.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
+**Opportunities for Improvement:**
+- Extend the stakeholder architecture to include the environment and community, for example by incorporating environmental monitoring into the Jidoka system.
+- Explicitly measure and reward the creation of social and ecological value, in addition to economic value.
+- Integrate Jidoka with governance models that give workers a greater stake in the ownership and decision-making of the organization.

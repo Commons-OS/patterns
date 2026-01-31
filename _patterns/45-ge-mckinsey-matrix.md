@@ -15,7 +15,7 @@ tags:
   era: [industrial, digital]
   origin: [academic, general-electric, mckinsey]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 2
 commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023yweb8r88nxg1mnjvmp"]
@@ -117,19 +117,40 @@ While AI and automation can provide powerful support for the GE-McKinsey Matrix 
 
 In the cognitive era, the GE-McKinsey Matrix is likely to evolve from a static, periodic analysis into a more dynamic and interactive tool. Instead of being a snapshot of the portfolio at a single point in time, the matrix could become a real-time dashboard that is constantly updated with new data and insights. This would enable companies to be more agile and responsive to changes in the market, and to make more timely and informed decisions about their business portfolio. The matrix could also be integrated with other strategic planning tools and platforms, creating a more comprehensive and holistic approach to strategy development and execution. The future of the GE-McKinsey Matrix lies in its ability to leverage the power of AI and automation to provide real-time, data-driven insights that can help companies to navigate the complexities of the modern business environment.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-1.  **Stakeholder Mapping:** The matrix traditionally focuses on internal stakeholders like shareholders and management, aiming to maximize shareholder value. It lacks a broader perspective that includes customers, suppliers, and the community, which is a limitation from a commons-oriented view that would favor a more inclusive, multi-stakeholder approach.
-2.  **Value Creation:** The matrix prioritizes financial value creation, helping companies identify profitable businesses. It doesn't explicitly consider social, environmental, or cultural value, which a commons-aligned approach would integrate for a more holistic view of long-term value creation.
-3.  **Value Preservation:** The matrix preserves value by identifying and divesting underperforming businesses, ensuring the corporation's financial health. However, it overlooks broader aspects of value preservation like long-term sustainability, supply chain resilience, and societal impact. A commons-oriented approach would include these factors to preserve value for all stakeholders, not just shareholders.
-4.  **Shared Rights & Responsibilities:** As a top-down tool, the matrix is used by senior executives for unilateral decision-making, with no mechanism for shared governance or stakeholder participation. This contrasts with a commons-oriented approach that values participatory governance and equitable power distribution.
-5.  **Systematic Design:** The matrix is a systematic tool for analysis, not design. It provides a structured approach to decision-making but doesn't offer a method for creating sustainable or equitable business models. A commons-oriented approach would add a creative, design-focused element to the matrix's analytical rigor.
-6.  **Systems of Systems:** The matrix analyzes a system of businesses within a corporation but doesn't explicitly consider the broader industry, environmental, or social ecosystems. A commons-oriented approach would adopt a more holistic, systems-of-systems view, acknowledging the interconnectedness of the business with its environment.
-7.  **Fractal Properties:** The matrix's principles can be applied at various scales, from corporate to business unit level, providing a consistent and scalable analysis. However, it doesn't explicitly consider the fractal nature of complex adaptive systems. A commons-oriented approach would leverage these properties to build more resilient and adaptive organizations.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**Overall Score:** 3 (Transitional)
+**1. Stakeholder Architecture:**
+The GE-McKinsey Matrix is a corporate-centric tool, primarily serving shareholders and senior management by optimizing financial returns. It does not inherently account for the rights and responsibilities of a broader set of stakeholders, such as employees, customers, suppliers, the environment, or future generations, which is a key tenet of a commons approach.
 
-The GE-McKinsey Matrix is a powerful tool for strategic analysis, but it has a number of limitations from a commons perspective. It is a top-down, shareholder-focused tool that does not explicitly consider the broader ecosystem of stakeholders or other forms of value beyond financial value. However, it can be a useful tool for transitioning to a more sustainable and equitable business model, by helping to identify and divest underperforming businesses that are not aligned with the company's values.
+**2. Value Creation Capability:**
+The framework is explicitly designed to maximize economic value by directing investment towards the most profitable business units. It lacks mechanisms to assess or cultivate other forms of value, such as social capital, ecological regeneration, or knowledge commons, which are critical for holistic and resilient value creation.
+
+**3. Resilience & Adaptability:**
+The matrix enhances corporate resilience by promoting a diversified portfolio and guiding divestment from underperforming assets. However, its static, snapshot-based analysis is less suited for the rapid and unpredictable changes of complex modern markets, and it focuses more on portfolio optimization than on fostering adaptability within the business units themselves.
+
+**4. Ownership Architecture:**
+Ownership is viewed through the traditional lens of financial equity and control, with the matrix serving as a tool to exercise these rights for maximum shareholder gain. It does not engage with more distributed or stewardship-based models of ownership that define rights and responsibilities beyond monetary value.
+
+**5. Design for Autonomy:**
+As a centralized, top-down strategic tool, the GE-McKinsey Matrix carries a high coordination overhead and is not inherently compatible with autonomous or decentralized systems like DAOs. Its analytical and decision-making processes are designed for hierarchical corporate structures, not for distributed networks.
+
+**6. Composability & Interoperability:**
+The matrix is highly composable, designed to be used in conjunction with other strategic analysis frameworks like SWOT, PESTEL, and scenario planning. This allows it to be integrated into a broader system for strategic decision-making, which is a key feature of interoperable patterns.
+
+**7. Fractal Value Creation:**
+The underlying logic of the matrix—assessing units based on attractiveness and strength—can be applied fractally at various scales, from a portfolio of international corporations down to a portfolio of individual projects. This scalability allows for a consistent analytical approach across different levels of an organization.
+
+**Overall Score: 2 (Partial Enabler)**
+
+**Rationale:**
+The GE-McKinsey Matrix is a product of the industrial era, designed for a world of centralized power and focused on maximizing shareholder value. While it offers a systematic approach to resource allocation, its fundamental architecture is not aligned with the core principles of multi-stakeholder, resilient, and holistic value creation. It is a partial enabler only because its analytical rigor can be repurposed, but it has major gaps in its stakeholder model, value definition, and governance approach.
+
+**Opportunities for Improvement:**
+- The matrix could be adapted to include non-financial metrics for "industry attractiveness" and "business strength," such as social impact, environmental footprint, and contribution to knowledge commons.
+- It could be used as a transitional tool to help legacy organizations re-orient their portfolios towards more regenerative and equitable models by strategically divesting from extractive businesses.
+- The framework could be integrated into a more dynamic, real-time system that uses AI to track a wider range of value flows, making it more adaptive to complex environments.
 
 ### 9. Resources & References
 

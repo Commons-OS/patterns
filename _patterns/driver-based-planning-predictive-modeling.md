@@ -151,31 +151,40 @@ While AI and machine learning can automate many aspects of the planning process,
 
 Looking ahead, the Driver-Based Planning with Predictive Modeling pattern is likely to become even more sophisticated and automated. We can expect to see the emergence of self-learning and self-correcting planning systems that can continuously adapt to changing business conditions. These systems will be able to automatically identify new drivers, update the predictive models, and generate real-time forecasts and recommendations. The integration of blockchain technology could also enhance the transparency and security of the planning process. As organizations become more comfortable with AI and machine learning, we can also expect to see a shift from predictive to prescriptive analytics, where the system not only predicts what will happen but also recommends the best course of action to achieve a desired outcome.
 
-### 8. Commons Alignment Assessment (600-800 words)
+### 8. Commons Alignment Assessment (v2.0)
 
-This assessment evaluates the Driver-Based Planning with Predictive Modeling pattern against the seven dimensions of a commons-aligned organizational pattern.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**1. Stakeholder Mapping:** The pattern's stakeholders are primarily internal: the FP&A team, executive leadership, and department managers. Shareholders and investors are also key stakeholders. The scope is typically limited to those with a direct financial or operational stake in the company, and does not inherently include a broader set of stakeholders like customers, suppliers, or the community.
+**1. Stakeholder Architecture:**
+The pattern primarily defines Rights and Responsibilities for internal stakeholders, such as finance teams, executive leadership, and department managers, with a focus on optimizing organizational performance for shareholders. It does not inherently extend these considerations to a broader ecosystem of stakeholders, including customers, the environment, or future generations. The architecture is centered on the firm, not a wider commons.
 
-**2. Value Creation:** The primary value created is financial and strategic value for the organization, including improved forecast accuracy, agility, and decision-making. The main beneficiaries are shareholders and owners. The value proposition is centered on optimizing firm performance.
+**2. Value Creation Capability:**
+The pattern excels at creating financial and strategic value for the organization by improving forecast accuracy and enabling more agile decision-making. However, its scope of value creation is narrow, focusing on economic output. It does not inherently facilitate the creation of social, ecological, or knowledge value for a broader community, though it could be adapted to do so.
 
-**3. Value Preservation:** The pattern has strong internal value preservation mechanisms through continuous monitoring and refinement of the predictive models. However, it lacks mechanisms for preserving a shared commons beyond the organization.
+**3. Resilience & Adaptability:**
+This is a core strength of the pattern. By leveraging predictive modeling and scenario analysis, it helps organizations anticipate and adapt to change, manage complexity, and maintain coherence in volatile environments. This focus on dynamic, data-driven planning builds significant organizational resilience.
 
-**4. Shared Rights & Responsibilities:** Rights and responsibilities are well-defined internally. The FP&A team manages the model, and business leaders provide inputs and use the outputs. The rights to the data and insights are held by management, with no provisions for sharing with external stakeholders.
+**4. Ownership Architecture:**
+Ownership is viewed through a traditional lens, where the data, models, and resulting insights are proprietary assets of the organization. The pattern does not define ownership in terms of shared Rights and Responsibilities among a wider set of stakeholders, limiting its alignment with a commons-based approach to ownership.
 
-**5. Systematic Design:** The pattern is highly systematic, relying on a structured process and often specialized software platforms for managing the models and facilitating collaboration.
+**5. Design for Autonomy:**
+The pattern is highly compatible with autonomous systems. It is designed to be augmented by AI and machine learning, and its principles of data-driven modeling and low coordination overhead make it well-suited for integration with DAOs and other distributed systems. The emphasis on human-machine balance further supports this.
 
-**6. Systems of Systems:** This pattern is a key component of a larger system for integrated business planning and can be integrated with other patterns like Agile Management and data governance.
+**6. Composability & Interoperability:**
+Driver-Based Planning is designed to be a modular component within a larger integrated business planning system. It can be effectively combined with other patterns related to data governance, agile management, and strategic planning to create more comprehensive value-creation systems.
 
-**7. Fractal Properties:** The pattern's principles are fractal and can be applied at various scales, from a single department to the entire enterprise.
+**7. Fractal Value Creation:**
+The logic of identifying key drivers and modeling their impact can be applied at multiple scales, from individual teams and departments to the entire enterprise and even across a network of organizations. This fractal nature allows the value-creation logic to be scaled and replicated effectively.
 
 **Overall Score: 3 (Transitional)**
 
-Driver-Based Planning with Predictive Modeling is a powerful tool for optimizing organizational performance, but its focus is primarily internal. It is a transitional pattern that has moved beyond a purely extractive model but has not yet fully embraced the principles of a commons.
+**Rationale:**
+Driver-Based Planning with Predictive Modeling is a powerful tool for optimizing organizational performance and enhancing resilience. However, its primary focus is internal and financial, with a narrow definition of stakeholders and value. It is considered transitional because it represents a significant step beyond static, historical planning and has the potential to be adapted into a more commons-aligned framework.
 
 **Opportunities for Improvement:**
-
-To become more commons-aligned, the pattern could be extended to incorporate non-financial drivers and outcomes (e.g., employee engagement, environmental impact), expand its stakeholder map, and broaden its value creation framework to include social and environmental value.
+- Incorporate non-financial drivers (e.g., employee well-being, carbon footprint, customer satisfaction) into the models to create a more holistic view of value creation.
+- Expand the stakeholder map to include external actors like suppliers, local communities, and ecosystem partners, defining their Rights and Responsibilities in the value creation process.
+- Develop open-source or shared models for specific industries or challenges, allowing for collective learning and the creation of a shared knowledge commons.
 
 ### 9. Resources & References (200-400 words)
 

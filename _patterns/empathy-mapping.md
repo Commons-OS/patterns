@@ -15,7 +15,7 @@ tags:
   era: [digital]
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -66,11 +66,40 @@ In the Cognitive Era, where technology is increasingly able to understand and to
 
 Furthermore, the rise of big data and analytics provides new opportunities to enrich Empathy Mapping with quantitative data. By combining qualitative insights from Empathy Mapping with quantitative data on user behavior, we can develop a more complete and nuanced understanding of the user. This can help us to create more personalized and effective user experiences.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-Empathy Mapping is highly aligned with the principles of the Commons. It is a collaborative and open process that is designed to create a shared understanding of the user. It is also a tool for empowerment, as it can help to give a voice to users who might otherwise be marginalized.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-Empathy Mapping is highly aligned with the principles of the Commons, as it is a collaborative and open process designed to create a shared understanding of the user and empower marginalized users by giving them a voice. It aligns with the seven dimensions of the Commons Alignment Assessment: **Openness and Transparency** (the process is designed to be shared with all stakeholders), **Participation and Collaboration** (it encourages participation from all team members), **Inclusivity and Diversity** (it can be used to understand the needs of a diverse range of users), **Decentralization and Federation** (it can be used in a decentralized manner with different teams working on different parts of the map), **Sustainability and Resilience** (it helps create more sustainable and resilient systems by ensuring they are designed to meet user needs), **Fairness and Equity** (it promotes fairness and equity by giving a voice to all users), and **Purpose and Values** (it is a purpose-driven process designed to create a better future for all).
+**1. Stakeholder Architecture:**
+Empathy Mapping focuses on understanding a target audience, which can include various stakeholders like customers, users, or even internal employees. It implicitly defines a responsibility for the team using the map to consider the perspective of the mapped stakeholder. However, it doesn't explicitly define rights for the stakeholders being mapped, nor does it have a built-in mechanism to account for non-human stakeholders like the environment.
+
+**2. Value Creation Capability:**
+The pattern directly enables the creation of "knowledge value" by fostering a shared understanding of a stakeholder. This understanding can then lead to the creation of other forms of value, such as improved social value (better services), economic value (more successful products), and resilience value (by designing systems that are more aligned with user needs).
+
+**3. Resilience & Adaptability:**
+By creating a deeper understanding of user needs and context, Empathy Mapping helps teams design products and services that are more resilient to changing user expectations. It's a tool that helps a system (the team or organization) adapt its offerings by maintaining coherence with the needs of its users.
+
+**4. Ownership Architecture:**
+The pattern does not directly address ownership in terms of rights and responsibilities. It's a tool for understanding, not for defining ownership structures. The "ownership" of the insights generated is implicitly held by the team that creates the map.
+
+**5. Design for Autonomy:**
+Empathy Mapping is a human-centric, collaborative process that requires significant coordination. While the insights from an empathy map could be used to design autonomous systems (like AI agents that better understand human emotions), the pattern itself is not inherently designed for low coordination overhead or direct compatibility with autonomous systems. It's a tool for humans to design for others (who could be humans or autonomous agents).
+
+**6. Composability & Interoperability:**
+Empathy Mapping is highly composable. It's a foundational tool in Design Thinking and User-Centered Design, and it can be combined with many other patterns like Personas, Journey Mapping, and Business Model Canvas to build more comprehensive value-creation systems.
+
+**7. Fractal Value Creation:**
+The logic of Empathy Mapping can be applied at multiple scales. A team can create an empathy map for an individual user, a customer segment, a partner organization, or even an entire community. The process of understanding the "Says, Thinks, Does, Feels" can be scaled up or down.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Empathy Mapping is a powerful tool for building the shared understanding that is foundational to collective value creation. It excels at creating knowledge value and fostering a user-centric perspective, which in turn leads to more resilient and valuable products and services. However, it does not provide a complete architecture for value creation, as it lacks explicit mechanisms for defining stakeholder rights, ownership, and is not inherently designed for autonomous systems.
+
+**Opportunities for Improvement:**
+- Integrate mechanisms for stakeholders to co-create and validate their own empathy maps, shifting from a team-centric to a more participatory process.
+- Develop extensions to the Empathy Map framework that explicitly consider the rights and responsibilities of all stakeholders, including non-human ones like the environment.
+- Explore how the insights from Empathy Maps can be translated into formal rules or parameters for autonomous agents and DAOs, bridging the gap between human-centric understanding and machine execution.
 
 ## 9. Resources & References
 

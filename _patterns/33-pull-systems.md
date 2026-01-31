@@ -15,7 +15,7 @@ tags:
   era: industrial
   origin: [toyota]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023zqfzsrp86dd7ba2nh7"]
@@ -181,25 +181,40 @@ In the cognitive era, pull systems are likely to become even more dynamic and re
 
 smart" pull systems that can learn and adapt to changing conditions in real-time. These systems will be able to anticipate demand, optimize production, and self-correct in response to disruptions, leading to even greater levels of efficiency and resilience.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-**1. Stakeholder Mapping**: Pull systems inherently map a linear chain of stakeholders, from the end customer back through various production and supply stages. The primary stakeholders are the **customers** (whose demand drives the system), **employees** (who operate the system), and **management** (who design and oversee it). **Suppliers** are also critical stakeholders, as their reliability directly impacts the system's effectiveness. While this mapping is effective for operational efficiency, it is not inherently comprehensive in a broader commons context. It tends to focus on the direct value chain and may overlook secondary stakeholders like the local community or the environment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**2. Value Creation**: The primary value created by pull systems is **economic value** for the organization through increased efficiency, reduced waste, and lower inventory costs. **Customer value** is also created through faster response times, higher quality, and potentially lower prices. For employees, value is created through a more predictable and less chaotic work environment. However, the distribution of this value is typically conventional, with most of the financial gains accruing to the organization's shareholders.
+**1. Stakeholder Architecture:**
+Pull Systems define a clear stakeholder architecture based on roles within a value stream, establishing rights and responsibilities for customers, producers, and suppliers. The right to pull value is linked to the responsibility of signaling demand, creating a distributed and interdependent network. However, this architecture is primarily focused on the direct participants in the production process and does not explicitly include rights or responsibilities for broader stakeholders like the environment, community, or future generations.
 
-**3. Value Preservation**: Pull systems are highly adaptive and designed for value preservation. The principle of producing to demand ensures that the system remains relevant and does not produce obsolete goods. The emphasis on **continuous improvement (Kaizen)** provides a built-in mechanism for adapting to changing customer needs and market conditions, thus preserving the value of the system over time.
+**2. Value Creation Capability:**
+The pattern strongly enables collective value creation by optimizing workflow, minimizing waste, and increasing responsiveness. This creates economic value (efficiency, cost savings), operational value (shorter lead times, higher quality), and knowledge value (through continuous improvement). While the primary focus is on economic and operational metrics, the resulting system resilience and efficiency form a foundation upon which broader social and ecological value can be built.
 
-**4. Shared Rights & Responsibilities**: Pull systems distribute rights and responsibilities along the value chain. Each process has the **right** to receive materials only when needed and the **responsibility** to signal that need clearly and in a timely manner. This creates a system of distributed control and mutual dependency. However, the overall governance of the system typically remains hierarchical, with management retaining the ultimate authority to set the rules and make strategic decisions.
+**3. Resilience & Adaptability:**
+Resilience and adaptability are core strengths of this pattern. By synchronizing production with real-time demand, the system can thrive on change and adapt to complexity without creating wasteful surpluses. The emphasis on flow and limiting work-in-progress helps the system maintain coherence under stress, while the practice of continuous improvement (Kaizen) provides a built-in mechanism for learning and evolution.
 
-**5. Systematic Design**: Pull systems are highly systematic, relying on well-defined processes and tools like Kanban, WIP limits, and visual management. These systems are designed to be transparent and to make the status of work visible to everyone involved. This systematic design is a key enabler of the system's efficiency and effectiveness.
+**4. Ownership Architecture:**
+Pull Systems define ownership as a set of rights and responsibilities distributed throughout the value creation process, rather than as simple monetary equity. Each participant has ownership over their part of the process, with the right to pull resources and the responsibility to deliver value to the next stage. This creates a form of distributed, operational ownership, though the ultimate financial ownership of the system often remains centralized.
 
-**6. Systems of Systems**: Pull systems are a foundational pattern that composes well with other organizational patterns. It is a core component of the **Lean Manufacturing** meta-pattern and is closely related to **Just-in-Time (JIT)**. It enables patterns like **Continuous Flow** and is supported by patterns like **Visual Management** and **Kaizen**. This modularity and interoperability allow it to be integrated into a wide range of organizational contexts.
+**5. Design for Autonomy:**
+The pattern is exceptionally well-suited for autonomous systems, including AI agents and DAOs. Its signal-based communication protocol is simple, clear, and machine-readable, requiring low coordination overhead. As noted in the pattern's Cognitive Era Considerations, AI and IoT can automate Kanban signals, enabling a highly autonomous and responsive value network.
 
-**7. Fractal Properties**: The principles of pull systems are highly fractal and can be applied at multiple scales. An **individual** can use a personal Kanban board to manage their tasks. A **team** can use a pull system to manage its workflow. An **organization** can use a pull system to manage its entire production process. And a **multi-organization ecosystem** can use a pull system to manage a global supply chain. This scalability is a testament to the robustness of the underlying principles.
+**6. Composability & Interoperability:**
+Pull Systems are highly composable and serve as a foundational pattern for building larger value-creation systems. It is a core component of meta-patterns like Lean Manufacturing and Just-in-Time (JIT) and interoperates seamlessly with other patterns such as Kanban, Continuous Flow, and Visual Management. This modularity allows it to be integrated into diverse and complex organizational architectures.
 
-**Overall Score: 3 (Transitional)**
+**7. Fractal Value Creation:**
+The logic of creating value in response to a pull signal is highly fractal. It can be applied at the scale of an individual managing personal tasks, a team coordinating its workflow, an organization managing its production line, and an entire ecosystem coordinating a global supply chain. This scalability demonstrates the robustness and universality of the underlying value-creation logic.
 
-Pull systems represent a significant step beyond traditional, extractive production models. By focusing on waste reduction and customer value, they create a more efficient and responsive system. However, they are still primarily focused on optimizing the economic performance of the individual organization. To become more commons-aligned, pull systems could be enhanced to incorporate broader stakeholder concerns, such as environmental sustainability and equitable value distribution. For example, the signaling system could be expanded to include information about the environmental impact of different production choices, or the governance of the system could be made more inclusive of all stakeholders.
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Pull Systems are a powerful enabler of resilient collective value creation. The pattern provides a robust architecture for creating adaptive, efficient, and scalable systems. While its native focus is on economic and operational value, its principles of demand-driven flow, distributed responsibility, and continuous improvement provide a strong foundation for a more comprehensive commons. It scores a 4 because it is more than transitional; it is a fundamental building block for creating value, but it is not a complete commons architecture in itself as it lacks explicit mechanisms for broader stakeholder inclusion and ecological value accounting.
+
+**Opportunities for Improvement:**
+- Integrate non-financial signals (e.g., ecological impact, community needs) into the pull mechanism to broaden the definition of "demand."
+- Combine with governance patterns that distribute strategic control and financial ownership more broadly among all contributing stakeholders.
+- Use AI to model the complex interdependencies between economic, social, and ecological value creation, creating a more holistic pull signal.
 
 ### 9. Resources & References
 

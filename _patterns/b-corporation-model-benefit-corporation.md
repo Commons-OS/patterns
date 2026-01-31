@@ -142,39 +142,40 @@ While AI and automation can be powerful tools for B Corps, it is important to ma
 
 In the cognitive era, the B Corp model is likely to evolve in a number of ways. First, we are likely to see a greater emphasis on data and technology. B Corps will need to become more sophisticated in their use of data and technology to measure and manage their social and environmental impact. Second, we are likely to see a greater focus on collaboration and collective action. B Corps will need to work together to address the world's most pressing social and environmental challenges. Third, we are likely to see a greater emphasis on systems thinking. B Corps will need to understand how their actions impact the broader systems in which they operate and work to create a more just, equitable, and regenerative economic system for all.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-**1. Stakeholder Mapping:**
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-The B Corp model has a very comprehensive approach to stakeholder mapping. It requires companies to consider the impact of their decisions on all stakeholders, including employees, customers, suppliers, the community, and the environment, in addition to shareholders. This is a fundamental departure from the traditional corporate model, which is primarily focused on maximizing shareholder value. The B Impact Assessment provides a framework for companies to systematically assess their impact on each of these stakeholder groups.
+**1. Stakeholder Architecture:**
+The B Corp model establishes a robust stakeholder architecture by legally requiring directors to consider the impact of their decisions on all stakeholders, including employees, customers, suppliers, the community, and the environment. This expands the definition of responsibility beyond shareholders, embedding a broader set of rights and duties into the corporate legal DNA. It represents a significant shift from traditional corporate governance, creating a more inclusive and accountable structure.
 
-**2. Value Creation:**
+**2. Value Creation Capability:**
+This pattern explicitly enables collective value creation that transcends purely economic outputs. By mandating a "triple bottom line" of people, planet, and profit, it encourages the generation of social, ecological, and knowledge value. The B Impact Assessment provides a tangible framework for measuring and managing these diverse forms of value, pushing companies to actively improve their collective capabilities.
 
-B Corps are designed to create value for all stakeholders, not just shareholders. They do this by pursuing a triple bottom line of people, planet, and profit. The B Corp model recognizes that business has a responsibility to create positive social and environmental impact, in addition to financial returns. The value created by B Corps is distributed among all stakeholders, including employees who receive better wages and benefits, customers who get high-quality products and services, suppliers who are treated fairly, and communities that benefit from the company's social and environmental initiatives.
+**3. Resilience & Adaptability:**
+The model promotes resilience through its mandatory recertification process every three years, which forces companies to adapt and continuously improve their practices. The legal protection for its mission allows a B Corp to maintain coherence and navigate complexity without defaulting to profit-maximization under stress. This structure helps the organization thrive on change rather than being broken by it.
 
-**3. Value Preservation:**
+**4. Ownership Architecture:**
+While the B Corp model redefines fiduciary duty, it does not fundamentally alter the ownership architecture, which remains rooted in traditional monetary equity. It expands the responsibilities of owners and directors but does not redefine ownership itself as a bundle of rights and responsibilities distributed among a wider set of stakeholders. This remains a significant gap compared to a true commons model.
 
-The B Corp model has several mechanisms in place to ensure that a company's social and environmental mission is preserved over time. The legal requirement to consider all stakeholders protects the company's mission from being compromised by the pressure to maximize short-term profits. The recertification process every three years ensures that B Corps are continuously improving their social and environmental performance. The B Corp community provides a network of support and accountability that helps to keep companies true to their mission.
+**5. Design for Autonomy:**
+The B Corp framework is largely agnostic to a company's internal operating system, making it compatible with a wide range of structures, including those incorporating AI and distributed systems. A DAO or an AI-driven enterprise could become a B Corp, provided it meets the verification and transparency requirements. The primary overhead is in the assessment and reporting process, not in day-to-day operational coordination.
 
-**4. Shared Rights & Responsibilities:**
+**6. Composability & Interoperability:**
+The pattern demonstrates high composability, as many B Corps combine this certification with other standards like Fair Trade, organic, or LEED. It acts as a foundational legal and ethical layer that can be integrated with other operational patterns to build more complex and resilient value-creation systems. This interoperability enhances its utility across different industries and contexts.
 
-The B Corp model distributes rights and responsibilities more broadly than the traditional corporate model. The board of directors has a fiduciary duty to all stakeholders, not just shareholders. This means that they are legally required to consider the impact of their decisions on all stakeholders. This shared responsibility helps to ensure that the company is managed in a way that is fair and equitable to all.
+**7. Fractal Value Creation:**
+The B Corp model exhibits strong fractal properties, as its core logic can be applied to businesses of all sizes, from solo startups to multinational corporations. The scalable nature of the B Impact Assessment and the adaptable legal framework allow the principles of stakeholder governance and multi-faceted value creation to be replicated effectively at different scales.
 
-**5. Systematic Design:**
+**Overall Score: 4 (Value Creation Enabler)**
 
-The B Corp model is a well-designed system that is enabled by a number of key processes and institutions. The B Impact Assessment provides a rigorous and comprehensive framework for measuring and managing social and environmental performance. The legal framework provides a solid foundation for long-term mission alignment. B Lab provides a range of support services to help companies on their B Corp journey. The B Corp community provides a network of support and collaboration.
+**Rationale:**
+The B Corporation model is a powerful Value Creation Enabler that provides a robust and legally defensible framework for balancing purpose with profit. It institutionalizes stakeholder governance and promotes the creation of diverse forms of value. However, it falls short of a complete Value Creation Architecture because it does not fundamentally restructure the nature of ownership, retaining a conventional equity-based model.
 
-**6. Systems of Systems:**
-
-The B Corp model is designed to be compatible with other patterns and systems that are working to create a more just, equitable, and regenerative economy. For example, many B Corps are also certified as Fair Trade, organic, or LEED. The B Corp model can be seen as a meta-pattern that can be used to integrate and amplify the impact of other sustainability standards and certifications.
-
-**7. Fractal Properties:**
-
-The principles of the B Corp model are fractal and can be applied at all scales, from small startups to large multinational corporations. The B Impact Assessment is designed to be scalable and can be customized to the specific needs of different companies. The legal framework is also flexible and can be adapted to different jurisdictions. This fractal nature of the B Corp model allows it to be applied in a wide range of contexts and to have a broad and systemic impact.
-
-**Overall Score: 4/5 (Commons-Aligned)**
-
-The B Corporation model is a significant step towards a more commons-aligned economy. It provides a robust framework for companies to balance purpose and profit and to create value for all stakeholders. However, it is still a for-profit model that operates within the existing capitalist system. To become a more exemplary commons model, the B Corp movement could explore ways to further democratize ownership and governance and to create more direct pathways for community wealth building.
+**Opportunities for Improvement:**
+- Integrate models of distributed ownership (e.g., cooperatives, trusts) to move beyond traditional equity structures.
+- Develop more explicit pathways for sharing governance rights, not just responsibilities, with non-financial stakeholders.
+- Explore integrations with DAOs and other distributed autonomous systems to create next-generation B Corps with lower coordination overhead.
 
 ### 9. Resources & References
 

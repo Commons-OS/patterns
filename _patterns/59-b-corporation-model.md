@@ -77,13 +77,40 @@ The B Corp movement has attracted a diverse range of companies, from well-known 
 
 Artificial intelligence (AI) and automation have the potential to significantly enhance the B Corp model. AI can be used to more accurately measure and track a company's social and environmental impact, making the B Impact Assessment more robust and data-driven. Automation can help to streamline the certification process, making it more accessible to a wider range of companies. AI can also be used to identify new opportunities for social and environmental innovation, helping B Corps to have an even greater positive impact. While AI and automation can be powerful tools, it is important to maintain a human-centric approach. The B Corp model is ultimately about people and relationships, and technology should be used to augment, not replace, human judgment and decision-making. The role of humans will be to set the ethical framework for AI, to interpret the data that it provides, and to ensure that it is being used in a way that is aligned with the values of the B Corp movement. In the future, we can expect to see a greater integration of AI and automation into the B Corp model. This will likely lead to a more sophisticated and data-driven approach to social and environmental impact measurement. We may also see the emergence of new types of B Corps that are focused on developing and deploying AI for social good. However, it will be crucial to ensure that these developments are guided by a strong ethical framework and a commitment to human values.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The B Corp model has a strong focus on stakeholder engagement, but the primary stakeholders are defined as employees, customers, suppliers, community, and the environment. While this is a significant improvement over the traditional shareholder-centric model, it could be expanded to include a more comprehensive mapping of all stakeholders, including future generations and non-human stakeholders. B Corps create value for a wide range of stakeholders, not just shareholders. They create good jobs, provide high-quality products and services, and contribute to the well-being of their communities. However, the focus is still on creating value *within* the existing market system, rather than creating a new type of commons-based economy. The B Corp model helps to preserve value by promoting long-term thinking and continuous improvement. The recertification process ensures that B Corps are constantly striving to improve their social and environmental performance. However, there is a risk that the B Corp certification could be seen as a static achievement, rather than an ongoing journey. The B Corp model gives stakeholders a voice, but it does not necessarily give them a share in the ownership or governance of the company. While some B Corps are employee-owned or have other forms of shared ownership, this is not a requirement of the certification. The B Corp model provides a clear and systematic framework for companies to improve their social and environmental performance. The B Impact Assessment is a powerful tool for measuring and managing impact, and the legal requirement helps to lock in a company's mission. The B Corp movement is a powerful example of a system of systems. It is a global network of companies, organizations, and individuals who are working together to create a more just and sustainable economy. The B Corp model is also designed to be compatible with other standards and certifications, such as Fair Trade and LEED. The principles of the B Corp model can be applied at all scales, from individual teams to entire ecosystems. A team can use the B Impact Assessment to measure and improve its impact, and a group of companies can work together to create a B Corp-certified supply chain.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**Overall Score**: 3/5 (Transitional)
+**1. Stakeholder Architecture:**
+The B Corp model mandates a legal responsibility to a broad set of stakeholders, including employees, customers, suppliers, the community, and the environment. This is a significant expansion of the traditional corporate focus on shareholders. However, the framework could be more explicit in its inclusion of future generations and non-human entities as first-class stakeholders with defined rights.
 
-The B Corporation model is a significant step forward in the evolution of business, but it is still a transitional model. It is helping to shift the mindset of business leaders and to create a new narrative about the role of business in society. However, it is still operating within the confines of the existing capitalist system. To become a truly commons-aligned model, the B Corp movement will need to embrace a more radical vision of economic transformation, one that is based on principles of shared ownership, democratic governance, and a commitment to the common good.
+**2. Value Creation Capability:**
+The model excels at enabling collective value creation beyond purely economic terms. The B Impact Assessment provides a robust framework for measuring and improving social, environmental, and knowledge value. This directly supports the commons principle of creating diverse forms of value for a wide range of stakeholders.
+
+**3. Resilience & Adaptability:**
+By requiring companies to consider a wider range of stakeholder interests, the B Corp model fosters greater resilience. The mandatory recertification every three years also encourages adaptability and continuous improvement, helping companies maintain coherence and thrive in a complex, changing world.
+
+**4. Ownership Architecture:**
+The B Corp certification does not fundamentally alter the ownership architecture of a company. While it is compatible with models like co-ops, it primarily redefines fiduciary duty within traditional ownership structures. It defines new responsibilities but does not inherently create new ownership rights beyond monetary equity.
+
+**5. Design for Autonomy:**
+The B Corp model is designed for traditional, human-run, for-profit companies. While a B Corp could utilize AI or distributed systems, the framework itself is not inherently designed for them and has a relatively high coordination overhead. It is not optimized for the speed and autonomy of DAOs or other automated systems.
+
+**6. Composability & Interoperability:**
+The B Corp certification is highly composable, designed to work alongside other standards like Fair Trade or organic certifications. This allows companies to build a layered "stack" of value commitments. The global B Corp community also creates a strong network, enhancing interoperability between value-aligned organizations.
+
+**7. Fractal Value Creation:**
+The principles of the B Corp model can be applied at multiple scales. A single department can use the B Impact Assessment for internal goal-setting, a company can become certified, and a network of B Corps can collaborate to create value across a supply chain. This demonstrates a strong capacity for fractal value creation.
+
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+The B Corporation model is a crucial transitional framework that bridges traditional capitalism and a value-creation economy. It introduces a broader definition of success and legally protects it. However, it still operates within the paradigm of the for-profit corporation and does not fully embrace the more transformative concepts of shared ownership and decentralized governance that are central to a true commons.
+
+**Opportunities for Improvement:**
+- Integrate a more explicit definition of rights for future generations and the environment into the stakeholder architecture.
+- Develop pathways for B Corps to transition towards more distributed ownership and governance models.
+- Create specific guidance on how to apply the B Corp framework to DAOs and other autonomous systems.
 
 ### 9. Resources & References
 
@@ -92,38 +119,3 @@ The B Corporation model is a significant step forward in the evolution of busine
 *   *The B Corp Handbook: How to Use Business as a Force for Good* by Ryan Honeyman and Tiffany Jana
 *   *Benefit Corporation Law and Governance: Pursuing Profit with a Purpose* by Frederick H. Alexander
 *   *The New Capitalist Manifesto: Building a Disruptively Better Business* by Umair Haque
-
-**Organizations & Communities**:
-
-*   **B Lab:** The non-profit organization that certifies B Corporations and created the B Corp movement.
-*   **Sistema B:** The B Corp movement in Latin America.
-*   **The B Team:** A group of global business leaders who are working to create a new, more sustainable model of capitalism.
-
-**Tools & Platforms**:
-
-*   **B Impact Assessment:** The free, confidential online tool that measures a company's social and environmental performance.
-*   **B Hive:** An online community for B Corps to connect, collaborate, and share best practices.
-
-**References**:
-
-[1] B Lab. (n.d.). *About B Lab*. Retrieved from https://www.bcorporation.net/en-us/movement/about-b-lab
-
-[2] Wikipedia. (2023, October 26). *B Corporation (certification)*. Retrieved from https://en.wikipedia.org/wiki/B_Corporation_(certification)
-
-[3] B Lab. (n.d.). *Certification*. Retrieved from https://www.bcorporation.net/en-us/certification
-
-[4] Marquis, C. (2020). *Better Business: How the B Corp Movement Is Remaking Capitalism*. Yale University Press.
-
-[5] Rawhouser, H., Cummings, M., & Newbert, S. L. (2019). Social impact measurement: A new frontier for institutional theory. *Academy of Management Annals*, *13*(1), 200-237.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/59-b-corporation-model/](https://commons-os.github.io/patterns/domain/59-b-corporation-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/59-b-corporation-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/59-b-corporation-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

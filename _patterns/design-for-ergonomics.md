@@ -15,7 +15,7 @@ tags:
   era: [industrial, cognitive]
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -127,21 +127,42 @@ Key considerations for Design for Ergonomics in the cognitive era include:
 
 By embracing the principles of cognitive ergonomics, organizations can create work environments that are not only physically safe and comfortable, but also mentally stimulating and supportive. This will be crucial for attracting and retaining talent in the cognitive era, and for unlocking the full potential of the human mind.
 
-# 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Design for Ergonomics pattern aligns with the principles of Commons OS in several key ways, particularly in its focus on human well-being, collaboration, and sustainability. The following table provides an assessment of the pattern against the seven dimensions of commons alignment:
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Score (1-5) | Rationale |
-| :--- | :--- | :--- |
-| **Openness & Transparency** | 4 | The principles of ergonomics are widely documented and publicly available. The practice of participatory ergonomics, a key component of this pattern, relies on open communication and transparency between employees and management. |
-| **Decentralization & Federation** | 3 | While not explicitly a decentralizing pattern, Design for Ergonomics empowers individuals by giving them more control over their immediate work environment. It can be implemented in both centralized and decentralized organizational structures. |
-| **Community & Collaboration** | 4 | Participatory ergonomics fosters a strong sense of community and collaboration by bringing employees together to solve common problems. It encourages a culture of shared responsibility for safety and well-being. |
-| **Sustainability & Resilience** | 5 | By reducing the risk of injuries and improving employee well-being, Design for Ergonomics contributes to the long-term sustainability of the organization. A healthy and engaged workforce is more resilient and better able to adapt to change. |
-| **Equity & Inclusion** | 4 | A core principle of ergonomics is to design for a wide range of human variability. By creating adjustable workstations and tools, organizations can better accommodate the needs of a diverse workforce, including individuals with disabilities. |
-| **Pluralism & Diversity** | 3 | The pattern itself is universal, but its implementation can and should be adapted to the specific needs of different individuals and groups. It supports a diversity of body types and physical abilities. |
-| **Subsidiarity & Autonomy** | 4 | Design for Ergonomics empowers individuals with greater autonomy over their physical workspace. By providing adjustable furniture and tools, it allows people to customize their environment to suit their own needs and preferences. |
+**1. Stakeholder Architecture:**
+This pattern primarily focuses on the human stakeholder, defining the right to a safe, comfortable, and efficient work environment and the responsibility to participate in the design process. It implicitly assigns the responsibility for providing these conditions to the organization. However, it does not explicitly define rights or responsibilities for other stakeholders like AI/machines (beyond being tools), the environment, or future generations, which limits its scope as a full stakeholder architecture.
 
-**Overall Commons Alignment Score: 3**
+**2. Value Creation Capability:**
+The pattern strongly enables collective value creation beyond direct economic output. It directly generates social value by improving worker health and well-being, and resilience value by creating a more sustainable and less injury-prone workforce. This leads to enhanced productivity and knowledge creation, as a comfortable and focused workforce is more capable of high-quality work and innovation.
+
+**3. Resilience & Adaptability:**
+Design for Ergonomics is a key enabler of resilience. By minimizing physical and cognitive strain, it enhances the capacity of individuals and the organization to maintain coherence and performance under stress. The principles of encouraging movement, reducing static loads, and designing for neutral postures help systems adapt to the dynamic nature of work and prevent the degradation of human capability over time.
+
+**4. Ownership Architecture:**
+The pattern does not explicitly redefine ownership in terms of rights and responsibilities over value creation. Its concept of “employee ownership” is framed as responsibility for personal safety rather than a stake in the system's output. While it establishes a worker's right to a safe environment, it operates within a traditional model of employment and does not venture into new forms of shared ownership over the value generated from improved well-being and productivity.
+
+**5. Design for Autonomy:**
+This pattern is highly compatible with and foundational for autonomous systems. The The Design for Ergonomics pattern aligns with the principles of Commons OS in several key ways, particularly in its focus on human well-being, collaboration, and sustainability. The following table provides an assessment of the pattern against the seven dimensions of commons alignment:
+
+Cognitive Era Considerations” section directly addresses Human-AI collaboration, and optimizing the human-machine interface is critical for integrating autonomous agents effectively. By reducing human cognitive and physical load, it frees up capacity for supervising, collaborating with, and managing AI and distributed systems, thus lowering coordination overhead.
+
+**6. Composability & Interoperability:**
+As a set of fundamental design principles, this pattern is exceptionally composable. It can be integrated as a foundational layer into nearly any other pattern involving human activity, from software development methodologies to manufacturing processes and organizational governance. Applying ergonomic principles enhances the effectiveness and sustainability of these larger systems by ensuring the human component is not a source of systemic friction or failure.
+
+**7. Fractal Value Creation:**
+The logic of fitting the task to the user scales fractally. It applies to an individual's interaction with a single tool, a team's design of a collaborative workspace, an organization's layout of a factory or office, and a city's design of public transit and spaces. At each scale, the core principle of optimizing the environment for human well-being and performance remains the same, enabling value creation from the micro to the macro level.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Design for Ergonomics is a powerful enabler of collective value creation, directly contributing to social value and system resilience by focusing on human well-being. It is highly composable and its logic is fractal, making it a foundational pattern for building healthy, high-performing systems. It scores a 4 instead of a 5 because it lacks a native, explicit stakeholder and ownership architecture beyond the individual human worker, which is a key component of a complete value creation architecture in the v2.0 framework.
+
+**Opportunities for Improvement:**
+- Explicitly define the rights and responsibilities of the organization and technology providers in the stakeholder architecture.
+- Develop a framework for sharing the economic value created through improved productivity and reduced health costs with the employees who actively participate in the ergonomic process.
+- Extend the principles to include ecological ergonomics, considering the environmental impact of materials and energy consumption in the design of workspaces and tools.
 
 # 9. Resources & References
 

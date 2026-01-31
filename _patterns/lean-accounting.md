@@ -146,25 +146,40 @@ While AI can automate many tasks, it is unlikely to completely replace human acc
 
 In the future, we can expect to see even more sophisticated AI-powered tools for lean accounting. These tools will be able to provide real-time insights into business performance and to help organizations to make better decisions. We can also expect to see a greater emphasis on data analytics and data visualization in lean accounting. As organizations collect more and more data, the ability to analyze and interpret this data will become increasingly important. Lean accounting will need to evolve to keep pace with these changes and to continue to provide relevant and valuable information to the organization.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-**1. Stakeholder Mapping:** Lean accounting primarily focuses on internal stakeholders, such as managers and employees. The goal is to provide them with the information they need to make better decisions and to improve the performance of the organization. While this can indirectly benefit external stakeholders, such as customers and investors, they are not the primary focus. A more commons-aligned approach would explicitly consider the needs of all stakeholders, including the community and the environment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**2. Value Creation:** Lean accounting is focused on creating value for the customer by eliminating waste. This is a positive step, but it is a narrow view of value. A more commons-aligned approach would consider a broader range of value, including social and environmental value.
+**1. Stakeholder Architecture:**
+Lean Accounting primarily defines Rights and Responsibilities for internal stakeholders (managers, employees) and customers. It optimizes information flow to empower operational teams and deliver value as defined by the customer. However, its architecture does not explicitly account for broader stakeholders like the environment, the community, or future generations, limiting its scope to the immediate economic system.
 
-**3. Value Preservation:** Lean accounting supports value preservation by promoting continuous improvement and the elimination of waste. This can help to ensure the long-term sustainability of the organization. However, it does not explicitly address the issue of how to preserve shared resources, such as the environment.
+**2. Value Creation Capability:**
+The pattern strongly enables economic value creation by focusing on waste reduction and efficiency. It generates knowledge value by providing clear, timely information to support continuous improvement. However, it falls short of enabling a broader collective value creation process, as it does not inherently measure or optimize for social, ecological, or resilience value beyond the company's direct interests.
 
-**4. Shared Rights & Responsibilities:** Lean accounting can empower employees by giving them the information they need to make better decisions. This can be seen as a form of shared responsibility. However, it does not explicitly address the issue of shared rights, such as the right of employees to have a say in the governance of the organization.
+**3. Resilience & Adaptability:**
+Lean Accounting enhances organizational resilience by promoting a culture of continuous improvement and adaptability. By providing real-time, value-stream-focused data, it helps systems respond to changing customer needs and market conditions, maintaining coherence under operational stress. Its emphasis on flow and pull systems helps buffer against supply chain volatility.
 
-**5. Systematic Design:** Lean accounting is a systematic approach to accounting that is designed to support a lean enterprise. It is a good example of how to design a system that is aligned with a particular set of principles.
+**4. Ownership Architecture:**
+The pattern redefines ownership of information, shifting it from a siloed accounting function to a more distributed model where operational teams have the Right to access and the Responsibility to act on performance data. However, it does not address ownership of the enterprise itself or the assets it manages in terms of broader stakeholder equity or stewardship rights.
 
-**6. Systems of Systems:** Lean accounting is designed to be part of a larger system of lean management. It is a good example of how to design a system that can be integrated with other systems to create a more effective whole.
+**5. Design for Autonomy:**
+Lean Accounting is highly compatible with autonomous systems. Its emphasis on simplified, real-time data streams and plain-language reporting makes it ideal for integration with AI and distributed ledgers. The low coordination overhead of its reporting mechanisms (e.g., Box Scores) supports decentralized decision-making.
 
-**7. Fractal Properties:** The principles of lean accounting can be applied at all levels of the organization, from the individual to the entire enterprise. This is a good example of a system with fractal properties.
+**6. Composability & Interoperability:**
+The pattern is explicitly designed to be a component of a larger Lean management system, making it highly composable with other lean patterns. It can be integrated with practices like Value Stream Mapping, Kaizen, and Hoshin Kanri to build a comprehensive value-creation system. Its principles can also be adapted to work with other frameworks like Agile or Holacracy.
+
+**7. Fractal Value Creation:**
+The logic of Lean Accounting is fractal. The core principles of value stream costing, simplified reporting, and continuous improvement can be applied at the level of a single team, a department, a whole organization, and even across a network of collaborating organizations. This allows the value-creation logic to scale effectively.
 
 **Overall Score: 3 (Transitional)**
 
-Lean accounting is a significant improvement over traditional accounting, but it is still a transitional practice. It is focused on creating value for the customer and the organization, but it does not explicitly consider the needs of other stakeholders, such as the community and the environment. To become more commons-aligned, lean accounting would need to broaden its focus to include a wider range of stakeholders and a broader definition of value.
+**Rationale:**
+Lean Accounting is a powerful transitional pattern that moves beyond traditional, siloed financial reporting toward a more dynamic, value-focused system. Its strengths lie in its ability to improve economic efficiency, empower teams with information, and adapt to change. However, its alignment with a true commons is limited by its narrow definition of value and its focus on internal and customer stakeholders, which requires significant adaptation to embrace a multi-stakeholder, holistic value-creation model.
+
+**Opportunities for Improvement:**
+- Integrate metrics for social and ecological value into the Box Score reports to provide a more holistic view of performance.
+- Expand the definition of "customer" to include all stakeholders who receive value from the value stream, including the community and environment.
+- Develop mechanisms for stakeholders to participate in the governance of the accounting system itself, ensuring it reflects their needs and values.
 
 ### 9. Resources & References
 

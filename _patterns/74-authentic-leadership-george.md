@@ -15,7 +15,7 @@ tags:
   era: [cognitive]
   origin: [academic, bill-george]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -154,49 +154,40 @@ Despite the potential of AI to augment authentic leadership, there are certain a
 
 As AI and automation become more integrated into the workplace, the concept of authentic leadership is likely to evolve. The increasing use of data and algorithms in decision-making will create new challenges for leaders in maintaining transparency and in ensuring that their decisions are aligned with their values. Authentic leaders will need to be able to explain and justify the use of AI in their organizations, and to address any ethical concerns that may arise. At the same time, the automation of routine tasks will free up leaders to focus more on the human aspects of their role, such as building relationships, coaching and mentoring their teams, and creating a culture of purpose and meaning. In this context, the principles of authentic leadership will become more important than ever.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-**1. Stakeholder Mapping:**
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-Authentic leadership inherently encourages a broader view of stakeholders beyond just shareholders. The focus on purpose, values, and relationships naturally extends to employees, customers, suppliers, and the community. An authentic leader, guided by an internalized moral perspective, is more likely to consider the impact of their decisions on all parties involved. However, the comprehensiveness of this mapping is not explicitly prescribed by the pattern itself. It depends heavily on the individual leader's level of awareness and the specific context. While the principles are conducive to a multi-stakeholder approach, the framework does not offer a systematic process for identifying and engaging all relevant stakeholders, which can lead to gaps. For instance, a leader might focus on employees and customers but overlook the environmental impact or the needs of the local community if those are not part of their core values.
+**1. Stakeholder Architecture:**
+This pattern encourages a broader stakeholder view through its emphasis on an internalized moral perspective and relational transparency. However, it does not offer a formal architecture for defining Rights and Responsibilities. The scope of stakeholder consideration (e.g., including the environment or future generations) is left to the individual leader's values rather than being a systemic feature of the pattern itself.
 
+**2. Value Creation Capability:**
+Authentic Leadership excels at creating non-economic value, particularly social and knowledge value. By fostering psychological safety and trust, it enables teams to collaborate more effectively, leading to increased innovation, organizational commitment, and collective resilience. This directly enhances the system's capability to generate diverse forms of value beyond financial profit.
 
-**2. Value Creation:**
+**3. Resilience & Adaptability:**
+The pattern builds resilience by creating a high-trust culture where teams can navigate uncertainty and change more effectively. The principle of 'Balanced Processing' encourages leaders to adapt to complexity by considering diverse viewpoints, preventing rigid decision-making. This focus on relational strength and open dialogue helps the system maintain coherence under stress.
 
-Authentic leadership creates value in multiple forms. For **employees**, it fosters a positive work environment, increases job satisfaction, engagement, and well-being, and promotes personal and professional growth. For the **organization**, this translates into improved performance, higher retention rates, increased creativity, and a stronger, more resilient culture. For **customers**, the integrity and purpose-driven nature of the organization can lead to greater trust and loyalty. The primary beneficiaries are internal stakeholders (employees and the organization itself), but the positive effects can ripple outwards. The value created is not purely economic; it also includes social and psychological value, such as a sense of purpose, community, and trust.
+**4. Ownership Architecture:**
+The pattern implicitly defines ownership through responsibility and purpose, moving beyond a purely financial view. It fosters a sense of psychological ownership among team members by connecting them to a shared mission. However, it does not explicitly address the formal architecture of ownership, such as the distribution of equity, governance rights, or decision-making power.
 
-**3. Value Preservation:**
+**5. Design for Autonomy:**
+Authentic Leadership is highly compatible with autonomous systems. Its principles of transparency, high trust, and purpose-driven work reduce the need for top-down control and micromanagement, lowering coordination overhead. This makes it a suitable leadership philosophy for guiding DAOs, distributed teams, and collaborating with AI agents that require clear ethical frameworks to operate effectively.
 
-The relevance of authentic leadership is maintained over time through its focus on timeless principles like integrity, self-awareness, and relationship-building. These are not fleeting management fads but enduring human qualities that are always relevant in leadership. The pattern's emphasis on continuous learning and self-reflection allows leaders to adapt and evolve with changing contexts while remaining true to their core values. Value is preserved by building a sustainable culture that is not dependent on a single charismatic leader but is embedded in the organization's DNA. However, the preservation of value is at risk if the leader's 
+**6. Composability & Interoperability:**
+This pattern is highly composable, serving as a foundational cultural layer for other patterns. It integrates seamlessly with frameworks like Agile, Holacracy, and Learning Organization, which depend on the trust and psychological safety that Authentic Leadership fosters. It provides the human-centric 'operating system' that allows more structured, decentralized patterns to function effectively.
 
-**3. Value Preservation:**
+**7. Fractal Value Creation:**
+Authentic Leadership demonstrates strong fractal properties, as its core principles can be applied at any scale. The value-creation logic of leading with purpose, transparency, and integrity works for individuals, teams, entire organizations, and even networks of organizations. This allows the pattern of resilient value creation to replicate and scale throughout a system.
 
-The relevance of authentic leadership is maintained over time through its focus on timeless principles like integrity, self-awareness, and relationship-building. These are not fleeting management fads but enduring human qualities that are always relevant in leadership. The pattern's emphasis on continuous learning and self-reflection allows leaders to adapt and evolve with changing contexts while remaining true to their core values. Value is preserved by building a sustainable culture that is not dependent on a single charismatic leader but is embedded in the organization's DNA. However, the preservation of value is at risk if the leader's authentic self is not aligned with the long-term health of the organization or its ecosystem. If a leader's authentic values are, for example, excessively risk-averse, it might stifle innovation and hinder the organization's ability to adapt.
+**Overall Score: 4 (Value Creation Enabler)**
 
+**Rationale:**
+Authentic Leadership is a powerful enabler of collective value creation. It establishes the essential cultural conditions—trust, psychological safety, and shared purpose—that are prerequisites for a resilient, adaptive commons. While it is not a complete architectural framework itself, it provides the foundational human-centric layer upon which more complex governance and ownership structures can be built. Its primary strength lies in shifting the focus from resource management to enabling human capability.
 
-**4. Shared Rights & Responsibilities:**
-
-Authentic leadership promotes a sense of shared responsibility by empowering employees and fostering a culture of ownership. By delegating authority and encouraging participation, it distributes responsibility for achieving organizational goals. However, the distribution of *rights* is less explicit. While it fosters an environment where employees have the *right* to speak up and be heard, it does not inherently address formal governance structures or the distribution of decision-making power and ownership. The ultimate authority still typically rests with the leader. The model is more about creating a responsible and empowered followership than about creating a truly democratized workplace with formally shared rights.
-
-
-**5. Systematic Design:**
-
-This is a weaker area for the Authentic Leadership pattern. It is more of a leadership philosophy or style than a systematic, designed process. It provides principles and characteristics but lacks a formal methodology or a set of prescribed tools and processes for implementation. The systems that enable it are often informal and culturally embedded, such as open communication channels, 360-degree feedback mechanisms, and values-based hiring and promotion processes. While these systems are supportive, they are not an inherent part of the pattern's definition. An organization would need to consciously design and implement these systems to support the practice of authentic leadership; the pattern itself does not provide the blueprint.
-
-
-**6. Systems of Systems:**
-
-Authentic Leadership composes well with other organizational patterns, particularly those focused on collaboration, learning, and purpose. It can be a foundational layer for patterns like **Agile Methodologies**, which require high levels of trust and open communication. It enables patterns like **Learning Organization** by fostering the psychological safety needed for continuous learning and improvement. It is also highly compatible with **Purpose-Driven Business**, as it provides a leadership framework for operationalizing a company's mission and values. However, it can conflict with more hierarchical, command-and-control patterns. Its effectiveness is enhanced when it is part of a coherent system of mutually reinforcing patterns that promote openness, trust, and empowerment.
-
-
-**7. Fractal Properties:**
-
-Authentic Leadership exhibits strong fractal properties. The core principles of self-awareness, transparency, balanced processing, and an internalized moral perspective can be applied at any scale. An individual can practice authentic leadership in their personal interactions. A team leader can create an authentic micro-culture within their team. A department head can foster authenticity across multiple teams. And a CEO can set the tone for the entire organization. The pattern's principles are just as relevant for a small startup as they are for a large multinational corporation. This scalability and applicability across different levels is one of its key strengths.
-
-
-**Overall Score: 3/5 (Transitional)**
-
-Authentic Leadership is a significant step away from traditional, extractive leadership models. It places a much-needed emphasis on ethics, relationships, and purpose, which aligns with many commons-oriented principles. It excels in fostering human-centric value, building trust, and can be applied fractally across an organization. However, it is rated as **Transitional** because it is primarily a leader-centric model and lacks the systematic design and explicit focus on shared governance that would characterize a fully commons-aligned pattern. While it creates the *conditions* for a more commons-oriented organization, it does not provide the formal structures or processes to guarantee it. The impact is still highly dependent on the individual leader's values and interpretation. To become more commons-aligned, the pattern could be enhanced by integrating more systematic processes for stakeholder engagement and by incorporating mechanisms for more formally distributing rights and decision-making power, moving from a model of 'leader and followers' to one of 'co-stewards' of a shared purpose.
+**Opportunities for Improvement:**
+- Integrate a formal stakeholder mapping process to ensure all relevant stakeholders (including non-human and future generations) are considered.
+- Combine with patterns that explicitly define shared ownership and governance rights to move from a leader-follower model to a co-stewardship model.
+- Develop a lightweight 'playbook' that helps organizations systematically cultivate authentic leadership, moving it from a personal philosophy to a replicable organizational capability.
 
 ### 9. Resources & References
 

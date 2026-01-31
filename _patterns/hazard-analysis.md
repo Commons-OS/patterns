@@ -45,7 +45,41 @@ repository: https://github.com/commons-os/patterns
 
 ## 7. Cognitive Era Considerations
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
+
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
+
+**1. Stakeholder Architecture:**
+Hazard Analysis primarily focuses on the safety of workers and the public, defining responsibilities for employers and employees to maintain a safe environment. While this is a crucial aspect of stakeholder management, the pattern does not explicitly extend its framework to include the rights and responsibilities of non-human stakeholders such as the environment, autonomous agents, or future generations. Its stakeholder architecture is therefore human-centric and focused on immediate operational safety.
+
+**2. Value Creation Capability:**
+The pattern directly enables the creation of safety and resilience value by preventing accidents, injuries, and operational disruptions. This contributes to social value by protecting human well-being and economic value by reducing costs associated with incidents. While it serves as a foundational layer for other forms of value creation, it does not inherently generate new knowledge, ecological, or social value beyond the scope of risk mitigation.
+
+**3. Resilience & Adaptability:**
+Hazard Analysis is a core practice for building systemic resilience. By proactively identifying and mitigating risks, it helps systems maintain coherence under stress and adapt to changing conditions. The iterative nature of the process, with its emphasis on continuous monitoring and review, allows for adaptation to new hazards and evolving operational contexts, making it a key enabler of long-term viability.
+
+**4. Ownership Architecture:**
+The pattern operates within existing ownership structures, assigning responsibilities for safety to those who own and operate systems. It promotes a sense of distributed accountability for risk management, but it does not fundamentally redefine ownership as a bundle of rights and responsibilities. The focus remains on operational control and liability rather than a broader stewardship-based ownership model.
+
+**5. Design for Autonomy:**
+Hazard Analysis is highly compatible with and essential for the design of autonomous systems. As AI and DAOs take on more complex tasks, a systematic process for identifying and mitigating hazards becomes even more critical. The structured nature of Hazard Analysis can be encoded into algorithms and smart contracts to automate safety assessments and responses, thereby reducing coordination overhead and enhancing system reliability.
+
+**6. Composability & Interoperability:**
+The pattern is highly composable and interoperable, serving as a foundational layer for a wide range of other patterns. It can be combined with patterns for quality management, process improvement, and organizational design to create more robust and resilient systems. Its modular nature allows it to be integrated into diverse technological and organizational stacks, from manufacturing processes to decentralized digital ecosystems.
+
+**7. Fractal Value Creation:**
+The logic of Hazard Analysis can be applied fractally across multiple scales. It can be used to assess the risks of a single task, a complex industrial process, an entire supply chain, or even a global socio-technical system. The same core principles of proactive identification, assessment, and control of hazards can be applied at each level, making it a scalable pattern for creating safety and resilience value.
+
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+Hazard Analysis is a foundational pattern for ensuring system safety and resilience, which are preconditions for any form of sustainable value creation. While its current application is often limited to operational and human-centric risks, its principles are highly adaptable and essential for the development of more complex, autonomous, and interconnected systems. It is therefore considered a transitional pattern with significant potential to be expanded into a more comprehensive value creation architecture.
+
+**Opportunities for Improvement:**
+- Extend the stakeholder analysis to include non-human agents, such as the environment and AI systems, defining their rights and responsibilities within the system.
+- Broaden the scope of value creation to explicitly include ecological, social, and knowledge value, not just the mitigation of economic and human losses.
+- Integrate the pattern with decentralized governance and ownership models to create more resilient and equitable systems for managing common-pool resources and risks.
+
 
 ## 9. Resources & References
 

@@ -15,7 +15,7 @@ tags:
   era: [industrial, cognitive]
   origin: [Japan]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -198,38 +198,40 @@ The cognitive era is also an era of data. The principle of data-driven decision-
 
 Finally, digital collaboration tools have the potential to revolutionize the "catchball" process. In the past, catchball was often a series of face-to-face meetings. Today, tools like Slack, Microsoft Teams, and Asana can create a more continuous and inclusive dialogue, allowing for real-time feedback, transparent communication, and a more dynamic and distributed form of strategic planning. This enables a shift from a purely top-down cascade of goals to a more networked and collaborative model, where strategic ideas can emerge from anywhere in the organization.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Commons Alignment Assessment evaluates how well the Hoshin Planning pattern aligns with the core principles of a commons-based approach to organizing. This assessment considers seven key dimensions, providing a score from 1 (low alignment) to 5 (high alignment) for each, along with a justification. The overall score reflects the pattern's potential to foster a collaborative, resilient, and purpose-driven organizational commons.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Score | Justification |
-| :--- | :--- | :--- |
-| **1. Openness & Transparency** | 4 | Hoshin Kanri promotes transparency by making strategic objectives, initiatives, and performance metrics visible to the entire organization, often through tools like the X-Matrix and visual management boards. This shared visibility is a cornerstone of the methodology. However, the initial strategy formation at the highest level can sometimes be less than fully transparent, which is why it doesn't receive a perfect score. |
-| **2. Decentralization & Autonomy** | 3 | While Hoshin Kanri is fundamentally a top-down goal-setting process, the "catchball" mechanism introduces a significant element of decentralization. It empowers teams at lower levels to negotiate goals and determine *how* they will achieve them, fostering a degree of autonomy in execution. However, the strategic direction remains centrally defined, limiting full decentralization. |
-| **3. Collaboration & Community** | 4 | The catchball process is a powerful engine for collaboration, breaking down silos and requiring dialogue across different functions and hierarchical levels. It fosters a sense of shared ownership and community by ensuring that everyone has a voice in the strategic plan and understands their role in its success. |
-| **4. Learning & Adaptation** | 5 | Hoshin Kanri is deeply rooted in the Plan-Do-Check-Act (PDCA) cycle, making it an inherently adaptive and learning-oriented methodology. The regular review cycles (monthly, quarterly, and annually) are designed to facilitate learning, problem-solving, and continuous course correction based on real-world feedback and data. |
-| **5. Purpose & Values Alignment** | 5 | The primary purpose of Hoshin Kanri is to align the entire organization around a shared vision and a set of critical, long-term objectives. It creates a direct and visible link between the organization's overarching purpose and the daily work of every individual, which is the highest form of purpose and values alignment. |
-| **6. Resource Stewardship & Sustainability** | 3 | By focusing the organization on a "vital few" objectives, Hoshin Kanri inherently discourages the waste of resources on non-essential activities. It promotes the efficient and effective use of organizational capacity. However, it does not explicitly address broader ecological or social sustainability concerns unless they are part of the defined strategic objectives. |
-| **7. Fairness & Equity** | 3 | The catchball process provides a mechanism for fairness by giving employees a voice and an opportunity to influence the goals they are responsible for. The transparency of the process can also help to ensure that performance is evaluated fairly based on agreed-upon metrics. However, the initial goal-setting is still a top-down process, which can perpetuate existing power structures. |
+**1. Stakeholder Architecture:**
+Hoshin Kanri defines a clear architecture of Rights and Responsibilities primarily for internal stakeholders like leadership, managers, and employees. The "catchball" process grants employees the Right to provide feedback on strategic goals, creating a Responsibility for management to consider this input. However, the framework does not explicitly include non-human stakeholders like the environment or future generations in its core design.
 
-**Overall Commons Alignment Score: 3.9 / 5**
+**2. Value Creation Capability:**
+The pattern strongly enables the creation of knowledge and resilience value by aligning the entire organization on a shared purpose and fostering a culture of continuous improvement. While its primary focus is often on economic output, its emphasis on "effectiveness before efficiency" encourages the pursuit of the "right" goals, which can include social or ecological objectives if defined in the strategy. The collective capability is enhanced through the alignment of individual actions towards a common vision.
 
-## 9. Resources & References
+**3. Resilience & Adaptability:**
+Resilience is a core strength of Hoshin Kanri, embedded through the integrated PDCA (Plan-Do-Check-Act) cycle and the cadence of regular reviews. This structure allows the system to thrive on change by methodically checking progress against plans and adapting tactics based on real-world feedback. This ensures the organization maintains coherence and focus even when facing complexity or unexpected challenges.
 
-1.  [Hoshin Kanri - Wikipedia](https://en.wikipedia.org/wiki/Hoshin_Kanri)
-2.  [Hoshin Kanri: Policy Deployment Method | Lean Production](https://www.leanproduction.com/hoshin-kanri/)
-3.  [Using the Hoshin Kanri Method for Strategic Planning [2025] - Asana](https://asana.com/resources/hoshin-kanri)
-4.  [How Hoshin Planning Transforms Businesses: A Strategic Approach - The Strategy Institute](https://www.thestrategyinstitute.org/insights/how-hoshin-planning-transforms-businesses-a-strategic-approach)
-5.  [Hoshin Kanri: a technique for strategic quality management - Taylor & Francis Online](https://www.tandfonline.com/doi/abs/10.1080/105294100317173862)
+**4. Ownership Architecture:**
+The pattern establishes a robust architecture of ownership defined as clear responsibility and accountability for strategic initiatives and their outcomes. The Hoshin Matrix explicitly assigns owners to each objective and metric, ensuring that someone is answerable for progress. This concept of ownership is about stewardship of goals rather than monetary equity or rights to the value created.
 
----
+**5. Design for Autonomy:**
+While originating from a hierarchical context, Hoshin Kanri is adaptable to more autonomous systems. The "Cognitive Era Considerations" section notes its compatibility with Agile and digital collaboration tools, which can reduce coordination overhead. By setting a clear "True North," it allows for decentralized execution and local autonomy within strategic boundaries, making it compatible with distributed organizational designs.
 
-## Navigation
+**6. Composability & Interoperability:**
+Hoshin Kanri is highly composable, designed to act as a high-level strategic layer that integrates with other patterns and methodologies. It explicitly combines with execution frameworks like Agile, Scrum, and Lean Startup, providing the strategic direction while these methods handle the iterative work. This allows it to be a core component in building larger, more complex value-creation systems.
 
-- **Page URL**: [https://commons-os.github.io/patterns/domain/hoshin-planning-strategic-planning/](https://commons-os.github.io/patterns/domain/hoshin-planning-strategic-planning/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/hoshin-planning-strategic-planning.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/hoshin-planning-strategic-planning.md)
+**7. Fractal Value Creation:**
+The pattern exhibits a strong fractal nature through its goal cascading process. The logic of setting a vision, defining breakthrough objectives, creating annual goals, and deploying them can be applied at the scale of the entire organization, a division, a department, or a small team. This ensures that the value-creation logic remains coherent and self-similar across multiple scales of the system.
 
----
+**Overall Score: 4 (Value Creation Enabler)**
 
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
+**Rationale:**
+Hoshin Kanri is a powerful and proven framework for enabling collective value creation by aligning a complex system of stakeholders towards a few critical goals. Its built-in mechanisms for feedback (Catchball) and adaptation (PDCA) make it highly resilient. While it doesn't natively incorporate a broad stakeholder view beyond the organization, its structure is flexible enough to be adapted for modern, multi-stakeholder commons if the "True North" is defined in those terms.
+
+**Opportunities for Improvement:**
+- Explicitly integrate a multi-stakeholder analysis (including environment, community, future generations) into the initial vision-setting step.
+- Adapt the "catchball" process to include feedback loops with external stakeholders, not just internal employees.
+- Evolve the concept of "ownership" in the Hoshin Matrix to include stewardship for shared resources and commons, not just accountability for KPIs.
+
+
+

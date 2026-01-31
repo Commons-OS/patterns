@@ -15,7 +15,7 @@ tags:
   era: [digital, cognitive]
   origin: []
   status: draft
-  commons_alignment: 5
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -195,46 +195,40 @@ Another challenge is the **ethical implications of using AI**. AI algorithms are
 
 In conclusion, the cognitive era presents a new frontier for social accounting. By embracing the opportunities and addressing the challenges, organizations can harness the power of technology to create a more sustainable and equitable world. This will require a commitment to innovation, a focus on ethical considerations, and a willingness to engage with stakeholders in new and creative ways.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Commons Alignment Assessment evaluates how well the "Social Accounting - Stakeholder Impact" pattern aligns with the principles of a commons-based approach. This assessment considers seven key dimensions of commons alignment, providing a framework for understanding how the pattern can contribute to the creation and maintenance of a healthy and vibrant commons.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-<br>
+**1. Stakeholder Architecture:**
+The pattern establishes a robust stakeholder architecture by defining the Right of all stakeholders to be heard and informed. It mandates the identification and engagement of all affected parties, including employees, communities, and the environment, thereby distributing the Responsibility for accountability beyond just financial shareholders. While not explicitly mentioning future generations or autonomous agents, its principles of inclusivity and comprehensiveness provide a foundation for their inclusion.
 
-<table header-row="true">
-  <tr>
-    <td>Dimension</td>
-    <td>Assessment</td>
-  </tr>
-  <tr>
-    <td>Shared Understanding</td>
-    <td>High. The pattern is fundamentally about creating a shared understanding of an organization's impact on its stakeholders. By making this information transparent and accessible, it enables all stakeholders to have a more complete and nuanced understanding of the organization's performance.</td>
-  </tr>
-  <tr>
-    <td>Shared Identity</td>
-    <td>Medium. While not its primary focus, the process of engaging with stakeholders and being accountable to them can foster a sense of shared identity and purpose. When stakeholders feel that their voices are heard and that they are part of a larger community, it can strengthen their connection to the organization and to each other.</td>
-  </tr>
-  <tr>
-    <td>Shared Power</td>
-    <td>High. Social accounting challenges the traditional power dynamics between organizations and their stakeholders. By giving stakeholders a voice and a right to information, it empowers them to hold organizations accountable for their actions. This can lead to a more equitable distribution of power and a more democratic decision-making process.</td>
-  </tr>
-  <tr>
-    <td>Shared Resources</td>
-    <td>High. The pattern promotes the sustainable management of shared resources, both social and environmental. By accounting for the full costs of an organization's activities, it encourages organizations to minimize their negative impacts and to invest in the long-term health and well-being of the commons.</td>
-  </tr>
-  <tr>
-    <td>Shared Work</td>
-    <td>Medium. The pattern encourages collaborative work through its emphasis on stakeholder engagement and dialogue. The process of developing a social accounting system can be a collaborative effort, involving representatives from all key stakeholder groups. This can foster a sense of shared ownership and responsibility.</td>
-  </tr>
-  <tr>
-    <td>Shared Well-being</td>
-    <td>High. The ultimate goal of social accounting is to contribute to the well-being of all stakeholders. By providing a more complete picture of an organization's performance, it enables stakeholders to make more informed decisions and to advocate for their interests. This can lead to improved social and environmental outcomes and a more just and sustainable society.</td>
-  </tr>
-  <tr>
-    <td>Shared Evolution</td>
-    <td>Medium. The pattern enables organizations and their stakeholders to evolve together by creating a feedback loop for continuous improvement. By regularly assessing and reporting on their performance, organizations can learn from their mistakes and adapt their strategies to better meet the needs of their stakeholders. This can lead to a more resilient and adaptive system that is able to evolve and thrive over time.</td>
-  </tr>
-</table>
+**2. Value Creation Capability:**
+This pattern directly enables collective value creation by expanding the definition of performance beyond economic output. It provides the tools to measure and report on social, environmental, and ethical impacts, making these forms of value visible and manageable. By focusing on stakeholder well-being, it encourages organizations to generate positive externalities (knowledge, resilience, social capital) and mitigate negative ones, fostering a system of holistic value creation.
+
+**3. Resilience & Adaptability:**
+The pattern inherently builds resilience and adaptability by creating a continuous feedback loop between an organization and its stakeholders. The principles of regularity, timeliness, and stakeholder dialogue ensure that the system can sense and respond to changes in its social and environmental context. This process allows the organization to maintain coherence and legitimacy under stress, adapting its strategies to meet evolving stakeholder needs and expectations.
+
+**4. Ownership Architecture:**
+Social Accounting re-frames ownership as a structure of accountability and responsibility to a wide web of stakeholders, rather than just monetary equity for shareholders. It asserts that an organization's duties extend to all who are impacted by its operations, effectively creating a form of stewardship. While it doesn't dismantle traditional ownership models, it imposes a layer of social and environmental obligations upon them.
+
+**5. Design for Autonomy:**
+The framework is highly compatible with autonomous systems, as noted in its Cognitive Era Considerations. The process of data collection, impact assessment, and reporting can be significantly automated with AI, while blockchain can enhance transparency and verification. Its principles can be encoded into DAOs and other distributed systems to ensure they remain accountable to their human and environmental stakeholders with low coordination overhead.
+
+**6. Composability & Interoperability:**
+This pattern is exceptionally composable, designed as a modular framework that can be integrated into any organization, regardless of its primary function or governance model. It serves as a universal measurement and feedback layer that can interoperate with other patterns for governance, production, or financing. It provides the necessary data for other patterns to function effectively within a commons-based ecosystem.
+
+**7. Fractal Value Creation:**
+The pattern's logic is inherently fractal, as it can be applied at any scale of an organization or system. The process of stakeholder mapping, impact assessment, and reporting can be implemented for a small team, a department, a multinational corporation, a non-profit, or even a government agency. This scalability allows the value-creation logic of accountability and holistic performance to permeate throughout an entire system and its subsystems.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+The pattern provides a critical framework for measuring and managing the non-financial value created by a system, which is a foundational capability for any commons. It establishes the rights and responsibilities essential for stakeholder-centric governance and creates the feedback loops necessary for resilience and adaptation. It is not a complete value creation architecture on its own, but it is a powerful and essential enabler for one.
+
+**Opportunities for Improvement:**
+- Explicitly incorporate the Rights and Responsibilities of non-human stakeholders, such as AI agents and natural ecosystems, beyond just measuring impact on them.
+- Develop standardized data formats for social accounting to improve interoperability between different systems and enable automated analysis at a larger scale.
+- Integrate the framework more explicitly with governance patterns to show how the insights from social accounting can be used to dynamically allocate power and resources.
 
 ## 9. Resources & References
 

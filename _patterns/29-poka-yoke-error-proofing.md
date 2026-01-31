@@ -15,7 +15,7 @@ tags:
   era: [industrial, digital]
   origin: [toyota, shigeo-shingo]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -170,27 +170,40 @@ While AI and automation can enhance Poka-Yoke, they will not eliminate the need 
 
 In the future, we can expect to see the development of even more sophisticated Poka-Yoke solutions that are powered by AI and other emerging technologies. These solutions will be able to learn and adapt to changing conditions, and they will be able to provide real-time feedback to workers and managers. This will enable organizations to achieve even higher levels of quality and productivity.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-This assessment evaluates the Poka-Yoke pattern against the seven dimensions of the Commons Stack, a framework for designing, building, and sustaining commons-based peer-production systems.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-1.  **Stakeholder Mapping:** Poka-Yoke primarily focuses on the relationship between the organization and its customers, with a secondary focus on the workers who perform the process. The primary stakeholders are the customers who receive the product or service, as they are the ones who benefit from the improved quality and reliability. The workers are also key stakeholders, as Poka-Yoke can improve their working conditions by reducing stress and frustration. Other stakeholders include the organization itself, which benefits from reduced costs and increased productivity, and the wider community, which benefits from the availability of higher-quality products and services.
+**1. Stakeholder Architecture:**
+The pattern primarily defines rights and responsibilities between a system and its immediate users (workers). It grants workers the right to a less error-prone, lower-stress work environment, while assigning them the responsibility of following the designed process. It implicitly serves end-users (customers) by ensuring higher quality outputs, but does not formally define their rights or responsibilities in the value creation process, nor does it explicitly consider stakeholders like the environment or future generations.
 
-2.  **Value Creation:** Poka-Yoke creates value in several ways. For customers, it creates value by ensuring that they receive a high-quality product or service that is free from defects. For workers, it creates value by making their jobs easier and less stressful. For the organization, it creates value by reducing costs, increasing productivity, and improving its reputation. The value created by Poka-Yoke is primarily economic, but it also has social and environmental benefits, such as reduced waste and improved safety.
+**2. Value Creation Capability:**
+Poka-Yoke is a strong enabler of collective value creation beyond the purely economic. It directly produces **resilience value** by making processes robust against human error and **knowledge value** by embedding operational rules directly into the workflow. This reduction in errors and waste also contributes to social value through safer, less frustrating work and has positive, if indirect, ecological benefits.
 
-3.  **Value Preservation:** Poka-Yoke helps to preserve value by preventing the creation of defects in the first place. This is a more effective and efficient approach than inspecting for defects after they have been created, as it eliminates the need for rework and scrap. By building quality into the process, Poka-Yoke helps to ensure that the value that is created is not lost due to errors or defects.
+**3. Resilience & Adaptability:**
+The pattern excels at creating resilience within a defined process, helping the system maintain coherence and quality under the stress of potential operator error. Its focus is on optimizing and stabilizing existing workflows rather than fostering systemic adaptation to new or complex conditions. It builds resilience *in* a system, but not necessarily resilience *of* the system to external paradigm shifts.
 
-4.  **Shared Rights & Responsibilities:** Poka-Yoke is a collaborative process that requires the involvement of all stakeholders. Workers have the responsibility to identify potential errors and to participate in the development of Poka-Yoke solutions. Management has the responsibility to provide the necessary resources and support. Customers have the right to expect a high-quality product or service, and they have the responsibility to provide feedback to the organization.
+**4. Ownership Architecture:**
+Poka-Yoke does not address formal ownership, but it shifts the architecture of responsibility for quality. It moves ownership from a separate inspection function to the source of the work itself, empowering operators with the responsibility and capability to ensure quality. This fosters a distributed sense of ownership over process outcomes, even without formal equity.
 
-5.  **Systematic Design:** Poka-Yoke is a systematic approach to error-proofing that involves a clear and well-defined process. This includes identifying potential errors, developing and implementing Poka-Yoke solutions, and monitoring their effectiveness. The systematic nature of Poka-Yoke helps to ensure that it is applied consistently and effectively across the organization.
+**5. Design for Autonomy:**
+This pattern is exceptionally well-suited for autonomous systems. The core logic of Poka-Yoke—embedding constraints and rules into a process to guarantee correct execution—is the foundation of all automation, from simple scripts to complex smart contracts and DAOs. It inherently lowers coordination overhead by making the 'right way' the 'only way,' reducing the need for supervision.
 
-6.  **Systems of Systems:** Poka-Yoke can be integrated with other systems and patterns to create a more robust and effective quality management system. For example, it can be used in conjunction with other lean tools, such as 5S, standardized work, and visual management. It can also be integrated with quality management systems, such as ISO 9001, and with continuous improvement methodologies, such as Six Sigma.
+**6. Composability & Interoperability:**
+Poka-Yoke is a highly composable and interoperable pattern. It is designed to be integrated into other processes and systems to improve their reliability. As mentioned in the text, it is a core component of the Toyota Production System and is frequently combined with other lean patterns like 5S and Standardized Work to create larger, more complex, and highly reliable value-creation systems.
 
-7.  **Fractal Properties:** The principles of Poka-Yoke can be applied at any scale, from the individual worker to the entire organization. This fractal nature of Poka-Yoke makes it a highly versatile and adaptable tool that can be used in a wide variety of contexts.
+**7. Fractal Value Creation:**
+The pattern's value-creation logic is inherently fractal. The principle of mistake-proofing can be applied to a single task, a multi-step assembly process, a complex software deployment pipeline, or even the governance rules of a multi-organizational consortium. This allows the same fundamental logic of quality assurance to be scaled and replicated across different levels of a system.
 
-**Overall Score: 3 (Transitional)**
+**Overall Score: 4 (Value Creation Enabler)**
 
-Poka-Yoke is a powerful tool for improving quality and productivity, but it is primarily focused on the internal processes of the organization. While it does create value for customers, it does not fundamentally challenge the traditional producer-consumer relationship. To become more commons-aligned, Poka-Yoke could be extended to include a greater focus on co-creation with customers and on sharing the value that is created more equitably among all stakeholders. For example, organizations could involve customers in the design of Poka-Yoke solutions, and they could share the cost savings that result from improved quality with their workers and suppliers.
+**Rationale:**
+Poka-Yoke is a powerful enabler of resilient value creation by making systems more reliable, reducing waste, and embedding knowledge into processes. It strongly aligns with the v2.0 framework's emphasis on autonomy, composability, and fractal design. While it creates diverse forms of value, its primary focus remains on optimizing existing processes rather than defining the larger stakeholder architecture or purpose of the system.
+
+**Opportunities for Improvement:**
+- Integrate Poka-Yoke with explicit stakeholder mapping to ensure error-proofing considers the needs of all affected parties, including the environment and community.
+- Combine the pattern with governance models that give workers formal rights and responsibilities in designing and evolving the Poka-Yoke systems they use.
+- Apply Poka-Yoke principles to the design of smart contracts and DAOs to create more resilient and trustworthy autonomous organizations.
 
 ### 9. Resources & References
 

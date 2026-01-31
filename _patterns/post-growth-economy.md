@@ -15,7 +15,7 @@ tags:
   era: [cognitive]
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -115,19 +115,40 @@ The transition to a post-growth economy is deeply intertwined with the technolog
 
 **The Collaborative and Open-Source Ethos:** The cognitive era has also given rise to a new collaborative and open-source ethos, which is highly compatible with the principles of a post-growth economy. The rise of peer-to-peer networks, open-source software, and the maker movement demonstrates the potential for creating a more decentralized, democratic, and non-commodified economy. These new forms of production and exchange offer a powerful alternative to the hierarchical and proprietary logic of the capitalist firm.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The post-growth economy pattern exhibits a strong alignment with the principles of a commons-based society. The following table provides an assessment of this alignment across seven key dimensions:
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Assessment |
-|---|---|
-| **Openness & Transparency** | The post-growth movement is characterized by a high degree of openness and transparency. Research, data, and policy proposals are typically shared freely and openly, and there is a strong emphasis on public deliberation and democratic decision-making. |
-| **Decentralization & Federation** | The post-growth vision is one of a decentralized and federated economy, where economic power is distributed among a wide range of actors, including local communities, cooperatives, and social enterprises. This stands in stark contrast to the centralized and hierarchical structure of the current global economy. |
-| **Community & Collaboration** | A post-growth economy is a collaborative economy, based on the principles of mutual aid, reciprocity, and solidarity. It seeks to foster a strong sense of community and to create new spaces for social connection and collective action. |
-| **Sustainability & Resilience** | The core principle of a post-growth economy is ecological sustainability. It seeks to create a resilient and stable economic system that can thrive within the biophysical limits of the planet. This is achieved through a combination of measures to reduce resource and energy consumption, close material loops, and restore ecosystems. |
-| **Fairness & Equity** | The post-growth economy is deeply committed to the principles of fairness and equity. It seeks to create a more just and equitable distribution of wealth, income, and opportunities, both within and between nations. This is achieved through a variety of measures, including progressive taxation, universal basic income, and the expansion of public services. |
-| **Purpose & Values** | The post-growth economy is a purpose-driven economy, guided by a clear set of values that prioritize human and ecological well-being over the pursuit of endless economic growth. It seeks to create an economy that is in service to life, rather than an economy that is a master of life. |
-| **Pluralism & Diversity** | The post-growth movement is a pluralistic and diverse movement, encompassing a wide range of perspectives, approaches, and practices. It recognizes that there is no one-size-fits-all solution to the challenges of the 21st century and that a variety of different pathways to a post-growth future must be explored. |
+**1. Stakeholder Architecture:**
+The Post-Growth Economy pattern fundamentally re-architects stakeholder relationships by shifting the system's primary goal from growth to the well-being of all participants, including humans, the environment, and future generations. It redefines rights and responsibilities through concrete proposals like Universal Basic Services, progressive taxation, and the expansion of public commons, which collectively alter the entitlements and obligations of individuals, corporations, and the state.
+
+**2. Value Creation Capability:**
+This pattern enables a profound expansion of value creation beyond mere economic output. It explicitly prioritizes social value (equity, health, community), ecological value (sustainability, regeneration), and knowledge value (collaborative and open-source ethos). By promoting cooperative ownership, local economic diversification, and non-commodified forms of production, it builds the collective capability to generate holistic wealth.
+
+**3. Resilience & Adaptability:**
+The framework is explicitly designed to build resilience and adaptability by decoupling economic stability from the necessity of growth. It promotes diversity in economic activity, encourages local self-reliance to reduce dependency on fragile global supply chains, and advocates for financial reforms to manage debt and speculation. Adherence to planetary boundaries is a core principle that ensures the system can adapt and maintain coherence in the face of ecological stress.
+
+**4. Ownership Architecture:**
+While not using the precise language of "Rights and Responsibilities," the pattern fundamentally redefines ownership. It moves beyond monetary equity by advocating for cooperative, community-based, and public forms of ownership over essential resources and services. Policies like wealth redistribution and limits on accumulation directly challenge conventional ownership structures, treating them as tools to be designed for collective well-being rather than as immutable rights.
+
+**5. Design for Autonomy:**
+The pattern is highly compatible with autonomous systems and distributed networks. Its principles of decentralization, localism, and democratic governance align strongly with the ethos of DAOs and other distributed technologies. The call for democratic control over AI and big data demonstrates a forward-thinking approach to ensuring these powerful tools serve collective interests, reducing coordination overhead through shared, transparent logic.
+
+**6. Composability & Interoperability:**
+As a meta-pattern, the Post-Growth Economy is designed for high composability. It can be combined with a wide array of other patterns, such as those for cooperative governance, local currencies, regenerative agriculture, and open-source technology, to create complex, multi-layered value-creation systems. It provides the overarching framework within which these more specific patterns can interoperate effectively.
+
+**7. Fractal Value Creation:**
+The core value-creation logic of prioritizing well-being and ecological health within defined limits is inherently fractal. This principle can be applied consistently across multiple scales, from an individual's lifestyle choices to a local community's economic development plan, a city's urban design, and a nation's entire policy framework. The pattern's logic scales without losing its integrity.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+The Post-Growth Economy pattern is a powerful enabler of collective value creation, providing a comprehensive framework that redefines value, stakeholder roles, and ownership for resilience and equity. It falls just short of a top score because it is a high-level framework that requires the integration of other, more granular patterns to become a complete, operational architecture. Its primary function is to create the conditions for value creation rather than being a fully specified value-creation system itself.
+
+**Opportunities for Improvement:**
+- Develop more explicit models for how "Rights and Responsibilities" can be formally encoded within the proposed governance and ownership structures.
+- Provide clearer transition pathways for integrating post-growth models with existing legal and financial systems.
+- Elaborate on the specific data standards and control mechanisms that would allow AI and DAOs to operate effectively and accountably within a post-growth framework.
 
 ## 9. Resources & References
 

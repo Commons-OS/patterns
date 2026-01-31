@@ -45,7 +45,40 @@ repository: https://github.com/commons-os/patterns
 
 ## 7. Cognitive Era Considerations
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
+
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
+
+**1. Stakeholder Architecture:**
+PESTLE Analysis is primarily an organizational sense-making tool and does not inherently define a stakeholder architecture of Rights and Responsibilities. Its focus is on how external forces affect a central entity, rather than architecting relationships between diverse stakeholders like humans, organizations, machines, and the environment. The framework treats these as factors to be analyzed, not as active participants in a shared system.
+
+**2. Value Creation Capability:**
+The pattern indirectly enables value creation by identifying external opportunities and threats, allowing an organization to position itself for greater economic success. However, it does not provide a framework for *collective* value creation across multiple stakeholders. The value captured is typically for the benefit of the organization conducting the analysis, with limited consideration for social, ecological, or knowledge value beyond their impact on the organization's bottom line.
+
+**3. Resilience & Adaptability:**
+This is the core strength of the PESTLE Analysis. By systematically scanning the macro-environment, it directly supports a system's ability to anticipate change and adapt its strategy accordingly. This proactive stance enhances resilience by helping the organization maintain coherence and navigate complexity under stress, making it a powerful tool for adapting to external pressures.
+
+**4. Ownership Architecture:**
+The pattern does not address ownership architecture in the sense of distributed Rights and Responsibilities. Ownership is implicitly assumed to be concentrated within the organization using the tool. It is a framework for strategic advantage, not for stewarding shared resources or capabilities through a distributed ownership model.
+
+**5. Design for Autonomy:**
+PESTLE Analysis is a highly cognitive framework that requires significant human interpretation, discussion, and decision-making, making it poorly suited for autonomous systems. The process involves nuanced judgment and has a high coordination overhead, which is incompatible with the low-overhead requirements of DAOs and other distributed, autonomous systems.
+
+**6. Composability & Interoperability:**
+The pattern is highly composable and is frequently used in conjunction with other strategic frameworks like SWOT, Porter's Five Forces, and VRIO analysis. It provides a critical macro-environmental input that can be integrated into larger, more comprehensive strategic planning and value-creation systems. This modularity is a key feature of its design.
+
+**7. Fractal Value Creation:**
+The logic of PESTLE—scanning the external environment for opportunities and threats—is fractal and can be applied at various scales. A small project team can use it to assess its immediate context, a large corporation can analyze global markets, and a network of organizations could use it to understand their shared ecosystem. The six categories provide a scalable lens for sense-making.
+
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+PESTLE Analysis is a powerful tool for enhancing organizational resilience and adaptability by promoting awareness of the external environment. However, it is a transitional pattern because its fundamental orientation is organization-centric, focusing on competitive advantage rather than collective value creation. While it is composable and its logic is scalable, it lacks the stakeholder, value, and ownership architectures required for a true commons.
+
+**Opportunities for Improvement:**
+- Adapt the framework to explicitly include a multi-stakeholder perspective, analyzing the impacts *on* and *by* all system participants, not just the central organization.
+- Integrate the analysis with value-creation models that account for social, ecological, and knowledge capital, moving beyond a purely economic focus.
+- Develop a version of the framework that can be used by distributed networks to build shared intelligence about their collective environment, rather than just for individual entities.
 
 ## 9. Resources & References
 

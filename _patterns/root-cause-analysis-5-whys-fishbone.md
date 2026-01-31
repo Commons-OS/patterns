@@ -15,7 +15,7 @@ tags:
   era: [industrial, digital]
   origin: [Toyota]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -147,19 +147,40 @@ In the context of complex, interconnected systems, such as those found in modern
 
 However, it is important to recognize that technology is not a silver bullet. The **human-in-the-loop** remains a critical component of the RCA process. Human expertise and judgment are still required to interpret the results of the analysis, to develop and implement effective solutions, and to ensure that the solutions are aligned with the organization's goals and values. The most effective approach to RCA in the Cognitive Era is likely to be a hybrid one, combining the power of AI and machine learning with the insights and experience of human experts.
 
-# 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-This section provides an assessment of how the Root Cause Analysis pattern aligns with the seven dimensions of the Commons OS, a framework for building and managing collaborative, open, and equitable organizations.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Assessment |
-| :--- | :--- |
-| **1. Openness & Transparency** | Root Cause Analysis promotes openness and transparency by encouraging a culture where problems are not hidden but are brought to the surface for analysis and resolution. The process of RCA is typically a collaborative one, involving individuals from different parts of the organization who work together to identify the root cause of a problem. This open and transparent approach to problem-solving helps to build trust and to foster a culture of continuous improvement. |
-| **2. Collaboration & Participation** | RCA is an inherently collaborative process. The most effective RCA teams are cross-functional, bringing together individuals with different perspectives and expertise to analyze a problem. This collaborative approach not only leads to more robust solutions but also helps to break down silos and to foster a sense of shared ownership for the quality and performance of the organization. |
-| **3. Decentralization & Autonomy** | While RCA is a structured process, it also allows for a significant degree of decentralization and autonomy. Teams are empowered to investigate problems, to identify root causes, and to develop and implement solutions. This decentralized approach to problem-solving can lead to faster and more effective solutions, as the individuals who are closest to the problem are often the ones who are best equipped to solve it. |
-| **4. Equity & Fairness** | By focusing on processes and systems rather than on individual blame, RCA promotes a culture of equity and fairness. When a problem occurs, the goal of RCA is not to find someone to blame but to understand why the problem occurred and to implement changes to prevent it from happening again. This focus on systems and processes helps to create a more just and equitable workplace, where individuals are not unfairly blamed for systemic failures. |
-| **5. Sustainability & Resilience** | RCA contributes to the sustainability and resilience of an organization by helping to prevent the recurrence of problems. By addressing the root causes of problems, RCA helps to create more robust and reliable systems that are less prone to failure. This can lead to significant improvements in quality, efficiency, and safety, and can help to ensure the long-term sustainability of the organization. |
-| **6. Pluralism & Diversity** | RCA can support pluralism and diversity by providing a structured process for considering a wide range of perspectives. The use of brainstorming and other collaborative techniques in RCA encourages the participation of individuals with different backgrounds and experiences, which can lead to more creative and effective solutions. |
-| **7. Purpose & Values** | RCA can help to reinforce an organization's purpose and values by providing a framework for making decisions that are aligned with those values. For example, if an organization values safety, RCA can be used to ensure that safety is a primary consideration in all problem-solving activities. By aligning problem-solving with purpose and values, RCA can help to create a more mission-driven and values-based organization. |
+**1. Stakeholder Architecture:**
+Root Cause Analysis (RCA) implicitly assigns the responsibility of problem-solving to the team conducting the analysis. It grants stakeholders the right to a more stable and reliable system by providing a method to move beyond temporary fixes. While not explicitly defining roles for the environment or future generations, its application in safety and quality management inherently protects these broader stakeholders from systemic failures.
+
+**2. Value Creation Capability:**
+The pattern is a powerful enabler of non-economic value. By identifying and eliminating the root causes of problems, it directly creates resilience and knowledge value, making the system more robust and better understood. This leads to social value through enhanced safety and reliability, and can create ecological value by reducing waste and inefficiency.
+
+**3. Resilience & Adaptability:**
+RCA is a core engine for resilience and adaptation. It provides a structured learning process for organizations to understand and respond to failures, which is essential for maintaining coherence in complex environments. By preventing the recurrence of problems, it strengthens the system's ability to withstand stress and adapt its processes over time.
+
+**4. Ownership Architecture:**
+This pattern shifts the concept of ownership from individual blame to collective responsibility for system health. It encourages a culture where participants feel a sense of ownership over the processes they are part of and are empowered to improve them. This defines ownership as a responsibility to contribute to the system's improvement, rather than a right to its outputs.
+
+**5. Design for Autonomy:**
+The logic of RCA is highly compatible with autonomous systems. As noted in the pattern, AI and machine learning can automate and enhance the analysis of complex data to find root causes in distributed or technical systems. The structured, repeatable nature of the 5 Whys and Fishbone diagrams makes them suitable for implementation by autonomous agents to diagnose and resolve their own faults with low coordination overhead.
+
+**6. Composability & Interoperability:**
+Root Cause Analysis is a highly composable pattern that serves as a foundational element for numerous other frameworks. It is a core component of continuous improvement methodologies like Lean and Six Sigma and can be integrated with virtually any operational or governance pattern. Its function as a diagnostic tool makes it interoperable with any system that requires reliability and learning.
+
+**7. Fractal Value Creation:**
+The logic of RCA is inherently fractal, as the process of identifying a root cause can be applied at any scale. An individual can use the 5 Whys for personal productivity, a team can use it for a project issue, and a large organization can apply it to a major systemic failure. The value-creation logic of learning and improving from failure remains consistent across all these scales.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Root Cause Analysis is a powerful enabler of resilient value creation. It provides a critical capability for learning, adaptation, and continuous improvement, which are foundational to any healthy commons. While not a complete value creation architecture in itself, it is an essential tool for maintaining and strengthening the capability of a system to create value over time.
+
+**Opportunities for Improvement:**
+- Explicitly integrate considerations for non-human stakeholders (e.g., environment, AI agents) into the categorization of causes in the Fishbone diagram.
+- Develop a practice for applying RCA proactively to potential future failures, not just reactively to past incidents.
+- Combine the pattern with governance models that formalize the rights and responsibilities for implementing the solutions identified through RCA.
 
 # 9. Resources & References
 

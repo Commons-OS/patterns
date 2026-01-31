@@ -121,17 +121,40 @@ Furthermore, the rise of AI and automation will require a **shift in the skills 
 
 # 8. Commons Alignment Assessment
 
-The Commons Alignment Assessment evaluates how well the Matrix Governance pattern aligns with the principles of a commons-based approach to organization. This assessment considers seven key dimensions, each rated on a scale of 1 to 5, where 1 indicates low alignment and 5 indicates high alignment. The overall commons alignment score for this pattern is 3.
+### 8. Commons Alignment Assessment (v2.0)
 
-| Dimension | Rating | Justification |
-| :--- | :--- | :--- |
-| **Openness & Transparency** | 3 | Matrix governance can increase transparency by fostering communication across functional silos. However, the complexity of the structure can also lead to a lack of clarity and information overload if not managed effectively. |
-| **Participation & Inclusivity** | 4 | The pattern inherently encourages participation from a wider range of stakeholders by creating cross-functional teams and dual-reporting relationships. This can lead to more inclusive decision-making processes. |
-| **Collaboration & Cooperation** | 4 | The core of the matrix structure is to promote collaboration and cooperation between different parts of the organization. It is designed to break down silos and encourage the sharing of resources and expertise. |
-| **Decentralization & Autonomy** | 3 | While matrix governance decentralizes some decision-making to project teams, it still retains a hierarchical structure with functional managers. The degree of autonomy can vary significantly depending on whether the matrix is weak, balanced, or strong. |
-| **Sustainability & Resilience** | 3 | The flexibility of the matrix structure can enhance organizational resilience by enabling it to adapt to changing market conditions. However, the potential for conflict and the high administrative overhead can also be a source of instability. |
-| **Fairness & Equity** | 2 | The dual-reporting relationships can create ambiguity and conflict, which can lead to perceptions of unfairness. The potential for power struggles between functional and project managers can also create an inequitable distribution of resources and opportunities. |
-| **Purpose & Value Creation** | 3 | When implemented effectively, matrix governance can align the organization around a shared purpose and create value for a wide range of stakeholders. However, the potential for conflicting priorities can also lead to a diffusion of purpose and a focus on internal politics rather than value creation. |
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
+
+**1. Stakeholder Architecture:**
+Matrix Governance primarily defines Rights and Responsibilities for internal human stakeholders, namely employees, functional managers, and project managers. The structure is designed to balance functional expertise with project-focused delivery within an organization. It does not, however, inherently account for external stakeholders such as the environment, future generations, or non-human agents like AI, which remain outside its core architectural design.
+
+**2. Value Creation Capability:**
+The pattern strongly enables the creation of knowledge and social value by breaking down departmental silos and fostering cross-functional collaboration. This enhances innovation and accelerates project delivery, which are forms of collective value creation. However, its primary focus remains on organizational and economic output, with limited native mechanisms for generating or measuring ecological or broader systemic resilience value.
+
+**3. Resilience & Adaptability:**
+By design, Matrix Governance enhances adaptability, allowing organizations to respond to complex, multi-faceted challenges more effectively than rigid hierarchies. It helps systems maintain coherence by ensuring projects have access to deep functional expertise. However, the dual-reporting structure can introduce conflict and slow decision-making, potentially reducing resilience under high stress if not managed with clear processes and a collaborative culture.
+
+**4. Ownership Architecture:**
+This pattern defines ownership as a set of Rights and Responsibilities distributed between functional and project-based roles, moving beyond a purely hierarchical or monetary definition. Accountability is shared, with functional managers owning the development of capabilities and project managers owning the delivery of outcomes. This aligns well with a commons-based view of ownership as stewardship over specific domains and responsibilities.
+
+**5. Design for Autonomy:**
+Matrix Governance was conceived for human-centric organizations and carries a significant coordination overhead, which is contrary to the principles of autonomous systems. The dual-reporting structure requires negotiation and communication that is not easily automated. While it decentralizes some authority, it is not inherently compatible with AI, DAOs, or other distributed systems without significant adaptation to streamline its complex relational dynamics.
+
+**6. Composability & Interoperability:**
+As a foundational governance framework, Matrix Governance is highly composable. It can be combined with various other patterns for project management (e.g., Agile, Scrum), communication protocols, and decision-making frameworks (e.g., Consent-Based Decision Making). This allows it to serve as a structural backbone for building larger, more complex value-creation systems tailored to an organization's specific needs.
+
+**7. Fractal Value Creation:**
+The core logic of balancing two or more organizational dimensions (e.g., function and project) is fractal and can be applied at multiple scales. A large corporation can use a matrix to manage relationships between global business units and regional markets. Similarly, a small team can apply the same principle to balance internal roles with external client-facing projects, demonstrating that the value-creation logic is scalable.
+
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+Matrix Governance is a transitional pattern that marks a significant step away from rigid, hierarchical structures toward more collaborative and adaptive systems. It enables key aspects of collective value creation, such as knowledge sharing and cross-functional synergy. However, its human-centric design, inherent coordination overhead, and lack of built-in mechanisms for engaging with broader non-human stakeholders mean it requires significant adaptation to function as a complete value creation architecture for a complex, multi-stakeholder commons.
+
+**Opportunities for Improvement:**
+- Integrate explicit roles and responsibilities for non-human stakeholders, such as AI agents or environmental proxies, within the matrix structure.
+- Develop lightweight, automatable protocols for negotiation and resource allocation to reduce coordination overhead and improve compatibility with autonomous systems.
+- Incorporate feedback loops from external systems (e.g., ecological impact data, community feedback) into the goal-setting and performance evaluation processes of both functional and project managers.
 
 # 9. Resources & References
 

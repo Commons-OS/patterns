@@ -15,7 +15,7 @@ tags:
   era: [cognitive]
   origin: [academic]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 5
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -145,25 +145,40 @@ The principles of Doughnut Economics are put into action through a variety of pr
 
 - **Evolution Outlook**: In the cognitive era, the Doughnut model is likely to evolve in several ways. We can expect to see the development of more sophisticated and interactive digital tools for exploring and applying the Doughnut. The integration of AI and blockchain technologies could enable new forms of decentralized and democratic governance, allowing for more transparent and accountable decision-making. The Doughnut could also become a key framework for guiding the development of artificial general intelligence, ensuring that these powerful new technologies are aligned with the long-term interests of humanity and the planet.
 
-### 8. Commons Alignment Assessment (600-800 words)
+### 8. Commons Alignment Assessment (v2.0)
 
-1.  **Stakeholder Mapping**: Doughnut Economics excels in its comprehensive and inclusive approach to stakeholder mapping. It fundamentally challenges the narrow, shareholder-centric view of traditional economics by explicitly considering the well-being of all stakeholders. This includes not only employees, customers, and suppliers, but also the wider community, future generations, and the living world. The practice of creating a “City Portrait” is a powerful example of this, as it involves a participatory process where diverse voices from across a city are brought together to co-create a shared vision for their future. This inclusive approach is also reflected in the core principles of “seeing the big picture” and “nurturing human nature,” which call for a holistic and empathetic understanding of the complex web of relationships that make up our economies and societies.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-2.  **Value Creation**: The framework is designed to create a wide range of value beyond the purely financial. It prioritizes the creation of social value, such as equity, social justice, and human well-being, and ecological value, such as a stable climate, healthy oceans, and thriving biodiversity. The ultimate goal is to create a “safe and just space for humanity,” where both people and the planet can thrive. The principles of “designing to distribute” and “creating to regenerate” are central to this vision, as they call for a fundamental redesign of our economies to be more equitable and sustainable.
+**1. Stakeholder Architecture:**
+Doughnut Economics provides a robust stakeholder architecture by defining a "social foundation" (the rights of all people) and an "ecological ceiling" (the responsibilities we have to the planet). This explicitly includes non-human stakeholders (the environment) and future generations by focusing on planetary boundaries. It moves beyond traditional economic models by architecting rights and responsibilities across a comprehensive set of stakeholders.
 
-3.  **Value Preservation**: The Doughnut model is designed to be a dynamic and evolving framework that can maintain its relevance over time. The principle of being “agnostic about growth” is key to this, as it shifts the focus from the short-term pursuit of endless growth to the long-term goal of creating a thriving and resilient economy. The emphasis on systems thinking and continuous learning also allows the framework to adapt to changing circumstances and to incorporate new knowledge and insights. The Doughnut Economics Action Lab (DEAL) plays a crucial role in this process, by fostering a global community of practice and by supporting the ongoing development and refinement of the Doughnut model.
+**2. Value Creation Capability:**
+The framework fundamentally reorients the goal of economic activity from pure financial output to collective value creation. It champions the creation of social value (well-being, equity, justice) and ecological value (regeneration, biodiversity). The principles of "design to distribute" and "create to regenerate" are direct mandates to build systems that produce diverse forms of value for all, not just monetary wealth for a few.
 
-4.  **Shared Rights & Responsibilities**: The framework promotes a sense of shared responsibility for our collective future. It empowers citizens to take an active role in shaping their economies through participatory processes like community-led workshops and the creation of City Portraits. The principle of “being distributive” also extends to the distribution of rights and responsibilities, by calling for more equitable and democratic forms of governance. This is a significant departure from the traditional economic model, which tends to concentrate power and decision-making in the hands of a few.
+**3. Resilience & Adaptability:**
+The pattern is designed to help systems thrive on change. By being "agnostic about growth" and promoting a systems-thinking approach ("Get Savvy with Systems"), it encourages the development of economies that are adaptable and resilient. The goal is to maintain coherence within the safe and just space of the Doughnut, even when faced with external shocks and complexity.
 
-5.  **Systematic Design**: Doughnut Economics is a deeply systemic framework. It provides a set of tools and methodologies for redesigning our economies from the ground up. The “five design lenses” of Purpose, Networks, Governance, Ownership, and Finance provide a systematic framework for analyzing and transforming organizations and economies. The “Doughnut Unrolled” methodology and the “City Portrait” process are concrete examples of the systems and processes that enable the implementation of the framework.
+**4. Ownership Architecture:**
+Doughnut Economics challenges conventional ownership by promoting the principle of "design to distribute." This encourages the exploration of alternative ownership models like cooperatives and community wealth building, where rights and responsibilities are more broadly shared. It reframes ownership as a form of stewardship over resources for collective benefit, rather than just a claim to monetary equity.
 
-6.  **Systems of Systems**: The Doughnut is a meta-pattern that can be composed with a wide range of other patterns and frameworks. It provides a high-level vision and a set of guiding principles that can be used to inform the application of other approaches, such as the circular economy, community wealth building, and platform cooperativism. The framework’s emphasis on “seeing the big picture” and “thinking in systems” makes it naturally compatible with other systemic and holistic approaches to social and economic change.
+**5. Design for Autonomy:**
+The framework is highly compatible with autonomous systems. As a set of core principles rather than a rigid, top-down mandate, it can be adopted by decentralized networks, DAOs, and AI-driven systems. Its emphasis on local adaptation through "City Portraits" and community-led initiatives demonstrates a design that empowers autonomous, context-aware action with low coordination overhead.
 
-7.  **Fractal Properties**: The Doughnut model is explicitly designed to be fractal, meaning that its principles can be applied at all scales, from the individual and household level to the global level. The framework has been successfully applied at the city, regional, and community level, and there are ongoing efforts to apply it at the national and international level. The core principles of the Doughnut are universal, but they can be adapted to different contexts and scales, making it a highly versatile and adaptable framework.
+**6. Composability & Interoperability:**
+The pattern acts as a meta-framework that is highly composable with other patterns. It provides a high-level vision and a set of guiding principles that can integrate and align various other approaches, such as the circular economy, platform cooperativism, and regenerative agriculture. Its systemic nature makes it an ideal foundation for building larger, interoperable value-creation systems.
 
-**Overall Score**: 4/5 (Commons-Aligned)
+**7. Fractal Value Creation:**
+The value-creation logic of the Doughnut is explicitly designed to be fractal. The framework can be "downscaled" and applied at multiple scales, from individuals and households to cities, regions, and potentially nations. This scalability allows the core logic of creating a safe and just space to be replicated and adapted across different levels of social organization, creating a coherent, multi-scale system.
 
-Doughnut Economics is a powerful and transformative framework that is deeply aligned with the principles of the commons. It provides a compelling vision for a more just and sustainable world, and a practical set of tools and methodologies for getting there. While the framework is still relatively new and its long-term impact is still being evaluated, it has already inspired a global movement of cities, communities, and organizations that are working to put its principles into practice. The main opportunity for improvement is to continue to build the evidence base for the framework’s effectiveness and to develop more robust and scalable models for its implementation.
+**Overall Score: 5 (Value Creation Architecture)**
+
+**Rationale:**
+Doughnut Economics provides a complete and comprehensive architecture for resilient collective value creation. It redefines the purpose of an economy and provides clear principles and design lenses to guide the creation of regenerative and distributive systems. The framework's strength lies in its holistic, systemic, and fractal design, making it a foundational pattern for building a commons-based economy.
+
+**Opportunities for Improvement:**
+- Develop more concrete, interoperable data standards for measuring the social and ecological dimensions of the Doughnut to enhance its use in automated and AI-driven systems.
+- Create more specific sub-patterns for applying the Doughnut's design lenses (Purpose, Networks, Governance, Ownership, Finance) within different organizational contexts (e.g., DAOs, platform co-ops).
+- Strengthen the link between the ecological ceiling and the rights of nature, formalizing the legal and operational responsibilities owed to the environment as a stakeholder.
 
 ### 9. Resources & References (200-400 words)
 

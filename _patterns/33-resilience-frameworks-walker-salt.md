@@ -15,7 +15,7 @@ tags:
   era: [cognitive]
   origin: [academic, walker-and-salt]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 5
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -170,25 +170,40 @@ In the cognitive era, resilience thinking is likely to become even more importan
 *   **A Greater Focus on Urban Resilience**: As the world becomes increasingly urbanized, there will be a growing need to apply resilience thinking to the challenges facing cities.
 *   **A Shift from Resilience to Transformation**: In some cases, simply building resilience to existing conditions may not be enough. We may need to fundamentally transform our systems to create a more just and sustainable future. The concept of "transformative resilience" is likely to become increasingly important in the years to come.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-**1. Stakeholder Mapping**: The framework emphasizes broad participation and stakeholder engagement, which is a core commons principle. However, it lacks specific methodologies for stakeholder mapping, leaving implementation variable.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**2. Value Creation**: Value creation is focused on long-term system resilience, benefiting all stakeholders by ensuring the continued provision of social and ecological services, rather than short-term economic gain.
+**1. Stakeholder Architecture:**
+The framework's emphasis on broad participation and polycentric governance establishes a distributed architecture of Rights and Responsibilities. It inherently values a wide range of human and organizational stakeholders in the management of social-ecological systems. While not explicitly naming future generations or autonomous agents, its focus on long-term sustainability and adaptability creates a foundation for their inclusion.
 
-**3. Value Preservation**: The framework is designed to preserve the essential functions of a system over the long term, directly addressing value preservation. However, it is less explicit on the equitable distribution of the costs and benefits of this preservation.
+**2. Value Creation Capability:**
+Resilience thinking directly enables collective value creation by focusing on the long-term health and adaptive capacity of a system, rather than narrow economic outputs. It fosters the creation of social value through collaboration, ecological value by maintaining ecosystem functions, and knowledge value through continuous learning and experimentation. This ensures the system can continue producing diverse forms of value for all stakeholders over time.
 
-**4. Shared Rights & Responsibilities**: Polycentric governance and co-management are key to distributing rights and responsibilities. The framework promotes a shift from centralized control to collaborative governance, but does not offer a specific blueprint for implementation.
+**3. Resilience & Adaptability:**
+This is the core strength of the pattern. The seven principles provide a comprehensive toolkit for designing systems that can thrive on change, adapt to complexity, and maintain coherence under stress. By managing diversity, connectivity, and feedback loops, the framework offers a robust architecture for navigating uncertainty and avoiding collapse.
 
-**5. Systematic Design**: The seven principles provide a systematic and structured framework for designing and managing for resilience across various contexts. However, successful application is highly context-dependent.
+**4. Ownership Architecture:**
+The principles of co-management and polycentric governance shift the concept of ownership from centralized control to a distributed model of stewardship. This implies that ownership is defined by a set of Rights and Responsibilities shared among stakeholders, rather than by monetary equity alone. The framework provides the conceptual basis for this shift, even if it doesn't prescribe specific legal or financial structures.
 
-**6. Systems of Systems**: The framework inherently addresses systems of systems by recognizing the interconnectedness of social and ecological systems across scales. However, it lacks a clear methodology for analyzing and managing these complex interactions.
+**5. Design for Autonomy:**
+The framework is highly compatible with autonomous systems, DAOs, and AI. Its principles of modularity (managing connectivity), adaptive management, and decentralized control (polycentric governance) provide a blueprint for designing systems with low coordination overhead. The emphasis on learning and experimentation aligns perfectly with the iterative nature of AI development.
 
-**7. Fractal Properties**: The principles of resilience thinking are fractal, applying across scales from individuals to ecosystems. This is a major strength of the framework.
+**6. Composability & Interoperability:**
+As a meta-framework, Resilience Thinking is exceptionally composable. It can be layered on top of other patterns for governance, economic models, or social structures to enhance their resilience and adaptability. It provides a common language and set of principles for building larger, interoperable systems of value creation.
 
-**Overall Score**: 4/5 (Commons-Aligned)
+**7. Fractal Value Creation:**
+The pattern's logic is inherently fractal, as its principles apply equally to individuals, organizations, ecosystems, and global systems. This allows the value-creation logic of resilience to be scaled and replicated across different levels of a system, creating a coherent and robust architecture for value creation at all scales.
 
-The Resilience Framework is strongly aligned with commons principles, promoting stakeholder participation, long-term value creation, and shared governance. Its successful application is context-dependent, and it could be strengthened by providing more specific guidance on stakeholder mapping and polycentric governance design.
+**Overall Score: 5 (Value Creation Architecture)**
+
+**Rationale:**
+The Resilience Framework provides a complete and holistic architecture for creating resilient systems, which is the foundation for sustained collective value creation. It addresses all seven pillars of the v2.0 framework to a significant degree, offering a new paradigm for management and governance that moves beyond optimization and control towards adaptability and evolution.
+
+**Opportunities for Improvement:**
+- Explicitly incorporate the rights of non-human stakeholders (e.g., ecosystems, AI agents) into its stakeholder architecture.
+- Develop more concrete methodologies and tools for designing and implementing polycentric governance and shared ownership models in practice.
+- Integrate more directly with economic models that can quantify and incentivize the creation of non-monetary value, such as resilience, social capital, and ecological health.
 
 ### 9. Resources & References
 

@@ -134,23 +134,40 @@ The collaborative nature of IPD is also enhanced by cognitive technologies. AI-p
 
 Furthermore, the principles of IPD, with their emphasis on cross-functional collaboration and data-driven decision-making, provide a strong foundation for organizations to become more "cognitive." By fostering a culture of data sharing and collective intelligence, IPD can help to break down the organizational silos that often hinder the adoption of AI and other advanced technologies. In this sense, IPD can be seen as a critical enabler for organizations seeking to thrive in the Cognitive Era.
 
-# 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Commons Alignment Assessment evaluates how well the Integrated Product Development (IPD) pattern aligns with the principles of a commons-based economy. This assessment considers seven key dimensions, each rated on a scale of 1 to 5, where 1 indicates low alignment and 5 indicates high alignment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Score | Rationale |
-| :--- | :--- | :--- |
-| **Openness & Transparency** | 3 | IPD promotes transparency within the project team, but it does not inherently require that the development process or the resulting product be open to the public. The level of openness is typically determined by the organization's business strategy. |
-| **Decentralization & Federation** | 4 | The use of empowered, cross-functional teams (IPTs) reflects a decentralized approach to decision-making. However, the overall strategic direction and investment decisions are often centralized in a portfolio management team (IPMT). |
-| **Collaboration & Mutual Support** | 5 | Collaboration is at the heart of IPD. The methodology is designed to foster a high degree of mutual support and shared ownership among team members from different functional areas. |
-| **Fairness & Equity** | 3 | IPD focuses on the fair distribution of work and responsibility within the project team, but it does not directly address broader issues of social or economic equity. The benefits of the product are typically distributed according to market principles. |
-| **Sustainability & Resilience** | 4 | By promoting a long-term, lifecycle perspective, IPD encourages the development of more sustainable and resilient products. The emphasis on robust design and manufacturing also contributes to this dimension. |
-| **Pluralism & Diversity** | 4 | The cross-functional nature of IPD teams inherently promotes a diversity of perspectives and expertise. This can lead to more innovative and inclusive product solutions. |
-| **Shared Purpose & Value Creation** | 4 | IPD aligns the entire development team around the shared purpose of creating a successful product. The value created is primarily for the organization and its customers, but the methodology can be adapted to serve a broader community or commons. |
+**1. Stakeholder Architecture:**
+Integrated Product Development (IPD) defines Rights and Responsibilities primarily among internal stakeholders through Integrated Product Teams (IPTs), which include members from R&D, marketing, finance, and manufacturing. It also extends consideration to external stakeholders like customers and suppliers, integrating them into the development process. However, the framework does not explicitly account for the Rights and Responsibilities of non-human stakeholders such as the environment or future generations.
 
-**Overall Commons Alignment Score: 3**
+**2. Value Creation Capability:**
+IPD excels at creating economic value by aligning product development with market needs and business strategy, aiming for commercial success and profitability. It also generates significant knowledge value through its emphasis on cross-functional collaboration, data-driven decision-making, and the synthesis of best practices. The framework's capacity for creating social and ecological value is present but underdeveloped, as these are not primary objectives of the core methodology.
 
-While IPD exhibits strong alignment with several commons principles, particularly collaboration and decentralization, its primary focus on commercial success within a market-based framework limits its overall alignment with a fully commons-based approach. However, the methodology's inherent flexibility allows for its adaptation to projects with a stronger commons orientation.
+**3. Resilience & Adaptability:**
+The pattern is designed to manage complexity and enhance resilience through its structured and gated process, which allows for regular risk assessment and course correction. Its emphasis on a modular and scalable architecture enables adaptability, allowing the system to evolve and respond to changing requirements. The concurrent and collaborative processes help maintain coherence under the pressure of tight development cycles.
+
+**4. Ownership Architecture:**
+Ownership in IPD is framed as shared responsibility for the product's success among the cross-functional team members, rather than being defined by monetary equity. The ultimate ownership of the intellectual property and the final product resides with the organization. This architecture fosters a sense of collective stewardship over the project's outcome within the organizational boundaries.
+
+**5. Design for Autonomy:**
+IPD is highly compatible with distributed and autonomous systems, as evidenced by its reliance on empowered, decentralized teams (IPTs) that manage the day-to-day execution of projects. The structured nature of the framework, combined with clear roles and responsibilities, reduces coordination overhead, making it suitable for integration with AI-driven project management and automated design tools. The "Cognitive Era Considerations" section explicitly highlights its synergy with AI and automation.
+
+**6. Composability & Interoperability:**
+IPD is a highly composable framework that can be integrated with various other business and development methodologies. Its principles are not rigid, and practices can be adapted or combined with other patterns to create a tailored product development system. The modular approach to product architecture further enhances interoperability, allowing different components to be developed and integrated seamlessly.
+
+**7. Fractal Value Creation:**
+The value-creation logic of IPD demonstrates fractal characteristics, as it can be scaled and applied at multiple levels. The existence of "Lite-IPD" for small and medium-sized enterprises (SMEs) shows that the core principles of cross-functional collaboration and gated development can be adapted to different organizational sizes and complexities. This allows the pattern to be effectively implemented from small projects to large-scale enterprise portfolios.
+
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+IPD receives a transitional score because it provides a strong foundation for collective value creation through its collaborative, resilient, and scalable framework. However, its primary focus remains on economic value within a traditional business context. To fully align with the Commons OS v2.0 framework, it needs to be adapted to more explicitly incorporate a broader stakeholder architecture and a more holistic definition of value that includes social and ecological dimensions.
+
+**Opportunities for Improvement:**
+- Integrate a wider range of stakeholders, including representatives for environmental and social concerns, into the initial "Concept Stage" to ensure their Rights and Responsibilities are considered from the outset.
+- Expand the criteria at the Decision Checkpoints (DCPs) to include metrics for social and ecological value creation, alongside traditional business and technical criteria.
+- Develop a "Commons-Oriented IPD" variant that explicitly guides teams in creating value for a broader commons, not just for the organization and its customers.
 
 # 9. Resources & References
 

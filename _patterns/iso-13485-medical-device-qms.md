@@ -124,49 +124,37 @@ In the Cognitive Era, characterized by the rise of artificial intelligence (AI),
 *   **Validation of AI/ML Algorithms:** The use of AI and ML in medical devices and quality management processes introduces new challenges for validation. Organizations must develop new methods to validate the performance and safety of these algorithms to ensure that they are reliable and that they do not introduce unintended biases.
 
 *   **Regulatory Landscape:** The regulatory landscape for medical devices is constantly evolving to keep pace with technological advancements. Organizations must stay abreast of these changes and ensure that their QMS meets the latest regulatory requirements.
+### 8. Commons Alignment Assessment (v2.0)
 
-# 8. Commons Alignment Assessment
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-This section provides an assessment of the ISO 13485 standard's alignment with the principles of a commons-based approach. The assessment is based on a general understanding of commons principles, as specific dimensions for the Commons OS Alignment Assessment were not available at the time of this writing.
+**1. Stakeholder Architecture:**
+ISO 13485 primarily defines the Rights and Responsibilities of medical device manufacturers, with a strong focus on ensuring safety and meeting the requirements of customers (patients, healthcare professionals) and regulatory bodies. While it extends responsibility to suppliers and service providers, its stakeholder architecture is narrowly focused on the direct participants in the device lifecycle. It does not explicitly account for the Rights and Responsibilities of the environment, future generations, or the broader community as stakeholders in healthcare outcomes.
 
-**1. Openness and Transparency:** ISO 13485 promotes transparency in processes and documentation, which aligns with the principle of openness. However, the standard itself is not open source and must be purchased.
+**2. Value Creation Capability:**
+The pattern strongly enables the creation of social value by ensuring the safety, quality, and efficacy of medical devices, which is fundamental to public health. However, its definition of value is largely confined to regulatory compliance and meeting customer specifications, which are proxies for health outcomes. It does not inherently promote the creation of other forms of value, such as ecological (e.g., sustainable manufacturing), knowledge (e.g., open data from clinical studies), or collective resilience value beyond the reliability of the device itself.
 
-**2. Collaboration and Participation:** The standard encourages the involvement of people at all levels of the organization, which is a form of collaboration. However, it does not explicitly promote broader community participation in the development of the QMS.
+**3. Resilience & Adaptability:**
+The standard promotes resilience by mandating a risk-based approach and a process for continual improvement (CAPA), helping organizations maintain coherence and adapt to evolving regulatory landscapes. However, its highly structured and compliance-driven nature can also introduce rigidity, potentially slowing adaptation to disruptive technological or social changes. The framework is designed for predictable, controlled processes rather than thriving on emergent, complex dynamics.
 
-**3. Distributed and Decentralized Control:** ISO 13485 is a centralized standard developed and maintained by ISO. While it can be implemented in a decentralized manner within an organization, the standard itself is not a distributed or decentralized system.
+**4. Ownership Architecture:**
+Ownership within ISO 13485 is implicitly defined through the lens of liability and responsibility for the quality and safety of the product, resting almost entirely with the manufacturer. It does not articulate a broader concept of ownership that includes shared rights and responsibilities among all stakeholders who contribute to or are impacted by the medical device. The focus is on controlling the production process rather than stewarding a collective resource (health and well-being).
 
-**4. Modularity and Granularity:** The process-based approach of ISO 13485 allows for a modular QMS, where different processes can be managed as individual components. This aligns with the principle of modularity.
+**5. Design for Autonomy:**
+The standard's rigorous documentation and control requirements can create significant coordination overhead, which is not inherently aligned with the principles of high-autonomy systems like DAOs. However, its process-oriented and risk-based approach is compatible with the logic of automated and distributed systems. The "Cognitive Era Considerations" acknowledge the need to adapt for AI and SaMD, suggesting a potential for future compatibility if the standard evolves to better manage validation and cybersecurity in autonomous contexts.
 
-**5. Reusability and Forkability:** The standard is designed to be reusable across different organizations and can be adapted to specific needs. However, as a copyrighted document, it is not "forkable" in the open-source sense.
+**6. Composability & Interoperability:**
+ISO 13485 is highly interoperable with other management system standards, particularly ISO 9001, and is designed to be a core component within a larger regulatory and quality assurance framework. It can be composed with other patterns related to design, manufacturing, and post-market surveillance to build a comprehensive value-creation system within the regulated medical device industry. Its domain-specific nature, however, limits its direct composability with patterns from other industries without significant adaptation.
 
-**6. Sustainability and Resilience:** By promoting risk management and continual improvement, ISO 13485 contributes to the sustainability and resilience of organizations in the medical device industry.
+**7. Fractal Value Creation:**
+The core logic of risk management and quality assurance can be applied fractally at various scales. The principles apply to individual components, sub-assemblies, the final device, the entire QMS, and even the extended supply chain. This allows the value-creation logic of ensuring safety and effectiveness to be consistently replicated and integrated across multiple levels of the system, from a single supplier to a global manufacturing network.
 
-**7. Governance and Decision-Making:** The standard provides a framework for governance and decision-making within the QMS. However, the governance of the standard itself is centralized within ISO.
+**Overall Score: 3 (Transitional)**
 
-**Overall Commons Alignment Score: 3/5**
+**Rationale:**
+ISO 13485 is a critical enabler of safety and quality in a high-stakes domain, creating significant social value. It receives a "Transitional" score because its architecture is heavily rooted in a legacy, compliance-driven model focused on the manufacturer, rather than a holistic, multi-stakeholder value creation system. While it contains elements of resilience and a scalable logic, it requires significant adaptation to embrace a broader definition of value, a more inclusive stakeholder architecture, and a more distributed model of ownership and responsibility.
 
-While ISO 13485 incorporates some principles that align with a commons-based approach, such as transparency and modularity, it is ultimately a proprietary standard with a centralized governance model. Therefore, its alignment with the commons is moderate.
-
-# 9. Resources & References
-
-[1] ISO 13485:2016 - Medical devices — Quality management systems — Requirements for regulatory purposes. (2016). International Organization for Standardization. Retrieved from https://www.iso.org/standard/59752.html
-
-[2] Speer, J. (2024). ISO 13485 for Medical Devices QMS [Complete Guide]. Greenlight Guru. Retrieved from https://www.greenlight.guru/blog/iso-13485-qms-medical-device
-
-[3] Qualio. (n.d.). ISO 13485: the essential guide. Retrieved from https://www.qualio.com/blog/iso-13485-standard
-
-[4] Jama Software. (2025). What is ISO 13485? A Simple Guide for Medical Device Professionals. Retrieved from https://www.jamasoftware.com/blog/2025/11/18/what-is-iso-13485-a-simple-guide-for-medical-device-professionals/
-
-[5] Ideagen. (2023). What is ISO 13485 and why is it so important?. Retrieved from https://www.ideagen.com/thought-leadership/blog/what-is-iso-13485-and-why-is-it-so-important
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/iso-13485-medical-device-qms/](https://commons-os.github.io/patterns/domain/iso-13485-medical-device-qms/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/iso-13485-medical-device-qms.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/iso-13485-medical-device-qms.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
+**Opportunities for Improvement:**
+- Broaden the stakeholder model to formally include the environment, community, and future generations, defining their Rights and Responsibilities in the device lifecycle.
+- Integrate principles of the circular economy and sustainability into the risk management and product realization processes to create ecological value.
+- Evolve the framework to better support the validation and governance of autonomous systems (AI/ML) and to encourage the sharing of non-sensitive data as a knowledge commons to accelerate innovation.

@@ -15,7 +15,7 @@ tags:
   era: [digital]
   origin: [agile-manifesto]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023xaemr9xsmctmvqdm2s"]
@@ -156,39 +156,40 @@ The human element remains central to Agile governance. While AI provides data, h
 
 As AI becomes more sophisticated, Agile governance will continue to evolve. The line between governance and execution will blur as AI tools provide real-time feedback. We may see "governance-as-a-service," enabling more decentralized and autonomous governance. This will raise ethical questions about AI in governance, requiring a focus on fairness, transparency, and human-centricity.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-**1. Stakeholder Mapping:**
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-Agile Governance expands stakeholder engagement by including customers in the value creation process. However, the stakeholder map is often limited to those with a direct economic or operational stake. A broader commons perspective would require a more expansive mapping to include the community, environment, and future generations.
+**1. Stakeholder Architecture:**
+Agile Governance defines Rights and Responsibilities primarily for internal teams and customers, empowering them to drive value. However, its stakeholder architecture is narrowly focused on operational and economic participants. It lacks explicit consideration for broader stakeholders such as the environment, local communities, or future generations, which is a key element of a comprehensive commons framework.
 
-**2. Value Creation:**
+**2. Value Creation Capability:**
+The pattern strongly enables collective value creation by focusing on outcomes that benefit the customer and the organization. It fosters social value through empowered, collaborative teams and knowledge value via Communities of Practice. However, the definition of value remains largely centered on business and product metrics, with limited explicit mechanisms for creating or measuring ecological or broader societal value.
 
-Agile Governance accelerates value creation, focusing on customer and business value. The benefits are typically captured by the organization and its customers. A commons perspective would expand the definition of value to include social and environmental value and consider its distribution among all stakeholders.
+**3. Resilience & Adaptability:**
+This is a core strength of Agile Governance, as it is explicitly designed to help systems thrive on change and adapt to complexity. By promoting iterative cycles, continuous feedback, and decentralized decision-making, it builds organizational resilience. The framework enables coherence under stress by empowering those closest to the work to respond to challenges in real-time.
 
-**3. Value Preservation:**
+**4. Ownership Architecture:**
+Agile Governance promotes collective ownership of outcomes and shared accountability within teams, which is a foundational step beyond individual responsibility. However, it does not fundamentally alter traditional ownership structures regarding equity or capital. The concept of ownership is tied to project deliverables rather than a broader architecture of Rights and Responsibilities for the commons itself.
 
-Agile Governance excels at value preservation. Its principles of continuous improvement and adaptation ensure organizational relevance and responsiveness. This focus on long-term adaptability and resilience aligns with the commons principle of stewarding resources for the future.
+**5. Design for Autonomy:**
+The pattern is highly compatible with autonomous systems, including AI and DAOs, due to its emphasis on empowering self-organizing teams and reducing coordination overhead. Its principles of transparency and decentralized control provide a robust foundation for integrating autonomous agents. AI can augment Agile Governance by automating reporting and providing real-time insights, further enhancing team autonomy.
 
-**4. Shared Rights & Responsibilities:**
+**6. Composability & Interoperability:**
+Agile Governance is highly composable and designed to integrate with other organizational patterns like Scrum, Kanban, and DevOps. This modularity allows organizations to create tailored, larger-scale systems for value creation. It serves as a flexible governance layer that can connect different functional and operational patterns into a cohesive whole.
 
-Agile Governance promotes shared rights and responsibilities within the team, but the distribution beyond the team is less clear. A more commons-aligned approach would create a more equitable distribution of rights and responsibilities among all stakeholders.
+**7. Fractal Value Creation:**
+The principles of Agile Governance are inherently fractal, designed to be applied at any scale, from a single team to the entire enterprise. This allows the logic of adaptive, value-driven work to be replicated across different levels of an organization. This scalability ensures that the core value-creation capabilities can grow and adapt with the system.
 
-**5. Systematic Design:**
+**Overall Score: 4 (Value Creation Enabler)**
 
-Agile Governance is enabled by systematic frameworks like Scrum and Kanban, which provide the structure and discipline for agility at scale. These lightweight, flexible, and emergent systems ensure alignment and smooth value flow.
+**Rationale:**
+Agile Governance is a powerful enabler of collective value creation, providing essential mechanisms for adaptability, autonomy, and scalability. It represents a significant evolution from rigid, hierarchical models. However, it does not yet constitute a complete value creation architecture, as its definitions of "value" and "stakeholder" remain primarily focused on the business domain, lacking the broader ecological and societal scope of a true commons.
 
-**6. Systems of Systems:**
-
-Agile Governance can be composed with other organizational patterns like Holacracy, Design Thinking, and DevOps to create a more holistic and effective system. Its modular and flexible nature makes it a powerful building block for an adaptive and resilient organization.
-
-**7. Fractal Properties:**
-
-Agile Governance principles are highly fractal and can be applied at all scales of an organization. This creates a cohesive and aligned governance system, breaking down silos and improving communication.
-
-**Overall Score: 3 (Transitional)**
-
-Agile Governance is a transitional pattern, representing a significant step forward from traditional governance. While its emphasis on empowerment and transparency aligns with commons principles, its standard application often falls short of a fully commons-aligned approach. The focus on customer and business value can overshadow other stakeholders' needs, and the distribution of economic value is often not considered. There is an opportunity to evolve the pattern to be more inclusive, equitable, and regenerative.
+**Opportunities for Improvement:**
+- Broaden the stakeholder map to explicitly include non-human and non-economic actors like the environment and future generations, defining their Rights and Responsibilities.
+- Expand the definition of "value" to formally include ecological, social, and knowledge-based metrics alongside economic ones in prioritization and reporting.
+- Integrate new ownership models that distribute equity and control more broadly among all contributing stakeholders, moving beyond team-level accountability.
 
 ### 9. Resources & References
 

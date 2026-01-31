@@ -15,7 +15,7 @@ tags:
   era: [agricultural, industrial, digital, cognitive]
   origin: [Scandinavia, Russia]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 5
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -99,23 +99,40 @@ The transition to the Cognitive Era, characterized by the rise of artificial int
 
 **The Future of Sami Organization:** The Cognitive Era will undoubtedly reshape the organizational patterns of the Sami people. The traditional `siida` system may find new life in the digital world, with online communities and social networks complementing face-to-face interactions. The Sámi Parliaments may use AI-powered tools to analyze data and to make more informed decisions. The Saami Council may leverage digital platforms to build a global network of indigenous peoples who are working to protect their rights and their cultures. The future of Sami organization will depend on their ability to embrace the opportunities of the Cognitive Era while remaining true to their core principles of community, sustainability, and self-determination.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Sami organizational pattern demonstrates a moderate alignment with the principles of a commons-based approach, with a score of 3 out of 5. This assessment is based on the seven dimensions of commons alignment, which evaluate the extent to which a pattern fosters collaboration, shared ownership, and equitable governance.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**1. Open & Collaborative:** The traditional `siida` system is highly open and collaborative, with a strong emphasis on shared resources and collective decision-making. The modern Sámi Parliaments and the Saami Council also promote collaboration among Sami communities and organizations. **(4/5)**
+**1. Stakeholder Architecture:**
+The pattern defines a sophisticated stakeholder architecture through the `siida` system, which distributes rights and responsibilities among kinship-based groups. This architecture explicitly includes the environment as a key stakeholder, evidenced by the deep spiritual connection to ancestral lands and sustainable resource management. By focusing on cultural continuity and passing down knowledge, it also inherently accounts for the rights of future generations.
 
-**2. Decentralized & Distributed:** The `siida` system is a classic example of a decentralized and distributed governance model. The modern Sami political structures, while more formalized, also retain a degree of decentralization, with the Sámi Parliaments operating at the national level and the Saami Council coordinating efforts across borders. **(4/5)**
+**2. Value Creation Capability:**
+Value creation extends far beyond economic output like reindeer herding. The pattern enables the creation of profound social value through community cohesion and mutual support, ecological value via sustainable practices, and knowledge value by preserving and transmitting traditional ecological knowledge. This multi-faceted approach fosters collective resilience and well-being for the entire system.
 
-**3. Mutualistic & Synergistic:** The Sami organizational pattern is built on the principle of mutual support and synergy. The `siida` system ensures that the well-being of the community is prioritized, and the modern Sami institutions work to create a synergistic relationship between the different Sami communities. **(3/5)**
+**3. Resilience & Adaptability:**
+The pattern is fundamentally designed for resilience and adaptability, which are listed as core principles. The traditional `siida` was a flexible system that adapted to changing social and ecological conditions. This capacity is further demonstrated by the evolution to modern Sámi Parliaments, which blend ancient customs with contemporary political realities to maintain coherence and thrive amidst external pressures.
 
-**4. Fair & Equitable:** The traditional `siida` system was designed to ensure the fair and equitable distribution of resources. The modern Sami political structures are also committed to promoting fairness and equity, but they face challenges in addressing the historical injustices and inequalities that the Sami people have experienced. **(3/5)**
+**4. Ownership Architecture:**
+Ownership is defined as collective stewardship rather than individual property rights. The `siida` collectively manages a territory and its resources, with an emphasis on shared responsibilities for the long-term health of the land and the community. This architecture decouples ownership from monetary equity, rooting it in a commitment to the collective well-being of all stakeholders.
 
-**5. Sustainable & Resilient:** The Sami organizational pattern is highly sustainable and resilient, as evidenced by the Sami people's ability to maintain their cultural and social integrity for centuries. Their traditional ecological knowledge and their commitment to living in harmony with nature are key sources of their resilience. **(4/5)**
+**5. Design for Autonomy:**
+The traditional `siida` system is a model of decentralized, consensus-based governance with low coordination overhead, making it inherently autonomous. The modern push for self-determination through Sámi Parliaments continues this principle, aiming to increase political agency. Its decentralized and adaptive nature makes its core logic highly compatible with distributed systems and DAOs, even if not originally designed for them.
 
-**6. Purpose-Driven & Value-Aligned:** The Sami organizational pattern is deeply purpose-driven and value-aligned. The core purpose is the preservation of Sami culture, language, and livelihoods, and the core values are community, sustainability, and self-determination. **(4/5)**
+**6. Composability & Interoperability:**
+The pattern demonstrates high composability. Historically, individual `siidas` negotiated and interacted with each other to manage larger landscapes. In the modern era, the Saami Council acts as a coordinating body for the various national Sámi Parliaments, proving the pattern's ability to interoperate and combine into larger, more complex value-creation systems across national borders.
 
-**7. Evolutionary & Adaptive:** The Sami organizational pattern has demonstrated a remarkable capacity for evolution and adaptation. The transition from the traditional `siida` system to the modern Sámi Parliaments is a testament to their ability to innovate and to respond to changing circumstances. **(3/5)**
+**7. Fractal Value Creation:**
+The value-creation logic is inherently fractal, applying at multiple scales. The core principles of kinship, consensus, and sustainable stewardship function at the family level, the `siida` (community) level, and are scaled up to inform the governance of the pan-Sápmi political organizations. This allows the resilient value-creation architecture to be replicated and adapted from the local to the transnational scale.
+
+**Overall Score: 5 (Value Creation Architecture)**
+
+**Rationale:**
+The Sami organizational pattern is a complete, time-tested architecture for resilient collective value creation. It masterfully integrates social, ecological, and governance elements to create a system that is adaptive, sustainable, and equitable. It goes far beyond simple resource management to provide a holistic framework for the well-being of all its stakeholders, including the environment and future generations.
+
+**Opportunities for Improvement:**
+- Develop explicit protocols for data sovereignty to protect traditional ecological knowledge in the Cognitive Era.
+- Create formal bridges between the modern Sámi Parliaments and the traditional `siida` governance structures to ensure their continued relevance.
+- Document and open-source the core principles of the `siida` system as a governance model that can be adapted by other communities and DAOs.
 
 ## 9. Resources & References
 

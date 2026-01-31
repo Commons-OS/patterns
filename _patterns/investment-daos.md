@@ -119,21 +119,40 @@ The transition to the Cognitive Era, characterized by the increasing integration
 
 **The Human-AI Collaboration:** The future of Investment DAOs is likely to be characterized by a close collaboration between humans and AI. While AI can be used to automate and enhance many aspects of the DAO's operations, human oversight and judgment will still be essential. The most successful DAOs will be those that are able to effectively combine the power of AI with the wisdom and creativity of their human members.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-This section assesses the alignment of the Investment DAO pattern with the principles of a commons-based economy. The assessment is based on seven dimensions, with a score of 1 to 5 for each dimension, where 1 represents low alignment and 5 represents high alignment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Score (1-5) | Rationale |
-| :--- | :--- | :--- |
-| **Openness & Inclusivity** | 4 | Investment DAOs are generally open to anyone who purchases their governance tokens, which is a significant improvement over the exclusivity of traditional investment funds. However, the cost of tokens can still be a barrier to entry for some. |
-| **Decentralization of Power** | 5 | The core principle of a DAO is decentralization. Decision-making power is distributed among all members, and the rules of the organization are enforced by smart contracts, not by a central authority. |
-| **Transparency & Accountability** | 5 | All transactions and governance decisions are recorded on a public blockchain, making them fully transparent and auditable. This creates a high degree of accountability. |
-| **Fairness & Equity** | 3 | While Investment DAOs aim to be fair and equitable, the distribution of governance tokens can lead to a concentration of power in the hands of large token holders. This can create a new form of inequality. |
-| **Sustainability & Resilience** | 3 | The long-term sustainability and resilience of Investment DAOs are still unproven. They are vulnerable to smart contract exploits, market volatility, and regulatory uncertainty. |
-| **Community & Collaboration** | 4 | Investment DAOs are built around a community of members who collaborate to make investment decisions. This fosters a sense of collective ownership and shared purpose. |
-| **Social & Ecological Responsibility** | 2 | The primary focus of most Investment DAOs is on generating financial returns for their members. While some DAOs may have a social or ecological mission, this is not a universal characteristic of the pattern. |
+**1. Stakeholder Architecture:**
+Investment DAOs primarily define Rights and Responsibilities for their token-holding members, who are typically investors. This architecture is effective for managing pooled capital but often overlooks non-financial stakeholders such as the environment, future generations, or the broader community impacted by the investments. The rights are centered on governance and profit-sharing, while responsibilities are generally limited to the capital contributed.
 
-**Overall Commons Alignment Score: 3**
+**2. Value Creation Capability:**
+The pattern excels at enabling collective economic value creation for its members through pooled investments. However, the creation of other forms of value, such as social, ecological, or knowledge value, is not an inherent feature of the pattern and depends entirely on the specific investment thesis of the DAO. The core mechanism is geared towards financial returns, not a holistic view of value creation.
+
+**3. Resilience & Adaptability:**
+Investment DAOs demonstrate resilience through their decentralized governance and automated operations on the blockchain, which allows them to function without a central point of failure. Their adaptability comes from the ability of the community to propose and vote on changes to the investment strategy or governance rules. However, they remain vulnerable to market volatility, smart contract exploits, and evolving regulatory landscapes.
+
+**4. Ownership Architecture:**
+Ownership is defined almost exclusively by token holdings, which represent a share of the treasury and corresponding governance rights. This is a form of monetary equity and does not inherently encompass a broader set of rights and responsibilities. The concept of stewardship or non-financial contributions to ownership is not a core component of the pattern.
+
+**5. Design for Autonomy:**
+As a type of DAO, this pattern is inherently designed for autonomy and is highly compatible with AI and other distributed systems. The use of smart contracts for executing decisions significantly reduces coordination overhead for core operations like treasury management and voting. This makes them well-suited for the Cognitive Era.
+
+**6. Composability & Interoperability:**
+Investment DAOs are highly composable and interoperable within the blockchain ecosystem. They can invest in a wide range of digital assets and other protocols, and their own governance tokens can be integrated into other DeFi applications. This allows them to be a building block in larger, more complex value-creation systems.
+
+**7. Fractal Value Creation:**
+The fundamental logic of pooling capital and making collective investment decisions can be applied at multiple scales. This can range from small, informal investment clubs to large, institutional-grade venture funds. The pattern's core mechanics are fractal in nature, allowing for its application in various contexts and sizes.
+
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+Investment DAOs are a significant step towards democratizing investment and collective capital allocation. They have strong potential for alignment with the Commons OS framework, particularly in their decentralized and autonomous nature. However, their current implementation is often narrowly focused on financial value creation and a limited stakeholder model. To become a true Value Creation Architecture, they need to evolve to incorporate a broader definition of value and a more inclusive stakeholder architecture.
+
+**Opportunities for Improvement:**
+- Integrate mechanisms for recognizing and rewarding non-financial contributions to the DAO.
+- Develop governance models that explicitly include and empower a wider range of stakeholders beyond just investors.
+- Incorporate social and ecological impact metrics into the core investment thesis and reporting frameworks.
 
 ## 9. Resources & References
 

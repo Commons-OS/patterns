@@ -15,7 +15,7 @@ tags:
   era: [industrial]
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 2
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -103,17 +103,40 @@ Fiedler's Contingency Model, a product of the industrial era, was developed in a
 
 **Fiedler's later work on Cognitive Resource Theory (CRT) may be particularly relevant to the cognitive era. CRT suggests that a leader's intelligence and experience are key resources that they can draw upon, but that their ability to use these resources is affected by stress. In the high-pressure, high-stakes environment of many modern workplaces, understanding how stress impacts cognitive performance is crucial. CRT would suggest that in low-stress situations, a leader's intelligence is the most important resource, while in high-stress situations, their experience is more critical. This has important implications for how organizations should select and develop leaders for different types of roles.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-| Dimension | Assessment |
-|---|---|
-| **Openness & Transparency** | The model itself is open and transparent in its theoretical framework. However, its application within an organization can be less so. The use of the LPC scale and the diagnosis of situational favorableness may not always be transparent to the individuals being assessed. |
-| **Decentralization & Subsidiarity** | Fiedler's model is inherently hierarchical and leader-centric. It does not explicitly promote decentralization or subsidiarity. However, the practice of job engineering could be used to increase the autonomy of teams and to push decision-making down to lower levels. |
-| **Collaboration & Mutualism** | The model's focus on matching a leader to a situation can be seen as a form of collaboration between the organization and the individual leader. However, it does not directly address collaboration between teams or the development of mutualistic relationships across the organization. |
-| **Modularity & Reusability** | The model is highly modular. The concepts of leadership style and situational favorableness can be applied in a wide range of contexts. The LPC scale and the framework for diagnosing situations are reusable tools that can be deployed across an organization. |
-| **Resilience & Redundancy** | By ensuring that leaders are well-matched to their situations, the model can contribute to the resilience of the organization. A well-led team is more likely to be able to cope with stress and to adapt to changing circumstances. However, the model's emphasis on the stability of leadership style could be seen as a lack of redundancy. |
-| **Fairness & Equity** | The model's focus on objective assessment and matching can be seen as a way of promoting fairness and equity in leader selection and placement. However, the potential for bias in the LPC scale and in the diagnosis of situations could undermine this. |
-| **Sustainability & Long-term Orientation** | The model's emphasis on finding the right fit between a leader and a situation can contribute to the long-term sustainability of the organization. A good fit can lead to higher performance, lower turnover, and a more positive organizational climate. |
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
+
+**1. Stakeholder Architecture:**
+The Fiedler model primarily focuses on the leader-subordinate dyad within a hierarchical organization. It does not explicitly define Rights and Responsibilities for a broader set of stakeholders such as customers, the environment, or future generations. The architecture is limited to the internal power dynamics of an organization.
+
+**2. Value Creation Capability:**
+The model is designed to maximize organizational efficiency and task performance, which is a form of value creation. However, this value is narrowly defined and does not inherently include social, ecological, or knowledge value beyond the immediate goals of the organization. It is a framework for optimizing existing value streams, not for creating new ones.
+
+**3. Resilience & Adaptability:**
+The model promotes resilience by matching leaders to situations, but it views leadership style as static. This lack of adaptability in the leader is a significant drawback in a complex, rapidly changing world. The emphasis is on engineering the situation to fit the leader, rather than building a system that can adapt to new challenges.
+
+**4. Ownership Architecture:**
+Ownership is implicitly defined through the concept of "position power," which is a traditional, hierarchical view of authority. The model does not explore alternative ownership structures or the distribution of Rights and Responsibilities beyond the formal hierarchy. It operates within the paradigm of a traditional corporate structure.
+
+**5. Design for Autonomy:**
+As a leader-centric model, it is not inherently designed for autonomous systems like DAOs. The model's reliance on a single leader as the primary driver of effectiveness makes it difficult to apply in a distributed or decentralized context. The coordination overhead is high, requiring constant assessment of the leader and the situation.
+
+**6. Composability & Interoperability:**
+The model is highly modular and can be used as a diagnostic tool in conjunction with other organizational theories. It can be composed with other patterns to create a more comprehensive leadership framework. This is one of its main strengths in a modern context.
+
+**7. Fractal Value Creation:**
+The core logic of matching a leader to a situation can be applied at different scales, from a small team to a large division. However, the model does not explicitly address how this fractal application would work in practice or how to ensure coherence across scales.
+
+**Overall Score: 2 (Partial Enabler)**
+
+**Rationale:**
+Fiedler's Contingency Model is a product of its time, focused on optimizing leadership within a hierarchical structure. While it provides a useful framework for thinking about the fit between a leader and a situation, it falls short of the v2.0 framework's emphasis on collective value creation, stakeholder inclusivity, and adaptability. It is a partial enabler, but requires significant adaptation to be relevant in a commons-based context.
+
+**Opportunities for Improvement:**
+- Broaden the definition of "situational favorableness" to include ecological and social factors.
+- Develop a more dynamic view of leadership style that allows for adaptation and learning.
+- Integrate the model with other frameworks that focus on stakeholder engagement and distributed governance.
 
 ## 9. Resources & References
 

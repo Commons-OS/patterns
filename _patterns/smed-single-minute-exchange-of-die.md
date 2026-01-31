@@ -15,7 +15,7 @@ tags:
   era: [industrial, digital]
   origin: [Toyota]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -200,3 +200,38 @@ The Commons Alignment Assessment evaluates how well the SMED pattern aligns with
 ---
 
 *Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
+
+### 8. Commons Alignment Assessment (v2.0)
+
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
+
+**1. Stakeholder Architecture:**
+SMED primarily focuses on the roles and responsibilities of operational stakeholders like operators, engineers, and maintenance personnel. It creates a clear architecture for their collaboration during changeover processes. However, it does not explicitly consider a wider range of stakeholders such as the environment, community, or future generations in its framework.
+
+**2. Value Creation Capability:**
+The pattern excels at creating economic value by increasing machine uptime and production flexibility. It also generates significant knowledge value by capturing and standardizing best practices for changeover procedures. While not its primary focus, it can indirectly contribute to ecological value by enabling smaller, more energy-efficient production runs and reducing material waste.
+
+**3. Resilience & Adaptability:**
+SMED is a powerful enabler of adaptability and resilience in production systems. By drastically reducing changeover times, it allows organizations to respond quickly to fluctuations in customer demand and market conditions. This ability to switch between different products with minimal downtime is a key factor in building a resilient and agile manufacturing operation.
+
+**4. Ownership Architecture:**
+While SMED does not address ownership in terms of equity or formal governance, it fosters a sense of psychological ownership among the teams involved. By empowering operators to analyze, innovate, and improve their own work processes, it distributes responsibility and control to the edges. This creates a more engaged workforce that takes pride in the efficiency and quality of their work.
+
+**5. Design for Autonomy:**
+The principles of SMED are highly compatible with automation and distributed systems. The standardization of tasks, clear separation of internal and external activities, and simplification of movements create a process that is well-suited for robotic automation. The low coordination overhead of a standardized SMED process makes it an ideal component for more autonomous and decentralized manufacturing systems.
+
+**6. Composability & Interoperability:**
+SMED is an exceptionally composable pattern and a cornerstone of the Toyota Production System. It integrates seamlessly with other lean manufacturing patterns like Kanban, 5S, and Total Productive Maintenance to create a holistic system for value creation. Its universal principles of setup reduction can be applied and combined with various methodologies in diverse industries.
+
+**7. Fractal Value Creation:**
+The core logic of SMED—separating internal from external work and streamlining all activities—is fractal in nature. This principle can be applied at multiple scales, from a single workstation to an entire factory, and even across different industries. The same thinking has been used to reduce operating room turnover in hospitals and accelerate software deployment in IT, demonstrating its scalability.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+SMED is a powerful engine for creating economic and knowledge value, and it provides a robust framework for enhancing the adaptability and resilience of a system. Its principles are highly composable and fractal, allowing them to be applied in a wide variety of contexts. While it lacks a broader stakeholder and ownership perspective, it is a foundational enabler for more complex value creation architectures.
+
+**Opportunities for Improvement:**
+- The framework could be expanded to explicitly include ecological and social stakeholders in the analysis and optimization of changeover processes.
+- The concept of "ownership" could be developed to include formal rights and responsibilities for the teams that are improving the processes.
+- The value created could be measured and distributed more broadly than just in economic terms, for example by quantifying the knowledge and resilience generated.

@@ -15,7 +15,7 @@ tags:
   era: [digital]
   origin: [scott-ambler, mark-lines]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -136,7 +136,40 @@ While AI and automation have the potential to significantly augment the DAD fram
 
 In the Cognitive Era, the DAD framework is likely to evolve in several ways. We can expect to see a greater emphasis on data-driven decision-making, with teams using AI-powered tools to collect and analyze data about their process and performance. The framework will also likely incorporate new practices and techniques for managing the development and deployment of AI-powered systems. The role of the team member will also evolve, with a greater emphasis on skills such as data literacy, AI ethics, and human-computer interaction. Ultimately, the DAD framework's focus on learning, adaptation, and continuous improvement will be key to its continued relevance and success in the Cognitive Era.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
+
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
+
+**1. Stakeholder Architecture:**
+DAD defines a clear set of roles and responsibilities (e.g., Stakeholder, Product Owner, Team Lead), establishing a basic stakeholder architecture. However, this architecture is primarily focused on the direct participants in the IT solution delivery process. The framework does not explicitly extend rights and responsibilities to non-obvious stakeholders such as the environment, local communities, or future generations, which remains a significant gap from a commons perspective.
+
+**2. Value Creation Capability:**
+DAD's core principle to "Delight Customers" and produce "consumable solutions" moves beyond purely economic outputs to include user satisfaction and usability. The framework's flexibility allows for the potential to define value more broadly, but it does not inherently guide teams to create social, ecological, or knowledge value. The capability for broader value creation is present but requires a conscious effort from the implementing organization to define and prioritize it.
+
+**3. Resilience & Adaptability:**
+This is a core strength of the DAD framework. Principles like "Context Counts," "Choice is Good," and the availability of multiple lifecycles (Scrum, Kanban, etc.) are explicitly designed to help teams adapt to complexity and thrive on change. By allowing teams to choose their own "Way of Working" (WoW), DAD enables systems to maintain coherence and effectiveness even when under stress or facing unforeseen challenges.
+
+**4. Ownership Architecture:**
+DAD's roles and responsibilities distribute leadership and decision-making within the delivery process, but the ownership architecture for the resulting product and its value remains conventional. It operates under the assumption that the sponsoring organization retains all rights and equity. The framework does not introduce or explore concepts of stewardship, co-ownership with stakeholders, or other non-monetary forms of equity.
+
+**5. Design for Autonomy:**
+The framework's goal-driven, non-prescriptive nature and its principle of "Enterprise Awareness" make it highly compatible with distributed and autonomous systems. DAD's focus on outcomes over specific processes provides the flexibility needed for AI-driven teams or DAOs to operate effectively. The coordination overhead is relatively low for an enterprise-grade framework, promoting team autonomy.
+
+**6. Composability & Interoperability:**
+DAD is explicitly designed as a hybrid, composable framework, integrating proven practices from Scrum, Kanban, Extreme Programming (XP), and other methods. It is built to function within a "systems of systems" context, emphasizing interoperability with other teams and enterprise assets. This makes it highly effective for building larger, integrated value-creation systems by combining it with other patterns.
+
+**7. Fractal Value Creation:**
+The principles of DAD are designed to be scalable and can be applied at multiple levels, from a single team to a large-scale program and across the entire enterprise (via the broader Disciplined Agile framework). This demonstrates a strong fractal capability, as the core logic of context-sensitive, goal-driven value creation can be replicated at different scales. The framework provides a consistent yet flexible approach that scales effectively.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+DAD is a powerful Value Creation Enabler because it provides a robust, adaptable, and scalable process architecture for complex solution delivery. Its strengths in resilience, composability, and fractal scaling create the necessary conditions for resilient collective value creation. However, it falls short of a perfect score because its stakeholder and ownership models are still rooted in a traditional, enterprise-centric view, requiring significant adaptation to fully align with a commons-based approach.
+
+**Opportunities for Improvement:**
+- Explicitly expand the "Stakeholder" role to include non-human and future-generation stakeholders, with defined rights and responsibilities.
+- Integrate a multi-capital value framework (e.g., social, ecological, knowledge) into the "Delight Customers" and "Consumable Solution" concepts.
+- Introduce options for alternative ownership models, such as steward-ownership or open-source licensing, within the Transition phase.
 
 Disciplined Agile Delivery (DAD), with its flexible, context-sensitive, and enterprise-aware approach, presents an interesting case for a Commons Alignment Assessment. While it originated as a framework for improving IT solution delivery within a corporate context, its underlying principles and practices have the potential to support more commons-oriented approaches to value creation.
 
@@ -172,7 +205,7 @@ DAD's principles, such as "Context Counts" and "Choice is Good," can be applied 
 
 Disciplined Agile Delivery is best described as a **Transitional** framework in terms of its commons alignment. It represents a significant step forward from traditional, command-and-control approaches, with its emphasis on collaboration, empowerment, and stakeholder engagement. Its flexibility and context-sensitive nature provide a foundation upon which a more commons-oriented approach could be built. However, as it is typically applied within a corporate context, its primary focus remains on creating value for the organization rather than for the commons. To move towards a higher level of commons alignment, organizations using DAD would need to consciously and explicitly broaden their definition of "stakeholder" and "value," and explore alternative models of ownership and governance.
 
-## 9. Resources & References
+## 8. Resources & References
 
 ### Essential Reading
 

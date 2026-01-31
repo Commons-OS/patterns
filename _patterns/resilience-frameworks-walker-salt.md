@@ -15,7 +15,7 @@ tags:
   era: [digital, cognitive]
   origin: [academic]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 5
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -171,25 +171,40 @@ The origin of the Resilience Framework can be traced to the work of ecologist C.
 
 The framework is likely to evolve towards a more predictive and proactive approach, with the use of digital twins becoming more common. New systemic risks from the increasing reliance on AI will need to be managed.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-**1. Stakeholder Mapping:** Highly comprehensive, calling for the inclusion of a wide range of actors.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**2. Value Creation:** Shifts the focus from short-term optimization to long-term sustainability, benefiting all who depend on the system.
+**1. Stakeholder Architecture:**
+The Resilience Framework provides a robust stakeholder architecture by explicitly advocating for broad participation and polycentric governance. It moves beyond a human-centric view to consider the entire social-ecological system, defining rights and responsibilities through distributed, multi-level decision-making. This approach ensures that a diversity of knowledge and perspectives—from local communities to scientific experts—are integrated into the governance process, fostering a sense of shared stewardship.
 
-**3. Value Preservation:** The entire framework is geared towards preserving value in the face of change.
+**2. Value Creation Capability:**
+The framework fundamentally shifts the focus from maximizing efficiency and economic output to enabling diverse and resilient value creation. It explicitly recognizes ecological value (biodiversity), social value (social capital, trust), and knowledge value (learning, adaptation) as critical components of a healthy system. By prioritizing the system's capacity to absorb shocks and reorganize, it ensures the long-term capability for all forms of value to be generated and sustained.
 
-**4. Shared Rights & Responsibilities:** Promotes a more distributed and equitable sharing of rights and responsibilities.
+**3. Resilience & Adaptability:**
+This is the core competency of the pattern. The entire framework is a methodology for understanding and enhancing the ability of complex systems to thrive on change, adapt to uncertainty, and maintain coherence under stress. Principles like managing slow variables, encouraging learning, and fostering complex adaptive systems thinking are all directly aimed at building this capacity, making it a foundational pattern for any resilient system.
 
-**5. Systematic Design:** Provides a clear and systematic process for assessing and managing resilience.
+**4. Ownership Architecture:**
+The pattern implicitly redefines ownership as distributed stewardship. By promoting polycentric governance and broad participation, it moves beyond concepts of monetary equity or centralized control. Instead, ownership is expressed as a shared set of rights and responsibilities to maintain the health and resilience of the system for all stakeholders, including future generations.
 
-**6. Systems of Systems:** Inherently a "systems of systems" approach, recognizing that systems are nested and interconnected.
+**5. Design for Autonomy:**
+The framework is highly compatible with autonomous systems. Its emphasis on polycentricity, self-organization, and adaptive management aligns perfectly with the principles of distributed systems, DAOs, and AI-augmented governance. It provides the conceptual tools to design systems with low coordination overhead, where autonomous agents can operate effectively within a resilient, value-creating whole.
 
-**7. Fractal Properties:** The principles can be applied at multiple scales.
+**6. Composability & Interoperability:**
+As a meta-framework, this pattern is exceptionally composable. It is designed to be applied on top of other patterns, whether they are specific governance models, economic systems, or technological platforms. It provides a universal lens for assessing and enhancing the resilience of any system, allowing it to be combined with other patterns to create larger, more complex, and more resilient value-creation architectures.
 
-**Overall Score: 4 (Commons-Aligned)**
+**7. Fractal Value Creation:**
+The principles of the Resilience Framework are inherently fractal, designed to be applicable at all scales—from individuals and teams to organizations, ecosystems, and global systems. The concept of nested, polycentric governance directly reflects this fractal logic, allowing the same core principles of value creation and resilience to be applied consistently across different levels of a system.
 
-The framework is strongly aligned with commons principles. The main opportunity for improvement is ensuring equitable outcomes in practice.
+**Overall Score: 5 (Value Creation Architecture)**
+
+**Rationale:**
+The Resilience Framework provides a complete, high-level architecture for designing and managing systems that enable resilient collective value creation. It is not merely an enabler but a foundational blueprint that reorients thinking from resource management to the stewardship of a system's capacity to generate diverse value over time. Its principles are universally applicable and form a cornerstone of the Commons OS v2.0 philosophy.
+
+**Opportunities for Improvement:**
+- Integrate more explicit guidance on designing for non-human (e.g., AI, environmental) stakeholders' rights and responsibilities.
+- Develop clearer metrics for measuring diverse forms of value (social, ecological, knowledge) created through the framework's application.
+- Provide more concrete tools for implementing the framework within digitally native organizations like DAOs.
 
 ### 9. Resources & References
 

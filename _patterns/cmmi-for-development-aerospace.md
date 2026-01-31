@@ -15,7 +15,7 @@ tags:
   era: industrial
   origin: [carnegie-mellon-university, dod]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 2
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -75,13 +75,40 @@ The cognitive era, characterized by the rise of artificial intelligence (AI) and
 However, the cognitive era also raises new questions that the traditional CMMI framework may not fully address. For example, how do we verify and validate the behavior of complex, non-deterministic AI/ML systems? How do we ensure the ethical use of AI in autonomous systems? These are questions that the aerospace industry is currently grappling with, and the CMMI framework will need to evolve to provide guidance in these areas. The CMMI Institute has already begun to address some of these issues with the introduction of CMMI V2.0, which includes a greater focus on performance and the integration of agile and security practices. As the cognitive era continues to unfold, it is likely that we will see further evolution of the CMMI framework to address the unique challenges and opportunities of developing intelligent systems for the aerospace industry.
 
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The CMMI for Development (Aerospace) pattern has a mixed alignment with the principles of a commons-based approach. On the one hand, the CMMI framework itself is proprietary, developed and maintained by the CMMI Institute, a subsidiary of ISACA. Access to the full CMMI model requires a license, and appraisals must be conducted by certified lead appraisers. This proprietary nature is in direct contrast to the open-source principles of the Commons OS. The knowledge and best practices contained within the CMMI model are not freely available to be modified, shared, or improved upon by the community. This creates a barrier to entry for smaller organizations and can stifle innovation.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-However, there are aspects of the CMMI pattern that do align with a commons-based approach. The framework promotes a culture of process improvement and knowledge sharing within an organization. By documenting and standardizing processes, CMMI helps to make knowledge explicit and transferable, which is a key principle of a knowledge commons. The framework also encourages collaboration and communication among team members, which can foster a more open and collaborative work environment. Furthermore, the widespread adoption of CMMI in the aerospace industry has led to the development of a large community of practice, with numerous books, articles, and conferences dedicated to the topic. This community of practice serves as a de facto knowledge commons, where practitioners can share their experiences and learn from one another.
+**1. Stakeholder Architecture:**
+The pattern primarily defines Rights and Responsibilities within a contractual, two-party relationship between the acquirer (e.g., NASA, DoD) and the development organization. It is highly focused on ensuring the supplier meets the customer's explicit requirements. The framework does not inherently account for a broader set of stakeholders, such as end-users, the environment, or future generations, whose rights and responsibilities are not defined in the development contract.
 
-In the context of the Commons OS, the CMMI for Development (Aerospace) pattern can be seen as a valuable, albeit imperfect, tool. It provides a structured and proven approach to process improvement that can help organizations to develop the capabilities needed to contribute to a commons-based ecosystem. However, its proprietary nature and the cost of implementation are significant drawbacks. A more commons-aligned approach would be to develop an open-source process improvement framework that is freely available to all and that can be adapted and improved upon by the community. Such a framework could draw upon the best practices of CMMI, but would be developed and governed in a more open and collaborative manner.
+**2. Value Creation Capability:**
+CMMI enables the creation of significant value in terms of product quality, reliability, and safety, which are forms of resilience value crucial in the aerospace domain. The framework's goal is to create predictable and efficient processes, leading to economic value through reduced costs and schedule overruns. However, its definition of value is narrowly scoped to the product and its specified requirements, with limited mechanisms for creating or measuring broader social, ecological, or knowledge value beyond the organization.
+
+**3. Resilience & Adaptability:**
+The pattern builds resilience through process institutionalization, risk management, and quantitative control, ensuring coherence and predictability under the stress of complex projects. It supports adaptability through a commitment to continuous process improvement, allowing organizations to evolve their capabilities. However, its highly structured, plan-driven nature can be rigid and less adaptable to the dynamic complexity and rapid, unexpected changes that characterize modern socio-technical systems.
+
+**4. Ownership Architecture:**
+CMMI does not address ownership architecture in the sense of Commons OS v2.0. Ownership is implicitly defined by the contractual agreements between the customer and the developer, focusing on the intellectual property and physical ownership of the final product. The framework is concerned with the process of creation, not the stewardship, rights, and responsibilities associated with the asset over its full lifecycle in a multi-stakeholder ecosystem.
+
+**5. Design for Autonomy:**
+As a process framework for human-led organizations, CMMI is not designed for autonomy. Its implementation requires significant human coordination, management, and oversight through process groups, appraisals, and project planning, resulting in high coordination overhead. While it can be used to manage the development of autonomous systems, the framework itself does not operate autonomously or facilitate low-friction interactions typical of DAOs or distributed systems.
+
+**6. Composability & Interoperability:**
+The pattern demonstrates strong interoperability with other industry-specific standards like AS9100D, allowing it to be composed into a comprehensive quality management system. This enables organizations to build robust, compliant development processes. However, its composability is largely confined to the rigid and highly-regulated industrial context for which it was designed, and it is not a modular, 'plug-and-play' pattern for building diverse value-creation systems.
+
+**7. Fractal Value Creation:**
+The CMMI model's structure of process areas and maturity levels can be applied fractally within an organization, from individual projects to entire business units. The core logic of process measurement and improvement can scale across these internal levels. However, the value it creates—process maturity—is primarily contained within the organization and does not inherently scale or replicate into a broader ecosystem or across different commons.
+
+**Overall Score: 2 (Partial Enabler)**
+
+**Rationale:**
+CMMI-DEV is a powerful industrial-era framework for ensuring process quality and predictability, which are partial enablers of resilient value creation. It provides strong mechanisms for risk management and process improvement. However, its fundamental architecture is misaligned with a commons-based approach; it is proprietary, has a narrow stakeholder focus, defines value in economic and technical terms, and carries high coordination overhead, presenting major gaps when assessed against the v2.0 framework.
+
+**Opportunities for Improvement:**
+- Integrate a multi-stakeholder model beyond the customer-supplier dyad to include environmental and social impact considerations in the project lifecycle.
+- Adapt the framework to define and measure value creation more broadly, including knowledge, social, and ecological value streams.
+- Develop a lightweight, open-source version of the core principles to make process improvement more accessible and adaptable for smaller, more dynamic organizations and distributed networks.
 
 
 ### 9. Resources & References

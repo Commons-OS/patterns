@@ -15,7 +15,7 @@ tags:
   era: [industrial, digital]
   origin: [academic, corporate]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -203,27 +203,40 @@ While AI and automation are powerful tools, they are not a replacement for the h
 In the Cognitive Era, the Preventive Health pattern will likely become more personalized, predictive, and integrated into daily life. We can expect more smart devices and apps that continuously monitor health and provide real-time feedback. The focus will shift to highly individualized programs tailored to each employee's unique factors. The ethical implications of using this data will become increasingly important, and organizations will need to be transparent and accountable. The Cognitive Era has the potential to transform the Preventive Health pattern into a continuous and integrated system for promoting employee well-being.
 
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Preventive Health pattern can align well with a commons-based approach, but the degree of alignment depends on the program's design and implementation.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-1.  **Stakeholder Mapping:** A commons-aligned approach involves a broad and inclusive mapping of all stakeholders, including employees, their families, the organization, healthcare providers, and the community. A conventional approach might focus more narrowly on the organization's interests.
+**1. Stakeholder Architecture:**
+The Preventive Health pattern primarily defines Rights and Responsibilities within an employer-employee framework. The organization holds the responsibility to provide resources and a supportive environment, while employees have the right to access these resources and the responsibility to engage in their own well-being. While families and the broader community are acknowledged as indirect stakeholders, the pattern lacks a formal architecture for integrating their rights or responsibilities into the system's governance.
 
-2.  **Value Creation:** A commons-aligned program aims to create value for all stakeholders, including improved health for employees, reduced healthcare costs for all, and a healthier community. An extractive approach might focus primarily on reducing costs for the organization.
+**2. Value Creation Capability:**
+The pattern explicitly enables the creation of collective value that extends beyond simple economic output. By focusing on holistic well-being—including physical, mental, and financial health—it directly cultivates social value and enhances the resilience of the workforce. This investment in human capital creates a collective capability for improved performance, engagement, and adaptability, which benefits both individuals and the organization.
 
-3.  **Value Preservation:** A commons-aligned program is designed to be sustainable and adaptable, with a long-term commitment of resources, a focus on building a culture of health, and continuous evaluation based on stakeholder feedback.
+**3. Resilience & Adaptability:**
+This pattern is designed to build resilience at multiple scales. For individuals, it enhances their capacity to manage stress and prevent chronic disease, helping them adapt to life's challenges. For the organization, it creates a more robust and productive workforce, making the system more resilient to disruptions caused by illness and burnout. Its data-driven nature allows it to adapt and personalize interventions, maintaining coherence as the workforce's needs evolve.
 
-4.  **Shared Rights & Responsibilities:** In a commons-aligned program, there is a clear and equitable distribution of rights and responsibilities. Employees have the right to privacy and to participate in the program's design and governance, and the responsibility to manage their own health. The organization is responsible for providing a safe and healthy work environment.
+**4. Ownership Architecture:**
+Ownership is defined through the principle of "Shared Responsibility," which functions as a set of reciprocal rights and duties rather than monetary equity. The organization has a duty of care and the right to a healthy workforce, while employees have the right to a healthy workplace and the duty to manage their health. This moves beyond a purely extractive model, but does not yet constitute a full co-ownership architecture where stakeholders share in the governance and upside of the value created.
 
-5.  **Systematic Design:** A commons-aligned program is systematically designed to be integrated with other organizational systems and processes, including aligning with the organization's mission, values, and business strategy.
+**5. Design for Autonomy:**
+The pattern is highly compatible with autonomous and distributed systems. As noted in its Cognitive Era considerations, AI and machine learning can be used to create personalized, scalable, and low-overhead wellness programs. The principles can be applied within decentralized autonomous organizations (DAOs) to support contributor well-being, demonstrating its flexibility and low coordination requirements when augmented with technology.
 
-6.  **Systems of Systems:** A commons-aligned program is part of a larger system that supports health and well-being at the community and societal levels, involving partnerships with local healthcare providers and community organizations.
+**6. Composability & Interoperability:**
+Preventive Health is inherently composable, designed to be integrated with other organizational functions like HR, occupational health, and safety. It can be combined with other patterns focused on data governance, community engagement, and education to create a more comprehensive value-creation system. This interoperability allows it to serve as a foundational layer for building a broader culture of health across an entire ecosystem.
 
-7.  **Fractal Properties:** The principles of a commons-aligned program are applied at all scales, from the individual to the ecosystem, with shared ownership, democratic governance, and equitable value distribution reflected in all aspects of the program.
+**7. Fractal Value Creation:**
+The pattern's core logic—that proactive investment in well-being creates systemic value—is inherently fractal. It can be applied effectively at the scale of the individual, team, organization, and even a multi-organizational ecosystem. The same principles of risk mitigation, capability building, and creating a supportive environment for health can be replicated to generate value at each level of the system.
 
-**Overall Score: 3 (Transitional)**
+**Overall Score: 4 (Value Creation Enabler)**
 
-Most corporate wellness programs are in a transitional phase, moving beyond a purely extractive model but not yet fully embracing a commons-aligned approach. While there is a growing recognition of the importance of employee well-being, the primary focus is often still on reducing costs. To become more commons-aligned, these programs need to broaden their stakeholder mapping, adopt a more holistic view of value creation, and give employees a greater voice in the program's design and governance.
+**Rationale:**
+The Preventive Health pattern is a powerful enabler of collective value creation, fostering a more resilient and capable workforce. It is fractal, composable, and adaptable to new technologies. However, its full potential as a value creation architecture is often limited by its implementation, which tends to prioritize organizational ROI over a true multi-stakeholder commons. To achieve the highest level of alignment, it would need a more robust framework for shared governance and value distribution that extends beyond the primary employer-employee relationship.
+
+**Opportunities for Improvement:**
+- Integrate a multi-stakeholder governance model (e.g., including families, community health providers) for program design and oversight.
+- Develop explicit mechanisms for sharing the value created (e.g., reduced healthcare costs) more broadly with employees and the community.
+- Strengthen the definition of Rights and Responsibilities for non-human stakeholders, such as the work environment itself or the AI systems used for personalization.
 
 ### 9. Resources & References
 

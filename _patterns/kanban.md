@@ -15,7 +15,7 @@ tags:
   era: [industrial, digital]
   origin: [toyota]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023zae8rthxw6518chq43", "pat_01kg5023zae8rthxw66c5atdj6"]
@@ -165,27 +165,40 @@ While AI and automation can handle many of the routine tasks associated with Kan
 
 In the cognitive era, we can expect to see the emergence of “intelligent” Kanban systems that are able to learn and adapt on their own. These systems will be able to automatically adjust WIP limits, re-route work around bottlenecks, and even suggest new process policies based on real-time data. The Kanban board will evolve from a static visualization of the workflow to a dynamic and interactive dashboard that provides real-time insights and recommendations. However, the fundamental principles of Kanban will remain as relevant as ever, providing a timeless framework for managing work in an increasingly complex and uncertain world.
 
-### 8. Commons Alignment Assessment (600-800 words)
+### 8. Commons Alignment Assessment (v2.0)
 
-This assessment evaluates the Kanban method against the seven dimensions of a commons-aligned organization. Kanban, as a process improvement methodology, is not inherently commons-aligned, but it can be a powerful tool for building and managing a commons.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-1.  **Stakeholder Mapping**: Kanban itself does not prescribe any specific stakeholder mapping. However, its emphasis on visualizing the entire workflow can help to make the different stakeholders and their roles more visible. A well-designed Kanban board can show who is responsible for each stage of the process, from the customer who requests the work to the team member who delivers it. This transparency can help to foster a sense of shared ownership and accountability. To improve its commons alignment, a Kanban implementation could explicitly map out all stakeholders, including those who are often overlooked, such as the community and the environment.
+**1. Stakeholder Architecture:**
+Kanban provides a framework for making work visible to all involved stakeholders, primarily the delivery team and the customer. Responsibilities are implicitly defined by the workflow stages, clarifying who does what and when. However, it does not inherently define rights or expand the stakeholder map to include non-obvious actors like the environment, the community, or future generations, requiring conscious adaptation to serve a broader commons.
 
-2.  **Value Creation**: Kanban is focused on creating value for the customer. It does this by improving the flow of work and reducing the time it takes to deliver value. However, the definition of “value” is often limited to the economic value created for the customer and the organization. A more commons-aligned approach would be to broaden the definition of value to include social and environmental value. For example, a Kanban board could be used to track the environmental impact of a project or the social benefits it creates.
+**2. Value Creation Capability:**
+The pattern is exceptionally strong at enabling the creation of economic and operational value by optimizing for speed and predictability. While its focus is on workflow efficiency, its flexible nature allows for the integration of other value dimensions, such as quality, knowledge, and team well-being, by making policies and goals explicit. It provides the "how" for value creation but requires the team to define "what" value to create, leaving the door open for social and ecological considerations.
 
-3.  **Value Preservation**: Kanban’s focus on continuous improvement is a key mechanism for value preservation. By constantly seeking to improve the process, Kanban helps to ensure that the organization remains relevant and effective over time. The practice of implementing feedback loops is also crucial for value preservation, as it allows the organization to adapt to changing circumstances and to learn from its mistakes. To further enhance its value preservation capabilities, a Kanban implementation could incorporate metrics that track the long-term health of the system, such as team morale and technical debt.
+**3. Resilience & Adaptability:**
+Resilience and adaptability are at the core of the Kanban method. By promoting incremental, evolutionary change and continuous improvement through feedback loops, it helps systems thrive on complexity and maintain coherence under stress. The practice of limiting Work in Progress (WIP) is a key mechanism that builds resilience by preventing system overload and ensuring a sustainable pace.
 
-4.  **Shared Rights & Responsibilities**: Kanban’s principle of encouraging leadership at all levels is a step towards a more equitable distribution of rights and responsibilities. By empowering team members to take initiative and to propose improvements, Kanban can help to break down traditional hierarchies and to create a more collaborative and democratic work environment. However, Kanban does not explicitly address the issue of ownership or governance. A more commons-aligned approach would be to combine Kanban with a governance model that gives stakeholders a real say in how the organization is run.
+**4. Ownership Architecture:**
+Kanban does not define an ownership architecture in terms of equity or formal governance. Its contribution lies in fostering a sense of process ownership and shared responsibility among team members. The principle of "encouraging acts of leadership at all levels" distributes the responsibility for process improvement, but it does not address the ownership of the value or assets generated by the process.
 
-5.  **Systematic Design**: Kanban is a systematic approach to process improvement. It provides a set of principles and practices that can be used to design and manage a more effective workflow. The use of explicit policies and WIP limits helps to create a more predictable and stable system. However, the design of the system is often left to the team or the organization. A more commons-aligned approach would be to involve a wider range of stakeholders in the design of the system, to ensure that it is aligned with the needs of the commons.
+**5. Design for Autonomy:**
+Kanban is highly compatible with autonomous systems, both human and machine. Its pull-based system and low coordination overhead make it ideal for distributed teams, DAOs, and AI-augmented workflows. By making the process and its rules explicit, it creates a clear, low-friction environment where autonomous agents can effectively participate and contribute to the workflow.
 
-6.  **Systems of Systems**: Kanban can be scaled to manage complex systems of systems. The concept of “flight levels” provides a way to connect the work of different teams and to align them with the strategic goals of the organization. This can be a powerful tool for managing a commons, which is often a complex system of interconnected parts. To be truly effective, however, a systems-of-systems approach to Kanban needs to be combined with a deep understanding of the dynamics of the system as a whole.
+**6. Composability & Interoperability:**
+As a method rather than a rigid framework, Kanban is designed for high composability and interoperability. It can be layered onto virtually any existing process and combined with other patterns (like Scrum or GTD) to create more comprehensive value-creation systems. This "start with what you do now" principle makes it a versatile building block for larger, more complex organizational designs.
 
-7.  **Fractal Properties**: The principles of Kanban are fractal in nature. They can be applied at any scale, from the individual to the organization. This means that a Kanban implementation can be started small and then gradually scaled up as the organization grows. This fractal property makes Kanban a very adaptable and resilient methodology, which is well-suited to the dynamic and ever-changing nature of a commons.
+**7. Fractal Value Creation:**
+The logic of visualizing work, limiting WIP, and managing flow is fundamentally fractal. These principles can be applied at any scale, from an individual's personal workflow to a team's project board, and all the way up to an organization's portfolio management system. This scalability allows the same core logic for resilient value creation to be replicated and adapted across different levels of a system.
 
-**Overall Score: 3/5 (Transitional)**
+**Overall Score: 4/5 (Value Creation Enabler)**
 
-Kanban is a powerful tool for improving the efficiency and effectiveness of any organization. Its emphasis on transparency, continuous improvement, and empowerment can be a great asset for building and managing a commons. However, Kanban itself is not a complete solution. To be truly commons-aligned, it needs to be combined with a broader set of principles and practices that address the issues of ownership, governance, and value definition. Without these additional elements, Kanban can easily be co-opted by a traditional, extractive logic. Therefore, it is best seen as a transitional tool that can help organizations on their journey towards a more commons-oriented way of working.
+**Rationale:**
+Kanban is a powerful enabler for resilient value creation due to its focus on flow, adaptability, and fractal scalability. It provides a robust operating system for managing work and improving processes. However, it does not by itself provide a complete value creation architecture, as it lacks native constructs for expanded stakeholder mapping and formal ownership rights, requiring deliberate integration with other patterns to become a fully-fledged commons.
+
+**Opportunities for Improvement:**
+- Explicitly integrate non-obvious stakeholders (e.g., environment, community) into the visual workflow and policies.
+- Broaden the definition of "work items" and "value" to include non-economic contributions like knowledge creation or ecological regeneration.
+- Combine Kanban with governance patterns that define shared ownership and decision-making rights over the value created.
 
 ### 9. Resources & References (200-400 words)
 

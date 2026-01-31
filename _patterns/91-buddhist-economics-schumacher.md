@@ -15,7 +15,7 @@ tags:
   era: [industrial, cognitive]
   origin: [academic]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: ["pat_01kg5023xpf5gvhpapnmwbdmq9"]
 specializes_to: []
@@ -145,30 +145,40 @@ The principles of Buddhist Economics are more relevant than ever in the cognitiv
 *   **The Power of a Networked Society:** Digital technologies can be used to connect people and to create new forms of community and cooperation. This could help to facilitate the spread of Buddhist Economics and to build a more just and sustainable world.
 *   **The Rise of the “Prosumer”:** The cognitive era is blurring the lines between production and consumption. More and more people are becoming “prosumers,” who both produce and consume their own goods and services. This trend is highly consistent with the Buddhist Economics emphasis on self-reliance and local production.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-Buddhist Economics, as envisioned by E.F. Schumacher, is deeply aligned with the principles of the commons. The commons refers to shared resources, both natural and social, that are managed for the collective good, rather than for private profit. This includes everything from clean air and water to knowledge and culture. The connection between Buddhist Economics and the commons is not explicit in Schumacher's original essay, but it is a natural and powerful one.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**Shared Principles:**
+**1. Stakeholder Architecture:**
+Buddhist Economics implicitly redefines stakeholder relationships by extending rights and responsibilities beyond shareholders. It grants workers the right to meaningful work, communities the right to a stable local economy, and future generations the right to a healthy planet. Responsibilities are framed through principles like "right livelihood" and non-harm (Ahimsa), obligating economic actors to consider the well-being of all stakeholders, including the environment.
 
-At its core, Buddhist Economics shares a number of key principles with the commons movement:
+**2. Value Creation Capability:**
+The pattern fundamentally shifts the definition of value away from pure monetary output towards collective well-being. It explicitly enables the creation of social value through community-focused enterprises, ecological value through stewardship of natural resources, and knowledge value through the practice of mindfulness. By prioritizing sufficiency over endless growth, it builds resilience value, strengthening systems against the fragility of consumer-driven economies.
 
-*   **Stewardship:** Both Buddhist Economics and the commons are based on the idea of stewardship, the responsible management of resources for the benefit of current and future generations. This stands in contrast to the modern economic paradigm, which treats the natural world as a collection of resources to be exploited for short-term gain.
-*   **Cooperation:** Both frameworks emphasize cooperation over competition. The commons are managed through collective action and shared governance, while Buddhist Economics promotes a sense of interconnectedness and mutual support.
-*   **Sufficiency:** Both Buddhist Economics and the commons reject the endless pursuit of growth and accumulation. Instead, they focus on the idea of sufficiency, of having enough to live a dignified and fulfilling life, but not so much that it harms others or the planet.
-*   **Community:** Both frameworks are deeply rooted in the importance of community. The commons are created and sustained by communities of people who are working together for a common purpose, while Buddhist Economics emphasizes the importance of social connection and mutual responsibility.
+**3. Resilience & Adaptability:**
+The framework promotes resilience by advocating for smaller, localized, and more self-reliant economic structures, such as local food systems and small-scale enterprises. This distributed approach reduces dependency on fragile, centralized supply chains and allows communities to adapt to change more effectively. The core principle of the "Middle Way" encourages a balanced approach that avoids brittle extremes, helping systems maintain coherence under stress.
 
-**Areas of Alignment:**
+**4. Ownership Architecture:**
+Buddhist Economics challenges conventional ownership by defining it through stewardship and shared responsibility, not just monetary equity. It promotes cooperative ownership models where rights and responsibilities are distributed among workers and community members. This perspective treats resources, particularly natural ones, as a commons to be preserved for collective benefit rather than a private asset to be liquidated for profit.
 
-The alignment between Buddhist Economics and the commons can be seen in a number of specific areas:
+**5. Design for Autonomy:**
+The principles of localism, simplicity, and self-reliance are highly compatible with distributed and autonomous systems, as they inherently lower coordination overhead. While predating modern AI and DAOs, the pattern’s strong ethical framework provides a crucial governance layer for them. Concepts like "right livelihood" and non-harm can guide autonomous agents to operate in ways that enhance collective well-being.
 
-*   **Natural Resources:** Buddhist Economics provides a powerful ethical framework for the management of natural resources as a commons. Its emphasis on non-violence and respect for all life leads naturally to a desire to protect the environment and to share its resources equitably.
-*   **Knowledge and Culture:** The commons of knowledge and culture are also highly aligned with Buddhist Economics. The Buddhist tradition has a long history of freely sharing its teachings, and the idea of intellectual property is foreign to its core principles. Buddhist Economics would support the creation of a vibrant and accessible knowledge commons, where information and ideas are freely shared for the benefit of all.
-*   **Social and Economic Systems:** Buddhist Economics can be seen as a blueprint for creating a commons-based economy. Its emphasis on local and small-scale enterprises, cooperative ownership, and alternative economic indicators are all highly consistent with the goals of the commons movement.
+**6. Composability & Interoperability:**
+This pattern is highly composable, acting as a philosophical and ethical layer that can be integrated with numerous other structural patterns. As shown in its case studies, it combines effectively with patterns like Worker Cooperatives (Mondragon) and Localized Economies (Transition Towns). Its principles provide a unifying logic that allows different patterns to be assembled into larger, coherent value-creation systems.
 
-**Potential for Synergy:**
+**7. Fractal Value Creation:**
+The pattern's value-creation logic applies fractally across multiple scales. It begins with the individual’s practice of mindful consumption and right livelihood, scales up to the community level through cooperatives and local currencies, and can even inform national policy, as exemplified by Bhutan's Gross National Happiness index. The core idea of prioritizing well-being can be implemented from the micro to the macro level.
 
-The synergy between Buddhist Economics and the commons is a powerful one. Buddhist Economics can provide the commons movement with a deep and resonant spiritual and ethical framework, while the commons movement can provide Buddhist Economics with a practical and proven set of tools and strategies for creating a more just and sustainable world. By working together, these two movements can help to create a future in which both people and the planet can thrive.
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Buddhist Economics provides a profound philosophical and ethical foundation for resilient collective value creation. It excels at redefining value, stakeholder relationships, and ownership in a way that builds social and ecological well-being. While it is not a complete, prescriptive architecture on its own, it is a powerful enabler that, when combined with other patterns, provides the essential "why" and "how" for building regenerative systems.
+
+**Opportunities for Improvement:**
+- Develop explicit interfaces and protocols for integration with modern distributed technologies like DAOs and blockchain-based governance systems.
+- Create more concrete, quantifiable metrics beyond GNH that can be applied at the project or enterprise level to measure alignment with the pattern's principles.
+- Formalize the rights and responsibilities of non-human stakeholders (e.g., AI agents, ecosystems) within the framework to make their roles more explicit.
 
 ### 9. Resources & References
 

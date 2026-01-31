@@ -175,41 +175,40 @@ In the cognitive era, Sociocracy is likely to evolve in a number of ways:
 *   **Greater Emphasis on Learning:** As the pace of change accelerates, the ability to learn and adapt will become even more critical. Sociocracy's emphasis on continuous improvement and integral education will be a key asset in this regard.
 *   **New Forms of Organization:** The combination of Sociocracy and technology could enable the creation of new forms of organization that are more decentralized, distributed, and resilient.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-This assessment evaluates the alignment of the Sociocratic Circle-Organization Method with the principles of a commons-based approach to governance and resource management.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**1. Stakeholder Mapping:**
+**1. Stakeholder Architecture:**
+Sociocracy defines a robust internal stakeholder architecture, granting rights and responsibilities to all organizational members through consent-based decision-making within nested circles. This ensures that those directly involved in the work have a voice in its governance. However, its framework does not natively extend rights to external stakeholders like the environment, future generations, or the broader community, which must be consciously added to the design.
 
-Sociocracy has a strong focus on internal stakeholders, ensuring that all members of the organization have a voice in decision-making. The principle of double-linking, in particular, is designed to ensure that the interests of all circles are represented at all levels of the organization. However, the original formulation of Sociocracy does not explicitly address the role of external stakeholders, such as customers, suppliers, and the wider community. While the top circle can include external experts, this is not a mandatory requirement. To improve its commons alignment, Sociocracy could be adapted to more explicitly include external stakeholders in the governance process.
+**2. Value Creation Capability:**
+The pattern strongly enables the creation of social and knowledge value by fostering a collaborative, transparent, and empowering work environment. It moves beyond purely economic metrics by focusing on organizational health and member well-being. The emphasis on continuous improvement and learning further enhances the system's capacity to generate diverse forms of value over time.
 
-**2. Value Creation:**
+**3. Resilience & Adaptability:**
+Resilience is a core strength of Sociocracy. The double-linking mechanism creates effective feedback loops between circles, allowing the organization to sense and respond to change. By relying on consent rather than consensus, it avoids gridlock and ensures that decisions do not compromise the system's integrity, thereby maintaining coherence under stress.
 
-Sociocracy is designed to create value for the organization and its members by fostering a more effective and engaging work environment. The focus on clear aims and continuous improvement helps to ensure that the organization is creating value in a way that is aligned with its mission. However, the definition of value is often focused on the economic performance of the organization. A more commons-aligned approach would be to broaden the definition of value to include social and environmental value as well.
+**4. Ownership Architecture:**
+Sociocracy redefines ownership as the right to participate in and influence the system, moving beyond a narrow focus on monetary equity. Members have stewardship over their roles and domains, with their responsibilities and authority clearly defined. This creates a sense of shared ownership in the organization's purpose and outcomes.
 
-**3. Value Preservation:**
+**5. Design for Autonomy:**
+The model is exceptionally well-designed for autonomy, making it highly compatible with distributed systems, DAOs, and AI-augmented organizations. The semi-autonomous nature of circles, coupled with clear domains and low coordination overhead, allows for effective decentralized operations without sacrificing coherence.
 
-Sociocracy's emphasis on continuous improvement and adaptability helps to ensure that the organization can maintain its relevance and effectiveness over time. The feedback loops created by the double-linking system allow the organization to learn and evolve in response to changing conditions. This is a key aspect of value preservation in a commons.
+**6. Composability & Interoperability:**
+As a modular and scalable framework, Sociocracy exhibits high composability. Its circle structure can be easily integrated with other organizational patterns and can be applied to specific teams or departments without requiring an enterprise-wide adoption. This allows it to serve as a foundational governance layer for larger, more complex value-creation systems.
 
-**4. Shared Rights & Responsibilities:**
+**7. Fractal Value Creation:**
+The pattern is inherently fractal, as its core principles of consent, circles, and double-linking can be applied at any scale—from individual self-governance to multi-organizational ecosystems. This allows the logic of resilient value creation to replicate and adapt across different levels of a system, ensuring coherence and scalability.
 
-Sociocracy distributes rights and responsibilities throughout the organization, giving all members a voice in decision-making and a role in the governance of their own work. The principle of consent ensures that the rights of all members are respected, while the clear definition of roles and domains helps to ensure that responsibilities are clearly understood and carried out.
+**Overall Score: 4 (Value Creation Enabler)**
 
-**5. Systematic Design:**
+**Rationale:**
+Sociocracy provides a powerful and proven architecture for collective self-governance and is highly aligned with the principles of resilient value creation. It excels in creating adaptable, autonomous, and scalable systems. Its primary limitation in the v2.0 framework is its lack of explicit design for non-human and external stakeholders, which prevents it from being a complete Value Creation Architecture out of the box.
 
-Sociocracy is a highly systematic approach to governance, with a clear set of principles, practices, and structures. This systematic design helps to ensure that the organization is governed in a consistent and transparent manner. The use of circle meetings, rounds, and consent decision-making provides a clear process for making decisions and managing the work of the organization.
-
-**6. Systems of Systems:**
-
-Sociocracy is designed to be a scalable and modular system that can be applied to organizations of all sizes. The use of circles and double-linking allows for the creation of a nested hierarchy of systems, with each circle operating as a semi-autonomous system within the larger system of the organization. This makes it well-suited for composing with other patterns and for building larger, more complex systems of governance.
-
-**7. Fractal Properties:**
-
-The principles of Sociocracy are fractal, meaning that they can be applied at all levels of the organization, from the individual to the whole. The same principles of consent, circles, and double-linking can be used to govern a small team, a large department, or an entire organization. This fractal nature is a key characteristic of a commons-based approach to governance.
-
-**Overall Score: 4 (Commons-Aligned)**
-
-Sociocracy is highly aligned with the principles of a commons-based approach to governance. Its emphasis on distributed authority, shared rights and responsibilities, and systematic design makes it a powerful tool for creating and managing commons. However, there are opportunities to improve its alignment by more explicitly including external stakeholders in the governance process and by broadening the definition of value to include social and environmental value.
+**Opportunities for Improvement:**
+- Integrate explicit representation for external stakeholders (e.g., community, environment) into the circle structure.
+- Broaden the definition of organizational aims to explicitly include the creation of social and ecological value.
+- Develop formal mechanisms for inter-organizational collaboration based on sociocratic principles to foster ecosystem-level value creation.
 
 
 ### 9. Resources & References

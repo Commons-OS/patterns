@@ -69,21 +69,40 @@ The advent of the Cognitive Era, characterized by the rise of artificial intelli
 
 Furthermore, the Cognitive Era brings new tools and technologies that can be used to enhance motivation. For example, AI-powered platforms can provide personalized feedback and coaching to employees, helping them to develop their skills and achieve their goals. Data analytics can be used to identify the key drivers of motivation for different employee segments, allowing organizations to tailor their motivational strategies accordingly. However, it is also important to be mindful of the potential downsides of technology. The constant connectivity and performance monitoring that are characteristic of the digital workplace can lead to burnout and disengagement if not managed effectively. Therefore, it is crucial to use technology in a way that empowers and supports employees, rather than controls and monitors them.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The principles of motivation theories can be assessed for their alignment with the seven dimensions of a commons-based approach. This assessment helps to understand how these theories can be applied in a way that fosters collaboration, shared ownership, and equitable distribution of value.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Alignment (1-5) | Rationale |
-|---|---|---|
-| **Shared Purpose & Values** | 4 | Motivation theories, particularly those focused on intrinsic motivation, emphasize the importance of aligning individual and organizational goals. When employees feel a sense of shared purpose, they are more likely to be engaged and committed to the collective good. |
-| **Distributed & Decentralized** | 3 | While some motivation theories, such as those based on hierarchy and control, can be centralized, others, like Self-Determination Theory, promote autonomy and distributed decision-making. The alignment with this dimension depends on which theories are prioritized and how they are implemented. |
-| **Collaborative & Open** | 4 | Many motivation theories, especially those that emphasize teamwork and social interaction, foster a collaborative environment. By creating a culture of trust and psychological safety, organizations can encourage open communication and knowledge sharing. |
-| **Fair & Equitable** | 3 | Equity Theory directly addresses the importance of fairness in the distribution of rewards and recognition. However, the implementation of incentive systems can sometimes lead to competition and inequality if not designed carefully. |
-| **Transparent & Accountable** | 4 | Goal-Setting Theory and feedback mechanisms promote transparency and accountability. When goals are clear and progress is tracked openly, individuals and teams are more likely to take ownership of their work and be accountable for the results. |
-| **Permeable & Inclusive** | 3 | The extent to which motivation theories promote permeability and inclusivity depends on their application. While some theories can be applied universally, others may need to be adapted to different cultural contexts and individual needs. |
-| **Resilient & Adaptive** | 4 | By fostering a culture of learning and continuous improvement, motivation theories can enhance an organization's resilience and adaptability. When employees are motivated to learn and grow, they are better equipped to respond to change and uncertainty. |
+**1. Stakeholder Architecture:**
+Motivation theories primarily focus on the human stakeholder within an organizational context, defining a relationship between an employer (rights to performance) and an employee (responsibilities to perform, rights to rewards/fair treatment). The framework does not inherently define Rights and Responsibilities for a broader set of stakeholders such as machines, the environment, or future generations. Its application in a commons requires consciously extending its focus beyond the individual-organization dyad to the entire stakeholder ecosystem.
 
-**Overall Commons Alignment Score: 3**
+**2. Value Creation Capability:**
+The pattern is a powerful enabler of value creation, but traditionally focuses on economic output (productivity, performance) and individual-level psychological value (satisfaction, engagement). It provides the tools to unlock human potential, which is a prerequisite for collective value creation. However, it requires adaptation to explicitly target the generation of social, ecological, and knowledge value for the entire system, not just the organization.
+
+**3. Resilience & Adaptability:**
+By fostering intrinsic motivation through autonomy, mastery, and purpose, the pattern enhances individual and group adaptability. Motivated individuals are more likely to engage in learning, problem-solving, and proactive behavior, which builds systemic resilience. This is a strong point of alignment, as it helps the system maintain coherence and thrive on change.
+
+**4. Ownership Architecture:**
+Theories like Self-Determination Theory promote psychological ownership over one's work, which is a crucial component of a healthy system. However, the pattern does not provide a structural framework for ownership defined as a bundle of Rights and Responsibilities. It focuses on the feeling of ownership rather than the formal architecture of it, leaving a gap in defining how stakeholders hold and are accountable for shared assets.
+
+**5. Design for Autonomy:**
+Several core theories, especially Self-Determination Theory, are highly compatible with and supportive of autonomous systems. They provide a blueprint for motivating agents (human or machine) without relying on command-and-control structures, making the pattern suitable for DAOs and other distributed systems. However, other theories within the pattern (e.g., reinforcement theory) can be used to design highly centralized, coercive systems, so conscious selection is critical.
+
+**6. Composability & Interoperability:**
+As a meta-pattern, Motivation Theories are exceptionally composable. They are designed to be integrated with virtually any other organizational or governance pattern to enhance its effectiveness. Whether implementing Holacracy, a cooperative model, or a DAO, understanding and applying these theories is critical for ensuring stakeholder buy-in and sustained participation.
+
+**7. Fractal Value Creation:**
+The principles of motivation are inherently fractal, applying at the individual, team, organizational, and even inter-organizational scales. The underlying drivers of human action—the need for purpose, autonomy, and competence—are consistent across these levels. This allows the pattern's logic to be used to design coherent value-creation systems that scale effectively.
+
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+Motivation Theories are a foundational and powerful enabler for value creation, but their traditional application is centered on the individual and the organization, not the commons as a whole. The framework has significant potential and provides critical tools, but it requires significant adaptation and conscious effort to be applied in a way that builds a complete, resilient, multi-stakeholder value creation architecture. Its focus is more on the 'fuel' (motivation) than the 'engine' (the commons architecture itself).
+
+**Opportunities for Improvement:**
+- Develop specific guidelines for applying motivation theories in multi-stakeholder environments, explicitly considering non-human agents and ecological boundaries.
+- Integrate the concept of psychological ownership with structural ownership patterns to create a more robust framework for shared stewardship.
+- Create a 'sub-pattern' that specifically curates and adapts theories (like SDT) best suited for decentralized, autonomous systems while cautioning against the use of more coercive, centralized theories.
 
 ## 9. Resources & References
 

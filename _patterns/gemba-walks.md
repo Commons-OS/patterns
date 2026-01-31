@@ -120,21 +120,40 @@ In the Cognitive Era, where work is increasingly knowledge-based and intangible,
 For example, in a software development team, a Gemba Walk might involve sitting in on a daily stand-up meeting, observing a pair programming session, or analyzing the data from a project management tool. In a remote work environment, a Gemba Walk could take the form of a virtual 
 “walkabout,” where a leader schedules one-on-one video calls with team members to discuss their work and well-being. The key is to adapt the practice to the context while staying true to the underlying principles of direct observation, inquiry, and respect.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-Gemba Walks exhibit strong alignment with several dimensions of a commons-based approach to organizing, primarily by fostering transparency, promoting knowledge sharing, and building community. While not a governance model in itself, its practice enables and reinforces the cultural underpinnings necessary for a successful commons.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Alignment Score (1-5) | Rationale |
-| :--- | :--- | :--- |
-| **Shared Purpose & Values** | 4 | The practice directly connects leaders with the value-creation process, reinforcing a shared purpose centered on customer value and continuous improvement. It makes the organization's goals tangible and visible to everyone involved. |
-| **Collective Governance** | 3 | While decision-making authority may still reside with management, Gemba Walks create a powerful channel for frontline employees to influence decisions. By providing direct input on process improvements, they participate in a form of decentralized, collective governance of the work itself. |
-| **Fair & Inclusive Membership** | 4 | Gemba Walks are inherently inclusive, as they involve engaging with all employees involved in a process, regardless of their role or status. The principle of "Show Respect" ensures that every voice has the potential to be heard and valued. |
-| **Transparent Operations** | 5 | The core of the Gemba Walk is to make work visible and transparent. It is a tool designed specifically to break down information silos and provide leaders with an unfiltered view of reality, fostering a culture of openness. |
-| **Equitable Distribution of Value** | 3 | The pattern does not directly address the distribution of financial value. However, by improving working conditions, reducing waste (frustration), and empowering employees, it contributes to a more equitable distribution of non-monetary value, such as job satisfaction and professional development. |
-| **Knowledge & Skill Sharing** | 5 | Gemba Walks are a powerful, two-way mechanism for knowledge sharing. Leaders learn the practical realities of the work from frontline experts, while employees gain a better understanding of the broader business context and strategic priorities. |
-| **Community & Trust** | 5 | When conducted with genuine respect, Gemba Walks break down hierarchical barriers and build trust between leaders and employees. This practice fosters a sense of shared identity and community, creating a psychologically safe environment where people feel comfortable raising problems and suggesting ideas. |
+**1. Stakeholder Architecture:**
+The pattern establishes a clear Rights and Responsibilities architecture between internal human stakeholders (leaders and employees). It assigns leaders the responsibility to directly observe work and listen, while granting employees the right to be heard and to contribute to process improvement. While the primary focus is internal, it implicitly serves customers by optimizing the value creation process, though it lacks explicit mechanisms for engaging external stakeholders like the environment or community.
 
-**Overall Commons Alignment Score: 4/5**
+**2. Value Creation Capability:**
+The pattern strongly enables collective value creation that extends beyond mere economic output. By systematically identifying and reducing waste, it enhances operational efficiency, and by engaging frontline workers, it builds social value through increased job satisfaction and psychological safety. This process generates deep, contextual knowledge about the system, which is a critical form of value in itself.
+
+**3. Resilience & Adaptability:**
+Gemba Walks are a powerful tool for building resilience and adaptability. By fostering a direct connection between leadership and operational reality, the practice enables rapid learning and adaptation to complexity, helping the system maintain coherence under stress. This creates a culture of proactive problem-solving, allowing the organization to thrive on change rather than resist it.
+
+**4. Ownership Architecture:**
+While not addressing financial equity, the pattern fosters a strong sense of psychological ownership and stewardship among employees. It defines ownership as the responsibility for and the right to improve one's own work processes, which is a crucial element of a commons. This moves beyond a purely contractual relationship with work, encouraging a deeper level of care and accountability.
+
+**5. Design for Autonomy:**
+The pattern is highly compatible with autonomous systems and AI. A "digital Gemba" could be performed by AI agents monitoring system data, with the core principles of "go and see" (observe data) and "ask why" (root cause analysis) being programmable. The practice has very low coordination overhead, relying on direct observation rather than bureaucratic processes, making it suitable for distributed environments.
+
+**6. Composability & Interoperability:**
+Gemba Walks are highly composable, serving as a foundational practice within the Lean ecosystem. It naturally interoperates with other patterns like Value Stream Mapping, Kaizen, and the 5 Whys, acting as a diagnostic engine that feeds insights into various improvement frameworks. Its simplicity and focus make it a versatile module for building larger value-creation systems.
+
+**7. Fractal Value Creation:**
+The value-creation logic of Gemba Walks is inherently fractal. The principle of "go and see" can be applied at any scale, from a single workstation on a factory floor to a team's digital workflow, a department's processes, or even the entire organization's value stream. This scalability allows the pattern to create coherent improvements across all levels of a system.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Gemba Walks are a powerful enabler of collective value creation, fostering transparency, knowledge sharing, and psychological ownership. The practice builds critical capabilities for resilience and adaptability. It scores a 4 because while it excels at optimizing existing value streams and engaging internal stakeholders, it does not, by itself, provide a complete architecture for defining what value to create or for engaging a broader set of external stakeholders (e.g., the environment, community, future generations). It is a foundational practice, but not a complete system.
+
+**Opportunities for Improvement:**
+- The pattern could be enhanced by explicitly defining how to incorporate external stakeholder perspectives into the Gemba Walk, such as by observing customer interactions or environmental impacts.
+- A "Digital Gemba" extension could be developed to formalize its application in virtual and automated environments, including best practices for analyzing system data as a form of "going to see."
+- The link between the insights gained during Gemba Walks and the formal governance and decision-making processes of the organization could be made more explicit.
 
 ## 9. Resources & References
 

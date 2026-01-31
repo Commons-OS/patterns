@@ -15,7 +15,7 @@ tags:
   era: [industrial]
   origin: ["General Electric", "McKinsey & Company"]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 2
 commons_domain: business
 generalizes_from: ["pat_01kg5023w9f70agabwqbp52gwq"]
 specializes_to: []
@@ -157,21 +157,40 @@ AI can also be used to **simulate different scenarios and to predict the future 
 
 However, the cognitive era also presents new challenges for the application of the GE-McKinsey Matrix. The pace of technological change is accelerating, and this can make it difficult to predict the long-term attractiveness of an industry. New business models are emerging all the time, and this can make it difficult to assess the competitive strength of a business unit. As a result, it is more important than ever to use the matrix as a dynamic and flexible tool, and to be prepared to adapt strategies quickly in response to new information.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The GE-McKinsey Matrix, as a strategic planning tool, can be assessed for its alignment with the principles of a commons-based approach. This assessment considers how the matrix can be used to foster collaboration, sustainability, and shared value creation.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Assessment | Explanation |
-| :--- | :--- | :--- |
-| **Openness & Transparency** | Moderate | The matrix itself is a well-documented and widely understood framework. However, its application within a corporate context is often confidential. A commons-based approach would encourage greater transparency in the decision-making process, both internally and externally. |
-| **Decentralization & Polycentricity** | Low | The matrix is typically used in a top-down, centralized manner, with senior executives making decisions about the allocation of resources. A more polycentric approach would involve a wider range of stakeholders in the decision-making process. |
-| **Community & Collaboration** | Low | The matrix is primarily focused on the competitive position of individual business units, rather than on fostering collaboration and synergy between them. A commons-based approach would emphasize the importance of creating a collaborative ecosystem of business units. |
-| **Sustainability & Resilience** | Moderate | The matrix can be used to identify and invest in sustainable business models, but it can also be used to justify the exploitation of resources for short-term gain. A commons-based approach would prioritize long-term sustainability and resilience over short-term profitability. |
-| **Fairness & Equity** | Low | The matrix does not explicitly consider the social and environmental impact of business decisions. A commons-based approach would require a more holistic assessment of value, taking into account the well-being of all stakeholders. |
-| **Modularity & Granularity** | High | The matrix is a modular tool that can be applied at different levels of an organization, from individual products to entire business units. This allows for a granular analysis of a company's portfolio. |
-| **Purpose & Shared Value** | Moderate | The matrix is primarily focused on maximizing shareholder value. A commons-based approach would require a broader definition of purpose, focused on creating shared value for all stakeholders, including employees, customers, and the wider community. |
+**1. Stakeholder Architecture:**
+The GE-McKinsey Matrix primarily defines stakeholders as internal business units competing for corporate resources. The rights and responsibilities are implicitly hierarchical, with corporate leadership holding the right to allocate or divest based on performance metrics. It does not inherently account for external stakeholders like the environment, community, or future generations, focusing instead on the financial health of the parent organization.
 
-Overall, the GE-McKinsey Matrix has a **commons alignment score of 3 out of 5**. While it can be a useful tool for strategic planning, its traditional application is often at odds with the principles of a commons-based approach. To enhance its alignment with the commons, the matrix should be used in a more transparent, collaborative, and purpose-driven manner.
+**2. Value Creation Capability:**
+The pattern is strongly oriented towards economic value creation, prioritizing financial returns and market strength. While it can be adapted to include other value dimensions like social or ecological factors within its assessment criteria, its core logic is designed to optimize a portfolio for profitability. It does not natively facilitate the creation of non-economic value like knowledge commons or systemic resilience beyond the firm.
+
+**3. Resilience & Adaptability:**
+The matrix enhances organizational resilience by promoting a balanced portfolio and a dynamic approach to resource allocation in response to market changes. It encourages adaptability by systematically identifying which units to grow, maintain, or divest. However, this resilience is focused on the corporation itself, not the broader ecosystem, and can lead to actions that decrease resilience for suppliers, employees, or communities.
+
+**4. Ownership Architecture:**
+Ownership is framed in a traditional, proprietary sense, centered on the corporation's equity in and control over its business units. The rights and responsibilities are tied to financial performance and strategic fit within the corporate portfolio. The pattern does not engage with more nuanced ownership models that emphasize stewardship, shared rights, or distributed responsibilities among a wider set of stakeholders.
+
+**5. Design for Autonomy:**
+As a centralized, top-down strategic planning tool, the GE-McKinsey Matrix has low compatibility with autonomous systems like DAOs or highly distributed networks. It requires significant central coordination for data gathering, analysis, and decision-making, which runs counter to the principles of low-overhead, autonomous operation. The decision logic is executed by human managers, not embedded in an automated protocol.
+
+**6. Composability & Interoperability:**
+The pattern is highly composable with other business strategy frameworks. It can integrate inputs from tools like PESTLE analysis, Porter's Five Forces, or SWOT analysis to inform its two primary axes. This modularity allows it to be a component within a larger, more comprehensive strategic planning system, enabling interoperability with various analytical methods.
+
+**7. Fractal Value Creation:**
+The logic of portfolio optimization can be applied fractally at different scales within a hierarchical corporate structure—from a portfolio of global companies down to a portfolio of individual products. However, the value creation logic remains the same at each scale: maximizing financial return for the parent entity. It does not support a fractal model where different scales might have different value creation logics or stakeholder considerations.
+
+**Overall Score: 2 (Partial Enabler)**
+
+**Rationale:**
+The GE-McKinsey Matrix is a classic industrial-era tool designed for centralized, financial-centric portfolio optimization. While it offers a structured approach to corporate adaptability and can be combined with other tools, it has significant gaps in its alignment with a commons-based value creation architecture. Its fundamental assumptions about ownership, stakeholder engagement, and value definition are not aligned with the principles of collective value creation for a multi-stakeholder system.
+
+**Opportunities for Improvement:**
+- Incorporate explicit non-financial metrics (e.g., ecological footprint, social impact, knowledge generation) into the 'Industry Attractiveness' and 'Business Unit Strength' axes.
+- Redesign the decision-making process to include a wider range of stakeholders, moving from a purely top-down model to a more polycentric one.
+- Use the matrix not just for competitive resource allocation, but to identify opportunities for synergistic collaboration and shared infrastructure between business units to build a more resilient internal ecosystem.
 
 ## 9. Resources & References
 

@@ -133,17 +133,40 @@ To mitigate these risks and harness the full potential of cognitive technologies
 
 By embracing inclusive design, we can ensure that the Cognitive Era is a more equitable and accessible one for everyone.
 
-# 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-| Dimension | Assessment |
-|---|---|
-| **Openness & Transparency** | Inclusive design promotes openness and transparency by encouraging designers to be clear and upfront about the capabilities and limitations of a product. It also advocates for the use of open standards and formats to ensure that content is accessible to everyone, regardless of the technology they are using. |
-| **Equity & Fairness** | Equity and fairness are at the very heart of inclusive design. By actively seeking to include and empower people from all backgrounds and abilities, inclusive design helps to create a more just and equitable society. It challenges designers to confront their own biases and to create products and services that are fair and accessible to all. |
-| **Collaboration & Participation** | Inclusive design is a highly collaborative and participatory process. It emphasizes the importance of co-design, which involves working directly with users to create solutions that meet their needs. This collaborative approach not only leads to better products but also empowers users and gives them a sense of ownership over the design process. |
-| **Sustainability & Resilience** | Inclusive design can contribute to sustainability and resilience by creating products that are more durable, adaptable, and long-lasting. By considering the needs of a wide range of users, designers can create products that are more likely to be used and valued over time. This can help to reduce waste and to create a more sustainable and resilient economy. |
-| **Decentralization & Autonomy** | Inclusive design supports decentralization and autonomy by giving users more control over their own experiences. By providing options and choices, inclusive design empowers users to customize their own tools and to create an environment that best meets their individual needs and preferences. |
-| **Pluralism & Diversity** | Pluralism and diversity are core tenets of inclusive design. The methodology celebrates the full range of human diversity and encourages designers to create products and services that are welcoming and accessible to people from all cultures, languages, and backgrounds. |
-| **Shared Purpose & Value** | Inclusive design aligns with a shared purpose of creating a more just, equitable, and accessible world for everyone. By creating products and services that are inclusive by design, we can create shared value for both businesses and society as a whole. |
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
+
+**1. Stakeholder Architecture:**
+The pattern defines Rights and Responsibilities by emphasizing designing for a full range of human diversity. It implicitly assigns the responsibility to designers and developers to consider the needs of all users, including those with permanent, temporary, or situational disabilities. The right to access and use products and services is extended to all, promoting a more equitable distribution of capability.
+
+**2. Value Creation Capability:**
+Inclusive Design directly enables the creation of social and knowledge value by making products and services accessible to a wider audience. This fosters a more inclusive society and allows more people to participate in and contribute to the knowledge economy. While not its primary focus, it can also lead to economic value by expanding the potential market for a product or service.
+
+**3. Resilience & Adaptability:**
+The pattern enhances system resilience by encouraging the creation of flexible and adaptable solutions. By considering a wide range of user needs and contexts, the resulting designs are more robust and can better withstand unexpected situations or changes in user capabilities. This proactive approach to design helps maintain coherence and usability under stress.
+
+**4. Ownership Architecture:**
+While not explicitly addressing ownership in terms of equity, Inclusive Design re-frames it as a right to a comparable experience. It shifts the focus from a single, monolithic "owner" of a design to a more distributed sense of ownership, where users have control and choice over their interaction with a product or service.
+	
+**5. Design for Autonomy:**
+The principles of providing user control and choice are highly compatible with AI, DAOs, and distributed systems. By designing for a variety of interaction methods and allowing for customization, the pattern creates a low coordination overhead for autonomous agents to interact with the system. It lays the groundwork for systems that can be used by both humans and machines.
+
+**6. Composability & Interoperability:**
+Inclusive Design is a meta-pattern that is highly composable with other patterns. It can be applied to almost any other pattern to ensure that the resulting system is accessible and usable by a wider range of stakeholders. Its principles are foundational and can be integrated into larger, more complex value-creation systems.
+
+**7. Fractal Value Creation:**
+The value-creation logic of Inclusive Design is inherently fractal. The principles can be applied at multiple scales, from the design of a single button to the architecture of a city or the policies of an organization. At each scale, the core logic of recognizing exclusion, learning from diversity, and solving for one to extend to many remains the same.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Inclusive Design is a powerful enabler of collective value creation by ensuring that more people can participate in and benefit from a system. It directly addresses the social and knowledge value creation pillars and provides a strong foundation for resilience and adaptability. While it doesn't explicitly define a complete value creation architecture, its principles are essential for building one.
+
+**Opportunities for Improvement:**
+- Explicitly define the Rights and Responsibilities of all stakeholders, including non-human agents.
+- Develop a more explicit framework for how to measure and track the creation of non-economic value.
+- Explore how the principles of Inclusive Design can be applied to the design of governance and ownership models.
 
 # 9. Resources & References
 

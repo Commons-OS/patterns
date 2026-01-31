@@ -15,7 +15,7 @@ tags:
   era: [digital, cognitive]
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -113,54 +113,40 @@ The advent of the Cognitive Era, characterized by the rapid advancement of artif
 
 ## 8. Commons Alignment Assessment
 
-This section assesses the alignment of the Green Engineering pattern with the seven dimensions of the Commons OS framework. The assessment is based on a qualitative analysis of the pattern's principles, practices, and potential impacts.
+### 8. Commons Alignment Assessment (v2.0)
 
-<table header-row="true">
-<tr>
-<td>**Dimension**</td>
-<td>**Alignment**</td>
-<td>**Rationale**</td>
-</tr>
-<tr>
-<td>**1. Purpose & Values**</td>
-<td>High</td>
-<td>Green Engineering's core purpose is to promote sustainability and to protect human health and the environment, which is highly aligned with the values of the commons. It seeks to create a more equitable and sustainable world for all, both now and in the future.</td>
-</tr>
-<tr>
-<td>**2. Governance & Decision-Making**</td>
-<td>Medium</td>
-<td>While Green Engineering promotes stakeholder engagement and community participation, the decision-making processes are often still centralized within organizations. However, the emphasis on transparency and collaboration is a positive step towards more distributed and inclusive governance.</td>
-</tr>
-<tr>
-<td>**3. Resource Management & Stewardship**</td>
-<td>High</td>
-<td>Green Engineering is fundamentally about the responsible management and stewardship of common resources, such as air, water, and land. It seeks to minimize the depletion of natural resources and to prevent waste, which is a core principle of the commons.</td>
-</tr>
-<tr>
-<td>**4. Economic & Livelihood**</td>
-<td>Medium-High</td>
-<td>Green Engineering can create new economic opportunities and livelihoods, particularly in the green technology and renewable energy sectors. However, there is a risk that the benefits of Green Engineering may not be distributed equitably, and that some communities may be left behind.</td>
-</tr>
-<tr>
-<td>**5. Social & Cultural**</td>
-<td>Medium</td>
-<td>Green Engineering has the potential to create more just and equitable societies, but it can also have unintended social and cultural consequences. For example, the development of large-scale renewable energy projects can sometimes displace local communities or disrupt traditional ways of life.</td>
-</tr>
-<tr>
-<td>**6. Knowledge & Learning**</td>
-<td>High</td>
-<td>Green Engineering is a knowledge-intensive field that relies on continuous learning and innovation. The open sharing of knowledge and best practices is essential for advancing the field and for ensuring that its benefits are widely distributed.</td>
-</tr>
-<tr>
-<td>**7. Technology & Infrastructure**</td>
-<td>High</td>
-<td>Green Engineering is focused on the development of technologies and infrastructure that are sustainable, resilient, and environmentally friendly. This is highly aligned with the commons-based approach to technology, which emphasizes the use of technology for the common good.</td>
-</tr>
-</table>
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**Overall Commons Alignment Score:** 3/5
+**1. Stakeholder Architecture:**
+Green Engineering defines a clear responsibility for designers and engineers to consider a wide range of stakeholders, including end-users, communities, and future generations, primarily through its principles of human-centered design and resource conservation. While the environment is a central consideration, it is treated more as a system to be protected rather than a stakeholder with defined rights. The framework implicitly assigns the responsibility of environmental stewardship to human actors, but does not formalize the rights of the environment itself or the responsibilities of autonomous systems.
 
-While Green Engineering has a strong alignment with the purpose and values of the commons, there are still challenges to be addressed in terms of governance, equity, and social impact. To further enhance its alignment with the commons, it is important to promote more inclusive and participatory decision-making processes, to ensure that the benefits of Green Engineering are distributed equitably, and to be mindful of the potential social and cultural impacts of new technologies and infrastructure.
+**2. Value Creation Capability:**
+The pattern excels at enabling the creation of diverse forms of value far beyond economic output. Its primary focus is on generating ecological value by minimizing pollution and resource depletion, and social value by protecting human health and promoting well-being. By encouraging innovation in sustainable technologies and processes, it also fosters the creation of knowledge value. The emphasis on lifecycle assessment and systems thinking builds resilience value, ensuring that systems can endure and adapt over time.
+
+**3. Resilience & Adaptability:**
+Resilience and adaptability are at the core of the Green Engineering philosophy. By advocating for the use of renewable resources, designing for durability, and promoting waste prevention, the pattern helps create systems that can better withstand shocks and stresses. The practice of lifecycle thinking encourages a proactive approach to change, allowing systems to adapt to new environmental regulations, resource availabilities, and social expectations, thereby maintaining coherence and function under pressure.
+
+**4. Ownership Architecture:**
+This is the weakest area of alignment for the pattern. Green Engineering operates within traditional ownership structures and does not explicitly redefine ownership as a bundle of rights and responsibilities. While it strongly promotes a sense of stewardship and responsibility for environmental and social impacts, it does not propose alternative ownership models that would formalize these responsibilities or distribute rights more broadly among stakeholders.
+
+**5. Design for Autonomy:**
+The principles of Green Engineering are highly compatible with autonomous systems, AI, and DAOs. The emphasis on creating inherently safe, efficient, and predictable processes reduces the need for constant human oversight and lowers coordination overhead. As noted in its Cognitive Era Considerations, AI can be a powerful tool for implementing Green Engineering principles, from optimizing complex systems to discovering novel sustainable materials, making the pattern well-suited for a future of distributed and automated value creation.
+
+**6. Composability & Interoperability:**
+Green Engineering is a foundational design philosophy, making it exceptionally composable and interoperable with other patterns. It can be readily combined with patterns for circular economies, renewable energy systems, regenerative agriculture, and sustainable urban planning to create more complex, multi-layered value-creation systems. Its principles provide a universal framework that enhances the sustainability and resilience of almost any system it is integrated with.
+
+**7. Fractal Value Creation:**
+The value-creation logic of Green Engineering is inherently fractal, applying seamlessly across multiple scales. The same core principles of waste prevention, lifecycle thinking, and inherent safety can be used to design a single sustainable product, a resource-efficient factory, a green building, or an entire circular city. This scalability allows the pattern to be a fundamental building block for creating resilient value-creation architectures from the micro to the macro level.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Green Engineering is a powerful enabler of collective value creation, particularly in the ecological, social, and knowledge domains. It provides a robust framework for designing resilient and adaptive systems that are highly compatible with autonomous technologies and other patterns. Its primary limitation is its failure to challenge and redefine traditional ownership structures, which prevents it from being a complete value creation architecture. 
+
+**Opportunities for Improvement:**
+- Develop an explicit "Ownership and Stewardship" principle that defines rights and responsibilities for all stakeholders, including the environment.
+- Integrate models for distributed ownership and governance to ensure the equitable distribution of value created through green designs.
+- Create formal mechanisms for non-human stakeholders (e.g., ecosystems, AI agents) to be represented in the design and governance process.
 
 ## 9. Resources & References
 

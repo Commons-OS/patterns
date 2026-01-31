@@ -132,56 +132,38 @@ The Auction Model is a method of determining the price of a good or service thro
 
 -   **Evolution Outlook**: The auction model is likely to become even more prevalent in the cognitive era, as AI and data analytics make it possible to apply dynamic pricing to a wider range of goods and services. We may see the emergence of highly personalized and automated auction systems that can tailor the bidding process to the specific needs of individual buyers and sellers.
 
-### 8. Commons Alignment Assessment
 
-1.  **Stakeholder Mapping**: The primary stakeholders in an auction are the seller and the bidders. However, the auction can also have an impact on other stakeholders, such as the broader market for the item being sold, and in the case of government auctions, the public [1].
+### 8. Commons Alignment Assessment (v2.0)
 
-2.  **Value Creation**: The auction model creates value by facilitating the efficient allocation of resources and by discovering the market price of an item. The seller benefits from receiving the highest possible price, while the winning bidder benefits from acquiring the item. Other bidders also benefit from the information revealed during the auction [2].
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-3.  **Value Preservation**: The relevance of the auction model is preserved by its adaptability to a wide range of contexts and its ability to incorporate new technologies. The ongoing development of auction theory and the emergence of new auction formats ensure that the model remains a powerful tool for price discovery and resource allocation.
+**1. Stakeholder Architecture:**
+The Auction Model primarily defines the Rights and Responsibilities between two main stakeholder groups: sellers and bidders. The seller has the right to set the terms of the sale and the responsibility to deliver the good or service, while bidders have the right to a fair and transparent process and the responsibility to honor their bids. However, the architecture is limited as it does not inherently account for non-transacting stakeholders such as the environment, local communities, or future generations, whose well-being might be impacted by the auctioned asset.
 
-4.  **Shared Rights & Responsibilities**: In a well-designed auction, the rights and responsibilities of all participants are clearly defined in the rules of the auction. The seller has the right to set the terms of the sale, while the bidders have the right to a fair and transparent bidding process. All participants have a responsibility to abide by the rules of the auction.
+**2. Value Creation Capability:**
+The pattern excels at creating economic value through efficient price discovery and resource allocation, converting private valuations into a single market price. This process is highly effective for tangible assets and commodities where value is easily quantifiable in monetary terms. Its capability for creating non-economic value, such as social capital, ecological health, or collective knowledge, is limited unless explicitly designed into the auction's rules, for example, by earmarking proceeds for community projects.
 
-5.  **Systematic Design**: The auction model is a highly systematic process that is based on the principles of game theory and economics. The design of an auction involves a careful consideration of the auction format, the rules of the auction, and the information structure [2].
+**3. Resilience & Adaptability:**
+The Auction Model demonstrates high adaptability by functioning across numerous contexts, from local markets to global digital platforms, and by integrating new technologies like AI for dynamic pricing. It is resilient to uncertainty in asset valuation, thriving on information asymmetry to arrive at a market-clearing price. However, its resilience is primarily market-oriented and can be brittle, susceptible to issues like collusion, low participation (the "winner's curse"), or market bubbles, which can undermine the stability of the system it operates within.
 
-6.  **Systems of Systems**: The auction model can be combined with other organizational patterns to create more complex systems. For example, an auction can be used as a component of a larger supply chain management system or a dynamic pricing engine for an e-commerce platform.
+**4. Ownership Architecture:**
+Ownership in the Auction Model is transactional and absolute, defined by the transfer of title in exchange for payment. The winning bidder gains exclusionary rights to the asset, and the primary responsibility is financial. This model does not natively support more nuanced or shared forms of ownership that define stewardship rights and long-term responsibilities to a wider set of stakeholders, focusing instead on a singular point of exchange.
 
-7.  **Fractal Properties**: The core principles of the auction model can be applied at different scales, from a simple online auction for a consumer good to a complex multi-billion dollar government auction for telecommunication spectrum [4].
+**5. Design for Autonomy:**
+The pattern is exceptionally well-designed for autonomy, making it highly compatible with AI, DAOs, and other distributed systems. Its rule-based, transparent, and often automated nature allows for low-coordination overhead, enabling autonomous agents to participate effectively in price discovery and resource allocation. This makes it a foundational component for building scalable, decentralized market mechanisms.
 
-**Overall Score**: 3 (Transitional)
+**6. Composability & Interoperability:**
+The Auction Model is a highly composable and interoperable pattern. It can be readily combined with other economic and governance patterns to create more complex value-creation systems, as evidenced by its integration into large-scale platforms like eBay (combined with reputation systems) and Google's ad network (combined with real-time data analysis). Its modular nature allows it to serve as a core component in diverse applications, from supply chain management to decentralized finance.
 
-The auction model, in its basic form, is a transactional mechanism that can be either extractive or generative, depending on its design and application. While it can lead to efficient outcomes, it can also be used to maximize profit for a single party (the seller) without regard for other stakeholders. However, the auction model also has the potential to be a powerful tool for creating and sharing value in a commons-based economy. For example, auctions can be used to allocate common resources in a fair and transparent way, or to fund public goods. The key to aligning the auction model with the principles of the commons is to design auctions that are not only efficient but also equitable and inclusive.
+**7. Fractal Value Creation:**
+The core logic of competitive bidding for price discovery can be applied at multiple scales, demonstrating a fractal nature. The same fundamental pattern operates for the sale of a single collectible, the procurement of industrial parts for a large corporation, and the allocation of national telecommunications spectrum. This scalability allows the pattern to be a versatile tool for resource allocation in systems of varying sizes and complexities.
 
-### 9. Resources & References
+**Overall Score: 3 (Transitional)**
 
--   **Essential Reading**:
-    -   Milgrom, P. (2004). *Putting Auction Theory to Work*. Cambridge University Press.
-    -   Klemperer, P. (1999). *Auction Theory: A Guide to the Literature*. Journal of Economic Surveys, 13(3), 227-286.
-    -   Vickrey, W. (1961). *Counterspeculation, Auctions, and Competitive Sealed Tenders*. The Journal of Finance, 16(1), 8-37.
+**Rationale:**
+The Auction Model receives a transitional score because while it is a powerful and highly scalable mechanism for economic value creation and price discovery, it is not inherently aligned with a broader, multi-stakeholder commons framework. Its focus is on efficient, transactional exchange rather than resilient, collective value creation. The architecture is optimized for market efficiency and autonomy but lacks native support for non-monetary value, shared ownership, or the inclusion of non-transacting stakeholders.
 
--   **Organizations & Communities**:
-    -   **The Econometric Society:** An international society for the advancement of economic theory in its relation to statistics and mathematics.
-    -   **The Game Theory Society:** A society for the promotion of research, teaching, and application of game theory.
-
--   **Tools & Platforms**:
-    -   **eBay:** The world's largest online auction platform.
-    -   **Google Ads:** A real-time auction platform for buying and selling online advertising.
-
--   **References**:
-    -   [1] Wyld, D. C. (2000). *The Auction Model: How the Public Sector Can Leverage the Power of E-Commerce Through Dynamic Pricing*. The PricewaterhouseCoopers Endowment for The Business of Government.
-    -   [2] Levin, J. (2004). *Auction Theory*. Stanford University.
-    -   [3] Wikipedia. (n.d.). *Auction theory*. Retrieved from https://en.wikipedia.org/wiki/Auction_theory
-    -   [4] EPIC for America. (2025). *Spectrum Auctions are a Hidden Growth Engine*. Retrieved from https://epicforamerica.org/federal-budget/spectrum-auctions-are-a-hidden-growth-engine/
-    -   [5] Milgrom, P. R., & Weber, R. J. (1982). A Theory of Auctions and Competitive Bidding. *Econometrica*, *50*(5), 1089–1122. https://doi.org/10.2307/1911865
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/auction-model/](https://commons-os.github.io/patterns/domain/auction-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/auction-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/auction-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
+**Opportunities for Improvement:**
+- Integrate multi-stakeholder governance into the auction design, where rules are set not just by the seller but by a council representing affected communities or ecosystems.
+- Design auctions that optimize for a basket of values beyond the highest price, such as social impact or environmental regeneration, by using weighted scoring systems for bids.
+- Earmark a portion of auction revenues for a commons fund dedicated to mitigating negative externalities or investing in shared resources and public goods.

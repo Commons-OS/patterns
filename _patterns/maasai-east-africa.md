@@ -95,8 +95,6 @@ The Maasai organizational pattern has demonstrated remarkable resilience and ada
 
 ## 7. Cognitive Era Considerations
 
-In the Cognitive Era, where value creation is increasingly driven by knowledge, collaboration, and intangible assets, the Maasai organizational pattern offers surprisingly relevant insights. While seemingly a world away from the fast-paced, digitally-mediated landscape of the 21st century, the core principles of the Maasai model can be adapted to address some of the key challenges and opportunities of our time.
-
 **Knowledge as a Commons:** The Maasai concept of cattle as a communal resource can be extended to the realm of knowledge. In the Cognitive Era, knowledge is the new currency, and the ability to create, share, and manage it effectively is critical for success. By treating knowledge as a commons, organizations can foster a culture of open collaboration and collective intelligence, breaking down silos and enabling the free flow of ideas. This is particularly relevant for open-source projects, research networks, and other knowledge-intensive communities.
 
 **The Modern-Day Warrior:** The role of the Maasai warrior, or *moran*, can be re-imagined in the context of the Cognitive Era. Instead of protecting cattle, the modern-day warrior could be a guardian of the community's digital assets, a defender against misinformation and cyber threats, or a champion of the community's values in the digital public sphere. This role would require a different set of skills, of course, but the underlying principles of discipline, courage, and service to the community would remain the same.
@@ -105,21 +103,40 @@ In the Cognitive Era, where value creation is increasingly driven by knowledge, 
 
 **Resilience in the Face of Disruption:** The Maasai have a long history of adapting to change and disruption. Their decentralized, networked social structure has enabled them to weather numerous storms, from environmental disasters to political upheavals. In the Cognitive Era, where the pace of change is accelerating and disruption is the new normal, the ability to adapt and to build resilient communities is more important than ever. The Maasai model provides a powerful example of how to do just that.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Maasai organizational pattern exhibits a strong alignment with many of the core principles of a commons-based approach to social organization. This assessment evaluates the pattern across seven key dimensions of commons alignment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Score (1-5) | Rationale |
-| :--- | :--- | :--- |
-| **Openness & Transparency** | 3 | While decision-making processes within the council of elders are based on consensus, they are not always transparent to the wider community, particularly to women and younger men. |
-| **Decentralization & Distribution** | 4 | Power is highly decentralized and distributed among the elders, with no single individual holding absolute authority. The age-set system also provides a mechanism for distributing responsibility and authority throughout the male population. |
-| **Community & Social Cohesion** | 5 | The age-set system is a powerful engine for building community and social cohesion. The shared experiences of initiation and warriorhood create lifelong bonds of solidarity and mutual support. |
-| **Resource Stewardship & Sustainability** | 4 | The Maasai have a deep and sophisticated understanding of their environment and have developed effective practices for managing their common-pool resources, such as grazing land and water. |
-| **Resilience & Adaptability** | 5 | The Maasai have a long and proven track record of resilience and adaptability in the face of significant environmental and social challenges. Their decentralized, networked social structure has been a key factor in their ability to survive and thrive. |
-| **Fairness & Equity** | 2 | The Maasai organizational pattern is strongly patriarchal, with women and younger men having limited power and influence. While there is a strong sense of collective responsibility, the distribution of resources and opportunities is not always equitable. |
-| **Interoperability & Federation** | 3 | While the Maasai have a strong sense of their own identity, they have also shown a willingness to interact and cooperate with other groups. However, their social structure is not explicitly designed for interoperability or federation with other social systems. |
+**1. Stakeholder Architecture:**
+The Maasai pattern defines clear Rights and Responsibilities primarily for male stakeholders through its age-set system, progressing from warriors to elders. The environment is a critical stakeholder, as the entire pastoralist system depends on sustainable management of land and water. However, the architecture is strongly patriarchal, granting limited formal rights or decision-making power to women and younger men, which represents a significant gap in stakeholder inclusivity.
 
-**Overall Commons Alignment Score: 3.7/5**
+**2. Value Creation Capability:**
+The pattern strongly enables collective value creation beyond the economic value of cattle. It generates immense social value through the lifelong bonds and solidarity of the age-sets, which fosters deep trust and cooperation. This social fabric is the foundation for creating resilience value, allowing the community to withstand severe shocks, and knowledge value, embodied in the elders' wisdom and pastoral practices passed down through generations.
+
+**3. Resilience & Adaptability:**
+The system is designed for resilience and has proven its ability to adapt to severe environmental and social disruptions for centuries. The decentralized governance of the elders allows for localized responses to challenges, while the warrior class provides a mechanism for rapid, collective mobilization. This structure allows the society to maintain coherence and function effectively even when under extreme stress.
+
+**4. Ownership Architecture:**
+Ownership is defined as a bundle of Rights and Responsibilities, not just monetary equity. Cattle, the primary store of value, are managed as a communal resource, reflecting a principle of collective stewardship. This architecture ensures that the community's core wealth is preserved for the benefit of the whole, rather than being concentrated in the hands of a few individuals.
+
+**5. Design for Autonomy:**
+The pattern exhibits a high degree of autonomy and low coordination overhead due to its clearly defined roles and responsibilities within the age-set system. Its principles of decentralized governance and role-based authority are conceptually compatible with distributed systems like DAOs. However, its reliance on deeply embedded cultural context and rituals makes it difficult to translate directly to purely digital or automated systems without significant adaptation.
+
+**6. Composability & Interoperability:**
+The pattern is largely insular, designed for the internal coherence of the Maasai people, and lacks explicit protocols for interoperating with other social systems. While the Maasai have always interacted with neighboring groups, their core governance and value-creation logic is not designed to be easily composed with other patterns. This limits its ability to form larger, federated value-creation networks.
+
+**7. Fractal Value Creation:**
+The value-creation logic of the Maasai system demonstrates fractal characteristics. The age-set structure creates social cohesion and defines responsibilities at the local community level, which scales up to the level of the entire Maasai nation. The principles of elder-led governance and collective resource management can be applied consistently from a small village to a larger regional cluster, ensuring coherent value creation across the system.
+
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+The Maasai pattern provides a powerful, time-tested model for resilient value creation, with strong stakeholder architecture and collective ownership principles. However, its significant gaps in gender equity and its insular, non-composable design prevent it from being a complete value-creation architecture. It serves as a crucial transitional model with profound lessons but requires significant adaptation for broader, more inclusive application.
+
+**Opportunities for Improvement:**
+- Develop explicit roles and rights for female stakeholders to create a more inclusive and equitable value-creation system.
+- Design protocols for interoperability that would allow the pattern to connect and compose with other social or economic systems, enabling value creation at a larger scale.
+- Adapt the principles of the age-set system to be more inclusive of different forms of contribution beyond the traditional warrior and elder roles, recognizing knowledge and digital stewardship as valid forms of service.
 
 ## 9. Resources & References
 

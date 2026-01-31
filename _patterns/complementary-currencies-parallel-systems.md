@@ -15,7 +15,7 @@ tags:
   era: [digital]
   origin: [academic, grassroots]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: ["pat_01kg5023vveprts2atbbx8bejr"]
 specializes_to: []
@@ -176,39 +176,40 @@ Complementary currencies have been applied in a wide range of domains, including
 *   **Personalized and Programmable Money:** AI and blockchain technology could be used to create personalized and programmable forms of money. For example, a currency could be programmed to be spent only on healthy food or sustainable products.
 *   **Decentralized Autonomous Organizations (DAOs):** Complementary currency systems could evolve into decentralized autonomous organizations (DAOs), which are governed by smart contracts and run on a blockchain. This could create more democratic and resilient economic systems.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-### 1. Stakeholder Mapping
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-Complementary currency systems, by their nature, involve a diverse range of stakeholders. These include the users of the currency (both individuals and businesses), the organization that manages the system, and the wider community in which the currency circulates. In many cases, these systems also involve partnerships with local government, community organizations, and technology providers. The most successful complementary currency systems are those that are able to effectively engage and balance the interests of all of these stakeholders. However, a common challenge is ensuring that the system is truly inclusive and does not exclude marginalized or vulnerable groups.
+**1. Stakeholder Architecture:**
+The pattern defines Rights and Responsibilities primarily among human stakeholders, including individual users, businesses, and the managing organization. Governance is typically community-led, establishing a participatory framework for decision-making. However, the architecture could be improved by explicitly defining the roles, rights, and responsibilities of non-human stakeholders such as the environment, AI agents, or future generations, moving beyond a purely anthropocentric model.
 
-### 2. Value Creation
+**2. Value Creation Capability:**
+Complementary currencies excel at enabling collective value creation that transcends purely economic metrics. The pattern directly facilitates the generation of social value through community building and cohesion, and ecological value by incentivizing sustainable behaviors. It unlocks latent economic capacity and knowledge within a community, converting underutilized resources and skills into active value, thereby enhancing overall system resilience.
 
-Complementary currencies create value in a number of ways. They can help to stimulate local economic activity, create new opportunities for trade, and build stronger communities. They can also create social and environmental value by promoting sustainable lifestyles and supporting businesses with a social or environmental mission. The value created by a complementary currency is typically shared among the participants in the system, rather than being extracted by a central authority or financial intermediary.
+**3. Resilience & Adaptability:**
+The pattern is inherently designed to enhance resilience by creating a parallel economic system that can buffer communities against the volatility of mainstream finance. Features like mutual credit and demurrage are adaptive mechanisms that help the system maintain coherence and circulation under stress. This adaptability allows communities to thrive on change and respond to local needs in real-time without relying on external, slow-moving institutions.
 
-### 3. Value Preservation
+**4. Ownership Architecture:**
+This pattern fundamentally redefines ownership away from extractive monetary equity. Ownership is expressed through participation, shared governance, and the co-creation of the medium of exchange itself. The rights to create and use the currency are distributed among its participants, aligning with a commons-based model where value is stewarded collectively rather than owned and extracted by a few.
 
-Preserving the value of a complementary currency over time can be a challenge. Unlike national currencies, which are backed by the full faith and credit of the government, complementary currencies are typically backed by the ongoing economic activity of the community. To maintain their value, it is essential to ensure that there is a constant demand for the currency and that it is widely accepted by businesses and individuals. This can be achieved through a variety of strategies, such as offering incentives for using the currency, promoting it to new users, and ensuring that it is easy to use and access.
+**5. Design for Autonomy:**
+Complementary currencies are highly compatible with autonomous systems. The "Cognitive Era Considerations" section highlights how they can integrate with AI-powered marketplaces, smart contracts for automated governance, and evolve into Decentralized Autonomous Organizations (DAOs). The low coordination overhead of localized, rule-based systems makes them an ideal foundation for building more complex, autonomous economic agents.
 
-### 4. Shared Rights & Responsibilities
+**6. Composability & Interoperability:**
+The pattern is highly composable, designed to be a component within a larger ecosystem of alternative economic tools. It can be integrated with timebanks, local food systems, and community land trusts to create multi-layered, resilient value-creation systems. This interoperability allows for the construction of sophisticated, polycentric economic networks tailored to specific community needs.
 
-In most complementary currency systems, the rights and responsibilities of the participants are clearly defined in a set of rules or a user agreement. These rules typically cover issues such as how the currency is issued, how it can be used, and how disputes will be resolved. The governance of the system is often managed by a community-based organization, which is accountable to the users of the currency. This helps to ensure that the system is managed in a fair and transparent manner.
+**7. Fractal Value Creation:**
+The core logic of creating a purpose-driven medium of exchange is fractal, applying effectively at multiple scales—from small neighborhood groups to large regional business networks. The principles of mutual consent, closed-loop circulation, and purpose-driven design can be replicated and adapted across different contexts. This allows the value-creation logic to scale without losing its core integrity, enabling a nested, multi-scalar commons.
 
-### 5. Systematic Design
+**Overall Score: 4/5 (Value Creation Enabler)**
 
-Complementary currency systems are designed to be self-sustaining and resilient. They often incorporate feedback loops and other mechanisms to ensure that the system remains stable and balanced over time. For example, some systems use a “demurrage” fee, which is a small charge on balances that are not spent. This encourages users to keep the currency circulating, rather than hoarding it.
+**Rationale:**
+The pattern provides a robust framework for creating localized, resilient value networks. It inherently supports stakeholder-governed architectures, diverse value creation (social, economic, environmental), and adaptability. Its principles are fractal and composable, and it is highly compatible with autonomous systems like DAOs. The primary reason it is not a 5 is that its success is highly dependent on the specific implementation and community engagement, rather than being a fully self-contained architecture.
 
-### 6. Systems of Systems
-
-Complementary currencies can be seen as a key component of a larger ecosystem of alternative economic and social systems. They can be integrated with other systems, such as timebanks, local food systems, and community land trusts, to create a more holistic and resilient local economy. By working together, these systems can create a powerful engine for social and economic change.
-
-### 7. Fractal Properties
-
-The principles of complementary currencies can be applied at multiple scales, from small, informal groups to large, regional networks. The core principles of mutual consent, defined unit of account, and closed-loop circulation are applicable in a wide range of contexts. This fractal nature allows for a high degree of flexibility and adaptability, enabling communities to design currency systems that meet their specific needs and circumstances.
-
-### Overall Score: 3/5 (Transitional)
-
-Complementary currencies represent a significant step towards a more commons-aligned economic system. They challenge the monopoly of national currencies and provide a platform for communities to create their own systems of exchange. However, they are not without their challenges. Many complementary currency systems struggle to achieve scale and long-term sustainability. They can also be vulnerable to the same kinds of problems that plague conventional financial systems, such as fraud, speculation, and inequality. To become truly commons-aligned, complementary currency systems need to continue to innovate and experiment with new models of governance, ownership, and value creation.
+**Opportunities for Improvement:**
+- Explicitly integrate the rights and responsibilities of non-human stakeholders like the environment and AI agents into the governance frameworks.
+- Develop standardized interoperability protocols to allow seamless exchange between different complementary currency systems.
+- Create more robust models for long-term value preservation and investment that are aligned with commons principles, moving beyond just a medium of exchange.
 
 ## 9. Resources & References
 

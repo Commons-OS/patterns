@@ -15,7 +15,7 @@ tags:
   era: [digital]
   origin: [netflix]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -99,44 +99,37 @@ In summary, the evidence is clear: Chaos Engineering is a powerful practice that
 
 The advent of the Cognitive Era, characterized by the widespread adoption of artificial intelligence (AI) and machine learning (ML), introduces new challenges and opportunities for Chaos Engineering. As systems become more intelligent and autonomous, their failure modes can become even more complex and unpredictable. AI-powered systems can exhibit emergent behaviors that are not explicitly programmed, making it difficult to anticipate all the ways in which they might fail.
 
-In this context, Chaos Engineering becomes even more critical for ensuring the resilience of these systems. By injecting failures into AI-powered systems, we can gain a better understanding of how they behave under stress and identify potential weaknesses in their design. For example, we can use Chaos Engineering to test the resilience of an ML model to noisy or incomplete data, or to test the ability of an autonomous system to recover from a sensor failure.
+### 8. Commons Alignment Assessment (v2.0)
 
-Furthermore, AI and ML can also be used to enhance the practice of Chaos Engineering itself. For example, we can use ML to analyze the results of chaos experiments and to identify patterns that might indicate a potential weakness. We can also use AI to automatically generate new chaos experiments based on the system's current state and past failures. This can help us to more efficiently and effectively explore the space of possible failures and to build more resilient systems.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-In the Cognitive Era, Chaos Engineering is not just about testing the resilience of individual components, but about understanding the systemic behavior of complex, intelligent systems. It is about building confidence in our ability to operate these systems safely and reliably, even in the face of unforeseen circumstances.
+**1. Stakeholder Architecture:**
+Chaos Engineering primarily defines responsibilities for the engineering and operations teams tasked with maintaining system stability. The rights of other stakeholders, such as end-users and customers, are implicitly protected by ensuring service availability. However, the pattern does not explicitly architect a broad set of rights and responsibilities for non-technical stakeholders like the environment or future generations.
 
-### 8. Commons Alignment Assessment (600-800 words)
+**2. Value Creation Capability:**
+The pattern directly enables the creation of **resilience value**, which is the capability of a system to continue delivering its core value proposition despite disruptions. This is a critical form of collective value creation, as it safeguards the benefits the system provides to all its stakeholders. It also generates significant **knowledge value** by revealing hidden dependencies and failure modes, enhancing the collective understanding of the system's complexity.
 
-Chaos Engineering, while primarily a technical practice, has significant implications for the development of a healthy and resilient digital commons. Its principles and practices can be seen as a form of collective learning and knowledge sharing, which are essential for building and maintaining shared resources.
+**3. Resilience & Adaptability:**
+This is the core strength of Chaos Engineering. The entire practice is designed to help systems thrive on change and maintain coherence under stress by proactively exposing weaknesses. By deliberately injecting failures, it forces the system and the teams managing it to adapt and become more resilient, directly embodying the principles of adaptability and antifragility.
 
-From a commons perspective, Chaos Engineering can be viewed as a mechanism for building collective intelligence about the behavior of complex systems. By openly sharing the results of chaos experiments, organizations can help to create a shared understanding of common failure modes and best practices for building resilient systems. This knowledge can then be used by others to improve the resilience of their own systems, leading to a more robust and reliable digital infrastructure for everyone.
+**4. Ownership Architecture:**
+The pattern does not explicitly address ownership beyond the operational responsibility for system uptime. The focus is on the technical architecture and the responsibilities of the teams that build and operate it. It does not define ownership as a broader set of rights and responsibilities distributed among various stakeholders.
 
-Furthermore, the practice of Chaos Engineering can help to foster a culture of collaboration and shared responsibility. When teams come together to conduct GameDays and other chaos experiments, they are not just testing the system, but also building social capital and trust. They are learning to work together to solve complex problems and to take collective ownership of the resilience of the system. This sense of shared ownership is a key characteristic of a healthy commons.
+**5. Design for Autonomy:**
+Chaos Engineering is highly compatible with and even essential for autonomous systems like AI, DAOs, and other distributed technologies. By building confidence in a system's ability to handle unexpected events, it provides the foundation of trust required for delegating control to autonomous agents. The emphasis on automating experiments also aligns with the goal of minimizing human coordination overhead.
 
-However, there are also potential tensions between the practice of Chaos Engineering and the principles of the commons. For example, if the knowledge gained from chaos experiments is not shared openly, it can create a competitive advantage for a single organization, rather than contributing to the collective good. Similarly, if chaos experiments are conducted in a way that harms users or disrupts the stability of the digital commons, they can have a negative impact on the shared resource.
+**6. Composability & Interoperability:**
+This pattern is highly composable and interoperable. It can be applied to virtually any software system and integrated with a wide range of other practices, such as continuous integration/continuous delivery (CI/CD), monitoring, and incident response. It acts as a modular capability that enhances the resilience of larger, composite value-creation systems.
 
-To ensure that Chaos Engineering is aligned with the principles of the commons, it is important to adopt a set of best practices. First, organizations should be encouraged to share the results of their chaos experiments openly, for example, through blog posts, conference presentations, and open-source tools. Second, chaos experiments should be conducted in a responsible and ethical manner, with a focus on minimizing the potential harm to users and the broader digital ecosystem. Finally, the practice of Chaos Engineering should be seen as a form of collective stewardship, with the goal of improving the resilience of the digital commons for the benefit of all.
+**7. Fractal Value Creation:**
+The logic of Chaos Engineering is fractal, meaning it can be applied at multiple scales. Experiments can be conducted on a single function, a microservice, a complete application, an entire infrastructure region, or even on human-organizational processes. This scalability allows the principle of resilience testing to be embedded throughout a system's architecture, from the smallest component to the whole.
 
-By embracing these principles, Chaos Engineering can become a powerful tool for building a more resilient and equitable digital world. It can help us to move from a world of isolated, proprietary systems to a world of interconnected, shared resources that are managed for the collective good.
+**Overall Score: 4 (Value Creation Enabler)**
 
-### 9. Resources & References (200-400 words)
+**Rationale:**
+Chaos Engineering is a powerful enabler of resilient value creation, which is a core tenet of the Commons OS v2.0 framework. It provides a concrete practice for building systems that can adapt and thrive in complex, unpredictable environments. While it does not explicitly address all seven pillars, its profound impact on resilience, autonomy, and fractal value creation makes it a critical pattern for building modern commons.
 
-The following resources provide further information on the principles, practices, and tools of Chaos Engineering.
-
-Several key books provide a solid foundation in Chaos Engineering. *Chaos Engineering: System Resiliency in Practice* by Casey Rosenthal and Nora Jones is a comprehensive guide to the discipline. For a historical perspective, *Chaos Monkeys: Obsolete Monkeys, Obsolete Data Centers* by Antonio Garcia Martinez offers a compelling narrative of the origins of the practice at Netflix.
-
-A wealth of information is also available online. The [Principles of Chaos Engineering](https://principlesofchaos.org/) website provides a concise overview of the core tenets of the practice. For more in-depth articles and tutorials, the [Gremlin](https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice) and [IBM](https://www.ibm.com/think/topics/chaos-engineering) websites are excellent resources. The [Wikipedia](https://en.wikipedia.org/wiki/Chaos_engineering) article on Chaos Engineering offers a good starting point for research, and [Steadybit](https://steadybit.com/case-studies/) provides a collection of case studies.
-
-A variety of tools are available to support the practice of Chaos Engineering. **Chaos Monkey**, the original tool from Netflix, is an open-source option for randomly terminating virtual machine instances. For more advanced capabilities, commercial platforms like **Gremlin** and **Steadybit** offer a wide range of attacks, user-friendly interfaces, and integrations with the development lifecycle. For those on the AWS platform, the **AWS Fault Injection Simulator** provides a managed service for injecting faults into AWS workloads.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/chaos-engineering/](https://commons-os.github.io/patterns/domain/chaos-engineering/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/chaos-engineering.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/chaos-engineering.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
+**Opportunities for Improvement:**
+- The pattern could be extended to consider a broader range of stakeholders beyond technical teams and end-users, including the environmental impact of system failures and recovery.
+- Future iterations could explore how to apply Chaos Engineering principles to test the fairness and equity of value distribution within a system, not just its technical availability.
+- The concept of 'blast radius' could be expanded to include social or economic impact, not just technical scope, when designing experiments.

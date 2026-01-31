@@ -15,7 +15,7 @@ tags:
   era: [digital]
   origin: [agile-manifesto, craig-larman, bas-vodde]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: ["pat_01kg5023zwft8t7k63bfadqqwg"]
 specializes_to: []
@@ -192,41 +192,40 @@ Despite the potential of AI, the human element will remain central to the succes
 As cognitive technologies mature, the LeSS framework will likely evolve to incorporate them more deeply into its practices. The emphasis on systems thinking will become even more critical as organizations become more complex and interconnected, and AI will provide new tools for understanding and optimizing these systems. The principle of continuous improvement will be amplified by the ability of AI to provide real-time feedback and insights, enabling organizations to learn and adapt more quickly than ever before. The future of LeSS will be one of human-machine collaboration, where the framework provides the structure and the principles, and AI provides the tools and the intelligence to help organizations thrive in the Cognitive Era.
 
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-This assessment evaluates Large-Scale Scrum (LeSS) against the seven dimensions of a commons-based approach to organizing and creating value. The goal is to understand how well LeSS aligns with the principles of a commons and to identify opportunities for improvement.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**1. Stakeholder Mapping:**
+**1. Stakeholder Architecture:**
+LeSS defines Rights and Responsibilities primarily between the development teams and the customer, who is represented by the Product Owner. The framework grants teams the Right to self-organize and the Responsibility to deliver a product increment, while the Product Owner has the Right to direct the product's vision and the Responsibility to maximize its value. However, it does not explicitly define an architecture for engaging with broader stakeholders such as the environment, local communities, or future generations, focusing instead on the direct participants in product development.
 
-LeSS has a strong focus on the customer as the primary stakeholder. The entire framework is designed to maximize the delivery of value to the customer. However, the framework is less explicit about other stakeholders, such as employees, partners, and the wider community. While the principle of "respect for people" in Lean Thinking is a part of LeSS, the framework does not provide specific guidance on how to map and engage with a broader set of stakeholders. The focus remains primarily on the customer-producer relationship.
+**2. Value Creation Capability:**
+LeSS is highly effective at creating economic and knowledge value. It enables the collective capability of multiple teams to deliver complex products efficiently, while its principles of continuous improvement and transparency foster a culture of learning and knowledge sharing. The framework's intense focus on a single "whole product" for a customer, however, leaves the creation of social, ecological, or resilience value as an implicit, rather than an explicit, goal.
 
-**2. Value Creation:**
+**3. Resilience & Adaptability:**
+Resilience and adaptability are core strengths of the LeSS framework. By building upon Scrum's empirical process control (transparency, inspection, adaptation) and promoting systems thinking, it helps organizations thrive on change and manage complexity. The "More with Less" principle aims to descale organizational bureaucracy, creating a more robust and less fragile system that can maintain coherence under the stress of large-scale development.
 
-LeSS is designed to create economic value by delivering high-quality products that customers want. The framework's emphasis on speed, efficiency, and customer-centricity is geared towards maximizing the return on investment for the organization. However, LeSS is less explicit about the creation of other forms of value, such as social and environmental value. While the principle of "continuous improvement towards perfection" could be interpreted to include these broader concerns, the framework does not provide specific guidance on how to measure and optimize for them.
+**4. Ownership Architecture:**
+LeSS defines ownership primarily as stewardship and responsibility rather than monetary equity. The Product Owner "owns" the product vision and backlog, signifying their ultimate responsibility for the product's success on behalf of the customer. The teams, in turn, have ownership over their internal processes and the quality of their work. This architecture fosters a sense of shared responsibility for the product as a whole.
 
-**3. Value Preservation:**
+**5. Design for Autonomy:**
+The framework is explicitly designed to increase autonomy, organizing work around self-managing, cross-functional feature teams to minimize coordination overhead. This decentralized structure and its reliance on clear, simple rules make it highly compatible with distributed systems and potentially adaptable for collaboration with AI agents or DAOs. The emphasis on direct communication over complex processes further supports a low-overhead, autonomous operational model.
 
-LeSS is designed to be an adaptive and resilient framework that can evolve over time. The principle of empirical process control, with its emphasis on inspection and adaptation, is a key mechanism for ensuring that the framework remains relevant in a changing world. The focus on continuous improvement also helps to ensure that the organization is constantly learning and evolving. However, the framework is less explicit about how to preserve the value of the knowledge and experience that is created within the organization. While communities of practice are encouraged, there is no formal mechanism for capturing and sharing this knowledge.
+**6. Composability & Interoperability:**
+LeSS is designed to be a specific application of Scrum and is highly composable with other Agile and Lean patterns, such as Continuous Integration, Test-Driven Development, and Communities of Practice. It provides a clear, bounded system for product development that can interoperate with other organizational functions like marketing, sales, and support through the central role of the Product Owner. Its minimalist nature allows it to be combined with other patterns to build larger, more comprehensive value-creation systems.
 
-**4. Shared Rights & Responsibilities:**
+**7. Fractal Value Creation:**
+The value-creation logic of LeSS exhibits fractal properties. The core Scrum pattern of a team working from a backlog in Sprints is the foundational unit. LeSS scales this by treating multiple teams as a single, larger team, and LeSS Huge extends this again with the introduction of Requirement Areas. This demonstrates that the underlying principles of empirical process control and whole-product focus can be applied at multiple scales.
 
-LeSS distributes rights and responsibilities in a way that is consistent with a commons-based approach. The teams are self-organizing and have a high degree of autonomy. The Product Owner is responsible for the overall product vision, but the teams are responsible for how they do their work. This distribution of control helps to create a sense of ownership and shared responsibility. However, the framework is less clear about how to handle issues of governance and decision-making at the organizational level.
+**Overall Score: 4 (Value Creation Enabler)**
 
-**5. Systematic Design:**
+**Rationale:**
+LeSS is a powerful framework for enabling collective value creation in the context of large-scale product development. Its emphasis on systems thinking, adaptability, and decentralized autonomy strongly aligns with the core tenets of a resilient system. While it excels at creating economic and knowledge value, it scores a 4 instead of a 5 because its stakeholder architecture is narrowly focused on the customer and development organization, lacking explicit mechanisms to account for broader social or ecological value creation.
 
-LeSS is a systematically designed framework that provides a clear and coherent set of principles and practices. The framework is designed to be as simple as possible, while still providing the necessary structure for large-scale development. The two frameworks, LeSS and LeSS Huge, provide a clear path for scaling from a few teams to dozens or even hundreds of teams. However, the framework is less explicit about how to design the broader organizational system in which LeSS is embedded.
-
-**6. Systems of Systems:**
-
-LeSS is designed to be a system of systems. The framework is composed of a set of interacting parts, including the teams, the Product Owner, the Product Backlog, and the Sprint. The framework is also designed to be part of a larger system, which includes the organization, the market, and the customers. The principle of systems thinking is a key part of LeSS, and it encourages a holistic view of the development process. However, the framework is less explicit about how to manage the interactions between LeSS and other parts of the organization.
-
-**7. Fractal Properties:**
-
-The principles of LeSS are designed to be fractal, meaning that they can be applied at all scales of the organization. The principles of transparency, inspection, and adaptation, for example, are just as relevant for a single team as they are for the entire organization. This fractal nature of the principles helps to create a coherent and consistent culture across the organization. However, the framework is less explicit about how to ensure that these principles are applied consistently at all levels.
-
-**Overall Score: 3 (Transitional)**
-
-LeSS is a transitional framework that has many of the characteristics of a commons-based approach, but it is not a fully-fledged commons. The framework's emphasis on self-organization, transparency, and continuous improvement is well-aligned with the principles of a commons. However, the framework's focus on economic value and its lack of explicit guidance on how to engage with a broader set of stakeholders prevent it from being a fully commons-aligned framework. To become more commons-aligned, LeSS would need to broaden its definition of value to include social and environmental concerns, and it would need to provide more explicit guidance on how to map and engage with a broader set of stakeholders.
+**Opportunities for Improvement:**
+- Broaden the Stakeholder Architecture by introducing practices to identify and engage with non-obvious stakeholders, such as the environment or community, and incorporate their needs into the product vision.
+- Explicitly expand the definition of "value" beyond the product-market fit to include metrics for social, ecological, and resilience value, encouraging the Product Owner to consider these dimensions during prioritization.
+- Integrate a "Commons Stewardship" role or responsibility, perhaps as an extension of the Scrum Master or management function, to focus on the long-term health and viability of the entire value-creation ecosystem, not just the product itself.
 
 
 ### 9. Resources & References

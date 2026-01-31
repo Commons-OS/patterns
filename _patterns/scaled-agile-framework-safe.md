@@ -197,41 +197,40 @@ While AI and automation can augment SAFe in many ways, the human element remains
 
 As AI and automation become more prevalent, the Scaled Agile Framework is likely to evolve to incorporate these new capabilities more explicitly. We may see the emergence of new roles and practices that are specifically focused on leveraging AI to improve the flow of value. For example, there may be a new role for an "AI-assisted Release Train Engineer" who is responsible for using AI to optimize the performance of the Agile Release Train. The framework may also evolve to provide more guidance on how to manage the ethical and social implications of AI, ensuring that it is used in a responsible and beneficial way. Ultimately, the future of SAFe will be shaped by the ongoing co-evolution of technology and organizational practices, as enterprises continue to seek new ways to improve their agility and responsiveness in an increasingly complex and dynamic world.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-This assessment evaluates the Scaled Agile Framework (SAFe) against the seven dimensions of a commons-aligned organizational pattern. The goal is to understand how well SAFe supports the creation and management of shared resources and value.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**1. Stakeholder Mapping:**
+**1. Stakeholder Architecture:**
+SAFe defines Rights and Responsibilities primarily for internal stakeholders (teams, leaders, business owners) and the direct customer, organizing them within value streams. The framework's stakeholder architecture is focused on delivering value within the enterprise context. It does not explicitly account for the Rights and Responsibilities of broader stakeholders such as the environment, local communities, or future generations.
 
-SAFe provides a reasonably comprehensive map of stakeholders, including customers, business owners, Agile teams, and various leadership roles. The framework explicitly identifies the key players and their responsibilities within the value stream. However, the primary focus is on internal stakeholders and the direct customer. The framework could be improved by providing more explicit guidance on how to identify and engage with a broader set of stakeholders, such as the community, the environment, and future generations.
+**2. Value Creation Capability:**
+The framework is strongly oriented towards enabling collective economic value creation by optimizing the flow of work to deliver products and services faster. While it fosters knowledge creation through its learning cycles and can lead to social value through improved team collaboration, it does not explicitly guide the creation of ecological or broader social value. The definition of value is primarily economic and customer-centric.
 
-**2. Value Creation:**
+**3. Resilience & Adaptability:**
+SAFe is designed to help large systems adapt to complexity and maintain coherence through cadence-based planning, iterative development, and fast feedback loops. It helps organizations thrive on change by making planning and execution more predictable and responsive. However, the highly structured and prescriptive nature of the framework can sometimes limit radical adaptation if not implemented with a strong focus on continuous learning and improvement.
 
-SAFe is heavily focused on creating economic value for the enterprise and its customers. The framework's emphasis on delivering value in the shortest sustainable lead time is a clear indication of this focus. While this is important, the framework could be enhanced by providing more guidance on how to create other types of value, such as social and environmental value. The concept of "value" in SAFe is primarily defined in economic terms, and there is an opportunity to broaden this definition to include a more holistic view of value creation.
+**4. Ownership Architecture:**
+SAFe defines ownership through decentralized decision-making, empowering teams with the authority to make local choices and take responsibility for their work. This distributes some rights and responsibilities beyond a purely hierarchical model. However, ownership is still framed within the context of delivering economic value for the enterprise, rather than a broader architecture of stewardship for all stakeholders.
 
-**3. Value Preservation:**
+**5. Design for Autonomy:**
+The pattern is designed for large-scale human organizations and has a significant coordination overhead, particularly during PI Planning events. While it promotes local autonomy for teams, the overall structure is not inherently compatible with fully autonomous systems like DAOs without significant adaptation. The framework's complexity and reliance on centralized roles can be a barrier to deep autonomy.
 
-SAFe's emphasis on continuous learning, adaptation, and built-in quality helps to preserve the value of the solutions it creates over time. The framework's iterative approach allows for regular feedback and course correction, ensuring that the solutions remain relevant and valuable to customers. However, the framework could provide more guidance on how to preserve value in a broader sense, such as by considering the long-term social and environmental impacts of the solutions being created.
+**6. Composability & Interoperability:**
+SAFe is a comprehensive framework that integrates concepts from Lean, Agile, and DevOps, making it composable with these practices. It is designed to interoperate with other business systems at the portfolio level. However, its all-encompassing nature can make it challenging to combine with other large-scale organizational frameworks, as it tends to replace rather than coexist with them.
 
-**4. Shared Rights & Responsibilities:**
-
-SAFe promotes a distributed model of rights and responsibilities, with decentralized decision-making being one of its core principles. This empowers teams and individuals to take ownership of their work and make decisions that are in the best interest of the value stream. However, the ultimate authority still resides with the enterprise, and the framework could be improved by providing more guidance on how to create a more equitable distribution of rights and responsibilities among all stakeholders.
-
-**5. Systematic Design:**
-
-SAFe is a highly systematic framework, with a well-defined set of roles, events, and artifacts. This provides a clear and repeatable process for scaling Agile, which can be beneficial for large organizations. However, the prescriptive nature of the framework can also be a limitation, as it may not be suitable for all contexts. There is an opportunity to make the framework more modular and adaptable, allowing organizations to pick and choose the elements that are most relevant to their needs.
-
-**6. Systems of Systems:**
-
-SAFe is designed to operate as a system of systems, with multiple Agile Release Trains working together to deliver large and complex solutions. The framework provides guidance on how to coordinate the work of these different trains and ensure that they are all aligned with the overall portfolio strategy. However, the framework could be improved by providing more guidance on how to interact with other systems outside of the enterprise, such as industry standards bodies and open source communities.
-
-**7. Fractal Properties:**
-
-The principles of SAFe are intended to be fractal, meaning that they can be applied at all levels of the organization, from the team to the portfolio. This allows for a consistent way of working across the enterprise, which can improve alignment and collaboration. However, the practices of SAFe are not always fractal, and there is an opportunity to make the framework more self-similar at all scales.
+**7. Fractal Value Creation:**
+SAFe exhibits fractal properties, as its core principles and value creation logic can be applied at multiple scales, from individual teams to the entire portfolio. The concept of organizing around value streams can be scaled up or down. However, the specific practices and configurations are not perfectly self-similar across scales, with different structures for Essential, Large Solution, and Portfolio levels.
 
 **Overall Score: 3 (Transitional)**
 
-SAFe is a transitional pattern that has the potential to be more commons-aligned. Its strengths lie in its systematic design, its focus on decentralized decision-making, and its ability to coordinate the work of multiple teams. However, the framework could be improved by broadening its definition of value, providing more guidance on how to engage with a wider range of stakeholders, and making the framework more adaptable to different contexts. To become more commons-aligned, SAFe would need to evolve to place a greater emphasis on creating social and environmental value, in addition to economic value, and to provide more mechanisms for a more equitable distribution of rights and responsibilities among all stakeholders.
+**Rationale:**
+SAFe is a transitional pattern with significant potential to enable collective value creation, particularly through its emphasis on systems thinking, decentralized decision-making, and adaptability in complex environments. However, its strong focus on economic value, its limited stakeholder perspective, and its prescriptive nature require significant adaptation to become a true Value Creation Architecture. It provides a solid foundation for operational efficiency but needs to broaden its scope to fully align with commons principles.
+
+**Opportunities for Improvement:**
+- Broaden the definition of "value" to explicitly include social, ecological, and knowledge value alongside economic value.
+- Expand the stakeholder map to include non-obvious stakeholders like the environment and future generations, and define their Rights and Responsibilities.
+- Introduce more modularity and flexibility into the framework to allow organizations to adapt it more easily to their specific context and combine it with other patterns.
 
 ### 9. Resources & References
 

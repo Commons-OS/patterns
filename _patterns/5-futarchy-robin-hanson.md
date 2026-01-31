@@ -15,7 +15,7 @@ tags:
   era: [digital, cognitive]
   origin: [academic]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023yvehgrw2tgchwaj9vp"]
@@ -132,25 +132,40 @@ This matters because traditional governance systems, including democracies, ofte
 
 -   **Evolution Outlook**: As AI and other cognitive technologies continue to develop, futarchy is likely to evolve as well. We may see the emergence of more sophisticated prediction markets, with AI agents playing an increasingly important role. We may also see the development of new ways of defining and measuring welfare, that take into account a wider range of human values. Ultimately, the goal is to create a system of governance that is both intelligent and humane, and that is able to make decisions that are in the best interests of all.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-1.  **Stakeholder Mapping**: Futarchy, in its purest form, is open to all stakeholders who are willing to participate in the prediction markets. However, the ability to participate is limited by access to capital and information. This can lead to a situation where wealthy and well-informed individuals have a greater say in the decision-making process. In the context of DAOs, participation is often limited to token holders, which can further exclude those who are not invested in the project.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-2.  **Value Creation**: Futarchy is designed to create value by making more informed and effective decisions. The value created is intended to be shared by all members of the community, as reflected in the welfare metric. However, the distribution of value can be uneven, with those who make accurate predictions in the markets capturing a larger share of the financial rewards.
+**1. Stakeholder Architecture:**
+Futarchy distributes Rights and Responsibilities by separating the definition of values (voting) from the execution of beliefs (betting). However, this architecture primarily empowers stakeholders with capital to participate in prediction markets, potentially marginalizing non-monetized stakeholders like the environment or future generations. Their inclusion depends entirely on their representation within the democratically chosen welfare metric, which is a significant structural dependency.
 
-3.  **Value Preservation**: The relevance of futarchy is maintained by its ability to adapt to changing circumstances. The welfare metric can be updated to reflect new values and priorities, and the prediction markets can be used to make decisions about how to respond to new challenges and opportunities. However, there is a risk that the system could become ossified if the welfare metric is not updated regularly, or if the prediction markets become dominated by a small group of insiders.
+**2. Value Creation Capability:**
+The pattern is explicitly designed to enhance collective value creation by optimizing decisions against a defined welfare metric. This metric can encompass social, ecological, and knowledge value, but the mechanism's focus is on aggregating information for economic efficiency. The system's capability to create holistic value is therefore contingent on the breadth and depth of the initial value metric defined by its stakeholders.
 
-4.  **Shared Rights & Responsibilities**: In a futarchy, the right to propose policies is open to all, but the responsibility for making decisions is delegated to the prediction markets. This can be seen as a way of distributing power and responsibility more widely, but it also raises questions about accountability. If a decision turns out to be a bad one, who is to blame? The market? The people who proposed the policy? The people who defined the welfare metric?
+**3. Resilience & Adaptability:**
+Futarchy is designed for adaptability, using prediction markets to dynamically select policies that are most likely to succeed in complex environments. The ability to update the core welfare metric allows the system to evolve its goals over time, maintaining coherence by tying all actions back to this shared objective. However, its resilience is vulnerable to market manipulation and low participation (thin markets), which can compromise the integrity of its decision-making process.
 
-5.  **Systematic Design**: Futarchy is a highly systematic form of governance, with clear rules and procedures for making decisions. The system is designed to be transparent and auditable, with all proposals, trades, and outcomes recorded on a public ledger (in the case of blockchain-based futarchy). However, the complexity of the system can make it difficult for ordinary people to understand and participate.
+**4. Ownership Architecture:**
+Ownership is implicitly defined through participation rights: the right to vote on values and the right to bet on beliefs. It does not fundamentally redefine ownership beyond a form of monetary and informational equity, as influence is directly tied to the capital and knowledge required to make successful predictions. The model does not explicitly architect for non-monetary forms of stakeholding or responsibility.
 
-6.  **Systems of Systems**: Futarchy can be composed with other patterns to create more complex systems of governance. For example, it could be combined with a system of liquid democracy to allow people to delegate their voting power to experts. It could also be combined with a system of reputation-based governance to give more weight to the opinions of those who have a track record of making good decisions.
+**5. Design for Autonomy:**
+Futarchy is exceptionally well-suited for autonomous systems, making it highly compatible with DAOs and AI agents. Its low coordination overhead, where decisions are automatically triggered by market outcomes, makes it a powerful tool for decentralized governance. AI agents can act as sophisticated participants in the prediction markets, potentially increasing the system's overall accuracy and efficiency.
 
-7.  **Fractal Properties**: The principles of futarchy can be applied at all scales, from small teams to large organizations and even entire nations. The same basic mechanism of voting on values and betting on beliefs can be used to make decisions at any level of social organization.
+**6. Composability & Interoperability:**
+This pattern is highly modular and can be combined with other governance patterns to create more sophisticated systems. For instance, the value-setting process can be managed by a different pattern like Sociocracy, while Futarchy handles the policy execution. This composability allows it to serve as a core decision-making engine within a larger, multi-pattern governance framework.
 
-**Overall Score**: 3 (Transitional)
+**7. Fractal Value Creation:**
+The core logic of separating values from beliefs and using markets to predict outcomes can be applied at multiple scales. A small team can use it for project management, a corporation for strategic planning, or a digital commons for protocol governance. This fractal nature makes it a versatile pattern for value creation across different levels of social organization.
 
-Futarchy is a transitional pattern that has the potential to be highly aligned with the commons, but it also has a number of challenges that need to be addressed. The main challenge is to ensure that the system is fair and inclusive, and that it does not become dominated by wealthy and well-informed individuals. If these challenges can be overcome, futarchy could be a powerful tool for creating a more just and prosperous world.
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Futarchy is a powerful enabler of collective value creation due to its robust mechanism for information aggregation and decentralized decision-making. Its high degree of autonomy, composability, and fractal applicability make it a cornerstone pattern for cognitive-era governance. However, its reliance on capital for participation and the challenge of defining a truly comprehensive welfare metric prevent it from being a complete Value Creation Architecture out-of-the-box. It strongly enables value creation but requires conscious design to ensure equitable stakeholder representation and holistic goals.
+
+**Opportunities for Improvement:**
+- Integrate non-monetary staking mechanisms, such as reputation or proof-of-contribution, to broaden stakeholder participation beyond capital holders.
+- Develop more robust and inclusive methods for defining the welfare metric, such as combining it with deliberative processes or quadratic voting to better represent minority interests.
+- Implement safeguards against market manipulation, such as subsidies for contrarian bets or dynamic market-making algorithms, to enhance the resilience of the decision-making process.
 
 ### 9. Resources & References
 

@@ -15,7 +15,7 @@ tags:
   era: [digital]
   origin: [agile-manifesto]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023xaemr9xsmcxd0eg8ek"]
@@ -80,7 +80,7 @@ Agile methodologies are put into action through a variety of key practices that 
 6.  **Continuous Integration (CI):** A software development practice where members of a team integrate their work frequently, usually each person integrates at least daily – leading to multiple integrations per day. Each integration is verified by an automated build (including test) to detect integration errors as quickly as possible. CI helps to reduce the risk of integration problems and to ensure that the software is always in a working state.
 
 7.  **Pair Programming:** A software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently. Pair programming helps to improve the quality of the code, to share knowledge between team members, and to reduce the number of errors.
-
+	
 8.  **Daily Stand-up:** A short, daily meeting for the development team to synchronize their work and to plan for the day. The meeting is typically held at the same time and place each day, and is limited to 15 minutes. During the meeting, each team member answers three questions: What did I do yesterday? What will I do today? What obstacles are in my way? The daily stand-up helps to improve communication, to identify and remove impediments, and to keep the team focused on the sprint goals.
 
 ### 4. Application Context
@@ -97,7 +97,6 @@ Agile methodologies are highly adaptable and can be applied in a wide range of c
 **Not Suitable For:**
 
 *   **Projects with very stable and well-understood requirements:** If the requirements are unlikely to change and the project is well-defined, a more traditional, plan-driven approach may be more efficient.
-*   **Projects with a strong need for upfront planning and documentation:** In some industries, such as aerospace or healthcare, there may be a regulatory requirement for comprehensive upfront planning and documentation. In these cases, a hybrid approach that combines elements of Agile and traditional methodologies may be more appropriate.
 
 **Scale:**
 
@@ -183,80 +182,37 @@ While AI and automation have the potential to automate many aspects of the devel
 **Evolution Outlook:**
 
 In the cognitive era, Agile is likely to evolve in a number of ways. We can expect to see a greater emphasis on data-driven decision-making, as teams use AI to analyze project data and to gain insights into their performance. We can also expect to see a greater emphasis on continuous learning and adaptation, as teams use AI to experiment with new ideas and to quickly pivot based on what they learn. Finally, we can expect to see a greater emphasis on the human aspects of software development, as organizations recognize that the key to success in the cognitive era is not just about having the best technology, but about having the best people.
+### 8. Commons Alignment Assessment (v2.0)
 
-### 8. Commons Alignment Assessment
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-This section assesses the alignment of Agile Software Development with the principles of a commons-based approach to value creation and distribution.
+**1. Stakeholder Architecture:**
+Agile defines a clear set of rights and responsibilities for core project stakeholders like developers, designers, and business owners, promoting close collaboration and shared understanding. However, its stakeholder architecture is primarily focused on the immediate system of production. It does not explicitly account for broader stakeholders such as the environment, future generations, or the wider community, whose rights and responsibilities are not formally integrated into the development process.
 
-**1. Stakeholder Mapping:**
+**2. Value Creation Capability:**
+Agile excels at creating economic and knowledge value by rapidly delivering functional software and fostering team learning through iterative cycles. The framework is highly effective at translating user needs into tangible products. Its focus remains primarily on the value captured by the business and the direct user, with less inherent structure for creating or measuring social, ecological, or broader systemic value.
 
-Agile explicitly recognizes a wide range of stakeholders, including developers, customers, users, and business sponsors. The emphasis on customer collaboration and daily interaction between business people and developers ensures that the needs of these key stakeholders are well-represented. However, the focus is primarily on the immediate project stakeholders, and there is less explicit consideration of the broader community, society, or the environment. The scope of stakeholder mapping in Agile is therefore comprehensive within the project context, but could be expanded to include a wider range of external stakeholders.
+**3. Resilience & Adaptability:**
+This is a core strength of Agile, which is fundamentally designed to help systems thrive on change and adapt to complexity. By welcoming changing requirements, promoting short feedback loops, and encouraging continuous reflection, it builds a strong capacity for adaptation. The principle of maintaining a sustainable pace also contributes to the long-term resilience of the development team and the system itself.
 
-**2. Value Creation:**
+**4. Ownership Architecture:**
+Agile promotes a form of stewardship within the development team through practices like collective code ownership and empowering self-organizing teams. This defines ownership as a set of responsibilities for the quality and integrity of the product. However, this sense of ownership is typically limited to the team and does not extend to a broader community of users or stakeholders in the form of formal governance rights.
 
-Agile creates value in a number of ways. For customers, it delivers working software that meets their needs in a timely manner. For developers, it provides a more sustainable and rewarding work environment. For the business, it reduces risk and improves the return on investment. The focus on delivering value in small increments allows for continuous feedback and ensures that the product is always aligned with the needs of the user. However, the value created is primarily economic in nature, and there is less emphasis on creating social or environmental value.
+**5. Design for Autonomy:**
+The principles of self-organizing teams, decentralized decision-making, and simplicity give Agile a high degree of compatibility with autonomous systems. Its iterative nature is well-suited for the experimental and data-driven approaches used in AI development. The low coordination overhead and modular structure make it adaptable for use in distributed systems and decentralized autonomous organizations (DAOs).
 
-**3. Value Preservation:**
+**6. Composability & Interoperability:**
+Agile is highly composable and has proven its ability to interoperate with a vast array of other patterns, from specific engineering practices like Test-Driven Development to large-scale organizational frameworks like SAFe and LeSS. Its principles are abstract enough to be combined with methodologies from different domains, such as Lean Manufacturing or Design Thinking, to create more comprehensive value-creation systems.
 
-Agile promotes value preservation through its emphasis on technical excellence, good design, and continuous improvement. By building quality into the product from the very beginning, Agile teams create software that is easy to maintain, adapt, and extend over time. The iterative nature of Agile also allows for the continuous refinement of the product, ensuring that it remains relevant and valuable to users over the long term.
+**7. Fractal Value Creation:**
+The core value-creation logic of Agile—iterative cycles of sensing, building, and learning—can be applied at multiple scales. It functions at the level of an individual developer, a single team, a department (through frameworks like LeSS), and even entire organizations. This fractal nature allows the fundamental pattern of adaptive value creation to be replicated and scaled throughout a system.
 
-**4. Shared Rights & Responsibilities:**
+**Overall Score: 4 (Value Creation Enabler)**
 
-Agile promotes a sense of shared ownership and responsibility within the development team. The emphasis on self-organizing teams and collective code ownership ensures that everyone is responsible for the quality of the product. However, the rights and responsibilities of external stakeholders, such as the user community, are less well-defined. While users are encouraged to provide feedback, they are not typically given a formal role in the governance of the project.
+**Rationale:**
+Agile Software Development is a powerful enabler of collective value creation, particularly in complex and rapidly changing environments. Its emphasis on adaptability, team autonomy, and iterative feedback loops strongly aligns with the principles of a resilient value-creation architecture. It scores highly because its core mechanics are fundamentally about building the capability to create value under uncertainty.
 
-**5. Systematic Design:**
-
-Agile provides a number of systems and processes that enable its effective implementation. These include the use of short, time-boxed iterations, the daily stand-up meeting, and the sprint retrospective. These systems are designed to promote collaboration, transparency, and continuous improvement. However, the focus is primarily on the development process, and there is less emphasis on the design of the broader organizational system in which the project is situated.
-
-**6. Systems of Systems:**
-
-Agile is a highly modular and adaptable methodology that can be combined with other patterns and practices. For example, it is often used in conjunction with Lean principles, such as value stream mapping and waste reduction. It can also be scaled to large, complex projects through the use of scaling frameworks, such as SAFe and LeSS. This ability to compose with other patterns makes Agile a powerful tool for building complex systems.
-
-**7. Fractal Properties:**
-
-The principles of Agile can be applied at all scales, from individual teams to large, multi-organizational ecosystems. The emphasis on self-organizing teams and decentralized decision-making allows for a high degree of autonomy and flexibility at the local level, while the use of scaling frameworks ensures that the work of individual teams is aligned with the broader goals of the organization. This fractal nature of Agile makes it a highly resilient and adaptable methodology.
-
-**Overall Score: 3 (Transitional)**
-
-Agile Software Development represents a significant step forward from traditional, command-and-control models of management. It promotes a more collaborative, transparent, and empowering work environment, and it has been shown to be highly effective in delivering value to customers. However, its focus is still primarily on the economic value created for the immediate project stakeholders. To become more fully aligned with the principles of a commons-based approach, Agile would need to expand its scope to include a wider range of stakeholders, to place a greater emphasis on the creation of social and environmental value, and to provide a more formal role for the user community in the governance of the project.
-
-### 9. Resources & References
-
-**Essential Reading:**
-
-*   **Beck, K., et al. (2001). *Manifesto for Agile Software Development*.** The foundational document of the Agile movement, this short text outlines the four core values and twelve principles of Agile.
-*   **Sutherland, J. (2014). *Scrum: The Art of Doing Twice the Work in Half the Time*.** A comprehensive guide to the Scrum framework, written by one of its co-creators.
-*   **Martin, R. C. (2002). *Agile Software Development, Principles, Patterns, and Practices*.** A classic text that provides a deep dive into the principles and practices of Agile development.
-
-**Organizations & Communities:**
-
-*   **Agile Alliance:** A global nonprofit organization dedicated to promoting the principles and practices of Agile. The Agile Alliance website is a valuable resource for articles, research papers, and information about upcoming events.
-*   **Scrum.org:** An organization founded by Ken Schwaber, one of the co-creators of Scrum. Scrum.org provides training, certification, and resources for Scrum practitioners.
-
-**Tools & Platforms:**
-
-*   **Jira:** A popular project management tool that is widely used by Agile teams. Jira provides a range of features for managing backlogs, planning sprints, and tracking progress.
-*   **Trello:** A simple and intuitive Kanban-style project management tool. Trello is a good choice for small teams and projects that do not require the full feature set of a tool like Jira.
-*   **Miro:** A collaborative online whiteboard that can be used for a variety of Agile activities, such as brainstorming, story mapping, and retrospectives.
-
-**References:**
-
-*   Agile Alliance. (n.d.). *Agile 101*. Retrieved from https://agilealliance.org/agile101/
-*   Agile Alliance. (n.d.). *A short history of Agile*. Retrieved from https://agilealliance.org/a-short-history-of-agile/
-*   Dybå, T., & Dingsøyr, T. (2008). Empirical studies of agile software development: A systematic review. *Information and software technology*, *50*(9-10), 833-859.
-*   Fowler, M. (2005). *The New Methodology*. Retrieved from https://martinfowler.com/articles/newMethodology.html
-*   Project Management Institute. (2020). *Pulse of the Profession 2020*. Retrieved from https://www.pmi.org/learning/library/pulse-of-the-profession-2020-11868
-*   Smartsheet. (2024). *Real-Life Agile Project Management & Famous Success Stories*. Retrieved from https://www.smartsheet.com/content/agile-project-management-examples
-*   Wikipedia. (n.d.). *Agile software development*. Retrieved from https://en.wikipedia.org/wiki/Agile_software_development
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/agile-software-development/](https://commons-os.github.io/patterns/domain/agile-software-development/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/agile-software-development.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/agile-software-development.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
+**Opportunities for Improvement:**
+- Explicitly integrate a broader set of stakeholders (e.g., community, environment) into the feedback and requirement-gathering processes.
+- Develop metrics and practices for measuring and prioritizing the creation of non-economic value, such as social and ecological benefits.
+- Evolve the concept of the "customer" to include a more diverse set of stakeholders, potentially through representative roles in the governance process.

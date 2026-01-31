@@ -15,7 +15,7 @@ tags:
   era: industrial
   origin: [academic, corporate]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 2
 commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023y6fxsa08h2ab6zb90p"]
@@ -186,27 +186,40 @@ In the cognitive era, CSR is likely to evolve as follows:
 *   **Opportunity Creation**: Companies will use CSR for innovation and competitive advantage, not just risk mitigation.
 *   **Greater Transparency**: AI and other technologies will increase transparency and accountability in CSR by giving stakeholders more access to information.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-This assessment evaluates CSR against the seven dimensions of commons alignment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-1.  **Stakeholder Mapping**: CSR expands the stakeholder map beyond shareholders to include employees, customers, suppliers, communities, and the environment. The comprehensiveness of this mapping depends on the maturity of the company's CSR program.
+**1. Stakeholder Architecture:**
+Corporate Social Responsibility expands the definition of a stakeholder beyond just shareholders to include employees, communities, and the environment. However, it treats these actors as external interests to be managed rather than as integral co-creators of value. The framework often lacks clearly defined, enforceable Rights and Responsibilities, relying instead on voluntary self-regulation and reputation management.
 
-2.  **Value Creation**: CSR aims to create value for multiple stakeholders, including long-term value for shareholders, better conditions for employees, sustainable products for customers, and economic and environmental benefits for communities. The main challenge is balancing these diverse interests.
+**2. Value Creation Capability:**
+CSR primarily focuses on mitigating negative externalities and engaging in philanthropy, which represents a limited form of value creation. It frames social and ecological benefits as responsibilities or costs to be managed, not as core drivers of a resilient value creation engine. The pattern struggles to move beyond economic output as the primary measure of success, thus limiting its capacity for enabling holistic, collective value creation.
 
-3.  **Value Preservation**: CSR is an adaptive pattern that evolves with societal expectations and business risks. Its focus on continuous improvement, stakeholder engagement, and transparency ensures its relevance and helps companies maintain their social license to operate.
+**3. Resilience & Adaptability:**
+The pattern is adaptive in that it responds to shifting societal expectations and reputational risks, but this is a reactive posture. It is not designed to help a system thrive on change or fundamentally adapt its core model to complexity. Because CSR is often an addition to a traditional corporate structure, it does not build intrinsic resilience into the organization's operating logic.
 
-4.  **Shared Rights & Responsibilities**: CSR shifts responsibility from being solely to shareholders to a broader range of stakeholders. In this model, stakeholders have a right to be heard and have their interests considered in decision-making.
+**4. Ownership Architecture:**
+CSR does not fundamentally alter the ownership architecture of the firm, which remains centered on shareholder equity and profit maximization. It introduces the concept of a "social license to operate," but this is a soft power dynamic, not a re-architecting of ownership around shared Rights and Responsibilities for stewarding collective value.
 
-5.  **Systematic Design**: CSR implementation is supported by systematic designs and processes like ISO 14001, SA8000, and GRI, which provide a structured approach to managing and reporting on social and environmental performance.
+**5. Design for Autonomy:**
+As a top-down, centrally managed corporate function, CSR is not designed for autonomy, DAOs, or distributed systems. It typically requires significant coordination overhead, including dedicated departments, extensive reporting, and third-party verification. This makes it incompatible with systems that prioritize low-overhead coordination and decentralized decision-making.
 
-6.  **Systems of Systems**: As a meta-pattern, CSR can be integrated with other organizational patterns like lean manufacturing or agile methodologies, making it a flexible tool for organizational change.
+**6. Composability & Interoperability:**
+CSR can be combined with other management patterns like ISO standards and reporting frameworks. However, this integration is often superficial, acting as a compensatory layer rather than a truly interoperable module. It does not easily compose with patterns that challenge the core logic of profit maximization, limiting its ability to form larger, coherent value-creation systems.
 
-7.  **Fractal Properties**: CSR principles are fractal and can be applied at all scales, from individual actions to comprehensive organizational strategies.
+**7. Fractal Value Creation:**
+While the principles of social and environmental responsibility can be applied at different scales, the value-creation logic of CSR does not scale fractally. A system built entirely on CSR's logic would be a collection of siloed, risk-mitigating functions, not a coherent, multi-scale engine for generating positive value. The underlying model remains tied to a centralized, hierarchical structure.
 
-**Overall Score**: 3/5 (Transitional)
+**Overall Score: 2 (Partial Enabler)**
 
-CSR is a transitional pattern, a step up from a purely profit-driven model. However, it's often driven by business interests like reputation management, leading to a risk of "greenwashing." To be truly commons-aligned, CSR must focus on creating positive value, not just mitigating negative impacts. This requires deeper integration into core business strategy and a willingness to challenge the profit-maximization model.
+**Rationale:**
+CSR is a crucial step away from pure profit maximization, but it remains a partial enabler with major gaps. It focuses on mitigating harm rather than architecting for positive value creation, and it operates as an appendage to the legacy economic system rather than a blueprint for a new one. Its centralized, top-down nature and failure to redefine ownership prevent it from creating a truly resilient, collective value-creation capability.
+
+**Opportunities for Improvement:**
+- Redefine stakeholders as active co-creators of value with defined Rights and Responsibilities, rather than passive interests to be managed.
+- Shift the focus from mitigating negative externalities to proactively designing business models that generate positive social, ecological, and knowledge value.
+- Re-architect ownership to reflect stewardship and responsibility for the commons, moving beyond a sole focus on financial equity.
 
 ### 9. Resources & References
 

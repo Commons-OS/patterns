@@ -15,7 +15,7 @@ tags:
   era: [digital]
   origin: [IIRC]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -159,25 +159,40 @@ Integrated Reporting (<IR>) is a principles-based framework for corporate report
 *   **Increased Standardization and Comparability**: There will be a greater push for standardization and comparability of integrated reports, making it easier for stakeholders to compare the performance of different organizations.
 *   **The Rise of the 'Smart' Report**: Integrated reports will become more interactive and personalized, with users able to customize the information they see based on their specific interests and needs.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-**1. Stakeholder Mapping**: The <IR> Framework has a strong focus on stakeholder engagement. One of its core principles is "Stakeholder relationships", which requires organizations to provide insight into the nature and quality of their relationships with key stakeholders. However, the primary audience for an integrated report is defined as providers of financial capital. While the framework acknowledges that the report will be of interest to a wider range of stakeholders, this primary focus limits the comprehensiveness of its stakeholder mapping from a commons perspective.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**2. Value Creation**: The concept of value creation is central to the <IR> Framework. It encourages organizations to think about value creation in a broader sense than just financial returns, through the lens of the six capitals. However, the ultimate aim is to explain to providers of financial capital how the organization creates value for *them*. While value creation for other stakeholders is seen as a means to this end, it is not the primary objective. This is a key reason why the framework is considered transitional rather than fully commons-aligned.
+**1. Stakeholder Architecture:**
+The <IR> Framework mandates reporting on relationships with key stakeholders, defining a structure of accountability. However, its primary orientation towards providers of financial capital limits a truly multi-stakeholder perspective, viewing other stakeholders through the lens of their impact on financial value rather than as ends in themselves. This creates an imbalance in the rights and responsibilities, favoring capital providers over other system participants.
 
-**3. Value Preservation**: The framework's emphasis on long-term value creation and the six capitals inherently includes the concept of value preservation. By considering the impact on all capitals, organizations are encouraged to adopt a more sustainable approach to their business models, which helps to preserve value over the long term.
+**2. Value Creation Capability:**
+The framework explicitly enables reporting on multiple forms of value beyond the purely economic, using the six capitals model (financial, manufactured, intellectual, human, social/relationship, and natural). This provides a strong foundation for demonstrating collective value creation. It encourages organizations to articulate how they create, preserve, or erode value across these different dimensions, fostering a more holistic understanding of performance.
 
-**4. Shared Rights & Responsibilities**: The <IR> Framework is a reporting framework, not a governance model. It does not prescribe how rights and responsibilities should be distributed among stakeholders. However, by promoting transparency and accountability, it can empower stakeholders and enable them to hold organizations to account for their impacts.
+**3. Resilience & Adaptability:**
+By promoting a long-term strategic focus and requiring disclosure of risks and opportunities, the <IR> Framework enhances an organization's ability to adapt to complexity. The connectivity of information principle helps reveal interdependencies, allowing systems to better understand and manage stressors. This forward-looking orientation is crucial for building resilience in a changing environment.
 
-**5. Systematic Design**: The <IR> Framework provides a systematic and structured approach to corporate reporting. Its principles and content elements provide a clear roadmap for organizations to follow, which helps to ensure that the information presented is consistent, comparable, and reliable.
+**4. Ownership Architecture:**
+While not a governance model that defines ownership, the framework's emphasis on transparency and the six capitals implicitly broadens the concept of ownership beyond financial equity. It encourages accountability for impacts on shared resources like natural and social capital, framing ownership as a stewardship responsibility. However, it does not explicitly define rights and responsibilities for non-financial stakeholders.
 
-**6. Systems of Systems**: The <IR> Framework is designed to be a meta-pattern that connects with and complements other reporting standards and frameworks. For example, it is designed to be used in conjunction with the IFRS Sustainability Disclosure Standards (S1 and S2). This ability to integrate with other systems is a key strength of the framework.
+**5. Design for Autonomy:**
+The principles-based and technology-agnostic nature of the framework makes it highly compatible with distributed and autonomous systems. As noted in its Cognitive Era Considerations, AI can automate data collection and analysis for the six capitals, reducing coordination overhead. The structured reporting format can serve as a legible input for DAOs and other automated agents to make decisions.
 
-**7. Fractal Properties**: The principles of integrated thinking, which underpin the <IR> Framework, can be applied at all levels of an organization, from individual projects and departments to the organization as a whole. This fractal nature allows the principles of value creation and the six capitals to be embedded throughout the organization's culture and decision-making processes.
+**6. Composability & Interoperability:**
+The <IR> Framework is designed as a meta-pattern that integrates with other standards, most notably the IFRS Sustainability Disclosure Standards. This high degree of interoperability allows it to be combined with other patterns and frameworks to build more comprehensive value creation and reporting systems. It acts as a connecting layer between financial and non-financial information.
 
-**Overall Score**: 3/5 (Transitional)
+**7. Fractal Value Creation:**
+The underlying principle of 'integrated thinking' is inherently fractal, capable of being applied at multiple scales. The logic of managing the six capitals can be used for individual projects, business units, the entire organization, and even extended to network or ecosystem-level analysis. This allows the value-creation logic to scale and maintain coherence across different levels of a system.
 
-**Rationale**: The Integrated Reporting Framework is a significant step forward from traditional financial reporting. It encourages a more holistic and long-term view of value creation and promotes greater transparency and accountability. However, its primary focus on providers of financial capital means that it falls short of being fully commons-aligned. To improve its commons alignment, the framework would need to give equal weight to the value created for all stakeholders, not just investors.
+**Overall Score: 4/5 (Value Creation Enabler)**
+
+**Rationale:**
+The Integrated Reporting Framework is a powerful enabler of collective value creation by providing a structured, multi-capital lens for understanding and communicating performance. It strongly supports resilience, interoperability, and fractal application. Its primary limitation is the lingering focus on financial capital providers as the primary audience, which prevents it from achieving a full stakeholder-centric architecture. It is a critical transitional tool that moves organizations significantly closer to a commons-based model of value creation.
+
+**Opportunities for Improvement:**
+- Explicitly broaden the primary audience to include all key stakeholders, not just providers of financial capital.
+- Develop clearer guidance on how to define and report on the rights and responsibilities of non-financial stakeholders.
+- Integrate more explicit feedback loops from stakeholders into the reporting process to enhance accountability and co-creation of value.
 
 ### 9. Resources & References
 

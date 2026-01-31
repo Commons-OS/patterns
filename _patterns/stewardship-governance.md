@@ -15,7 +15,7 @@ tags:
   era: [cognitive]
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -135,52 +135,40 @@ The transition to the Cognitive Era, characterized by the rise of artificial int
 
 **5. The Challenge of Long-Term Thinking in a Fast-Paced World:** The rapid pace of technological change in the Cognitive Era can make it challenging to maintain a long-term perspective. Stewardship Governance provides an essential counterbalance to this short-termism, reminding organizations of their responsibility to consider the long-term consequences of their actions. This requires a commitment to ongoing learning and adaptation, and a willingness to invest in research and development that will create a better future for all.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-This assessment evaluates the alignment of Stewardship Governance with the principles of a commons-based approach, using a scale of 1 (low alignment) to 5 (high alignment) across seven key dimensions. The overall commons alignment score for this pattern is 3.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-<table header-row="true">
-<tr>
-<td>Dimension</td>
-<td>Alignment Score</td>
-<td>Rationale</td>
-</tr>
-<tr>
-<td>Shared Purpose and Values</td>
-<td>4</td>
-<td>Stewardship Governance is strongly aligned with the principle of a shared purpose that extends beyond profit maximization. Its emphasis on serving a broad range of stakeholders and creating long-term value for society resonates with the core values of a commons.</td>
-</tr>
-<tr>
-<td>Inclusivity and Equity</td>
-<td>3</td>
-<td>The model promotes inclusivity by advocating for the consideration of all stakeholder interests. However, the extent to which it achieves true equity in practice can vary depending on the specific implementation. There is a risk that the interests of more powerful stakeholders may still be prioritized.</td>
-</tr>
-<tr>
-<td>Transparency and Accountability</td>
-<td>4</td>
-<td>Transparency and accountability are central tenets of Stewardship Governance. The model calls for integrated reporting and open communication with stakeholders, which are essential for building trust and ensuring that leaders are held accountable for their actions.</td>
-</tr>
-<tr>
-<td>Sustainability and Long-termism</td>
-<td>5</td>
-<td>This is the dimension where Stewardship Governance shows the strongest alignment. The model is explicitly designed to promote long-term thinking and sustainable value creation. Its focus on intergenerational equity is a clear expression of a commitment to the long-term health of the commons.</td>
-</tr>
-<tr>
-<td>Collaboration and Solidarity</td>
-<td>3</td>
-<td>Stewardship Governance encourages collaboration with stakeholders, but the level of solidarity it fosters can be limited. The model does not inherently challenge the competitive dynamics of the market, and collaboration is often framed in terms of managing stakeholder relationships rather than building a true sense of shared ownership and collective action.</td>
-</tr>
-<tr>
-<td>Decentralization and Distributed Power</td>
-<td>2</td>
-<td>This is the dimension where Stewardship Governance shows the weakest alignment. While it advocates for a more inclusive approach to decision-making, it does not fundamentally challenge the hierarchical power structures that are common in most organizations. The board of directors and senior leadership team still retain ultimate control.</td>
-</tr>
-<tr>
-<td>Contribution and Co-creation</td>
-<td>3</td>
-<td>The model encourages stakeholder engagement, which can create opportunities for contribution and co-creation. However, the extent to which this is realized depends on the specific practices that are implemented. In many cases, stakeholder engagement may be more consultative than truly collaborative.</td>
-</tr>
-</table>
+**1. Stakeholder Architecture:**
+Stewardship Governance fundamentally redefines stakeholder relationships by expanding accountability beyond shareholders to a broad spectrum including employees, customers, the community, the environment, and future generations. It establishes a clear responsibility for leaders to act as caretakers of the organization's purpose and assets for the benefit of this entire ecosystem. This approach architecturally embeds the rights of diverse stakeholders to have their interests considered and protected.
+
+**2. Value Creation Capability:**
+The pattern explicitly enables collective value creation that transcends purely economic metrics. By focusing on long-term, sustainable value, it inherently includes social, ecological, and knowledge-based outcomes. The framework's emphasis on purpose-driven leadership encourages organizations to define success in terms of their positive impact on the broader system, fostering resilience and a more holistic form of value.
+
+**3. Resilience & Adaptability:**
+Stewardship Governance is designed to help systems thrive on change by prioritizing long-term vitality over short-term gains. This long-term orientation, coupled with a deep understanding of stakeholder needs, allows organizations to anticipate and adapt to complexity and maintain coherence under stress. By fostering a culture of care and responsibility, it builds the trust and loyalty that are essential for navigating turbulent environments.
+
+**4. Ownership Architecture:**
+The pattern defines ownership as a set of rights and responsibilities, shifting the focus from monetary equity to the stewardship of assets for a specific purpose. Leaders are viewed as custodians entrusted with the organization's resources, not as owners. This architecture separates the right to benefit financially from the responsibility to care for the asset and ensure its long-term health for all stakeholders.
+
+**5. Design for Autonomy:**
+While not explicitly designed for AI or DAOs, the principles of Stewardship Governance are highly compatible with autonomous systems. A clearly articulated purpose and strong ethical framework can provide the necessary guidance for AI agents to make decisions aligned with the collective good. However, its traditional implementation in hierarchical structures presents a coordination challenge for fully decentralized systems, requiring adaptation to lower overhead.
+
+**6. Composability & Interoperability:**
+As a versatile governance framework, Stewardship Governance is highly composable and can be integrated with a wide array of other organizational patterns. It can serve as a foundational layer for for-profit, non-profit, cooperative, and public sector entities, providing a common ethical and strategic orientation. This allows it to be combined with more specific operational or technical patterns to create complex, multi-layered value-creation systems.
+
+**7. Fractal Value Creation:**
+The core logic of Stewardship Governance—managing assets with care for the long-term benefit of all stakeholders—is inherently fractal. These principles can be applied at any scale, from a small project team to a multinational corporation or a public institution. This scalability allows the value-creation logic to replicate across different levels of a system, creating a coherent and resilient overall architecture.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+The pattern strongly enables collective value creation by establishing a robust framework for long-term, purpose-driven governance accountable to a wide range of stakeholders. It redefines ownership as a form of stewardship and promotes resilience. However, it does not inherently prescribe the decentralized structures necessary for a complete value creation architecture, which prevents it from achieving the highest score.
+
+**Opportunities for Improvement:**
+- Develop specific guidelines for applying stewardship principles within decentralized autonomous organizations (DAOs) and other distributed systems.
+- Create clearer mechanisms for resolving conflicts between different stakeholder interests to ensure equitable value distribution and avoid the prioritization of more powerful groups.
+- Integrate the framework more explicitly with patterns for co-creation and contributory systems to move beyond stakeholder consultation towards active and collaborative value creation.
 
 ## 9. Resources & References
 

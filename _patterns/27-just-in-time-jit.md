@@ -99,21 +99,40 @@ The rise of AI and automation is poised to have a transformative impact on JIT m
 
 **Evolution Outlook:** The future of JIT is likely to be a hybrid model that combines the best of human and machine capabilities, creating a more efficient, agile, and resilient system.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-This section assesses the JIT pattern against the seven dimensions of the Commons Stack framework.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-1.  **Stakeholder Mapping:** JIT primarily focuses on the company, its suppliers, and its customers, but does not explicitly consider the broader community or the environment.
-2.  **Value Creation:** JIT creates value for the company and its customers, but the value is not always distributed equitably among all stakeholders.
-3.  **Value Preservation:** JIT helps to preserve value by ensuring the company remains competitive, but the focus on short-term efficiency can sometimes come at the expense of long-term resilience.
-4.  **Shared Rights & Responsibilities:** There is a high degree of shared responsibility between the company and its suppliers, but the rights are not always shared equally.
-5.  **Systematic Design:** JIT is a highly systematic pattern, with a clear set of principles and practices.
-6.  **Systems of Systems:** JIT is often used in conjunction with other organizational patterns, such as Total Quality Management (TQM) and Lean Manufacturing.
-7.  **Fractal Properties:** The principles of JIT can be applied at different scales, from individual work cells to entire organizations.
+**1. Stakeholder Architecture:**
+The pattern primarily defines rights and responsibilities between the company, its suppliers, and its customers, focusing on production schedules and material delivery. It does not, however, explicitly architect for broader stakeholders like the environment, the community, or future generations, concentrating on operational efficiency within a more narrowly defined system.
+
+**2. Value Creation Capability:**
+JIT is highly effective at creating economic value by reducing waste and improving efficiency, and it generates knowledge value through its emphasis on continuous improvement. However, its direct contributions to social and ecological value are less pronounced and depend heavily on the specifics of its implementation, as the core framework does not inherently prioritize these broader forms of value.
+
+**3. Resilience & Adaptability:**
+Designed for adaptability to fluctuations in customer demand, JIT demonstrates a form of resilience. Its lean nature, however, can render it vulnerable to supply chain disruptions. The system thrives on stability and predictability, and while it can adapt to demand changes, it may lack the robustness to handle significant, unforeseen systemic shocks.
+
+**4. Ownership Architecture:**
+In the context of JIT, ownership is centered on the management of inventory and the operational responsibilities associated with it. The pattern does not fundamentally redefine ownership beyond the traditional model of corporate asset control. The rights and responsibilities it outlines are contractual and operational rather than being based on a broader sense of stewardship.
+
+**5. Design for Autonomy:**
+JIT is highly compatible with automation and distributed systems. The use of Kanban for signaling and its emphasis on clear, rule-based processes make it well-suited for integration with AI and DAOs. The pull-based system and decentralized execution at the cellular level inherently reduce the need for extensive coordination.
+
+**6. Composability & Interoperability:**
+As a highly composable pattern, JIT is frequently used in conjunction with other lean manufacturing principles like Total Quality Management (TQM) and can be integrated into larger supply chain management systems. Its modular nature allows it to be combined with other patterns to construct more complex and sophisticated value-creation systems.
+
+**7. Fractal Value Creation:**
+The core logic of JIT—producing and delivering what is needed, precisely when it is needed—can be applied at multiple scales. This principle can be implemented within a single work cell, across an entire factory, and even throughout a distributed supply chain, demonstrating its fractal nature as one of its key strengths.
 
 **Overall Score: 3 (Transitional)**
 
-JIT receives a Commons Alignment Score of 3. While it has some elements of a commons-based approach, it is still primarily focused on the interests of the individual firm. The main opportunities for improvement lie in expanding the scope of stakeholder mapping and promoting a more equitable distribution of rights and responsibilities.
+**Rationale:**
+JIT holds significant potential for enabling collective value creation, particularly through its focus on efficiency, waste reduction, and adaptability. Its core principles of flow and pull are foundational for creating responsive systems. However, its traditional implementation is often narrowly focused on economic benefits for the firm and can be fragile in the face of systemic disruptions. To evolve into a true value creation architecture, it must be adapted to a broader stakeholder context and integrated with principles of ecological and social resilience.
+
+**Opportunities for Improvement:**
+- Integrate circular economy principles to move beyond mere waste reduction to active value regeneration.
+- Develop more resilient and diversified supply chain networks to mitigate the risks of disruption.
+- Explicitly incorporate social and environmental metrics into the JIT framework, alongside traditional performance indicators.
 
 ### 9. Resources & References
 

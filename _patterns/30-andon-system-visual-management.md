@@ -15,7 +15,7 @@ tags:
   era: [industrial, digital]
   origin: [toyota, lean-manufacturing]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: ["pat_01kg5023xef1s9wh9a1qrpw7qf"]
 specializes_to: []
@@ -158,27 +158,40 @@ As Andon systems become more automated and intelligent, the role of the human wi
 
 The Andon system is likely to evolve into a fully integrated, enterprise-wide platform for quality management. It will be connected to a wide range of data sources, from the shop floor to the supply chain, and it will use AI and machine learning to provide real-time insights and recommendations to decision-makers at all levels of the organization. The Andon system will become a key enabler of the smart factory and the digital supply chain, and it will play a critical role in helping organizations to compete in the Cognitive Era.
 
-### 8. Commons Alignment Assessment (600-800 words)
+### 8. Commons Alignment Assessment (v2.0)
 
-The Commons Alignment Assessment evaluates how well the Andon System pattern aligns with the principles of a commons-based approach to organizing. This assessment considers seven key dimensions of commons alignment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-1.  **Stakeholder Mapping:** The Andon system primarily serves the stakeholders directly involved in the production process: the workers, team leaders, and managers. Its focus is on improving the quality and efficiency of the production system, which benefits the organization as a whole. However, it does not explicitly consider the interests of other stakeholders such as customers, suppliers, or the broader community. The scope of stakeholder mapping is therefore relatively narrow.
+**1. Stakeholder Architecture:**
+The Andon system defines a clear architecture of Rights and Responsibilities, primarily for internal stakeholders like workers and managers. It grants workers the Right to halt production to address quality issues, coupled with the Responsibility to signal problems. This creates a localized, immediate feedback loop but does not natively extend these rights or responsibilities to external stakeholders like the environment, community, or future generations.
 
-2.  **Value Creation:** The Andon system creates value by reducing defects, increasing productivity, and improving employee morale. This value is primarily captured by the organization in the form of lower costs and higher profits. While customers may benefit from higher quality products, this is a secondary effect. The value creation is therefore largely extractive, rather than generative of a commons.
+**2. Value Creation Capability:**
+The pattern strongly enables the creation of multiple forms of value beyond the purely economic. By focusing on immediate problem resolution, it reduces material waste (ecological value), enhances product quality and safety (social value), and generates process improvements from incident data (knowledge value). This focus on quality and efficiency builds systemic resilience, which is a form of value in itself.
 
-3.  **Value Preservation:** The Andon system helps to preserve the value of the production system by preventing it from producing defective products. It also helps to preserve the knowledge of the organization by capturing data on problems and their solutions. This data can be used to drive continuous improvement and to prevent problems from recurring. The Andon system therefore has a strong focus on value preservation.
+**3. Resilience & Adaptability:**
+Resilience is at the core of the Andon pattern. By making disruptions visible and empowering immediate action, it helps the system adapt to unforeseen events and maintain coherence under stress. The "stop and fix" principle prevents the cascading of failures, allowing the system to learn from anomalies and become more robust over time.
 
-4.  **Shared Rights & Responsibilities:** The Andon system is a powerful tool for sharing rights and responsibilities. It empowers workers by giving them the right to stop the production line, and it places a corresponding responsibility on them to use this right wisely. It also creates a shared responsibility for quality among all members of the organization. This is a key aspect of the Andon system that aligns well with the principles of a commons.
+**4. Ownership Architecture:**
+The pattern defines ownership as distributed authority and stewardship over quality, not just monetary equity. It gives frontline workers a direct stake in the integrity of the process, empowering them with the Right and Responsibility to act as guardians of value. This fosters a sense of collective ownership over the system's output and health.
 
-5.  **Systematic Design:** The Andon system is a highly systematic approach to quality management. It is based on a clear set of principles and practices, and it is supported by a well-defined set of tools and technologies. This systematic design is a key factor in its effectiveness.
+**5. Design for Autonomy:**
+The Andon system is highly compatible with autonomous systems and requires low coordination overhead. Its clear, simple signaling logic can be easily interpreted by both humans and machines (as seen in Jidoka, or autonomation). This makes it a foundational pattern for designing distributed, responsive systems where AI and human agents can collaborate effectively.
 
-6.  **Systems of Systems:** The Andon system can be seen as a subsystem within the larger system of Lean manufacturing. It is designed to work in conjunction with other Lean tools such as standardized work, 5S, and value stream mapping. This ability to integrate with other systems is a key strength of the Andon system.
+**6. Composability & Interoperability:**
+This pattern is exceptionally composable, designed as a modular component within the broader Toyota Production System. It seamlessly interoperates with other patterns like Kaizen, 5S, and Standardized Work to create a comprehensive value-creation system. Its simple, universal logic allows it to be integrated into diverse workflows, from manufacturing to software development.
 
-7.  **Fractal Properties:** The principles of the Andon system can be applied at multiple scales, from an individual workstation to an entire organization. This fractal property allows the Andon system to be adapted to a wide range of contexts and to be scaled up or down as needed.
+**7. Fractal Value Creation:**
+The core logic of making problems visible and empowering a localized response is fractal. This value-creation loop can be applied at the scale of an individual workstation, a team, an entire organization, or even across a supply chain. The same principles that ensure quality on a single assembly line can ensure the integrity of a complex, multi-organizational project.
 
-**Overall Score: 3 (Transitional)**
+**Overall Score: 4 (Value Creation Enabler)**
 
-The Andon system has some strong elements of commons alignment, particularly in its emphasis on shared rights and responsibilities and its systematic design. However, its narrow focus on the production process and its extractive approach to value creation limit its overall alignment with the principles of a commons. To improve its commons alignment, the Andon system could be extended to consider the interests of a broader range of stakeholders and to more explicitly share the value that it creates with those stakeholders. For example, an Andon system could be used to signal environmental or social problems in the supply chain, and the data from the Andon system could be made publicly available to hold suppliers accountable.
+**Rationale:**
+The Andon system is a powerful enabler of resilient value creation. It establishes a robust architecture of rights and responsibilities and fosters a culture of continuous improvement, which are core to the commons. While its traditional application is often organization-centric, its principles are foundational for building larger, more complex collective value-creation systems.
+
+**Opportunities for Improvement:**
+- The signaling mechanism could be expanded to include metrics for ecological or social externalities, allowing workers to flag issues beyond immediate production defects.
+- Andon data could be published to a shared ledger or data commons, creating a public knowledge base that helps other organizations learn from and prevent similar issues.
+- The pattern could be combined with decentralized governance protocols (DAOs) to automate reward distribution to those who identify and solve problems, further incentivizing collective stewardship.
 
 ### 9. Resources & References (200-400 words)
 

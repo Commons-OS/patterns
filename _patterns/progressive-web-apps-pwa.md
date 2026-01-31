@@ -15,7 +15,7 @@ tags:
   era: [digital]
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -93,13 +93,40 @@ In the Cognitive Era, where artificial intelligence and machine learning are bec
 
 The ability of PWAs to work offline also makes them well-suited for use in edge computing scenarios, where data is processed locally on the device, rather than in the cloud. This can be used to provide real-time AI-powered experiences, without the need for a constant internet connection. For example, a PWA could use on-device machine learning to provide real-time image recognition, without the need to send data to a server. [5]
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-Progressive Web Apps have a strong alignment with the principles of the commons. They are built on open web technologies, and they are accessible to anyone with a web browser, regardless of their device or platform. This makes them a more inclusive and equitable alternative to native apps, which are often tied to a specific platform or ecosystem.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-PWAs also promote a more decentralized and distributed web, as they can be hosted on any web server and can be accessed directly from the web, without the need for an app store. This reduces the power of large corporations to control the distribution of software and gives more power to individual developers and users.
+**1. Stakeholder Architecture:**
+The PWA pattern defines a stakeholder architecture based on open web standards, shifting rights from platform gatekeepers (like Apple and Google) to developers and users. Developers gain the right to publish applications permissionlessly, while users gain the right to access and install applications from any browser, on any device. Responsibilities fall on browser vendors to implement standards and on developers to ensure their applications are reliable, secure, and respect user privacy.
 
-However, there are also some potential challenges to the commons alignment of PWAs. For example, the use of push notifications could be used to spam users with unwanted messages, and the ability to work offline could be used to track users' behavior without their knowledge. It is important for developers to be mindful of these potential issues and to design their PWAs in a way that respects user privacy and autonomy.
+**2. Value Creation Capability:**
+PWAs strongly enable collective value creation beyond the purely economic. By being discoverable via search and accessible in low-connectivity environments, they foster digital inclusion and broaden access to knowledge and services, creating significant social value. Their foundation on open-source technologies and standards also contributes directly to the web as a global knowledge commons, allowing anyone to build upon the collective capability.
+
+**3. Resilience & Adaptability:**
+The pattern is inherently designed for resilience and adaptability. Service workers provide network resilience, allowing the application to function coherently under the stress of poor or no connectivity. The principle of "progressive enhancement" ensures adaptability, as PWAs can gracefully adopt new web platform features as they become available while remaining functional on older systems, thus thriving on technological change.
+
+**4. Ownership Architecture:**
+While PWAs do not directly define a new model of equity ownership, they fundamentally alter the ownership of distribution and access. By circumventing proprietary app stores, the pattern transfers the rights and responsibilities of application delivery from a central authority to the individual developer or organization. This represents a shift in the architecture of control, a key component of ownership, even if the underlying business model remains traditional.
+
+**5. Design for Autonomy:**
+PWAs are highly compatible with autonomous systems. Their architecture, based on standard web APIs and service workers, is machine-readable and can be easily managed by automated agents for deployment and updates. The ability to function offline and on the edge makes them ideal for IoT and other distributed systems where low coordination overhead and intermittent connectivity are common constraints.
+
+**6. Composability & Interoperability:**
+Composability is a core strength of the PWA pattern. Built on the universal foundation of the web, PWAs can be combined with any other web-based technology, API, or pattern to build larger, more complex value-creation systems. They are interoperable by default, able to link to and be linked from any other website or web service, ensuring seamless integration into the broader web ecosystem.
+
+**7. Fractal Value Creation:**
+The value-creation logic of PWAs is inherently fractal. The same principles of delivering a reliable, installable, and capable experience can be applied at multiple scales—from a single-function utility app for an individual, to a team collaboration tool, to a global-scale social media or e-commerce platform. The core pattern of leveraging the open web for resilient application delivery remains consistent and effective across these different scales.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Progressive Web Apps receive a high score because they are a powerful enabler of a more open, resilient, and accessible digital commons. The pattern fundamentally shifts control from centralized platforms to a distributed network of developers and users, promoting permissionless innovation and broad access to information and tools. While it doesn't prescribe a full value-creation architecture on its own, it provides the critical technical infrastructure upon which such architectures can be built.
+
+**Opportunities for Improvement:**
+- The PWA standard itself could be enhanced with stronger, built-in privacy-preserving features to counter potential misuse of tracking and notification capabilities.
+- The pattern could be explicitly combined with peer-to-peer protocols to create fully decentralized applications that do not rely on any central server, further enhancing resilience and user autonomy.
+- Tooling and frameworks could be developed to make it easier to integrate PWAs with DAOs and other on-chain governance mechanisms, directly linking the application to a shared ownership model.
 
 ## 9. Resources & References
 

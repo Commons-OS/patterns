@@ -15,7 +15,7 @@ tags:
   era: [industrial]
   origin: [motorola]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 2
 commons_domain: business
 generalizes_from: ["pat_01kg5023yff49sdcxh3j5m7fyt", "pat_01kg5023zzecsb265cp79x0gvh", "pat_01kg5023vyfzhvteh02a487gvh"]
 specializes_to: []
@@ -129,102 +129,51 @@ DMAIC can be applied at various scales, from individual and team-level projects 
 **Documented Outcomes:**
 
 *   **Reduced Production Waste:** A manufacturing facility reduced scrap material by 30% within six months by using DMAIC to identify and address machine calibration errors and material handling inefficiencies.
-*   **Improved Product Quality:** A manufacturer achieved a defect rate of less than 1% within one year by using DMAIC to tighten supplier quality requirements and adopt advanced inspection techniques.
+*   **Improved Product Quality:** A manufacturer achieved a defect rate of less than 1% within one year by using DMAIC to tighten supplier quality requirements and and adopt advanced inspection techniques.
 *   **Streamlined Supply Chain Processes:** A company reduced its average lead time by 30% by using DMAIC to implement a just-in-time inventory system and improve vendor communication.
 *   **Enhanced Equipment Efficiency:** A manufacturing plant increased machine efficiency by 15% and reduced downtime by more than 50% by using DMAIC to update maintenance protocols and replace critical machine parts.
 
 **Research Support:**
 
 *   A 2023 study published in the journal *Heliyon* provides a case study on the implementation of the Six-Sigma DMAIC methodology to reduce the rejection rate of rubber weather strips in an Indian manufacturing company. The study found that the DMAIC approach was effective in identifying the root causes of defects and implementing solutions that led to a significant reduction in the rejection rate.
-*   A 2020 systematic review published in the journal *Health Policy* identified 196 manuscripts outlining the use of Six Sigma in the healthcare sector. The review found that DMAIC was the most commonly used methodology and that it had been successfully applied to a wide range of problems, including reducing wait times, improving medication safety, and decreasing unnecessary antibiotic use.
-*   A 2013 study published in the *International Journal of Process Management and Benchmarking* presents a case study on the application of DMAIC to improve the on-time delivery of a manufacturing company. The study found that the DMAIC methodology was effective in identifying the root causes of delays and implementing solutions that led to a significant improvement in on-time delivery performance.
 
-### 7. Cognitive Era Considerations
+### 7. Relationships
 
-**Cognitive Augmentation Potential:**
+*   **Generalizes From:** [Scientific Method](https://commons-os.github.io/patterns/scientific-method/), [PDCA Cycle (Plan-Do-Check-Act)](https://commons-os.github.io/patterns/pdca-cycle-plan-do-check-act/), [Feedback Loops](https://commons-os.github.io/patterns/feedback-loops/)
+*   **Related:** [Root Cause Analysis](https://commons-os.github.io/patterns/root-cause-analysis/), [Statistical Process Control (SPC)](https://commons-os.github.io/patterns/statistical-process-control-spc/), [Value Stream Mapping](https://commons-os.github.io/patterns/value-stream-mapping/), [Kaizen (Continuous Improvement)](https://commons-os.github.io/patterns/kaizen-continuous-improvement/), [Total Quality Management (TQM)](https://commons-os.github.io/patterns/total-quality-management-tqm/), [Lean Manufacturing](https://commons-os.github.io/patterns/lean-manufacturing/), [Design of Experiments (DOE)](https://commons-os.github.io/patterns/design-of-experiments-doe/), [Failure Mode and Effects Analysis (FMEA)](https://commons-os.github.io/patterns/failure-mode-and-effects-analysis-fmea/), [5S Methodology](https://commons-os.github.io/patterns/5s-methodology/), [Kanban](https://commons-os.github.io/patterns/kanban/), [Poka-Yoke (Mistake-Proofing)](https://commons-os.github.io/patterns/poka-yoke-mistake-proofing/), [Gemba (The Real Place)](https://commons-os.github.io/patterns/gemba-the-real-place/), [A3 Problem Solving](https://commons-os.github.io/patterns/a3-problem-solving/), [Hoshin Kanri (Policy Deployment)](https://commons-os.github.io/patterns/hoshin-kanri-policy-deployment/), [Theory of Constraints (TOC)](https://commons-os.github.io/patterns/theory-of-constraints-toc/)
 
-Artificial intelligence (AI) and automation are poised to significantly enhance the DMAIC methodology. In the **Define** phase, AI-powered natural language processing (NLP) can analyze vast amounts of customer feedback from various sources to identify key themes and pain points, leading to more accurate problem definition. In the **Measure** phase, AI-driven IoT sensors can automate data collection, providing real-time, high-quality data. In the **Analyze** phase, machine learning algorithms can uncover complex patterns and correlations in data that would be difficult for humans to detect, leading to more insightful root cause analysis. In the **Improve** phase, AI can be used to simulate and optimize potential solutions before implementation, and robotic process automation (RPA) can automate repetitive tasks. In the **Control** phase, AI can continuously monitor processes and provide real-time alerts, enabling proactive control and predictive maintenance.
+### 8. Commons Alignment Assessment (v2.0)
 
-**Human-Machine Balance:**
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-While AI and automation can augment the DMAIC process, human involvement remains critical. The **Define** phase still requires human judgment to set project goals and priorities. The **Analyze** phase requires human expertise to interpret the results of AI-powered analysis and to identify the most plausible root causes. The **Improve** phase requires human creativity and collaboration to brainstorm and implement solutions. The **Control** phase requires human oversight to ensure that the control plan is effective and to make adjustments as needed. The most effective approach will be a symbiotic one, where humans and machines work together to leverage their respective strengths.
+**1. Stakeholder Architecture:**
+DMAIC primarily centers on the relationship between the organization and its customers. While it excels at aligning processes with customer needs and business goals, it does not explicitly define Rights and Responsibilities for a wider set of stakeholders, such as the environment, local communities, or future generations. The framework operates within a traditional corporate structure, where stakeholder considerations are often secondary to process efficiency and profitability.
 
-**Evolution Outlook:**
+**2. Value Creation Capability:**
+The pattern is highly effective at creating economic value by reducing waste, improving quality, and increasing efficiency. However, its definition of value is narrow, focusing on measurable process outputs rather than broader social, ecological, or knowledge-based value. While improved processes can indirectly benefit society, the methodology itself does not provide a framework for prioritizing or measuring these non-economic forms of value.
 
-The integration of AI and automation will likely lead to a more agile and adaptive version of the DMAIC methodology. The traditional, linear approach may be replaced by a more iterative and dynamic process, where data is continuously collected and analyzed in real-time, and improvements are made on an ongoing basis. The role of the Six Sigma professional will also likely evolve, with a greater emphasis on data science and AI skills. As AI technology continues to mature, it has the potential to transform DMAIC from a periodic project-based methodology to a continuous, real-time process improvement engine.
+**3. Resilience & Adaptability:**
+DMAIC enhances system resilience by creating more stable and predictable processes, making them less susceptible to internal variations. The Control phase is specifically designed to maintain coherence under stress. However, the methodology is fundamentally reactive, designed to solve existing problems rather than proactively sense and adapt to emergent changes in the broader environment. Its rigid, linear structure can be slow to respond to rapid, unpredictable shifts.
 
-### 8. Commons Alignment Assessment
+**4. Ownership Architecture:**
+Ownership within the DMAIC framework is conventional, residing with the organization that owns the process. It defines roles and responsibilities for the project team but does not challenge traditional notions of ownership as monetary equity or control. The focus is on improving a process that is owned by the company, not on distributing ownership or stewardship rights among a wider group of stakeholders.
 
-**1. Stakeholder Mapping:**
+**5. Design for Autonomy:**
+DMAIC is a heavily human-centric and management-driven methodology, requiring significant expertise in statistical analysis and project management. It is not inherently designed for compatibility with autonomous systems like DAOs or AI agents, as it relies on manual data collection, analysis, and decision-making. While it could be used to optimize the processes that autonomous systems manage, its high coordination overhead makes it a poor fit for decentralized environments.
 
-DMAIC primarily focuses on two main stakeholder groups: customers and the organization (including its shareholders). The "Define" phase explicitly includes identifying customers and their requirements, often through Voice of the Customer (VOC) techniques. This ensures that the improvement efforts are aligned with customer needs and expectations. The organization benefits from improved efficiency, reduced costs, and increased profitability. While employees are involved in the process as team members, their role is often functional, focused on executing the methodology rather than co-designing the system. The broader community and ecosystem are not typically a primary focus of DMAIC projects, unless they are directly impacted by the process being improved (e.g., environmental regulations).
+**6. Composability & Interoperability:**
+DMAIC is a highly structured, self-contained methodology but demonstrates strong interoperability with other process improvement patterns. It is a core component of Six Sigma and is frequently integrated with Lean principles, Value Stream Mapping, and Root Cause Analysis. This allows it to be composed into larger, more comprehensive quality management and operational excellence systems, though its core logic remains focused on linear problem-solving.
 
-**2. Value Creation:**
+**7. Fractal Value Creation:**
+The problem-solving logic of DMAIC is fractal and can be applied at multiple scales. The five-phase cycle can be used for small, team-level improvement projects or scaled up for complex, organization-wide initiatives. This scalability allows the core value-creation logic—improving efficiency and reducing defects—to be replicated across different departments and hierarchical levels within an organization.
 
-The value created by DMAIC is primarily economic and functional. For the organization, it creates value by improving efficiency, reducing waste, and increasing profitability. For the customer, it creates value by improving product and service quality, reducing defects, and increasing satisfaction. However, the distribution of this value is not always equitable. While customers may benefit from better products, the majority of the financial gains are typically captured by the organization and its shareholders. The methodology does not inherently promote the creation of social or environmental value, although it can be used to address problems in these areas.
+**Overall Score: 2 (Partial Enabler)**
 
-**3. Value Preservation:**
+**Rationale:**
+DMAIC is a powerful and proven methodology for optimizing existing processes within a traditional, hierarchical context. It partially enables value creation by improving efficiency and quality. However, its narrow focus on economic outputs, its reactive nature, and its lack of a multi-stakeholder perspective present significant gaps when assessed against the holistic, value-creation architecture of the Commons OS framework. It is a tool for improving parts of a system, not for designing the system itself for resilient, collective value creation.
 
-DMAIC has a strong focus on value preservation through its "Control" phase. The goal of this phase is to ensure that the gains from the improvement project are sustained over time. This is achieved through the use of control charts, standardization of processes, and ongoing monitoring. The methodology also promotes a culture of continuous improvement, which helps to ensure that processes are regularly reviewed and updated to maintain their relevance and effectiveness.
+**Opportunities for Improvement:**
+- Integrate a multi-stakeholder analysis in the "Define" phase to explicitly consider social and ecological impacts alongside customer requirements.
+- Expand the "Measure" phase to include metrics for non-economic value creation, such as community well-being, knowledge sharing, or ecological footprint reduction.
+- Adapt the framework to be more agile and iterative, allowing for proactive adaptation to changing system dynamics rather than just reactive problem-solving.
 
-**4. Shared Rights & Responsibilities:**
-
-In a DMAIC project, responsibilities are clearly defined. The project team is responsible for executing the methodology, and the project champion is responsible for providing resources and support. However, decision-making authority is often hierarchical, with key decisions being made by management. While team members are empowered to collect and analyze data, they may not have the authority to make significant changes to the process without approval from above. The methodology does not inherently promote a model of shared ownership or distributed governance.
-
-**5. Systematic Design:**
-
-DMAIC is a highly systematic and structured methodology. It provides a clear, five-phase roadmap for problem-solving, and it relies on a wide range of statistical and analytical tools to ensure that decisions are based on data and evidence. The methodology is designed to be repeatable and scalable, and it can be applied to a wide range of processes and industries.
-
-**6. Systems of Systems:**
-
-DMAIC is often used in conjunction with other management and improvement methodologies, such as Lean, Total Quality Management (TQM), and the Theory of Constraints. It can be seen as a component of a larger organizational system for continuous improvement. The methodology is flexible enough to be adapted to different contexts, and it can be integrated with other systems and processes.
-
-**7. Fractal Properties:**
-
-The principles of DMAIC can be applied at multiple scales, from small, team-based projects to large, organization-wide initiatives. The same five-phase process can be used to solve problems at the individual, team, department, and organizational levels. This fractal nature allows for a consistent and standardized approach to problem-solving throughout the organization.
-
-**Overall Score: 3/5 (Transitional)**
-
-DMAIC is a powerful and effective methodology for process improvement, but its primary focus is on creating value for the organization and its customers. While it has some elements of a commons-based approach, such as its focus on systematic design and its potential for fractal application, it does not inherently promote a model of shared ownership, distributed governance, or equitable value distribution. To become more commons-aligned, the methodology could be adapted to more explicitly consider the needs of all stakeholders, to promote a more equitable distribution of the value created, and to empower employees to take a more active role in the design and governance of the improvement process.
-
-### 9. Resources & References
-
-**Essential Reading:**
-
-*   *The Six Sigma Handbook, 5th Edition* by Thomas Pyzdek and Paul A. Keller: A comprehensive guide to the Six Sigma methodology, including a detailed explanation of the DMAIC process.
-*   *The Lean Six Sigma Pocket Toolbook* by Michael L. George, John Maxey, David T. Rowlands, and Mark Price: A handy reference guide to the most commonly used tools and techniques in Lean Six Sigma and DMAIC.
-*   *What is Lean Six Sigma?* by Michael L. George, David Rowlands, and Bill Kastle: A good introductory text that explains the basic concepts of Lean Six Sigma and DMAIC.
-
-**Organizations & Communities:**
-
-*   **American Society for Quality (ASQ):** A global community of quality professionals that provides a wide range of resources on Six Sigma and DMAIC, including articles, case studies, and training programs.
-*   **iSixSigma:** An online community and resource center for Six Sigma professionals, with a wealth of articles, forums, and other resources on DMAIC.
-
-**Tools & Platforms:**
-
-*   **Minitab:** A statistical software package that is widely used in Six Sigma and DMAIC projects for data analysis and visualization.
-*   **JMP:** Another popular statistical software package that is used for data analysis and visualization in DMAIC projects.
-
-**References:**
-
-[1] ASQ. (n.d.). *DMAIC Process: Define, Measure, Analyze, Improve, Control*. Retrieved from https://asq.org/quality-resources/dmaic
-
-[2] GoLeanSixSigma.com. (2025, January 24). *DMAIC – The 5 Phases Of Lean Six Sigma*. Retrieved from https://goleansixsigma.com/dmaic-five-basic-phases-of-lean-six-sigma/
-
-[3] Monday, L. M. (2022). Define, Measure, Analyze, Improve, Control (DMAIC) Methodology as a Roadmap in Quality Improvement. *Global Journal on Quality and Safety in Healthcare*, *5*(2), 44–46. https://doi.org/10.36401/JQSH-22-X2
-
-[4] Praxie. (n.d.). *DMAIC Project Success Stories & Cases in Manufacturing*. Retrieved from https://praxie.com/dmaic-project-examples-in-manufacturing/
-
-[5] Feldman, K. (2025, February 24). *How AI Can Be Used in the DMAIC Process*. iSixSigma. Retrieved from https://www.isixsigma.com/artificial-intelligence/how-ai-can-be-used-in-the-dmaic-process/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/dmaic-six-sigma-methodology/](https://commons-os.github.io/patterns/domain/dmaic-six-sigma-methodology/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/dmaic-six-sigma-methodology.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/dmaic-six-sigma-methodology.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

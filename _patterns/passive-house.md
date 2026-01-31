@@ -15,7 +15,7 @@ tags:
   era: [digital]
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -82,7 +82,21 @@ Passive House buildings also provide a superior level of occupant health and com
 
 The principles of Passive House design are highly compatible with the emerging technologies of the cognitive era, including smart home automation, building sensors, and data analytics. The integration of these technologies can further enhance the performance, comfort, and resilience of Passive House buildings. Smart home automation systems can be used to optimize the performance of a Passive House building by automating ventilation control, temperature and humidity management, and energy monitoring and optimization. Building sensors can be used to collect data on a wide range of parameters, which can be analyzed to identify opportunities for improving the performance of the building and to provide feedback to the occupants on their energy use. The combination of Passive House design and cognitive era technologies can create buildings that are highly resilient and adaptable to a changing climate. For example, a Passive House building with a smart energy management system can be designed to operate off-grid during a power outage, providing a safe and comfortable shelter for its occupants.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
+
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
+
+**1. Stakeholder Architecture:**
+The Passive House standard primarily defines the Rights and Responsibilities between the building owner and the immediate environment. It grants the owner the right to a comfortable, low-energy dwelling in exchange for the responsibility of adhering to strict construction and material standards. While this implicitly benefits the broader environment by reducing carbon emissions, it does not explicitly architect roles for other stakeholders like future generations, machines, or interconnected autonomous systems, focusing more on the individual building unit.
+
+**2. Value Creation Capability:**
+The pattern excels at creating ecological and economic value by drastically reducing a building's energy consumption and operational costs. It also generates significant social value by providing superior indoor air quality and thermal comfort, which contributes to occupant health and well-being. While the design and certification process generates knowledge, this value is not structured for collective creation or open circulation, remaining largely siloed within individual projects.
+
+**3. Resilience & Adaptability:**
+Passive House buildings demonstrate high resilience to energy shocks and extreme weather events, maintaining stable indoor temperatures with minimal external power. This creates a robust, self-sufficient living environment at the individual unit level. However, the pattern's adaptability is limited, as its design is heavily optimized during the initial construction phase for a specific climate and context, making it difficult to modify for new uses or changing environmental conditions without significant retrofitting.
+
+**4. Ownership Architecture:**
+Ownership is defined in a traditional sense, focusing on the property rights of the building owner. The 
 
 The Passive House standard exhibits a strong alignment with the principles of the commons, particularly in its emphasis on knowledge sharing, resource stewardship, and community resilience. The standard's openness and transparency are demonstrated through the public availability of design guides, case studies, and training materials from both the Passive House Institute (PHI) and the Passive House Institute US (PHIUS). The decentralized and federated system of certification bodies allows for adaptation to local climates and building practices while maintaining quality and consistency. Resource stewardship is at the core of the standard, with its focus on dramatically reducing energy consumption, conserving natural resources, and promoting the use of durable and sustainable materials. The vibrant and collaborative Passive House community fosters knowledge sharing and best practices through conferences, workshops, and online forums. While the upfront cost of a Passive House building can be higher, the long-term energy savings can make it more affordable over the life of the building, and the improved indoor air quality and thermal comfort can have a positive impact on the health and well-being of occupants, promoting social equity and inclusion. The economic viability of Passive House is well-established, with a significant return on investment from energy savings and reduced long-term ownership costs. Finally, by reducing energy consumption and promoting the use of sustainable materials, Passive House buildings can contribute to ecological regeneration, and be a platform for, ecological regeneration.
 
@@ -105,3 +119,23 @@ The Passive House standard exhibits a strong alignment with the principles of th
 ---
 
 *Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
+Rights and Responsibilities are tied to the asset itself, not to a broader ecosystem of value creation. The framework does not inherently challenge conventional ownership models or introduce concepts like stewardship or collective ownership, although it can be combined with such models.
+
+**5. Design for Autonomy:**
+The pattern is highly compatible with autonomous systems. Its performance-based nature and reliance on measurable metrics (airtightness, energy use) make it ideal for management by building automation systems, AI, and sensors. The low energy requirements and high resilience also make Passive House buildings suitable as nodes in distributed energy grids or as autonomous, off-grid habitats, requiring minimal external coordination to function effectively.
+
+**6. Composability & Interoperability:**
+Passive House is a highly composable pattern that serves as a foundational layer for other systems. It can be readily combined with renewable energy generation (solar, geothermal), smart grid technologies, and water conservation systems to create larger, more complex value-creation architectures. Its principles are modular and can be integrated into various building types and architectural styles, demonstrating strong interoperability with other design and construction patterns.
+
+**7. Fractal Value Creation:**
+The core logic of creating a high-performance thermal envelope can be applied at multiple scales, from a single room or apartment (the "Passive Room" concept) to entire buildings and districts (Passive House neighborhoods). The principles of minimizing energy exchange with the environment are fractal, allowing the value-creation logic to scale. However, applying it at larger scales requires significant coordination and planning, as the interdependencies between units become more complex.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Passive House is a powerful enabler of ecological, economic, and social value by creating highly resilient, low-impact, and healthy buildings. It strongly aligns with the goal of creating resilient value but falls short of being a complete value creation architecture because its focus remains on the individual building unit. Its stakeholder and ownership architectures are not explicitly designed for collective value creation beyond the immediate owner and environment.
+
+**Opportunities for Improvement:**
+- Develop a framework for integrating Passive House standards into community-owned or cooperative housing models to expand the ownership architecture.
+- Create open data platforms where performance data from Passive House buildings is shared to accelerate collective learning and innovation in the field.
+- Explicitly define the Rights and Responsibilities of automated systems and AI in managing building performance to better align with autonomous futures.

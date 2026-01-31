@@ -103,7 +103,7 @@ In many cases, it is not possible or practical to change the leader. In these si
 
 **Step 6: Monitor and Adjust**
 
-Implementing Contingency Theory is an ongoing process. It is important to monitor the effectiveness of the interventions that have been put in place and to make adjustments as needed. This can be done through regular performance reviews, team feedback sessions, and organizational surveys. The goal is to create a culture of continuous improvement, where the organization is always looking for ways to create a better fit between its leaders and the situations they face.
+(Content truncated due to size limit. Use line ranges to read remaining content)
 
 ## 6. Evidence & Impact
 
@@ -134,19 +134,40 @@ The increasing use of artificial intelligence (AI) and automation is also changi
 
 In conclusion, the Cognitive Era is a time of great change and uncertainty. The principles of Contingency Theory, with their emphasis on flexibility, adaptability, and the importance of situational factors, provide a valuable framework for leaders and organizations that are trying to navigate this new and challenging environment. By understanding their own leadership style and by learning to assess and adapt to the demands of the situation, leaders can be more effective in the Cognitive Era and beyond.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-Contingency Theory, with its focus on adapting to the specific context and environment, has several implications for its alignment with a commons-based approach. The following table provides an assessment of Contingency Theory across seven dimensions of commons alignment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Assessment |
-| :--- | :--- |
-| **Openness & Transparency** | Contingency Theory does not explicitly promote openness and transparency, but it does not preclude them either. The theory's emphasis on assessing the situation can be done in an open and transparent manner, which would align with a commons-based approach. However, the theory itself is neutral on this dimension. |
-| **Collaboration & Participation** | The theory's emphasis on matching the leader to the situation can be seen as a way of optimizing for collaboration and participation. By selecting a leader whose style is a good fit for the team, the organization can create an environment where collaboration and participation are more likely to thrive. However, the theory can also be used to justify a more top-down and less participative style of leadership in certain situations. |
-| **Decentralization & Autonomy** | Contingency Theory is compatible with both centralized and decentralized models of governance. The theory suggests that the optimal degree of centralization depends on the situation. In some situations, a more centralized and hierarchical approach may be more effective, while in other situations, a more decentralized and autonomous approach may be better. This flexibility can be seen as a strength from a commons perspective, as it allows for a more adaptive and context-sensitive approach to governance. |
-| **Knowledge Sharing & Learning** | The theory's focus on assessing the situation and on continuous learning and adaptation is highly aligned with a commons-based approach to knowledge sharing and learning. The theory encourages leaders and organizations to be constantly learning about their environment and to be willing to adapt their approach based on new information. This can help to create a culture of continuous improvement and a more resilient and adaptive commons. |
-| **Inclusivity & Diversity** | Contingency Theory's emphasis on matching the leader to the situation can be used to promote inclusivity and diversity. By recognizing that different leadership styles can be effective in different situations, the theory can help to create a more inclusive environment where a wider range of leadership styles are valued. However, the theory can also be used to justify the exclusion of certain leadership styles, which could be a concern from a diversity and inclusion perspective. |
-| **Sustainability & Resilience** | The theory's focus on adaptability and on creating a good fit between the organization and its environment is highly aligned with the principles of sustainability and resilience. By helping organizations to be more adaptive, Contingency Theory can help them to be more resilient in the face of change and to be more sustainable in the long term. |
-| **Community Health & Well-being** | The impact of Contingency Theory on community health and well-being is mixed. On the one hand, by improving leadership effectiveness and organizational performance, the theory can contribute to a more positive and supportive work environment. On the other hand, the theory's focus on task performance can sometimes come at the expense of the well-being of individuals. A commons-aligned application of the theory would need to balance the needs of the organization with the needs of the community. |
+**1. Stakeholder Architecture:**
+The pattern's stakeholder architecture is narrowly focused on the leader-member relationship within a hierarchical organization. It does not explicitly define Rights and Responsibilities for a broader set of stakeholders, such as the environment, future generations, or non-human agents. The framework is primarily concerned with optimizing internal organizational dynamics rather than architecting a multi-stakeholder commons.
+
+**2. Value Creation Capability:**
+Contingency Theory primarily enables value creation in the form of organizational effectiveness and productivity, which are typically measured in economic terms. While a relationship-oriented style can foster social value like trust and cohesion, this is framed as a means to improve performance in moderately favorable situations. The pattern does not inherently guide systems toward creating ecological, social, or knowledge value as ends in themselves.
+
+**3. Resilience & Adaptability:**
+This is the core strength of the pattern. By rejecting a one-size-fits-all approach, it forces a system to continuously assess its internal and external environment and adapt its structure or leadership to maintain effectiveness. This inherent focus on context-matching makes it a powerful tool for building resilient systems that can maintain coherence and thrive on change.
+
+**4. Ownership Architecture:**
+The pattern does not address ownership architecture. It operates within the conventional paradigm where leadership and management are functions separate from ownership. Concepts like "Position Power" are about delegated authority within a pre-existing ownership structure, not about redefining ownership as a bundle of rights and responsibilities distributed among stakeholders.
+
+**5. Design for Autonomy:**
+The theory is neutral but compatible with autonomous systems. It can be used to justify a hands-off, relationship-oriented approach for a team of autonomous agents (a favorable situation with high task structure). However, it could equally justify a highly controlling, task-oriented style in a chaotic situation, thereby reducing autonomy. It provides a logic for choosing a management style but does not inherently design for or prioritize autonomy.
+
+**6. Composability & Interoperability:**
+As a meta-pattern, Contingency Theory is highly composable. It acts as a decision-making framework for choosing which other organizational patterns to apply in a given context. For example, it can help a group decide whether Holacracy or a traditional hierarchy is better suited for their current situation, making it a valuable tool for building larger, adaptable value-creation systems.
+
+**7. Fractal Value Creation:**
+The core logic—that effectiveness is contingent on the situation—is fractal and can be applied at multiple scales. The same principles can be used to structure a small project team, a department, an entire enterprise, or a network of collaborating organizations. The pattern provides a scalable logic for adapting form to function at every level of a system.
+
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+Contingency Theory is a crucial transitional pattern that moves beyond the rigid, one-size-fits-all models of the industrial era. Its core emphasis on adaptability and resilience is highly aligned with the Commons OS v2.0 framework. However, it remains rooted in a leader-centric, organization-focused worldview, with significant gaps in stakeholder architecture, value definition, and ownership. It provides the "how" for adaptation but needs to be combined with other patterns to define the "what" and "for whom" of value creation.
+
+**Opportunities for Improvement:**
+- Integrate a multi-stakeholder model to expand the "leader-member relations" variable into a broader "stakeholder-system relations" assessment.
+- Explicitly define a wider spectrum of value (ecological, social, knowledge) to be considered when assessing "task structure" and organizational effectiveness.
+- Evolve the concept of "position power" into a more nuanced "distributed rights and responsibilities" framework to better align with commons-based ownership.
 
 ## 9. Resources & References
 

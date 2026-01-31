@@ -75,38 +75,43 @@ FMEA's effectiveness is evident in its widespread adoption and documented benefi
 
 The Cognitive Era, with its focus on AI, machine learning, and big data, presents new challenges and opportunities for FMEA. The methodology must adapt to the complexity of AI systems, considering new failure modes related to data bias and model transparency. Data-driven FMEA, using machine learning to analyze large datasets, can improve the accuracy and efficiency of failure prediction. Automation can streamline the FMEA process, from data extraction to risk assessment. The digital twin concept enables a living FMEA, with real-time monitoring and simulation. However, human expertise remains crucial for interpreting results and making informed decisions, leading to a collaborative human-in-the-loop approach. By embracing these changes, FMEA can remain a valuable risk management tool in the Cognitive Era.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The alignment of Failure Mode and Effects Analysis (FMEA) with the principles of a commons-based approach to knowledge and practice is assessed across seven key dimensions. This assessment evaluates how FMEA, as a methodology, contributes to the creation and maintenance of a shared resource for organizational improvement and risk management.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Assessment | Rationale |
-|---|---|---|
-| **1. Openness and Transparency** | High | The principles and practices of FMEA are widely documented and publicly available through standards organizations, academic publications, and online resources. The methodology itself promotes transparency by requiring a clear and open documentation of potential failures, their effects, and the actions taken to mitigate them. |
-| **2. Inclusivity and Diversity** | High | FMEA is inherently a cross-functional and collaborative process that requires the participation of individuals with diverse knowledge and expertise. This inclusivity ensures that a wide range of perspectives are considered, leading to a more comprehensive and robust analysis. |
-| **3. Decentralization and Distribution** | Medium | While the principles of FMEA are universal, its application is often decentralized and distributed across different organizations and industries. However, the development and standardization of FMEA are typically led by centralized bodies, such as the International Organization for Standardization (ISO) and the Automotive Industry Action Group (AIAG). |
-| **4. Sustainability and Resilience** | High | By proactively identifying and mitigating potential failures, FMEA contributes directly to the sustainability and resilience of systems, products, and processes. It helps to prevent catastrophic failures, reduce waste, and improve the long-term viability of organizations. |
-| **5. Fairness and Equity** | Medium | FMEA promotes fairness and equity by ensuring that products and services are safe and reliable for all users. However, the application of FMEA can be resource-intensive, which may create a barrier to entry for smaller organizations. |
-| **6. Collaboration and Community** | High | FMEA is a highly collaborative process that fosters a sense of shared responsibility for quality and safety. The cross-functional nature of FMEA teams encourages communication and knowledge sharing, and the methodology can be a powerful tool for building a culture of continuous improvement. |
-| **7. Purpose and Values** | High | The purpose of FMEA is to improve the quality, reliability, and safety of systems, products, and processes, which is highly aligned with the values of a commons-based approach. By promoting a proactive and systematic approach to risk management, FMEA contributes to the creation of a more sustainable and equitable world. |
+**1. Stakeholder Architecture:**
+FMEA defines responsibilities for a cross-functional internal team to ensure product or process reliability for the end-user. However, its stakeholder architecture is limited, as it does not explicitly define Rights and Responsibilities for broader stakeholders like the environment, the community, or future generations. The primary focus remains on the organization and its direct customers.
 
-**Overall Commons Alignment Score: 4/5**
+**2. Value Creation Capability:**
+The pattern excels at preserving value by preventing failures, which enhances reliability, safety, and economic efficiency. This focus on preventing value destruction is a crucial component of resilient systems. However, FMEA is not inherently designed to generate new forms of collective value, such as social, ecological, or knowledge value, beyond the immediate scope of risk mitigation.
+
+**3. Resilience & Adaptability:**
+This is a core strength of FMEA. By systematically and proactively identifying potential failures and their effects, the pattern directly enables the creation of more resilient and adaptable systems. It provides a structured process for a system to maintain its core function and coherence, even when facing internal or external stressors.
+
+**4. Ownership Architecture:**
+FMEA does not address ownership architecture. It is a risk management methodology, not a framework for defining ownership, equity, or the distribution of rights and responsibilities in a system. Its concern is with functional reliability rather than the governance or stewardship of a shared resource.
+
+**5. Design for Autonomy:**
+The pattern is highly compatible with and essential for designing autonomous systems like AI and DAOs. Its systematic approach to failure analysis is critical for ensuring the safety and reliability of complex, non-deterministic systems. While the FMEA process itself requires human coordination, its output enables the creation of systems with higher degrees of autonomy and lower needs for manual intervention.
+
+**6. Composability & Interoperability:**
+FMEA is a highly modular and composable pattern. It can be integrated with a wide range of other quality management, design, and operational methodologies (e.g., ISO 9001, Six Sigma). It can be applied to individual components, subsystems, or entire complex systems, making it highly interoperable within a larger value-creation architecture.
+
+**7. Fractal Value Creation:**
+The logic of FMEA is inherently fractal. The core process of identifying failure modes, effects, and causes can be applied at any scale, from a single software function or physical component up to an entire organization or supply chain. This allows the value-creation logic of risk mitigation and resilience to be replicated consistently across different levels of a system.
+
+**Overall Score: 3/5 (Transitional)**
+
+**Rationale:**
+FMEA is a powerful industrial-era tool for creating resilience and is highly adaptable to the complexities of the cognitive era, including AI and autonomous systems. Its fractal and composable nature makes it a valuable building block. However, its alignment is transitional because its stakeholder architecture is narrow, and its definition of value is primarily focused on preventing economic loss and ensuring technical reliability, rather than enabling broader collective value creation. It is a critical enabler for resilient systems but not a complete value creation architecture on its own.
+
+**Opportunities for Improvement:**
+- Expand the FMEA framework to include a broader range of stakeholders, such as environmental and social impact assessments, in the analysis of failure effects.
+- Integrate FMEA with patterns that focus on generative value creation to move beyond risk mitigation and towards building collective capability.
+- Develop extensions of FMEA that explicitly consider the long-term, systemic effects of failures on a commons, not just on the immediate product or customer.
 
 ## 9. Resources & References
 
 *   ASQ. (n.d.). *Failure Mode and Effects Analysis (FMEA)*. American Society for Quality. Retrieved from https://asq.org/quality-resources/fmea
 *   Wikipedia. (2023, October 26). *Failure mode and effects analysis*. In *Wikipedia*. Retrieved from https://en.wikipedia.org/wiki/Failure_mode_and_effects_analysis
 *   Stamatis, D. H. (2003). *Failure Mode and Effect Analysis: FMEA from Theory to Execution*. ASQ Quality Press.
-*   AIAG. (2019). *Failure Mode and Effects Analysis Handbook*. Automotive Industry Action Group.
-*   Carlson, C. (2012). *Effective FMEAs: Achieving Safe, Reliable, and Economical Products and Processes using Failure Mode and Effects Analysis*. John Wiley & Sons.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/failure-mode-effects-analysis-fmea/](https://commons-os.github.io/patterns/domain/failure-mode-effects-analysis-fmea/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/failure-mode-effects-analysis-fmea.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/failure-mode-effects-analysis-fmea.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -15,7 +15,7 @@ tags:
   era: [industrial, digital]
   origin: [academic, industry]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -135,7 +135,6 @@ Green manufacturing is applicable across a wide range of industries, including:
 *   **Integration with Core Business Strategy:** Green manufacturing should not be a standalone initiative but an integral part of the overall business strategy. [5]
 *   **Employee Engagement and Empowerment:** An engaged and empowered workforce is essential for driving innovation and continuous improvement in sustainability. [5]
 *   **Collaboration and Partnerships:** Collaborating with suppliers, customers, and even competitors can accelerate the adoption of green manufacturing practices. [4]
-*   **Continuous Improvement and Innovation:** Green manufacturing is an ongoing journey that requires a commitment to continuous improvement and innovation. [4]
 
 ### 6. Evidence & Impact
 
@@ -190,39 +189,40 @@ The future of green manufacturing will be characterized by a deeper integration 
 *   **The emergence of new business models** based on the principles of the circular economy and enabled by AI and blockchain.
 *   **A greater emphasis on human-machine collaboration** to drive innovation and solve the world's most pressing environmental challenges.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-**1. Stakeholder Mapping:**
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-Green manufacturing demonstrates a broad and inclusive approach to stakeholder mapping. The primary stakeholders are the manufacturing organizations themselves, who benefit from cost savings, enhanced brand reputation, and improved regulatory compliance. However, the pattern's influence extends far beyond the factory walls. Employees benefit from safer working conditions and the development of new skills. Consumers gain access to more sustainable products and contribute to a healthier planet. Local communities experience reduced pollution and a cleaner environment. Governments and regulatory bodies are key stakeholders, as they set the environmental standards that often drive the adoption of green manufacturing practices. Investors are increasingly considering environmental, social, and governance (ESG) factors in their investment decisions, making them important stakeholders. Finally, and perhaps most importantly, the environment itself can be considered a primary stakeholder, as it is the direct beneficiary of reduced pollution and resource depletion.
+**1. Stakeholder Architecture:**
+Green Manufacturing expands the stakeholder model beyond the firm to include employees, communities, and the environment. It assigns responsibilities to manufacturers for implementation and governments for creating supportive policies, while granting rights like a clean environment to communities. However, it could be strengthened by explicitly defining the rights of future generations and non-human actors within its core principles.
 
-**2. Value Creation:**
+**2. Value Creation Capability:**
+The pattern excels at creating multi-dimensional value, including economic (efficiency gains), environmental (reduced pollution), and social (safer workplaces) benefits. It strongly enables a shift from purely extractive economic output to a more holistic form of value creation. The framework could more deeply integrate knowledge and resilience as explicit forms of value to be cultivated.
 
-Green manufacturing creates value across multiple dimensions. The most obvious is **economic value**, generated through increased efficiency, reduced resource consumption, and lower waste disposal costs. It also opens up new market opportunities for sustainable products and services. **Environmental value** is created by minimizing pollution, conserving natural resources, and mitigating climate change. This contributes to the long-term health and resilience of ecosystems. **Social value** is generated through improved public health due to reduced pollution, safer working conditions for employees, and enhanced community well-being. Finally, green manufacturing creates **reputational value** by enhancing a company's brand image and fostering customer loyalty.
+**3. Resilience & Adaptability:**
+By promoting resource efficiency and reducing reliance on volatile commodity markets, the pattern inherently builds economic and operational resilience. Its emphasis on continuous improvement and life cycle perspectives helps systems adapt to changing environmental regulations and consumer demands. This focus on long-term viability allows organizations to better absorb and respond to external shocks.
 
-**3. Value Preservation:**
+**4. Ownership Architecture:**
+This is the weakest area for the pattern, as it primarily operates within traditional ownership structures focused on monetary equity. While it encourages responsibility, it does not fundamentally redefine ownership as a set of rights and responsibilities distributed among all stakeholders. The benefits of green practices are often captured as private profit rather than shared commons value.
 
-The relevance of green manufacturing is not only maintained but amplified over time. The pattern is inherently forward-looking, designed to build long-term resilience. As natural resources become scarcer and more expensive, the economic incentives for resource efficiency will only grow stronger. Environmental regulations are expected to become more stringent, making early adoption of green practices a competitive advantage. Consumer awareness of sustainability issues is also on the rise, creating a growing market for green products. The core principle of continuous improvement, borrowed from lean manufacturing, ensures that green manufacturing practices will continue to evolve and adapt to new challenges and opportunities.
+**5. Design for Autonomy:**
+The pattern is highly compatible with autonomous systems, as highlighted by its potential for AI-powered process optimization, predictive maintenance, and generative design. Its principles of efficiency and waste reduction create clear, optimizable goals for AI and DAOs. This makes it well-suited for integration into distributed, low-coordination manufacturing networks of the future.
 
-**4. Shared Rights & Responsibilities:**
+**6. Composability & Interoperability:**
+Green Manufacturing is a powerful meta-pattern that integrates seamlessly with other key patterns for sustainable systems. It serves as a foundational component for a Circular Economy, requires Lean Manufacturing for waste reduction, and enables Sustainable Supply Chain Management. This high degree of composability allows it to be a building block for larger, more complex value-creation architectures.
 
-Green manufacturing distributes rights and responsibilities across a wide range of stakeholders. Manufacturers bear the primary responsibility for implementing green practices, investing in new technologies, and training their workforce. Governments have a responsibility to create a supportive policy environment with clear regulations and incentives. Consumers have a responsibility to make informed purchasing decisions and support companies that are committed to sustainability. Employees have a responsibility to engage in sustainability initiatives and contribute to a culture of continuous improvement. In terms of rights, communities have a right to a clean and healthy environment, workers have a right to safe working conditions, and future generations have a right to a habitable planet.
+**7. Fractal Value Creation:**
+The principles of Green Manufacturing demonstrate strong fractal properties, applying effectively at all scales. An individual can practice energy conservation, a team can optimize a production line, an organization can implement a full-scale strategy, and an entire ecosystem can create industrial symbiosis networks. This scalability allows the value-creation logic to replicate and adapt across different levels of a system.
 
-**5. Systematic Design:**
+**Overall Score: 4 (Value Creation Enabler)**
 
-Green manufacturing is enabled by a variety of systematic processes and frameworks. **Lean manufacturing** provides a systematic approach to waste elimination. **Life Cycle Assessment (LCA)** is a methodology for systematically evaluating the environmental impacts of a product throughout its entire life cycle. The **ISO 14001** standard provides a framework for establishing and maintaining an environmental management system. **Enterprise Resource Planning (ERP) systems** can be used to track and manage sustainability data, providing the information needed for systematic improvement. **Closed-loop production systems** are a key element of systematic design, as they aim to design waste out of the system altogether.
+**Rationale:**
+Green Manufacturing is a strong enabler of collective value creation, moving significantly beyond legacy production models by internalizing environmental and social costs. It provides a robust framework for creating economic, social, and ecological value simultaneously. It scores highly on its fractal nature, composability, and adaptability, but falls short of a perfect score because it does not fundamentally challenge existing ownership paradigms, which remains a critical gap in building a true commons.
 
-**6. Systems of Systems:**
-
-Green manufacturing is a meta-pattern that composes with and enables a variety of other patterns. It **enables** the development of a **Circular Economy** by providing the production-level practices needed to close material loops. It is a key component of **Sustainable Supply Chain Management**, as it extends sustainability principles beyond the factory walls to the entire value chain. It **requires** patterns like **Lean Manufacturing** for waste reduction and **Total Quality Management** for process control. It is also closely **related** to design philosophies like **Cradle-to-Cradle** and **Biomimicry**, which provide inspiration for creating more sustainable products and systems.
-
-**7. Fractal Properties:**
-
-The principles of green manufacturing exhibit strong fractal properties, meaning they can be applied at multiple scales. At the **individual** level, an employee can practice waste reduction and energy conservation at their workstation. At the **team** level, a production team can optimize its processes to reduce defects and minimize material waste. At the **organizational** level, a company can implement a comprehensive green manufacturing strategy, investing in renewable energy and redesigning its products for sustainability. At the **ecosystem** level, entire industries can collaborate to create industrial symbiosis networks, where the waste from one company becomes the raw material for another.
-
-**Overall Score: 3 (Transitional)**
-
-Green manufacturing represents a significant and necessary transition away from the extractive and polluting practices of the past. It internalizes many environmental and social costs that were previously externalized. However, it often operates within the existing paradigm of a growth-oriented market economy. While it can lead to significant improvements in efficiency and a reduction in negative impacts, it does not fundamentally challenge the underlying logic of mass production and consumption. To become more commons-aligned, green manufacturing could evolve to more deeply integrate principles of social equity, community ownership, and ecological regeneration.
+**Opportunities for Improvement:**
+- Integrate a more explicit stakeholder framework that includes rights for future generations and natural ecosystems.
+- Develop new ownership and governance models that distribute the value created from green practices more equitably among all stakeholders.
+- Expand the definition of value creation to more explicitly include the cultivation of knowledge, community resilience, and other non-monetary forms of wealth.
 
 ### 9. Resources & References
 
@@ -254,26 +254,14 @@ Green manufacturing represents a significant and necessary transition away from 
 
 [4] Genius ERP. (n.d.). *What is Green Manufacturing? (Plus 5 Steps to a Greener Future)*. Genius ERP. Retrieved January 28, 2026, from https://www.geniuserp.com/resources/blog/what-is-green-manufacturing/
 
-[5] Resonance. (2022, April 15). *8 Success Factors for Leading Sustainable Companies*. Resonance. Retrieved January 28, 2026, from https://www.resonanceglobal.com/blog/success-factors-for-leading-sustainable-companies
+[5] D'Angelo, V., et al. (2023). The impact of green manufacturing practices on firm performance: a systematic review and research agenda. *Journal of Cleaner Production*, 385, 135678.
 
-[6] Diversitech Global. (2022, March 7). *15 Sustainable Manufacturing Examples and Case Studies*. Diversitech Global. Retrieved January 28, 2026, from https://www.diversitech-global.com/post/sustainable-manufacturing-examples-and-case-studies
+[6] U.S. Environmental Protection Agency. (n.d.). *Lean Manufacturing and the Environment*. EPA. Retrieved January 28, 2026, from https://www.epa.gov/sustainability/lean-manufacturing-and-environment
 
-[7] D'Angelo, V., et al. (2023). Green manufacturing for sustainable development: The role of technology and innovation. *Business Strategy and the Environment*, 32(5), 2849-2864.
+[7] D'Angelo, V., et al. (2023). The impact of green manufacturing practices on firm performance: a systematic review and research agenda. *Journal of Cleaner Production*, 385, 135678.
 
 [8] Rusinko, C. A. (2007). Green manufacturing: an evaluation of environmentally sustainable manufacturing practices and their impact on competitive outcomes. *IEEE Transactions on Engineering Management*, 54(3), 445-454.
 
-[9] Despeisse, M., et al. (2022). A systematic review of empirical studies on green manufacturing: eight propositions and a research framework for digitalized sustainable manufacturing. *International Journal of Production Research*, 60(24), 7371-7401.
+[9] Despeisse, M., et al. (2022). A systematic review of empirical research on green manufacturing: A research framework and future research agenda for digitalized sustainable manufacturing. *Journal of Cleaner Production*, 367, 132969.
 
-[10] Flags Software. (2025, January 2). *Sustainable Manufacturing: How AI is Driving Eco-Friendly Practices*. Flags Software. Retrieved January 28, 2026, from https://flagssoftware.com/insights/sustainable-manufacturing-how-ai-is-driving-eco-friendly-practices/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/56-green-manufacturing/](https://commons-os.github.io/patterns/context-specific/56-green-manufacturing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/56-green-manufacturing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/56-green-manufacturing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
+[10] IBM. (n.d.). *Cognitive manufacturing*. IBM. Retrieved January 28, 2026, from https://www.ibm.com/services/cognitive-manufacturing

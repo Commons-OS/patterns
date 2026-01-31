@@ -15,7 +15,7 @@ tags:
   era: [digital]
   origin: [agile-manifesto]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: ["pat_01kg5023zwft8t7k63bfadqqwg"]
 specializes_to: []
@@ -71,11 +71,40 @@ Scrum has been adopted by a wide range of organizations, including Gillette, Toy
 
 The cognitive era presents significant opportunities to augment the Scrum framework with AI and automation. AI-powered tools can automate repetitive tasks, analyze data to provide insights, and create realistic simulations for training. However, it is important to strike the right balance between human and machine intelligence, as the core principles of Scrum, such as collaboration and creative problem-solving, remain uniquely human. In the future, we can expect to see the emergence of new roles, such as the "AI Scrum Master," and the development of new tools that are specifically designed to support the use of AI and automation in Scrum.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-Scrum is a highly effective framework for creating and preserving value for a wide range of stakeholders. It promotes a high degree of collaboration, transparency, and empowerment, and it can be effectively scaled to multiple teams. However, the extent to which it is truly commons-aligned depends on the implementation. In some cases, the focus can be too narrow, with an overemphasis on the needs of the organization at the expense of other stakeholders. To be more exemplary, Scrum implementations should strive to be more inclusive and to ensure that all stakeholders have a voice in the process.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**Overall Score**: 4/5 (Commons-Aligned)
+**1. Stakeholder Architecture:**
+The pattern defines clear roles and responsibilities for the core delivery team and the Product Owner, who represents business and customer stakeholders. However, it lacks a formal architecture for engaging a wider set of stakeholders, such as the environment or future generations, whose rights and responsibilities are not explicitly defined within the framework. The focus remains on the value exchange between the organization and its immediate customers.
+
+**2. Value Creation Capability:**
+Scrum excels at creating economic and knowledge value by focusing on delivering the highest-value features first and fostering continuous learning. While it builds project resilience and social value within the team through collaboration, its capability to generate broader ecological or systemic social value is not inherent. The framework is agnostic to the nature of the value being produced, making it a powerful tool whose output is entirely dependent on the goals set by the Product Owner.
+
+**3. Resilience & Adaptability:**
+Resilience and adaptability are at the very core of this pattern, representing its greatest strength. The iterative cycle of Sprints, combined with continuous feedback loops (Daily Scrum, Sprint Review, Retrospective), allows teams to thrive on change and adapt to complexity. This structure ensures the system maintains coherence under the stress of changing requirements and market uncertainty.
+
+**4. Ownership Architecture:**
+The pattern's concept of ownership is focused on process and product, not on equity or formal stakeholder governance. The Product Owner 'owns' the backlog, and the team 'owns' the Sprint Backlog and the process for creating the increment. This defines ownership as clear responsibility and stewardship over components of the value creation process, but it does not address the distribution of monetary or non-monetary equity that results from it.
+
+**5. Design for Autonomy:**
+Scrum is highly compatible with distributed systems and promotes team autonomy, a key prerequisite for DAOs and AI-augmented workflows. Its low coordination overhead, managed through defined events and roles, allows teams to self-organize effectively. The clear, prioritized backlog can be interpreted and acted upon by autonomous agents, provided the tasks are well-defined.
+
+**6. Composability & Interoperability:**
+The pattern is explicitly designed for composability, as evidenced by scaled frameworks like Scrum@Scale, LeSS, and SAFe, which combine Scrum with other patterns to manage larger, more complex systems. It interoperates well with technical practices from Extreme Programming (XP) and governance models like Holacracy. Its modular nature allows it to be a foundational building block in a larger organizational value-creation system.
+
+**7. Fractal Value Creation:**
+Scrum's value-creation logic is inherently fractal. The core empirical loop of transparency, inspection, and adaptation applies to the daily work of a developer, the cycle of a Sprint for a team, the release cadence of a product, and the strategic pivots of an entire organization (as seen in Scrum@Scale). This allows the fundamental principles of adaptive value creation to be applied consistently at multiple scales.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Scrum is a powerful engine for adaptive value creation and learning, making it a strong enabler for commons-based projects. Its emphasis on team autonomy, iterative feedback, and composability aligns well with the principles of resilient systems. However, it scores a 4 instead of a 5 because it is fundamentally a process framework, agnostic to the type of value being created. It lacks a built-in stakeholder architecture beyond the immediate project, and its ownership model is procedural rather than equitable, requiring integration with other patterns to form a complete value creation architecture.
+
+**Opportunities for Improvement:**
+- Integrate a formal stakeholder mapping and engagement model (e.g., a 'Commons Council') into the Sprint Review process to include non-obvious stakeholders.
+- Explicitly define 'Value' in the Product Backlog to include metrics for social and ecological well-being, not just economic or functional utility.
+- Combine the pattern with distributed ownership models (e.g., co-operative or tokenized equity) to ensure the value created is distributed fairly among all contributing stakeholders.
 
 ### 9. Resources & References
 

@@ -15,7 +15,7 @@ tags:
   era: [industrial]
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 2
 commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023y5fnhb2ej6facjvz3c"]
@@ -157,21 +157,40 @@ The pace of change in the Cognitive Era is accelerating, and organizations must 
 ### 7.4. Ethics and Trust
 
 As AI and data-driven technologies become more powerful, the ethical implications of their use are becoming increasingly important. In the Cognitive Era, the ability to build and maintain trust with customers, employees, and other stakeholders is a critical core competence. This requires a commitment to transparency, fairness, and accountability in the design and deployment of AI systems, as well as a strong ethical framework to guide decision-making. Organizations that can demonstrate a commitment to ethical and responsible AI will be better able to build a strong brand and maintain the trust of their stakeholders.
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Core Competence pattern, while originating from a competitive, market-driven perspective, exhibits several characteristics that can be aligned with the principles of a commons-based approach. This assessment evaluates the pattern against seven key dimensions of commons alignment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Rating (1-5) | Justification |
-| :--- | :--- | :--- |
-| **Openness & Transparency** | 2 | The pattern does not inherently promote openness or transparency. Core competencies are often proprietary and closely guarded to maintain a competitive edge. However, the internal processes of identifying and developing competencies can be made transparent within an organization. |
-| **Decentralization & Federation** | 3 | Core competencies can be developed in a decentralized manner, with different business units or teams contributing to the collective learning of the organization. However, the overall strategic direction and resource allocation are typically centralized. |
-| **Community & Collaboration** | 4 | The pattern emphasizes the importance of collective learning and cross-functional collaboration within the organization. It encourages the sharing of knowledge and skills across different departments and business units, which is a key aspect of a commons-based approach. |
-| **Resource Sharing & Stewardship** | 3 | While the pattern promotes the internal sharing of knowledge and skills, it does not explicitly address the stewardship of shared resources in a broader sense. The focus is on leveraging resources for the benefit of the firm, rather than for the benefit of a larger community. |
-| **Purpose-driven & Value-aligned** | 4 | The pattern encourages organizations to align their strategies and resource allocation around a clear set of core competencies. This can help to create a strong sense of purpose and shared values within the organization, which is consistent with a commons-based approach. |
-| **Resilience & Adaptability** | 4 | By focusing on building a portfolio of competencies rather than a portfolio of business units, the pattern helps organizations to become more resilient and adaptable to changing market conditions. This is because competencies can be redeployed to new markets and applications more easily than physical assets. |
-| **Inclusivity & Equity** | 2 | The pattern does not explicitly address issues of inclusivity and equity. The focus is on leveraging the skills and knowledge of employees for the benefit of the firm, without necessarily considering the broader social and ethical implications. |
+**1. Stakeholder Architecture:**
+The Core Competence pattern primarily defines relationships between the firm, its customers, and its competitors. Its focus is on creating value for customers to achieve competitive advantage for the firm, viewing partners as a means to acquire capabilities. It does not inherently include a broader stakeholder architecture that defines rights and responsibilities for the environment, community, or future generations, focusing instead on corporate value capture.
 
-**Overall Commons Alignment Score: 3**
+**2. Value Creation Capability:**
+Value creation is framed almost exclusively in economic and market terms—delivering superior product/service value to customers to gain a competitive edge. While it emphasizes "collective learning" as a source of competence, this knowledge value is instrumentalized for market differentiation rather than being treated as a commons. The pattern does not explicitly address the creation of social, ecological, or broader systemic value.
+
+**3. Resilience & Adaptability:**
+The pattern is designed to enhance the resilience and adaptability of the individual firm by helping it navigate changing market conditions and sustain its competitive advantage. It promotes internal coherence and the ability to thrive on change. However, this resilience is localized to the organization and does not extend to the resilience of the broader ecosystem or commons in which it operates.
+
+**4. Ownership Architecture:**
+Ownership is implicitly defined as the firm's exclusive control over its unique capabilities. Core competencies are treated as proprietary assets to be guarded and leveraged for market dominance, not as shared resources governed by a structure of rights and responsibilities. The concept of ownership as stewardship or distributed rights is absent.
+
+**5. Design for Autonomy:**
+The pattern originated in a traditional corporate context and emphasizes significant internal coordination, such as cross-functional collaboration and organizational learning. While the concept of a unique capability can be applied to autonomous systems like DAOs, the framework's implementation requires high internal communication overhead and is not inherently designed for low-coordination, distributed environments.
+
+**6. Composability & Interoperability:**
+As a strategic framework, the Core Competence pattern is highly composable. It can be combined with numerous other organizational and operational patterns to build a comprehensive business strategy. For example, it can be integrated with patterns for innovation, organizational design, or supply chain management to create a larger, cohesive value-creation system for the firm.
+
+**7. Fractal Value Creation:**
+The logic of identifying and cultivating unique capabilities can be applied at multiple scales. A team can have a core competence, as can a business unit, an entire organization, or even a network of organizations. This fractal nature allows the principle to be deployed systemically, though its traditional application remains focused on the corporate level.
+
+**Overall Score: 2 (Partial Enabler)**
+
+**Rationale:**
+The Core Competence pattern is a powerful tool for building firm-centric competitive advantage but is not aligned with the core principles of a Commons. Its fundamental assumptions are rooted in market competition and proprietary value capture, rather than collective value creation and stewardship of shared resources. While it touches upon collective learning and adaptability, these are in service of the individual organization, not the broader system.
+
+**Opportunities for Improvement:**
+- Redefine "stakeholders" beyond customers and partners to include the community, environment, and future generations, creating a formal architecture of rights and responsibilities.
+- Expand the definition of "value" to explicitly include social, ecological, and knowledge value, measuring success beyond market share and profitability.
+- Adapt the concept of "ownership" from a proprietary asset to a stewardship model, where the core competence is managed for the benefit of a wider ecosystem.
 ## 9. Resources & References
 
 [1] Prahalad, C. K., & Hamel, G. (1990). The Core Competence of the Corporation. *Harvard Business Review*, *68*(3), 79–91.

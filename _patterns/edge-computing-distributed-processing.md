@@ -139,21 +139,40 @@ Furthermore, edge computing is essential for **optimizing the performance and ef
 
 As the Cognitive Era continues to unfold, the importance of edge computing will only grow. The ability to process and analyze data at the edge will be a key differentiator for organizations that want to leverage the full potential of AI and ML. By embracing edge computing, organizations can build more intelligent, responsive, and efficient systems that are capable of meeting the demands of the Cognitive Era.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Commons Alignment Assessment evaluates how well the Edge Computing pattern aligns with the principles of a commons-based approach. This assessment considers seven key dimensions, each of which is rated on a scale of 1 to 5, where 1 indicates low alignment and 5 indicates high alignment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Rating | Rationale |
-| :--- | :--- | :--- |
-| **Openness & Transparency** | 4 | Edge computing can be implemented using open-source technologies, which promotes transparency and collaboration. However, many commercial edge solutions are proprietary, which can limit openness. |
-| **Decentralization & Federation** | 5 | The core principle of edge computing is decentralization, which aligns perfectly with the commons principle of distributed power and control. It enables a federated architecture where different nodes can operate autonomously while still being part of a larger system. |
-| **Collaboration & Community** | 3 | While edge computing can be used to support collaborative applications, the pattern itself does not inherently foster community. The level of collaboration depends on the specific implementation and the applications that are built on top of the edge infrastructure. |
-| **Sustainability & Resilience** | 4 | Edge computing can contribute to sustainability by reducing the need for large, energy-intensive data centers. Its decentralized nature also enhances resilience, as the failure of one node does not necessarily bring down the entire system. |
-| **Fairness & Equity** | 3 | Edge computing has the potential to both promote and hinder fairness and equity. On the one hand, it can provide access to advanced technologies in remote and underserved areas. On the other hand, the cost of edge devices and infrastructure can create a digital divide. |
-| **Pluralism & Diversity** | 4 | Edge computing supports a wide range of devices, applications, and use cases, which promotes diversity and pluralism. It allows for a more heterogeneous and adaptable IT landscape compared to the monolithic nature of traditional cloud computing. |
-| **Social & Ethical Responsibility** | 3 | The social and ethical implications of edge computing are complex and multifaceted. While it can be used for social good, it also raises concerns about privacy, surveillance, and job displacement. A responsible approach to edge computing requires careful consideration of these issues. |
+**1. Stakeholder Architecture:**
+Edge computing establishes a multi-stakeholder architecture by distributing rights and responsibilities. Device owners and users gain greater control over their data and computational resources, while organizations that deploy edge infrastructure are responsible for its management and security. The pattern implicitly includes the environment as a stakeholder by enabling energy-efficient operations, and future generations by creating more resilient and sustainable infrastructure.
 
-**Overall Commons Alignment Score: 4**
+**2. Value Creation Capability:**
+The pattern strongly enables the creation of diverse forms of value beyond economic benefits. It facilitates social value through applications like remote healthcare and smart cities, ecological value by optimizing energy consumption and resource management, and knowledge value by enabling real-time data analysis and distributed intelligence. This capability for multi-faceted value creation is a core strength of the pattern.
+
+**3. Resilience & Adaptability:**
+Edge computing is inherently designed for resilience and adaptability. Its decentralized architecture allows systems to maintain coherence and functionality even when parts of the network fail. The pattern enables systems to thrive on change by adapting to fluctuating network conditions and processing demands, making it well-suited for complex and dynamic environments.
+
+**4. Ownership Architecture:**
+The pattern redefines ownership as a set of rights and responsibilities over data and computational resources at the edge. This moves beyond traditional monetary equity, empowering individuals and communities with greater control over their digital assets. This distributed ownership model is a key enabler of a more equitable and decentralized digital ecosystem.
+
+**5. Design for Autonomy:**
+Edge computing is highly compatible with autonomous systems, including AI, DAOs, and other distributed technologies. Its low coordination overhead and ability to support real-time, localized decision-making make it an ideal foundation for autonomous agents and decentralized applications. This design for autonomy is critical for building scalable and resilient systems.
+
+**6. Composability & Interoperability:**
+The pattern is highly composable and interoperable, designed to be combined with other patterns to build larger, more complex value-creation systems. It can be integrated with technologies like IoT, federated learning, and blockchain to create sophisticated, multi-layered architectures. This modularity is essential for building adaptable and evolvable systems.
+
+**7. Fractal Value Creation:**
+The value-creation logic of edge computing is fractal, meaning it can be applied at multiple scales. The principle of processing data closer to its source is relevant from a single device to a local network, a smart city, or a global distributed system. This scalability allows the pattern to be applied in a wide range of contexts, from small-scale projects to large-scale infrastructures.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Edge Computing is a powerful enabler of resilient, collective value creation. Its decentralized architecture, support for autonomy, and composability align strongly with the principles of the Commons OS v2.0 framework. While it provides a critical technological foundation, it is not a complete value creation architecture in itself and requires integration with other patterns to realize its full potential.
+
+**Opportunities for Improvement:**
+- Explicitly define the rights and responsibilities of all stakeholders, including the environment and future generations.
+- Develop standardized protocols for interoperability to enhance composability with a wider range of patterns.
+- Create governance frameworks to ensure equitable access to and control over edge resources.
 
 ## 9. Resources & References
 

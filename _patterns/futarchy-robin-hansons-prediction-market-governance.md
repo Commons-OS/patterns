@@ -109,19 +109,40 @@ The Cognitive Era, with its advancements in AI, big data, and connectivity, offe
 
 # 8. Commons Alignment Assessment
 
-This section assesses the alignment of Futarchy with the principles of a commons-based approach to governance. The assessment is based on seven key dimensions of commons alignment.
+### 8. Commons Alignment Assessment (v2.0)
 
-| Dimension | Alignment Score (1-5) | Rationale |
-| :--- | :--- | :--- |
-| **1. Openness & Inclusivity** | 4 | Futarchy is, in principle, open to anyone who wants to participate in the prediction markets. However, the need for financial resources to participate in the markets can be a barrier to entry for some, which limits its full inclusivity. |
-| **2. Transparency** | 5 | The decision-making process in Futarchy is highly transparent. All proposed policies and the market's predictions about their likely outcomes are publicly visible. This allows for a high degree of scrutiny and accountability. |
-| **3. Subsidiarity** | 3 | Futarchy can be adapted to different scales, from small communities to large nations. However, the reliance on a single, centralized welfare metric can be in tension with the principle of subsidiarity, which favors decision-making at the most local level possible. |
-| **4. Peer-to-Peer Relationships** | 4 | Futarchy promotes peer-to-peer relationships by allowing anyone to propose policies and to participate in the prediction markets. This creates a more decentralized and bottom-up approach to governance, where ideas are judged on their merits rather than on the status of their proponents. |
-| **5. Common Good Focus** | 3 | The focus of Futarchy is on maximizing a predefined welfare metric. While this metric is intended to represent the common good, there is a risk that it could be defined too narrowly or that it could be manipulated by special interests. The alignment with the common good is therefore highly dependent on the quality and integrity of the welfare metric. |
-| **6. Fairness & Equity** | 2 | The use of prediction markets raises concerns about fairness and equity. Those with more financial resources may have a greater influence on the market, which could lead to outcomes that favor the wealthy. Addressing this issue is a key challenge for the implementation of Futarchy. |
-| **7. Sustainability** | 3 | The long-term sustainability of a Futarchy-based system is uncertain. It depends on its ability to overcome the challenges of market manipulation, low participation, and the definition of a good welfare metric. If these challenges can be addressed, Futarchy has the potential to be a more sustainable form of governance than traditional models. |
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**Overall Commons Alignment Score: 3**
+**1. Stakeholder Architecture:**
+Futarchy defines stakeholder Rights and Responsibilities primarily through market participation. The Right to influence decisions is granted to those who can financially back their beliefs in the prediction market, while the Responsibility is the associated financial risk. This architecture does not inherently define roles or rights for non-capitalized stakeholders like the environment or future generations, making their inclusion entirely dependent on the design of the welfare metric.
+
+**2. Value Creation Capability:**
+The pattern strongly enables collective value creation by aggregating dispersed information to optimize decision-making towards a specific goal. However, its capability is narrowly focused on maximizing a predefined welfare metric, which is often economic. The creation of other forms of value (social, ecological, knowledge) is not an intrinsic feature but rather an indirect outcome contingent on how comprehensively the welfare metric is defined.
+
+**3. Resilience & Adaptability:**
+Futarchy is designed for high adaptability, using prediction markets to continuously evaluate and select policies in response to new information and changing conditions. This allows the system to thrive on complexity and maintain coherence by consistently optimizing for a stable, agreed-upon welfare metric. The mechanism encourages a constant, dynamic search for the most effective strategies.
+
+**4. Ownership Architecture:**
+Ownership is abstracted away from traditional equity and redefined as the Right to influence outcomes by staking capital on beliefs. This model treats ownership as a function of active, risk-bearing participation in governance rather than a passive share. The core responsibility is financial, aligning personal incentives with the goal of making accurate predictions for the collective.
+
+**5. Design for Autonomy:**
+The pattern is exceptionally well-suited for autonomous systems like DAOs and AI-driven organizations. Its rule-based, automated decision-making process ("if market predicts X, then execute X") dramatically reduces coordination overhead. This makes it highly compatible with distributed systems where direct human deliberation is impractical or too slow.
+
+**6. Composability & Interoperability:**
+Futarchy is a highly composable governance module. It can be integrated with other patterns that help a community define its values and establish a welfare metric. It is interoperable with any system, from corporations to DAOs, where a clear, quantifiable objective function can be established, serving as the decision-making engine within a larger organizational structure.
+
+**7. Fractal Value Creation:**
+The core logic of "vote on values, bet on beliefs" is fractal and can be applied at multiple scales. A large organization could use it for major strategic decisions, a department for project prioritization, or a small team for technical choices. Its effectiveness at any scale, however, depends on the ability to create a liquid and robust prediction market with sufficient participation to ensure reliable outcomes.
+	
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+Futarchy is a powerful transitional pattern that introduces market-based mechanisms for efficient information aggregation and decision-making. However, its alignment with a true commons is incomplete. Its effectiveness is entirely dependent on the quality and integrity of a predefined welfare metric, and it lacks inherent structures to define rights for non-financial stakeholders, creating a significant gap in its architecture for holistic value creation.
+
+**Opportunities for Improvement:**
+- Develop hybrid models that couple the prediction market with other governance patterns (like Sortition or Deliberative Polling) to define the welfare metric, ensuring it represents a broader set of stakeholder values.
+- Introduce mechanisms to subsidize participation for under-capitalized but knowledgeable stakeholders to improve equity and the quality of information aggregation.
+- Design non-monetary staking systems (e.g., based on reputation or expertise) to reduce the system's reliance on purely financial capital and broaden the definition of "skin in the game."
 
 # 9. Resources & References
 

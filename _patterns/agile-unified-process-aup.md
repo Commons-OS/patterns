@@ -184,27 +184,40 @@ In the cognitive era, AUP is likely to evolve in the following ways:
 *   **Greater Emphasis on Data-Driven Decision-Making**: With the help of AI, AUP will place a greater emphasis on data-driven decision-making. Project data will be continuously analyzed to provide insights and to guide the project's direction.
 *   **Emergence of New Roles**: New roles may emerge in AUP teams, such as AI specialists who are responsible for developing and maintaining the AI-powered tools and infrastructure.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-**1. Stakeholder Mapping**: AUP explicitly emphasizes collaboration and communication with stakeholders. The project management and modeling disciplines directly address the need to understand and engage with stakeholders. However, the extent of stakeholder mapping is not as comprehensive as in a true commons-based approach. The focus tends to be on the immediate stakeholders of the project (customers, users, developers) rather than the broader community or ecosystem.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**2. Value Creation**: AUP is focused on creating value for the customer. The principle of focusing on high-value activities ensures that the team is always working on what is most important to the customer. However, the definition of value is primarily economic. AUP does not explicitly consider other forms of value, such as social or environmental value.
+**1. Stakeholder Architecture:**
+The Agile Unified Process (AUP) defines stakeholders primarily as the development team, users, and customers. Its core principles, such as "Your Staff Knows What They're Doing," empower the internal team with significant rights and responsibilities in the development process. However, it does not explicitly architect roles for a broader set of stakeholders like the environment, future generations, or non-human agents, focusing on project-level participants.
 
-**3. Value Preservation**: AUP's iterative and incremental approach helps to preserve value over time by allowing the system to evolve and adapt to changing needs. The emphasis on quality and testing also contributes to the long-term viability of the software. However, there is no explicit mechanism for ensuring that the value created is shared and stewarded by a community.
+**2. Value Creation Capability:**
+AUP is designed to create economic value by delivering business application software efficiently. While it enhances knowledge value through its modeling and iterative learning cycles, its definition of value is narrowly focused on the software product. The framework does not inherently guide teams to consider or measure social, ecological, or broader resilience value beyond the immediate project scope.
 
-**4. Shared Rights & Responsibilities**: AUP promotes shared responsibility within the development team. The principle of "Your Staff Knows What They're Doing" empowers the team to take ownership of their work. However, the rights and responsibilities are not explicitly shared with a broader community of stakeholders. The ownership of the software and the intellectual property rights are typically held by the organization that funded the development.
+**3. Resilience & Adaptability:**
+The pattern excels in resilience and adaptability at the project level, as it is founded on iterative and incremental development. AUP is designed to thrive on change, allowing teams to adapt to evolving requirements and stakeholder feedback. This agility helps maintain coherence under the stress of changing project conditions but does not extend to systemic or ecological resilience.
 
-**5. Systematic Design**: AUP provides a systematic and disciplined approach to software development. The seven disciplines provide a clear framework for organizing and executing the work. The emphasis on modeling and architecture helps to ensure that the system is well-designed and maintainable. However, the design process is not as open or participatory as in a commons-based approach.
+**4. Ownership Architecture:**
+Ownership in AUP is implicitly traditional, with the software product and its intellectual property typically owned by the funding organization. While it promotes shared responsibility for quality and delivery within the development team, it does not redefine ownership as a set of distributed rights and responsibilities among a wider community of stakeholders. The concept of stewardship over a shared resource is absent.
 
-**6. Systems of Systems**: AUP can be used to develop systems that are part of a larger ecosystem. The emphasis on collaboration and communication can help to ensure that the system integrates well with other systems. However, AUP does not provide a framework for designing and governing a system of systems as a commons.
+**5. Design for Autonomy:**
+AUP is highly compatible with autonomous systems and distributed teams due to its emphasis on empowering skilled individuals and its tool-agnostic nature. The focus on high-level guidance over prescriptive processes creates low coordination overhead, making it suitable for environments with AI agents or DAOs handling specific development tasks. Its modular disciplines can be adapted for distributed workflows.
 
-**7. Fractal Properties**: The principles of AUP can be applied at different scales, from a single team to a department. This gives AUP a degree of fractal properties. However, the methodology is not designed to be applied at the level of a multi-organizational ecosystem.
+**6. Composability & Interoperability:**
+The pattern is highly composable, designed as a simplified and modular version of the Rational Unified Process (RUP) that integrates practices like Test-Driven Development and Agile Modeling. It can be easily combined with other agile patterns and practices to create tailored development methodologies. This makes it a flexible component for building larger, more complex value-creation systems.
 
-**Overall Score**: 3/5 (Transitional)
+**7. Fractal Value Creation:**
+AUP exhibits fractal properties, as its core principles and disciplines can be applied at the scale of a single team, a department, or a small organization. The value-creation logic of iterative development and continuous feedback can be replicated across different project sizes. However, its applicability is generally limited to the organizational or inter-departmental level, not at the scale of a multi-organizational ecosystem.
 
-**Rationale**: AUP represents a significant step away from traditional, command-and-control methodologies towards a more collaborative and empowering approach to software development. It shares some of the values of a commons-based approach, such as collaboration, transparency, and shared responsibility within the team. However, it is still fundamentally a project-centric methodology that is focused on delivering value to a customer within the context of a single organization. It does not provide the mechanisms for creating and governing a software commons.
+**Overall Score: 3 (Transitional)**
 
-**Opportunities for Improvement**: To become more commons-aligned, AUP could be extended to include practices for: engaging a broader community of stakeholders; defining and measuring different forms of value; establishing a governance structure for sharing the rights and responsibilities of the software; and designing the software as part of a larger, interconnected ecosystem.
+**Rationale:**
+AUP is a transitional pattern that strongly enables agile and adaptive software development, which is a key component of resilient value creation. It promotes team autonomy and is highly composable. However, its alignment with a full commons architecture is limited by its traditional view of ownership, its narrow definition of value (primarily economic), and its focus on project-level stakeholders rather than a broader ecosystem. It provides a solid foundation for building value-creation capabilities but requires significant adaptation to operate as a true commons.
+
+**Opportunities for Improvement:**
+- Broaden the stakeholder model to explicitly include non-human agents, the environment, and future generations, defining their rights and responsibilities.
+- Expand the definition of value to include metrics for social, ecological, and knowledge value, integrating them into the project management discipline.
+- Introduce a stewardship model for the software created, exploring licensing and governance structures that enable a broader community to share in its rights and responsibilities.
 
 ### 9. Resources & References
 

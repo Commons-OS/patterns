@@ -124,11 +124,40 @@ While AI can be a powerful tool, it is not a replacement for human intuition and
 In the cognitive era, the Lean Canvas is likely to evolve from a static document to a more dynamic and interactive tool. We may see the emergence of AI-powered Lean Canvas platforms that provide real-time feedback and suggestions to entrepreneurs. These platforms could use AI to automatically track key metrics, to identify potential risks and opportunities, and to suggest experiments to test the riskiest assumptions. The Lean Canvas could also become more integrated with other tools and platforms, such as prototyping tools and customer relationship management (CRM) systems. This would allow for a more seamless and automated workflow, from idea to validation to execution.
 
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Lean Canvas is a tool for developing commercially viable businesses, but it can be adapted for commons-based approaches. Its primary focus is on the customer and the business, with less emphasis on broader stakeholders, or social and environmental value. The canvas's iterative nature can lead to a short-term focus, but its systematic design and fractal properties are valuable for commons-based enterprises. While it doesn't inherently promote shared ownership, it can be used collaboratively. Overall, the Lean Canvas is a transitional pattern with the potential for greater commons alignment if supplemented with frameworks that address its limitations.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
+
+**1. Stakeholder Architecture:**
+The Lean Canvas primarily defines stakeholders through the lens of a market, focusing on "Customer Segments" and the entrepreneur's organization. It does not inherently provide a structure for defining the Rights and Responsibilities of a broader set of stakeholders, such as the environment, future generations, or the wider community. The architecture is centered on the business-customer relationship, not a multi-stakeholder commons.
+
+**2. Value Creation Capability:**
+The framework is explicitly designed to create economic value by validating a scalable business model through "Revenue Streams" and a viable "Cost Structure." While a venture using the canvas could produce social or ecological benefits, this is not a core component of the process. The pattern's capability for collective value creation is limited, as it prioritizes market success and financial return over other forms of value.
+
+**3. Resilience & Adaptability:**
+This is a core strength of the Lean Canvas. The entire methodology, built on the Build-Measure-Learn feedback loop, is designed to help systems thrive on change and adapt to complexity. It forces a continuous re-evaluation of assumptions, enabling a venture to maintain coherence and pivot under the stress of market uncertainty, which is a key feature of resilient systems.
+
+**4. Ownership Architecture:**
+The Lean Canvas is silent on the topic of ownership architecture. It is a tool for designing a business model, not the legal or governance structure that underpins it. The concept of an "Unfair Advantage" can be seen as a form of proprietary ownership over a resource or capability, which runs counter to the idea of shared ownership in a commons.
+
+**5. Design for Autonomy:**
+As a high-level, one-page framework, the Lean Canvas has very low coordination overhead and is highly compatible with distributed systems. Its clear and concise structure makes it an effective tool for aligning teams, including those that may be geographically dispersed or operating with a high degree of autonomy. The model can be used to define the logic for a DAO or other automated systems, focusing them on key problems and solutions.
+
+**6. Composability & Interoperability:**
+The Lean Canvas is highly composable and designed to be used with other patterns and frameworks. It naturally interoperates with methodologies like Customer Development, Agile, and the Value Proposition Canvas. This modularity allows it to be a foundational piece in a larger system for building and scaling a venture, enabling users to plug in other patterns for governance, funding, or operations.
+
+**7. Fractal Value Creation:**
+The problem-solution-validation logic of the Lean Canvas is fractal and can be applied at multiple scales. A large corporation can use it for a new product line, a startup can use it for its core business model, and a team can use it to develop a new feature. This scalability allows the core value-creation logic to be replicated and adapted across different levels of an organization or ecosystem.
 
 **Overall Score: 3 (Transitional)**
+
+**Rationale:**
+The Lean Canvas is a powerful engine for navigating uncertainty and iterating on a value proposition, making it highly resilient and adaptable. However, it is fundamentally a tool for designing competitive businesses, not collaborative commons. Its architecture has significant gaps regarding multi-stakeholder governance, collective value creation, and shared ownership. It is therefore a transitional pattern that has strong process-related capabilities but requires significant adaptation and supplementation with other patterns to become a true commons-enabling architecture.
+
+**Opportunities for Improvement:**
+- Integrate a multi-stakeholder mapping process that extends beyond the "Customer Segments" block to include community, ecological, and other non-market actors.
+- Add a "Collective Value" or "Commons Contribution" block to explicitly define and measure the creation of non-economic value (e.g., knowledge, social well-being, ecological health).
+- Combine the Lean Canvas with governance and ownership patterns (e.g., Sociocracy, platform cooperatives) to provide a more complete architecture for a commons-based enterprise.
 
 
 ### 9. Resources & References

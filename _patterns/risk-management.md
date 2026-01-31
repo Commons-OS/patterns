@@ -208,54 +208,40 @@ Effective risk management has a demonstrable positive impact on organizational p
 The cognitive era, characterized by the rise of artificial intelligence and data analytics, presents both new opportunities and challenges for risk management. On one hand, AI-powered tools can enhance risk identification, analysis, and monitoring by processing vast amounts of data and identifying patterns that would be impossible for humans to detect. On the other hand, the increasing reliance on complex and opaque AI systems introduces new risks, such as algorithmic bias, cybersecurity vulnerabilities, and the potential for unintended consequences. In the cognitive era, risk management must evolve to address these new challenges by incorporating a deeper understanding of AI and its potential impact on the organization.
 
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-This section assesses the alignment of the Risk Management pattern with the seven dimensions of the Commons OS.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-<table header-row="true">
-<tr>
-<td>Dimension</td>
-<td>Alignment Score (1-5)</td>
-<td>Justification</td>
-</tr>
-<tr>
-<td>**Shared Purpose**</td>
-<td>4</td>
-<td>Risk management helps to ensure that the organization stays focused on its shared purpose by identifying and mitigating anything that could hinder its achievement.</td>
-</tr>
-<tr>
-<td>**Shared Resources**</td>
-<td>3</td>
-<td>While not directly focused on the creation of shared resources, risk management helps to protect the organization's existing resources from potential threats.</td>
-</tr>
-<tr>
-<td>**Shared Governance**</td>
-<td>4</td>
-<td>Effective risk management requires a collaborative and inclusive approach to governance, with input from all stakeholders.</td>
-</tr>
-<tr>
-<td>**Shared Value Creation**</td>
-<td>4</td>
-<td>By enabling the organization to take calculated risks, risk management can contribute to the creation of new value for all stakeholders.</td>
-</tr>
-<tr>
-<td>**Shared Risk**</td>
-<td>5</td>
-<td>The core purpose of risk management is to identify, assess, and collectively manage shared risks.</td>
-</tr>
-<tr>
-<td>**Shared Learning**</td>
-<td>4</td>
-<td>The continuous monitoring and review process in risk management promotes a culture of shared learning and continuous improvement.</td>
-</tr>
-<tr>
-<td>**Shared Accountability**</td>
-<td>4</td>
-<td>Risk management clarifies roles and responsibilities for managing risks, fostering a sense of shared accountability throughout the organization.</td>
-</tr>
-</table>
+**1. Stakeholder Architecture:**
+The pattern promotes an inclusive approach, advocating for the involvement of stakeholders at all levels to build a complete understanding of risks. However, its primary focus is on human and organizational stakeholders within a traditional business context. It does not explicitly define the Rights and Responsibilities for a broader set of stakeholders, such as the environment, AI agents, or future generations, which is a key element of the v2.0 framework.
 
-**Overall Commons Alignment Score: 3.71 (rounded to 4)**
+**2. Value Creation Capability:**
+Risk Management is primarily framed as a defensive discipline to protect existing value and ensure the achievement of strategic, operational, and financial objectives. While it enables organizations to pursue opportunities, its core focus is on mitigating adverse impacts rather than proactively generating diverse forms of value. The pattern does not explicitly address the creation of social, ecological, or knowledge value as primary outcomes.
+
+**3. Resilience & Adaptability:**
+This is a core strength of the pattern. It is explicitly designed to enhance organizational resilience and the capacity to adapt to change. Principles like being dynamic, iterative, and promoting continual improvement directly contribute to a system's ability to maintain coherence under stress and thrive in complex environments.
+
+**4. Ownership Architecture:**
+The pattern treats ownership from a traditional perspective, focusing on protecting the organization's assets and objectives from potential threats. It does not engage with the concept of ownership as a bundle of Rights and Responsibilities distributed among various stakeholders. The framework is centered on managing risks to resources rather than architecting the stewardship of a commons.
+
+**5. Design for Autonomy:**
+The pattern acknowledges the rise of AI in its 'Cognitive Era Considerations,' recognizing both the opportunities for advanced analytics and the new risks posed by autonomous systems. However, the core methodology remains a structured, human-centric process with significant coordination overhead. It is compatible with autonomous systems as objects of risk analysis but is not inherently designed to operate within a highly autonomous or decentralized environment.
+
+**6. Composability & Interoperability:**
+Risk Management is presented as a universal and foundational framework that can be customized and integrated across all functions and levels of an organization. This inherent flexibility and its design as a systematic process make it highly composable. It can be readily combined with other organizational patterns and methodologies to build more complex and robust systems.
+
+**7. Fractal Value Creation:**
+The principles and practices of risk management are scalable and can be applied at multiple levels, from individual projects to the entire enterprise and across different industries. The framework's logic of identifying, analyzing, and treating risks can be implemented fractally. However, its focus remains on risk mitigation rather than fractal value creation in the broader sense of the v2.0 framework.
+
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+Risk Management is a foundational pattern for ensuring stability and resilience, which are prerequisites for any value-creating system. Its principles of continuous improvement, adaptability, and stakeholder inclusivity provide a strong bridge to the v2.0 framework. However, it remains rooted in a legacy paradigm of protecting existing value within a hierarchical organization, rather than architecting the collective capability to create new, multi-faceted value. It has significant potential to be a key component of a Commons, but requires adaptation to a broader definition of stakeholders and value.
+
+**Opportunities for Improvement:**
+- Explicitly integrate non-human stakeholders (e.g., environment, AI) into the risk identification and evaluation process, defining their rights and the responsibilities of others toward them.
+- Expand the definition of 'risk' and 'opportunity' to include impacts on social, ecological, and knowledge capital, not just financial and operational objectives.
+- Develop modular, decentralized risk assessment protocols that are compatible with DAOs and other autonomous systems, reducing coordination overhead.
 
 
 ## 9. Resources & References

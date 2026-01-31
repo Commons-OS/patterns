@@ -15,7 +15,7 @@ tags:
   era: [industrial, digital, cognitive]
   origin: [frederick-winslow-taylor, arthur-d-little]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 2
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -110,8 +110,8 @@ Successfully implementing a consulting model, whether as a provider or a consume
 **Getting Started:**
 
 1.  **Define the Scope and Objectives:** The first step is to clearly define the scope and objectives of the consulting engagement. This should be a collaborative process between the client and the consultant.
-2.  **Select the Right Consultant:** It is crucial to select a consultant with the right expertise, experience, and cultural fit for the organization. The selection process should involve a thorough evaluation of proposals and interviews with potential candidates.
-3.  **Establish a Clear Contract:** A formal contract should be put in place that outlines the scope of work, deliverables, timeline, fees, and other important terms and conditions.
+2.  **Select the Right Consultant:** It is critical to select a consultant with the right expertise, experience, and cultural fit for the organization.
+3.  **Develop a Detailed Project Plan:** A detailed project plan should be developed that outlines the key activities, deliverables, timelines, and resources required.
 4.  **Kick-off the Project:** The project should begin with a formal kick-off meeting to introduce the consulting team, review the project plan, and align on expectations.
 5.  **Establish a Governance Structure:** A clear governance structure should be established to oversee the project, including regular progress meetings, a steering committee, and a process for resolving issues.
 
@@ -155,7 +155,7 @@ The impact of consulting can be seen in a wide range of documented outcomes, inc
 
 **Research Support:**
 
-The effectiveness of the consulting model is supported by a growing body of academic research. For example, a 2025 study by Bijnens and company, titled "What Does Consulting Do?", provides a comprehensive empirical study of management and strategy consulting, unveiling the workings of the industry and its impact on client firms. Another study published in the Project Management Institute's journal examines the challenges of managing external and internal consultants, providing insights into the factors that contribute to successful consulting engagements. These and other studies provide a solid evidence base for the value of the consulting model.
+The effectiveness of the consulting model is supported by a growing body of academic research. For example, a 2025 study by Bijnens and company, titled \"What Does Consulting Do?\", provides a comprehensive empirical study of management and strategy consulting, unveiling the workings of the industry and its impact on client firms. Another study published in the Project Management Institute's journal examines the challenges of managing external and internal consultants, providing insights into the factors that contribute to successful consulting engagements. These and other studies provide a solid evidence base for the value of the consulting model.
 
 ### 7. Cognitive Era Considerations
 
@@ -173,21 +173,48 @@ While AI and automation can automate many tasks, they are not a replacement for 
 
 The consulting model is likely to evolve in several ways in the cognitive era. We can expect to see the rise of new business models, such as AI-powered consulting platforms that provide on-demand access to expertise and insights. We will also see a shift in the skills that are required to be a successful consultant, with a greater emphasis on data science, AI literacy, and the ability to work effectively with technology. The traditional pyramid structure of consulting firms may also be disrupted, as AI automates many of the tasks that are currently performed by junior consultants. This could lead to a more agile and networked model, with smaller, more specialized teams of senior experts who are augmented by AI-powered tools.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Consulting Model, in its traditional form, presents a complex picture when viewed through the lens of commons principles. While it can be a powerful tool for knowledge sharing, its dominant commercial logic often prioritizes private value capture over creating a shared intellectual commons. The primary stakeholders are the client organization and the consulting firm, with employees and the broader community often overlooked. The model excels at creating private value for the client and economic value for the firm, but public or commons value is rarely a primary consideration. Knowledge generated is typically treated as private property, limiting its potential for reuse. Rights and responsibilities are clearly defined in contracts, but a more commons-aligned approach would emphasize shared ownership and co-creation. The model is systematic, but its methodologies are often proprietary. It is a modular system but is often implemented in a siloed manner. The benefits are often concentrated at the top of the organization. 
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**Overall Score: 3 (Transitional)**
+**1. Stakeholder Architecture:**
+The pattern's stakeholder architecture is narrowly defined by the commercial contract between the consulting firm and the client. Rights and Responsibilities are primarily centered on service delivery and payment, with little to no formal inclusion of broader stakeholders like employees, the community, or the environment. This bilateral focus limits its capacity to create multi-stakeholder value, as the system is optimized for the client's specific, often financial, objectives.
 
-The Consulting Model is transitional. It has the potential for positive change but is constrained by a commercial logic that prioritizes private value capture. A growing number of consultants are experimenting with more commons-aligned approaches, offering a glimpse of a more sustainable future for the industry.
+**2. Value Creation Capability:**
+The model is highly effective at creating economic and knowledge value for the client organization. However, its capability for *collective* value creation is limited, as the knowledge and solutions generated are typically proprietary and confined within the client-consultant relationship. It does not inherently foster social, ecological, or resilience value for the broader ecosystem unless specifically contracted to do so, which is an exception rather than the rule.
+
+**3. Resilience & Adaptability:**
+The consulting model enhances the resilience of the individual client by injecting external knowledge to help them adapt to change. However, it does little to build the resilience of the collective system or market. By creating proprietary solutions and knowledge silos, it can inadvertently make the broader ecosystem more fragile and dependent on a small number of expert firms.
+
+**4. Ownership Architecture:**
+Ownership is defined almost exclusively in monetary and intellectual property terms, where the client owns the deliverables and the consulting firm owns the underlying methodology. The concept of ownership as distributed Rights and Responsibilities among a wider set of stakeholders is absent. This architecture reinforces a model of knowledge extraction and privatization rather than stewardship of a shared knowledge commons.
+
+**5. Design for Autonomy:**
+The traditional model has high coordination overhead, requiring extensive project management and stakeholder engagement. While the rise of AI-powered consulting platforms shows potential for greater autonomy and lower coordination costs, the core human-centric model is not inherently designed for seamless integration with autonomous systems. It is a service, not a protocol, and relies heavily on high-bandwidth human communication.
+
+**6. Composability & Interoperability:**
+Consulting models are highly modular and can be combined with many other business patterns, but this is a form of commercial composability, not deep interoperability. Engagements are typically siloed, and the knowledge generated is not designed to be easily integrated into a larger, open ecosystem of value creation tools. The lack of open standards and proprietary frameworks limits true, permissionless composability.
+
+**7. Fractal Value Creation:**
+The value-creation logic of "expert-sells-knowledge-to-client" can be applied at multiple scales, from individual coaching to large corporate transformations. However, the *value capture* mechanism is also fractal, meaning that at every scale, value is privatized and extracted rather than circulated within a commons. This prevents the emergence of a resilient, multi-scale value creation ecosystem.
+
+**Overall Score: 2 (Partial Enabler)**
+
+**Rationale:**
+The Consulting Model is a powerful engine for creating private value for specific clients, but it fundamentally operates on a logic of knowledge privatization, not collective capability building. Its architecture creates dependencies and extracts value rather than enabling a resilient commons. While it can be adapted for positive outcomes, its core principles are misaligned with the goal of creating and sustaining collective value over time.
+
+**Opportunities for Improvement:**
+- Develop open-source consulting frameworks and methodologies that can be freely used and adapted, shifting the business model towards implementation support and capacity building.
+- Introduce multi-stakeholder governance models for consulting projects, where employees, community members, or ecological representatives have a formal role and voice in the process.
+- Create "knowledge commons" platforms where non-sensitive insights, case studies, and best practices from engagements are shared publicly to build collective intelligence in a given industry or domain.
 
 ### 9. Resources & References
 
 **Essential Reading:**
 
-*   **"The McKinsey Way" by Ethan M. Rasiel:** This book provides a behind-the-scenes look at the problem-solving techniques and management strategies of the world's most successful consulting firm.
-*   **"Good to Great: Why Some Companies Make the Leap... and Others Don't" by Jim Collins:** While not exclusively about consulting, this book is a classic on business strategy and a must-read for any aspiring consultant.
-*   **"The Trusted Advisor" by David H. Maister, Charles H. Green, and Robert M. Galford:** This book provides a practical guide to building trust and developing strong client relationships, which is at the heart of the consulting model.
+*   **\"The McKinsey Way\" by Ethan M. Rasiel:** This book provides a behind-the-scenes look at the problem-solving techniques and management strategies of the world's most successful consulting firm.
+*   **\"Good to Great: Why Some Companies Make the Leap... and Others Don't\" by Jim Collins:** While not exclusively about consulting, this book is a classic on business strategy and a must-read for any aspiring consultant.
+*   **\"The Trusted Advisor\" by David H. Maister, Charles H. Green, and Robert M. Galford:** This book provides a practical guide to building trust and developing strong client relationships, which is at the heart of the consulting model.
 
 **Organizations & Communities:**
 

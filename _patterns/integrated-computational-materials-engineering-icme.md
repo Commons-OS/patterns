@@ -260,57 +260,41 @@ The following table explores key considerations for ICME in the Cognitive Era:
     <td>Cognitive technologies are also used to capture and reuse knowledge generated during the ICME process. NLP can extract information from scientific literature, while knowledge graphs can represent and store complex relationships in materials science. This helps create an intelligent, accessible knowledge base to guide future research.</td>
   </tr>
 </table>
+### 8. Commons Alignment Assessment (v2.0)
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-# 8. Commons Alignment Assessment
+**1. Stakeholder Architecture:**
+ICME primarily focuses on a technical framework (PSPP) and does not explicitly define Rights and Responsibilities for a wide range of stakeholders. The implicit stakeholders are the engineers, designers, and organizations who use the methodology for commercial and industrial advantage. There is little to no mention of broader stakeholders like end-users, the environment, or future generations in its core architecture.
 
-The Commons Alignment Assessment evaluates how well ICME's principles and practices align with a commons-based approach. It considers seven dimensions of commons alignment, scoring each from 1 (low alignment) to 5 (high alignment). The overall score is the average of the dimension scores.
+**2. Value Creation Capability:**
+The pattern strongly enables value creation, but this is heavily weighted towards economic and performance value, such as cost savings, accelerated development, and improved material properties. While it can lead to positive ecological outcomes (e.g., lightweighting for fuel efficiency), these are often secondary benefits rather than primary design goals. It does, however, create significant knowledge value through its modeling and simulation capabilities.
 
-The assessment shows that while ICME has potential for strong commons alignment, particularly in collaboration and knowledge-sharing, its alignment is weaker in fairness, equity, and decentralized governance. The following table details the assessment for each dimension:
+**3. Resilience & Adaptability:**
+ICME inherently promotes resilience and adaptability by enabling a 
 
-<br>
+materials by design" approach. It allows systems to adapt to complexity through a predictive framework, reducing reliance on empirical trial-and-error. This allows for the creation of materials with specific performance characteristics, enhancing coherence and reliability under stress.
 
-<table header-row="true">
-  <tr>
-    <td>Dimension</td>
-    <td>Score</td>
-    <td>Justification</td>
-  </tr>
-  <tr>
-    <td>**1. Openness and Transparency**</td>
-    <td>3</td>
-    <td>ICME can be highly open and transparent, with many open-source tools and public datasets available. However, much of its development and application occurs in proprietary, closed-source environments, especially in the corporate and defense sectors, limiting its overall openness.</td>
-  </tr>
-  <tr>
-    <td>**2. Community and Collaboration**</td>
-    <td>4</td>
-    <td>ICME is an inherently collaborative field, bringing together experts from different disciplines. A strong community of researchers and practitioners shares knowledge through conferences, workshops, and online forums. The emphasis on cross-functional teams and data sharing fosters collaboration.</td>
-  </tr>
-  <tr>
-    <td>**3. Sustainability and Long-term Viability**</td>
-    <td>4</td>
-    <td>ICME is a sustainable and viable approach to materials innovation. By reducing physical experimentation and optimizing manufacturing processes, ICME can reduce waste, save energy, and minimize the environmental impact of materials production. Its long-term viability is supported by its growing adoption in industry and academia.</td>
-  </tr>
-  <tr>
-    <td>**4. Fairness and Equity**</td>
-    <td>2</td>
-    <td>The high cost of entry for ICME, in both software and expertise, can be a barrier for smaller organizations and developing countries. This can lead to an unequal distribution of benefits, with larger organizations having an advantage. More effort is needed to democratize access to ICME tools and knowledge.</td>
-  </tr>
-  <tr>
-    <td>**5. Decentralization and Autonomy**</td>
-    <td>3</td>
-    <td>ICME supports both centralized and decentralized innovation models. While some aspects, like the development of large-scale simulation platforms, may be centralized, its application can be highly decentralized, with individual engineers using ICME tools to solve specific problems. Cloud-based simulation platforms are enabling more decentralized, on-demand access to ICME.</td>
-  </tr>
-  <tr>
-    <td>**6. Purpose and Value Alignment**</td>
-    <td>3</td>
-    <td>ICME's purpose is primarily to accelerate innovation and improve industrial product performance. While this can have positive societal benefits, the primary driver is often commercial advantage. There is a need to align ICME's purpose with broader societal values like social equity and environmental justice.</td>
-  </tr>
-  <tr>
-    <td>**7. Governance and Stewardship**</td>
-    <td>2</td>
-    <td>ICME's governance is fragmented, with no single body responsible for standards, best practices, or ethical application. While professional societies and industry consortia play a role, a more coordinated and inclusive approach to stewardship is needed.</td>
-  </tr>
-</table>
+**4. Ownership Architecture:**
+The pattern does not address ownership architecture in a commons-oriented way. The outputs of ICME, such as models, data, and process knowledge, are typically treated as proprietary intellectual property by the organizations that fund their development. The framework itself does not propose an alternative ownership model based on shared Rights and Responsibilities.
+
+**5. Design for Autonomy:**
+ICME is highly compatible with autonomous systems, as detailed in its "Cognitive Era Considerations." The framework's modular, data-driven, and model-based nature makes it ideal for integration with AI/ML for accelerated modeling, materials informatics for data-driven discovery, and closed-loop autonomous systems for experimentation. Its structure supports low-coordination overhead once the necessary digital infrastructure is established.
+
+**6. Composability & Interoperability:**
+The pattern is designed for high composability and interoperability. Its core methodology involves integrating models at multiple scales (from atomic to macroscopic) and across different physics. It is also proven to be interoperable across various industries and can be combined with other patterns like Digital Twins and Smart Manufacturing to create more comprehensive value-creation systems.
+
+**7. Fractal Value Creation:**
+The fundamental logic of ICME, centered on the Process-Structure-Properties-Performance (PSPP) linkages, is inherently fractal. This causal relationship can be applied at the micro-scale of designing a new alloy's microstructure, and the same logic scales up to the macro-scale of designing a full-scale engineering system or product. The multiscale modeling at the heart of ICME is a direct embodiment of this fractal approach to value creation.
+
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+ICME is a powerful framework for value creation but is primarily focused on industrial and commercial applications. Its alignment with a commons-based approach is transitional because while it excels at knowledge creation, interoperability, and is adaptable to autonomous systems, it lacks explicit architectures for broad stakeholder inclusion, non-monetary value, and alternative ownership models.
+
+**Opportunities for Improvement:**
+- Develop explicit stakeholder models that include rights and responsibilities for not just engineers and corporations, but also for end-users, communities, and the environment.
+- Integrate non-economic value (e.g., circularity, social impact) as primary design criteria within the PSPP framework.
+- Explore and promote open-source models and data commons to democratize access to ICME and foster a more equitable innovation ecosystem.
 
 # 9. Resources & References
 

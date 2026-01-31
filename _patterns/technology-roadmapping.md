@@ -127,21 +127,40 @@ The Cognitive Era, marked by the rise of AI and cognitive technologies, presents
 
 **Human-Machine Partnership:** As AI becomes more capable, the nature of work is changing. Roadmaps must consider the implications of this new human-machine partnership, including plans for reskilling and upskilling the workforce to work effectively with AI-powered systems.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-Technology roadmapping can be assessed for its alignment with commons-based principles. This assessment considers how the practice contributes to shared resources, collaborative innovation, and equitable access to knowledge and technology.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Assessment | Rationale |
-| :--- | :--- | :--- |
-| **Openness & Transparency** | Moderate | The roadmapping process can be highly transparent in industry-wide initiatives, but in a corporate context, roadmaps are often proprietary, limiting openness. The methodology itself is open. |
-| **Decentralization & Federation** | High | The process is inherently decentralized and federated, relying on input from a wide range of stakeholders rather than being a top-down, centralized process. |
-| **Collaboration & Reciprocity** | High | The process is fundamentally collaborative, bringing together diverse stakeholders to share knowledge and build consensus. |
-| **Community & Culture** | Moderate | It can foster a strong sense of community and a culture of collaboration, particularly in long-term, industry-wide initiatives. |
-| **Modularity & Granularity** | High | Roadmaps are highly modular, allowing for the decomposition of complex strategies into smaller, manageable components, which facilitates flexibility and adaptation. |
-| **Interoperability & Standardization** | High | The process promotes interoperability and standardization, both in its creation and in the technologies developed as a result. |
-| **Sustainability & Resilience** | Moderate | By providing a long-range view, roadmapping can contribute to organizational or industrial sustainability and resilience, though the focus is typically on economic and technological aspects. |
+**1. Stakeholder Architecture:**
+Technology Roadmapping emphasizes a collaborative process involving diverse internal stakeholders such as R&D, marketing, manufacturing, and executive leadership. However, its definition of Rights and Responsibilities is typically confined to a corporate hierarchy, aimed at achieving business objectives. The framework does not inherently extend these considerations to broader stakeholders like the environment, future generations, or the wider community unless explicitly designed to do so in a specific application context, such as an industry-wide consortium.
 
-Overall, technology roadmapping has a **moderate to high** alignment with commons-based principles. Its strengths are its collaborative, decentralized, and modular nature. To enhance its commons alignment, organizations can increase the transparency of their roadmapping processes and share their roadmaps more openly, especially for pre-competitive or societally impactful technologies.
+**2. Value Creation Capability:**
+The pattern is primarily designed to create economic value by aligning technology investments with strategic business goals for competitive advantage. While it facilitates the creation of knowledge value through cross-functional collaboration and strategic planning, its focus on social and ecological value is not intrinsic. The capability for broader value creation depends entirely on the strategic goals set by the organization implementing the roadmap.
+
+**3. Resilience & Adaptability:**
+A core principle of Technology Roadmapping is its dynamic and iterative nature, designed to help organizations navigate and adapt to technological change. By providing a long-range, yet flexible, view, it allows for continuous monitoring and adjustment in response to market shifts and emerging opportunities. This inherently builds organizational resilience and maintains coherence in complex and uncertain environments.
+
+**4. Ownership Architecture:**
+Ownership within this pattern is understood in a conventional corporate sense, focusing on the allocation of resources and the intellectual property resulting from technology development. It frames ownership around strategic control and financial returns rather than a broader architecture of Rights and Responsibilities. The concept of stewardship or shared ownership of the created value is not a central feature.
+
+**5. Design for Autonomy:**
+The roadmapping process itself is often centrally coordinated and can require significant overhead to manage stakeholder input and maintain strategic alignment. However, the resulting roadmap can effectively guide the actions of distributed or autonomous teams by providing clear strategic context and objectives. While not natively designed for DAOs, its structured yet flexible nature could be adapted for use in decentralized systems with the right governance tools.
+
+**6. Composability & Interoperability:**
+Technology Roadmapping is highly composable and interoperable with other strategic planning and management patterns. It can be integrated with frameworks for project management, innovation management, and corporate strategy. Its successful application at an industry-wide level, such as in the semiconductor industry, demonstrates its ability to create interoperable standards and align independent actors toward a common technological trajectory.
+
+**7. Fractal Value Creation:**
+The logic of Technology Roadmapping is inherently fractal, as it can be effectively applied at multiple scales. The process can be used for a single project, a product line, a business unit, an entire corporation, or even a whole industry. This scalability allows the fundamental value-creation logic—aligning development with strategic goals over time—to be replicated and adapted across different levels of an economic system.
+
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+Technology Roadmapping is a powerful strategic planning tool with significant potential to enable collective value creation, but it requires adaptation to fully align with the v2.0 framework. Its strengths lie in its dynamic, collaborative, and scalable nature, which fosters resilience and interoperability. However, its default focus is on corporate, economic value, and it lacks a built-in architecture for broader stakeholder inclusion or a commons-based view of ownership. It is a transitional pattern that can be a bridge from legacy systems to a value creation architecture if its goals are explicitly oriented toward commons-building.
+
+**Opportunities for Improvement:**
+- Integrate a multi-stakeholder model that explicitly includes community, environmental, and future-generation representatives in the roadmapping process.
+- Expand the definition of value in the strategic objectives to include social, ecological, and knowledge-based metrics alongside economic ones.
+- Adapt the governance structure for use in decentralized or federated networks, using the roadmap as a tool for coordinating autonomous actors toward a shared mission.
 
 ## 9. Resources & References
 

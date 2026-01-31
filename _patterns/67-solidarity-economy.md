@@ -15,7 +15,7 @@ tags:
   era: [cognitive]
   origin: ["latin-american-social-movements"]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg502401ejststry286zez84", "pat_01kg502401ejststry1gj0yvhy", "pat_01kg5023zzecsb265d0n6cvkxr"]
@@ -155,27 +155,40 @@ The goal of automation is to augment human capabilities, not replace them. The f
 *   **Data Commons**: New models of data governance that treat data as a shared resource.
 *   **Decentralized Autonomous Organizations (DAOs)**: Blockchain-based organizations could provide a new institutional form, but must remain true to the framework's core principles.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Solidarity Economy is a powerful framework for building economic systems aligned with commons principles.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**1. Stakeholder Mapping**: Inherently multi-stakeholder, including workers, consumers, producers, and the community. The challenge is to ensure all stakeholders have a meaningful voice.
+**1. Stakeholder Architecture:**
+The Solidarity Economy inherently defines a multi-stakeholder architecture that includes workers, consumers, producers, and the broader community. Rights and responsibilities are distributed through democratic and participatory governance structures, where stakeholders have a direct voice in decisions. This approach moves beyond a human-centric view to implicitly include the environment as a key stakeholder, as sustainability is a core principle.
 
-**2. Value Creation**: Excels at creating social, cultural, and ecological value, with benefits shared and circulated within the community.
+**2. Value Creation Capability:**
+This pattern excels at enabling collective value creation that extends far beyond monetary profit. It explicitly prioritizes social and ecological well-being, fostering the creation of knowledge commons, strengthening social cohesion, and building community resilience. By focusing on mutualism and cooperation, it creates a system where value is circulated and shared, rather than extracted.
 
-**3. Value Preservation**: Promotes long-term value preservation through sustainability, community embeddedness, and democratic governance.
+**3. Resilience & Adaptability:**
+The framework is designed to enhance resilience by fostering diverse, locally-rooted economic activities and strengthening community ties through mutual aid. Its emphasis on adaptability and innovation as success factors shows an inherent capacity to respond to change. By decentralizing economic power, it reduces systemic fragility and allows communities to better withstand economic shocks and stresses.
 
-**4. Shared Rights & Responsibilities**: Democratic governance means rights and responsibilities are shared among participants.
+**4. Ownership Architecture:**
+The Solidarity Economy redefines ownership as a set of rights and responsibilities shared among stakeholders, rather than just monetary equity. Practices like cooperatives, where members are co-owners, and Community Land Trusts, which separate the ownership of land from the ownership of buildings, exemplify this principle. This architecture ensures that assets are stewarded for the long-term benefit of the community.
 
-**5. Systematic Design**: Enabled by cooperative legal structures, community-based financing, and participatory governance models. A coherent ecosystem is still developing.
+**5. Design for Autonomy:**
+The pattern's principles of decentralization and democratic governance make it highly compatible with autonomous systems like DAOs and platform cooperatives. Its emphasis on local, grassroots initiatives promotes a low-coordination-overhead environment at the community level. This design allows for the emergence of complex economic networks without requiring centralized control.
 
-**6. Systems of Systems**: A meta-pattern compatible with other commons-oriented patterns, promoting networks and federations.
+**6. Composability & Interoperability:**
+As a meta-pattern, the Solidarity Economy is highly composable and interoperable. It acts as a framework that connects and strengthens various other economic alternatives, from Fair Trade networks to Commons-Based Peer Production. This allows for the creation of larger, integrated value-creation systems by combining different patterns and practices.
 
-**7. Fractal Properties**: Core principles are fractal and can be applied at all scales.
+**7. Fractal Value Creation:**
+The pattern's core principles are explicitly fractal, meaning the logic of cooperation, democratic governance, and sustainability can be applied at multiple scales. This is demonstrated by its application from small, local mutual aid networks to large-scale federations like the Mondragon Corporation. This scalability allows the value-creation logic to replicate and adapt across different contexts and levels of complexity.
 
-**Overall Score: 3/5 (Transitional)**
+**Overall Score: 4 (Value Creation Enabler)**
 
-The Solidarity Economy is a powerful framework for a more just, democratic, and sustainable economy, but it is still in a transitional phase. The score reflects its transformative potential and the significant obstacles that remain.
+**Rationale:**
+The Solidarity Economy is a powerful enabler of resilient collective value creation, deeply aligning with all seven pillars of the v2.0 framework. It provides a robust ethical and practical foundation for building economic systems that prioritize people and the planet. The score of 4 reflects that while it is a powerful enabler, it is a broad framework rather than a single, complete, and universally applicable architecture.
+
+**Opportunities for Improvement:**
+- Develop clearer models for integrating AI and DAOs in a way that reinforces, rather than undermines, the core principles of solidarity and democratic governance.
+- Create more robust legal and financial instruments tailored to the needs of solidarity-based enterprises to help them scale and interoperate more effectively.
+- Strengthen the framework's explicit inclusion of non-human stakeholders, such as the environment and future generations, in its governance models.
 
 ### 9. Resources & References
 

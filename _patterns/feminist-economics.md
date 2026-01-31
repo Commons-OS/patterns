@@ -15,7 +15,7 @@ tags:
   era: [cognitive]
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 5
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -115,23 +115,40 @@ The cognitive era, characterized by the rise of artificial intelligence (AI), au
 
 **Data and Privacy:** In the cognitive era, data is a valuable resource. However, there are concerns that the collection and use of data could infringe on the privacy of individuals, particularly women and other marginalized groups. To address this issue, it is important to develop strong data protection regulations, and to ensure that individuals have control over their own data.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-Feminist economics demonstrates a strong alignment with the principles of the commons. By challenging the individualistic and competitive ethos of mainstream economics, and by emphasizing the importance of cooperation, care, and collective well-being, feminist economics provides a framework for building a more just, equitable, and sustainable economic system.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**1. Openness & Transparency:** Feminist economics promotes openness and transparency by calling for the collection and dissemination of gender-disaggregated data. This data makes the invisible work of women visible and allows for a more accurate and complete understanding of the economy. By shedding light on the gendered impacts of economic policies, feminist economics enhances accountability and empowers citizens to participate in economic decision-making.
+**1. Stakeholder Architecture:**
+Feminist economics expands the definition of stakeholders beyond the traditional economic actor to explicitly include those performing unpaid care work, who are disproportionately women. It defines a responsibility for the whole system to value this work. While its primary focus is on gender, it extends its analysis to power dynamics based on race, class, and other social categories, creating a more inclusive stakeholder architecture.
 
-**2. Decentralization & Federation:** Feminist economics is consistent with the principles of decentralization and federation. By challenging the concentration of power in the hands of a few, and by promoting participatory approaches to economic governance, feminist economics seeks to create a more democratic and decentralized economic system. It also recognizes the importance of local knowledge and context, and it supports the development of community-based economic initiatives.
+**2. Value Creation Capability:**
+The pattern fundamentally challenges narrow, market-based definitions of value by championing the inclusion of unpaid care work, social provisioning, and overall human well-being. It explicitly enables the creation of social, ecological, and knowledge value, arguing that these are essential for a functioning economy, not just secondary benefits. This shift from pure economic output to holistic well-being is a core tenet of its value creation logic.
 
-**3. Community & Collaboration:** Community and collaboration are at the heart of feminist economics. It recognizes that individuals are embedded in social relationships and that economic well-being is dependent on the strength of communities. Feminist economics promotes a collaborative and cooperative approach to economic life, and it values the role of collective action in achieving social and economic goals.
+**3. Resilience & Adaptability:**
+By emphasizing interdependence, cooperation, and a pluralistic, contextual methodology, the pattern inherently builds resilience and adaptability. It helps systems maintain coherence under stress by focusing on the foundational care economy that supports all other economic activity. Its critique of rigid, universalist economic models promotes an adaptive approach that is sensitive to local and historical context.
 
-**4. Stewardship & Sustainability:** Feminist economics is closely aligned with the principles of stewardship and sustainability. It recognizes that the economy is embedded in the natural environment and that economic activity must be environmentally sustainable. It also emphasizes the importance of intergenerational equity, and it seeks to ensure that future generations have the resources they need to thrive.
+**4. Ownership Architecture:**
+Feminist economics redefines ownership by decoupling it from purely monetary contributions. By advocating for the valuation of unpaid work and promoting women's access to assets and resources, it establishes an architecture where rights and responsibilities are based on contributions to collective well-being. This challenges the traditional view of ownership as being solely derived from capital investment.
 
-**5. Equity & Inclusion:** Equity and inclusion are core principles of feminist economics. It seeks to create an economic system that is fair and just for all, regardless of gender, race, class, or other social categories. Feminist economics pays close attention to the needs of marginalized and disadvantaged groups, and it advocates for policies that promote a more equitable distribution of resources and opportunities.
+**5. Design for Autonomy:**
+The pattern's principles of decentralization and participatory governance are highly compatible with autonomous systems like DAOs and AI. The 'Cognitive Era Considerations' section directly engages with the challenges and opportunities of AI, such as algorithmic bias and the future of work. Its focus on empowering marginalized groups and distributing power aligns with the design principles of distributed, autonomous systems.
 
-**6. Pluralism & Diversity:** Feminist economics embraces pluralism and diversity in both theory and practice. It recognizes that there is no single, universally applicable model of economic development, and it values a diversity of approaches to economic analysis and policy. Feminist economics also celebrates the diversity of human experience, and it seeks to create an economic system that is inclusive of all people.
+**6. Composability & Interoperability:**
+As a school of thought, Feminist Economics is highly composable, designed to be integrated with and transform other economic domains like public finance, labor economics, and environmental policy. Practices like Gender-Responsive Budgeting (GRB) are interoperable tools that can be applied to nearly any organizational or governmental pattern to assess and improve its alignment with equitable value creation.
 
-**7. Resilience & Adaptation:** By promoting diversity, decentralization, and community-based economic development, feminist economics can help to enhance the resilience and adaptability of economic systems. It recognizes that the world is constantly changing, and it seeks to create an economic system that is able to respond to new challenges and opportunities. By empowering individuals and communities to shape their own economic futures, feminist economics can help to build a more resilient and adaptable world.
+**7. Fractal Value Creation:**
+The pattern's value-creation logic is deeply fractal, applying across multiple scales. It analyzes power and value dynamics from the micro-level of intra-household bargaining to the meso-level of community and labor markets, and up to the macro-level of national budgets and global development policy. The core principle of valuing care and well-being as foundational to the economy can be implemented at every level of a system.
+
+**Overall Score: 5 (Value Creation Architecture)**
+
+**Rationale:**
+Feminist Economics provides a complete, alternative architecture for resilient and collective value creation. It fundamentally redefines value, expands the stakeholder model, and provides a scalable, adaptable framework for building more equitable economic systems. It doesn't just enable value creation; it redefines the very foundation upon which economic value is understood and generated.
+
+**Opportunities for Improvement:**
+- Explicitly define rights and responsibilities for non-human stakeholders, such as the environment and AI agents, building on its existing links to environmental economics.
+- Develop more formal models for 'composing' its principles with other economic patterns to create integrated, multi-pattern systems.
+- Further explore how its principles can be embedded programmatically into the governance and incentive structures of DAOs and other autonomous organizations.
 
 ## 9. Resources & References
 

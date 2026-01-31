@@ -15,7 +15,7 @@ tags:
   era: [industrial, digital]
   origin: [toyota]
   status: draft
-  commons_alignment: 2
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -103,27 +103,40 @@ In the cognitive era, characterized by the rise of artificial intelligence and a
 
 - **Evolution Outlook**: In the future, we can expect to see Jidoka systems that are even more integrated, intelligent, and autonomous. The rise of the Internet of Things (IoT) will allow for the creation of fully connected production systems, where machines can communicate with each other and make decisions in real-time. AI will continue to play a larger role in all aspects of the Jidoka process, from defect detection to root cause analysis. However, the human element will remain essential. The ability to think critically, solve complex problems, and adapt to changing circumstances will be more important than ever.
 
-### 8. Commons Alignment Assessment (600-800 words)
+### 8. Commons Alignment Assessment (v2.0)
 
-This assessment evaluates the Jidoka pattern against the seven dimensions of commons alignment, providing an overall score and rationale.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-1.  **Stakeholder Mapping**: Jidoka directly impacts a wide range of stakeholders within an organization. **Operators** are at the center of the Jidoka system, as they are empowered to stop the production line and participate in problem-solving. **Supervisors and managers** play a crucial role in supporting the system and facilitating the problem-solving process. **Engineers and maintenance staff** are responsible for designing and maintaining the automated systems that support Jidoka. **Customers** are the ultimate beneficiaries of Jidoka, as they receive higher quality products. While Jidoka is comprehensive in its internal stakeholder engagement, it has a more limited view of external stakeholders beyond the customer. The community and the environment, for example, are not explicitly considered in the traditional application of Jidoka.
+**1. Stakeholder Architecture:**
+Jidoka defines clear Rights and Responsibilities for internal stakeholders, empowering operators with the Right to halt production and the Responsibility to flag issues, while management holds the Responsibility for root cause analysis. This architecture primarily serves the organization and its customers by improving quality. However, it has a limited view of broader stakeholders like the environment or future generations, whose Rights and Responsibilities are not explicitly integrated into the process.
 
-2.  **Value Creation**: Jidoka creates value in several ways. The most obvious is the **improvement of product quality**, which leads to increased customer satisfaction and loyalty. Jidoka also creates value by **increasing productivity** and **reducing waste**. By catching defects early and preventing their proliferation, Jidoka minimizes the need for rework and scrap. Furthermore, Jidoka creates value by **empowering employees** and fostering a culture of continuous improvement. This leads to a more engaged and motivated workforce. The primary beneficiaries of this value creation are the organization and its customers. While employees benefit from a more empowering work environment, the financial gains from increased productivity and quality primarily accrue to the shareholders.
+**2. Value Creation Capability:**
+The pattern strongly enables collective value creation beyond immediate economic output. By focusing on building quality into the process, it generates significant knowledge value through continuous root cause analysis and problem-solving. It also creates social value by empowering employees and improving working conditions. While waste reduction has positive ecological side-effects, the value creation is primarily focused on the production system itself.
 
-3.  **Value Preservation**: Jidoka is a highly adaptive and resilient pattern that has remained relevant for over a century. Its focus on continuous improvement and root cause analysis ensures that the organization is constantly learning and evolving. By building quality into the process, Jidoka helps to create products and services that meet the changing needs of customers. The principles of Jidoka are also highly transferable and can be applied in a wide range of industries and contexts. This flexibility and adaptability are key to its long-term value preservation.
+**3. Resilience & Adaptability:**
+Jidoka is a powerful engine for building resilience and adaptability. By immediately stopping the line to address abnormalities, it helps the system maintain coherence under stress and prevents the propagation of failures. The relentless focus on investigating and eradicating root causes allows the system to learn, adapt, and evolve in response to new challenges, making it thrive on change.
 
-4.  **Shared Rights & Responsibilities**: Jidoka is a significant step forward from traditional command-and-control management systems in its distribution of rights and responsibilities. The empowerment of operators to stop the production line is a radical departure from the top-down approach to quality control. This distribution of responsibility fosters a sense of ownership and engagement among employees. However, the ultimate authority and decision-making power still reside with management. While operators can stop the line, they do not have the authority to make major changes to the production process without the approval of their superiors.
+**4. Ownership Architecture:**
+The pattern defines ownership as distributed stewardship over quality, where operators have a direct stake in the integrity of the production process. This extends beyond monetary equity by defining ownership through the Rights and Responsibilities to maintain system health. However, this ownership is operational and does not extend to governance or strategic decision-making, which remain centralized.
 
-5.  **Systematic Design**: Jidoka is a highly systematic pattern that is enabled by a variety of interconnected systems and processes. **Andon systems** provide a visual and audible signal when a problem occurs. **Poka-yoke** devices prevent errors from happening in the first place. **Standardized work** ensures that everyone is following the same process. The **5 Whys** provide a structured approach to root cause analysis. These systems and processes work together to create a robust and effective quality control system.
+**5. Design for Autonomy:**
+Jidoka is exceptionally well-suited for a future of autonomous systems, AI, and DAOs. The core concept of "autonomation" (automation with a human touch) is a direct precursor to modern intelligent automation, where machines are designed to be self-monitoring and self-correcting. Its low coordination overhead and clear signaling protocols (like Andon) make it highly compatible with distributed and autonomous operational frameworks.
 
-6.  **Systems of Systems**: Jidoka is a key component of the Toyota Production System (TPS) and is designed to work in conjunction with other patterns, such as **Just-in-Time (JIT)** and **Kaizen**. Jidoka ensures that the production process is stable and capable of producing high-quality products, which is a prerequisite for the successful implementation of JIT. Jidoka also provides the data and insights needed to drive the continuous improvement process of Kaizen. This integration with other patterns creates a powerful and synergistic system that is greater than the sum of its parts.
+**6. Composability & Interoperability:**
+Jidoka is highly composable and designed for interoperability, most notably within the Toyota Production System where it integrates seamlessly with patterns like Just-in-Time (JIT) and Kaizen. It provides the stable, high-quality foundation upon which other lean patterns can be built. Its principles can be combined with various quality control and process improvement methodologies to create larger, more complex value-creation systems.
 
-7.  **Fractal Properties**: The principles of Jidoka are highly fractal and can be applied at all levels of an organization. An **individual** can apply the principles of Jidoka to their own work by stopping and fixing problems as they occur. A **team** can use Jidoka to improve the quality of their collective output. A **department** can use Jidoka to improve the efficiency and effectiveness of its processes. An **organization** can adopt Jidoka as a core part of its culture. This fractal nature of Jidoka is one of its greatest strengths, as it allows for a consistent and coherent approach to quality improvement across the entire organization.
+**7. Fractal Value Creation:**
+The value-creation logic of Jidoka is inherently fractal. The core loop of "detect abnormality, stop, fix, investigate root cause" can be applied at the scale of an individual worker, a team, a department, an entire organization, and even across a supply chain network. This allows the pattern for resilient value creation to be replicated and scaled, creating a coherent quality culture across multiple levels of a system.
 
-**Overall Score: 2 - Conventional**
+**Overall Score: 4 (Value Creation Enabler)**
 
-Jidoka receives a score of 2 (Conventional) on the commons alignment scale. While it represents a significant improvement over traditional, extractive management practices, it falls short of being a truly commons-aligned pattern. The primary focus of Jidoka is on creating value for the organization and its customers, with limited consideration for other stakeholders, such as the community and the environment. While it empowers employees, the ultimate power and authority still reside with management. To become more commons-aligned, Jidoka would need to broaden its stakeholder map to include a wider range of actors and adopt a more democratic and distributed model of governance.
+**Rationale:**
+Jidoka is a powerful Value Creation Enabler that provides a robust architecture for creating resilient and adaptive production systems. It excels at building collective capability for quality and continuous improvement. It scores a 4 because while it is a foundational pattern for resilient value creation, its stakeholder architecture is primarily focused on the firm and its customers, lacking a broader commons orientation that explicitly includes ecological or community stakeholders in its governance and value distribution.
+
+**Opportunities for Improvement:**
+- Explicitly integrate environmental and community stakeholders into the "stop and fix" process, considering impacts beyond the factory walls.
+- Evolve the Ownership Architecture to give operators a stake in the governance and economic upside of the improvements they help create.
+- Combine Jidoka with patterns for open data and transparent reporting to share the knowledge and value created with a wider commons.
 ### 9. Resources & References (200-400 words)
 
 #### Essential Reading

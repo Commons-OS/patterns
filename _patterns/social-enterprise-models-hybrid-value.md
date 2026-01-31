@@ -15,7 +15,7 @@ tags:
   era: digital
   origin: [academic, social-sector]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: ["pat_01kg5023wdeh98phj10nzxp70t"]
 specializes_to: []
@@ -95,49 +95,37 @@ The origin of this pattern is not tied to a single individual or moment but rath
 
 **Evolution Outlook**: The Hybrid Value Model is poised to become more data-driven and networked. We can expect the rise of "smart" social enterprises that leverage real-time data, blockchain for transparency, and AI-powered platforms to foster a more collaborative and effective ecosystem for social change.
 
-### 8. Commons Alignment Assessment (600-800 words)
+### 8. Commons Alignment Assessment (v2.0)
 
-1.  **Stakeholder Mapping**: Hybrid social enterprises inherently expand the definition of stakeholders beyond just shareholders to include employees, customers, beneficiaries, and the community. The comprehensiveness of this mapping, however, can vary significantly. Some models, like the "Beneficiary as Customer" model, directly integrate the end-user into the value chain, creating a tight feedback loop. Others, like the cross-subsidization model, can create a separation between the customer who funds the operation and the beneficiary who receives the service. The most commons-aligned hybrid models are those that actively engage all stakeholders in governance and decision-making, moving beyond a passive, consultative role.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-2.  **Value Creation**: The pattern is explicitly designed to create both economic and social value. The types of value created are diverse, ranging from financial returns for investors to improved livelihoods for beneficiaries, and positive externalities for the community and the environment. The distribution of this value is a key determinant of its commons alignment. In more extractive models, a significant portion of the financial value may be captured by founders and investors, while the social value is delivered to a separate group. In more generative models, the value is more equitably distributed among all stakeholders, with profits being reinvested into the mission and the community.
+**1. Stakeholder Architecture:**
+The pattern explicitly expands the definition of stakeholders beyond shareholders to include employees, customers, beneficiaries, and the community. However, the distribution of rights and responsibilities can be uneven. While it promotes inclusivity, it doesn't inherently prescribe a formal governance structure for collective decision-making, which can lead to a power imbalance between the commercial and social arms of the enterprise.
 
-3.  **Value Preservation**: The relevance and value of a social enterprise are maintained over time through its ability to adapt to changing market and social conditions. The financial sustainability of the hybrid model provides a degree of resilience that is often lacking in purely grant-funded organizations. However, there is also the risk of "mission drift," where the pursuit of financial sustainability can lead to a dilution of the social mission over time. The most resilient and commons-aligned models have strong governance structures and a deeply embedded culture that protects the mission and ensures its long-term relevance.
+**2. Value Creation Capability:**
+This model is a strong enabler of collective value creation, moving beyond purely economic metrics. It is designed to generate social and ecological value alongside financial returns. By linking commercial activities to a social mission, it creates a sustainable engine for producing diverse forms of value, such as workforce integration, community development, and environmental stewardship.
 
-4.  **Shared Rights & Responsibilities**: The distribution of rights and responsibilities in a hybrid social enterprise is a complex issue. In many cases, the legal ownership and control of the organization still reside with a small group of founders or investors. However, more innovative models are experimenting with distributed ownership structures, such as cooperatives where the employees or beneficiaries are also the owners. The degree to which the rights to use, benefit from, and govern the enterprise are shared among all stakeholders is a key indicator of its commons alignment.
+**3. Resilience & Adaptability:**
+The hybrid nature of this model provides a degree of resilience. Financial self-sufficiency reduces dependence on volatile grant funding, allowing for more long-term planning and adaptation. However, it can also introduce fragility if the commercial venture fails or if market pressures force a drift away from the core social mission.
 
-5.  **Systematic Design**: Hybrid social enterprises are, by definition, systematically designed to achieve their dual objectives. They have clear processes for both their business operations and their social impact activities. The level of integration between these two can vary. In some cases, the business and social activities are quite separate, while in others they are deeply intertwined. The most effective and commons-aligned models are those where the social mission is embedded into every aspect of the business, from product design to supply chain management.
+**4. Ownership Architecture:**
+The pattern begins to decouple ownership from purely financial equity by emphasizing a mission-driven approach. However, it does not fundamentally redefine ownership in terms of rights and responsibilities. The legal structure of the enterprise often still defaults to traditional for-profit or non-profit forms, which can limit the potential for more innovative, stewardship-based ownership models.
 
-6.  **Systems of Systems**: Hybrid social enterprises do not operate in a vacuum. They are part of a larger ecosystem of organizations, including other non-profits, for-profits, government agencies, and community groups. The most impactful social enterprises are those that actively collaborate with other organizations to create systemic change. They understand that their individual impact is magnified when they work in concert with others to address the root causes of social problems.
+**5. Design for Autonomy:**
+Hybrid enterprise models are highly compatible with distributed systems and can be enhanced by AI and automation. For example, AI can optimize supply chains, personalize services, and improve impact measurement. The model's emphasis on clear roles and responsibilities can reduce coordination overhead, making it suitable for decentralized networks of social enterprises.
 
-7.  **Fractal Properties**: The principles of the hybrid value model can be applied at multiple scales. An individual can launch a small-scale social enterprise, a department within a larger organization can operate as a hybrid unit, and an entire organization can be built on a hybrid model. The core principles of mission-driven commerce, integrated value creation, and stakeholder inclusivity are scalable and can be adapted to different contexts.
+**6. Composability & Interoperability:**
+This pattern is highly composable and can be combined with other patterns to create more complex value-creation systems. For example, it can be integrated with platform cooperatives, open-source technologies, or community land trusts to enhance its social impact and create a more robust and resilient ecosystem.
 
-**Overall Score**: 3/5 (Transitional)
+**7. Fractal Value Creation:**
+The core logic of blending social and commercial value can be applied at multiple scales. It can be implemented by a single entrepreneur, a department within a larger organization, or a network of collaborating enterprises. This fractal nature allows the pattern to be adapted to different contexts and to scale its impact from the local to the global level.
 
-**Rationale**: The Hybrid Value Model is a significant step away from the extractive logic of traditional capitalism, and it has the potential to be a powerful engine for social and environmental good. However, the pattern as it is commonly practiced today is still in a transitional phase. While it expands the definition of value and stakeholders, it often retains a centralized ownership and governance structure. There is a real risk of "social washing" or "mission drift" if the commercial logic is allowed to dominate the social mission. To become more fully commons-aligned, the pattern needs to evolve towards more distributed ownership and governance models, greater transparency and accountability in impact measurement, and a deeper commitment to systemic change in collaboration with other actors in the ecosystem.
+**Overall Score: 4 (Value Creation Enabler)**
 
-### 9. Resources & References (200-400 words)
+**Rationale:**
+The Hybrid Value Model is a significant step towards a commons-based economy. It strongly enables the creation of collective value by integrating social and commercial logics. However, it falls short of a complete value creation architecture because it does not inherently redefine ownership or guarantee a fully equitable distribution of rights and responsibilities among all stakeholders.
 
-**Essential Reading**: Essential readings include "A Taxonomy of Hybrid Value Logics" by Jakob and Sundermeier for a theoretical understanding, "Cannibals with Forks" by John Elkington for the foundational concept of the triple bottom line, and "Creating a World Without Poverty" by Muhammad Yunus for an inspiring account of social business in action.
-
-**Organizations & Communities**: Key organizations and communities in the social enterprise space include Ashoka, the Schwab Foundation for Social Entrepreneurship, and B Lab.
-
-**Tools & Platforms**: Useful tools and platforms for social enterprises include the Impact Reporting and Investment Standards (IRIS+) for impact measurement and Social Value International for SROI analysis.
-
-- **References**:
-    - [1] Jakob, E. A., & Sundermeier, J. (2025). A Taxonomy of Hybrid Value Logics—How Social Enterprises Combine Institutional Logics Differently. *Business & Society*.
-    - [2] Schwab Foundation for Social Entrepreneurship. (n.d.). Retrieved from https://www.schwabfound.org/
-    - [3] Dragonfly Collective. (2020). The 16 social enterprise business model types. Retrieved from https://dragonflycollective.com.au/16-social-enterprise-business-model-types/
-    - [4] Giving Compass. (n.d.). A Look Inside Six Types of Social Enterprises. Retrieved from https://givingcompass.org/article/a-look-inside-the-6-types-of-social-enterprises
-    - [5] Eldar, O. (2017). The Role of Social Enterprise and Hybrid Organizations. *Duke Law School Faculty Scholarship*.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/social-enterprise-models-hybrid-value/](https://commons-os.github.io/patterns/domain/social-enterprise-models-hybrid-value/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/social-enterprise-models-hybrid-value.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/social-enterprise-models-hybrid-value.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
+**Opportunities for Improvement:**
+- Integrate formal governance structures that give all stakeholders a voice in decision-making.
+- Explore innovative ownership models, such as steward-ownership or multi-stakeholder cooperatives, to better align the enterprise with its mission.
+- Develop more robust metrics for measuring and managing the co-creation of social, ecological, and economic value.

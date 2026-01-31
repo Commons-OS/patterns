@@ -15,7 +15,7 @@ tags:
   era: [cognitive]
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -119,38 +119,37 @@ One of the main challenges is the potential for these technologies to accelerate
 
 On the other hand, the technologies of the Cognitive Era also offer powerful tools for building a steady-state economy. For example, AI and big data can be used to create more sophisticated models of the economy and the environment, which can help us to better understand the complex interactions between the two. The Internet of Things can be used to create a more efficient and responsive energy system, and to track the flow of materials through the economy. These technologies can also be used to create new forms of collaborative consumption and production, which can help to reduce our overall material footprint.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Steady-State Economy model has a strong alignment with the principles of the commons. It seeks to create an economic system that is both sustainable and equitable, and that recognizes the importance of shared resources and collective well-being. The following is an assessment of the alignment of the Steady-State Economy with the seven dimensions of the commons.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-### Shared Resources (Score: 5/5)
+**1. Stakeholder Architecture:**
+The pattern establishes a strong stakeholder architecture by prioritizing the rights of future generations and the environment, defining responsibilities to stay within ecological limits. It explicitly addresses equitable distribution of resources among the current human population, making social cohesion a primary concern. While it doesn't natively define roles for autonomous machines, its framework of clear, systemic limits creates a predictable environment in which they could operate.
 
-The Steady-State Economy is fundamentally about the management of shared resources. It recognizes that the Earth's natural resources are a common heritage of all humanity and that they must be managed in a way that is both sustainable and just. The principle of sustainable scale is a direct expression of this, as it seeks to ensure that the rate of resource use does not exceed the regenerative capacity of the ecosystem. The practice of cap-and-trade systems is a practical mechanism for managing shared resources in a way that is both efficient and equitable.
+**2. Value Creation Capability:**
+This pattern fundamentally redefines value creation, shifting it from quantitative growth (GDP) to qualitative development and well-being. It enables the creation of social and ecological value by design, forcing a focus on resource efficiency, equity, and the preservation of natural capital. The goal is not to produce more, but to generate the most well-being with the least resource throughput, fostering resilience and stability as core forms of value.
 
-### Community Governance (Score: 4/5)
+**3. Resilience & Adaptability:**
+The pattern is designed to build resilience by forcing the economy to operate within the regenerative capacity of the planet, creating a "dynamic equilibrium." This approach helps systems maintain coherence under the stress of resource scarcity and environmental change. By advocating for more self-reliant local and regional economies, it also promotes adaptability, allowing different scales of society to respond to challenges without being locked into a fragile, growth-dependent global system.
 
-The Steady-State Economy promotes a more decentralized and participatory form of governance. The principle of re-localization of the economy is a key part of this, as it seeks to empower local communities to take control of their own economic destiny. The emphasis on community-based currencies and cooperative business models also supports a more democratic and community-oriented approach to economic governance. However, the transition to a steady-state economy will also require a strong role for national and international governance, particularly in setting the overall limits on resource use.
+**4. Ownership Architecture:**
+While not offering specific new ownership models like co-ops, the pattern proposes a radical shift in the underlying architecture of ownership through monetary and financial reform. By critiquing interest-bearing debt and fractional reserve banking, it challenges the core driver of accumulation for its own sake. Proposed reforms like 100% reserve banking or demurrage redefine the purpose of capital, shifting it from a tool for generating monetary equity to a utility for enabling circulation and well-being.
 
-### Social Equity (Score: 5/5)
+**5. Design for Autonomy:**
+The framework is highly compatible with autonomous systems, as it focuses on setting clear, systemic boundaries (caps on resource use, ecological taxes) rather than requiring centralized micromanagement. These rules create a predictable environment where AI, DAOs, or other distributed systems can operate and optimize for efficiency and well-being within those limits. The pattern's "Cognitive Era Considerations" explicitly note that AI and IoT can be powerful tools for modeling, tracking, and managing resource flows in such an economy.
 
-Social equity is a core principle of the Steady-State Economy. The principle of equitable distribution is a direct response to the fact that a no-growth economy requires a more just distribution of wealth and income. The practices of a shorter workweek, job sharing, and a strong social safety net are all designed to promote social equity and well-being. The focus on human and social capital, rather than physical capital, also supports a more equitable and people-centered approach to development.
+**6. Composability & Interoperability:**
+As a high-level economic framework, this pattern is exceptionally composable. It is designed to be a container within which other, more specific patterns can be implemented to achieve its goals. For example, practices like "Cap-Auction-Trade" can be combined with community currencies, local food systems, or renewable energy projects to create a complete, multi-layered value-creation system. It provides the foundational economic logic that enables a wide variety of other patterns to function sustainably.
 
-## 9. Resources & References
+**7. Fractal Value Creation:**
+The pattern demonstrates strong fractal characteristics, as its core logic can be applied at multiple scales. The text explicitly states that the steady-state model can be implemented at local, regional, national, and global levels. This allows the principles of living within limits and prioritizing well-being to scale, enabling the creation of resilient value-creation ecosystems from a small community to the entire planet.
 
-1.  [Steady-state economy - Wikipedia](https://en.wikipedia.org/wiki/Steady-state_economy)
-2.  [Steady State Economy — Definition - steadytate.org](https://steadystate.org/discover/definition-of-steady-state-economy/)
-3.  [Steady-State Economy: Definition, Principles, and ... - Investopedia](https://www.investopedia.com/terms/s/steady-state-economy.asp)
-4.  [The Concept of Steady State - Issues of Sustainability](https://www.issuesofsustainability.org/helpndoc-content/TheConceptofSteadyState.html)
-5.  [What Is a Steady State Economy? - CASSE](https://steadystate.org/wp-content/uploads/CASSE_Brief_SSE.pdf)
+**Overall Score: 4 (Value Creation Enabler)**
 
----
+**Rationale:**
+The Steady-State Economy is a foundational framework that reorients an entire economic system towards resilience, equity, and ecological stability—the essential preconditions for a thriving commons. It powerfully enables collective value creation by shifting the goal from infinite growth to sustained well-being. It scores a 4 instead of a 5 because it is a high-level enabler, not a complete, self-contained architecture; it requires the integration of other patterns to specify the precise mechanisms of value creation and governance.
 
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/steady-state-economy-documented/](https://commons-os.github.io/patterns/domain/steady-state-economy-documented/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/steady-state-economy-documented.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/steady-state-economy-documented.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
+**Opportunities for Improvement:**
+- Develop explicit rights and responsibilities for non-human stakeholders, such as AI agents and natural ecosystems, within the economic framework.
+- Integrate more detailed and interoperable ownership and governance patterns (e.g., DAOs, cooperatives) that can operate effectively within the proposed monetary and resource limits.
+- Create clearer technical pathways for using distributed technologies to manage the cap, auction, and trade systems in a transparent and decentralized manner.

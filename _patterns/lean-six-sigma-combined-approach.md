@@ -151,21 +151,40 @@ Originally developed in the manufacturing sector, Lean Six Sigma has since been 
 - **Democratization of Process Improvement**: AI-powered tools and platforms are making it easier for everyone in the organization to participate in process improvement activities. This is leading to a democratization of process improvement, where everyone is empowered to make a difference.
 - **Focus on Sustainability**: In the future, Lean Six Sigma is likely to be increasingly used to address sustainability challenges, such as reducing energy consumption, minimizing waste, and improving resource efficiency.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-1. **Stakeholder Mapping**: Lean Six Sigma traditionally focuses on a limited set of stakeholders, primarily the organization and its customers. While employees are involved in the process, their role is often seen as a means to an end (i.e., to improve the process and reduce costs). The broader community and the environment are not typically considered as key stakeholders in the Lean Six Sigma framework.
-2. **Value Creation**: The value created by Lean Six Sigma is primarily economic value for the organization. While customers benefit from improved products and services, and employees may benefit from a more efficient and less frustrating work environment, the main driver of the methodology is to improve the bottom line. The methodology does not explicitly aim to create social or environmental value.
-3. **Value Preservation**: Lean Six Sigma is very effective at preserving the value it creates. The Control phase of the DMAIC cycle is specifically designed to ensure that the improvements are sustained over time. However, the value that is being preserved is primarily economic value for the organization.
-4. **Shared Rights & Responsibilities**: The rights and responsibilities in a Lean Six Sigma initiative are typically concentrated in the hands of management and a small group of trained experts (i.e., Black Belts and Green Belts). While employees are involved in the process, they are not typically given a significant say in the decision-making process.
-5. **Systematic Design**: Lean Six Sigma is a highly systematic and well-designed methodology. The DMAIC cycle provides a clear and structured approach to problem-solving, and the various tools and techniques are well-documented and easy to use.
-6. **Systems of Systems**: Lean Six Sigma can be integrated with other management systems and methodologies, such as ISO 9001, Baldrige, and Agile. However, the focus of the methodology is on optimizing individual processes, and it does not explicitly consider the broader system in which the organization operates.
-7. **Fractal Properties**: The principles of Lean Six Sigma can be applied at all levels of an organization, from individual projects to large-scale business transformations. The methodology is scalable and can be adapted to suit the needs of different organizations and different types of projects.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**Overall Score**: 3/5 (Transitional)
+**1. Stakeholder Architecture:**
+Lean Six Sigma primarily defines rights and responsibilities for the organization and its customers, with employees engaged as process participants. However, it lacks a broader stakeholder architecture that explicitly includes the environment, the community, or future generations, limiting its scope to direct economic actors.
 
-**Rationale**: Lean Six Sigma is a powerful methodology for improving organizational efficiency and effectiveness. However, its traditional focus on economic value for the organization and its limited consideration of broader stakeholder interests prevent it from being fully aligned with the principles of a commons. The methodology is transitional in the sense that it can be a stepping stone to a more holistic and sustainable approach to management, but it is not there yet.
+**2. Value Creation Capability:**
+The pattern excels at creating economic value by improving efficiency and quality. While this indirectly benefits customers and can improve employee experience, it does not inherently aim to generate social, ecological, or knowledge value as primary outputs. The framework is optimized for production and service delivery, not for holistic value creation.
 
-**Opportunities for Improvement**: To become more commons-aligned, Lean Six Sigma would need to broaden its focus to include a wider range of stakeholders, including the community and the environment. It would also need to expand its definition of value to include social and environmental value, in addition to economic value. Finally, it would need to adopt a more participatory and democratic approach to decision-making, where all stakeholders have a voice in the process.
+**3. Resilience & Adaptability:**
+Lean Six Sigma is designed to enhance process resilience by reducing variation and defects, making systems more predictable and stable. The DMAIC cycle provides a structured methodology for adapting to challenges and maintaining coherence under stress, thereby helping systems thrive on change within their operational boundaries.
+
+**4. Ownership Architecture:**
+The concept of ownership in Lean Six Sigma is implicitly tied to process management and control, rather than a broader architecture of rights and responsibilities. It does not define ownership beyond the context of project execution and process improvement, focusing on operational accountability instead of distributed stewardship.
+
+**5. Design for Autonomy:**
+The methodology's data-driven and systematic nature makes it highly compatible with AI, which can augment the analysis phase and enable predictive control. By standardizing processes, it can reduce coordination overhead, making it suitable for integration with automated and distributed systems.
+
+**6. Composability & Interoperability:**
+Lean Six Sigma is highly composable and can be integrated with other management systems like Agile, ISO 9001, and various business process management frameworks. This allows it to serve as a foundational component in a larger, more complex value-creation architecture, even if its own focus is narrow.
+
+**7. Fractal Value Creation:**
+The principles of waste reduction and quality improvement are fractal, allowing Lean Six Sigma to be applied at multiple scales, from individual teams to entire enterprises. This scalability enables the core value-creation logic to be replicated across different levels of an organization, creating consistent improvements throughout the system.
+
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+Lean Six Sigma is a powerful enabler of efficient and high-quality production, but its focus remains primarily on economic value for the organization. While it offers a robust framework for process improvement and resilience, its limited stakeholder perspective and narrow definition of value prevent it from being a complete value creation architecture. It is transitional because it provides a strong foundation for operational excellence that can be extended to a more commons-aligned approach.
+
+**Opportunities for Improvement:**
+- Integrate a multi-stakeholder model that includes community, environmental, and social representatives in the "Define" phase of DMAIC.
+- Expand the definition of "waste" and "defect" to include negative externalities such as pollution, community disruption, or social inequity.
+- Introduce metrics for social and ecological value creation alongside traditional KPIs to guide projects toward more holistic outcomes.
 
 ## 9. Resources & References
 

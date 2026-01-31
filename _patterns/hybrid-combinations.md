@@ -115,20 +115,40 @@ The advent of the Cognitive Era, characterized by the widespread adoption of art
 
 **The Rise of the Augmented Workforce:** The Cognitive Era will also see the rise of the augmented workforce, in which humans and machines work together to achieve common goals. This will have a significant impact on organizational design, and the hybrid model will need to adapt to accommodate this new reality. This may involve creating new roles and responsibilities for both humans and machines, and developing new processes for collaboration and decision-making.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Commons Alignment Assessment evaluates the compatibility of the hybrid organizational structure with the principles of a commons-based approach. The assessment considers seven key dimensions, each rated on a scale of 1 to 5, where 1 indicates low alignment and 5 indicates high alignment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Score | Rationale |
-| :--- | :--- | :--- |
-| **Openness & Transparency** | 3 | While hybrid structures can promote cross-functional collaboration, they do not inherently guarantee full transparency. The level of openness depends heavily on the organization's culture and leadership. |
-| **Decentralization & Autonomy** | 4 | The model's emphasis on decentralized decision-making and divisional autonomy aligns well with the principle of decentralization. However, the degree of autonomy is often balanced with centralized control. |
-| **Collaboration & Mutual Support** | 4 | The structure is designed to foster collaboration and mutual support through cross-functional teams and shared resources. This is a key strength of the hybrid model. |
-| **Fairness & Equity** | 3 | The complexity of dual reporting lines and performance measurement can create challenges in ensuring fairness and equity. A conscious effort is required to mitigate these risks. |
-| **Sustainability & Resilience** | 4 | The adaptability and flexibility of the hybrid model contribute to organizational resilience. The ability to pivot in response to change is a key factor in long-term sustainability. |
-| **Community & Social Good** | 2 | The primary focus of the hybrid model is on organizational performance and efficiency. While it can be applied in social enterprises, it does not have an inherent orientation towards community or social good. |
-| **Learning & Development** | 4 | The model promotes a culture of continuous learning and adaptation. The need for employees to develop new skills and competencies is a key driver of learning and development. |
-| **Overall Score** | **3** | The hybrid organizational structure has a moderate alignment with commons principles. While it promotes decentralization, collaboration, and learning, it requires a deliberate effort to ensure fairness, transparency, and a focus on the common good. |
+**1. Stakeholder Architecture:**
+The pattern primarily focuses on internal stakeholders, defining roles and reporting structures to optimize organizational efficiency. It does not explicitly define Rights and Responsibilities for a broader set of stakeholders, such as the environment, local communities, or future generations. The architecture is centered on the organization as the primary entity, not a wider ecosystem of contributors and beneficiaries.
+
+**2. Value Creation Capability:**
+Value creation is defined mainly in economic and operational terms, such as improved resource utilization and market responsiveness. While it enables knowledge value through cross-functional collaboration, it does not inherently facilitate the creation of social or ecological value. The framework is a tool for optimizing a firm's internal value capture, not for stewarding collective value creation across a system.
+
+**3. Resilience & Adaptability:**
+This is a core strength of the pattern. The entire design is predicated on creating a more flexible, adaptable, and resilient organization that can thrive on change and navigate complexity. By blending different structural models, it allows an organization to maintain coherence while responding effectively to market shifts and internal pressures.
+
+**4. Ownership Architecture:**
+The pattern is silent on ownership architecture. It deals with organizational structure and reporting lines, not the distribution of equity or the definition of ownership as a bundle of rights and responsibilities. It can be implemented within any ownership model (e.g., a cooperative or a traditional corporation) but does not itself provide an alternative.
+
+**5. Design for Autonomy:**
+The model is highly compatible with autonomous systems. Its principles of decentralized decision-making and the 'Cognitive Era Considerations' explicitly mention leveraging AI for coordination and management. This design reduces coordination overhead for operational matters, aligning well with the needs of distributed systems and DAOs, while retaining centralized strategic oversight.
+
+**6. Composability & Interoperability:**
+The pattern is inherently compositional, as its purpose is to blend elements from different organizational structures. It is designed to be a meta-pattern that combines other models like functional, divisional, and matrix structures. This makes it highly interoperable with other organizational patterns to create tailored, larger-scale systems.
+
+**7. Fractal Value Creation:**
+The pattern's logic is primarily applicable at the scale of a single organization or a large division. While elements like cross-functional teams can be seen as smaller-scale applications, the overall value-creation logic does not inherently scale up to multi-organizational ecosystems or down to the individual level in a fractal manner. It is a modular, not a fractal, design.
+
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+The Hybrid Combinations pattern is a powerful enabler of organizational resilience and adaptability, which are crucial for value creation. Its design for autonomy and composability makes it a valuable transitional tool for legacy organizations moving towards more distributed models. However, it lacks a multi-stakeholder perspective, a broader definition of value, and an explicit ownership architecture, preventing it from being a complete value creation architecture on its own.
+
+**Opportunities for Improvement:**
+- Integrate a multi-stakeholder governance model to explicitly include non-financial stakeholders in decision-making.
+- Expand the definition of 'resource optimization' to include the stewardship of shared social and ecological resources.
+- Combine the pattern with alternative ownership models (e.g., steward-ownership, cooperatives) to create a more complete commons architecture.
 
 ## 9. Resources & References
 

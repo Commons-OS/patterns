@@ -15,7 +15,7 @@ tags:
   era: [industrial, digital]
   origin: []
   status: draft
-  commons_alignment: 5
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -118,19 +118,40 @@ Another important consideration is the impact of AI on work and employment. As A
 
 Finally, Participatory Design can play a crucial role in building trust in AI. As AI systems become more autonomous and make more decisions on our behalf, it is essential that we trust them to act in our best interests. By involving users in the design of AI systems, we can increase transparency and accountability, and give people a greater sense of control over the technology that is shaping their lives. This can help to foster a more positive and productive relationship between humans and machines in the Cognitive Era.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-Participatory Design exhibits a strong alignment with the principles of a commons-based approach to organizing and creating value. Its emphasis on collaboration, inclusivity, and empowerment makes it a natural fit for projects and organizations that are committed to building and sustaining a shared resource. The following assessment explores the alignment of Participatory Design with seven key dimensions of a commons.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Assessment |
-|---|---|
-| **Openness and Transparency** | Participatory Design promotes openness and transparency by making the design process accessible to all stakeholders. By sharing information and involving people in decision-making, it helps to build trust and to create a sense of shared ownership. The process is not a black box; it is a collaborative journey that is open to scrutiny and input from all participants. |
-| **Inclusivity and Equity** | A core tenet of Participatory Design is the inclusion of a diverse range of voices and perspectives. It actively seeks to involve marginalized and underrepresented groups, ensuring that their needs and concerns are addressed. By promoting equity and social justice, Participatory Design helps to create more just and sustainable outcomes. |
-| **Collaboration and Co-creation** | Participatory Design is, at its heart, a collaborative and co-creative process. It brings people together to share their knowledge, skills, and experiences, and to collectively create solutions to shared problems. This collaborative spirit is the essence of a commons, where people work together to create and manage a shared resource. |
-| **Empowerment and Agency** | By giving people a voice in the design process, Participatory Design empowers them to shape their own lives and communities. It gives them a sense of agency and control over the decisions that affect them, which is a fundamental principle of a commons-based approach. |
-| **Knowledge Sharing and Learning** | Participatory Design is a powerful engine for knowledge sharing and collective learning. As people from different backgrounds and disciplines work together, they learn from each other and build a shared understanding of the problem and its potential solutions. This collective intelligence is a key asset of any commons. |
-| **Sustainability and Resilience** | By creating solutions that are better aligned with the needs of the users and the community, Participatory Design contributes to the long-term sustainability and resilience of the system. When people are involved in the design of their own solutions, they are more likely to support and maintain them over time. |
-| **Adaptability and Evolvability** | Participatory Design is an iterative and adaptive process that can evolve over time in response to changing needs and circumstances. This flexibility is essential for the long-term health of any commons, which must be able to adapt to a constantly changing environment. |
+**1. Stakeholder Architecture:**
+Participatory Design (PD) establishes a clear stakeholder architecture by granting all involved parties the Right to participate and influence the design process. It defines stakeholders broadly to include users, employees, partners, and citizens, assigning them the Responsibility to contribute their knowledge and experience. While not explicitly focused on non-human agents, the framework is inherently extensible to include the environment, AI, or future generations as stakeholders in the design process.
+
+**2. Value Creation Capability:**
+The pattern directly enables collective value creation that extends far beyond economic output. By fostering collaboration and co-design, it generates significant social value (trust, community) and knowledge value (shared understanding, collective intelligence). The resulting systems are more aligned with user needs, enhancing their functional value and overall resilience.
+
+**3. Resilience & Adaptability:**
+Resilience and adaptability are at the core of the Participatory Design process. Its iterative nature, which emphasizes continuous feedback loops and refinement, allows systems to adapt to changing user needs and complex environments. By incorporating diverse perspectives, PD helps systems anticipate a wider range of stresses and maintain coherence under pressure.
+
+**4. Ownership Architecture:**
+PD redefines ownership beyond monetary equity, framing it as a set of Rights and Responsibilities. It grants stakeholders the Right to a voice and influence, fostering a deep sense of psychological ownership and collective investment in the outcome. This approach cultivates stewardship, where participants feel responsible for the long-term success and health of the system they co-created.
+
+**5. Design for Autonomy:**
+This pattern is highly compatible with autonomous and distributed systems like DAOs and AI. Its principles of empowerment, inclusion, and decentralized decision-making align with the ethos of autonomy, providing a framework for collective coordination with low overhead. The methods can be adapted for asynchronous and remote collaboration, making it suitable for designing and governing distributed networks.
+
+**6. Composability & Interoperability:**
+As a methodological pattern, Participatory Design is exceptionally composable and interoperable. It can be combined with nearly any other technical, governance, or design pattern to ensure the resulting system is aligned with stakeholder needs. For example, it can be used to design a DAO's governance mechanism, an open-source project's feature roadmap, or a community's resource management plan.
+
+**7. Fractal Value Creation:**
+The value-creation logic of PD is inherently fractal, applying seamlessly across multiple scales. The core principle of involving stakeholders in the design of systems that affect them works for a single product feature, a large-scale urban infrastructure project like the TransMilenio bus system, or even national policy-making. This scalability allows the pattern to be a foundational element in building complex, multi-level value-creation ecosystems.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Participatory Design provides a robust framework for involving stakeholders, fostering collective ownership, and creating adaptive systems. It directly enables the creation of social, knowledge, and functional value. While it doesn't prescribe specific ownership models or ecological considerations, its principles are foundational for building resilient, multi-stakeholder value creation systems.
+
+**Opportunities for Improvement:**
+- Explicitly integrate non-human stakeholders (e.g., environment, AI agents) into the stakeholder identification process.
+- Develop standardized methods for applying PD in fully autonomous or decentralized digital environments.
+- Create clearer guidelines for integrating PD with formal ownership and governance structures, such as cooperatives or trusts.
 
 ## 9. Resources & References
 

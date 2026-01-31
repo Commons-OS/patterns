@@ -15,7 +15,7 @@ tags:
   era: [industrial, cognitive]
   origin: [walter-shewhart, w-edwards-deming]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -140,25 +140,40 @@ Successfully applying the PDCA cycle involves a set of key practices that bring 
 
 -   **Evolution Outlook**: In the cognitive era, the PDCA cycle is evolving from a periodic, project-based activity to a continuous, real-time process. The proliferation of IoT sensors and digital twins allows for a constant stream of data from processes. This enables organizations to run thousands of concurrent, rapid PDCA cycles, creating a truly dynamic and adaptive learning system. The future of PDCA is a seamless integration of human ingenuity and machine intelligence, driving improvement at an unprecedented speed and scale.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-1.  **Stakeholder Mapping:** In its classic application, the PDCA cycle's stakeholder focus is primarily internal (the organization) and external (the customer). The goal is to improve a process to deliver more value to the customer and the business. It does not inherently prompt a broader mapping of all stakeholders, such as suppliers, the local community, or the environment. The scope is often limited to the direct participants and beneficiaries of the process.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-2.  **Value Creation:** The value created by PDCA is typically measured in terms of efficiency (cost, speed) and effectiveness (quality, customer satisfaction). While this can lead to positive externalities, such as reduced waste, the primary value capture is for the organization and its customers. It can also create value for employees by improving their work environment and empowering them to make a difference.
+**1. Stakeholder Architecture:**
+The PDCA cycle traditionally defines Rights and Responsibilities within a limited stakeholder context, focusing primarily on the organization (employees, managers) and its customers. It establishes a clear responsibility for employees to participate in improvement and a right for customers to receive better products or services. However, it does not inherently include a framework for considering the Rights or Responsibilities of broader stakeholders like the environment, community, or future generations, which must be explicitly added to the 'Plan' phase.
 
-3.  **Value Preservation:** The PDCA cycle is a powerful mechanism for value preservation. By continuously adapting and improving processes, it helps an organization stay relevant in a changing world. The standardization of improvements ensures that value gains are locked in and not lost over time.
+**2. Value Creation Capability:**
+The pattern is a powerful engine for creating knowledge value (through organizational learning) and economic value (through efficiency and quality gains). While its primary focus is not on social or ecological value, the framework is value-agnostic. The same iterative process used to reduce defects can be aimed at reducing waste (ecological value) or improving workplace safety (social value), making it a highly capable, general-purpose framework for collective value creation.
 
-4.  **Shared Rights & Responsibilities:** The PDCA cycle can foster a sense of shared responsibility for quality and improvement among employees. However, the rights to make decisions, set priorities, and allocate resources often remain concentrated at the management level. True commons-based governance, with distributed decision-making rights, is not a native feature of the PDCA model.
+**3. Resilience & Adaptability:**
+Resilience and adaptability are at the very core of the PDCA pattern. The iterative, four-step process provides a structured, scientific method for a system to learn and adapt to internal and external changes. By formalizing the process of testing, learning, and standardizing improvements, it helps organizations maintain coherence under stress and systematically evolve, thereby building long-term resilience.
 
-5.  **Systematic Design:** The PDCA cycle is the epitome of a systematic design for improvement. It is a clear, logical, and repeatable process that can be applied consistently across an organization.
+**4. Ownership Architecture:**
+PDCA promotes a sense of psychological ownership and responsibility for process quality among those doing the work. However, it operates within a conventional ownership architecture where ultimate decision-making rights and control over resources typically remain hierarchical. The pattern defines ownership as a responsibility to improve a process, but not necessarily the right to change the system's overarching goals or distribute the value created from those improvements.
 
-6.  **Systems of Systems:** The PDCA cycle is highly composable. It can be applied to a single process, and multiple PDCA cycles can be nested within a larger improvement initiative. It is also a core component of larger management systems like Lean, Six Sigma, and ISO 9001.
+**5. Design for Autonomy:**
+The pattern is highly compatible with autonomous systems. Its simple, universal logic can be easily encoded into software agents, AI, or DAOs to enable continuous, automated self-improvement with low coordination overhead. The fractal nature of PDCA allows it to be deployed by autonomous teams or agents who can run their own improvement cycles independently, contributing to the evolution of the whole system.
 
-7.  **Fractal Properties:** The principles of PDCA are fractal. The same logic of Plan-Do-Check-Act can be applied to a 30-minute task, a 3-month project, or a 3-year strategic plan. This allows for a coherent approach to improvement at all levels of the organization.
+**6. Composability & Interoperability:**
+PDCA exhibits excellent composability and interoperability. It serves as a foundational micro-pattern that is a core component of many larger management systems, including Lean, Six Sigma, and ISO 9001. It can be readily combined with other patterns, acting as the 'engine' that drives the improvement and adaptation of more complex organizational or technical architectures.
 
-**Overall Score:** 3 (Transitional)
+**7. Fractal Value Creation:**
+The value-creation logic of PDCA is inherently fractal. The same Plan-Do-Check-Act loop can be applied to an individual's daily work, a team's weekly process, a department's quarterly goals, and an organization's annual strategy. This scalability allows the logic of continuous, evidence-based improvement to permeate every level of a system, creating a coherent value-creation architecture across scales.
 
-The PDCA cycle is a foundational tool for organizational improvement, but in its traditional form, it operates within a conventional business logic. To become more commons-aligned, the framework could be consciously expanded. For instance, the "Plan" phase could incorporate a mandatory, comprehensive stakeholder impact assessment. The "Check" phase could include metrics related to social and environmental outcomes, not just business KPIs. The "Act" phase could involve co-designing new standards with a broader set of stakeholders. By intentionally broadening its scope, the PDCA cycle could be transformed from a tool for optimizing the firm to a tool for optimizing the well-being of the entire ecosystem.
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+The PDCA cycle is a powerful, general-purpose engine for systematic improvement and adaptation. While its traditional application is often limited to economic and quality-related value, its underlying logic is value-agnostic and can be directed toward any value creation goal, including social and ecological. It provides the fundamental mechanism for a system to learn and become more capable over time, making it a strong enabler of resilient collective value creation.
+
+**Opportunities for Improvement:**
+- Explicitly integrate a multi-stakeholder analysis (including ecological and social) into the 'Plan' phase to broaden the definition of 'improvement.'
+- Expand the 'Check' phase to include metrics beyond economic KPIs, such as measures of social well-being, ecological footprint, and community health.
+- Combine the pattern with governance patterns that distribute the rights to set strategic improvement goals and decide how the created value is shared.
 
 ### 9. Resources & References
 

@@ -15,7 +15,7 @@ tags:
   era: [agricultural, industrial, digital, cognitive]
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 5
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -105,21 +105,41 @@ In the Cognitive Era, an age characterized by information overload, rapid techno
 
 **From Short-Termism to Long-Term Stewardship:** The Seventh Generation Principle is perhaps the most radical and most needed of the Haudenosaunee's gifts to the world. In an era of climate change and other existential threats, the need for long-term thinking has never been more urgent. The Seventh Generation Principle provides a moral and practical compass for making decisions that will create a more just and sustainable world for generations to come.
 
-# 8. Commons Alignment Assessment
 
-The Haudenosaunee pattern is deeply aligned with the principles of the commons. Its emphasis on shared resources, collective decision-making, and long-term stewardship provides a powerful model for creating and managing commons-based organizations and systems. The following is an assessment of the Haudenosaunee pattern against seven key dimensions of commons alignment.
+### 8. Commons Alignment Assessment (v2.0)
 
-| Dimension | Score (1-5) | Justification |
-| :--- | :--- | :--- |
-| **1. Shared Purpose & Values** | 5 | The Great Law of Peace provides a powerful shared purpose and a clear set of values that have guided the Haudenosaunee for centuries. The principles of righteousness, health, and power are woven into the fabric of their society and provide a strong foundation for collective action. |
-| **2. Collective Governance** | 5 | The Haudenosaunee have a sophisticated system of collective governance that has been in place for centuries. The Grand Council, with its consensus-based decision-making process, ensures that all voices are heard and that decisions are made in the best interest of the entire Confederacy. The role of the Clan Mothers provides a crucial check on the power of the male leaders. |
-| **3. Fair & Inclusive Participation** | 5 | The Haudenosaunee system is designed to be fair and inclusive. The matrilineal clan system ensures that women have a powerful voice in the community. The consensus-based decision-making process of the Grand Council ensures that all nations have an equal say in the governance of the Confederacy. |
-| **4. Open & Transparent Communication** | 4 | While the Haudenosaunee have a strong tradition of oral communication and storytelling, the accessibility of information can be a challenge for those outside the community. However, the principles of the Great Law of Peace emphasize the importance of open and honest communication. |
-| **5. Responsible Stewardship of Resources** | 5 | The Seventh Generation Principle is a powerful expression of the Haudenosaunee commitment to responsible stewardship of resources. This principle requires that all decisions be made with consideration for their impact on the seventh generation to come, ensuring the long-term sustainability of their society and the natural world. |
-| **6. Solidarity & Mutual Support** | 5 | The Haudenosaunee have a strong tradition of solidarity and mutual support. The clan system creates a network of extended families that are responsible for the well-being of their members. The Condolence Ceremony is a powerful ritual for healing and for reaffirming the bonds of community. |
-| **7. Contribution & Co-creation** | 4 | The Haudenosaunee have a rich tradition of co-creation, as seen in their collective governance and their shared cultural practices. However, the opportunities for those outside the community to contribute and co-create can be limited. |
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**Overall Commons Alignment Score: 4.7/5**
+**1. Stakeholder Architecture:**
+The Haudenosaunee model defines a sophisticated stakeholder architecture rooted in the Great Law of Peace. It establishes clear Rights and Responsibilities, distributing power between male leaders (Hoyaneh) and female leaders (Clan Mothers), who have the authority to appoint and depose them. The framework explicitly includes future generations as key stakeholders through the Seventh Generation Principle and acknowledges the environment and all of creation as stakeholders in the Thanksgiving Address.
+
+**2. Value Creation Capability:**
+The pattern enables profound collective value creation that extends far beyond economic output. Its core principles of Righteousness (justice), Health (holistic well-being), and Power (collective authority) foster immense social, ecological, and knowledge value. The primary focus is on maintaining harmony, balance, and the long-term health of the community and the land, representing a comprehensive approach to value creation.
+
+**3. Resilience & Adaptability:**
+The system is explicitly designed for resilience and adaptability. The Condolence Ceremony provides a critical process for navigating leadership transitions and community-wide grief, ensuring stability and coherence under stress. While consensus-based decision-making can be slow, it ensures deep commitment and unity, and the Confederacy's ability to endure for centuries amidst external pressures is a powerful testament to its adaptive capacity.
+
+**4. Ownership Architecture:**
+Ownership is defined as a set of responsibilities and stewardship rights, not as monetary equity. Leaders are custodians of their roles, holding them in trust for the people and future generations, and are directly accountable to the Clan Mothers. Resources and land are not viewed as property to be exploited but as a shared commons to be cared for collectively for the benefit of all.
+
+**5. Design for Autonomy:**
+As a confederacy of autonomous nations, the pattern is inherently a distributed system with low coordination overhead. While predating modern technology, its principles of decentralized authority, clear protocols (the Great Law), and consensus are highly compatible with the architectures of DAOs and other distributed autonomous systems. It provides a proven model for network-based governance rather than rigid hierarchy.
+
+**6. Composability & Interoperability:**
+The pattern is fundamentally composable and interoperable. The Confederacy itself is a composition of six distinct nations that operate together through the shared protocol of the Great Law of Peace. The historical integration of the Tuscarora nation demonstrates its capacity to combine with other systems, making it a powerful building block for creating larger, federated value-creation ecosystems.
+
+**7. Fractal Value Creation:**
+The value-creation logic of the Haudenosaunee pattern is deeply fractal. The core principles of peace, equity, and reason apply at the scale of the individual, the clan, the nation, and the entire confederacy. This elegant, scalable logic of balanced power, long-term stewardship, and consensus allows the pattern to be replicated and adapted across multiple scales of social organization.
+
+**Overall Score: 5 (Value Creation Architecture)**
+
+**Rationale:**
+The Haudenosaunee pattern is a complete and time-tested architecture for resilient collective value creation. It masterfully integrates a multi-stakeholder model that includes nature and future generations, defines value holistically, and has proven its adaptability over centuries. Its principles of distributed power, long-term stewardship, and consensus provide a comprehensive blueprint for a thriving, resilient commons.
+
+**Opportunities for Improvement:**
+- Develop explicit interfaces and documentation to make the pattern more easily adaptable for modern digital and hybrid organizations.
+- Create case studies and implementation guides for applying the principles in different contexts, such as DAOs or platform cooperatives.
+- Translate the core principles into formal models or software protocols to facilitate integration with autonomous agents and smart contracts.
 
 # 9. Resources & References
 

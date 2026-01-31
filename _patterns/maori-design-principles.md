@@ -15,7 +15,7 @@ tags:
   era: [cognitive]
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 5
 commons_domain: business
 generalizes_from: ["pat_01kg5023zde79btwvkq4xrqm6c"]
 specializes_to: []
@@ -114,12 +114,40 @@ In the Cognitive Era, characterized by the rise of artificial intelligence, big 
 *   **Ethical AI:** The principle of Mauri tū can be a guiding principle for the development of ethical AI. It calls for the creation of AI systems that are life-affirming and that contribute to the well-being of individuals and communities. This would involve designing AI that is transparent, accountable, and aligned with human values.
 *   **Digital Tohu:** The principle of Tohu can be applied to the design of digital spaces to create "digital tohu," which are cultural markers that help to create a sense of place and identity in the virtual world. This could include the use of Maori language, design motifs, and storytelling in digital interfaces and virtual environments.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-| Dimension | Assessment |
-| :--- | :--- |
-| **Community & Governance** | The Te Aranga Principles are deeply aligned with the principles of community and governance. They promote a collaborative and inclusive approach to design that empowers Mana Whenua and fosters a strong sense of community ownership. |
-| **Knowledge & Culture** | The principles are a powerful tool for the preservation and revitalization of Maori knowledge and culture. They provide a framework for integrating Matauranga Maori into the design process and for expressing Maori cultural identity in the built environment. |
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
+
+**1. Stakeholder Architecture:**
+The pattern establishes a robust stakeholder architecture centered on the principle of **Mana**, which recognizes the rights and responsibilities of Mana Whenua as indigenous custodians. It extends this architecture beyond the human-centric by incorporating the natural world as a key stakeholder through the **Taiao** principle. The concept of **Whakapapa** further broadens the stakeholder map by acknowledging genealogical connections between people, the land, and the spiritual world, implicitly including future generations.
+
+**2. Value Creation Capability:**
+The Maori Design Principles enable a multi-faceted form of collective value creation that transcends purely economic outputs. The principle of **Mauri tū** focuses on enhancing the life force of a place, generating social and ecological value through healthy and vibrant environments. Cultural and knowledge value are fostered through **Mahi toi** and **Tohu**, which integrate Maori arts, crafts, and cultural markers into the physical landscape, enriching the collective identity and understanding of the commons.
+
+**3. Resilience & Adaptability:**
+The framework is designed to build resilience and adaptability into the systems it shapes. By grounding design in the unique cultural heritage of a place (**Whakapapa**), the pattern fosters long-term stewardship and a deeper connection to the environment. The emphasis on co-design and collaboration with Mana Whenua ensures that solutions are context-responsive and can evolve with the community's needs, while the **Taiao** principle promotes ecological resilience by respecting and enhancing natural systems.
+
+**4. Ownership Architecture:**
+The pattern defines ownership not as a bundle of exclusive rights for a single owner, but as a set of distributed rights and responsibilities. The principle of **Ahi kā** (keeping the home fires burning) symbolizes the continuous stewardship and cultural ownership of Mana Whenua over their ancestral lands. This reframes ownership as a long-term commitment to the health and vitality of the commons, rather than a short-term economic interest.
+
+**5. Design for Autonomy:**
+As a set of guiding principles rather than rigid rules, the framework is highly compatible with autonomous and distributed systems. It allows for flexibility in implementation across various contexts, reducing coordination overhead. The "Cognitive Era Considerations" section explicitly explores the application of these principles to AI and data sovereignty, demonstrating a forward-looking compatibility with emerging autonomous technologies and DAOs.
+
+**6. Composability & Interoperability:**
+The Te Aranga Principles function as a high-level cultural and ethical layer that can be composed with a wide range of other design and development patterns. They provide a values-based framework that can guide the application of more specific, technical patterns in architecture, software engineering, or organizational design. This makes them highly interoperable for building larger, more complex value-creation systems.
+
+**7. Fractal Value Creation:**
+The value-creation logic inherent in the principles is fractal, capable of being applied at multiple scales. The document explicitly states their applicability from "large-scale urban infrastructure projects to smaller community-led initiatives." This demonstrates that the core logic of recognizing Mana, Whakapapa, and Taiao can be used to structure value creation in a single building, a neighborhood, a city, or even a digital platform.
+
+**Overall Score: 5 (Value Creation Architecture)**
+
+**Rationale:**
+The Maori Design Principles provide a complete and holistic architecture for resilient collective value creation. The framework masterfully weaves together the social, cultural, ecological, and spiritual dimensions of a commons, establishing a new foundation for design that is deeply place-based and values-led. It moves far beyond simple resource management to offer a comprehensive system for enabling stakeholders to create diverse forms of value over time.
+
+**Opportunities for Improvement:**
+- Develop more explicit guidance on applying the principles to the governance and design of purely digital commons, such as online communities or data trusts.
+- Create case studies or reference implementations that demonstrate how these principles can be integrated with specific Web3 or DAO-based governance patterns.
+- Articulate a clearer process for how non-indigenous organizations can respectfully and authentically adopt and adapt this framework in different cultural contexts.
 | **Environment & Sustainability** | The principles are strongly aligned with the principles of environmental stewardship and sustainability. They promote a holistic approach to design that respects and enhances the natural world. |
 | **Health & Wellbeing** | The principles are focused on creating healthy and life-sustaining environments. They recognize the importance of the built environment in promoting the physical, mental, and spiritual well-being of individuals and communities. |
 | **Creativity & Innovation** | The principles foster creativity and innovation by encouraging the integration of Maori art, design, and storytelling into the built environment. They provide a framework for creating places that are not only functional but also beautiful and inspiring. |

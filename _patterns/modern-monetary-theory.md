@@ -118,46 +118,40 @@ In the Cognitive Era, characterized by the increasing importance of knowledge, i
 
 The principles of MMT can also be applied to the governance of digital commons and open-source projects. By understanding that the creator of a digital currency or token can never run out of it, communities can design economic systems that are not constrained by artificial scarcity. This could enable the development of new forms of value creation and exchange that are not based on the logic of private property and market competition. For example, a community could create its own currency to fund the development of open-source software or to reward contributions to a local knowledge commons.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-Modern Monetary Theory's alignment with the principles of a commons-based economy is a subject of ongoing discussion. Here is an assessment across seven dimensions:
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-<br>
+**1. Stakeholder Architecture:**
+Modern Monetary Theory (MMT) primarily defines the relationship between a sovereign government and its private sector, establishing the government's responsibility to ensure full employment. While this creates a right to a job for citizens, it does not explicitly architect the rights and responsibilities for other crucial stakeholders like the environment, future generations, or non-human actors. The framework's focus remains on the national economic scale, leaving broader stakeholder considerations to be addressed by specific policies rather than the core theory itself.
 
-<table header-row="true">
-<tr>
-<td>Dimension</td>
-<td>Assessment</td>
-</tr>
-<tr>
-<td>Openness & Access</td>
-<td>MMT can promote openness and access by providing a framework for funding public goods and services, such as education, healthcare, and open-source infrastructure, without being constrained by traditional budget limitations. This can help to create a more inclusive and equitable society where everyone has access to the resources they need to thrive.</td>
-</tr>
-<tr>
-<td>Participation & Governance</td>
-<td>The job guarantee, a key component of MMT, can be designed to empower local communities to make decisions about the types of work that are needed. This can foster a more participatory and democratic approach to economic development, where people have a say in the decisions that affect their lives.</td>
-</tr>
-<tr>
-<td>Distribution of Wealth & Power</td>
-<td>By prioritizing full employment and decoupling government spending from taxation, MMT has the potential to create a more equitable distribution of wealth and power. The job guarantee, in particular, can provide a safety net for the most vulnerable members of society and can help to reduce inequality by providing a living wage to all who are willing and able to work.</td>
-</tr>
-<tr>
-<td>Sustainability & Regeneration</td>
-<td>MMT can provide the financial resources needed to fund a large-scale transition to a sustainable and regenerative economy. However, the focus on continuous economic growth could also lead to increased resource consumption if not managed carefully. A successful implementation of MMT would need to be paired with strong environmental regulations and a commitment to ecological sustainability.</td>
-</tr>
-<tr>
-<td>Pluralism & Diversity</td>
-<td>MMT can support a more pluralistic and diverse economy by providing a framework for funding a wide range of social and cultural initiatives. The job guarantee can be designed to support a variety of work, including artistic, cultural, and community-based projects, which can help to foster a more vibrant and diverse society.</td>
-</tr>
-<tr>
-<td>Resilience & Adaptability</td>
-<td>The job guarantee acts as an automatic stabilizer, making the economy more resilient to shocks and downturns. By providing a guaranteed source of income, it can also help individuals and communities to be more adaptable to change, such as the disruptions caused by technological innovation or climate change.</td>
-</tr>
-<tr>
-<td>Social & Ecological Well-being</td>
-<td>MMT has the potential to improve social and ecological well-being by providing a framework for funding public services and environmental protection. However, the potential for inflation and the focus on economic growth could also have negative consequences if not managed carefully. A successful implementation of MMT would need to be guided by a clear commitment to social and ecological well-being, rather than simply maximizing economic output.</td>
-</tr>
-</table>
+**2. Value Creation Capability:**
+MMT is a powerful enabler of economic value creation by removing financial constraints on public spending, which can be directed towards public goods, infrastructure, and full employment. This can indirectly lead to social and knowledge value, for instance, if a Job Guarantee program is focused on community care or open-source projects. However, the framework itself is agnostic about the type of value created and lacks an inherent architecture for prioritizing non-economic forms of value like ecological health or social cohesion.
+
+**3. Resilience & Adaptability:**
+The theory is designed for adaptability, allowing a government to respond flexibly to economic downturns through fiscal policy without being constrained by debt concerns. The proposed Job Guarantee acts as a powerful automatic stabilizer, enhancing economic resilience by maintaining aggregate demand and preventing skills atrophy during recessions. However, the framework's reliance on the political capacity to use taxation effectively to manage inflation introduces a potential point of fragility.
+
+**4. Ownership Architecture:**
+MMT reframes government debt as private sector savings, shifting the concept of public liability to public asset. It does not directly propose new ownership models for resources or production but creates the financial possibility for large-scale public and commons-based ownership. By empowering the state to fund initiatives outside of market logic, it enables a move away from purely private, equity-based ownership towards stewardship and collective provisioning.
+
+**5. Design for Autonomy:**
+As a macroeconomic framework, MMT is inherently centralized, relying on the authority of a sovereign nation-state to issue currency and manage fiscal policy. It is not designed for, and has limited compatibility with, decentralized autonomous systems like DAOs that operate outside of state control. While a government could use MMT to fund autonomous projects, the core logic of top-down currency issuance and management presents a high coordination overhead that is misaligned with the principles of distributed autonomy.
+
+**6. Composability & Interoperability:**
+MMT functions as a powerful meta-pattern that is highly composable with other economic and social patterns. It can provide the financial foundation for implementing Universal Basic Income, public healthcare systems, large-scale ecological restoration, or commons-based resource management. Its primary function is to create the fiscal space needed for other value-creating patterns to be deployed at scale.
+
+**7. Fractal Value Creation:**
+The value-creation logic of MMT is not fractal; it is explicitly tied to the unique position of a monetarily sovereign nation-state. The ability to issue currency that is required for tax payments cannot be replicated at smaller scales like cities, communities, or organizations. Therefore, its core mechanism does not apply across multiple scales, limiting its direct applicability for building fractal value systems from the ground up.
+
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+MMT is a transitional pattern because it provides a crucial bridge away from the logic of artificial scarcity but does not yet offer a complete architecture for resilient, multi-stakeholder value creation. It effectively addresses the "how to pay for it" question for large-scale commons initiatives but remains state-centric and primarily focused on economic value. Its potential is immense, but realizing that potential requires combining it with other patterns that explicitly design for ecological, social, and decentralized forms of value.
+
+**Opportunities for Improvement:**
+- Integrate non-financial metrics for value creation (e.g., ecological health, social well-being) into the core framework to guide fiscal policy beyond purely economic goals.
+- Explore hybrid models where the fiscal power of an MMT-enabled state could be used to capitalize and empower decentralized, commons-based economic systems.
+- Develop policy frameworks that explicitly link MMT-funded programs, like a Job Guarantee, to the creation and maintenance of commons resources (e.g., open-source code, regenerative agriculture, community care networks).
 
 <br>
 

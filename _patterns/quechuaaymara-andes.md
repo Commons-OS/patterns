@@ -15,7 +15,7 @@ tags:
   era: [agricultural]
   origin: [Andes, South America]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -86,22 +86,40 @@ The organizational patterns of the Quechua and Aymara have much to offer in the 
 The principles of reciprocity and communal labor could be applied to the development of new **collaborative technologies**. These technologies could be used to facilitate cooperation and knowledge sharing within and between communities. The organizational patterns of the Quechua and Aymara are also designed to be **resilient systems** in the face of shocks and stresses. This is a valuable lesson for organizations that are seeking to build more resilient and sustainable systems.
 
 Finally, the principles of the commons, which are central to Quechua and Aymara organizational patterns, could be applied to the development of a **digital commons**. This would be a shared resource of knowledge and information that is accessible to all, and would be managed by the community for the benefit of all.
+### 8. Commons Alignment Assessment (v2.0)
 
-# 8. Commons Alignment Assessment
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-The Quechua/Aymara (Andes) pattern is moderately aligned with the principles of the commons. The following table provides a detailed assessment of the pattern against the seven dimensions of the commons.
+**1. Stakeholder Architecture:**
+The Quechua/Aymara pattern defines a sophisticated stakeholder architecture rooted in the nested structures of the ayllu and marka. Rights and responsibilities are distributed among individuals, families, and the community collective, with a strong emphasis on kinship and connection to the land (Pachamama), which is treated as a key stakeholder. Leadership is rotational, ensuring that responsibility is shared and power is not concentrated.
 
-| Dimension | Assessment | Score |
-|---|---|---|
-| **1. Shared Purpose & Identity** | The ayllu and marka structures provide a strong sense of shared purpose and identity, rooted in kinship and a common connection to the land. | 5/5 |
-| **2. Fair & Transparent Governance** | The traditional system of rotating leadership and consensus-based decision-making promotes fair and transparent governance. However, the influence of national political systems can sometimes undermine these traditional practices. | 4/5 |
-| **3. Equitable Access & Use** | The principle of communal land ownership and the practice of ayni ensure equitable access to resources and support within the community. | 4/5 |
-| **4. Democratic Participation & Voice** | The ayllu assembly provides a forum for all members of the community to participate in decision-making. However, the voices of women and other marginalized groups may not always be heard. | 3/5 |
-| **5. Responsible Stewardship & Sustainability** | The agricultural and pastoral practices of the Quechua and Aymara are designed to be sustainable and to maintain the health of the ecosystem. | 5/5 |
-| **6. Collaborative & Open Culture** | The principles of reciprocity and communal labor foster a collaborative and open culture. However, a strong sense of community identity can sometimes lead to a lack of openness to outsiders. | 3/5 |
-| **7. Resilience & Adaptability** | The decentralized and flexible organizational patterns of the Quechua and Aymara have proven to be highly resilient and adaptable over centuries of change. | 5/5 |
-| **Overall Score** | | **3.9/5** |
+**2. Value Creation Capability:**
+The pattern enables the creation of diverse forms of value far beyond the purely economic. The practices of ayni (reciprocal labor) and minka (communal labor) build social capital and community resilience. The sophisticated agricultural system, adapted to a challenging environment, represents a deep well of knowledge value, while the emphasis on community well-being fosters a strong sense of social value.
 
+**3. Resilience & Adaptability:**
+The decentralized and flexible nature of the ayllu and marka system has proven to be highly resilient, allowing these communities to adapt and persist through centuries of external pressures, including colonialism and globalization. The governance model, based on consensus and rotating leadership, allows for local adaptation and the ability to maintain coherence in the face of change.
+
+**4. Ownership Architecture:**
+Ownership is defined as a form of collective stewardship rather than individual property rights. The ayllu holds land in common, with members having rights of use and a shared responsibility for its care. This architecture moves beyond monetary equity to a model based on access, use, and long-term preservation of the commons for the entire community.
+
+**5. Design for Autonomy:**
+The pattern is inherently designed for autonomy, with the ayllu functioning as a self-governing unit. This decentralized structure has low coordination overhead for internal matters and is conceptually compatible with modern distributed systems like DAOs. The emphasis on consensus, while potentially time-consuming, ensures high levels of buy-in and autonomous action once a decision is made.
+
+**6. Composability & Interoperability:**
+The pattern demonstrates natural composability through its nested structure of families within ayllus and ayllus within markas. The core principles of reciprocity (ayni) and duality (saya) are interoperable social protocols that can function across different communities and contexts, allowing for the creation of larger, federated value-creation systems.
+
+**7. Fractal Value Creation:**
+The logic of reciprocal value creation is fractal, applying at the scale of the family, the ayllu, and the marka. The principle of complementary duality is also a repeating pattern in the organization of territory and cosmology. This suggests that the underlying architecture for value creation can be scaled and applied across different levels of social organization.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+The Quechua/Aymara pattern is a powerful framework for resilient, collective value creation, deeply aligned with the core principles of a commons. It provides a robust, time-tested architecture for managing resources and creating social and ecological value. It scores a 4 rather than a 5 because its traditional implementation can face challenges in scaling and interfacing with modern, globalized economic and legal systems, and some historical social structures may require adaptation to align with contemporary values of inclusivity.
+
+**Opportunities for Improvement:**
+- Develop formal interfaces to bridge traditional governance with external legal and economic systems, allowing for greater interoperability without compromising core principles.
+- Integrate modern communication and decision-making tools to support consensus-building at a larger scale.
+- Explicitly adapt and evolve traditional roles to ensure full and equitable participation for all members of the community in the modern context.
 # 9. Resources & References
 
 1.  [Aymara - Settlement patterns](https://chileprecolombino.cl/en/pueblos-originarios/aymara/patron-de-asentamiento/)

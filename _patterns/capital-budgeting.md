@@ -15,7 +15,7 @@ tags:
   era: [industrial, digital]
   origin: [academic]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 2
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -175,39 +175,40 @@ While AI and automation can augment the capital budgeting process, they are not 
 
 In the future, we can expect to see a continued evolution of the capital budgeting process as AI and other new technologies become more widely adopted. We are likely to see the development of more sophisticated and integrated capital budgeting systems that can provide real-time analysis and support for investment decision-making. These systems will be able to learn from past decisions and to continuously improve their performance over time. We may also see the emergence of new capital budgeting techniques that are specifically designed to take advantage of the capabilities of AI and machine learning.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-**1. Stakeholder Mapping:**
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-Capital budgeting traditionally focuses on a narrow set of stakeholders, primarily shareholders and senior management. The primary goal is to maximize shareholder value, and other stakeholders, such as employees, customers, and the community, are often considered only to the extent that they can impact the financial performance of the project. A more commons-aligned approach to capital budgeting would involve a more comprehensive mapping of all the stakeholders who are affected by an investment decision and a consideration of their interests in the decision-making process.
+**1. Stakeholder Architecture:**
+The pattern defines Rights and Responsibilities almost exclusively for internal stakeholders, primarily shareholders and senior management, with the goal of maximizing financial returns. It lacks a formal architecture for engaging external stakeholders like the community, environment, or future generations, treating them as externalities unless they directly impact profitability. The rights are concentrated with the capital providers, not distributed across the broader stakeholder ecosystem.
 
-**2. Value Creation:**
+**2. Value Creation Capability:**
+Value creation is narrowly defined in economic terms, focusing on cash flows, NPV, and IRR. The framework does not inherently recognize or measure other forms of value, such as social capital, ecological health, knowledge creation, or systemic resilience. While it enables financial value creation for the organization, it largely overlooks the potential for broader, multi-capital collective value creation.
 
-Capital budgeting is focused on creating financial value for the organization and its shareholders. However, it often overlooks other forms of value, such as social and environmental value. A commons-aligned approach would consider the full range of value created by a project, including its impact on the environment, the community, and other stakeholders.
+**3. Resilience & Adaptability:**
+The pattern attempts to manage risk through predictive techniques like sensitivity and scenario analysis, which are designed to maintain stability against foreseen changes. However, it is not inherently designed to help a system thrive on complexity or adapt to unforeseen stressors. Its focus on long-term, fixed investment plans can create rigidity rather than fostering the adaptive capacity needed for true resilience.
 
-**3. Value Preservation:**
+**4. Ownership Architecture:**
+Ownership is implicitly defined through the lens of financial equity, where rights belong to those who provide capital. The core logic is to generate returns for shareholders, reinforcing a traditional model of corporate ownership. It does not present an alternative ownership architecture based on distributed Rights and Responsibilities among a wider set of stakeholders.
 
-Capital budgeting is primarily focused on the short- to medium-term financial performance of a project. It often does not adequately consider the long-term sustainability of the project or its impact on the ability of future generations to meet their own needs. A commons-aligned approach would take a more long-term perspective and would consider the full life cycle of the project, from its inception to its decommissioning.
+**5. Design for Autonomy:**
+Capital budgeting is a centralized, high-coordination process typically managed by a senior committee, making it poorly suited for autonomous systems like DAOs. The reliance on detailed, top-down forecasting and approval cycles creates significant overhead and is incompatible with decentralized, low-coordination environments. It is a pattern from a pre-digital, hierarchical era and would require substantial adaptation for use in distributed networks.
 
-**4. Shared Rights & Responsibilities:**
+**6. Composability & Interoperability:**
+As a standard business practice, capital budgeting can be combined with other corporate functions, but it is not designed for true composability in a modular, open-systems context. It operates as a self-contained decision-making framework within an organizational silo. It does not easily interoperate with other patterns to form larger, emergent value-creation systems, as its logic is tied to the financial optimization of a single entity.
 
-In a traditional capital budgeting process, the rights and responsibilities for a project are concentrated in the hands of the organization. A commons-aligned approach would involve a more equitable distribution of rights and responsibilities among all the stakeholders who are affected by the project.
+**7. Fractal Value Creation:**
+While the process can be applied at different scales within an organization (team, department, enterprise), the underlying value-creation logic remains monolithic. It optimizes for the financial health of the central entity at each scale, rather than enabling nested, autonomous systems to create and reinvest value fractally. The pattern does not inherently support a polycentric governance model where value creation is distributed across scales.
 
-**5. Systematic Design:**
+**Overall Score: 2 (Partial Enabler)**
 
-The capital budgeting process is a systematic and well-designed process for evaluating and selecting investment projects. However, it is often a closed and opaque process that is not accessible to external stakeholders. A commons-aligned approach would involve a more open and transparent process that allows for greater participation from all stakeholders.
+**Rationale:**
+Capital Budgeting is a highly developed practice for financial resource allocation but is fundamentally misaligned with the core principles of collective value creation. Its focus on maximizing shareholder value, its narrow definition of value, and its centralized control structure present significant gaps. It is a partial enabler only because its analytical rigor could be adapted to assess a wider range of value flows, but this would require a complete reframing of its core purpose.
 
-**6. Systems of Systems:**
-
-Capital budgeting is often conducted on a project-by-project basis, without a full consideration of the systemic impacts of the investment decision. A commons-aligned approach would take a more holistic view and would consider the project's interactions with other systems, such as the environment, the community, and the broader economy.
-
-**7. Fractal Properties:**
-
-The principles of capital budgeting can be applied at different scales, from individual projects to entire portfolios of projects. However, the process is often not applied consistently across all levels of the organization. A commons-aligned approach would ensure that the principles of sustainable and equitable investment are applied at all scales.
-
-**Overall Score: 3 (Transitional)**
-
-Capital budgeting, in its traditional form, is a transitional practice. While it has the potential to be a powerful tool for creating long-term value for all stakeholders, it is often used in a way that prioritizes short-term financial returns for shareholders. To become more commons-aligned, the practice of capital budgeting needs to be expanded to include a broader range of stakeholders, a wider definition of value, and a more long-term and systemic perspective.
+**Opportunities for Improvement:**
+- Integrate multi-capital accounting to assess social, ecological, and knowledge returns alongside financial returns.
+- Redesign the process to include a broader range of stakeholders in the evaluation and decision-making, distributing rights and responsibilities.
+- Adapt the framework to evaluate investments based on their potential to increase system resilience and adaptability, rather than just predicting financial outcomes.
 
 ## 9. Resources & References
 

@@ -15,7 +15,7 @@ tags:
   era: [agricultural, cognitive]
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -144,54 +144,40 @@ The principles and practices of Community-Based Resource Management are becoming
 
 In conclusion, the Cognitive Era presents both significant opportunities and challenges for Community-Based Resource Management. By harnessing the power of digital technologies in a way that is inclusive, equitable, and empowering, it is possible to enhance the effectiveness and scalability of CBRM and to contribute to a more sustainable and just future for all.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-Community-Based Resource Management (CBRM) is inherently aligned with the principles of the commons. This assessment evaluates the pattern against seven key dimensions of commons alignment, providing a score for each dimension on a scale of 1 to 5, where 1 represents low alignment and 5 represents high alignment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-<table header-row="true">
-<tr>
-<td>Dimension</td>
-<td>Assessment</td>
-<td>Score</td>
-</tr>
-<tr>
-<td>Shared Purpose and Values</td>
-<td>CBRM is built on a foundation of shared purpose and values. The community comes together with the common goal of sustainably managing their resources for the benefit of all. This shared purpose fosters a sense of collective identity and responsibility, which is essential for the long-term success of the initiative.</td>
-<td>5</td>
-</tr>
-<tr>
-<td>Fair and Inclusive Governance</td>
-<td>A core principle of CBRM is fair and inclusive governance. The approach emphasizes the importance of participatory decision-making processes that involve all members of the community, including women, youth, and marginalized groups. However, the extent to which this is achieved in practice can vary depending on the local context and the commitment of the external actors involved.</td>
-<td>4</td>
-</tr>
-<tr>
-<td>Equitable Access and Use</td>
-<td>CBRM aims to ensure that access to and use of resources is equitable for all members of the community. This is often achieved through the development of clear and transparent rules for resource allocation and use. However, power dynamics within the community can sometimes lead to inequitable outcomes, and it is important to have mechanisms in place to address these challenges.</td>
-<td>4</td>
-</tr>
-<tr>
-<td>Sustainable and Regenerative Practices</td>
-<td>The promotion of sustainable and regenerative practices is a central tenet of CBRM. The approach encourages the use of traditional ecological knowledge and scientific research to develop management practices that are environmentally sound and that enhance the long-term health of the ecosystem.</td>
-<td>5</td>
-</tr>
-<tr>
-<td>Collaborative and Open Knowledge</td>
-<td>CBRM promotes the sharing of knowledge and information in an open and collaborative manner. This includes the sharing of traditional ecological knowledge among community members and the sharing of scientific knowledge between the community and external experts. This process of knowledge co-creation is essential for adaptive management and social learning.</td>
-<td>4</td>
-</tr>
-<tr>
-<td>Distributed and Decentralized Power</td>
-<td>CBRM is a fundamentally decentralized approach that seeks to distribute power and decision-making authority to the local level. By empowering communities to manage their own resources, CBRM challenges the top-down, centralized models of resource management that have often failed to address the needs of local populations.</td>
-<td>5</td>
-</tr>
-<tr>
-<td>Resilience and Adaptability</td>
-<td>CBRM enhances the resilience and adaptability of both the community and the ecosystem. By diversifying livelihoods, strengthening local institutions, and promoting social learning, CBRM helps communities to better cope with and adapt to social and ecological change.</td>
-<td>5</td>
-</tr>
-</table>
+**1. Stakeholder Architecture:**
+The pattern establishes a multi-stakeholder architecture by shifting Rights and Responsibilities from centralized state actors to local communities. It explicitly empowers these communities as the primary stewards of their resources, while also defining a role for external actors like NGOs and government agencies as facilitators and partners. However, its primary focus is on human stakeholders, with less explicit definition of rights and responsibilities for non-human entities like the environment or AI agents.
 
-**Overall Commons Alignment Score: 4.6/5**
+**2. Value Creation Capability:**
+Community-Based Resource Management strongly enables the creation of diverse forms of value beyond simple economic output. The core model links sustainable resource management directly to improved community livelihoods, which encompasses social value (increased cohesion, empowerment), ecological value (biodiversity, ecosystem health), and knowledge value (integration of traditional and scientific knowledge). It provides a clear framework for creating collective value that is shared among community members.
+
+**3. Resilience & Adaptability:**
+The pattern is designed for resilience and adaptability through its core principles of social learning and adaptive management. By establishing community-based monitoring and feedback loops, it allows the system to learn and evolve in response to changing environmental and social conditions. This iterative approach helps maintain coherence under stress and enables the community to thrive on complexity and change.
+
+**4. Ownership Architecture:**
+Ownership is defined not merely as monetary equity but as a bundle of Rights and Responsibilities, primarily through the principle of secure tenure and property rights for the community. This grants communities the long-term security needed to invest in sustainable practices, framing ownership as a form of stewardship. The focus is on the right to manage and benefit from the resource, which is a significant evolution from a purely extractive, monetary-based view of ownership.
+
+**5. Design for Autonomy:**
+The pattern is highly compatible with principles of autonomy and distributed systems, as it is fundamentally about decentralizing control to the local level. While not originally designed with AI or DAOs in mind, its modular and decentralized structure has low coordination overhead and is well-suited for integration with autonomous technologies. The "Cognitive Era Considerations" section explicitly acknowledges the potential for digital technologies and AI to enhance monitoring and decision-making, though it also notes the challenges of the digital divide.
+
+**6. Composability & Interoperability:**
+This pattern is highly composable and can be combined with other patterns to build larger, more complex value-creation systems. The framework for co-management agreements and partnerships with external actors provides a natural interface for interoperability. Furthermore, the model’s ability to federate into larger networks of community-based organizations demonstrates its capacity to connect with other systems to scale its impact.
+
+**7. Fractal Value Creation:**
+The value-creation logic of CBRM is inherently fractal. The principles of community stewardship, participatory governance, and adaptive management can be applied at multiple scales, from a small, local resource like a community forest to a regional watershed or a network of coastal fisheries. The pattern’s emphasis on scaling up through community-to-community learning and federation demonstrates that its core logic can be replicated and adapted across different levels of organization.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Community-Based Resource Management provides a robust framework that strongly enables resilient collective value creation. It successfully shifts the focus from pure resource extraction to long-term stewardship and community well-being, creating social, ecological, and economic value. While it requires adaptation to fully integrate with the digital and autonomous systems of the Cognitive Era, its foundational principles of decentralization, stakeholder empowerment, and adaptive management make it a powerful enabler of commons-based value creation.
+
+**Opportunities for Improvement:**
+- Explicitly define the Rights and Responsibilities of non-human stakeholders, such as the environment itself or autonomous AI agents involved in monitoring.
+- Develop standardized interfaces and protocols to improve interoperability with other digital platforms and governance patterns (e.g., DAOs).
+- Create more robust frameworks for equitable benefit sharing in the context of digital economies and data ownership, addressing the "digital divide" challenge mentioned in the pattern.
 
 ## 9. Resources & References
 

@@ -134,21 +134,40 @@ The advent of the Cognitive Era, characterized by the widespread adoption of art
 
 **Ethical Considerations:** As with any powerful technology, the use of AI in customer journey mapping raises a number of ethical considerations. Organizations must be transparent about how they are using customer data, and they must ensure that their AI algorithms are fair and unbiased. They must also be mindful of the potential for AI to be used to manipulate or exploit customers. By taking a responsible and ethical approach to the use of AI, organizations can build trust with their customers and create a more positive and equitable customer experience.
 
-# 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-This section assesses the alignment of the Customer Journey Mapping pattern with the principles of a commons-based approach. The assessment is based on seven key dimensions of commons alignment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Alignment Score (1-5) | Rationale |
-| :--- | :--- | :--- |
-| **1. Openness & Transparency** | 4 | Customer Journey Mapping promotes transparency by making the customer's experience visible and understandable to the entire organization. It encourages the open sharing of information and insights across departments, breaking down silos and fostering a culture of openness. However, the resulting maps and data are often proprietary and not shared publicly. |
-| **2. Decentralization & Federation** | 3 | While Customer Journey Mapping can be applied in decentralized or federated organizations, the process itself is often centrally coordinated. It can, however, empower decentralized teams by providing them with a shared understanding of the customer and enabling them to make more autonomous decisions that are aligned with the overall customer experience strategy. |
-| **3. Collaboration & Co-creation** | 5 | Collaboration is a core principle of Customer Journey Mapping. The process requires the active participation of a cross-functional team of stakeholders from across the organization. It is a co-creative process that brings together diverse perspectives to create a holistic and accurate picture of the customer's journey. |
-| **4. Fairness & Equity** | 3 | Customer Journey Mapping can contribute to fairness and equity by ensuring that the needs of all customers are considered, not just the most vocal or profitable ones. By creating detailed customer personas, organizations can better understand and address the needs of underserved or marginalized customer segments. However, the ultimate goal is often to increase profitability, which may not always align with the principles of fairness and equity. |
-| **5. Sustainability & Resilience** | 4 | By fostering a deep understanding of customer needs, Customer Journey Mapping can help organizations to create more sustainable and resilient business models. By building strong relationships with customers and creating a positive customer experience, organizations can increase customer loyalty and reduce their reliance on costly marketing and advertising campaigns. |
-| **6. Community & Social Good** | 3 | Customer Journey Mapping can contribute to the social good by helping organizations to create better products and services that meet the needs of their customers. By improving the customer experience, it can also reduce frustration and stress for both customers and employees. However, the primary focus is typically on the relationship between the organization and its customers, rather than on the broader community or social good. |
-| **7. Evolvability & Adaptability** | 5 | Customer Journey Mapping is an iterative process that is designed to help organizations to evolve and adapt over time. The customer journey map is a living document that should be regularly reviewed and updated to reflect changes in customer needs and expectations. This enables organizations to continuously improve their customer experience and to remain relevant and competitive in a rapidly changing world. |
+**1. Stakeholder Architecture:**
+Customer Journey Mapping primarily focuses on the relationship between two main stakeholder groups: the organization and its customers. It defines the responsibilities of the organization to understand and improve the customer's experience, but it does not inherently define a broader stakeholder architecture that includes the environment, future generations, or autonomous agents as participants with their own rights and responsibilities. The framework is dyadic, centered on the customer-provider relationship, rather than a multi-stakeholder commons.
 
-**Overall Commons Alignment Score: 3.57/5**
+**2. Value Creation Capability:**
+The pattern is a powerful tool for creating knowledge value by synthesizing customer data into actionable insights. This directly enhances the organization's capability to improve its services, which in turn creates a better user experience (social value) and drives economic value through increased loyalty and retention. However, its native focus is not on generating ecological or broader community value, though the method could be adapted to map these more complex value flows.
+
+**3. Resilience & Adaptability:**
+This is a core strength of the pattern. Customer Journey Mapping is an iterative process that creates a continuous feedback loop, allowing an organization to sense and respond to changing customer needs and market dynamics. By making the customer experience visible and measurable, it helps the system adapt its processes and offerings to maintain coherence and relevance, thereby building organizational resilience.
+
+**4. Ownership Architecture:**
+The pattern does not address ownership in a structural or equity-based sense. Instead, it focuses on the 'ownership' of the customer experience, distributing responsibility across various internal departments (marketing, sales, support) to ensure a seamless journey. It implicitly defines ownership as a set of responsibilities for maintaining the quality of the customer relationship rather than as a set of rights to a resource or asset.
+
+**5. Design for Autonomy:**
+Customer Journey Mapping is highly compatible with autonomous systems. The insights generated from journey maps can be used to train AI, configure chatbots, and design automated workflows that handle customer interactions with low coordination overhead. By clearly defining touchpoints, actions, and pain points, the pattern provides a clear blueprint for automating and personalizing the customer experience at scale.
+
+**6. Composability & Interoperability:**
+The pattern is highly composable and serves as a foundational tool for value creation. It interoperates well with other patterns like Personas, A/B Testing, and Service Blueprinting to build a comprehensive system for understanding and improving user experience. Its outputs (maps, insights) can be used as inputs for strategic planning, product development, and marketing automation systems.
+	
+**7. Fractal Value Creation:**
+The logic of mapping a journey can be applied at multiple scales, demonstrating fractal potential. It can be used to map the micro-journey of a single feature interaction, the meso-journey of a product onboarding process, or the macro-journey of a customer's entire lifecycle with a brand. This scalability allows the value-creation logic of understanding and improving experience to be consistently applied across all levels of an organization.
+
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+Customer Journey Mapping is a powerful tool for understanding and improving user experience, which is a key component of value creation. It strongly enables adaptability, is designed for autonomy, and is highly composable. However, its traditional application is focused on a limited, dyadic stakeholder model (company-customer) and is primarily aimed at enhancing economic value for the organization. It has significant potential to be a transitional pattern if adapted to map the journeys of a wider set of stakeholders (e.g., community, ecosystem) and to account for non-economic value flows.
+
+**Opportunities for Improvement:**
+- Adapt the methodology to create 'Ecosystem Journey Maps' that visualize the interactions and value flows between a wider range of stakeholders, including partners, community members, and the environment.
+- Integrate metrics for non-economic value (e.g., social well-being, knowledge sharing, ecological impact) into the journey map to provide a more holistic view of value creation.
+- Use the mapping process to explicitly define the Rights and Responsibilities of all stakeholders in the journey, moving beyond a purely service-oriented perspective.
 
 # 9. Resources & References
 

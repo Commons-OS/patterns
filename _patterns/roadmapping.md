@@ -185,9 +185,40 @@ The adoption of AI in roadmapping also presents a number of challenges and oppor
 
 *   **Ethical Considerations:** The use of AI in decision-making raises a number of ethical considerations, such as bias, transparency, and accountability. Organizations need to develop a clear set of ethical guidelines for the use of AI in roadmapping.
 
-*   **The Future of Work:** The automation of roadmapping and other strategic planning tasks will have a significant impact on the future of work. Organizations need to think about how they can reskill and upskill their workforce to prepare for these changes.
+*   **The Future of Work:** The automation of roadmapping and other strategic planning tasks will have a significant impact on the future of work. Organizations need to think about how they can reskill and upskill their workforce to prepare for these changes.### 8. Commons Alignment Assessment (v2.0)
 
-# 8. Commons Alignment Assessment
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
+
+**1. Stakeholder Architecture:**
+The pattern promotes a multi-stakeholder approach by involving various internal teams and external partners in the planning process. It emphasizes customer-centricity, ensuring that the needs of users are a primary driver of the strategy. However, it does not explicitly define rights and responsibilities for a broader set of stakeholders, such as the environment or future generations, which limits its scope as a full commons architecture.
+
+**2. Value Creation Capability:**
+Roadmapping is a powerful tool for coordinating collective action towards shared goals, which is a fundamental aspect of value creation. The process is primarily focused on delivering economic and functional value to the organization and its customers. While this can indirectly lead to social or knowledge value, the framework does not inherently prioritize these broader forms of value creation.
+
+**3. Resilience & Adaptability:**
+The pattern is designed to be a living and adaptable process, with a strong emphasis on regular review and adjustment in response to changing conditions. This iterative nature helps organizations maintain coherence and adapt to complexity. The introduction of AI-powered dynamic roadmapping further enhances the system's ability to thrive on change.
+
+**4. Ownership Architecture:**
+Ownership in roadmapping is expressed as a collective commitment to a shared strategic direction, fostering a sense of psychological ownership among participants. It helps align stakeholders and creates a shared understanding of responsibilities for execution. However, it does not address the deeper architectural level of distributing rights and responsibilities beyond the successful implementation of the plan.
+
+**5. Design for Autonomy:**
+The pattern can be compatible with decentralized and autonomous systems by providing high-level goals and empowering teams to determine their own methods of execution. However, it can also be implemented in a top-down manner that restricts autonomy. Its compatibility with AI for tasks like prioritization suggests a potential for greater integration with autonomous agents in the future.
+
+**6. Composability & Interoperability:**
+Roadmapping is a highly composable pattern that can be integrated with various other strategic planning and management frameworks. The existence of different types of roadmaps (product, technology, strategic) that can be layered and interconnected demonstrates its interoperability. This allows for the construction of more complex, multi-layered value creation systems.
+
+**7. Fractal Value Creation:**
+The principles of roadmapping can be applied at multiple scales, from the level of a small team to the entire organization. This fractal nature allows the logic of strategic alignment and value creation to be replicated across different levels of a system. The core practice of aligning actions with goals is scalable and can be applied in a nested manner.
+
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+Roadmapping provides a strong foundation for coordinated action and strategic alignment, which are essential for collective value creation. It has significant potential to be adapted into a more comprehensive value creation architecture. However, in its current form, it remains largely focused on the goals of a single organization and needs to be expanded to more explicitly include a wider range of stakeholders and value dimensions to be fully aligned with the commons framework.
+
+**Opportunities for Improvement:**
+- Integrate a multi-stakeholder value assessment into the prioritization process to explicitly consider social, ecological, and knowledge impacts.
+- Develop a “Commons Roadmap” template that incorporates the 7 Pillars of the Commons OS v2.0 framework as core components.
+- Introduce practices for explicitly mapping and managing the rights and responsibilities of all stakeholders, including non-human ones.
 
 The Commons Alignment Assessment evaluates how well the Roadmapping pattern aligns with the principles of a commons-based approach. The assessment is based on seven dimensions, each rated on a scale of 1 to 5, with 5 being the highest alignment.
 

@@ -102,17 +102,40 @@ The cognitive era, characterized by the rise of AI and machine learning, is tran
 *   **The Rise of the "Cognitive Product Manager":** The role of the product manager is evolving to leverage AI and data for strategic decisions. The cognitive product manager is a new breed of product leader who is adept at using these technologies to make better, faster, and more data-driven decisions.
 *   **Ethical Considerations:** It is important to be mindful of the potential for bias in the data and algorithms used to inform the roadmap and to ensure that the processes are fair, transparent, and accountable.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-This section assesses the alignment of the Product Roadmapping pattern with the 7 dimensions of commons alignment as defined by Commons OS. The overall commons alignment score for this pattern is 3.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-*   **Openness and Transparency (Score: 4/5):** Promotes transparency by making the product strategy and priorities visible to all stakeholders. The use of a public-facing roadmap can further enhance transparency and build trust with customers and the wider community.
-*   **Equitability and Inclusivity (Score: 3/5):** Can be inclusive by incorporating feedback from a diverse range of stakeholders, but requires conscious effort to ensure equitable representation. It is important to actively seek out and listen to the voices of underrepresented groups to ensure that the roadmap reflects the needs of all users.
-*   **Modularity and Reusability (Score: 3/5):** A well-structured roadmap can be seen as a modular plan, and the principles and practices are highly reusable. The use of thematic roadmaps can also promote modularity by breaking down the product strategy into smaller, more manageable chunks.
-*   **Decentralization and Federation (Score: 2/5):** Decision-making authority often rests with a central product management function, which can limit decentralization. However, it is possible to create a more decentralized roadmapping process by empowering product teams to own their own roadmaps within a broader strategic framework.
-*   **Sustainability and Resilience (Score: 3/5):** Contributes to the long-term sustainability of a product by ensuring that it continues to evolve and meet the changing needs of its users. The use of a flexible and adaptable roadmap can also help to make the product more resilient to unexpected changes in the market.
-*   **Interoperability and Standardization (Score: 3/5):** The use of common roadmapping tools and templates can promote interoperability and standardization. This can make it easier to share and compare roadmaps across different teams and to create a more coherent and consistent product strategy.
-*   **Contribution and Value Distribution (Score: 3/5):** Provides a mechanism for stakeholders to contribute to the product strategy and to have a say in how value is created and distributed. The use of a collaborative roadmapping process can help to ensure that the value created by the product is shared fairly among all stakeholders.
+**1. Stakeholder Architecture:**
+Product Roadmapping defines responsibilities primarily among internal organizational stakeholders (product, engineering, leadership) and customers. It creates a collaborative framework for these groups to align on a product's direction. However, the pattern does not explicitly define Rights or Responsibilities for non-human stakeholders like the environment or AI, nor does it extend its architecture to future generations or the broader community, focusing instead on the immediate business ecosystem.
+
+**2. Value Creation Capability:**
+The pattern is strongly focused on creating economic and customer value by aligning development with strategic business objectives. While this can indirectly lead to social or knowledge value, it is not the primary intent. The framework is outcome-driven, but the "outcomes" are typically defined in terms of market success and user satisfaction rather than a broader spectrum of collective value like ecological resilience or community well-being.
+
+**3. Resilience & Adaptability:**
+Resilience and adaptability are core strengths of this pattern. It is explicitly designed as a "living document" that evolves with market dynamics and customer feedback. The emphasis on regular reviews, flexibility, and adapting to change helps systems maintain coherence under stress and thrive on complexity, making it a powerful tool for navigating volatile environments.
+
+**4. Ownership Architecture:**
+The pattern promotes a sense of "shared ownership" over the product's direction and success among internal teams. However, this is a form of psychological and procedural ownership, not a structural one. It does not address ownership of the product itself or the value it creates in terms of equity or distributed rights and responsibilities beyond the conventional corporate structure.
+
+**5. Design for Autonomy:**
+While traditionally a high-coordination human process, the pattern is becoming increasingly compatible with autonomous systems. The "Cognitive Era Considerations" section explicitly notes the rise of AI-powered insights, prioritization, and dynamic roadmaps. This shows a clear trajectory towards reducing coordination overhead and integrating with AI agents and distributed systems.
+
+**6. Composability & Interoperability:**
+Product Roadmapping is highly composable and interoperable. It serves as a strategic bridge that connects high-level vision to various implementation frameworks like Agile and DevOps. It can be combined with numerous prioritization models (RICE, Kano) and can be used in conjunction with other organizational patterns to build larger, coherent value-creation systems.
+
+**7. Fractal Value Creation:**
+The logic of Product Roadmapping is inherently fractal. The core process of defining a vision, prioritizing initiatives, and creating a visual plan can be applied at multiple scales—from a single feature or team, to a complex product, to an entire portfolio of products across a large enterprise. This allows the value-creation logic to be replicated consistently from micro to macro levels.
+
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+Product Roadmapping is a powerful tool for strategic alignment and adaptation within a traditional business context. It has strong potential for enabling collective value creation due to its emphasis on resilience, composability, and fractal application. However, its current framing lacks a broader stakeholder architecture and a more expansive definition of value, keeping it from being a complete value creation architecture. It is a transitional pattern that can be adapted to serve a commons-based approach with significant but achievable modifications.
+
+**Opportunities for Improvement:**
+- Broaden the stakeholder input process to formally include representatives for ecological, social, and future-generation interests.
+- Expand the prioritization frameworks to include metrics for non-economic value creation, such as knowledge generation, community resilience, and environmental impact.
+- Integrate principles of distributed ownership by linking roadmap contributions to value-sharing mechanisms beyond salaries and bonuses.
 
 ## 9. Resources & References
 

@@ -15,7 +15,7 @@ tags:
   era: [industrial, digital]
   origin: [toyota, lean-manufacturing]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -119,28 +119,42 @@ Despite the potential of AI, the role of the human remains critical in VSM. Huma
 
 Looking ahead, we can expect to see the emergence of intelligent VSM tools that can learn and adapt to changing conditions, automatically identifying opportunities for improvement. VSM will also become more integrated with other business systems, providing a more holistic view of the value stream. The focus of VSM will continue to expand from the factory floor to the entire enterprise, encompassing all aspects of the value chain.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-Value Stream Mapping, while originating from a corporate, efficiency-focused context, has the potential for significant alignment with commons principles. Its emphasis on transparency, systems thinking, and waste reduction can be leveraged to create more equitable and sustainable systems.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-1.  **Stakeholder Mapping**: VSM inherently involves mapping the stakeholders in a process, but traditionally this has been limited to those directly involved in the value stream. A commons-aligned approach would expand this to include all stakeholders, including the community, the environment, and future generations. For example, a VSM of a manufacturing process could be expanded to include the environmental impact of waste and the social impact of labor practices.
+**1. Stakeholder Architecture:**
+Value Stream Mapping primarily defines stakeholders as those directly involved in the production process, including suppliers, producers, and customers. While it excels at mapping the roles and interactions of these immediate participants, it does not inherently include broader stakeholders such as the environment, local communities, or future generations. The framework's focus is on delivering value to the customer, and the rights and responsibilities of other stakeholders must be consciously and explicitly added to the mapping process.
 
-2.  **Value Creation**: VSM is focused on creating value for the customer, but a commons-aligned approach would broaden the definition of value to include social and environmental value. For example, a VSM of a food production system could be used to identify opportunities to reduce food waste and to create a more equitable distribution of food.
+**2. Value Creation Capability:**
+The pattern is a powerful tool for enhancing economic value creation by identifying and eliminating waste, which improves efficiency and flow. However, its definition of value is traditionally centered on what the end-customer is willing to pay for. The creation of social, ecological, or knowledge value is not an intrinsic part of the methodology but can be incorporated by expanding the definition of "value" and "waste" to include non-monetary factors, such as carbon emissions or employee well-being.
 
-3.  **Value Preservation**: VSM is focused on preserving value by eliminating waste and improving efficiency. This aligns well with the commons principle of stewardship and the responsible management of resources. By reducing waste, VSM helps to preserve resources for future generations.
+**3. Resilience & Adaptability:**
+Value Stream Mapping strongly contributes to resilience and adaptability by promoting a culture of continuous improvement (Kaizen). By visualizing the entire system, it allows organizations to identify bottlenecks and dependencies, making the system more robust to disruptions. The practice of creating "future state" maps encourages proactive adaptation and helps systems evolve to meet changing conditions, thereby maintaining coherence under stress.
 
-4.  **Shared Rights & Responsibilities**: VSM can be used to create more transparency and to foster a sense of shared ownership of the value stream. By involving all stakeholders in the mapping process, VSM can help to create a more equitable distribution of rights and responsibilities.
+**4. Ownership Architecture:**
+The pattern does not address ownership architecture in terms of rights and responsibilities beyond the operational flow. It is a methodology for process analysis and improvement, not a framework for governance or asset ownership. It clarifies operational roles but does not define how ownership, equity, or decision-making rights are distributed among stakeholders.
 
-5.  **Systematic Design**: VSM is a systematic approach to process improvement. It provides a structured methodology for analyzing and improving complex systems. This aligns with the commons principle of designing systems that are resilient, adaptable, and sustainable.
+**5. Design for Autonomy:**
+Value Stream Mapping is highly compatible with autonomous systems, AI, and DAOs. As noted in its "Cognitive Era Considerations," the process can be augmented with real-time data from IoT sensors and analyzed by AI to identify inefficiencies. Its visual and data-driven nature provides the clarity needed for automated agents or distributed networks to understand and optimize their collective workflows with low coordination overhead.
 
-6.  **Systems of Systems**: VSM can be used to map and analyze systems of systems, such as supply chains and ecosystems. This allows for a more holistic understanding of the interconnectedness of different systems and the identification of opportunities for system-level improvements.
+**6. Composability & Interoperability:**
+The pattern is exceptionally composable and interoperable. It serves as a foundational analysis tool that can be combined with a wide array of other patterns, such as Kanban for workflow management, Total Productive Maintenance for equipment reliability, or Holacracy for organizational governance. Its output—a clear visualization of flow and waste—provides the necessary input for many other process improvement and organizational design patterns.
 
-7.  **Fractal Properties**: The principles of VSM can be applied at all scales, from the individual to the ecosystem. This fractal nature allows for the creation of a consistent and coherent approach to process improvement across all levels of a system.
+**7. Fractal Value Creation:**
+The logic of Value Stream Mapping is inherently fractal. It can be applied at multiple scales with consistent effectiveness, from a single team's internal process to a complex, multi-organizational supply chain. This scalability allows for the identification of waste and the optimization of value creation at the micro, meso, and macro levels, ensuring that the principles of flow and efficiency can be replicated throughout a system.
 
-**Overall Score**: 3/5 (Transitional)
+**Overall Score: 4 (Value Creation Enabler)**
 
-Value Stream Mapping is a powerful tool that has the potential to be a key enabler of a commons-based economy. However, its traditional application has been focused on a narrow definition of value and a limited set of stakeholders. To become fully commons-aligned, VSM needs to be adapted to incorporate a broader definition of value, a more inclusive approach to stakeholder engagement, and a greater emphasis on social and environmental outcomes. The opportunity for improvement lies in consciously applying a commons lens to the VSM process, asking not just “how can we be more efficient?” but “how can we create more value for all stakeholders, including the commons?”
-_n### 9. Resources & References
+**Rationale:**
+Value Stream Mapping is a powerful enabler of collective value creation by providing the systemic transparency needed to identify and eliminate waste. Its focus on flow, data-driven analysis, and continuous improvement makes it a critical tool for building resilient and adaptive systems. While its traditional application is often limited to economic value, its principles are readily adaptable to a broader, multi-capital definition of value, making it a key transitional pattern for building commons.
+
+**Opportunities for Improvement:**
+- Explicitly integrate non-financial value streams (e.g., knowledge, environmental impact, social capital) into the mapping process.
+- Expand the stakeholder analysis to include the commons (e.g., environment, community, future generations) and map their interactions with the value stream.
+- Develop standardized metrics for measuring social and ecological "waste" to be eliminated through the VSM process.
+
+### 9. Resources & References
 
 This section provides a curated list of resources for further learning and application of Value Stream Mapping.
 

@@ -15,7 +15,7 @@ tags:
   era: [digital]
   origin: ["A Flexible Design for Funding Public Goods"]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -125,25 +125,40 @@ Furthermore, the Cognitive Era is likely to see an increase in the demand for mo
 
 However, the Cognitive Era also presents new challenges for the implementation of QF. The increasing sophistication of artificial intelligence and the potential for Sybil attacks to be automated at scale will require the development of more robust and sophisticated identity verification systems. The global and interconnected nature of the Cognitive Era will also require the development of new governance models for managing QF at a global scale.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-Quadratic Funding demonstrates a strong alignment with the principles of the Commons, as it is a mechanism designed to support the creation and maintenance of shared resources. The following is an assessment of QF across the seven dimensions of the Commons.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-*   **Community and Culture (5/5):** QF is fundamentally a community-driven pattern. It empowers communities to self-organize, express their collective preferences, and fund the public goods they value. It fosters a culture of collaboration, reciprocity, and shared ownership.
+**1. Stakeholder Architecture:**
+Quadratic Funding establishes a clear stakeholder architecture centered on contributors and project creators. Contributors are granted the Right to influence funding allocation through their donations, while creators have the Responsibility to deliver the proposed public good. The broader community is an implicit stakeholder, benefiting from the outcomes, though its Rights and Responsibilities are not explicitly defined within the mechanism itself.
 
-*   **Governance and Decision-Making (4/5):** QF provides a decentralized and democratic model for governance and decision-making. It distributes power across a wide network of participants, reducing the potential for capture by special interests. However, the effectiveness of the governance model depends on the robustness of the identity verification system and the fairness of the rules.
+**2. Value Creation Capability:**
+The pattern excels at enabling collective value creation that extends far beyond direct economic output. By mathematically amplifying a broad base of support, it specifically channels resources towards projects with high social, ecological, and knowledge value that are typically underfunded by traditional markets. This directly enhances a system's capability to generate diverse forms of value.
 
-*   **Resources and Assets (5/5):** QF is a powerful tool for mobilizing resources and assets for the creation and maintenance of public goods. It provides a way to overcome the free-rider problem and ensure that shared resources are adequately funded.
+**3. Resilience & Adaptability:**
+QF enhances system resilience by diversifying its funding base, making it less fragile and susceptible to the whims of a few large funders. The mechanism is highly adaptable, as communities can continuously adjust their collective priorities in successive funding rounds. This allows the system to respond to change and maintain coherence by constantly re-aligning resource allocation with community-wide preferences.
 
-*   **Technology and Infrastructure (4/5):** The implementation of QF requires a robust and secure technological infrastructure. While there are now open-source platforms available for implementing QF, the development and maintenance of this infrastructure still requires significant resources and expertise.
+**4. Ownership Architecture:**
+The pattern re-frames ownership away from equity and towards stewardship of collective resources. While it doesn't define ownership of the resulting public goods, it establishes a form of collective ownership over the allocation process itself. The Right to participate is tied to the Responsibility of contribution, creating a system where stakeholdership is earned, not just purchased.
 
-*   **Economy and Finance (5/5):** QF presents a new and innovative model for the economy and finance of public goods. It provides a way to align the allocation of resources with the collective good, and to create a more sustainable and equitable funding ecosystem.
+**5. Design for Autonomy:**
+Quadratic Funding is exceptionally well-suited for autonomous systems, as demonstrated by its successful implementation in DAOs and other distributed networks. Its mathematical core allows for low-overhead coordination, enabling it to function as a semi-autonomous allocation engine. However, its full autonomy depends on robust, often automated, Sybil resistance mechanisms to ensure the integrity of contributions.
 
-*   **Legal and Regulatory (3/5):** The legal and regulatory landscape for QF is still evolving. There are a number of open questions about the legal status of QF, particularly in relation to securities law and taxation. Further clarity and guidance from regulators will be needed to support the wider adoption of this pattern.
+**6. Composability & Interoperability:**
+This pattern is highly composable, designed to integrate seamlessly with other patterns to build more complex value-creation systems. It naturally interoperates with DAOs for treasury management, reputation systems for weighting contributions, and various governance frameworks for setting rules. QF can act as the economic engine within a larger, modular institutional stack.
 
-*   **Ecology and Sustainability (4/5):** By supporting the creation of a more diverse and resilient ecosystem for public goods, QF can contribute to the long-term ecological and social sustainability of our communities. It provides a way to fund projects that may not be profitable in the short term, but that provide significant long-term benefits to society.
+**7. Fractal Value Creation:**
+The core logic of Quadratic Funding is fractal, meaning it can be effectively applied at virtually any scale. The value-creation mechanism works equally well for a small local community funding a park, a digital ecosystem funding open-source code, or a nation-state implementing participatory budgeting. This scalability allows the pattern to create coherent value-creation systems from the micro to the macro level.
 
-**Overall Commons Alignment Score: 4.3/5**
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Quadratic Funding is a powerful engine for collective value creation, strongly aligning with the core principles of a Commons. It provides a clear, scalable, and adaptable architecture for translating broad community preference into tangible support for public goods. Its primary function is to *enable* and *finance* value creation rather than being the complete value-creating system itself, which is why it is classified as a Value Creation Enabler.
+
+**Opportunities for Improvement:**
+- Integrate with reputation systems to give more weight to trusted contributors, enhancing Sybil resistance and rewarding long-term engagement.
+- Develop clearer governance patterns for defining the scope of eligible projects and managing the matching pool to prevent capture.
+- Explicitly define the Rights and Responsibilities of the commons being created (e.g., licensing, access, maintenance) as a condition of funding.
 
 ## 9. Resources & References
 

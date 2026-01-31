@@ -15,7 +15,7 @@ tags:
   era: [industrial, digital, cognitive]
   origin: [anarchist, socialist, cooperative-movement]
   status: draft
-  commons_alignment: 4
+  commons_alignment: 5
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -83,19 +83,40 @@ Furthermore, the tools of the Cognitive Era can be used to enhance and scale the
 
 However, the Cognitive Era also presents new challenges for worker self-management. The increasing complexity of technology can create new forms of hierarchy and exclusion. The gig economy and the rise of precarious work can undermine the stability and solidarity necessary for autogestión. It is therefore crucial that the implementation of autogestión in the Cognitive Era is guided by a strong commitment to digital literacy, lifelong learning, and the creation of secure and dignified work for all.
 
-### 8. Commons Alignment Assessment (600-800 words)
+### 8. Commons Alignment Assessment (v2.0)
 
-Autogestión, or worker self-management, demonstrates a strong alignment with the principles of the commons. The commons are shared resources that are managed collectively by a community, rather than being owned privately or controlled by the state. The core principles of the commons, as articulated by scholars such as Elinor Ostrom, include clearly defined boundaries, collective-choice arrangements, monitoring, graduated sanctions, conflict-resolution mechanisms, and minimal recognition of rights to organize. Autogestión embodies many of these principles in the context of the workplace.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-A self-managed enterprise can be seen as a form of **economic commons**, where the means of production are collectively owned and managed by the community of workers. The workers themselves define the boundaries of the community and establish the rules for accessing and using the shared resources. This aligns with the principle of **clearly defined boundaries**.
+**1. Stakeholder Architecture:**
+Autogestión fundamentally re-architects the stakeholder model by defining the workers as the primary governing stakeholders, granting them the Rights and Responsibilities of collective management and decision-making. This directly contrasts with traditional models where shareholder primacy dictates organizational direction. While the focus is strongly on human workers and the organization itself, the principle of "Community Concern" and the practice of "Social and Environmental Audits" create an explicit opening to consider the environment and local communities as key stakeholders.
 
-Decision-making in a self-managed enterprise is based on **collective-choice arrangements**, where all members have the right to participate in the governance of the organization. This is a direct application of the democratic principles that are at the heart of the commons. The practice of general assemblies and elected councils ensures that the rules and policies of the enterprise are made by the workers themselves, rather than being imposed from above.
+**2. Value Creation Capability:**
+This pattern excels at enabling collective value creation far beyond mere economic output. By prioritizing democratic governance and equitable surplus distribution, it directly generates social value (reduced alienation, increased morale) and knowledge value (worker education, skill development). The model fosters a culture of shared ownership and purpose, which enhances the system's overall resilience and capacity for sustained, multi-faceted value creation.
 
-The principles of **monitoring** and **graduated sanctions** are also present in many self-managed enterprises. The transparency of information and the close working relationships in a cooperative environment make it easier to monitor the behavior of members and to identify any free-riding or other forms of opportunistic behavior. When conflicts or rule violations do occur, they are typically addressed through **conflict-resolution mechanisms** that are based on dialogue and peer pressure, rather than hierarchical punishment.
+**3. Resilience & Adaptability:**
+Autogestión is designed for adaptability and resilience. Empowering workers with autonomy and transparent information allows the organization to sense and respond to change with greater agility than rigid, hierarchical structures. The model's emphasis on continuous learning and job rotation builds a versatile and engaged workforce, which, as evidenced by the "empresas recuperadas" movement, allows these organizations to maintain coherence and thrive even under extreme external stress.
 
-Finally, the principle of **minimal recognition of rights to organize** is central to the philosophy of autogestión. The very existence of a self-managed enterprise is an assertion of the right of workers to organize and to govern their own working lives. By creating a space for democratic self-governance in the workplace, autogestión challenges the dominant paradigm of corporate control and contributes to the broader movement for economic democracy. [5]
+**4. Ownership Architecture:**
+The pattern defines ownership as a bundle of Rights and Responsibilities, not just monetary equity. Workers hold the right to govern, control the means of production, and share in the surplus, but they also hold the responsibility for the enterprise's sustainability and direction. This aligns perfectly with a commons-based view of ownership as stewardship and collective control over a value-creating system.
 
-Given this strong alignment with the core principles of the commons, Autogestión (Worker Self-Management) is assigned a **Commons Alignment Score of 4 out of 5**. The reason it does not receive a perfect score is that the success of a self-managed enterprise is still often dependent on its ability to compete in a capitalist market economy. This can sometimes lead to a focus on internal efficiency and profitability at the expense of broader social and environmental concerns. However, the inherent democratic and cooperative nature of autogestión provides a strong foundation for building a more just and sustainable economy.
+**5. Design for Autonomy:**
+Worker self-management is highly compatible with and foundational to autonomous systems. Its principles of distributed authority, democratic governance, and voluntary association are direct precursors to the operational logic of DAOs and other distributed networks. The emphasis on transparent information and shared goals is designed to lower coordination overhead, making it an effective model for managing complex systems in a decentralized manner.
+
+**6. Composability & Interoperability:**
+The principle of "Cooperation among Cooperatives" explicitly addresses this pillar, encouraging self-managed enterprises to form supportive ecosystems and build a broader cooperative economy. This inherent interoperability allows for the creation of larger, federated value-creation systems, as exemplified by the Mondragon Corporation. The pattern is not an isolated solution but a modular component that can connect with others to build more complex and resilient economic structures.
+
+**7. Fractal Value Creation:**
+The value-creation logic of Autogestión is inherently fractal, applying successfully at multiple scales. The core principles of democratic control and equitable surplus sharing can be implemented in small teams, individual enterprises, and large-scale federations of cooperatives. The pattern provides a replicable architecture for value creation that can be scaled up or down without losing its fundamental coherence.
+
+**Overall Score: 5 (Value Creation Architecture)**
+
+**Rationale:**
+Autogestión provides a complete and robust architecture for resilient collective value creation. It reconfigures ownership, governance, and value distribution in a way that aligns almost perfectly with the 7 Pillars of the Commons OS v2.0 framework. It is not merely an enabler but a foundational blueprint for building commons-based economic systems.
+
+**Opportunities for Improvement:**
+- Strengthen the explicit inclusion of non-human stakeholders (e.g., environment, AI agents) in the governance and value distribution models.
+- Develop more formal patterns for inter-cooperative governance and resource sharing to enhance the resilience of the broader ecosystem.
+- Create clearer guidelines for applying the pattern in digitally native contexts, such as platform cooperatives and DAOs.
 
 ### 9. Resources & References (200-400 words)
 

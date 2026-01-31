@@ -28,7 +28,6 @@ license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
 ---
-
 ### 1. Overview
 
 The Cooperative Governance - Mondragon Model is a system of industrial democracy and worker ownership developed in the Basque Country of Spain. It represents a unique and highly successful approach to organizing and managing a large-scale network of cooperative enterprises. The model is defined by its commitment to placing labor before capital, ensuring democratic control by its worker-members, and fostering a deep sense of social responsibility and community development. The core problem it solves is the inherent conflict between capital and labor in traditional corporate structures, creating a more equitable and human-centered form of economic organization. The origin of the Mondragon Corporation dates back to 1956, when a young Catholic priest, José María Arizmendiarrieta, inspired five graduates of a technical school he had founded to establish the first cooperative, ULGOR. This initial venture, which manufactured heating appliances, was built on the principles of solidarity, shared ownership, and democratic participation, laying the foundation for what would grow into a global federation of cooperatives renowned for its economic resilience and social impact.
@@ -143,8 +142,6 @@ Implementing the Mondragon Model is a transformative process requiring careful p
 
 *   **Strong Leadership:** Visionary and dedicated leadership is essential to guide the cooperative and champion its values.
 *   **Commitment to Education:** A deep commitment to member education and development is a hallmark of the Mondragon model and a key to its long-term success.
-*   **Culture of Solidarity:** A strong sense of solidarity and mutual support among members is crucial, especially during difficult times.
-*   **Adaptability and Innovation:** Adaptability and innovation are essential for long-term viability, and the Mondragon cooperatives have demonstrated a remarkable capacity for both.
 
 
 ### 6. Evidence & Impact
@@ -205,41 +202,40 @@ In the cognitive era, the Mondragon model is likely to evolve in several key way
 *   **From Worker Ownership to Multi-Stakeholder Governance:** The model could evolve to include other stakeholders, such as customers, suppliers, and community members, in its governance structures, creating a more inclusive and resilient form of economic organization.
 
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Mondragon Model, rooted in cooperative principles and social transformation, aligns strongly with a commons-based economy. This assessment evaluates it against the seven dimensions of commons alignment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**1. Stakeholder Mapping:**
+**1. Stakeholder Architecture:**
+The Mondragon model establishes a robust stakeholder architecture centered on its worker-members, granting them rights of democratic governance and profit sharing, alongside responsibilities for capital contribution and active participation. It extends this architecture to the community through its principle of Social Transformation, which mandates reinvestment in local development and social well-being. While primarily human-centric, this framework lays a strong foundation that could be evolved to more explicitly include environmental and non-human stakeholders.
 
-The Mondragon model inherently recognizes a broad range of stakeholders. The primary stakeholders are the worker-members ("socios"), who are at the center of the governance structure. However, the model also explicitly acknowledges the importance of the wider community, as evidenced by its principle of Social Transformation and the significant investments it makes in local development. The creation of Lagun Aro, the social security cooperative, and the inclusion of a Social Council in the governance structure further demonstrate a commitment to the well-being of the members and their families. While the model is primarily focused on its internal stakeholders, its principle of Universality and its engagement with the global cooperative movement suggest a growing awareness of its role in a larger ecosystem of stakeholders.
+**2. Value Creation Capability:**
+The pattern excels at creating diverse forms of value far beyond the purely economic. It systematically generates social value through dignified work and democratic empowerment, knowledge value via its dedicated university and educational programs, and resilience value for the entire regional ecosystem. This multi-capital approach is embedded in its core logic, ensuring that financial success is directly linked to the well-being of its members and the vitality of the surrounding community.
 
-**2. Value Creation:**
+**3. Resilience & Adaptability:**
+The model is fundamentally designed for resilience and adaptability. The principle of Inter-cooperation creates a powerful network of mutual support that allows the cooperatives to weather economic shocks more effectively than standalone firms. Financial resilience is built through the reinvestment of profits and the use of Internal Capital Accounts, while adaptability is fostered through a deep commitment to continuous education and innovation, enabling the system to learn and evolve.
 
-The Mondragon model creates multiple forms of value. The most obvious is the economic value generated by its network of profitable enterprises. However, the model is explicitly designed to create social and human value as well. For the worker-members, it creates the value of dignified work, democratic empowerment, and personal and professional development. For the community, it creates the value of stable employment, economic resilience, and social investment. The model's commitment to education, through Mondragon University and its other educational initiatives, creates the value of knowledge and human capital. The distribution of this value is also a key feature of the model. While a portion of the profits is distributed to the worker-members through their internal capital accounts, a significant portion is reinvested in the cooperative itself and in the broader community.
+**4. Ownership Architecture:**
+Ownership is defined as a bundle of rights and responsibilities, not just a financial stake. Worker-members own the cooperative, which grants them control rights (one member, one vote) and a share in the surplus they help create. This architecture fundamentally reorients the firm around its people, treating capital as a subordinate tool rather than the basis of power, which is a core tenet of a value-creating commons.
 
-**3. Value Preservation:**
+**5. Design for Autonomy:**
+The model's participatory governance structure, while highly democratic, was designed in an industrial era and can involve significant coordination overhead. However, its principles of worker sovereignty and decentralized control are highly compatible with modern distributed systems. The core logic could be augmented with DAOs or other digital tools to streamline decision-making, reduce coordination costs, and enhance the autonomy of both individuals and cooperative units.
 
-The Mondragon model has several mechanisms for preserving value over time. The principle of Inter-cooperation creates a resilient network of mutual support that helps the cooperatives to weather economic storms. The reinvestment of profits into the cooperatives and into the creation of new enterprises ensures the long-term sustainability of the network. The model's commitment to education and innovation helps it to adapt to changing market conditions and to remain competitive. The internal capital accounts, which are not immediately redeemable, provide a stable source of long-term capital for the cooperatives. Finally, the model's strong culture of solidarity and shared purpose helps to preserve its social and human value from one generation to the next.
+**6. Composability & Interoperability:**
+High composability is a defining feature of the Mondragon model. It is a 'system of systems' where individual cooperative 'patterns' are combined to form a larger, more resilient economic ecosystem, complete with financial (Laboral Kutxa) and social welfare (Lagun Aro) components. This inherent interoperability has allowed it to scale and adapt for decades and serves as a blueprint for integrating diverse organizations into a cohesive value-creation network.
 
-**4. Shared Rights & Responsibilities:**
+**7. Fractal Value Creation:**
+The pattern's value-creation logic is deeply fractal. The core principles of democratic ownership, solidarity, and social responsibility are replicated at every scale, from the individual worker-member to the individual cooperative, and up to the entire Mondragon Corporation. This ensures that as the system grows, its fundamental character as a human-centered, value-creating commons remains intact and coherent across the whole network.
 
-The Mondragon model is built on a foundation of shared rights and responsibilities. The worker-members have the right to participate in the democratic governance of the cooperative, to share in its profits, and to receive a fair wage. They also have the responsibility to contribute to the cooperative's success through their work, to participate in its governance, and to uphold its values. The governance structure, with its General Assembly, Governing Council, and Social Council, provides a clear framework for the exercise of these rights and responsibilities. The principle of "one member, one vote" ensures that all members have an equal voice in the governance of the cooperative, regardless of their capital contribution.
+**Overall Score: 5 (Value Creation Architecture)**
 
-**5. Systematic Design:**
+**Rationale:**
+The Mondragon Model is a complete and proven architecture for resilient, collective value creation. It masterfully integrates stakeholder governance, multi-capital value creation, and a fractal, interoperable design to build a thriving economic commons that has endured and adapted for over 60 years. It stands as one of the most successful real-world implementations of the principles outlined in the Commons OS v2.0 framework.
 
-The Mondragon model is a highly systematic design for a cooperative enterprise. It has a well-defined governance structure, a sophisticated financial system, and a comprehensive set of supporting institutions. The model's various components, from the internal capital accounts to the social security system, are designed to work together to create a virtuous circle of economic success and social solidarity. The creation of Laboral Kutxa, the cooperative bank, and the Entrepreneurial Division was a critical design innovation that enabled the network to scale and to create new cooperatives. The model's systematic design is a key reason for its success and its ability to be replicated and adapted in other contexts.
-
-**6. Systems of Systems:**
-
-The Mondragon model is a prime example of a "system of systems." It is not a single, monolithic entity but a complex ecosystem of interconnected cooperatives, financial institutions, educational centers, and social welfare organizations. This nested structure, with its different levels of organization (individual cooperatives, divisions, and the corporation as a whole), allows for both autonomy and coordination. The principle of Inter-cooperation is the glue that holds this system of systems together, creating a network that is more resilient and more powerful than the sum of its parts.
-
-**7. Fractal Properties:**
-
-The Mondragon model exhibits strong fractal properties. The core principles of democratic governance, shared ownership, and social responsibility are applied at all levels of the organization, from the individual cooperative to the corporation as a whole. The "one member, one vote" principle is a fundamental building block of the entire system. This fractal design ensures that the model's values are consistently expressed throughout the network and that the system remains coherent and aligned as it scales.
-
-**Overall Score: 5 (Exemplary Commons)**
-
-The Mondragon Model is an exemplary case of a commons-based approach to economic organization. It has created a thriving ecosystem of cooperative enterprises that are both economically successful and socially responsible. The model's deep commitment to democratic governance, shared ownership, and community development makes it a powerful inspiration for those who are working to build a more just and sustainable world. While there are always opportunities for improvement, such as deepening its engagement with external stakeholders and extending its cooperative principles to the digital realm, the Mondragon Model stands as a remarkable achievement in the history of the commons.
+**Opportunities for Improvement:**
+- Explicitly integrate ecological responsibilities into the core principles to account for environmental stakeholders.
+- Digitize governance and management processes to reduce coordination overhead and enhance member participation in the cognitive era.
+- Evolve the ownership architecture to experiment with multi-stakeholder models that include consumers, suppliers, and the local community more formally in governance.
 
 
 ### 9. Resources & References
@@ -260,27 +256,3 @@ The Mondragon Model is an exemplary case of a commons-based approach to economic
 
 *   **Loomio:** A collaborative decision-making tool that can be used to facilitate democratic governance in cooperatives and other organizations.
 *   **Cobudget:** A collaborative funding tool that can be used to allocate resources and make financial decisions in a participatory way.
-
-**References:**
-
-[1] Mondragon Corporation. (n.d.). *About Us*. Retrieved from https://www.mondragon-corporation.com/en/about-us/
-
-[2] IRES. (2025). *WIKI n°20: Mondragon Cooperatives Governance Model – Spain*. Retrieved from https://www.ires.ma/iip/wp-content/uploads/2025/04/WIKI-n%C2%B020-Mondragon-Cooperatives-Governance-Model-%E2%80%93-Spain.pdf
-
-[3] Whyte, W. F., & Whyte, K. K. (1988). *Making Mondragon: The growth and dynamics of the worker cooperative complex*. Cornell University Press.
-
-[4] Cheney, G. (1999). *Values at work: Employee participation meets market pressure at Mondragon*. Cornell University Press.
-
-[5] The World Bank. (2012). *The Mondragon Cooperatives: A Model for Our Times?*. Retrieved from https://www.worldbank.org/en/news/feature/2012/12/11/the-mondragon-cooperatives-a-model-for-our-times
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/15-cooperative-governance-mondragon-model/](https://commons-os.github.io/patterns/domain/15-cooperative-governance-mondragon-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/15-cooperative-governance-mondragon-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/15-cooperative-governance-mondragon-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

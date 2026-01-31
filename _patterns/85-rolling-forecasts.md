@@ -98,7 +98,6 @@ The primary value of a rolling forecast is its ability to provide a more accurat
 -   **Success Factors**:
     -   **Strong Leadership Support**: As with any significant change initiative, strong and visible support from senior leadership is essential.
     -   **Clear Communication and Training**: It's important to clearly communicate the purpose and benefits of the rolling forecast and to provide adequate training to all those who will be involved in the process.
-    -   **Focus on Continuous Improvement**: A rolling forecast is not a one-time project. It's a continuous process that should be regularly reviewed and refined to ensure it remains relevant and effective.
 ### 6. Evidence & Impact (300-500 words)
 
 -   **Notable Adopters**:
@@ -126,25 +125,40 @@ The primary value of a rolling forecast is its ability to provide a more accurat
 
 -   **Evolution Outlook**: In the future, we can expect to see rolling forecasts become even more dynamic, continuous, and intelligent. The distinction between planning, forecasting, and reporting will likely blur as real-time data and AI-powered insights are integrated directly into the decision-making process. We may see the emergence of "live" financial models that are continuously updated and that can simulate the impact of decisions in real-time. This will enable organizations to become even more agile and proactive, navigating uncertainty with greater confidence and turning volatility into a competitive advantage.
 
-### 8. Commons Alignment Assessment (600-800 words)
+### 8. Commons Alignment Assessment (v2.0)
 
-1.  **Stakeholder Mapping**: The rolling forecast pattern inherently promotes a more inclusive stakeholder map compared to traditional, top-down budgeting. Its effectiveness hinges on the active participation of various departments, including sales, marketing, operations, and human resources, in addition to the finance team and senior leadership. This cross-functional collaboration ensures that the forecast is grounded in the operational realities of the business. However, the scope of stakeholder engagement is typically limited to internal actors within the organization. The interests of external stakeholders, such as customers, suppliers, and the broader community, are generally not directly represented in the forecasting process, although their behavior is often a key input to the forecast (e.g., customer demand).
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-2.  **Value Creation**: The primary value created by a rolling forecast is enhanced organizational agility and improved decision-making. By providing a more accurate and timely view of the future, it enables the organization to respond more effectively to changing market conditions, allocate resources more efficiently, and improve its overall financial performance. The primary beneficiaries of this value are the organization's shareholders, who see improved returns, and its employees, who may benefit from a more stable and successful company. The value created for external stakeholders is indirect, for example, through more reliable product availability for customers or more predictable orders for suppliers.
+**1. Stakeholder Architecture:**
+The pattern promotes a collaborative, cross-functional approach, defining responsibilities for input from departments like sales, marketing, and operations. This expands the stakeholder view beyond just the finance department. However, it does not explicitly define the Rights and Responsibilities for external stakeholders such as the environment, the community, or future generations, focusing primarily on the internal architecture of the organization.
 
-3.  **Value Preservation**: The rolling forecast pattern is designed for value preservation through its continuous and adaptive nature. Unlike a static annual budget that quickly becomes outdated, a rolling forecast is constantly updated to reflect the latest information and business conditions. This ensures that it remains a relevant and valuable tool for decision-making over time. The use of driver-based models and technology platforms further enhances its resilience and adaptability.
+**2. Value Creation Capability:**
+Rolling Forecasts primarily enable the creation of economic and resilience value. By providing a constantly updated, forward-looking view, it allows an organization to adapt to market changes and allocate resources more effectively. While this enhances financial stability and agility, the pattern does not inherently address the creation of social, ecological, or knowledge value, as its core drivers are typically financial and operational metrics.
 
-4.  **Shared Rights & Responsibilities**: A rolling forecast promotes a greater sense of shared responsibility for the organization's financial performance. By involving a broader range of stakeholders in the forecasting process, it fosters a sense of collective ownership of the numbers. However, the rights to the forecast—the ability to approve it, modify it, and decide how it is used—are typically concentrated in the hands of senior leadership and the finance department. While operational managers have a responsibility to provide accurate inputs, they may not have the right to challenge the final forecast or the decisions that are based on it.
+**3. Resilience & Adaptability:**
+This is a core strength of the pattern. Rolling Forecasts are explicitly designed to help systems thrive on change and adapt to complexity by replacing static, outdated annual budgets. The continuous update cycle ensures the organization maintains coherence and can proactively respond to risks and opportunities, making it a powerful tool for building resilience in volatile environments.
 
-5.  **Systematic Design**: The rolling forecast pattern is enabled by a systematic design that includes a well-defined process, a clear set of roles and responsibilities, and a supporting technology infrastructure. The use of driver-based models provides a clear and logical structure for the forecast, while modern EPM/CPM platforms provide the tools for data integration, collaboration, and analysis. This systematic design is essential for ensuring the efficiency, accuracy, and sustainability of the rolling forecast process.
+**4. Ownership Architecture:**
+The pattern introduces the concept of "cross-functional ownership" over the forecasting process, fostering collective accountability for the projections. This shifts ownership from a siloed finance function to a shared organizational responsibility. However, this definition of ownership is about process and accountability, not a re-architecture of equity or the fundamental Rights and Responsibilities associated with the value created.
 
-6.  **Systems of Systems**: A rolling forecast can be seen as a key component of a broader system of systems for organizational management. It integrates with and supports other key management processes, such as strategic planning, performance management, and risk management. For example, the rolling forecast can provide the financial context for strategic decisions, and it can be used to set more realistic and relevant performance targets. It can also be a key input into the risk management process, helping to identify and quantify potential financial risks.
+**5. Design for Autonomy:**
+Rolling Forecasts are highly compatible with autonomous systems. The pattern is technology-enabled, benefits from AI and predictive analytics, and its driver-based model simplifies complexity. This structure is well-suited for DAOs or other distributed systems where automated, data-driven decision-making can be implemented with lower coordination overhead than traditional budgeting.
 
-7.  **Fractal Properties**: The principles of rolling forecasts exhibit fractal properties, as they can be applied at different scales throughout an organization. A single department can use a rolling forecast to manage its own budget and resources, while the organization as a whole can use a consolidated rolling forecast to manage its overall financial performance. The core principles of continuous planning, driver-based modeling, and cross-functional collaboration are relevant and applicable at all of these scales.
+**6. Composability & Interoperability:**
+The pattern is designed for high interoperability, explicitly recommending integration with other key management processes like strategic planning and performance management. It can be composed with other operational and financial patterns to create more sophisticated, holistic management systems. Its driver-based nature makes it modular and adaptable for combination with other value-creation patterns.
 
-**Overall Score**: 3/5 (Transitional)
+**7. Fractal Value Creation:**
+The value-creation logic of Rolling Forecasts is fractal within an organizational context. The pattern documentation notes that it can be applied at the scale of a single team, a department, or an entire organization. This allows the logic of adaptive planning and resource allocation to be replicated at multiple levels of a hierarchical system, ensuring coherence across scales.
 
-**Rationale**: The rolling forecast pattern represents a significant step away from the extractive and hierarchical nature of traditional budgeting. It promotes greater collaboration, agility, and data-driven decision-making, which are all hallmarks of a more commons-aligned approach to organizational management. However, the pattern is still primarily focused on optimizing the financial performance of the individual organization, and it does not yet fully embrace the broader principles of the commons, such as multi-stakeholder governance and the creation of shared value for all stakeholders. To become more commons-aligned, the pattern could be extended to include a more explicit consideration of the interests of external stakeholders and a greater emphasis on the creation of social and environmental value in addition to financial value.
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+Rolling Forecasts are a significant step beyond legacy static planning, strongly enabling adaptability and resilience (Pillar 3). The pattern shows transitional potential by promoting collaborative ownership (Pillar 4) and being highly compatible with autonomous systems (Pillar 5). However, its primary focus remains on internal, financial value creation, lacking a broader stakeholder architecture and a multi-capital view of value. To become a true value creation enabler, it needs to be adapted to incorporate non-financial drivers and a wider stakeholder perspective.
+
+**Opportunities for Improvement:**
+- Integrate non-financial Key Performance Indicators (KPIs) related to social and ecological value into the driver-based model.
+- Expand the stakeholder model to include inputs and responsibilities related to community, environmental, and supply chain partners.
+- Adapt the pattern for use in multi-organizational commons to manage shared resources and forecast collective value creation beyond a single entity.
 
 ### 9. Resources & References (200-400 words)
 

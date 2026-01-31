@@ -102,17 +102,40 @@ The **human-machine balance** is a key consideration. The Rhenish model, with it
 
 The **evolution outlook** for the Rhenish model in the Cognitive Era is likely a move towards "Digital Rhenish." This would involve a greater emphasis on data governance, digital skills, and the platform economy. The challenge will be to apply the core principles of social partnership and long-term stakeholder value to the more fluid and globalized world of the digital economy.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Rhenish model of capitalism, when assessed against the seven dimensions of a commons-aligned organizational pattern, reveals a fascinating hybrid. It is a system that, while still fundamentally capitalist, incorporates many principles and practices that resonate with a commons-based approach.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-In terms of **Stakeholder Mapping**, the model is highly comprehensive, legally recognizing a broad range of stakeholders beyond just shareholders. **Value Creation** is multi-dimensional, encompassing social, human, and long-term enterprise value, with the benefits more broadly distributed among stakeholders. The model has strong mechanisms for **Value Preservation** through long-term investment in R&D and the continuous renewal of human capital. **Shared Rights & Responsibilities** are a core strength, with co-determination and collective bargaining creating a formal distribution of rights and responsibilities between capital and labor.
+**1. Stakeholder Architecture:**
+The Rhenish model establishes a robust stakeholder architecture by formally integrating labor into corporate governance through co-determination, giving them legal rights and responsibilities. It extends the definition of stakeholders beyond shareholders to include employees, customers, suppliers, and the community, enforced through social partnership and a stakeholder value orientation. However, this architecture is primarily anthropocentric, lacking explicit mechanisms to represent the rights and responsibilities of environmental or future-generational stakeholders.
 
-The model is a highly **Systematic Design**, with its various components working together as a set of mutually reinforcing institutions. It also demonstrates a sophisticated understanding of **Systems of Systems**, recognizing that the economic system is embedded within a broader social and political system. The principles of the model exhibit some **Fractal Properties**, evident at national, sectoral, corporate, and plant levels.
+**2. Value Creation Capability:**
+The pattern strongly enables the creation of collective value beyond purely economic metrics. It fosters social value through its comprehensive welfare system and focus on equity, and knowledge value via its dual vocational training system that creates a highly skilled workforce. By prioritizing long-term stability over short-term profits, it builds resilience value, as demonstrated by its performance during economic crises. This represents a significant shift from resource management to a more holistic capability for creating diverse forms of value.
 
-**Overall Score: 3/5 (Transitional)**
+**3. Resilience & Adaptability:**
+The model is designed for resilience, creating stability through long-term, trust-based relationships between capital, labor, and finance. This structure helps maintain coherence under stress, such as economic downturns. However, its strength in stability comes at the cost of adaptability; the model's reliance on established institutions and negotiated consensus makes it less suited for environments requiring rapid, disruptive innovation, as seen in the fast-paced digital economy.
 
-The Rhenish model is best described as a **transitional** pattern. It is a significant evolution from a purely extractive, shareholder-dominated model and incorporates many features of a commons-aligned system. However, it is not a full commons pattern. The means of production remain privately owned, and the ultimate goal is still capital accumulation. Opportunities for improvement lie in extending the principles of co-determination to other stakeholder groups, developing more robust mechanisms for environmental sustainability, and adapting the model to the challenges of globalization and the digital economy.
+**4. Ownership Architecture:**
+While formal ownership of capital remains private, the Rhenish model fundamentally re-architects the rights and responsibilities associated with it. Co-determination effectively distributes key ownership rights—particularly control and decision-making—to the labor stakeholder group, moving beyond a purely monetary definition of equity. This creates a form of functional, de facto shared ownership where the responsibilities of the enterprise are legally oriented toward a broader set of stakeholders, not just capital providers.
+
+**5. Design for Autonomy:**
+The pattern shows low compatibility with autonomous systems like DAOs or AI-driven networks. Its architecture is built on high-coordination, high-trust, and institutionally heavy processes like collective bargaining and formal board representation. This centralized, negotiation-based approach runs counter to the principles of low-coordination overhead and emergent order that characterize highly autonomous systems, making direct integration difficult without significant adaptation.
+
+**6. Composability & Interoperability:**
+Rhenish Capitalism functions as a meta-pattern, providing a stable, high-level framework that combines and interoperates with other patterns like works councils and vocational training. Its successful adaptation in various forms in countries like Austria and the Netherlands demonstrates its ability to interoperate with different national, legal, and cultural contexts. It creates a predictable environment where other economic and social patterns can be composed to build a larger, cohesive system.
+
+**7. Fractal Value Creation:**
+The pattern exhibits strong fractal characteristics. The core logic of social partnership and negotiated, multi-stakeholder decision-making applies at multiple scales. This is visible from the national level (tripartite government-union-employer negotiations), to the sectoral level (collective bargaining), the corporate level (supervisory boards), and down to the plant level (works councils), demonstrating a consistent value-creation logic across the system.
+
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+The Rhenish model is a significant transitional step away from extractive capitalism, with a strong focus on stakeholder collaboration and long-term, multi-faceted value creation. It contains a robust architecture for distributing rights and responsibilities. However, its alignment is incomplete due to its traditional private ownership core, its limited adaptability to rapid change, and its lack of built-in representation for ecological systems.
+
+**Opportunities for Improvement:**
+- Integrate environmental stakeholders into the governance structure, for instance, by granting ecological representatives seats on supervisory boards to ensure planetary boundaries are respected.
+- Develop new mechanisms to increase adaptability, such as creating experimental zones for more agile, decentralized governance models to thrive within the broader stable framework.
+- Evolve ownership structures by exploring and integrating models like steward-ownership or multi-stakeholder cooperatives that legally embed a purpose beyond profit and capital accumulation.
 
 ## 9. Resources & References
 

@@ -15,7 +15,7 @@ tags:
   era: industrial
   origin: ["academic", "healthcare"]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg50240rf3s9mqrqzp0c8t14"]
@@ -136,25 +136,40 @@ Shared governance is a professional practice model and organizational framework 
 - **Evolution Outlook**: In the cognitive era, shared governance is likely to evolve into a more dynamic and data-driven model. Councils may use real-time data dashboards to monitor key performance indicators and make more agile decisions. The use of AI-powered simulation tools could allow councils to test the potential impact of different decisions before they are implemented. The boundaries between different councils may become more fluid, with the formation of ad-hoc, cross-functional teams to address specific issues as they arise. The focus will be on creating a learning organization that can continuously adapt and improve in response to new information and changing circumstances.
 
 
-### 8. Commons Alignment Assessment (600-800 words)
+### 8. Commons Alignment Assessment (v2.0)
 
-1.  **Stakeholder Mapping**: Shared governance in healthcare primarily focuses on internal stakeholders, particularly nurses and other clinical staff. While the ultimate beneficiary is the patient, the model's direct participants are the healthcare professionals. The scope of stakeholder engagement is comprehensive within the organization, aiming to include all levels of clinical staff in the decision-making process. However, it often falls short of fully integrating patients, families, and the broader community as active participants in the governance structure. The focus remains on the professional commons of the healthcare team rather than a broader health commons that includes all stakeholders.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-2.  **Value Creation**: The primary value created by shared governance is the improvement of the quality of care and the professional practice environment. For patients, this translates to better health outcomes, increased safety, and higher satisfaction. For staff, it creates a more empowering and engaging work environment, leading to increased job satisfaction, professional growth, and retention. The value is shared among the participating stakeholders, with the organization also benefiting from improved performance and a better reputation. However, the distribution of value can be uneven, with the organization and its leadership often reaping the most significant financial and reputational rewards.
+**1. Stakeholder Architecture:**
+Shared Governance defines a clear architecture of Rights and Responsibilities, but primarily for internal stakeholders like nurses and clinical staff. It grants them the Right to participate in decision-making and the Responsibility to improve their practice and patient outcomes. However, it generally does not extend these governance rights to external stakeholders such as patients, their families, or the wider community, who remain passive recipients of care rather than active co-creators of value.
 
-3.  **Value Preservation**: Shared governance preserves value by creating a more resilient and adaptive organization. By empowering frontline staff to identify and address problems, it fosters a culture of continuous improvement that can help the organization to maintain its relevance and effectiveness over time. The model's focus on evidence-based practice and professional development also helps to ensure that the organization's knowledge and skills are kept up-to-date. However, the sustainability of shared governance can be a challenge, as it requires ongoing commitment from leadership and a willingness to invest in the necessary resources.
+**2. Value Creation Capability:**
+This pattern strongly enables the creation of diverse forms of value beyond the purely economic. It directly contributes to social value through improved patient safety and outcomes, and knowledge value by fostering a culture of evidence-based practice and professional development. By increasing staff engagement and job satisfaction, it also generates resilience value, making the healthcare organization a more sustainable and desirable place to work.
 
-4.  **Shared Rights & Responsibilities**: Shared governance is built on the principle of distributing rights and responsibilities more broadly throughout the organization. Staff are given the right to participate in decision-making and the responsibility to contribute to the improvement of their practice. However, the ultimate authority and accountability often still reside with management. While staff may have a voice, they may not have the final say in all decisions. The distribution of rights and responsibilities can also be uneven, with some staff having more opportunities to participate than others.
+**3. Resilience & Adaptability:**
+The model is designed to enhance adaptability by empowering frontline staff—those closest to the patient—to identify issues and lead improvement initiatives. This decentralized approach allows the system to respond to localized needs and adapt to complexity more effectively than a rigid, top-down hierarchy. Its reliance on structured councils and processes provides coherence, but can also introduce bureaucracy that slows adaptation if not managed carefully.
 
-5.  **Systematic Design**: Shared governance is a systematic approach to organizational design, with a clear structure of councils, roles, and processes. The use of formal charters, bylaws, and decision-making frameworks provides a clear and transparent system for how the model operates. However, the design of the system can be rigid and bureaucratic, which can stifle innovation and make it difficult to respond to changing needs. The focus on process can sometimes overshadow the focus on outcomes.
+**4. Ownership Architecture:**
+Shared Governance excels at redefining ownership as a set of Rights and Responsibilities rather than monetary equity. The core principle of "Ownership" moves clinicians from a passive employee mindset to that of an active stakeholder with a vested interest in the quality of care and the health of the work environment. This stewardship-based ownership is fundamental to its success.
 
-6.  **Systems of Systems**: Shared governance can be seen as a system of systems, with the various councils and committees forming a network of interconnected parts. It can also be integrated with other organizational systems, such as quality improvement, risk management, and professional development. However, the integration of shared governance with other systems can be a challenge, and it can sometimes operate in a silo, separate from the rest of the organization.
+**5. Design for Autonomy:**
+The pattern is inherently designed for distributed autonomy, decentralizing decision-making from management to clinical staff. Its council structure is a framework for enabling autonomous, yet coordinated, action. As noted in the pattern's Cognitive Era Considerations, this structure is highly compatible with augmentation by AI and data analytics tools, which can further enhance the autonomy and effectiveness of the councils with low coordination overhead.
 
-7.  **Fractal Properties**: The principles of shared governance can be applied at all levels of the organization, from the individual unit to the entire health system. The core principles of partnership, equity, and accountability can be seen as fractal properties that can be replicated at different scales. However, the implementation of shared governance can be inconsistent across different parts of the organization, with some units having a more robust and effective model than others.
+**6. Composability & Interoperability:**
+Shared Governance is a highly composable framework that is designed to integrate with other organizational systems, such as Quality Improvement (QI) and Evidence-Based Practice (EBP). It can be combined with other governance and operational patterns to create more comprehensive value-creation systems. The model's council structure can serve as a plug-in component within a larger organizational architecture.
 
-**Overall Score**: 3 - Transitional
+**7. Fractal Value Creation:**
+The pattern exhibits strong fractal properties, as its core principles of partnership, equity, and accountability can be applied at multiple scales. The structure of Unit-Based Councils scaling up to Central Councils is a direct application of fractal design. This allows the same value-creation logic—empowering those who do the work to improve the work—to be replicated from a single department to an entire multi-hospital system.
 
-**Rationale**: Shared governance in healthcare represents a significant step away from traditional hierarchical models of management and towards a more collaborative and empowering approach. It has demonstrated its ability to create value for patients, staff, and organizations. However, it still falls short of a fully commons-aligned model in several key areas. The scope of stakeholder engagement is often limited to internal stakeholders, the distribution of rights and responsibilities can be uneven, and the model can be rigid and bureaucratic. To become more commons-aligned, shared governance in healthcare would need to more fully embrace the principles of co-production with patients and the community, create more equitable and democratic forms of decision-making, and adopt a more flexible and adaptive approach to its design and implementation.
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Shared Governance is a powerful enabler of collective value creation within the healthcare domain. It establishes a robust internal architecture for distributing rights and responsibilities, fostering non-monetary ownership, and building adaptive capacity. It scores highly because its primary function is to create the conditions for better social, knowledge, and resilience value. It falls short of a perfect score because its stakeholder architecture is typically limited to internal professionals, missing the opportunity to fully integrate patients and the community as co-creators of health value.
+
+**Opportunities for Improvement:**
+- Integrate patient and family representatives into the council structure to co-design care processes and policies.
+- Use distributed ledger technology or similar tools to create a more transparent and auditable record of decisions and their outcomes.
+- Develop lightweight, agile processes to complement the formal council structure, allowing for more rapid adaptation and innovation.
 
 
 ### 9. Resources & References (200-400 words)

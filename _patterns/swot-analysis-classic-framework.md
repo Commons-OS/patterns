@@ -15,7 +15,7 @@ tags:
   era: [industrial, digital]
   origin: [Stanford Research Institute]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 2
 commons_domain: business
 generalizes_from: ["pat_01kg5023w7f0htcqtrv6h89qa8"]
 specializes_to: []
@@ -98,23 +98,40 @@ In the cognitive era, AI and automation can significantly enhance SWOT analysis 
 
 
 
-### 8. Commons Alignment Assessment (600-800 words)
+### 8. Commons Alignment Assessment (v2.0)
 
-1.  **Stakeholder Mapping**: SWOT analysis inherently encourages a degree of stakeholder mapping by considering both internal (employees, managers) and external (customers, competitors, regulators) factors. However, the classic framework does not explicitly require a systematic mapping of all stakeholders and their interests. The quality of the stakeholder consideration depends heavily on the team conducting the analysis. To improve its commons alignment, the process could be enhanced by incorporating a more formal stakeholder analysis at the outset.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-2.  **Value Creation**: The primary focus of SWOT analysis is on creating value for the organization. It helps to identify opportunities for growth and to develop strategies that enhance the company's competitive advantage. While this can lead to the creation of valuable products and services for customers, the framework does not inherently prioritize the creation of value for other stakeholders or for the commons as a whole. The value created is often narrowly defined in financial terms.
+**1. Stakeholder Architecture:**
+SWOT analysis does not formally define or manage stakeholder Rights and Responsibilities. It is a strategic framework that identifies internal and external factors, which implicitly includes some stakeholders like employees, customers, and competitors. However, the depth of stakeholder consideration is left to the discretion of the team conducting the analysis, lacking a systemic architecture for inclusive governance.
 
-3.  **Value Preservation**: SWOT analysis contributes to value preservation by helping organizations to identify and mitigate threats to their business. By proactively addressing potential risks, companies can ensure their long-term sustainability. However, the framework's focus is on preserving the value of the organization, not necessarily on preserving the value of the commons or the broader ecosystem in which it operates.
+**2. Value Creation Capability:**
+The framework is primarily designed to enhance the strategic position and value of the entity performing the analysis, often with a focus on competitive advantage and financial return. While it can be adapted to pursue social or ecological goals, its core logic does not inherently promote collective value creation beyond the user organization. The value captured is typically private, not shared across a wider ecosystem.
 
-4.  **Shared Rights & Responsibilities**: The classic SWOT analysis framework does not explicitly address the distribution of rights and responsibilities among stakeholders. The process is typically driven by the organization's management, and the resulting strategies are designed to benefit the company. There is no inherent mechanism for ensuring that the rights and responsibilities of other stakeholders are respected or that the benefits of the organization's activities are shared equitably.
+**3. Resilience & Adaptability:**
+SWOT analysis directly supports resilience by systematically identifying threats and opportunities, enabling an organization to adapt its strategy to a changing environment. The practice of periodically revisiting the analysis helps maintain strategic coherence under stress. This capability makes it a useful tool for navigating complexity, although it is more of a sensing tool than a complete adaptive system.
 
-5.  **Systematic Design**: SWOT analysis is a systematic process for analyzing an organization's strategic position. It provides a structured framework for gathering and organizing information, which can lead to more systematic and well-informed decision-making. However, the design of the process itself is not always as systematic as it could be, often relying on informal brainstorming and subjective assessments.
+**4. Ownership Architecture:**
+The pattern does not address ownership architecture in any meaningful way. It is a strategic planning tool focused on situational analysis, not on defining the Rights and Responsibilities associated with the assets or value being created. Ownership is implicitly assumed to be private and held by the entity conducting the analysis.
 
-6.  **Systems of Systems**: SWOT analysis can be applied at different levels of a system, from an individual to an entire ecosystem. It can be used to analyze the interactions between different parts of a system and to identify how they can work together more effectively. However, the framework does not inherently promote a systems-thinking approach, and it is often used in a more linear and reductionist way.
+**5. Design for Autonomy:**
+As a classic framework, SWOT analysis is a highly manual and deliberative process requiring significant human coordination for brainstorming and analysis. It is not inherently designed for compatibility with autonomous systems like DAOs or AI agents. While AI can be used to automate data gathering, the core strategic reasoning remains a human-centric group activity.
 
-7.  **Fractal Properties**: The principles of SWOT analysis can be applied at different scales, from a small team to a large multinational corporation. This fractal nature makes it a versatile and widely applicable tool. The same basic process of identifying strengths, weaknesses, opportunities, and threats can be used to inform strategic decisions at all levels of an organization.
+**6. Composability & Interoperability:**
+SWOT analysis is highly composable and is frequently used in conjunction with other strategic planning frameworks like PESTLE, VRIO, or the Business Model Canvas. Its simple, four-quadrant structure makes it a versatile module that can be easily integrated into larger, more comprehensive analysis and strategy development systems. This interoperability is one of its most enduring strengths.
 
-**Overall Score**: 3 (Transitional)
+**7. Fractal Value Creation:**
+The pattern exhibits strong fractal properties, as the logic of assessing Strengths, Weaknesses, Opportunities, and Threats can be applied at nearly any scale. It is used for personal development, team-level planning, corporate strategy, and even analyzing entire industries or ecosystems. This scalability allows the core value-creation logic to be replicated across different levels of a system.
+
+**Overall Score: 2 (Partial Enabler)**
+
+**Rationale:**
+SWOT Analysis is a foundational strategic tool that partially enables value creation by improving an organization's situational awareness and adaptability. However, it has major gaps in the v2.0 framework, particularly in Stakeholder and Ownership Architecture. It is primarily a self-serving tool for a single entity and lacks the built-in mechanisms for fostering collective value creation, shared ownership, or autonomous operation, making it a partial enabler that requires significant adaptation to align with commons principles.
+
+**Opportunities for Improvement:**
+- Integrate a formal stakeholder mapping process to define Rights and Responsibilities for all affected parties, not just those with market power.
+- Modify the framework to explicitly include the creation of social, ecological, and knowledge value alongside economic value.
+- Develop extensions that define how the insights from the analysis can be translated into shared ownership and governance models for the value created.
 
 **Rationale**: SWOT analysis is a powerful tool for strategic planning, but its traditional application is primarily focused on maximizing value for the organization. While it has some elements that align with a commons-based approach, such as its systematic nature and its potential for stakeholder consideration, it falls short in several key areas. To become more commons-aligned, the framework would need to be adapted to more explicitly incorporate the interests of all stakeholders, to prioritize the creation of value for the commons, and to promote a more equitable distribution of rights and responsibilities. The move from SOFT to SWOT already represents a shift in focus from internal satisfaction to a more externally-oriented view of strengths, which is a step in the right direction. Further evolution is needed to fully align with the principles of a commons-based economy.
 

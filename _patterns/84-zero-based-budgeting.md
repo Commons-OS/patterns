@@ -145,62 +145,37 @@ While AI and automation can augment the ZBB process, the human element remains c
 
 The evolution of ZBB in the cognitive era is likely to involve a greater integration of AI and automation. We can expect to see more sophisticated ZBB software that leverages AI to provide real-time insights and recommendations. The focus will likely shift from a periodic, labor-intensive process to a more continuous and dynamic approach to budgeting, where resources are allocated and reallocated in response to changing conditions.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-1.  **Stakeholder Mapping:** ZBB primarily focuses on internal stakeholders, such as managers and employees. While it can lead to better value for customers and shareholders through lower costs and improved efficiency, it does not inherently include a comprehensive mapping of all stakeholders, including the community and the environment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-2.  **Value Creation:** The primary value created by ZBB is economic value for the organization and its shareholders. It can also create value for customers through lower prices. However, it does not explicitly consider other forms of value, such as social and environmental value.
+**1. Stakeholder Architecture:**
+Zero-Based Budgeting (ZBB) primarily defines Rights and Responsibilities for internal, human stakeholders such as department managers and employees. The core responsibility is to justify all expenses from a zero base, while the right to receive funding is contingent on this justification and its alignment with organizational strategy. The framework does not inherently account for non-human or external stakeholders like the environment, future generations, or autonomous agents, focusing instead on the financial and operational structure of the organization.
 
-3.  **Value Preservation:** ZBB helps to preserve value by ensuring that resources are not wasted on inefficient or obsolete activities. However, its short-term focus on cost-cutting can sometimes undermine long-term value creation.
+**2. Value Creation Capability:**
+The pattern is strongly focused on creating economic value by optimizing resource allocation and eliminating inefficient spending. While this can free up capital for other forms of value creation (social, knowledge, ecological), ZBB itself does not provide a mechanism to measure or prioritize them. Its capability is in enabling financial efficiency, which is a precondition for, but not a direct driver of, holistic value creation.
 
-4.  **Shared Rights & Responsibilities:** ZBB promotes shared responsibility for budgeting among employees, but the ultimate decision-making power remains with management.
+**3. Resilience & Adaptability:**
+ZBB enhances adaptability by forcing a regular, in-depth review of all organizational activities, allowing for reallocation of resources in response to strategic shifts or external changes. This prevents the inertia of traditional budgeting and builds a degree of financial resilience. However, the process can be rigid and time-consuming, and if focused too heavily on short-term cost-cutting, it can undermine long-term resilience by underfunding crucial areas like research and development.
 
-5.  **Systematic Design:** ZBB is a highly systematic and structured process, with clear steps and procedures.
+**4. Ownership Architecture:**
+Ownership in ZBB is defined through accountability. Managers and employees take ownership of their budget requests and are held responsible for their performance. However, this is a form of operational and financial stewardship rather than an equity-based ownership model. It reinforces a hierarchical structure where ultimate control over resources rests with senior management who approve the final budget.
 
-6.  **Systems of Systems:** ZBB can be integrated with other management systems, such as strategic planning and performance management.
+**5. Design for Autonomy:**
+ZBB is fundamentally a centralized, control-oriented process that is not inherently compatible with highly autonomous systems like DAOs. The requirement for detailed justification and hierarchical approval creates significant coordination overhead. While AI can augment and streamline the data analysis portion of ZBB, the core decision-making logic remains top-down, contrasting with the principles of distributed governance and low-touch coordination.
 
-7.  **Fractal Properties:** The core principles of ZBB can be applied at all levels of an organization, from individual departments to the entire enterprise.
+**6. Composability & Interoperability:**
+As a financial management methodology, ZBB is highly composable. It can be integrated with various organizational governance and operational patterns. For instance, a decentralized organization could use ZBB within its autonomous units to manage their own finances, or it could be paired with project management frameworks to ensure projects are funded efficiently.
+
+**7. Fractal Value Creation:**
+The logic of ZBB—justifying all expenses from a zero base to align with strategic goals—is fractal. It can be applied at any scale, from a small team or project to a department, a business unit, or an entire multinational corporation or government. This scalability allows the core principle of disciplined resource allocation to be replicated throughout a larger system.
 
 **Overall Score: 3 (Transitional)**
 
-Zero-Based Budgeting is a powerful tool for financial management, but its traditional application has a narrow focus on economic value for the organization. To become more commons-aligned, ZBB could be adapted to incorporate a broader range of stakeholders and value considerations. For example, the evaluation of decision packages could include criteria related to social and environmental impact.
+**Rationale:**
+Zero-Based Budgeting receives a transitional score because it is a powerful tool for achieving financial discipline and strategically aligning resources, which is a critical enabler of value creation. However, its focus is almost exclusively on economic value and internal financial control. To fully align with the v2.0 framework, it would need significant adaptation to incorporate a multi-stakeholder perspective and a broader definition of value that includes social, ecological, and knowledge-based outcomes.
 
-### 9. Resources & References
-
-**Essential Reading:**
-
-*   Pyhrr, Peter A. (1973). *Zero-Base Budgeting: A Practical Management Tool for Evaluating Expenses*. John Wiley & Sons.
-
-**Organizations & Communities:**
-
-*   **The Hackett Group:** A leading business advisory firm that provides research and consulting on ZBB.
-*   **Proformative:** An online community for finance professionals, with resources and discussions on ZBB.
-
-**Tools & Platforms:**
-
-*   **Anaplan:** A cloud-based platform for financial planning and analysis that supports ZBB.
-*   **Oracle NetSuite Planning and Budgeting:** A cloud-based solution that helps organizations to implement ZBB.
-
-**References:**
-
-[1] [Investopedia. (2025). *Master Zero-Based Budgeting: A Comprehensive Guide*.](https://www.investopedia.com/terms/z/zbb.asp)
-
-[2] [Umbrex. (2025). *Key Steps to Zero-based Budgeting Implementation*.](https://umbrex.com/news-articles/key-steps-to-zero-based-budgeting-implementation/)
-
-[3] [Bain & Company. (n.d.). *The New Case for Zero-Based Cost Management*.](https://www.bain.com/insights/the-new-case-for-zero-based-cost-management/)
-
-[4] [Boston Consulting Group. (2022). *Zero-Based Approach to Smarter Spending for Industrial*.](https://www.bcg.com/publications/2022/zero-based-budgeting-for-industrial-companies)
-
-[5] [Wikipedia. (n.d.). *Zero-based budgeting*.](https://en.wikipedia.org/wiki/Zero-based_budgeting)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/84-zero-based-budgeting/](https://commons-os.github.io/patterns/domain/84-zero-based-budgeting/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/84-zero-based-budgeting.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/84-zero-based-budgeting.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
+**Opportunities for Improvement:**
+- Integrate non-financial metrics (e.g., ecological impact, community well-being) into the decision package evaluation and ranking process.
+- Adapt the justification requirement to include an assessment of the activity's contribution to shared resources or "the commons."
+- Leverage AI not just for cost-saving analysis but to model the complex, multi-capital impacts of budget allocation decisions.

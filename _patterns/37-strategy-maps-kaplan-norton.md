@@ -179,27 +179,40 @@ While AI can augment the strategic planning process, it cannot replace the need 
 
 In the Cognitive Era, the Strategy Map is likely to evolve from a tool for communicating and executing a pre-defined strategy to a platform for continuous strategic learning and adaptation. The integration of AI will enable organizations to sense and respond to changes in their environment more quickly, test new strategic hypotheses, and learn from their successes and failures. The Strategy Map will become less of a static map and more of a dynamic, intelligent GPS that guides the organization on its strategic journey.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-This assessment evaluates the Strategy Map pattern against the seven dimensions of a commons-based approach.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-1.  **Stakeholder Mapping**: The framework has a narrow stakeholder focus, primarily on **shareholders** (Financial) and **customers** (Customer). Other stakeholders like employees and the community can be included but are not central to the original model.
+**1. Stakeholder Architecture:**
+The pattern's stakeholder architecture is narrowly defined, focusing primarily on shareholders (Financial perspective) and customers (Customer perspective). It treats employees and organizational culture (Learning & Growth) as internal assets—a means to an end—rather than as stakeholders with their own intrinsic Rights and Responsibilities. The framework has no explicit provisions for the environment, community, or future generations.
 
-2.  **Value Creation**: Value creation is predominantly defined in **economic terms**, with the end goal being increased shareholder value. Social or environmental value is typically a secondary consideration, often framed in terms of risk management or brand enhancement.
+**2. Value Creation Capability:**
+Value creation is defined almost exclusively in economic terms, with the ultimate goal of achieving tangible financial outcomes. While it uniquely visualizes how intangible assets like knowledge and skills are converted into value, this value is narrowly captured as financial return. The framework does not inherently account for the creation of social, ecological, or collective knowledge value as ends in themselves.
 
-3.  **Value Preservation**: The pattern promotes long-term value preservation by emphasizing investment in **intangible assets** (Learning & Growth perspective). This focus on building capabilities helps ensure the organization's sustainability.
+**3. Resilience & Adaptability:**
+The pattern provides a strong foundation for adaptability by treating strategy as a set of testable, cause-and-effect hypotheses. The recommendation to make strategy a continuous process of review and adaptation allows organizations to learn and maintain coherence. Its structure is well-suited for integration with real-time data and AI, enabling a shift from a static map to a dynamic guidance system.
 
-4.  **Shared Rights & Responsibilities**: This is the weakest area of alignment. The model is **top-down and hierarchical**, with strategy being set by leadership and cascaded down. It lacks mechanisms for shared ownership or co-creation of strategy.
+**4. Ownership Architecture:**
+Strategy Maps do not address ownership architecture beyond the traditional corporate model of monetary equity. The framework is explicitly top-down, with strategic control resting with senior leadership. It lacks any mechanisms for distributing Rights and Responsibilities or enabling co-creation of strategy among a broader set of stakeholders.
 
-5.  **Systematic Design**: The pattern is highly **systematic and structured**, providing a clear, repeatable methodology for strategy execution. The cause-and-effect logic is a key strength.
+**5. Design for Autonomy:**
+The framework is highly compatible with autonomous systems, as it provides the high-level strategic logic that an AI or DAO could execute and monitor. By defining clear objectives and their causal relationships, it creates a machine-readable blueprint for value creation that requires low coordination overhead once established. The pattern itself is a tool for alignment, not a source of operational friction.
 
-6.  **Systems of Systems**: Strategy Maps serve as an excellent **integrating framework**. They can incorporate objectives and measures from other management systems like Agile, Lean, or CRM, creating a holistic view of strategy.
+**6. Composability & Interoperability:**
+Strategy Maps are an excellent integration framework, designed to sit above and provide coherence to other management systems. The pattern can easily compose with other patterns like the Balanced Scorecard, OKRs, or CRM systems by visually linking their respective activities to overarching strategic objectives. This makes it a powerful tool for building larger, multi-pattern value-creation systems.
 
-7.  **Fractal Properties**: The pattern has strong **fractal properties**. The four-perspective model can be replicated at all levels of an organization (corporate, business unit, team), ensuring strategic alignment throughout the enterprise.
+**7. Fractal Value Creation:**
+The pattern exhibits strong fractal properties, as the four-perspective logic can be cascaded and replicated at every scale of an organization. A corporate-level map can be broken down into aligned maps for business units, departments, and even teams. This ensures the core value-creation logic remains coherent and applicable across multiple scales.
 
 **Overall Score: 3 (Transitional)**
 
-The Strategy Map pattern receives a score of 3 (Transitional). It is a powerful and effective tool for aligning organizations and executing strategy, and it has some elements that are consistent with a commons-based approach, such as its systematic design, fractal properties, and focus on long-term value preservation. However, its hierarchical nature, its primary focus on economic value, and its limited view of stakeholders prevent it from being fully aligned with the principles of a commons. To become more commons-aligned, the pattern could be adapted to incorporate a broader range of stakeholders in its design, to explicitly include objectives for social and ecological value creation, and to be used in a more participatory and democratic way.
+**Rationale:**
+Strategy Maps are a powerful tool for executing a predefined strategy and have strong fractal and interoperable characteristics. However, the framework is fundamentally transitional because its architecture is hierarchical and its definition of value is primarily economic. It focuses on managing existing resources for the benefit of shareholders, not on enabling collective value creation for all stakeholders.
+
+**Opportunities for Improvement:**
+- Introduce a dedicated "Stakeholder & Commons" perspective to explicitly define Rights and Responsibilities for employees, the environment, and the community.
+- Redefine the "Financial" perspective as "Value Outcomes" to include metrics for social, ecological, and knowledge value alongside economic returns.
+- Adapt the map-making process to be more participatory, allowing for co-creation of strategic objectives with a broader range of stakeholders.
 
 ### 9. Resources & References
 

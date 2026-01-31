@@ -93,21 +93,40 @@ The PPL is particularly relevant in the context of the growing movement for data
 
 As we move deeper into the Cognitive Era, the need for new models of economic organization will become increasingly urgent. The PPL provides a practical and effective tool for building a more just and sustainable future, one that is based on cooperation, reciprocity, and the power of the commons.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Peer Production License is a powerful tool for building and protecting the commons. Its alignment with the principles of a commons-based economy can be assessed across seven key dimensions:
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Alignment Score (1-5) | Rationale |
-| :--- | :--- | :--- |
-| **Openness & Access** | 4 | The PPL promotes openness and access within the commons, but restricts access for for-profit entities. This is a deliberate choice to protect the commons from exploitation. |
-| **Participation & Governance** | 4 | The license encourages participation in the commons and promotes democratic governance by giving control to the producers themselves. |
-| **Shared Value & Benefit** | 5 | The PPL is explicitly designed to ensure that the value created by the commons is shared among its contributors and not appropriated by outside entities. |
-| **Sustainability & Resilience** | 4 | By enabling the creation of a protected commons, the PPL contributes to the long-term sustainability and resilience of commons-based communities. |
-| **Decentralization & Federation** | 4 | The license is a tool for building a decentralized and federated network of commons, which can help to create a more resilient and equitable economic system. |
-| **Ecological & Social Well-being** | 3 | While not explicitly focused on ecological and social well-being, the PPL contributes to these goals by promoting a more just and equitable form of economic organization. |
-| **Legal & Ethical Frameworks** | 5 | The PPL is a legal and ethical framework that is specifically designed to support the commons and protect it from enclosure. |
+**1. Stakeholder Architecture:**
+The PPL establishes a clear architecture of Rights and Responsibilities, primarily distinguishing between commons-contributing and for-profit extractive stakeholders. It grants rights to those who create value (peers, cooperatives) and assigns responsibilities (payment for use) to those who wish to extract value without contributing. While it strongly favors human-centric, cooperative structures, it does not explicitly define roles or rights for non-human agents like AI or the environment.
 
-**Overall Commons Alignment Score: 4/5**
+**2. Value Creation Capability:**
+The license directly enables the creation of collective value beyond pure economic output. It fosters the growth of knowledge commons and social value by creating a protected space for collaboration. By channeling funds from commercial use back into the commons, it supports the resilience and sustainability of the value-creating community itself.
+
+**3. Resilience & Adaptability:**
+The PPL enhances resilience by creating a legal "membrane" that protects the commons from extractive pressures from the mainstream capitalist economy. This allows the commons to maintain its internal coherence and cooperative logic without being undermined. However, its adaptability might be limited in contexts where rapid, widespread adoption (including by for-profit entities) is the primary driver of change.
+
+**4. Ownership Architecture:**
+The pattern fundamentally redefines ownership away from simple property rights toward a framework of stewardship based on Rights and Responsibilities. Ownership is expressed through the right to use and modify the work, contingent on a stakeholder's reciprocal relationship with the commons. It explicitly promotes models where producers have ownership of their labor and its fruits, challenging traditional equity structures.
+
+**5. Design for Autonomy:**
+The PPL is highly compatible with distributed and autonomous systems like DAOs, as it provides a clear, rules-based framework for interaction that can be encoded and automated. The distinction between commercial and non-commercial use is a clear binary that can be managed with low coordination overhead. It allows autonomous agents to participate freely as long as they adhere to the reciprocity principle.
+
+**6. Composability & Interoperability:**
+This license is designed to be a core component of a larger "copyfarleft" ecosystem, making it highly composable with other patterns that share its principles, such as open cooperativism and transvestment strategies. However, its specific restrictions on commercial use make it legally incompatible with more permissive licenses (like MIT or GPL), which can create fragmentation and limit interoperability with the broader open-source world.
+
+**7. Fractal Value Creation:**
+The core logic of reciprocal exchange and commons protection can be applied at various scales. A small collective can use it for a single project, a network of cooperatives can use it to build a shared infrastructure, and it could even form the basis for a transnational digital commons. The pattern's principles are not bound to a specific size or scope.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+The Peer Production License is a powerful tool for enabling and protecting collective value creation, establishing a clear architecture of rights and responsibilities that fosters a resilient commons. It strongly aligns with the principles of stakeholder equity and stewardship. It scores a 4 instead of a 5 because its protective stance, while crucial for its purpose, inherently limits its interoperability with the wider ecosystem of open-source licenses and may not fully account for non-human stakeholders like AI in its current framing.
+
+**Opportunities for Improvement:**
+- Develop a clause or addendum that explicitly addresses the rights and responsibilities of AI or autonomous agents participating in the commons.
+- Create standardized "bridge" licenses or legal tools to improve interoperability with more permissive open-source licenses where appropriate.
+- Explore how to explicitly incorporate ecological or environmental stakeholders and value creation into the licensing framework.
 
 ## 9. Resources & References
 

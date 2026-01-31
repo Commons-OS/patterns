@@ -133,25 +133,40 @@ Expert Systems in Design are a class of artificial intelligence (AI) application
     - **Cloud-Based Design Services:** Expert systems will increasingly be delivered as cloud-based services, making them more accessible to a wider range of users and enabling new forms of collaboration.
     - **Integration with Digital Twins:** Expert systems will be integrated with digital twins of physical assets, allowing for real-time monitoring, analysis, and optimization of design performance.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-1.  **Stakeholder Mapping**: The primary stakeholders in Expert Systems in Design are the designers who use the system, the domain experts whose knowledge is captured in the system, and the organizations that develop and deploy the system. End-users of the designed products are also indirect stakeholders. A comprehensive stakeholder mapping should also consider the impact on the wider community, such as the potential for job displacement or the environmental impact of the designs produced.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-2.  **Value Creation**: Expert systems create value by improving design efficiency, reducing errors, and enabling the creation of more complex and optimized designs. The primary beneficiaries of this value are the organizations that own the expert systems, as they can gain a competitive advantage through faster and better design processes. However, value can also be created for designers, who can enhance their skills and productivity, and for society as a whole, through the creation of better products and services.
+**1. Stakeholder Architecture:**
+Expert Systems in Design primarily define stakeholders as the designers using the system, the domain experts providing the knowledge, and the organizations deploying it. The rights and responsibilities are heavily skewed towards the organization, which typically owns the intellectual property of the captured knowledge and the resulting designs. This model fails to adequately recognize the rights of the knowledge creators (the experts) or the end-users of the designs.
 
-3.  **Value Preservation**: The value of an expert system is preserved through the continuous maintenance and updating of its knowledge base. As the design domain evolves, the system's knowledge must be kept current to remain relevant and useful. This requires a long-term commitment from the organization to invest in knowledge engineering and system maintenance.
+**2. Value Creation Capability:**
+The pattern excels at creating economic value by enhancing design productivity, reducing errors, and optimizing complex designs. However, its capacity for creating broader social, ecological, or knowledge value is limited by its proprietary nature. While it preserves expert knowledge, this knowledge is often siloed within the organization rather than contributing to a wider collective intelligence.
 
-4.  **Shared Rights & Responsibilities**: In most cases, the intellectual property rights for the expert system and the designs it produces are owned by the organization that developed the system. There is often a lack of shared ownership or control with the domain experts who provided the knowledge or the designers who use the system. A more commons-aligned approach would involve a more equitable distribution of rights and responsibilities among all stakeholders.
+**3. Resilience & Adaptability:**
+The resilience of an expert system is contingent on the continuous maintenance and updating of its knowledge base, which requires a significant, long-term investment from the host organization. The system itself is not inherently adaptive to change; it is a snapshot of expertise at a particular time. Its ability to thrive on change is therefore limited and dependent on external intervention.
 
-5.  **Systematic Design**: The development of an expert system is a systematic process that involves knowledge acquisition, knowledge representation, and system validation. However, the design of the system itself is often driven by the needs of the organization rather than the needs of the wider community. A more systematic approach to design would involve a more participatory and inclusive process that considers the needs of all stakeholders.
+**4. Ownership Architecture:**
+Ownership is traditionally defined in terms of monetary equity and intellectual property rights, which are centralized in the organization that develops the system. The pattern lacks a framework for distributing rights and responsibilities among other stakeholders, such as the experts who contribute their knowledge or the community that uses the resulting products. This represents a significant gap in its alignment with a commons-based approach.
 
-6.  **Systems of Systems**: Expert systems can be integrated with other software systems, such as CAD tools, simulation software, and project management systems, to create a more comprehensive design environment. This integration can enhance the capabilities of the expert system and enable a more holistic approach to design.
+**5. Design for Autonomy:**
+Expert systems are a form of artificial intelligence and are highly compatible with distributed systems and DAOs, requiring low coordination overhead once the knowledge base is established. This makes them well-suited for integration into autonomous and semi-autonomous design processes. This is a strong point of alignment with the principles of the Commons OS v2.0 framework.
 
-7.  **Fractal Properties**: The core principles of expert systems, such as the separation of knowledge and inference, can be applied at different scales, from individual design tasks to large-scale engineering projects. This fractal nature allows for the development of a nested hierarchy of expert systems that can work together to solve complex design problems.
+**6. Composability & Interoperability:**
+The pattern is highly composable and can be integrated with other software systems, such as CAD tools, simulation software, and project management platforms. This interoperability allows for the creation of larger, more sophisticated value-creation systems. This is a key enabler for building complex, multi-pattern solutions.
 
-**Overall Score**: 3 (Transitional)
+**7. Fractal Value Creation:**
+The core logic of separating the knowledge base from the inference engine is a fractal pattern that can be applied at multiple scales. This allows for the development of nested hierarchies of expert systems, from individual design assistants to large-scale, organization-wide knowledge infrastructures. This demonstrates a strong potential for scalable value creation.
 
-**Rationale**: Expert Systems in Design, as they are traditionally implemented, are primarily focused on creating value for the organizations that own them. While they can provide benefits to designers and society, they often lack a strong commitment to shared ownership, participatory governance, and the equitable distribution of value. However, there is potential for expert systems to be designed in a more commons-aligned way, by adopting more open and collaborative approaches to knowledge sharing and system development. The increasing use of open-source software and the growing interest in open design and open innovation provide opportunities to create expert systems that are more aligned with the principles of the commons.
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+Expert Systems in Design have significant potential to contribute to collective value creation but are held back by a legacy ownership and stakeholder model. While they demonstrate strong composability and fractal properties, their full potential as a commons is unrealized due to the centralization of rights and value capture. To become more aligned, the pattern would need to incorporate more equitable models of knowledge ownership and governance.
+
+**Opportunities for Improvement:**
+- Develop a framework for shared ownership of the knowledge base with the contributing experts.
+- Implement a governance model that allows for community participation in the evolution of the system.
+- Explore the use of open-source expert systems to create a more accessible and collaborative design infrastructure.
 
 ### 9. Resources & References
 

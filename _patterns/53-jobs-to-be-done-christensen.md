@@ -146,35 +146,40 @@ As AI and automation become more prevalent, it is important to strike the right 
 
 In the future, we can expect to see the JTBD framework continue to evolve. As AI and other new technologies emerge, there will be new opportunities to apply the framework in new and innovative ways. For example, we may see the development of new tools and methods for conducting customer research, for analyzing customer data, and for generating new product ideas. We may also see the emergence of new business models that are based on the principles of the JTBD framework. The core principles of the framework, however, will remain the same. The focus on understanding the customer’s job and on creating solutions that help them make progress will continue to be the key to success in the cognitive era.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Jobs-to-be-Done framework, while primarily a tool for commercial innovation, has interesting implications when viewed through the lens of a commons-based approach. Its focus on deep-seated human needs rather than transient wants offers a potential bridge between market-driven product development and the creation of shared, sustainable value.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-1.  **Stakeholder Mapping:** The framework inherently focuses on the “customer” as the primary stakeholder. However, a commons-aligned approach would expand this to include all those affected by the job and the solutions created for it. This includes employees, suppliers, the community, and the environment. A more holistic application of JTBD would map the jobs of all stakeholders, not just the end-user.
+**1. Stakeholder Architecture:**
+The Jobs-to-be-Done (JTBD) framework is fundamentally customer-centric, defining the "customer" who "hires" a product as the primary stakeholder. It does not inherently define Rights and Responsibilities for a broader set of stakeholders, such as the environment, future generations, or the community in which the "job" is performed. The architecture is therefore limited to a transactional relationship, lacking a multi-stakeholder governance perspective essential for a commons.
 
-2.  **Value Creation:** JTBD is excellent at creating functional, emotional, and social value for the individual customer. However, a commons approach would also consider the creation of social and ecological value. For example, a solution that helps a customer get a job done but also creates a large amount of waste would be seen as a net negative from a commons perspective.
+**2. Value Creation Capability:**
+JTBD excels at creating functional, emotional, and social value for the individual customer by deeply understanding their needs. However, its focus is on market-based, economic value exchange rather than enabling collective value creation. The framework does not explicitly account for generating social, ecological, or knowledge value for the broader ecosystem, which is a core tenet of a commons.
 
-3.  **Value Preservation:** The framework’s focus on the job, which is stable over time, is a strong point of alignment with the commons principle of value preservation. By focusing on the underlying need, companies can create solutions that are more resilient to technological change and that can be adapted and evolved over time.
+**3. Resilience & Adaptability:**
+The framework strongly contributes to resilience by focusing on the underlying "job," which is more stable over time than specific technologies or product features. This allows systems and organizations to adapt their solutions to changing circumstances while maintaining coherence around the core need. This focus on the "progress" a person is trying to make helps systems thrive on change by providing a stable anchor for innovation.
 
-4.  **Shared Rights & Responsibilities:** In its traditional application, the JTBD framework does not explicitly address the distribution of rights and responsibilities. However, a commons-aligned approach would seek to create solutions that are more open, participatory, and equitable. This could include open-sourcing the design of a product, creating a platform for co-creation, or sharing the profits with the community.
+**4. Ownership Architecture:**
+JTBD operates entirely within a traditional ownership model where a producer owns the solution and a customer pays to "hire" it. The framework does not address or provide mechanisms for shared ownership, stewardship, or the distribution of Rights and Responsibilities beyond a monetary transaction. It is not designed to create assets that are collectively owned or managed by their stakeholders.
 
-5.  **Systematic Design:** The Outcome-Driven Innovation process is a highly systematic approach to innovation. This aligns well with the commons principle of systematic design. However, a commons-aligned approach would also consider the design of the larger system in which the product or service is embedded. This includes the social, economic, and ecological systems.
+**5. Design for Autonomy:**
+The pattern is highly compatible with autonomous systems, as the "job" provides a clear, well-defined goal for AI, DAOs, or other distributed technologies to solve. By specifying desired outcomes, JTBD creates a clear objective function that can be pursued with low coordination overhead. This makes it a valuable tool for designing services intended to be run by autonomous agents.
 
-6.  **Systems of Systems:** The JTBD framework can be used to understand how different products and services can be combined to create a more complete solution. This aligns with the commons principle of systems of systems. A commons-aligned approach would seek to create solutions that are interoperable and that can be combined in new and innovative ways to create even more value.
+**6. Composability & Interoperability:**
+JTBD is a highly composable pattern that enhances interoperability. By breaking down complex needs into specific "jobs," it allows different solutions from various providers to be combined to create larger, more complex value-creation systems. Understanding the specific jobs at different points in a value chain enables the modular and interoperable design of services.
 
-7.  **Fractal Properties:** The core principles of the JTBD framework can be applied at any scale, from the individual to the ecosystem. This aligns with the commons principle of fractal properties. A commons-aligned approach would seek to create solutions that are scalable and that can be adapted to different contexts.
+**7. Fractal Value Creation:**
+The logic of identifying a "job" and designing a solution for it is inherently fractal. This process can be applied at the scale of an individual, a team, an organization, or even a multi-stakeholder ecosystem. This scalability allows the core value-creation logic to be replicated and adapted across different levels of a system, a key feature of a resilient commons.
 
 **Overall Score: 3 (Transitional)**
 
-The Jobs-to-be-Done framework is a powerful tool for innovation that has the potential to be aligned with the principles of the commons. However, in its current form, it is still primarily a tool for commercial innovation. To be fully commons-aligned, the framework would need to be expanded to include a more holistic view of value creation, a more explicit focus on shared rights and responsibilities, and a more systematic approach to designing for the commons.
+**Rationale:**
+Jobs-to-be-Done is a powerful framework for understanding needs, which is a critical input for any value creation system. Its strengths in fostering adaptability, composability, and fractal design make it a significant potential enabler for commons. However, it requires substantial adaptation to move from a customer-centric, market-oriented model to a multi-stakeholder, collective value creation architecture. Its lack of native support for shared ownership and broad stakeholder governance are major gaps that prevent a higher score.
 
 **Opportunities for Improvement:**
-
-*   Expand the definition of “customer” to include all stakeholders.
-*   Incorporate social and ecological value into the value proposition.
-*   Design for openness, participation, and equity.
-*   Consider the larger system in which the product or service is embedded.
-*   Create solutions that are interoperable and that can be combined in new and innovative ways.
+- Expand the stakeholder discovery process beyond the "customer" to map the jobs, rights, and responsibilities of all system participants (e.g., community, environment, maintainers).
+- Integrate the creation of non-economic value (e.g., knowledge, social connection, ecological health) as a primary desired outcome of the "job."
+- Combine the framework with patterns for distributed governance and shared ownership to ensure the resulting value is managed as a commons.
 
 ### 9. Resources & References
 

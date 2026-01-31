@@ -187,33 +187,40 @@ While AI can augment collective leadership, it cannot replace uniquely human asp
 *   **Data-informed Leadership**: Leaders will increasingly rely on data and AI-powered insights.
 *   **Continuous Learning**: The pace of change will require a commitment to continuous learning and adaptation.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-This assessment evaluates the alignment of Collective Leadership with commons-based principles.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**1. Stakeholder Mapping**: Inherently stakeholder-oriented, encouraging engagement of a wide range of stakeholders. The extent of inclusivity depends on implementation.
+**1. Stakeholder Architecture:**
+Collective Leadership defines Rights and Responsibilities through its core principles of shared ownership, mutual accountability, and distributed power. It inherently includes all members of a group as key stakeholders, granting them the Right to lead based on competence and the Responsibility to act for the primacy of the whole. This architecture can be extended beyond human teams to include AI agents and organizational partners as active participants in the value creation process.
 
-**2. Value Creation**: Creates value for individuals (growth, empowerment), organizations (innovation, resilience), and the community (addressing complex challenges).
+**2. Value Creation Capability:**
+The pattern strongly enables the creation of diverse forms of value beyond mere economic output. It fosters social value by building trust and strong relationships, knowledge value through continuous learning and transparent communication, and significant resilience value by decentralizing decision-making. By empowering individuals and leveraging collective intelligence, it creates a robust capability for innovation and shared success.
 
-**3. Value Preservation**: Promotes value preservation through continuous learning, adaptation, and resilience.
+**3. Resilience & Adaptability:**
+Resilience and adaptability are core strengths of this pattern. By distributing leadership and fostering a culture of psychological safety, it allows a system to sense and respond to change from anywhere, rather than waiting for top-down commands. Principles like embracing conflict as a creative force and promoting continuous learning are direct mechanisms that help the system thrive on complexity and maintain coherence under stress.
 
-**4. Shared Rights & Responsibilities**: A core strength, with shared ownership and accountability central to the model.
+**4. Ownership Architecture:**
+Collective Leadership fundamentally reframes ownership as shared rights and responsibilities, moving beyond the narrow lens of monetary equity. The principle of "Primacy of the Whole" ensures that the health and success of the collective system are prioritized over individual interests. Ownership is expressed through mutual accountability and a shared commitment to the group's purpose and outcomes.
 
-**5. Systematic Design**: Enabled by systematic processes and structures that support collaboration and shared power.
+**5. Design for Autonomy:**
+This pattern is exceptionally well-suited for a future of autonomous systems, DAOs, and distributed networks. Its emphasis on distributed power, transparent information flow, and dynamic, context-based leadership reduces coordination overhead and removes single points of failure. It provides a cultural and operational blueprint for systems where human and machine agents can collaborate effectively.
 
-**6. Systems of Systems**: A composable pattern that can be combined with other patterns to create more complex systems.
+**6. Composability & Interoperability:**
+As a set of principles and practices, Collective Leadership is highly composable and can be integrated with various other organizational patterns to build more complex value-creation ecosystems. It can serve as the leadership layer for methodologies like Agile, Holacracy, or Sociocracy, enhancing their collaborative potential. Its principles are abstract enough to connect with diverse governance and operational models.
 
-**7. Fractal Properties**: Exhibits strong fractal properties, with core principles applicable at all scales.
+**7. Fractal Value Creation:**
+The pattern is explicitly fractal, as its value-creation logic can be applied at the scale of individuals, teams, organizations, and entire ecosystems. The core concepts of shared responsibility, dynamic power, and collective intelligence are scalable principles. This allows for the creation of nested, coherent value-creation systems where the same successful logic is replicated at different levels.
 
-**Overall Score: 4/5 (Commons-Aligned)**
+**Overall Score: 4 (Value Creation Enabler)**
 
-Highly aligned with commons-based principles, but successful implementation is context-dependent. It can be challenging to overcome traditional hierarchical models.
+**Rationale:**
+Collective Leadership is a powerful enabler of resilient collective value creation, providing the essential cultural and operational principles for a commons-based approach. It strongly aligns with all seven pillars of the v2.0 framework. However, it is not a complete, out-of-the-box architecture and requires significant adaptation and cultural investment to implement successfully, which is why it is rated as an enabler rather than a full architecture.
 
-**Opportunities for Improvement**:
-
-*   Develop more robust tools and methods for implementation.
-*   Create stronger networks of practice.
-*   Develop more sophisticated ways of measuring impact.
+**Opportunities for Improvement:**
+- Develop clearer guidelines for integrating AI and autonomous agents as leadership participants.
+- Create modular implementation playbooks for different organizational contexts (e.g., startups, large enterprises, DAOs).
+- Design metrics that explicitly measure the creation of non-economic value (e.g., resilience, social capital, knowledge growth).
 
 ### 9. Resources & References
 

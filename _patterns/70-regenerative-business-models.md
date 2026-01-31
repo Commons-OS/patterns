@@ -149,9 +149,40 @@ The intellectual roots of regeneration are deep and diverse, drawing from fields
 
 **Evolution Outlook:** The cognitive era will likely accelerate the evolution of regenerative models, with new technologies making implementation easier and a growing appreciation for the role of human consciousness.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-Regenerative business models are an **Exemplary Commons (5/5)** pattern. They embody the principles of commons management through inclusive stakeholder mapping, multi-faceted value creation, long-term value preservation, shared rights and responsibilities, systematic design, a systems-of-systems approach, and fractal properties. They offer a powerful pathway to a more just, sustainable, and flourishing world. Opportunities for improvement lie in creating more supportive policy frameworks, developing innovative financing mechanisms, and cultivating a new generation of regenerative leaders.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
+
+**1. Stakeholder Architecture:**
+The pattern excels in defining a multi-stakeholder architecture, explicitly moving beyond shareholder primacy to include employees, customers, suppliers, communities, and the natural environment. It establishes Rights and Responsibilities through practices like stakeholder co-creation and supply chain partnerships. This approach ensures that the organization is accountable to the entire system it operates within, not just its financial backers.
+
+**2. Value Creation Capability:**
+Regenerative models are fundamentally designed to expand the definition of value beyond economic output. The core principle of creating a "net-positive impact" directly enables the creation of ecological value (regenerating natural systems), social value (enhancing community well-being), and knowledge value (through a developmental, learning-oriented culture). It institutionalizes the creation of multi-capital value as the primary purpose of the business.
+
+**3. Resilience & Adaptability:**
+The framework is built on a foundation of resilience and adaptability, drawing from systems thinking and living systems principles. By encouraging a "developmental and adaptive" culture and a holistic understanding of its environment, the pattern equips organizations to thrive on change and maintain coherence under stress. This approach is designed to build long-term resilience against systemic shocks like climate change and resource scarcity.
+
+**4. Ownership Architecture:**
+While not prescribing specific legal structures, the pattern fundamentally reframes ownership as a set of Rights and Responsibilities toward the health of the whole system. It shifts the focus from ownership-as-extraction to ownership-as-stewardship. The principle of stakeholder inclusivity implies a distributed, non-monetary form of ownership in the collective value created by the enterprise.
+
+**5. Design for Autonomy:**
+The pattern is highly compatible with autonomous and distributed systems. Its emphasis on systems thinking, context-specific solutions, and an adaptive culture aligns well with the operational logic of AI and DAOs. The "Cognitive Era Considerations" section explicitly notes how AI can augment regenerative practices, indicating a design that anticipates and welcomes technological autonomy to lower coordination overhead.
+
+**6. Composability & Interoperability:**
+As a framework pattern, it is inherently designed for composability. It provides a set of core principles that can be combined with more specific patterns (e.g., Circular Economy, B-Corporations, Cooperatives) to create larger, more sophisticated value-creation systems. Its high-level, principle-based nature allows it to serve as a philosophical and strategic backbone for a wide array of operational models.
+
+**7. Fractal Value Creation:**
+The pattern's logic is explicitly fractal, stating that its principles "can be applied at all scales." The value-creation logic of regeneration—of leaving a system healthier and more resilient—is equally applicable to an individual's work, a team's project, an organization's strategy, or an entire ecosystem of collaborating businesses. This demonstrates its power as a universal architecture for value creation.
+
+**Overall Score: 5 (Value Creation Architecture)**
+
+**Rationale:**
+The pattern provides a complete and holistic framework for designing organizations as engines of resilient, multi-capital value creation. It fundamentally redefines the purpose of business from profit extraction to systemic well-being, comprehensively addressing all seven pillars of the Commons OS v2.0 framework. It is not merely an enabler but a blueprint for a new economic architecture.
+
+**Opportunities for Improvement:**
+- Develop more concrete legal and financial structures that formalize multi-stakeholder ownership and governance rights.
+- Create standardized, interoperable metrics for multi-capital accounting to improve the transparency and comparability of regenerative impact.
+- Build more accessible toolkits and platforms to help small and medium-sized enterprises (SMEs) transition from linear to regenerative models.
 
 ### 9. Resources & References
 

@@ -15,7 +15,7 @@ tags:
   era: [cognitive]
   origin: [Maori]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023zde79btwvkns2hde3c", "pat_01kg5023z6f40rvkrsj7tzpehh"]
@@ -167,23 +167,40 @@ The Cognitive Era is also transforming the nature of work itself, with a growing
 
 In the Cognitive Era, there is a growing demand for organizations to be more than just profit-making machines. There is a growing expectation that businesses should have a clear sense of purpose and should contribute to the well-being of society as a whole. The Maori principle of kaitiakitanga, with its emphasis on guardianship and long-term sustainability, provides a powerful framework for building a purpose-driven enterprise. By embracing a more holistic and long-term perspective, organizations can create value not just for their shareholders, but for all of their stakeholders.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Maori organizational pattern has a strong alignment with the principles of the commons. It is a model that prioritizes the collective good, promotes equitable access to resources, and encourages responsible stewardship of the environment. The following is an assessment of the Maori pattern against the seven dimensions of commons alignment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Alignment | Rationale |
-|---|---|---|
-| **1. Shared Purpose & Values** | High | The pattern is grounded in a shared cultural identity and a set of core principles that guide all aspects of life. |
-| **2. Distributed & Accountable Power** | High | Leadership is distributed throughout the community, and decision-making is a collective and consensual process. |
-| **3. Fair & Transparent Governance** | High | The rules and protocols of the community are transparent and are designed to ensure fairness and equity. |
-| **4. Open & Accessible Knowledge** | Medium | While there is a strong tradition of oral history and knowledge sharing, some knowledge may be considered sacred and may not be openly accessible to everyone. |
-| **5. Community & Individual Sovereignty** | High | The pattern emphasizes the importance of self-determination and autonomy for both individuals and the community as a whole. |
-| **6. Responsible & Regenerative Stewardship** | High | The principle of kaitiakitanga promotes a deep sense of responsibility to protect and care for the natural environment. |
-| **7. Universal & Equitable Access** | Medium | While the pattern is inclusive of all members of the community, access to certain resources or leadership roles may be based on lineage or seniority. |
+**1. Stakeholder Architecture:**
+The Maori pattern defines a sophisticated stakeholder architecture through its core principles. Rights and Responsibilities are distributed across the community, encompassing not only humans but also the natural environment (Kaitiakitanga) and future generations. The whanau and hapu structures create a clear framework for collective responsibility and interconnectedness, ensuring that all stakeholders are considered in decision-making.
 
-**Overall Commons Alignment Score: 3/5**
+**2. Value Creation Capability:**
+The pattern strongly enables collective value creation that extends far beyond economic output. Whanaungatanga (relationships) and Kotahitanga (unity) build immense social and resilience value, fostering a cohesive and supportive community. Kaitiakitanga (guardianship) explicitly introduces ecological value, framing the environment as a key stakeholder to be protected and nurtured for the long term.
 
-While the Maori organizational pattern has a strong alignment with many of the principles of the commons, its emphasis on lineage and seniority can create some barriers to universal and equitable access. However, the pattern's core principles of community, collaboration, and stewardship make it a powerful model for building a more just and sustainable world.
+**3. Resilience & Adaptability:**
+The Maori pattern is designed for resilience and adaptability. The principle of Rangatiratanga (self-determination) combined with a distributed leadership model allows the system to thrive on change and adapt to complexity. The hapu-based organizational structure creates autonomous, self-managing units that can respond quickly to challenges while maintaining coherence through shared principles (Tikanga).
+
+**4. Ownership Architecture:**
+Ownership is defined as a set of Rights and Responsibilities, rather than purely monetary equity. Kaitiakitanga establishes a framework of stewardship and guardianship over resources, emphasizing long-term well-being over short-term extraction. This aligns with a commons-based view of ownership, where access and use are tied to the responsibility of care for the collective good.
+
+**5. Design for Autonomy:**
+The pattern is highly compatible with autonomous systems. The hapu model, as a network of self-managing teams, is analogous to the structure of a DAO or other distributed systems. The principles of Rangatiratanga and consensus-based decision-making provide a low-coordination-overhead framework for autonomous agents (human or machine) to collaborate effectively.
+
+**6. Composability & Interoperability:**
+The Maori pattern is highly composable and can be integrated with other organizational patterns to build larger value-creation systems. Its principles are adaptable and have been successfully applied in various contexts, from traditional communities to modern corporations like Fonterra. This demonstrates its ability to interoperate with different governance and operational models.
+
+**7. Fractal Value Creation:**
+The value-creation logic of the Maori pattern is inherently fractal. The nested structure of whanau (family), hapu (sub-tribe), and iwi (tribe) allows the core principles to be applied at multiple scales, from small teams to entire ecosystems. This fractal nature ensures that the logic of resilient value creation can be replicated and scaled throughout the system.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+The Maori pattern is a powerful framework that strongly enables resilient collective value creation. Its principles provide a comprehensive architecture for stakeholder engagement, multi-faceted value creation, and adaptive governance. While not a prescriptive, off-the-shelf model, it offers a deep and holistic foundation for building commons-based systems.
+
+**Opportunities for Improvement:**
+- Develop specific guidelines for applying the principles in digital-native and globally distributed organizations.
+- Create explicit interfaces and protocols to enhance interoperability with other formal governance patterns.
+- Document modern case studies of the pattern being used to design and operate DAOs or other autonomous systems.
 
 ## 9. Resources & References
 

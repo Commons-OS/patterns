@@ -89,7 +89,7 @@ The origin of Hoshin Kanri can be traced back to post-World War II Japan, where 
 
 **Scale:**
 
-The Hoshin Kanri pattern is most powerful when applied at the **Organization** and **Multi-Organization** (e.g., a corporate portfolio of business units) scale. Its primary strength lies in its ability to create alignment across large, complex systems. The process is designed to be cascaded down to the **Department** and **Team** levels, ensuring that the strategic objectives are translated into meaningful work for every employee. While it is not typically considered an **Individual** productivity tool, it provides the context for individual goal setting and performance management. In some cases, it can be extended to the **Ecosystem** level, coordinating strategic initiatives across a network of suppliers, partners, and other stakeholders.
+
 
 **Domains:**
 
@@ -172,67 +172,37 @@ While AI can be a powerful enabler of Hoshin Kanri, it is important to recognize
 
 In the cognitive era, we can expect to see the Hoshin Kanri pattern evolve in several ways. First, the X-Matrix is likely to become more dynamic and interactive. Instead of a static, one-page document, we may see digital X-Matrices that are constantly updated with real-time data and that allow users to drill down into the details of each objective and initiative. Second, the catchball process is likely to become more distributed and asynchronous, with AI-powered platforms enabling a continuous dialogue between different parts of the organization. Third, the PDCA cycle is likely to become more rapid and data-driven, with AI-powered analytics providing real-time feedback on the effectiveness of improvement efforts. Finally, we may see the emergence of new tools and techniques for visualizing and managing the complex web of relationships between different strategic objectives, initiatives, and stakeholders. As organizations become more complex and interconnected, the need for a powerful and adaptive methodology like Hoshin Kanri will only continue to grow.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-Hoshin Kanri is a powerful and systematic methodology for aligning an organization around a shared set of strategic objectives. Its alignment with commons principles is nuanced, excelling in some dimensions while showing opportunities for improvement in others.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-1.  **Stakeholder Mapping**: The methodology has a strong internal focus, effectively mapping the stakes of employees, managers, and executives through its cascading goal-setting and "catchball" processes. This ensures that everyone within the organization understands their role and has a voice in shaping their objectives. However, its explicit mapping of external stakeholders—such as customers, suppliers, the community, and the environment—is less inherent. While customer feedback is a key input to the strategic planning process, the framework does not systematically require a comprehensive mapping of all external stakeholder interests in the same way it does for internal ones.
+**1. Stakeholder Architecture:**
+Hoshin Kanri provides a robust internal stakeholder architecture, using the "catchball" process to define Rights and Responsibilities for goal-setting among executives, managers, and employees. This ensures alignment and shared ownership within the organization. However, its framework does not inherently include explicit roles, Rights, or Responsibilities for external stakeholders such as the environment, local communities, or future generations, which must be manually added as strategic objectives.
 
-2.  **Value Creation**: Hoshin Kanri is designed to create significant value, primarily for the organization and its direct stakeholders. It drives economic value for shareholders through improved efficiency and profitability, value for customers through better products and services, and value for employees through clarity of purpose and opportunities for engagement and development. The framework is neutral on the *type* of value created, meaning it can be used to pursue purely financial goals or more balanced objectives. Its commons-based value creation potential depends entirely on the strategic objectives the organization chooses to pursue.
+**2. Value Creation Capability:**
+The pattern is exceptionally strong at creating economic and knowledge value by aligning the organization around strategic goals and fostering continuous improvement (PDCA). It enables collective action towards clear targets. The framework is neutral on the *type* of value created, meaning it can be directed towards social and ecological goals, but it does not inherently prioritize them over traditional financial metrics.
 
-3.  **Value Preservation**: The pattern excels in this dimension. The embedded Plan-Do-Check-Act (PDCA) cycle, with its regular review and annual renewal process, ensures that the organization's strategy remains relevant and adapts to changing internal and external conditions. It is designed as a dynamic, learning-oriented system, preventing the strategic plan from becoming an obsolete document on a shelf. This continuous adaptation is key to preserving the long-term value and viability of the organization.
+**3. Resilience & Adaptability:**
+Resilience and adaptability are core strengths of Hoshin Kanri, primarily through the embedded Plan-Do-Check-Act (PDCA) cycle. This iterative process allows organizations to learn and adapt to changing conditions. By focusing on the "vital few" objectives, it helps maintain coherence and direction, enabling the system to thrive on change rather than being disrupted by it.
 
-4.  **Shared Rights & Responsibilities**: This is a core strength of Hoshin Kanri. Responsibilities are clearly defined and distributed throughout the organization via the X-Matrix and detailed action plans. The "catchball" process is a powerful mechanism for distributing the *right* to provide input and negotiate objectives, moving beyond a purely top-down, command-and-control approach. This fosters a strong sense of shared ownership and accountability for achieving the strategic goals.
+**4. Ownership Architecture:**
+The pattern defines ownership primarily as accountability and responsibility for achieving cascaded objectives. This creates a powerful sense of psychological ownership and stewardship among participants, which is a key aspect of a Commons. However, it does not address the distribution of material ownership or financial equity, focusing instead on the execution of strategy.
 
-5.  **Systematic Design**: The entire Hoshin Kanri methodology is a testament to systematic design. It provides a well-defined, repeatable process for strategy deployment, from high-level visioning to on-the-ground execution. The X-Matrix, the catchball process, and the regular review cadence are all components of a carefully designed system for creating and maintaining organizational alignment.
+**5. Design for Autonomy:**
+Hoshin Kanri has a hierarchical structure, which can introduce coordination overhead, but it also enables autonomy at the team level once objectives are defined. It is compatible with distributed systems and DAOs if the "catchball" process is adapted for asynchronous, transparent communication. The pattern's data-driven nature makes it highly compatible with AI-driven analysis and monitoring, augmenting its effectiveness in complex environments.
 
-6.  **Systems of Systems**: Hoshin Kanri integrates exceptionally well with other organizational patterns and management systems. It often serves as the strategic "umbrella" that guides and prioritizes initiatives within other systems like Lean Manufacturing, Total Quality Management (TQM), Six Sigma, or even Agile development at a portfolio level. It provides the crucial link between the organization's high-level strategy and its various operational and improvement frameworks.
+**6. Composability & Interoperability:**
+Hoshin Kanri is a high-level strategic framework that is highly composable. It is designed to be integrated with other patterns and methodologies for execution, such as OKRs for goal-setting, Scrum for project management, or Lean for process improvement. This allows it to serve as the strategic backbone for a larger, more complex system of value creation.
 
-7.  **Fractal Properties**: The principles of Hoshin Kanri are highly fractal. The X-Matrix and the underlying logic of cascading objectives can be applied at every level of the organization, from the corporate headquarters down to a single department or team. The PDCA cycle and the focus on a "vital few" priorities are principles that are effective at any scale, making the pattern adaptable and scalable throughout a complex organization.
+**7. Fractal Value Creation:**
+The cascading nature of the X-Matrix is inherently fractal, allowing the core logic of strategic alignment to be applied at multiple scales. The same process used at the corporate level can be replicated within divisions, departments, and teams. This ensures that value creation is coherent and aligned across the entire organization, from the highest strategic level to the smallest operational unit.
 
 **Overall Score: 3 (Transitional)**
 
-Hoshin Kanri earns a score of 3, placing it in the "Transitional" category. It is a highly sophisticated and effective system for internal alignment and value creation within the context of a traditional organizational structure. Its strengths in systematic design, shared responsibility, and adaptability are significant. However, it does not inherently challenge the conventional boundaries of the firm or explicitly prioritize commons-based value creation (e.g., for the environment or the broader community) unless those goals are explicitly chosen by leadership. To move into the "Commons-Aligned" category (Score 4), the methodology would need to be adapted to more systematically and explicitly incorporate the interests of a wider range of external stakeholders into its core objective-setting and measurement processes.
+**Rationale:**
+Hoshin Kanri provides a powerful engine for aligned action and continuous improvement, which are essential for collective value creation. Its fractal and composable nature, combined with its inherent adaptability, gives it significant potential. However, it requires conscious adaptation to expand its stakeholder architecture beyond the organization and to explicitly prioritize non-economic forms of value. Its industrial-era origins are evident in its hierarchical structure, but it is adaptable enough to be a transitional pattern for 21st-century challenges.
 
-### 9. Resources & References
-
-**Essential Reading:**
-
-*   **Hoshin Kanri for the Lean Enterprise: From Vision to Action to Get the Right Things Done** by Thomas L. Jackson. This book provides a comprehensive and practical guide to implementing Hoshin Kanri in a Lean environment. It is a must-read for anyone serious about applying this methodology.
-*   **The Hoshin Kanri X-Matrix: A Guide for Senior Leaders** by Gwendolyn Galsworth. This book offers a deep dive into the X-Matrix tool, providing practical guidance on how to use it to drive strategic alignment and execution.
-*   **Getting the Right Things Done: A Leader's Guide to Planning and Execution** by Pascal Dennis. This book provides a clear and concise overview of the Hoshin Kanri methodology and its application in a variety of industries.
-
-**Organizations & Communities:**
-
-*   **Lean Enterprise Institute (LEI):** The LEI is a non-profit organization dedicated to advancing the principles of Lean thinking. They offer a wealth of resources on Hoshin Kanri and other Lean methodologies, including articles, books, and workshops.
-*   **Kaizen Institute:** Founded by Masaaki Imai, the Kaizen Institute is a global consulting firm that helps organizations implement continuous improvement methodologies, including Hoshin Kanri. They offer training, coaching, and consulting services.
-
-**Tools & Platforms:**
-
-*   **KPI Fire:** A software platform specifically designed to support the Hoshin Kanri process. It provides tools for creating and managing the X-Matrix, tracking progress against objectives, and facilitating the catchball process.
-*   **i-nexus:** Another leading software platform for strategy execution that includes robust support for Hoshin Kanri and the X-Matrix.
-*   **Lucidchart:** A visual workspace that can be used to create and share X-Matrix diagrams and other strategic planning documents.
-
-**References:**
-
-[1] Kaizen.com. (n.d.). *Hoshin Planning & the X Matrix*. Retrieved from https://kaizen.com/insights/article-hoshin-planning-the-x-matrix-uk/
-
-[2] KPI Fire. (2025, October 18). *X-Type Matrix: Hoshin Kanri Strategic Planning Tool*. Retrieved from https://www.kpifire.com/x-matrix/
-
-[3] i-nexus. (2022, January 23). *Policy Deployment in Practice: Danaher, Ingersoll Rand & Xerox*. Retrieved from https://blog.i-nexus.com/policy-deployment-in-practice-danaher-ingersoll-rand-xerox
-
-[4] Lean Enterprise Institute. (n.d.). *Hoshin Kanri*. Retrieved from https://www.lean.org/lexicon-terms/hoshin-kanri/
-
-[5] Asana. (2025, February 8). *Using the Hoshin Kanri Method for Strategic Planning*. Retrieved from https://asana.com/resources/hoshin-kanri
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/38-x-matrix-hoshin-kanri/](https://commons-os.github.io/patterns/domain/38-x-matrix-hoshin-kanri/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/38-x-matrix-hoshin-kanri.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/38-x-matrix-hoshin-kanri.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
+**Opportunities for Improvement:**
+- Integrate a multi-stakeholder model (including ecological and social representatives) into the initial situation analysis and vision-setting phases.
+- Explicitly define non-economic value streams (e.g., community well-being, ecosystem health) as potential breakthrough objectives in the X-Matrix.
+- Adapt the "catchball" process to include feedback loops with external stakeholders, creating a more permeable and responsive organizational boundary.

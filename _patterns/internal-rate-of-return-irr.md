@@ -15,7 +15,7 @@ tags:
   era: [industrial, digital]
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 2
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -131,21 +131,40 @@ Furthermore, AI can enhance **risk analysis** in the context of IRR. By running 
 However, the cognitive era also introduces new challenges and considerations for the use of IRR. As AI models become more complex and opaque, it can be difficult to understand the underlying drivers of their forecasts. This 
 so-called "black box" problem can make it challenging to validate the results of an AI-driven IRR analysis and to explain them to stakeholders. Therefore, it is crucial to ensure that AI models used for financial analysis are transparent, explainable, and subject to rigorous validation.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Internal Rate of Return pattern, while primarily a tool for financial optimization, can be assessed for its alignment with the principles of a commons-based economy. The following is an assessment of IRR across seven dimensions of commons alignment:
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Assessment |
-| :--- | :--- |
-| **Shared Purpose & Values** | Neutral. IRR is a value-neutral tool that can be used to evaluate projects with a wide range of goals, from purely profit-driven to socially and environmentally beneficial. Its alignment with shared purpose and values depends on the nature of the projects being evaluated. |
-| **Distributed & Decentralized** | Low. The application of IRR is typically centralized within an organization's finance department or leadership team. While the tool itself can be used by anyone, its application in a corporate context is generally not distributed or decentralized. |
-| **Fair & Equitable** | Neutral. IRR is a metric of financial return and does not inherently promote or hinder fairness and equity. However, it can be used to evaluate projects that have positive social impacts, such as those that create jobs or provide essential services to underserved communities. |
-| **Transparent & Accountable** | High. When used correctly, IRR promotes transparency and accountability by providing a clear and objective measure of an investment's expected performance. It allows stakeholders to see the financial rationale behind investment decisions and to hold decision-makers accountable for the results. |
-| **Collaborative & Open** | Low. The use of IRR is typically an internal organizational process and is not generally collaborative or open to external stakeholders. However, the results of an IRR analysis may be shared with investors or other partners as part of a collaborative funding effort. |
-| **Resilient & Adaptive** | Medium. The use of sensitivity and scenario analysis in conjunction with IRR can enhance the resilience and adaptability of an organization's investment strategy. By understanding how the IRR might change under different conditions, organizations can make more robust investment decisions and adapt their plans as needed. |
-| **Holistic & Systemic** | Low. IRR is a financial metric that focuses on a single aspect of an investment's performance. While it can be used as part of a broader analysis that considers social and environmental factors, it is not inherently holistic or systemic in its approach. |
+**1. Stakeholder Architecture:**
+The Internal Rate of Return (IRR) framework does not inherently define Rights and Responsibilities across a broad set of stakeholders. Its primary focus is on the financial return to capital providers, treating them as the principal stakeholder. The rights of other stakeholders, such as the environment, community, or future generations, are not explicitly factored into the calculation unless their impacts can be translated into direct cash flows.
 
-**Overall Commons Alignment Score: 3/5**
+**2. Value Creation Capability:**
+IRR is narrowly focused on measuring economic value creation in the form of a percentage rate of return. It does not natively account for other forms of value, such as social capital, ecological health, knowledge creation, or systemic resilience. A project with a high IRR might create these other values, but the metric itself is blind to them, reducing all outcomes to a single financial dimension.
+
+**3. Resilience & Adaptability:**
+While IRR itself is a static calculation based on a set of projections, the associated practice of sensitivity and scenario analysis helps systems adapt to complexity. By testing how the IRR holds up under various conditions, it allows organizations to assess financial resilience and make more robust decisions. However, it primarily builds resilience for the capital investment, not necessarily for the operational or social aspects of the system.
+
+**4. Ownership Architecture:**
+This pattern is fundamentally rooted in a traditional ownership architecture based on monetary equity. IRR calculates the return for the owners of capital, reinforcing a model where ownership is defined by financial investment and the right to its proceeds. It does not provide a mechanism for defining ownership as a broader set of rights and responsibilities distributed among various stakeholders.
+
+**5. Design for Autonomy:**
+IRR is highly compatible with automated and distributed systems due to its quantitative and computable nature. The calculation can be easily embedded into smart contracts, DAOs, or AI-driven investment platforms, enabling autonomous decision-making with low coordination overhead. As noted in the pattern, AI can further enhance the forecasting of inputs for the IRR calculation, making it a powerful tool in the cognitive era.
+
+**6. Composability & Interoperability:**
+The IRR metric is highly composable and interoperable within the financial domain. It can be combined with other financial patterns like Net Present Value (NPV) and hurdle rates to construct sophisticated capital budgeting systems. Its universal applicability allows it to assess and compare almost any type of project, enabling it to plug into larger value-creation systems from a financial validation perspective.
+
+**7. Fractal Value Creation:**
+The logic of IRR demonstrates strong fractal properties, as the value-creation logic (maximizing financial return on investment) can be applied at multiple scales. An individual can use it for personal investments, a team for a small project, and a large corporation for a major acquisition. The core calculation remains consistent and relevant across these different scales, as long as cash flows can be estimated.
+
+**Overall Score: 2 (Partial Enabler)**
+
+**Rationale:**
+IRR is a powerful tool for assessing financial viability but is a partial enabler in the context of commons value creation. Its heavy focus on a single dimension of value (financial return for capital owners) and its blindness to non-monetized externalities and stakeholder interdependencies are significant gaps. While it is adaptable, automatable, and scalable, its core logic does not align with a holistic, multi-stakeholder approach to value creation.
+
+**Opportunities for Improvement:**
+- The concept of "cash flow" could be expanded to include monetized proxies for social and ecological value, creating a more holistic "Social IRR" or "Ecological IRR."
+- IRR could be used as one input into a multi-criteria decision-making framework that balances financial returns with other qualitative and quantitative measures of commons health.
+- The "hurdle rate" could be adjusted based on a project's contribution to non-financial value, creating a lower barrier for projects with high social or ecological benefits.
 
 ## 9. Resources & References
 

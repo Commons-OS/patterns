@@ -15,7 +15,7 @@ tags:
   era: [cognitive]
   origin: [academic]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -165,19 +165,40 @@ While AI can be a powerful tool for developing emotional intelligence, it cannot
 
 As the world of work becomes more complex and dynamic, emotional intelligence will become an even more critical skill. The ability to adapt to change, to collaborate with others, and to lead with empathy and compassion will be essential for success in the cognitive era. The focus will likely shift from simply developing individual emotional intelligence to creating emotionally intelligent organizations and systems that are designed to support human flourishing.
 
-### 8. Commons Alignment Assessment (600-800 words)
+### 8. Commons Alignment Assessment (v2.0)
 
-1.  **Stakeholder Mapping:** The primary stakeholders in the Emotional Intelligence pattern are the individuals who are developing their own EI, their teams, their organizations, and their customers. The pattern is highly inclusive, as it can be applied by anyone, regardless of their role or level in the organization.
-2.  **Value Creation:** The pattern creates value in multiple ways. For individuals, it can lead to improved self-awareness, better relationships, and greater career success. For organizations, it can lead to improved leadership, more effective teams, and a more positive and productive work environment. For customers, it can lead to a better customer experience.
-3.  **Value Preservation:** The value of emotional intelligence is preserved over time because it is a fundamental human skill that is always relevant. As the world of work changes, the specific ways in which emotional intelligence is expressed may evolve, but the underlying principles will remain the same.
-4.  **Shared Rights & Responsibilities:** The responsibility for developing emotional intelligence lies with the individual, but the organization has a responsibility to create a supportive environment that encourages and rewards this development. The rights to the benefits of emotional intelligence are shared by all stakeholders.
-5.  **Systematic Design:** The pattern is systematically designed, with a clear framework of four domains and twelve competencies. This makes it easy to understand, learn, and apply.
-6.  **Systems of Systems:** The Emotional Intelligence pattern can be integrated with other organizational patterns, such as Agile, Lean, and Holacracy, to create a more human-centered and effective organization.
-7.  **Fractal Properties:** The principles of emotional intelligence apply at all levels of the organization, from the individual to the team, to the organization as a whole.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**Overall Score: 4/5 (Commons-Aligned)**
+**1. Stakeholder Architecture:**
+Emotional Intelligence primarily focuses on the individual's ability to understand and manage their own emotions and recognize the emotions of others. It implicitly defines responsibilities in human-to-human interactions, promoting empathy and effective communication. However, it does not explicitly define a stakeholder architecture that includes rights and responsibilities for non-human agents like organizations, machines, or the environment.
 
-Emotional Intelligence is a highly commons-aligned pattern. It is inclusive, creates value for all stakeholders, and is designed to be adaptable and scalable. The only reason it does not receive a perfect score is that it can be used for manipulative purposes if it is not grounded in a strong ethical framework. However, when practiced with integrity, it is a powerful force for good in the world.
+**2. Value Creation Capability:**
+The pattern is a strong enabler of collective value creation, particularly in the social and knowledge domains. By fostering better communication, collaboration, and leadership, it enhances a system's capacity to generate shared understanding and build strong relationships. While it doesn't directly address economic or ecological value, it creates the social foundation upon which those other forms of value can be built.
+
+**3. Resilience & Adaptability:**
+Resilience and adaptability are at the core of Emotional Intelligence. The principles of self-management and adaptability equip individuals and groups to navigate complexity, thrive on change, and maintain coherence under stress. This pattern directly contributes to the ability of a system to absorb shocks and turn challenges into opportunities for growth.
+
+**4. Ownership Architecture:**
+Emotional Intelligence does not directly address the concept of ownership architecture. Its focus is on interpersonal dynamics and individual capabilities rather than the formal distribution of rights and responsibilities over shared resources. The pattern is concerned with how people interact, not what they own.
+
+**5. Design for Autonomy:**
+This pattern is highly compatible with and even essential for autonomous systems. In a world of AI, DAOs, and distributed networks, the human skills of empathy, communication, and collaboration become even more critical for effective human-machine and human-human interaction. Emotional Intelligence helps to lower coordination overhead by making interactions more seamless and effective.
+
+**6. Composability & Interoperability:**
+Emotional Intelligence is an exceptionally composable and interoperable pattern. It can be combined with virtually any other pattern to enhance its effectiveness, from decision-making and governance to software development and community building. It acts as a social lubricant that makes any collective endeavor run more smoothly.
+
+**7. Fractal Value Creation:**
+The pattern is inherently fractal, as its principles apply at all scales of a system. The value-creation logic of self-awareness, self-management, social awareness, and relationship management can be practiced by individuals, teams, organizations, and even entire ecosystems. This allows for the creation of a coherent and emotionally intelligent culture across all levels of a system.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Emotional Intelligence is a powerful enabler of collective value creation, particularly in the social and knowledge domains. It provides the foundational skills for effective collaboration, resilience, and adaptability, which are essential for any commons. However, it does not provide a complete architecture for value creation, as it lacks explicit consideration of stakeholder rights, ownership, and ecological value.
+
+**Opportunities for Improvement:**
+- Develop a framework for applying Emotional Intelligence principles to the design of stakeholder architectures, defining rights and responsibilities for non-human actors.
+- Integrate Emotional Intelligence with patterns that explicitly address ownership and economic value creation to create a more comprehensive value creation architecture.
+- Explore how Emotional Intelligence can be used to foster a deeper connection to the environment and promote ecological value creation.
 
 ### 9. Resources & References (200-400 words)
 

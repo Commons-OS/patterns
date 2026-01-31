@@ -15,7 +15,7 @@ tags:
   era: [digital, cognitive]
   origin: [academic, organizational-practice]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -165,41 +165,40 @@ While AI and automation can enhance the efficiency and effectiveness of hybrid g
 In the cognitive era, hybrid governance models are likely to become more dynamic, data-driven, and automated. We can expect to see the emergence of new forms of hybrid governance that are enabled by technologies such as blockchain, which can provide a secure and transparent platform for managing multi-stakeholder collaborations. We can also expect to see a greater emphasis on the use of data and analytics to inform decision-making and to measure the performance of governance systems. As AI and automation become more sophisticated, we may even see the emergence of autonomous governance systems that can operate with minimal human intervention. However, it will be crucial to ensure that these systems are designed in a way that is aligned with human values and that they are subject to appropriate human oversight.
 
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-Hybrid governance models, by their very nature, represent a move away from purely extractive or proprietary models of organization and toward more inclusive and collaborative forms of governance. However, the degree to which a specific hybrid governance model aligns with the principles of a commons depends on its design and implementation.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**1. Stakeholder Mapping:**
+**1. Stakeholder Architecture:**
+Hybrid Governance Models explicitly champion stakeholder inclusivity and polycentric, networked collaboration, defining Rights and Responsibilities through mechanisms like federated councils and tiered decision-making. This provides a strong foundation for distributing agency among human and organizational stakeholders. However, the framework does not inherently grant formal Rights to non-human stakeholders such as the environment, AI agents, or future generations, which remains a critical gap.
 
-A key strength of hybrid governance is its emphasis on stakeholder inclusivity. By bringing together diverse actors from the public, private, and civil society sectors, hybrid models can ensure that a wide range of perspectives are considered in decision-making. However, the comprehensiveness of stakeholder mapping can vary significantly. In some cases, stakeholder engagement may be limited to a few powerful actors, while in other cases, it may be a truly open and participatory process. A commons-aligned hybrid governance model would need to go beyond simply identifying stakeholders and actively work to empower marginalized and underrepresented groups.
+**2. Value Creation Capability:**
+The pattern strongly enables the creation of diverse value forms beyond the purely economic, including social and environmental value, particularly through multi-stakeholder collaborations like Public-Private Partnerships. It fosters knowledge value through Communities of Practice and resilience value through its adaptive structure. The model's core function is to create a collaborative environment where different forms of value can be recognized and pursued collectively.
 
-**2. Value Creation:**
+**3. Resilience & Adaptability:**
+Resilience and adaptability are central strengths of this pattern, addressed through principles like "Dynamic Reconfiguration" and the integration of formal and informal mechanisms. By blending top-down stability with bottom-up flexibility and embracing polycentricity, the model is explicitly designed to help systems thrive on change and maintain coherence under stress. It provides a robust architecture for navigating complexity in dynamic environments.
 
-Hybrid governance models can create multiple forms of value, including economic, social, and environmental value. For example, a public-private partnership for renewable energy can generate financial returns for investors, create jobs for the local community, and reduce carbon emissions. However, the distribution of this value is a critical issue. A commons-aligned hybrid governance model would need to ensure that the value created is shared equitably among all stakeholders, rather than being captured by a few powerful actors.
+**4. Ownership Architecture:**
+The pattern defines ownership primarily in terms of procedural rights, such as decision-making authority within tiered frameworks and data stewardship responsibilities. While this distributes control, it does not fundamentally redefine ownership as a comprehensive bundle of Rights and Responsibilities (e.g., rights to use, alter, and benefit from assets) beyond conventional governance roles. The concept of ownership remains largely tied to existing legal and organizational structures rather than a new commons-based paradigm.
 
-**3. Value Preservation:**
+**5. Design for Autonomy:**
+This pattern is highly compatible with autonomous systems, as evidenced by its principles of subsidiarity and its explicit consideration for the Cognitive Era. The federated structure and emphasis on empowering decision-making at the lowest competent level reduce coordination overhead, making it suitable for DAOs and other distributed systems. AI and automation are treated as potential augmentations to the governance model, enhancing its analytical and operational capabilities.
 
-Hybrid governance models can help to preserve value over time by creating more resilient and adaptive governance systems. By combining the stability of formal institutions with the flexibility of informal networks, hybrid models can be more effective at navigating change and uncertainty. However, there is also a risk that hybrid models can be co-opted by powerful interests and used to maintain the status quo. A commons-aligned hybrid governance model would need to have strong mechanisms for accountability and learning to ensure that it remains relevant and responsive to the needs of the community it serves.
+**6. Composability & Interoperability:**
+As a meta-pattern, Hybrid Governance is inherently designed for composability, blending elements from centralized, decentralized, and federated models. It readily interoperates with other patterns like Centers of Excellence, Communities of Practice, and Agile frameworks to create tailored governance solutions. Its successful application across diverse domains such as IT, public administration, and environmental management demonstrates its high degree of interoperability.
 
-**4. Shared Rights & Responsibilities:**
+**7. Fractal Value Creation:**
+The pattern exhibits strong fractal properties, as its core logic of balancing central coordination with local autonomy can be applied at all scales, from individuals and teams to entire ecosystems. The principles of subsidiarity and polycentricity are scale-invariant, allowing the value-creation logic to be replicated effectively at multiple levels. This enables the creation of a coherent yet flexible governance architecture throughout a complex system.
 
-Hybrid governance models involve a complex distribution of rights and responsibilities among different actors. For example, in a public-private partnership, the public sector may be responsible for setting the overall policy framework, while the private sector may be responsible for delivering the service. A commons-aligned hybrid governance model would need to ensure that this distribution of rights and responsibilities is fair and equitable, and that all stakeholders have a voice in shaping the rules of the game.
+**Overall Score: 4 (Value Creation Enabler)**
 
-**5. Systematic Design:**
+**Rationale:**
+Hybrid Governance Models provide a robust framework for balancing competing needs and integrating diverse stakeholders, which strongly enables collective value creation. Its emphasis on polycentricity, adaptability, and subsidiarity makes it highly resilient and compatible with distributed, autonomous systems. However, it falls short of a complete value creation architecture because its definition of ownership is primarily procedural (decision rights) rather than a fundamental re-architecting of rights and responsibilities, and it lacks explicit mechanisms for representing non-human stakeholders like the environment or future generations.
 
-Hybrid governance models are enabled by a variety of systems and processes, including legal frameworks, contractual agreements, and communication platforms. A commons-aligned hybrid governance model would need to be designed in a way that is transparent, accountable, and participatory. This would involve using open-source technologies, promoting open data standards, and creating opportunities for all stakeholders to participate in the design and governance of the system.
-
-**6. Systems of Systems:**
-
-Hybrid governance models are often part of a larger ecosystem of governance arrangements. For example, a local food system may be governed by a hybrid model that includes a farmers' market, a community-supported agriculture (CSA) program, and a food policy council. A commons-aligned hybrid governance model would need to be designed in a way that it can effectively interact with other governance systems and contribute to the overall health and resilience of the ecosystem.
-
-**7. Fractal Properties:**
-
-The principles of hybrid governance can be applied at all scales, from the individual to the ecosystem. For example, an individual can use a hybrid governance model to manage their personal knowledge, a team can use a hybrid model to manage its projects, and a city can use a hybrid model to manage its transportation system. A commons-aligned hybrid governance model would need to be designed in a way that its core principles are applied consistently across all scales.
-
-**Overall Score: 3 (Transitional)**
-
-Hybrid governance models represent a significant step forward from traditional, top-down models of governance. They have the potential to be more inclusive, resilient, and effective. However, they are not inherently commons-aligned. The degree to which a hybrid governance model aligns with the principles of a commons depends on its specific design and implementation. There is a risk that hybrid models can be used to legitimize the privatization of public services or to co-opt the language of participation without actually empowering communities. To be truly commons-aligned, hybrid governance models need to be designed in a way that is transparent, accountable, and participatory, and that ensures that the value created is shared equitably among all stakeholders. The opportunity for improvement lies in developing clear standards and best practices for commons-aligned hybrid governance, and in creating mechanisms for holding hybrid governance arrangements accountable to the communities they serve.
+**Opportunities for Improvement:**
+- Integrate formal mechanisms for representing the rights and interests of non-human stakeholders, such as the environment and AI agents.
+- Develop a more explicit "Ownership Architecture" that defines stakeholder rights and responsibilities beyond decision-making, including rights to use, benefit from, and contribute to shared assets.
+- Create clearer guidelines on how to distribute the different forms of value (social, ecological, knowledge) created, ensuring equitable benefit for all stakeholders.
 
 
 ### 9. Resources & References

@@ -15,7 +15,7 @@ tags:
   era: [industrial, digital]
   origin: [academic, mit]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -109,47 +109,41 @@ Furthermore, Axiomatic Design can be used to develop a new generation of design 
 
 The combination of Axiomatic Design and AI has the potential to revolutionize the way we design and develop complex systems. It could lead to a new era of "smart" design, where designs are not only more efficient and reliable but also more intelligent and adaptive.
 
-### 8. Commons Alignment Assessment (600-800 words)
+### 8. Commons Alignment Assessment (v2.0)
 
-Axiomatic Design, with its emphasis on systematic and rational design, has a complex relationship with the principles of a commons-based approach. On one hand, its structured nature can be seen as a way to democratize the design process, making it more accessible to a wider range of people. By providing a clear and logical framework, it can empower individuals and communities to design and develop their own solutions to local problems.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-On the other hand, the methodology's origins in the industrial and academic world can be seen as a barrier to its adoption in a commons context. The mathematical rigor and the need for specialized knowledge can be intimidating to those without a technical background. Moreover, the focus on optimization and efficiency might sometimes conflict with the more holistic and value-driven approach of a commons.
+**1. Stakeholder Architecture:**
+Axiomatic Design is a technical methodology focused on translating customer needs into functional system parameters. It does not explicitly define Rights and Responsibilities for a broad range of stakeholders like the environment, community, or future generations. Its stakeholder architecture is minimal, primarily involving the customer (as a source of requirements) and the designer (as the executor), making it stakeholder-agnostic.
 
-However, there are several ways in which Axiomatic Design can be aligned with a commons-based approach. For example, the principles of Axiomatic Design can be used to design more sustainable and resilient systems that are better for the environment and for society as a whole. The emphasis on minimizing information content can be interpreted as a call for simplicity and elegance, which are values that are often cherished in a commons.
+**2. Value Creation Capability:**
+The pattern excels at creating robust functional and economic value by optimizing for efficiency and reliability. While it does not directly address social, ecological, or knowledge value, it provides a foundational layer for systems that do. By ensuring a system is well-designed and functional, it enables the potential for that system to be used for broader collective value creation.
 
-Furthermore, the open and transparent nature of the methodology can be seen as a way to foster collaboration and knowledge sharing. By making the design process more explicit and understandable, it can enable people to work together more effectively to create shared resources.
+**3. Resilience & Adaptability:**
+Axiomatic Design is a powerful enabler of resilience. The Independence Axiom, which seeks to decouple functional requirements, directly creates systems that are resistant to cascading failures and easier to adapt. This modularity allows parts of the system to be changed or upgraded without destabilizing the whole, helping the system maintain coherence under stress.
 
-In conclusion, while there are some tensions between Axiomatic Design and a commons-based approach, there are also many opportunities for synergy. By adapting the methodology to the specific needs and values of a commons, it can be a powerful tool for creating a more just, sustainable, and equitable world.
+**4. Ownership Architecture:**
+This pattern does not address ownership architecture. As a pure design methodology, it is concerned with the integrity of the system's design, not the structure of Rights and Responsibilities related to its ownership or stewardship. It can be applied within any ownership model, from proprietary to collective, without change.
+
+**5. Design for Autonomy:**
+Axiomatic Design is highly compatible with autonomous systems, AI, and DAOs. Its logical, matrix-based framework for decomposing and analyzing system requirements is well-suited for algorithmic processing and automated design generation. The emphasis on functional independence is critical for building modular, low-coordination software agents and distributed systems.
+
+**6. Composability & Interoperability:**
+The pattern is inherently composable and interoperable. The hierarchical decomposition of functions and the focus on independent modules mean that systems designed with this method can be easily combined. This allows for the creation of larger, complex value-creation architectures from smaller, well-designed components.
+
+**7. Fractal Value Creation:**
+The logic of Axiomatic Design is fractal, meaning it can be applied at any scale. The process of decomposing high-level functional requirements into more detailed sub-requirements can be repeated from the component level to the system-of-systems level. This ensures the core value-creation logic of functional integrity and robustness can be replicated across an entire ecosystem.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Axiomatic Design is a powerful enabler for creating the technical foundation of resilient, adaptable, and scalable systems. While it lacks a native stakeholder or ownership architecture, its principles are fundamental to building the robust structures upon which collective value creation can occur. Its high compatibility with autonomous systems and composability make it a critical pattern for engineering the infrastructure of a commons.
+
+**Opportunities for Improvement:**
+- Integrate Axiomatic Design with stakeholder mapping patterns to explicitly incorporate a wider range of stakeholder needs (social, ecological) as formal Functional Requirements.
+- Develop a "Commons Information Axiom" that extends the concept of "information content" to include the costs of coordination and governance for a community.
+- Combine the pattern with ownership and governance frameworks to create a complete architecture for collectively-owned and managed systems.
 
 ### 9. Resources & References (200-400 words)
 
 The primary source for Axiomatic Design is the work of its creator, Dr. Nam P. Suh. His books provide a comprehensive overview of the methodology and its applications.
-
-**Key Books:**
-
-*   Suh, N. P. (1990). *The Principles of Design*. Oxford University Press.
-*   Suh, N. P. (2001). *Axiomatic Design: Advances and Applications*. Oxford University Press.
-*   Suh, N. P. (2005). *Complexity: Theory and Applications*. Oxford University Press.
-
-**Online Resources:**
-
-*   The Axiomatic Design website (axiomaticdesign.com) provides a wealth of information, including articles, case studies, and software tools.
-*   MIT OpenCourseWare has a course on Axiomatic Design that includes lecture notes and assignments.
-
-**Academic Papers:**
-
-There is a large body of academic literature on Axiomatic Design, covering a wide range of applications and theoretical developments. A search on Google Scholar or other academic databases will yield many relevant papers.
-
-By consulting these resources, you can gain a deeper understanding of Axiomatic Design and how to apply it in your own work.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/axiomatic-design/](https://commons-os.github.io/patterns/domain/axiomatic-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/axiomatic-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/axiomatic-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -15,7 +15,7 @@ tags:
   era: [digital]
   origin: [Forrester Research, Google]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -177,27 +177,40 @@ While AI and automation can significantly enhance the effectiveness of a Zero Tr
 
 As technology continues to evolve, the Zero Trust model will need to adapt to new threats and challenges. The rise of the Internet of Things (IoT), for example, will require new approaches to securing a vast number of interconnected devices. The increasing use of AI and machine learning will also create new opportunities and risks for Zero Trust architectures. In the future, we can expect to see more intelligent and automated Zero Trust solutions that can adapt to the ever-changing threat landscape.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-1.  **Stakeholder Mapping**: Zero Trust security has a broad range of stakeholders, including employees, customers, partners, and shareholders. A comprehensive stakeholder map would also include regulators, industry groups, and the wider community. The model's primary focus is on protecting the organization and its assets, but it also has a significant impact on the privacy and security of individuals.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-2.  **Value Creation**: The primary value created by Zero Trust is enhanced security and risk reduction. It also creates value by enabling greater business agility and productivity. The beneficiaries of this value are the organization and its stakeholders, including customers who can trust that their data is being protected.
+**1. Stakeholder Architecture:**
+Zero Trust primarily defines Rights and Responsibilities for users, devices, and applications within a defined IT ecosystem. It enforces a strict "never trust, always verify" policy, where rights are granularly assigned based on real-time context and responsibilities include adhering to security protocols. While this secures the immediate system, it does not explicitly architect for the rights of broader stakeholders like the environment, future generations, or the open source community it often builds upon.
 
-3.  **Value Preservation**: Zero Trust is a dynamic and adaptive model that is designed to evolve with the changing threat landscape. It preserves value by continuously monitoring and validating the security of the IT environment, and by adapting to new threats and challenges as they emerge.
+**2. Value Creation Capability:**
+The pattern excels at creating resilience and security value, which are foundational for any form of collective value creation. By protecting shared resources from unauthorized access and misuse, it ensures the integrity and availability of the system for all permissioned stakeholders. However, its native focus is on preventing value destruction (loss) rather than directly enabling the creation of new forms of collective value like social or ecological capital.
 
-4.  **Shared Rights & Responsibilities**: In a Zero Trust model, security is a shared responsibility. Users are responsible for following security policies and procedures, while the organization is responsible for providing the necessary tools and training to enable them to do so. The model also requires a high degree of transparency and accountability, with clear lines of responsibility for security.
+**3. Resilience & Adaptability:**
+Resilience and adaptability are core strengths of the Zero Trust model. By assuming a state of "assumed breach" and implementing continuous verification and micro-segmentation, it is designed to thrive on change and maintain coherence under stress. This architecture allows systems to adapt to evolving threats and complexities, containing disruptions and ensuring the system's continued operation.
 
-5.  **Systematic Design**: A Zero Trust architecture is a complex system that requires a systematic approach to design and implementation. It involves a combination of technologies, processes, and policies that must be carefully integrated to create a cohesive and effective security framework.
+**4. Ownership Architecture:**
+Ownership in a Zero Trust model is implicitly defined through access control policies, where the central authority (the organization) retains ultimate ownership of resources. The framework treats access as a revocable privilege, not an inherent right, and does not fundamentally challenge traditional notions of ownership. It focuses on securing assets for the resource owner rather than distributing ownership rights and responsibilities among a wider set of stakeholders.
 
-6.  **Systems of Systems**: A Zero Trust architecture is a system of systems that integrates with a wide range of other IT and security systems, including IAM, endpoint security, and network security solutions. It is designed to be a foundational component of a broader security ecosystem.
+**5. Design for Autonomy:**
+Zero Trust is exceptionally well-suited for a future of autonomous systems, AI, and DAOs. Its principle of verifying every transaction regardless of origin makes it a perfect security layer for decentralized environments where trust cannot be assumed. The low coordination overhead and API-centric approach allow for seamless interaction between human and machine agents without compromising security.
 
-7.  **Fractal Properties**: The principles of Zero Trust can be applied at any scale, from a single device to an entire ecosystem of interconnected organizations. This fractal property makes it a highly scalable and adaptable model that can be used to secure a wide range of IT environments.
+**6. Composability & Interoperability:**
+The pattern is highly composable and designed to interoperate with a vast ecosystem of security and IT management tools. It acts as a foundational security layer that can be combined with other patterns to build larger, more complex value-creation systems. Its reliance on open standards and APIs enhances its ability to connect with diverse technologies and platforms.
 
-**Overall Score**: 3 (Transitional)
+**7. Fractal Value Creation:**
+The core logic of "never trust, always verify" is inherently fractal and can be applied at any scale. The same principles can secure a single application, a corporate network, a multi-cloud environment, or even a complex supply chain ecosystem involving multiple organizations. This scalability allows the resilience and security value it creates to be replicated and nested across different levels of a system.
 
-**Rationale**: Zero Trust is a significant step forward from traditional security models, but it is still primarily focused on protecting the interests of the organization. While it has a positive impact on the security and privacy of individuals, it is not explicitly designed to empower them or to create a more equitable distribution of value. To achieve a higher commons alignment score, the model would need to incorporate a greater focus on user empowerment, data ownership, and the creation of shared value.
+**Overall Score: 4 (Value Creation Enabler)**
 
-**Opportunities for Improvement**: To improve its commons alignment, the Zero Trust model could be extended to include a greater focus on user-centric design, data portability, and the use of open standards. It could also be integrated with other commons-based patterns, such as decentralized identity and personal data stores, to create a more user-centric and empowering security framework.
+**Rationale:**
+Zero Trust is a powerful enabler of resilient collective value creation by providing a robust security foundation. It is not a complete value creation architecture in itself, as its primary focus is on preventing loss and securing resources within a predefined system boundary. However, its strong design for autonomy, composability, and fractal scalability make it an essential component for building the trusted, resilient, and adaptable systems that are prerequisites for any thriving commons.
+
+**Opportunities for Improvement:**
+- Evolve the model to incorporate concepts of data sovereignty and user-centric identity, giving individuals more control over their data.
+- Develop mechanisms to extend the "verify" principle to include ecological and social impact assessments for resource access requests.
+- Create open-source implementations and standards that are governed as a digital public good to prevent vendor lock-in and ensure broad accessibility.
 
 ### 9. Resources & References
 

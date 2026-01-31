@@ -145,39 +145,40 @@ While AI has the potential to be a powerful tool for learning, it is important t
 
 As we move deeper into the cognitive era, the principles of democratic education are likely to become more relevant than ever. In a world of rapid change and increasing complexity, the ability to learn, unlearn, and relearn will be essential for success. The democratic school model, with its emphasis on self-directed learning, critical thinking, and collaboration, is uniquely well-suited to preparing students for the challenges and opportunities of the 21st century. We may see a proliferation of new and innovative models of democratic education, from fully online schools to hybrid models that blend the best of online and in-person learning. The core principles of freedom, democracy, and respect for the individual, however, will remain at the heart of the movement.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-**1. Stakeholder Mapping:**
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-Democratic schools have a broad and inclusive stakeholder map. The primary stakeholders are, of course, the students, who are at the center of the educational model. However, the stakeholder map also includes teachers, parents, alumni, and the wider community. In a democratic school, all of these stakeholders have a voice in the governance of the school, although the degree of influence may vary. The comprehensiveness of the stakeholder mapping is a key strength of the democratic school model, as it ensures that the school is responsive to the needs and interests of all its members.
+**1. Stakeholder Architecture:**
+The pattern establishes a clear stakeholder architecture centered on students and staff, defining their rights (e.g., self-directed learning, equal vote) and responsibilities (e.g., community participation, mutual respect). While it implicitly includes parents and the local community, it does not explicitly define rights or responsibilities for broader stakeholders like the environment or future generations, which limits its scope as a complete systemic architecture.
 
-**2. Value Creation:**
+**2. Value Creation Capability:**
+The pattern excels at enabling the creation of diverse forms of value beyond the purely economic. It directly cultivates social value through its emphasis on community and collaborative governance, knowledge value through self-directed lifelong learning, and individual resilience by fostering adaptability and intrinsic motivation. This holistic approach to development is a core strength.
 
-Democratic schools create value in a number of ways. For students, they create value by providing a personalized and engaging learning experience that fosters creativity, critical thinking, and a lifelong love of learning. For teachers, they create value by providing a collaborative and empowering work environment. For parents, they create value by providing a safe and supportive community for their children. And for the wider community, they create value by producing active and engaged citizens who are committed to the principles of democracy and social justice.
+**3. Resilience & Adaptability:**
+Resilience and adaptability are core features of this pattern. By rejecting rigid, top-down structures and standardized curricula, democratic schools are designed to evolve based on the needs of their members and changing external conditions. This inherent flexibility allows the system to maintain coherence and thrive on complexity and stress.
 
-**3. Value Preservation:**
+**4. Ownership Architecture:**
+Ownership is defined through stewardship and active participation rather than financial equity. Stakeholders "own" the school through their shared rights and responsibilities in its governance, learning processes, and community well-being. This aligns perfectly with a commons-based view of ownership as a bundle of rights and duties.
 
-Democratic schools preserve value over time by being adaptable and responsive to change. Because they are not tied to a rigid curriculum or a top-down management structure, they are able to evolve and innovate in response to the changing needs of their students and the changing world around them. This ability to adapt is a key factor in their long-term sustainability.
+**5. Design for Autonomy:**
+The pattern is exceptionally well-designed for autonomy, making it highly compatible with distributed systems and AI. Its principles of self-organization, low coordination overhead, and trust in individual agency are foundational for enabling both human and machine autonomy. The model minimizes centralized control, allowing for emergent, decentralized order.
 
-**4. Shared Rights & Responsibilities:**
+**6. Composability & Interoperability:**
+Democratic schools are highly composable and can be integrated with various other educational patterns, such as project-based or inquiry-based learning. The principles themselves are modular and can be applied as a "democratic classroom" within a larger, more traditional institution. This allows the pattern to serve as a building block in larger value-creation systems.
 
-In a democratic school, rights and responsibilities are shared among all members of the community. Students have the right to a voice in the decisions that affect them, but they also have the responsibility to participate in the democratic process and to respect the rights of others. Teachers have the right to a collaborative and empowering work environment, but they also have the responsibility to support students in their learning journeys and to uphold the values of the school.
+**7. Fractal Value Creation:**
+The value-creation logic of democratic education is inherently fractal, applying effectively at multiple scales. The core principles of shared governance and self-directed learning can be implemented at the level of an individual project, a classroom, a whole school, or even a network of schools. This scalability allows the pattern to create coherent value-generating structures across different system levels.
 
-**5. Systematic Design:**
+**Overall Score: 4 (Value Creation Enabler)**
 
-Democratic schools are enabled by a number of systems and processes, including the school meeting, the judicial committee, and the practice of self-directed learning. These systems and processes are designed to distribute power, to foster collaboration, and to ensure that all members of the community have a voice in the governance of the school.
+**Rationale:**
+Democratic Schools are a powerful enabler of collective value creation, embodying many core principles of a commons. The pattern provides a robust framework for fostering autonomy, resilience, and diverse value streams (social, knowledge). It scores a 4 instead of a 5 because its stakeholder architecture, while strong, is primarily focused on the educational domain and does not explicitly incorporate broader ecological or inter-generational responsibilities, which would be required for a complete value creation architecture.
 
-**6. Systems of Systems:**
-
-Democratic schools can be seen as part of a larger ecosystem of commons-based institutions, including worker cooperatives, co-housing communities, and open-source software projects. They can also compose with other educational patterns, such as project-based learning, inquiry-based learning, and place-based education.
-
-**7. Fractal Properties:**
-
-The principles of democratic education can be applied at all scales, from the individual classroom to the entire school system. A democratic classroom, for example, might have its own class meeting where students make decisions about their learning and their classroom environment. A democratic school district might have a district-wide assembly where students, teachers, and parents from all of the schools in the district come together to make decisions about district-wide policies.
-
-**Overall Score: 4/5 (Commons-Aligned)**
-
-Democratic schools are highly aligned with the principles of the commons. They are inclusive, participatory, and adaptable, and they create value for a wide range of stakeholders. However, there are also opportunities for improvement. For example, many democratic schools struggle with issues of diversity and inclusion, and they can sometimes be insular and disconnected from the wider community. By addressing these challenges, democratic schools can become even more powerful engines of social and educational transformation.
+**Opportunities for Improvement:**
+- Explicitly integrate ecological awareness and responsibility into the school's governance and curriculum choices.
+- Develop formal mechanisms for engaging with and being accountable to the wider local and global community.
+- Create frameworks for sharing the knowledge and social value created within the school with other educational systems.
 
 ### 9. Resources & References
 

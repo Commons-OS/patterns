@@ -15,7 +15,7 @@ tags:
   era: [cognitive]
   origin: []
   status: draft
-  commons_alignment: 5
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: ["pat_01kg5023wffvhbb3a9f96dv6at"]
 specializes_to: []
@@ -164,44 +164,40 @@ Another significant challenge of the cognitive era is the potential for the co-o
 
 To navigate these challenges, it is essential for mutual aid networks to be intentional about their use of technology. This means choosing tools that are accessible, secure, and aligned with their values. It also means developing clear guidelines and practices for online organizing that promote equity, transparency, and accountability. By harnessing the power of technology while remaining true to their core principles, mutual aid networks can continue to be a vital force for community empowerment and social change in the cognitive era.
 
-# 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-Mutual Aid Networks, by their very nature, are strongly aligned with the principles of the commons. They are a contemporary manifestation of the age-old practice of commoning, where communities come together to manage shared resources and to take collective responsibility for their well-being. This assessment evaluates the pattern of Mutual Aid Networks against seven key dimensions of commons alignment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-<table header-row="true">
-<tr>
-<td>Dimension</td>
-<td>Assessment</td>
-</tr>
-<tr>
-<td>**1. Openness and Accessibility**</td>
-<td>Mutual Aid Networks are fundamentally open and accessible. They are typically open to all who are willing to participate, regardless of their background or social status. The resources and services they provide are available to all, without means-testing or other barriers to access.</td>
-</tr>
-<tr>
-<td>**2. Community Governance**</td>
-<td>Mutual Aid Networks are governed by their members. They are characterized by horizontal, democratic decision-making processes, where everyone has a voice. This contrasts sharply with the hierarchical governance structures of traditional charities and non-profits.</td>
-</tr>
-<tr>
-<td>**3. Shared Resources**</td>
-<td>Mutual Aid Networks are built around the sharing of resources, whether it be food, housing, skills, or labor. They create and maintain a commons of shared wealth, which is available to all members of the community.</td>
-</tr>
-<tr>
-<td>**4. Fair Distribution**</td>
-<td>The principle of "from each according to their ability, to each according to their need" is central to the practice of mutual aid. Resources are distributed on the basis of need, not on the basis of ability to pay. This ensures a fair and equitable distribution of the benefits of the network.</td>
-</tr>
-<tr>
-<td>**5. Sustainability**</td>
-<td>Mutual Aid Networks are often more resilient and sustainable than top-down systems of support. Because they are rooted in the community and are based on reciprocal relationships, they are better able to adapt to changing circumstances and to weather crises. They also promote social and ecological sustainability by fostering a culture of care and stewardship.</td>
-</tr>
-<tr>
-<td>**6. Reproduction and Forkability**</td>
-<td>The model of mutual aid is highly reproducible and forkable. New networks can be easily started by anyone who is inspired by the idea. The knowledge and practices of mutual aid are freely shared, allowing the pattern to be adapted and replicated in different contexts.</td>
-</tr>
-<tr>
-<td>**7. Contribution and Care**</td>
-<td>Mutual Aid Networks are animated by a culture of contribution and care. They create a space where everyone is valued and where everyone has something to contribute. This fosters a sense of belonging and collective purpose, which is essential for the long-term health and vitality of the network.</td>
-</tr>
-</table>
+**1. Stakeholder Architecture:**
+The pattern defines a clear stakeholder architecture for its human participants, emphasizing voluntary membership, democratic control, and reciprocal responsibility. Rights include access to shared resources and a voice in governance, while responsibilities involve contributing skills and resources to the network. While the principle of "Building Community Sustainability" implies a responsibility to future generations and the environment, the framework could be more explicit in defining the rights and roles of these non-human stakeholders.
+
+**2. Value Creation Capability:**
+Mutual Aid Networks excel at creating diverse forms of value beyond the purely economic. The pattern facilitates the generation of social value through community cohesion, knowledge value via skill sharing and cooperative education, and resilience value by enabling communities to adapt to crises. The core principle of "solidarity, not charity" fosters a system of collective care and empowerment, moving beyond simple transactional exchanges.
+
+**3. Resilience & Adaptability:**
+The pattern is inherently designed for resilience and adaptability. Mutual Aid Networks are decentralized, grassroots initiatives that can mobilize quickly and flexibly in response to changing community needs, particularly during crises. Their ability to operate where formal institutions are slow or absent demonstrates a high capacity for maintaining coherence and providing support under stress.
+
+**4. Ownership Architecture:**
+Ownership within a Mutual Aid Network is based on active participation and contribution rather than monetary investment. Members democratically control the network’s resources, and any surplus is reinvested into the community, not distributed for private profit. This aligns with a broader conception of ownership as a set of rights and responsibilities related to stewardship and shared benefit.
+
+**5. Design for Autonomy:**
+The pattern’s decentralized, horizontal structure and emphasis on open-source tools make it highly compatible with autonomous systems like DAOs. The low coordination overhead and principle of "Autonomy and Independence" allow for easy integration with distributed technologies, enabling greater scale and efficiency without compromising core values.
+
+**6. Composability & Interoperability:**
+Mutual Aid Networks are designed to be composable and interoperable. The principle of "Mutual Aid Among MANs" encourages collaboration and resource sharing with other networks and aligned organizations. This allows for the creation of a resilient, multi-layered ecosystem of solidarity where different patterns can be combined to address complex challenges.
+
+**7. Fractal Value Creation:**
+The value-creation logic of mutual aid is fractal, meaning it can be applied effectively at multiple scales. The pattern can be implemented within a small group, a neighborhood, a city, or a global network. Its principles are adaptable and "forkable," allowing the core logic of reciprocal support to be replicated and customized in diverse contexts.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+The pattern provides a robust framework for collective value creation, emphasizing solidarity, reciprocity, and democratic governance. It is highly adaptable, resilient, and designed for interoperability. It scores a 4 because while it strongly enables the creation of a commons, it could be strengthened by more explicitly defining the rights and responsibilities of non-human stakeholders (e.g., the environment, future generations) to be considered a complete value creation architecture.
+
+**Opportunities for Improvement:**
+- Integrate a more explicit framework for considering the rights and responsibilities of the environment and future generations in the network's decision-making processes.
+- Develop clearer guidelines for how the pattern can interface with DAOs and other autonomous systems to enhance scalability and automation while preserving core principles.
+- Create standardized templates and open-source tools for key functions like resource mapping, needs assessment, and transparent governance to lower the barrier to entry for new networks.
 
 # 9. Resources & References
 

@@ -15,7 +15,7 @@ tags:
   era: [digital]
   origin: [academic]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: ["pat_01kg5023zwft8t7k63dsyf8r7x"]
 specializes_to: []
@@ -119,7 +119,6 @@ Implementing the SECI model requires a systematic approach and a culture that va
 *   **Leadership Commitment:** The most critical prerequisite is a strong and visible commitment from leadership. Leaders must champion the importance of knowledge creation, allocate the necessary resources, and lead by example in sharing their own knowledge.
 *   **A Culture of Trust and Openness:** The SECI model cannot thrive in an environment of fear or mistrust. Employees must feel psychologically safe to share their ideas, ask questions, and make mistakes without fear of retribution.
 *   **Shared Vision and Purpose:** A clear and compelling vision provides the context and direction for knowledge-creation activities. When employees understand how their individual knowledge contributes to the larger organizational goals, they are more motivated to participate in the process.
-*   **Basic Infrastructure for Knowledge Sharing:** While the SECI model is not primarily about technology, having the basic infrastructure in place to support communication and collaboration is important. This can include everything from physical meeting spaces to digital platforms for knowledge sharing.
 
 **Getting Started:**
 
@@ -199,92 +198,37 @@ Despite the power of AI, the SECI model reminds us that knowledge creation is a 
 
 In the cognitive era, the SECI model is likely to evolve from a purely human-centric model to a more integrated, human-machine model of knowledge creation. The concept of a “Human-AI-Collaboration SECI (HAC-SECI) Model” has been proposed, which envisions a future where humans and AI work together in a symbiotic partnership to create and leverage knowledge. [8] In this new model, the focus will be on designing systems and processes that augment human intelligence, rather than replacing it. The challenge for organizations will be to find the right balance between human and machine, and to create a culture that embraces both the power of technology and the enduring value of human connection and creativity.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Commons Alignment Assessment evaluates the SECI model's alignment with a commons-based approach across seven dimensions.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**1. Stakeholder Mapping:**
+**1. Stakeholder Architecture:**
+The SECI model is primarily focused on internal human stakeholders (employees, managers) and does not explicitly define Rights and Responsibilities for a broader set of stakeholders like the environment, machines, or future generations. While it can be adapted to include customers or partners, its core design is organization-centric, limiting its scope as a full stakeholder architecture.
 
-The SECI model primarily focuses on internal stakeholders, namely employees at all levels of the organization. It provides a framework for leveraging the knowledge of frontline employees, middle managers, and senior leaders. However, the model can be extended to include external stakeholders, such as customers, suppliers, partners, and the wider community. For example, socialization can occur through interactions with customers to understand their needs, and combination can involve integrating knowledge from suppliers and partners.
+**2. Value Creation Capability:**
+The model is a powerful engine for creating knowledge value, which is a critical component of a thriving commons. By converting individual tacit knowledge into a collective asset, it directly enables social value (shared understanding, learning culture) and economic value (innovation, efficiency). It provides a clear pathway for a system to increase its collective intelligence.
 
-**2. Value Creation:**
+**3. Resilience & Adaptability:**
+The SECI model is fundamentally about adaptation and learning. The "knowledge spiral" is a continuous process that allows an organization to sense and respond to change, fostering resilience. By making knowledge creation a core process, it equips the system to maintain coherence and evolve in complex environments.
 
-The SECI model creates significant value by fostering innovation, improving operational efficiency, and enhancing organizational learning. The primary beneficiaries of this value are the organization itself (through increased competitiveness and profitability) and its employees (through personal and professional development). However, the value created can also extend to customers (through better products and services) and society as a whole (through the creation of new knowledge and solutions to complex problems).
+**4. Ownership Architecture:**
+The pattern implicitly promotes a shift from individual to collective ownership of knowledge, treating it as a shared organizational asset. However, it does not provide an explicit ownership architecture that defines Rights and Responsibilities beyond the organization itself. The focus is on leveraging knowledge for competitive advantage, not stewarding it as a commons.
 
-**3. Value Preservation:**
+**5. Design for Autonomy:**
+The SECI model is highly compatible with distributed systems and can be augmented by AI to enhance knowledge creation processes. Its emphasis on "middle-up-down" management suggests a move away from rigid top-down control, fostering a degree of autonomy. The framework is flexible and does not impose high coordination overhead.
 
-The SECI model is a powerful tool for value preservation, as it provides a mechanism for converting fragile, tacit knowledge into more robust, explicit knowledge. This process helps to ensure that valuable knowledge is not lost when individuals leave the organization. The continuous nature of the knowledge spiral also ensures that the organization’s knowledge base is constantly being updated and renewed, which helps to maintain its relevance over time.
+**6. Composability & Interoperability:**
+As a framework, the SECI model is highly composable. It can be integrated with various other organizational patterns, management practices, and technological systems to build more comprehensive value-creation systems. It provides a foundational layer for knowledge processing that other patterns can build upon.
 
-**4. Shared Rights & Responsibilities:**
+**7. Fractal Value Creation:**
+The pattern is explicitly fractal, as its logic of knowledge conversion can be applied at the individual, team, organization, and even inter-organizational ecosystem levels. This scalability allows the value-creation logic to be replicated across different scales, a key feature of a robust commons architecture.
 
-The SECI model promotes a sense of shared responsibility for knowledge creation. It encourages all members of the organization to participate in the process and to contribute their unique knowledge and expertise. However, the model does not explicitly address the issue of shared rights to the knowledge that is created. In most corporate settings, the intellectual property rights to the knowledge created by employees are owned by the organization. A more commons-aligned approach would involve exploring mechanisms for sharing the rights and rewards of knowledge creation more equitably with all stakeholders.
+**Overall Score: 4 (Value Creation Enabler)**
 
-**5. Systematic Design:**
+**Rationale:**
+The SECI model is a strong enabler of collective value creation, particularly in the domain of knowledge and learning. Its emphasis on continuous adaptation, its fractal nature, and its composability make it a vital pattern for building resilient systems. It scores highly because it provides a core mechanism for a system to develop collective intelligence. However, it falls short of a complete value creation architecture due to its limited stakeholder and ownership models, which remain primarily organization-centric.
 
-The SECI model is itself a systematic design for knowledge creation. It provides a clear and structured framework for managing the four modes of knowledge conversion. The concept of “Ba” (shared space) further enhances the systematic nature of the model by providing a concrete context for knowledge-creation activities. Organizations can design and implement a variety of systems and processes to support the SECI model, such as knowledge repositories, communities of practice, and innovation labs.
-
-**6. Systems of Systems:**
-
-The SECI model is highly compatible with other organizational patterns and systems. It can be integrated with a wide range of management practices, such as Total Quality Management (TQM), Lean Manufacturing, and Agile development. It can also be supported by a variety of technological systems, such as collaboration platforms, data analytics tools, and AI-powered knowledge management systems. The model’s focus on the fundamental process of knowledge creation makes it a versatile and adaptable framework that can be applied in a variety of contexts.
-
-**7. Fractal Properties:**
-
-The SECI model exhibits strong fractal properties, meaning that its principles can be applied at multiple scales, from the individual to the inter-organizational level. An individual can use the model to guide their own learning and development. A team can use it to create and share knowledge to achieve a common goal. An organization can use it to drive innovation and strategic renewal. And a network of organizations can use it to foster collaboration and co-create new knowledge.
-
-**Overall Score: 3 (Transitional)**
-
-The SECI model is a powerful framework for knowledge creation that has many elements of a commons-based approach. It promotes a culture of sharing, collaboration, and continuous learning. However, its primary focus is on creating value for the organization, and it does not explicitly address the issue of shared ownership and governance of the knowledge commons. To become more commons-aligned, organizations using the SECI model could explore ways to:
-
-*   Involve a wider range of stakeholders in the knowledge-creation process.
-*   Share the value created more equitably with all stakeholders.
-*   Establish clear and transparent governance mechanisms for the knowledge commons.
-*   Embrace open innovation and share knowledge with the wider community.
-
-### 9. Resources & References
-
-**Essential Reading:**
-
-*   **Nonaka, I., & Takeuchi, H. (1995). *The Knowledge-Creating Company: How Japanese Companies Create the Dynamics of Innovation*. Oxford University Press.** - This is the foundational text that introduced the SECI model. It provides a rich theoretical framework and numerous case studies from leading Japanese companies, making it essential reading for anyone seeking a deep understanding of the model.
-*   **Nonaka, I., Toyama, R., & Konno, N. (2000). SECI, Ba and Leadership: A Unified Model of Dynamic Knowledge Creation. *Long Range Planning*, *33*(1), 5–34.** - This paper extends the original SECI model by introducing the concept of “Ba” (shared space) and exploring the role of leadership in fostering a knowledge-creating culture. It provides a more holistic and dynamic view of the knowledge-creation process.
-*   **Farnese, M. L., Barbieri, B., Chirumbolo, A., & Patriotta, G. (2019). Managing Knowledge in Organizations: A Nonaka's SECI Model Operationalization. *Frontiers in Psychology*, *10*, 2730.** - This academic article provides a comprehensive review of the SECI model and presents an operational framework for its implementation and measurement. It is a valuable resource for those looking to apply the model in a practical and evidence-based way.
-
-**Organizations & Communities:**
-
-*   **Knowledge Management Institute (KMI):** The KMI is a leading global provider of knowledge management training and certification. It offers a wealth of resources, including articles, webinars, and courses, on a wide range of KM topics, including the SECI model.
-*   **APQC (American Productivity & Quality Center):** APQC is a non-profit organization that provides best practices research and knowledge management solutions. It has a large repository of case studies, benchmarks, and tools that can help organizations to implement and improve their KM practices.
-
-**Tools & Platforms:**
-
-*   **Collaboration Platforms (e.g., Slack, Microsoft Teams):** These tools facilitate communication and collaboration, which are essential for the socialization and externalization modes of knowledge conversion.
-*   **Wikis and Knowledge Base Software (e.g., Confluence, Notion):** These platforms provide a centralized repository for explicit knowledge, supporting the combination and internalization modes.
-*   **AI-Powered Knowledge Management Platforms:** A new generation of AI-powered tools is emerging that can augment the SECI process by automating the analysis of text, transcribing conversations, and personalizing learning experiences.
-
-**References:**
-
-[1] Wikipedia contributors. (2023, November 15). SECI model of knowledge dimensions. In *Wikipedia, The Free Encyclopedia*. Retrieved January 28, 2026, from https://en.wikipedia.org/wiki/SECI_model_of_knowledge_dimensions
-
-[2] Nonaka, I., & Takeuchi, H. (1995). *The knowledge-creating company: How Japanese companies create the dynamics of innovation*. Oxford University Press.
-
-[3] Nonaka, I. (1991). The knowledge-creating company. *Harvard Business Review*, *69*(6), 96-104.
-
-[4] Kyomuhendo, C. F., & Seeam, A. (2018). Knowledge sharing in academia: A case study using a SECI model approach. *Journal of Education*, *9*(1), 53-70.
-
-[5] Nonaka, I., & Konno, N. (1998). The concept of ‘Ba’: Building a foundation for knowledge creation. *California Management Review*, *40*(3), 40-54.
-
-[6] Fuji Xerox Co., Ltd. (n.d.). *Knowledge Management*. Retrieved January 28, 2026, from https://www.fujixerox.com/eng/company/sr/2003/special/special_01.html
-
-[7] Farnese, M. L., Barbieri, B., Chirumbolo, A., & Patriotta, G. (2019). Managing knowledge in organizations: A Nonaka's SECI model operationalization. *Frontiers in Psychology*, *10*, 2730.
-
-[8] Matsumoto, T., & Tsumoto, S. (2024). Human-AI-Collaboration SECI Model. In *International Conference on Knowledge and Systems Engineering* (pp. 135-149). Springer, Singapore.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/80-seci-model-knowledge-creation-nonaka-takeuchi/](https://commons-os.github.io/patterns/domain/80-seci-model-knowledge-creation-nonaka-takeuchi/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/80-seci-model-knowledge-creation-nonaka-takeuchi.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/80-seci-model-knowledge-creation-nonaka-takeuchi.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
+**Opportunities for Improvement:**
+- Explicitly define Rights and Responsibilities for a broader range of stakeholders, including non-human agents and the commons itself.
+- Develop a more explicit ownership architecture that treats knowledge as a commons to be stewarded, not just an asset to be leveraged.
+- Integrate feedback loops from the environment and other external stakeholders to create a more holistic and regenerative knowledge creation process.

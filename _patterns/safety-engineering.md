@@ -15,7 +15,7 @@ tags:
   era: []
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -204,21 +204,40 @@ The use of AI in safety-critical systems also raises a number of ethical conside
 
 Despite the challenges, the cognitive era also presents significant opportunities to improve safety. AI and machine learning can be used to analyze large amounts of data to identify potential safety hazards and to predict when failures are likely to occur. This can enable organizations to take proactive measures to prevent accidents and to improve the overall safety of their operations. For example, AI-powered systems can be used to monitor the health of equipment, to identify unsafe behaviors, and to provide real-time feedback to workers.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Commons Alignment Assessment evaluates how well the Safety Engineering pattern aligns with the principles of a commons-based approach. The assessment is based on seven dimensions, each rated on a scale of 1 to 5, where 1 indicates low alignment and 5 indicates high alignment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Rating | Rationale |
-| :--- | :--- | :--- |
-| **1. Openness & Transparency** | 4 | Safety engineering standards and best practices are often developed and published by national and international organizations, making them widely accessible. However, the implementation of safety engineering within a specific organization may not always be transparent. |
-| **2. Equitability & Inclusivity** | 3 | While the ultimate goal of safety engineering is to protect everyone, the level of protection may not always be equitable. For example, workers in some industries may be exposed to greater risks than the general public. |
-| **3. Modularity & Reusability** | 5 | Safety engineering principles and practices are highly modular and reusable. They can be applied to a wide range of systems and industries, and they can be adapted to meet the specific needs of a particular application. |
-| **4. Decentralization & Federation** | 3 | The practice of safety engineering is often centralized within an organization, with a dedicated safety department or team responsible for overseeing safety. However, there is a growing trend towards decentralization, with more emphasis on empowering all employees to take responsibility for safety. |
-| **5. Resilience & Adaptability** | 5 | Resilience and adaptability are at the core of safety engineering. The principles of safety reserves and safe fail are specifically designed to make systems more resilient to failures and unexpected events. |
-| **6. Sustainability & Regeneration** | 3 | Safety engineering can contribute to sustainability by preventing accidents that can have a devastating impact on the environment. However, the focus of safety engineering is primarily on protecting people and property, and environmental considerations may not always be a top priority. |
-| **7. Governance & Stewardship** | 4 | Safety engineering is governed by a complex web of regulations, standards, and best practices. These are often developed and maintained by a variety of stakeholders, including government agencies, industry associations, and professional organizations. |
+**1. Stakeholder Architecture:**
+Safety Engineering establishes a clear responsibility for organizations and engineers to protect human stakeholders (workers, the public) from harm. Rights are implicitly defined as the right to a safe operational environment. While it addresses environmental protection by preventing catastrophic failures, its primary focus is on human safety, with less explicit consideration for the rights or responsibilities of non-human agents or future generations.
 
-**Overall Commons Alignment Score: 3**
+**2. Value Creation Capability:**
+The pattern's primary contribution to value creation is the preservation of social and ecological value by preventing catastrophic loss. It directly creates resilience value by designing systems that can withstand failures and maintain functionality. This focus on stability and risk mitigation provides the necessary foundation upon which other forms of collective value (economic, knowledge) can be built and sustained.
+
+**3. Resilience & Adaptability:**
+Resilience is a core tenet of Safety Engineering, embedded through principles like 'Safe Fail' and 'Safety Reserves'. The pattern enables systems to maintain coherence under stress and adapt to component failures predictably. Its structured approach to hazard analysis and risk management is a powerful tool for navigating complexity, ensuring that systems can thrive despite unforeseen events.
+
+**4. Ownership Architecture:**
+This pattern defines ownership as a profound responsibility for the safety and integrity of a system, extending far beyond monetary equity. It obligates owners and operators to act as stewards, accountable for the potential impact of their systems on human life and the environment. This stewardship-centric view of ownership is a critical component of a commons architecture.
+
+**5. Design for Autonomy:**
+Safety Engineering is highly compatible with autonomous systems, as evidenced by its increasing application in AI and software-controlled environments. The discipline provides essential frameworks for verifying, validating, and ensuring the safety of autonomous agents. By establishing clear safety boundaries and fail-safe conditions, it lowers the coordination overhead required to trust and deploy autonomous technologies at scale.
+
+**6. Composability & Interoperability:**
+Safety Engineering is a foundational pattern that is highly composable with nearly any technological or organizational system. Its principles and practices (like FMEA and HAZOP) can be integrated as a safety layer into other patterns, from software development to supply chain management. This interoperability makes it an essential building block for constructing larger, more complex, and resilient value-creation systems.
+
+**7. Fractal Value Creation:**
+The logic of Safety Engineering is inherently fractal. The core principles of hazard identification, risk mitigation, and fail-safe design can be applied at any scale—from a single software component to a global energy grid. This scalability allows the pattern to create a consistent architecture of safety and resilience across all levels of a system, ensuring that value is protected fractally.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Safety Engineering is a powerful enabler of collective value creation by providing the foundational stability and resilience necessary for any system to thrive. Its focus on preventing loss, ensuring predictability, and defining ownership as stewardship directly supports the creation of social and ecological value. While not a complete value creation architecture in itself, it is an indispensable component for one.
+
+**Opportunities for Improvement:**
+- Explicitly extend the definition of stakeholders to include non-human agents (AI, ecosystems) and future generations, defining their rights and the responsibilities owed to them.
+- Integrate principles of regenerative design, moving beyond merely preventing harm to actively contributing to the health and well-being of the systems and environments it operates within.
+- Develop more robust frameworks for the ethical and transparent governance of safety in autonomous AI systems, addressing issues of bias and accountability.
 
 ## 9. Resources & References
 

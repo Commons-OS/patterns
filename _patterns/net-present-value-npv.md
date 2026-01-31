@@ -15,7 +15,7 @@ tags:
   era: [industrial]
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 2
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -119,20 +119,40 @@ Another important consideration in the cognitive era is the application of NPV t
 
 However, the cognitive era also presents new challenges for NPV analysis. One of the biggest challenges is the uncertainty associated with new technologies and business models. It can be difficult to forecast the future cash flows of a project that is based on a new and unproven technology. This uncertainty needs to be carefully considered when performing NPV analysis.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Net Present Value (NPV) method is a powerful tool for financial analysis, but its alignment with the principles of a commons-based economy is mixed. While it can be used to promote the efficient allocation of resources, it can also be used to justify investments that have negative social and environmental impacts. The following table provides an assessment of the NPV pattern's alignment with the seven dimensions of the Commons OS.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension                  | Score (1-5) | Rationale                                                                                                                                                                                                                                                                                                                      | 
-| -------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 
-| **1. Openness & Transparency** | 2           | The results of NPV analysis are often kept confidential by companies, which limits transparency. However, the methodology itself is well-documented and widely understood.                                                                                                                                                           | 
-| **2. Equitability & Inclusion**  | 2           | NPV analysis is often used to maximize shareholder value, which can come at the expense of other stakeholders, such as employees and the community. However, it can also be used to evaluate projects that have positive social impacts, such as investments in affordable housing or renewable energy.                               | 
-| **3. Subsidiarity & Decentralization** | 3           | NPV analysis can be applied at any level of an organization, from a small team to the entire company. However, it is often used to centralize decision-making power in the hands of a few executives.                                                                                                                            | 
-| **4. Conviviality & User-Centeredness** | 2           | NPV analysis is a technical tool that is not very user-friendly. It requires a certain level of financial expertise to use effectively.                                                                                                                                                                                          | 
-| **5. Sustainability & Resilience** | 3           | NPV analysis can be used to evaluate the long-term sustainability of a project by considering its environmental and social impacts. However, it is often used to justify projects that have negative environmental impacts, such as investments in fossil fuels.                                                                    | 
-| **6. Pluralism & Interoperability** | 4           | NPV analysis is a widely accepted and standardized method, which makes it interoperable with other financial tools and systems.                                                                                                                                                                                                 | 
-| **7. Co-creation & Participation** | 2           | NPV analysis is typically performed by a small group of financial experts, with little or no participation from other stakeholders.                                                                                                                                                                                          | 
-| **Overall Commons Alignment** | **3**       | **NPV is a tool that can be used for good or for ill. Its alignment with the commons depends on how it is used and for what purpose. By incorporating social and environmental factors into the analysis, it is possible to use NPV to promote a more just and sustainable economy.**                                                              | 
+**1. Stakeholder Architecture:**
+NPV's stakeholder architecture is narrowly focused on financial investors and capital providers. It defines their Rights (to discounted future cash flows) and Responsibilities (the initial investment) but is inherently blind to other stakeholders like workers, communities, or the environment. For other stakeholders to be considered, their impact must be explicitly monetized and included in the cash flow analysis, which is a significant limitation.
+
+**2. Value Creation Capability:**
+The pattern is exclusively designed to measure and maximize economic value for shareholders. It does not inherently recognize or measure other forms of value, such as social capital, ecological health, or knowledge creation, unless they can be translated into a financial proxy. This focus on a single ledger for value makes it a poor fit for enabling holistic, collective value creation.
+
+**3. Resilience & Adaptability:**
+NPV relies on long-term, predictive forecasts of future cash flows, making it fragile in complex and unpredictable environments. Uncertainty is penalized through higher discount rates, discouraging investments in emergent or adaptive systems. While sensitivity analysis can test assumptions, the tool fundamentally promotes a rigid planning model over an adaptive, resilient one.
+
+**4. Ownership Architecture:**
+The pattern defines ownership purely in financial terms: the right to future cash flows in exchange for capital. It does not accommodate broader concepts of ownership, such as stewardship responsibilities or the non-financial rights of other stakeholders. This narrow view of ownership reinforces a capital-centric view of value creation.
+
+**5. Design for Autonomy:**
+The core NPV calculation is computationally simple and can be easily automated, making it highly compatible with AI-driven investment agents or DAO treasury management systems. The logic is clear and requires low coordination overhead for the calculation itself. However, the inputs to the model (cash flow projections and discount rate) are often subjective and require significant human coordination and consensus.
+
+**6. Composability & Interoperability:**
+NPV is highly composable within the domain of financial management. It can be used alongside other financial metrics like IRR and Payback Period to create a comprehensive financial evaluation toolkit. Its additivity principle allows it to assess complex projects by evaluating their component parts, demonstrating strong interoperability with other financial patterns.
+
+**7. Fractal Value Creation:**
+The core logic of discounting future cash flows is fractal, meaning it can be applied at any scale—from a small personal investment to a large corporate merger. However, at every scale, it applies the same narrow, financially-focused lens. This means it replicates its blindness to non-monetary value creation across all levels of a system.
+
+**Overall Score: 2 (Partial Enabler)**
+
+**Rationale:**
+NPV is a powerful tool for financial optimization but is fundamentally misaligned with the core principles of collective value creation. Its focus on a single, monetary ledger and its blindness to non-financial stakeholders or forms of value make it a partial enabler at best. It can be adapted to serve commons-based goals, but only by forcing all other forms of value into its narrow financial framework.
+
+**Opportunities for Improvement:**
+- Integrate multi-capital accounting frameworks to explicitly model social, natural, and human capital flows alongside financial ones.
+- Replace the single discount rate with variable rates that reflect different types of value creation and risk (e.g., a lower discount rate for ecological benefits).
+- Use the tool not as a final decision-maker, but as one input into a broader, multi-stakeholder deliberation process that considers non-monetizable values.
 
 ## 9. Resources & References
 

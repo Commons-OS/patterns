@@ -15,7 +15,7 @@ tags:
   era: [industrial, digital]
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: ["pat_01kg5023wkey887v6x5rk1m7cz"]
 specializes_to: []
@@ -93,19 +93,40 @@ A growing body of research has demonstrated the positive impact of servant leade
 
 In the Cognitive Era, where information is abundant and change is constant, the principles of servant leadership are more relevant than ever. The ability to listen, to empathize, and to build community is essential for navigating the complexities of the modern world. Servant-leaders are well-equipped to lead in this new era, as they are able to create a culture of learning and adaptation where individuals can thrive.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-Servant Leadership Governance is highly aligned with the principles of the commons. It is a model of governance that is based on the idea of shared ownership and responsibility. The following table provides an assessment of Servant Leadership Governance against the seven dimensions of the commons.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Alignment |
-| :--- | :--- |
-| **Purpose** | High |
-| **Governance** | High |
-| **Economy** | Medium |
-| **Culture** | High |
-| **Technology** | Medium |
-| **Ecology** | Medium |
-| **Community** | High |
+**1. Stakeholder Architecture:**
+Servant Leadership Governance redefines the stakeholder architecture by placing the needs of the governed (employees, customers, community) at the center. It assigns leaders the primary responsibility of fostering the growth, freedom, and autonomy of these stakeholders, effectively giving them the right to be served and empowered. While it strongly addresses human stakeholders and touches upon future generations through the principle of stewardship, it does not explicitly define rights and responsibilities for the environment or autonomous machines.
+
+**2. Value Creation Capability:**
+The pattern excels at enabling the creation of diverse forms of value beyond the purely economic. By focusing on making stakeholders "healthier, wiser, freer, and more autonomous," it directly cultivates human and social capital. The emphasis on building community and fostering trust generates significant social and resilience value, creating a more cohesive and supportive system capable of collective action.
+
+**3. Resilience & Adaptability:**
+Servant Leadership builds systemic resilience by creating a culture of psychological safety and trust, which allows the organization to adapt to change and handle stress more effectively. The principles of foresight, awareness, and conceptualization equip leaders to navigate complexity, while the practice of fostering autonomy allows for decentralized and adaptive responses to challenges. This creates a coherent system that can thrive on change rather than being broken by it.
+
+**4. Ownership Architecture:**
+The pattern promotes an ownership model based on stewardship rather than equity. Leaders are positioned as stewards holding the organization in trust for the "greater good of society," defining their role through the responsibility to nurture and grow the system for all stakeholders. This shifts the concept of ownership from a right to extract monetary value to a responsibility to create holistic, long-term value.
+
+**5. Design for Autonomy:**
+With its core practices of "Meaningful Delegation" and "Fostering Autonomy," the pattern is exceptionally well-suited for distributed and autonomous systems. It is designed to lower coordination overhead by empowering individuals and teams to act independently within a shared vision. This makes it highly compatible with the operational logic of DAOs, AI-driven organizations, and other decentralized structures where command-and-control leadership is impractical.
+
+**6. Composability & Interoperability:**
+Servant Leadership is a foundational governance philosophy that is highly composable. It acts as a cultural and ethical layer that can be integrated with a wide range of other patterns, including specific economic, operational, or technical frameworks. Its principles can guide the implementation of models like Sociocracy, Holacracy, or various cooperative structures, enhancing their collaborative and value-creating potential.
+
+**7. Fractal Value Creation:**
+The core logic of service, empowerment, and stewardship is inherently fractal. These principles can be applied effectively at any scale, from an individual leader within a team to a team serving the wider organization, and an organization serving its broader ecosystem. This allows the value-creation logic to replicate and reinforce itself across all levels of a system, creating a coherent and scalable architecture.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Servant Leadership Governance provides a powerful framework for enabling collective value creation by focusing on the empowerment and growth of all human stakeholders. It establishes a strong foundation for resilience, adaptability, and distributed autonomy. While it does not offer a complete architecture covering all stakeholder types (e.g., environment, AI), its core principles are highly aligned with a commons-based approach and strongly enable the transition toward a resilient, value-creating system.
+
+**Opportunities for Improvement:**
+- Explicitly integrate the environment and autonomous systems as stakeholders with defined Rights and Responsibilities.
+- Develop more concrete practices for applying the principle of stewardship to ecological and digital commons.
+- Create clearer guidelines for how to balance the needs of different stakeholder groups when they are in conflict.
 
 ## 9. Resources & References
 

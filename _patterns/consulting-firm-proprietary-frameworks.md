@@ -15,7 +15,7 @@ tags:
   era: [industrial, digital]
   origin: [consulting-firms]
   status: draft
-  commons_alignment: 1
+  commons_alignment: 2
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -131,27 +131,42 @@ The rise of artificial intelligence and automation is poised to have a profound 
 
 - **Evolution Outlook**: In the cognitive era, proprietary frameworks will need to evolve to remain relevant. They will likely become more dynamic and data-driven, with embedded AI components that learn and adapt over time. The firms that will succeed in this new era are those that can effectively integrate AI into their existing intellectual property and create new, AI-powered frameworks that deliver a step-change in value to their clients.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The pattern of proprietary consulting frameworks, while highly effective in a commercial context, presents a complex and often contradictory picture when viewed through the lens of commons alignment. Its fundamental nature is to enclose knowledge for private gain, which is antithetical to the principles of a commons.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-1.  **Stakeholder Mapping**: The stakeholder map for a proprietary framework is intentionally narrow. The primary stakeholders are the consulting firm's partners and employees, and the client's senior leadership. The needs of broader stakeholders—such as the client's employees, customers, suppliers, or the wider community—are considered only to the extent that they impact the primary engagement goals.
+**1. Stakeholder Architecture:**
+The stakeholder architecture is narrowly defined, focusing almost exclusively on the consulting firm and its direct client. Rights to the intellectual property are held entirely by the firm, while the client receives limited usage rights. Responsibilities are governed by commercial contracts, and there is no inherent mechanism for including the rights or needs of broader stakeholders like employees, the community, or the environment.
 
-2.  **Value Creation**: The value created by proprietary frameworks is significant but narrowly distributed. For the consulting firm, it creates financial value through high billing rates and reputational value by establishing thought leadership. For the client, it can create strategic and operational value by solving complex problems and improving performance. However, this value is almost exclusively captured by the firm and its client.
+**2. Value Creation Capability:**
+The pattern is designed to create significant economic value for the consulting firm and strategic value for the client, but it does not enable collective value creation. By enclosing knowledge as proprietary IP, it actively prevents the formation of a shared knowledge commons that could generate broader social, ecological, or resilience value. The value created is transactional and siloed, not generative and shared across an ecosystem.
 
-3.  **Value Preservation**: Proprietary frameworks are designed for relevance and longevity, but in a closed, competitive context. Firms invest heavily in updating their frameworks to reflect the latest market trends and academic research, ensuring they remain valuable assets. However, this value preservation is geared towards maintaining a competitive edge, not towards creating a lasting resource for the public good.
+**3. Resilience & Adaptability:**
+This pattern increases the client's short-term coherence by providing a structured solution to a specific problem. However, it fosters dependency on the consulting firm rather than building the client's own internal capacity to adapt and thrive on change. The resilience of the system is centered on the firm's ability to maintain its competitive advantage, not the long-term adaptability of the client or a wider system.
 
-4.  **Shared Rights & Responsibilities**: The rights to use, modify, and distribute the framework are held exclusively by the consulting firm. Clients are granted a limited license to use the framework's outputs for their internal purposes but have no right to the underlying methodology itself. This creates a dependency relationship where the client must repeatedly engage the firm to access the knowledge.
+**4. Ownership Architecture:**
+Ownership is defined in the most traditional sense: as exclusive, monetizable intellectual property. The framework treats knowledge as a private asset to be owned and controlled, not as a commons to be stewarded. This architecture is fundamentally at odds with a model of ownership based on distributed rights and responsibilities among a broader set of stakeholders.
 
-5.  **Systematic Design**: The frameworks themselves are exemplars of systematic design. They are meticulously engineered processes for analysis and problem-solving. However, the system is designed for extraction and control, not for participation and co-creation. The processes for developing and updating frameworks are internal and opaque, with no mechanism for external contribution or peer review.
+**5. Design for Autonomy:**
+The highly structured, rule-based nature of these frameworks makes them well-suited for automation and augmentation by AI. However, their proprietary and closed nature is a major barrier to true autonomy. They are designed for use within a controlled, human-centric service model and are not open protocols that can be freely used by distributed systems or DAOs, thus maintaining high coordination overhead through client relationship management.
 
-6.  **Systems of Systems**: Proprietary frameworks are often designed to be modular and interoperable with a firm's other frameworks, creating a powerful internal toolkit. However, this interoperability is typically limited to the firm's own frameworks.
+**6. Composability & Interoperability:**
+Proprietary frameworks are often highly composable within the confines of the creating firm, designed to work with each other to form a comprehensive toolkit. However, they are explicitly designed *not* to be interoperable with external or open-source patterns. This 
 
-7.  **Fractal Properties**: The principles of structured problem-solving and codification of expertise that underpin proprietary frameworks can be applied at all scales, from an individual consultant's personal toolkit to a firm-wide methodology. However, the proprietary nature of the pattern means that these properties are contained within the boundaries of the firm.
+walled garden" approach prevents the creation of larger, more diverse value-creation systems.
 
-**Overall Score**: 1 (Extractive)
+**7. Fractal Value Creation:**
+The core logic of codifying and structuring expertise can be applied at different scales, from an individual's workflow to a large enterprise's operations. However, the proprietary nature of the pattern prevents this value-creation logic from scaling fractally across a commons. Its benefits are firewalled within the firm and its client engagements, unable to permeate and enrich a larger ecosystem.
 
-**Rationale**: The proprietary consulting framework pattern is fundamentally extractive, designed to create private wealth by enclosing knowledge and restricting its access. While it is highly effective in a commercial context, it runs counter to the core principles of the commons. The value it creates is captured by a small number of stakeholders, and it actively works to prevent the knowledge from being shared and improved upon by a wider community.
+**Overall Score: 2 (Partial Enabler)**
+
+**Rationale:**
+While fundamentally extractive and proprietary, the pattern's emphasis on structured, repeatable processes for value creation provides a crucial, albeit incomplete, building block. It demonstrates how to codify and scale knowledge, a necessary component of any value-creation system. However, its closed, proprietary nature and narrow stakeholder focus represent major gaps that prevent it from enabling true collective value creation.
+
+**Opportunities for Improvement:**
+- Introduce a licensing model (e.g., Creative Commons NC) that allows for broader, non-commercial use to build a community of practice.
+- Develop open-source or "freemium" versions of the framework to encourage wider adoption and contribution, creating a funnel to paid services.
+- Redefine the stakeholder map to explicitly include and measure the impact on employees, customers, and the community, shifting the focus from purely financial ROI.
 
 ### 9. Resources & References
 

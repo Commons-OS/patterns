@@ -15,7 +15,7 @@ tags:
   era: [industrial, cognitive]
   origin: ["Walter Shewhart", "W. Edwards Deming"]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -129,21 +129,40 @@ In the Cognitive Era, characterized by the rise of artificial intelligence and b
 
 By augmenting the PDCA cycle with AI and machine learning, organizations can accelerate the pace of continuous improvement and achieve breakthrough results.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The PDCA cycle is a versatile framework that can be adapted to a wide range of organizational contexts. Its alignment with the principles of a commons-based approach depends on how it is implemented. The following table provides an assessment of the PDCA cycle against seven dimensions of commons alignment:
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Score (1-5) | Rationale |
-| :--- | :--- | :--- |
-| **Openness & Transparency** | 3 | The "Check" phase of the PDCA cycle inherently promotes transparency by requiring the analysis and sharing of data. However, the degree of openness depends on the organizational culture and whether the results are shared with all stakeholders. |
-| **Decentralization & Autonomy** | 3 | The PDCA cycle can be implemented in a decentralized manner, with teams at all levels of the organization empowered to initiate and carry out their own improvement cycles. However, it can also be implemented in a top-down, centralized manner. |
-| **Collaboration & Community** | 3 | The PDCA cycle can foster collaboration and a sense of community by bringing people together to solve problems and improve processes. However, this is not an inherent feature of the pattern and depends on how it is implemented. |
-| **Fairness & Equity** | 2 | The PDCA cycle is a neutral tool that can be used to promote fairness and equity, but it does not inherently do so. For example, it could be used to improve the fairness of a performance review process, but it could also be used to optimize a process that has a negative impact on certain groups of people. |
-| **Sustainability & Resilience** | 4 | The PDCA cycle promotes sustainability and resilience by fostering a culture of continuous improvement. By constantly learning and adapting, organizations can become more resilient to change and better able to sustain their success over the long term. |
-| **Purpose & Values** | 2 | The PDCA cycle is a tool that can be used to achieve any purpose or set of values. It is not inherently aligned with any particular purpose or set of values. |
-| **Learning & Development** | 4 | The PDCA cycle is a powerful engine for learning and development. The entire cycle is a learning process, and the "Act" phase ensures that the lessons learned are incorporated into the organization's processes and procedures. |
+**1. Stakeholder Architecture:**
+The PDCA cycle is a process-centric framework and does not explicitly define Rights and Responsibilities for a broad range of stakeholders. Its primary focus is on the actors directly involved in the process being improved, such as employees and managers. The framework is agnostic to a wider stakeholder architecture, leaving it to the implementing organization to define roles for the environment, future generations, or other non-human agents.
 
-**Overall Commons Alignment Score: 3/5**
+**2. Value Creation Capability:**
+The pattern directly enables the creation of knowledge and resilience value through its iterative learning loop. While often applied to create economic value by improving efficiency and quality, it can also be used to enhance social or ecological value, such as improving workplace safety or reducing waste. Its core function is to build the capability for continuous value creation by refining existing processes.
+
+**3. Resilience & Adaptability:**
+This is a core strength of the PDCA pattern. The iterative four-step process provides a structured mechanism for systems to adapt to changing conditions and learn from experience. By promoting incremental change and data-driven adjustments, it helps maintain coherence under stress and allows organizations to thrive on complexity rather than being overwhelmed by it.
+
+**4. Ownership Architecture:**
+The PDCA cycle does not address ownership architecture. It is a tool for process improvement, not for defining the distribution of rights and responsibilities related to the value that is created. The pattern is concerned with the mechanics of improvement, leaving questions of ownership and equity to be handled by other organizational structures.
+
+**5. Design for Autonomy:**
+The pattern is highly compatible with autonomous systems, including AI agents and DAOs. Its simple, logical loop (Plan-Do-Check-Act) requires low coordination overhead and can be easily automated. An AI could independently use the PDCA cycle to optimize its own algorithms and performance, making it a foundational pattern for machine-driven improvement.
+
+**6. Composability & Interoperability:**
+The PDCA cycle is exceptionally composable and interoperable. It acts as a meta-pattern that can be combined with countless other organizational or technical patterns to drive improvement. For example, it can be used to refine processes within a Scrum framework, optimize logistics in a supply chain, or improve the governance of a DAO.
+
+**7. Fractal Value Creation:**
+The logic of the PDCA cycle is fractal, meaning it can be effectively applied at multiple scales. An individual can use it to improve their personal productivity, a team can use it to enhance its workflow, a division can use it to optimize its operations, and an entire organization can use it to drive strategic initiatives. The fundamental value-creation loop remains consistent across all these scales.
+
+**Overall Score: 4/5 (Value Creation Enabler)**
+
+**Rationale:**
+The PDCA cycle is a powerful and fundamental enabler of resilient value creation. Its emphasis on iterative learning, data-driven decisions, and continuous adaptation makes it a cornerstone for any system seeking to improve over time. While it does not provide a complete architecture for a commons (lacking explicit stakeholder and ownership models), it provides the essential engine for that architecture to learn and evolve. Its high composability and fractal nature make it a universally applicable pattern for building value creation capability.
+
+**Opportunities for Improvement:**
+- Integrate the PDCA cycle with explicit stakeholder mapping to ensure a wider range of stakeholders are considered in the "Plan" phase.
+- Combine the pattern with ownership frameworks to ensure the value created is distributed equitably among contributors.
+- Develop pre-defined "checklists" for the "Check" phase that include social and ecological metrics, in addition to economic ones.
 
 ## 9. Resources & References
 

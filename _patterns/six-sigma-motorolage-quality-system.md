@@ -7,7 +7,7 @@ title: Six Sigma
 aliases: [6σ, Lean Six Sigma]
 version: 1.0
 created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+modified: 2026-01-31T00:00:00Z
 tags:
   universality: domain
   domain: operations
@@ -122,27 +122,40 @@ The **Human-Machine Balance** will shift, with humans focusing on higher-level c
 The **Evolution Outlook** for Six Sigma suggests a transition towards a more automated, predictive, and adaptive system, perhaps best described as "AI-Sigma." The focus will likely expand from optimizing individual processes to orchestrating complex data ecosystems across entire value chains. Processes will become more intelligent and self-correcting, capable of adapting in real-time to dynamic conditions. The role of the Six Sigma expert, the 
 Black Belt, will evolve from a data analyst to a strategic orchestrator of human and machine intelligence, focusing on framing the right questions for the AI to answer and interpreting the insights to drive business value.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-This assessment evaluates the Six Sigma methodology against the seven dimensions of a commons-aligned pattern. The analysis aims to provide a balanced perspective on how the pattern, in its conventional application, aligns with the principles of a commons.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**1. Stakeholder Mapping:** Six Sigma's primary focus is on the customer and the business. While it indirectly benefits other stakeholders, such as employees (through improved processes) and suppliers (through clearer requirements), its stakeholder mapping is not inherently comprehensive. The methodology does not explicitly call for a systematic mapping of all stakeholders and their interests, which can lead to a narrow focus on the immediate customer and the financial interests of the organization.
+**1. Stakeholder Architecture:**
+Six Sigma primarily defines rights and responsibilities in a hierarchical structure focused on internal stakeholders (management, employees) and the end customer. While it creates value for customers and the organization, it does not explicitly architect for a broader set of stakeholders like the environment, community, or future generations. The framework is organization-centric, with responsibilities assigned to trained experts (e.g., Black Belts) to improve processes for the benefit of the business.
 
-**2. Value Creation:** The value created by Six Sigma is primarily economic, focused on increasing profitability by reducing costs and improving efficiency. While it also creates value for the customer in the form of higher quality products and services, the distribution of this value is largely determined by the organization. The methodology does not have a built-in mechanism for ensuring that the value created is shared equitably among all stakeholders.
+**2. Value Creation Capability:**
+The pattern excels at creating economic value by improving efficiency and reducing defects, which also translates to higher quality and reliability for customers. However, its native focus is not on generating collective value beyond financial and product-level improvements. Social, ecological, or knowledge value are not primary outputs of the methodology, though they can be indirect consequences of more efficient resource use.
 
-**3. Value Preservation:** Six Sigma is designed to create sustainable improvements. The "Control" phase of the DMAIC methodology is specifically focused on ensuring that the gains from process improvements are maintained over time. However, the long-term relevance of the pattern depends on the organization's commitment to continuous improvement and its ability to adapt to changing market conditions.
+**3. Resilience & Adaptability:**
+Six Sigma contributes to system resilience by reducing process variability and creating more predictable, stable operations. The DMAIC (Define, Measure, Analyze, Improve, Control) cycle is an adaptive mechanism for identifying and correcting deviations, helping the system maintain coherence under stress. However, its rigid, data-driven nature can sometimes be slow to adapt to radical, unpredictable changes that fall outside its structured problem-solving frameworks.
 
-**4. Shared Rights & Responsibilities:** The rights and responsibilities within a Six Sigma framework are typically hierarchical. Management has the right to set the strategic direction and to allocate resources, while employees have the responsibility to follow the prescribed methodologies and to participate in improvement projects. While there is an element of shared responsibility in the project teams, the ultimate decision-making authority rests with management.
+**4. Ownership Architecture:**
+The concept of ownership in Six Sigma is implicitly tied to the organization that implements it; it does not define ownership as a distributed set of rights and responsibilities. The benefits of the improvements (e.g., cost savings, increased profits) are owned by the company. The pattern is a methodology for optimizing a system, not an architecture for governing it or distributing its value.
 
-**5. Systematic Design:** Six Sigma is a highly systematic and structured methodology. The DMAIC and DMADV frameworks provide a clear and repeatable process for problem-solving and process improvement. The use of statistical tools and data-driven decision making ensures that the process is rigorous and that the results are measurable.
+**5. Design for Autonomy:**
+Traditionally, Six Sigma is a human-driven, hierarchical methodology requiring significant training and coordination, which creates overhead. However, its data-driven core is highly compatible with AI and automation. AI can augment the "Measure" and "Analyze" phases, and autonomous systems could execute on the process controls defined through the methodology, suggesting a strong potential for future compatibility.
 
-**6. Systems of Systems:** Six Sigma can be composed with other patterns, such as Lean Manufacturing, to create a more comprehensive system for operational excellence. The combination of Lean and Six Sigma, known as Lean Six Sigma, is a powerful methodology that addresses both waste and variation. However, the integration of Six Sigma with other patterns is not always seamless and requires careful planning and execution.
+**6. Composability & Interoperability:**
+Six Sigma is highly composable, most famously demonstrated by its integration with Lean manufacturing to create "Lean Six Sigma." Its structured, data-centric approach allows it to be combined with various other quality management and operational excellence patterns. It can serve as a foundational layer for building more comprehensive value-creation systems.
 
-**7. Fractal Properties:** The core principles of Six Sigma, such as customer focus and data-driven decision making, can be applied at all levels of an organization, from individual projects to enterprise-wide initiatives. The DMAIC methodology can be used to solve problems of any scale, from small process improvements to large-scale business transformations.
+**7. Fractal Value Creation:**
+The value-creation logic of Six Sigma is fractal. The core DMAIC/DMADV frameworks can be applied to a single process on a factory floor, a departmental workflow, an entire organization's operations, or even across a supply chain. This scalability allows the principles of data-driven improvement and defect reduction to be implemented at multiple scales.
 
 **Overall Score: 3 (Transitional)**
 
-Six Sigma is a powerful methodology for process improvement that has delivered significant value to many organizations. However, in its traditional application, it is primarily focused on the economic interests of the organization and its immediate customers. While it has some elements of a commons-aligned pattern, such as its systematic design and fractal properties, it falls short in other areas, such as stakeholder mapping and the equitable distribution of value. To become more commons-aligned, Six Sigma would need to broaden its focus to include a more comprehensive set of stakeholders and to incorporate mechanisms for sharing the value created more equitably.
+**Rationale:**
+Six Sigma is a powerful and proven methodology for process improvement that strongly enables certain aspects of value creation, particularly economic and quality-related. Its data-driven, systematic nature has significant potential for adaptation in a commons context, especially with AI. However, its traditional application is organization-centric, hierarchical, and lacks a multi-stakeholder perspective, requiring significant adaptation to align with a broader commons framework.
+
+**Opportunities for Improvement:**
+- Integrate a multi-stakeholder analysis framework into the "Define" phase to explicitly consider social and ecological impacts.
+- Adapt the "Improve" phase to include solutions that distribute value more broadly among all identified stakeholders, not just the organization and its customers.
+- Develop a "Lean Six Sigma for Commons" framework that explicitly targets the reduction of "commons waste" (e.g., pollution, social inequality) and not just process waste.
 
 ## 9. Resources & References
 

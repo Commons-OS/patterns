@@ -15,7 +15,7 @@ tags:
   era: [agricultural, cognitive]
   origin: [indigenous-peoples]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 5
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -76,27 +76,40 @@ In the cognitive era, AI and other digital technologies offer significant potent
 The evolution of Indigenous Food Systems in the cognitive era will likely be characterized by the rise of Indigenous digital sovereignty, the integration of traditional and scientific knowledge, and the growth of a global Indigenous food movement.
 
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-1.  **Stakeholder Mapping**: Indigenous Food Systems are inherently stakeholder-driven, with the primary stakeholders being the Indigenous communities themselves. This includes elders, knowledge keepers, farmers, hunters, fishers, and all community members who participate in and benefit from the food system. The stakeholder map is comprehensive and deeply embedded in the cultural and social fabric of the community. However, the extent to which external stakeholders, such as neighboring communities, government agencies, and non-governmental organizations, are included in the decision-making process can vary.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-2.  **Value Creation**: Indigenous Food Systems create multiple forms of value. The most obvious is the production of healthy and culturally appropriate food, which directly benefits the community's physical well-being. They also create social value by strengthening community bonds, fostering intergenerational connections, and promoting cultural continuity. Furthermore, they create ecological value by preserving biodiversity, enhancing ecosystem resilience, and promoting sustainable land management practices. The primary beneficiaries of this value creation are the Indigenous communities themselves, but the ecological benefits extend to the wider society.
+**1. Stakeholder Architecture:**
+Indigenous Food Systems define Rights and Responsibilities through a deeply embedded framework of kinship and reciprocal obligations. Stakeholders include not only the present community members but also ancestors, future generations, and the environment itself, which is treated as a living entity with its own rights. This holistic architecture ensures that decisions are made in consideration of the entire ecosystem and its long-term well-being.
 
-3.  **Value Preservation**: Value is preserved in Indigenous Food Systems through the ongoing practice and transmission of Traditional Ecological Knowledge. This knowledge, which has been accumulated over generations, is the key to the long-term sustainability of the food system. The emphasis on biodiversity and ecological resilience also helps to preserve the value of the food system in the face of environmental change. However, the preservation of this value is threatened by the loss of traditional knowledge, land dispossession, and the impacts of climate change.
+**2. Value Creation Capability:**
+The pattern enables the creation of multiple forms of value far beyond economic output. It generates profound social value through community cohesion and cultural continuity, ecological value by fostering biodiversity and soil health, and knowledge value through the intergenerational transmission of Traditional Ecological Knowledge (TEK). This multi-capital approach is central to its design, creating a resilient system that nourishes both people and place.
 
-4.  **Shared Rights & Responsibilities**: In many Indigenous cultures, the rights and responsibilities for managing natural resources are shared collectively. This is often based on a customary system of land tenure, where the community as a whole has the right to use and manage the land, and individual families may have rights to specific areas for farming, hunting, or gathering. This collective approach to resource management helps to ensure that resources are used sustainably and that the benefits are shared equitably.
+**3. Resilience & Adaptability:**
+Resilience is a core feature, built upon practices like polyculture, seed saving, and a deep understanding of local ecosystems. This biodiversity and genetic variety provide a natural buffer against pests, disease, and climate shocks. The system is designed to thrive on change and complexity, adapting through generations of observation and a continuous feedback loop with the environment.
 
-5.  **Systematic Design**: Indigenous Food Systems are systematically designed to be resilient, sustainable, and adapted to local conditions. This design is not the product of a single planner or engineer, but rather the emergent result of generations of observation, experimentation, and adaptation. The intricate web of relationships between the different components of the food system, from the soil and the water to the plants and the animals, is a testament to the sophistication of this systematic design.
+**4. Ownership Architecture:**
+Ownership is defined as collective stewardship, where Rights are inextricably linked to Responsibilities. Access to land and resources is a community-held right, contingent upon the responsibility to maintain the health and abundance of the ecosystem for all. This contrasts sharply with conventional models of private ownership and monetary equity, focusing instead on ensuring the system's capacity for continued value creation.
 
-6.  **Systems of Systems**: Indigenous Food Systems are not isolated systems, but are part of a larger system of cultural, social, and spiritual practices. They are interconnected with language, ceremony, and traditional governance systems. They also interact with other food systems, both Indigenous and non-Indigenous, creating a complex and dynamic web of relationships.
+**5. Design for Autonomy:**
+As decentralized, place-based systems, Indigenous Food Systems operate with a high degree of autonomy and low coordination overhead. While not originally conceived for the digital age, their modular and distributed nature makes them highly compatible with technologies like DAOs and AI. These tools can augment traditional knowledge and practices, for instance, by supporting data sovereignty or optimizing resource management, without replacing the core human and ecological relationships.
 
-7.  **Fractal Properties**: The principles of Indigenous Food Systems are fractal, meaning that they can be applied at multiple scales. The same principles of respect, reciprocity, and responsibility that guide the management of a small family garden can also be applied to the management of a large, ecosystem-scale food system. This fractal nature allows for a high degree of flexibility and adaptability, enabling the food system to evolve and change in response to new challenges and opportunities.
+**6. Composability & Interoperability:**
+This pattern is inherently composable, designed to integrate seamlessly with other cultural and social patterns like traditional governance, ceremonies, and community education. It can also interoperate with modern patterns, such as community-supported agriculture (CSA) or local food markets, to create larger, more complex value-creation systems that bridge traditional and contemporary economies.
 
-**Overall Score**: 3/5 (Transitional)
+**7. Fractal Value Creation:**
+The core value-creation logic of reciprocity and stewardship is fractal, applying equally at all scales. The principles that guide a single family's garden are the same ones that inform the management of an entire watershed or bioregion. This allows the pattern to scale and adapt while maintaining its fundamental coherence and integrity.
 
-**Rationale**: Indigenous Food Systems are deeply aligned with the principles of the commons. They are community-based, ecologically sustainable, and socially just. However, they are also facing significant threats from the dominant industrial food system, which is extractive and unsustainable. The transitional score reflects the fact that while Indigenous Food Systems are a powerful model for a commons-based food future, they are also in a precarious position and require significant support to survive and thrive.
+**Overall Score: 5 (Value Creation Architecture)**
 
-**Opportunities for Improvement**: The main opportunity for improvement is to create a more supportive policy environment for Indigenous Food Systems. This includes recognizing and protecting Indigenous land rights, supporting the revitalization of traditional knowledge, and creating economic opportunities for Indigenous food producers. There is also a need for greater collaboration between Indigenous communities, researchers, and policymakers to document the value of these systems and to develop strategies for their long-term sustainability.
+**Rationale:**
+This pattern represents a complete and time-tested architecture for resilient collective value creation. It fully embodies the principles of a commons, demonstrating how to weave together social, ecological, and knowledge capital into a system that is sustainable, adaptable, and just. It is not merely an enabler but a foundational model of a value-creating commons.
+
+**Opportunities for Improvement:**
+- Formalize the stakeholder architecture to better interface with modern legal and economic systems, protecting it from external extractive pressures.
+- Develop digital tools in line with Indigenous data sovereignty to augment knowledge transmission and connect producers with wider markets that value their holistic approach.
+- Create explicit interoperability protocols for combining these systems with other commons-based patterns, such as those for renewable energy or community finance.
 
 
 ### 9. Resources & References

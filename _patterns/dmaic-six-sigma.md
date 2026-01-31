@@ -131,29 +131,40 @@ The advent of the Cognitive Era, characterized by the rise of artificial intelli
 
 **Evolution Outlook**: As AI and automation become more sophisticated, the DMAIC methodology is likely to become more dynamic and iterative. The traditional linear progression through the five phases may be replaced by a more fluid and continuous improvement cycle, with AI-powered tools constantly monitoring processes and identifying opportunities for improvement. The DMAIC framework itself may evolve to incorporate new tools and techniques for leveraging AI and automation, but its core principles of customer focus, data-driven decision-making, and root cause analysis will remain as relevant as ever.
 
-### 8. Commons Alignment Assessment (600-800 words)
+### 8. Commons Alignment Assessment (v2.0)
 
-This assessment evaluates DMAIC's alignment with commons-based principles across seven dimensions, highlighting its strengths and weaknesses.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-1.  **Stakeholder Mapping**: DMAIC's focus on the "Voice of the Customer" (VOC) is a form of stakeholder mapping, but it is often limited to direct customers and internal stakeholders. A commons-aligned approach would expand this to include suppliers, employees, the community, and the environment. The methodology can be adapted to this broader perspective.
+**1. Stakeholder Architecture:**
+DMAIC's stakeholder architecture is primarily centered on the organization and its direct customers. The "Voice of the Customer" (VOC) practice defines rights for customers (to have their needs met) and responsibilities for the organization (to meet those needs). However, it does not natively define rights or responsibilities for a broader set of stakeholders like the environment, future generations, or the wider community, focusing instead on process-level actors.
 
-2.  **Value Creation**: DMAIC primarily creates value for the organization by improving efficiency and customer satisfaction. A commons-aligned view also considers social and environmental value, such as reducing a process's environmental impact or improving employee well-being. The methodology is neutral; the value created depends on the project's goals.
+**2. Value Creation Capability:**
+The pattern excels at creating economic value by optimizing processes, reducing waste, and improving quality. This can lead to secondary social value through better products and services. However, its capability for creating other forms of value, such as ecological health, social resilience, or collective knowledge, is not an explicit part of the framework and depends entirely on how the project goals are defined by the organization.
 
-3.  **Value Preservation**: The Control phase of DMAIC is dedicated to sustaining improvements, which aligns with the principle of value preservation. Robust control systems and performance monitoring ensure that the value created is not lost over time.
+**3. Resilience & Adaptability:**
+DMAIC provides a structured methodology for adapting and improving processes, thereby enhancing organizational resilience to specific, well-defined problems. The Control phase is explicitly designed to maintain coherence and prevent regression. However, its linear and rigorous nature can be less adaptive in the face of complex, rapidly emerging challenges that require more agile or emergent responses rather than structured improvement cycles.
 
-4.  **Shared Rights & Responsibilities**: Traditionally, rights and responsibilities in a DMAIC project are internal to the organization. A commons-aligned approach would share these with a broader range of stakeholders, such as involving community members in a community-based project.
+**4. Ownership Architecture:**
+Ownership in DMAIC is defined through project and process roles within a corporate hierarchy. It establishes clear responsibilities for executing the project and maintaining its results. This architecture does not extend to broader concepts of ownership, such as shared stewardship of a resource or collective rights in the value created, as it operates within the boundaries of a single organization.
 
-5.  **Systematic Design**: DMAIC's structured, five-phase approach provides a clear, systematic roadmap for problem-solving. Its reliance on data and statistical tools ensures objectivity and aligns with the principle of systematic design.
+**5. Design for Autonomy:**
+DMAIC is a highly human-centric and management-intensive methodology that requires significant coordination overhead, including teams, charters, and phase-gate reviews. It is not inherently designed for compatibility with autonomous systems like DAOs or AI-driven organizations. While AI can augment its analytical phases, the core framework relies on human decision-making and is not designed for low-overhead, distributed execution.
 
-6.  **Systems of Systems**: While often used for individual processes, DMAIC can be applied to complex systems of systems, such as an entire supply chain. Its focus on process inputs and outputs makes it suitable for systems-level thinking.
+**6. Composability & Interoperability:**
+The DMAIC methodology is highly composable with other process improvement frameworks, most notably Lean. It serves as a universal problem-solving logic that can be integrated into various organizational operating systems. It can be combined with other patterns to build more comprehensive systems for quality management and operational excellence.
 
-7.  **Fractal Properties**: DMAIC's core principles are fractal, applying at all organizational levels, from individual projects to strategic initiatives. This scalability makes it a versatile tool for continuous improvement.
+**7. Fractal Value Creation:**
+The value-creation logic of DMAIC is fractal, as the core Define-Measure-Analyze-Improve-Control cycle can be applied at multiple scales. It works for a small team fixing a localized issue, a department optimizing a workflow, or an entire organization undertaking a strategic quality initiative. This scalability across different levels is a key strength of the pattern.
 
-**Overall Score**: 3/5 (Transitional)
+**Overall Score: 3 (Transitional)**
 
-**Rationale**: DMAIC is a powerful tool for process improvement, though traditionally focused on organizational value. It is flexible enough to be adapted to a commons-aligned approach by broadening stakeholder mapping, value creation, and the sharing of rights and responsibilities, making it a potential tool for commons management.
+**Rationale:**
+DMAIC is a powerful, data-driven framework for optimizing well-defined processes, making it a cornerstone of industrial-era quality management. Its strengths lie in its systematic approach, fractal scalability, and focus on control and sustainability. However, its alignment with the v2.0 framework is only partial. Its stakeholder architecture is narrow, its value definition is primarily economic, and it is not designed for the kind of autonomous, low-overhead systems emerging in the cognitive era. It has significant potential to be a transitional tool if its scope is intentionally expanded to include broader stakeholder needs and multi-faceted value creation goals.
 
-**Opportunities for Improvement**: To enhance its commons alignment, the Define phase could include a broader stakeholder analysis. The Improve phase could explicitly consider social and environmental impacts. The Control phase could incorporate community engagement and feedback for sustainable, mutually beneficial improvements.
+**Opportunities for Improvement:**
+- The **Define** phase could be augmented with a mandatory Commons Stakeholder Analysis to identify all affected parties, including non-human and future stakeholders.
+- The **Measure** phase could incorporate metrics for social, ecological, and resilience value, not just economic and quality KPIs.
+- The **Control** phase could be redesigned to include feedback loops and governance participation from the broader stakeholder ecosystem identified in the Define phase.
 
 ### 9. Resources & References (200-400 words)
 

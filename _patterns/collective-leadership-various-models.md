@@ -15,7 +15,7 @@ tags:
   era: [industrial, digital, cognitive]
   origin: [academic, organizational-theory]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: ["pat_01kg5023wyfeht2yyf00zh5d5h"]
 specializes_to: []
@@ -181,41 +181,40 @@ While AI has the potential to augment collective leadership in many ways, it is 
 
 In the future, we are likely to see the emergence of new, hybrid models of collective leadership that seamlessly integrate human and artificial intelligence. These models will be characterized by a fluid and dynamic interplay between human and machine actors, with each contributing their unique strengths to the collective endeavor. The most effective organizations will be those that can master this new form of human-machine collaboration, creating a form of "collective intelligence" that is far greater than the sum of its parts.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-This assessment evaluates the alignment of the Collective Leadership pattern with the principles of a commons-based approach, based on the seven dimensions of the Commons OS framework.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**1. Stakeholder Mapping:**
+**1. Stakeholder Architecture:**
+The pattern promotes a highly inclusive stakeholder model by distributing leadership and decision-making power, shifting from a "power over" to a "power with" dynamic. It emphasizes giving a voice to all human participants involved in the collective effort. However, it does not explicitly define the Rights and Responsibilities for non-human stakeholders such as the environment, future generations, or autonomous AI agents, which is a key focus of the v2.0 framework.
 
-Collective leadership is inherently inclusive, seeking to distribute leadership and decision-making power. This requires identifying and engaging all relevant stakeholders, and the pattern encourages a broad and inclusive approach to stakeholder engagement.
+**2. Value Creation Capability:**
+The pattern is a strong enabler of collective value creation that extends far beyond simple economic output. It directly fosters social value through increased engagement and satisfaction, knowledge value through shared learning and innovation, and resilience value by building adaptive capacity. The core purpose of the pattern is to leverage collective intelligence to generate more robust and innovative solutions to complex problems.
 
-**2. Value Creation:**
+**3. Resilience & Adaptability:**
+A central strength of this pattern is its ability to enhance organizational resilience and adaptability. By distributing leadership and fostering a culture of continuous learning and reflection, it equips systems to thrive on change and maintain coherence under stress. This model is explicitly designed for dynamic and unpredictable environments where the ability to adapt is critical for survival and success.
 
-Collective leadership creates value for both the organization (innovation, better decisions, resilience) and individuals (empowerment, engagement, satisfaction). By enabling organizations to address complex challenges, it also creates value for the broader community.
+**4. Ownership Architecture:**
+Collective Leadership implicitly redefines ownership by emphasizing shared power, mutual accountability, and collective decision-making. This moves beyond traditional models of ownership based on monetary equity, focusing instead on shared rights and responsibilities for the group's success. However, the pattern could benefit from a more explicit framework for defining and managing this new form of distributed ownership.
 
-**3. Value Preservation:**
+**5. Design for Autonomy:**
+The pattern is highly compatible with autonomous systems, DAOs, and other distributed technologies. Its principles of decentralized authority, transparent communication, and low coordination overhead align well with the needs of automated and AI-driven organizations. Section 7 on "Cognitive Era Considerations" further highlights its potential to be augmented by AI, making it a future-proof model for human-machine collaboration.
 
-Collective leadership preserves value by building the group's capacity to learn and adapt. Distributing knowledge and leadership makes the organization more resilient and less dependent on individuals, while shared learning ensures long-term relevance.
+**6. Composability & Interoperability:**
+As a meta-pattern, Collective Leadership demonstrates excellent composability and interoperability. It is designed to be combined with other organizational patterns, such as Holacracy or Sociocracy, and various decision-making protocols to create more complex and robust value-creation systems. This modularity allows it to serve as a foundational layer for a wide range of collaborative architectures.
 
-**4. Shared Rights & Responsibilities:**
+**7. Fractal Value Creation:**
+The pattern exhibits strong fractal properties, as its core principles of trust, shared power, and mutual accountability can be applied effectively at multiple scales. The documentation explicitly states its applicability from small teams to entire multi-organizational ecosystems. This scalability allows the value-creation logic to be replicated and adapted across different levels of a larger system.
 
-A core principle of collective leadership is the distribution of rights (e.g., decision-making) and responsibilities (e.g., contributing to the collective good). While specific mechanisms vary, shared ownership and accountability are central.
+**Overall Score: 4 (Value Creation Enabler)**
 
-**5. Systematic Design:**
+**Rationale:**
+Collective Leadership is a powerful enabler of resilient collective value creation, aligning strongly with most of the v2.0 pillars. It provides a robust framework for distributing power, fostering adaptability, and creating diverse forms of value. It falls just short of a top score because it lacks a fully developed architecture for stakeholder rights beyond human actors and a more formalized definition of its non-monetary ownership model.
 
-Collective leadership is enabled by systems and processes that support collaboration, communication, and shared decision-making, such as specific meeting formats and decision-making protocols. The pattern is a set of principles that can be adapted to design a system tailored to the group's needs.
-
-**6. Systems of Systems:**
-
-As a meta-pattern, collective leadership can be combined with other patterns, such as self-management (Holacracy, Sociocracy), collaborative decision-making (consensus, consent), and open communication, to create more complex systems.
-
-**7. Fractal Properties:**
-
-The principles of collective leadership are fractal, applying at all scales, from small teams to large, multi-organizational collaborations. The same principles of trust, shared power, and mutual accountability apply across all scales, which is a key strength of the pattern.
-
-**Overall Score: 4 (Commons-Aligned)**
-
-Collective leadership is highly aligned with the principles of a commons-based approach. It is a powerful pattern for building and governing shared resources, and it has the potential to create significant value for both individuals and organizations. The main opportunity for improvement is to more explicitly connect the pattern to the broader commons movement and to develop more tools and resources to support its implementation in a commons context.
+**Opportunities for Improvement:**
+- Explicitly define the Rights and Responsibilities for a broader range of stakeholders, including non-human agents like AI and the environment.
+- Develop a more formal "Ownership Architecture" that clarifies how rights and responsibilities are distributed and managed beyond just shared power.
+- Provide more concrete guidance on integrating with autonomous systems and DAOs, moving from "compatibility" to active "enablement."
 
 ## 9. Resources & References
 

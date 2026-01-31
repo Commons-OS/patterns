@@ -15,7 +15,7 @@ tags:
   era: [digital]
   origin: []
   status: draft
-  commons_alignment: 5
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -55,8 +55,6 @@ The core principles of Open Source Hardware are outlined in the OSHW Definition 
 *   **Distribution of License:** The rights granted by the license must apply to all who receive the work, without the need for an additional license.
 *   **License Neutrality:** The license must not be specific to a particular product and must not restrict other hardware or software aggregated with the licensed work. It must also be technology-neutral.
 
-## 2. Core Principles
-
 ## 3. Key Practices
 
 Effective implementation of Open Source Hardware relies on a set of key practices that ensure transparency, collaboration, and accessibility. These practices, derived from the OSHWA's best practices, are essential for fostering a thriving ecosystem around an OSHW project.
@@ -77,8 +75,6 @@ Open Source Hardware is applicable across a wide range of domains and contexts, 
 *   **Humanitarian and Development Work:** OSHW can be used to develop low-cost solutions for challenges in areas like healthcare, agriculture, and disaster relief.
 *   **Art and Design:** Artists and designers use OSHW to create interactive installations, custom tools, and other innovative works.
 *   **Prototyping and Manufacturing:** OSHW provides a foundation for rapid prototyping and small-scale manufacturing, enabling entrepreneurs and small businesses to bring new products to market more easily.
-
-## 4. Application Context
 
 ## 5. Implementation
 
@@ -106,9 +102,6 @@ Furthermore, OSHW has a significant educational impact. Platforms like Arduino a
 
 From a business perspective, OSHW has enabled new models of value creation. Companies like Adafruit and SparkFun have built successful businesses around selling OSHW designs and components, demonstrating that openness and commercial success are not mutually exclusive. These companies often provide extensive documentation and tutorials, contributing to the growth of the OSHW ecosystem.
 
-
-## 6. Evidence & Impact
-
 ## 7. Cognitive Era Considerations
 
 The cognitive era, characterized by the rise of artificial intelligence (AI) and machine learning (ML), presents both opportunities and challenges for Open Source Hardware. OSHW can play a crucial role in democratizing access to the hardware needed for AI/ML development, which is often expensive and proprietary. By creating open-source designs for AI accelerators and other specialized hardware, the OSHW community can help to level the playing field and foster a more inclusive AI ecosystem.
@@ -119,46 +112,37 @@ Conversely, AI can also have a significant impact on the design and manufacturin
 
 However, there are also challenges to consider. The increasing complexity of AI hardware may make it more difficult to create and document open-source designs. There are also ethical considerations related to the use of AI in OSHW, such as the potential for bias in AI-powered design tools.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-Open Source Hardware demonstrates a strong alignment with the principles of the commons. Its emphasis on openness, collaboration, and shared resources contributes to the creation of a vibrant and sustainable knowledge commons.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-*   **Openness and Transparency:** OSHW is fundamentally about openness and transparency. The requirement to share design files and documentation ensures that the inner workings of the hardware are visible to all. This transparency fosters trust and enables a culture of peer review and continuous improvement.
+**1. Stakeholder Architecture:**
+Open Source Hardware defines clear Rights for users and creators, such as the right to study, modify, and distribute designs. Responsibilities are primarily defined through licenses, often requiring attribution and share-alike conditions. While this architecture is robust for human stakeholders, it does not explicitly define Rights or Responsibilities for the environment, future generations, or autonomous agents, focusing more on governing the knowledge commons around the design.
 
-*   **Equitability and Inclusivity:** By making hardware designs freely available, OSHW promotes equity and inclusivity. It lowers the barriers to entry for hardware development, enabling individuals and communities with limited resources to participate in technological innovation. The principle of non-discrimination further ensures that OSHW is accessible to all, regardless of their background or field of endeavor.
+**2. Value Creation Capability:**
+The pattern is a powerful engine for collective value creation, extending far beyond economic output. It directly enables a massive knowledge commons of designs and documentation, fosters social value through collaborative communities, and creates resilience value by allowing for local, decentralized manufacturing and repair. This democratizes innovation and empowers communities to create their own technological solutions.
 
-*   **Subsidiarity and Decentralization:** OSHW supports the principles of subsidiarity and decentralization by empowering individuals and local communities to create and modify their own technologies. This reduces reliance on centralized manufacturers and enables the development of solutions that are tailored to local needs and contexts.
+**3. Resilience & Adaptability:**
+OSHWA inherently promotes resilience and adaptability. By making designs transparent and modifiable, it allows hardware to be adapted to new contexts, repaired, and improved upon by a distributed network of contributors. This decentralization of knowledge reduces reliance on single manufacturers and makes technological capabilities more robust to supply chain disruptions and the obsolescence of specific components.
 
-*   **Sustainability and Resilience:** OSHW can contribute to sustainability by enabling the repair, reuse, and modification of hardware. By providing access to design files and documentation, OSHW makes it easier to fix broken devices and to adapt them to new uses. This can help to reduce electronic waste and to create a more circular economy for hardware.
+**4. Ownership Architecture:**
+The pattern redefines ownership away from exclusive control of a physical object towards stewardship of a shared design. Ownership is expressed as a bundle of Rights and Responsibilities governed by a license, focusing on access, use, and modification rather than monetary equity. This architecture is fundamental to preventing the enclosure of the knowledge commons around the hardware.
 
-*   **Pluralism and Diversity:** The open and collaborative nature of OSHW fosters a diversity of approaches and perspectives. By allowing anyone to modify and build upon existing designs, OSHW encourages experimentation and the exploration of new ideas. This leads to a rich and varied ecosystem of hardware designs.
+**5. Design for Autonomy:**
+Open Source Hardware is highly compatible with autonomous systems. The availability of machine-readable design files and clear documentation creates a low-coordination-overhead environment where AI and DAOs can access, fabricate, and even improve hardware designs. This makes OSHWA a critical enabler for a future of distributed, autonomous infrastructure and manufacturing.
 
-*   **Solidarity and Cooperation:** OSHW is built on a foundation of solidarity and cooperation. The sharing of knowledge and resources within the OSHW community creates a sense of shared purpose and mutual support. This collaborative spirit is essential for the long-term health and vitality of the OSHW ecosystem.
+**6. Composability & Interoperability:**
+The pattern has strong composability and interoperability. OSHW projects are often modular, designed to be combined with other open and proprietary components. The emphasis on standard file formats and comprehensive documentation allows different designs to be integrated into larger, more complex value-creation systems, from scientific instruments to smart city infrastructure.
 
-*   **Common Good and Civic Value:** By democratizing access to technology and fostering a culture of innovation, OSHW contributes to the common good. It empowers individuals and communities to solve their own problems and to create technologies that serve the public interest. This has significant civic value, as it helps to create a more engaged and technologically literate citizenry.
+**7. Fractal Value Creation:**
+The value-creation logic of OSHWA is inherently fractal, applying effectively at multiple scales. The same principles of open design and collaboration can enable a single hobbyist to build a custom device, a community to maintain its own infrastructure, or a global network to co-develop sophisticated scientific tools. This scalability allows the core pattern to be a building block for value creation in diverse contexts.
 
-## 8. Commons Alignment Assessment
+**Overall Score: 4 (Value Creation Enabler)**
 
-## 9. Resources & References
+**Rationale:**
+Open Source Hardware is a strong enabler of resilient, collective value creation by establishing a robust knowledge commons for physical things. It excels in fostering adaptability, interoperability, and a non-extractive ownership model for design. It scores a 4 instead of a 5 because the framework itself does not yet explicitly architect for the Rights and Responsibilities of non-human stakeholders like the environment, which is a critical component of a complete value creation architecture.
 
-[1] Open Source Hardware Association. "Open Source Hardware Definition." OSHWA.org. Accessed January 28, 2026. https://oshwa.org/resources/open-source-hardware-definition/.
-
-[2] Open Source Hardware Association. "Best Practices for Open Source Hardware 1.0." OSHWA.org. Accessed January 28, 2026. https://oshwa.org/resources/sharing-best-practices/.
-
-[3] Veliu, Cäcilia, et al. "A case study on the use of open source hardware in mechanical engineering." Procedia CIRP 128 (2024): 680-685. https://www.sciencedirect.com/science/article/pii/S221282712400756X.
-
-[4] Wikipedia. "Open-source hardware." Accessed January 28, 2026. https://en.wikipedia.org/wiki/Open-source_hardware.
-
-[5]opensource.com. "What is open hardware?" Accessed January 28, 2026. https://opensource.com/resources/what-open-hardware.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/open-source-hardware-oshwa/](https://commons-os.github.io/patterns/domain/open-source-hardware-oshwa/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/open-source-hardware-oshwa.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/open-source-hardware-oshwa.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
+**Opportunities for Improvement:**
+- Integrate principles of the circular economy directly into the OSHWA definition, creating explicit responsibilities for material lifecycle management, repairability, and end-of-life considerations.
+- Develop standards for documenting the ecological impact, labor practices, and ethical considerations of components within the Bill of Materials (BOM) to create deeper supply chain transparency.
+- Establish governance patterns for OSHW projects that formally include responsibilities towards the environment and future generations, moving beyond just governing the knowledge commons.

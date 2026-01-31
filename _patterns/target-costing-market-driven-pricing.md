@@ -137,23 +137,40 @@ The principles of target costing remain highly relevant in the Cognitive Era, bu
 
 In conclusion, the Cognitive Era is not rendering target costing obsolete. On the contrary, it is providing new tools and techniques that can make the target costing process more intelligent, agile, and effective. Companies that can successfully integrate these new technologies into their target costing practices will be well-positioned to thrive in the increasingly competitive and data-driven landscape of the Cognitive Era.
 
-# 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Commons Alignment Assessment evaluates how well the "Target Costing - Market-driven Pricing" pattern aligns with the principles of a commons-based economy. This assessment considers seven key dimensions of commons alignment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Assessment | Score (1-5) |
-| :--- | :--- | :--- |
-| **Openness & Transparency** | Target costing, when practiced with supply chain partners, can foster a degree of transparency in cost structures. However, the process is often internal to the organization and its immediate partners, and the resulting knowledge is not typically shared openly. | 2 |
-| **Decentralization & Federation** | The implementation of target costing is typically centralized within a single organization, although it involves cross-functional teams. It does not inherently promote a decentralized or federated model of governance. | 2 |
-| **P2P & Collaboration** | Target costing heavily relies on collaboration, both internally among cross-functional teams and externally with suppliers. This collaborative aspect is a strong point of alignment with commons principles. | 4 |
-| **Fairness & Equity** | The focus of target costing is on market competitiveness and profitability. While it can lead to lower prices for consumers, it does not directly address issues of fairness or equity in the distribution of value. The benefits are primarily captured by the company and its shareholders. | 2 |
-| **Sustainability & Regeneration** | Target costing can contribute to sustainability by encouraging the efficient use of resources and the reduction of waste. However, its primary focus is on cost reduction, and environmental or social considerations are not always a central part of the process unless they are also cost drivers. | 3 |
-| **Pluralism & Diversity** | The pattern does not inherently promote or inhibit pluralism and diversity. Its application is independent of the diversity of the participants or the context in which it is used. | 3 |
-| **Contribution & Distribution** | The contributions to the target costing process come from employees and suppliers, and the distribution of the resulting value is determined by the company's ownership structure and compensation policies. It does not follow a commons-based model of contribution and distribution. | 2 |
+**1. Stakeholder Architecture:**
+The pattern defines a clear set of rights and responsibilities between the company, its customers, and its suppliers, but these are almost exclusively economic. It establishes a transactional framework where the primary responsibility is to meet a market price point while securing a profit margin. The architecture does not explicitly account for non-human stakeholders like the environment, nor does it extend its considerations to future generations, focusing instead on immediate market participants.
 
-**Overall Commons Alignment Score: 3**
+**2. Value Creation Capability:**
+Value creation is narrowly defined as producing a profitable good, emphasizing economic output and functional value for the customer. While effective for competitive positioning, it does not inherently foster the creation of social, ecological, or knowledge value for a broader commons. The knowledge generated through value engineering and cost reduction remains proprietary, aimed at securing a competitive advantage rather than enriching a collective pool of knowledge.
 
-While target costing exhibits strong collaborative elements, its primary focus on corporate profitability and its centralized nature limit its alignment with a commons-based approach. To improve its commons alignment, the pattern could be adapted to include a greater emphasis on open knowledge sharing, a more equitable distribution of value, and a stronger commitment to social and environmental sustainability.
+**3. Resilience & Adaptability:**
+Target Costing provides strong economic resilience for the organization by ensuring its cost structure is adaptable to market-driven price fluctuations. This allows the firm to maintain coherence and profitability under the stress of intense market competition. However, this resilience is localized to the firm and its direct supply chain, and does not inherently contribute to the adaptability or resilience of the broader economic or social system.
+
+**4. Ownership Architecture:**
+Ownership is defined in a traditional, proprietary manner, where the company retains full ownership of the product design, the process knowledge, and the financial returns. While it involves collaboration with suppliers, this relationship is contractual and does not extend to shared ownership of the intellectual property or the value created. The framework operates entirely within the logic of private, monetized equity.
+
+**5. Design for Autonomy:**
+The process is a structured management methodology that can be significantly enhanced with AI and data analytics for market intelligence and cost simulation. However, it requires intensive, cross-functional human coordination and is not inherently designed for low-overhead, autonomous systems like DAOs. While it can be applied to components within a distributed system, the core logic relies on centralized decision-making and control.
+
+**6. Composability & Interoperability:**
+This pattern is highly composable with other business and engineering methodologies, such as Value Engineering, Quality Function Deployment, and various supply chain management patterns. It serves as a key component within a larger corporate system for product development and strategic pricing. Its principles can be integrated into different organizational and technological architectures.
+
+**7. Fractal Value Creation:**
+The logic of Target Costing is inherently fractal, as the overall target cost for a product is systematically cascaded down to sub-assemblies, individual components, and specific processes. This allows the value-creation logic—optimizing cost against market-validated function—to be applied at multiple scales throughout the production hierarchy. This scalability is a key element of its effectiveness as a cost management pattern.
+
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+Target Costing receives a transitional score because it contains significant collaborative and market-adaptive elements that are valuable for value creation, but its architecture is fundamentally centered on the single firm's profitability. The definition of value is narrow, the ownership model is proprietary, and the stakeholder considerations are limited to direct economic actors. It represents a highly optimized industrial-era pattern with the potential for adaptation but requires a significant shift in its core logic to align with a commons-centric model.
+
+**Opportunities for Improvement:**
+- Broaden the scope of "cost" to include negative externalities, such as environmental impact and social costs, in the target cost calculation.
+- Develop shared ownership models where key suppliers who co-create value can share in the long-term rewards and intellectual property.
+- Create mechanisms for sharing non-sensitive process and design improvements back into a relevant industry or open commons to foster collective learning and innovation.
 
 # 9. Resources & References
 

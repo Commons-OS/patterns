@@ -15,7 +15,7 @@ tags:
   era: [industrial]
   origin: []
   status: draft
-  commons_alignment: 5
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -93,19 +93,41 @@ The transition to the cognitive era, characterized by the rise of artificial int
 
 The cognitive era, marked by the rise of AI and digital platforms, presents unique considerations for the cooperative model. **Platform cooperativism** has emerged as a direct response, offering a model for online platforms that are owned and governed by their users, providing a democratic alternative to privately owned platforms. Similarly, **data cooperatives** empower individuals to collectively own and control their personal data, challenging the dominant model of corporate data extraction. As **AI and automation** reshape the world of work, the cooperative model offers a framework for a more equitable transition, ensuring that the benefits of these technologies are shared more broadly among workers and communities. [16] [17] [18]
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-Cooperative economics receives a high commons alignment score of 5 out of 5. This is because the cooperative model is inherently aligned with the principles of the commons, as it prioritizes people and the planet over profit. The following table provides a detailed assessment of cooperative economics across the seven dimensions of commons alignment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Assessment |
-| :--- | :--- |
-| **Openness & Accessibility** | Cooperative economics promotes openness and accessibility through its principle of voluntary and open membership. Cooperatives are open to all individuals who can use their services and are willing to accept the responsibilities of membership, regardless of their background or social status. |
-| **Participation & Governance** | The principle of democratic member control is at the heart of cooperative economics. Members have equal voting rights and actively participate in the decision-making process, ensuring that cooperatives are governed in a democratic and accountable manner. |
-| **Economic & Social Equity** | Cooperative economics promotes economic and social equity by distributing surpluses to members, providing fair wages and working conditions, and investing in community development. The focus on member benefits rather than profit maximization helps to create a more equitable distribution of wealth. |
-| **Knowledge & Culture** | Cooperatives are committed to the education and training of their members and the public. They share information and knowledge openly, and they often play an important role in preserving and promoting local culture. |
-| **Ecological Sustainability** | Many cooperatives are committed to environmental sustainability. They often adopt sustainable practices in their operations, such as using renewable energy, reducing waste, and sourcing products locally. The focus on long-term community well-being encourages a more responsible approach to resource management. |
-| **Technological & Infrastructural Sovereignty** | Platform and data cooperatives are emerging as a way to assert community ownership and control over technology and infrastructure. By creating their own platforms and managing their own data, communities can reduce their dependence on large tech companies and build a more democratic and equitable digital economy. |
-| **Holistic Well-being** | Cooperative economics contributes to the holistic well-being of individuals and communities by providing a sense of ownership, purpose, and community. The focus on social and environmental goals, in addition to economic ones, helps to create a more balanced and fulfilling way of life. |
+**1. Stakeholder Architecture:**
+The pattern defines stakeholders primarily as its members (consumers, workers, or producers), granting them rights of democratic control and responsibilities of participation. While it doesn't explicitly name non-human agents or future generations as stakeholders, the "Concern for Community" principle provides a foundation for a broader interpretation that can include ecological and social responsibilities, extending the architecture beyond purely human-centric concerns.
+
+**2. Value Creation Capability:**
+Cooperative Economics inherently enables value creation beyond the purely economic. Its stated purpose is to meet the "common economic, social, and cultural needs and aspirations of its members." The principles of "Education, Training, and Information" and "Cooperation among Cooperatives" directly foster knowledge and network value, while the focus on community well-being generates social and resilience value.
+
+**3. Resilience & Adaptability:**
+The model has demonstrated remarkable resilience and adaptability, originating in the Industrial Revolution and finding new relevance in the cognitive era with concepts like platform cooperativism. The principle of "Autonomy and Independence" coupled with "Cooperation among Cooperatives" creates a robust, decentralized network that can adapt to economic shocks and changing market conditions more effectively than rigid, centralized structures.
+
+**4. Ownership Architecture:**
+Ownership is defined through member participation and equitable contribution, not just capital investment. The "one-member, one-vote" principle separates governance rights from monetary equity, establishing an architecture where ownership is a function of active stakeholderhood. This aligns with a broader definition of ownership based on rights and responsibilities within the value creation process.
+
+**5. Design for Autonomy:**
+The principles of democratic member control and autonomy are highly compatible with distributed and autonomous systems. The emergence of data and platform cooperatives demonstrates the model's applicability to AI-driven, decentralized environments. Its modular structure and emphasis on local control can reduce coordination overhead in complex, distributed networks.
+
+**6. Composability & Interoperability:**
+The pattern is designed for interoperability, as codified in the "Cooperation among Cooperatives" principle. This encourages individual cooperatives to form federations and networks, allowing them to combine and build larger, more complex systems of value creation. This inherent composability allows the model to scale its impact and address systemic challenges.
+
+**7. Fractal Value Creation:**
+The value-creation logic of the cooperative model is fractal, applying successfully at multiple scales. It functions for small, local buying clubs, large multinational corporations like Mondragon, and entire regional ecosystems of federated cooperatives. The core principles of member-ownership and democratic governance can be replicated and adapted across these different scales without losing coherence.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Cooperative Economics provides a foundational and proven model for collective value creation. Its principles of democratic member control, shared ownership, and community concern align strongly with the v2.0 framework. While it requires some adaptation to explicitly include non-human stakeholders and fully leverage cognitive-era technologies, its core architecture is a powerful enabler of resilient, multi-faceted value.
+
+**Opportunities for Improvement:**
+- Explicitly integrate non-human stakeholders (e.g., AI agents, natural ecosystems) into the stakeholder architecture with defined Rights and Responsibilities.
+- Develop standardized protocols for interoperability between cooperatives and other organizational forms (e.g., DAOs, traditional businesses) to enhance composability.
+- Modernize the "Education, Training, and Information" principle to include digital literacy and data ownership in the context of the cognitive era.
+
 
 ## 9. Resources & References
 

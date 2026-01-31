@@ -168,25 +168,40 @@ The P2P model is being applied in a wide range of domains, including:
 *   **The Human-Centric Future of Work**: As AI and automation become more prevalent, the uniquely human skills of creativity, collaboration, and emotional intelligence will become more valuable than ever. The P2P model, with its emphasis on human agency and empowerment, is well-positioned to thrive in this new world of work.
 
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-**1. Stakeholder Mapping**: The P2P model has the potential to be highly inclusive, as it is open to anyone who wants to contribute. However, in practice, participation may be limited by factors such as technical skills, cultural norms, and access to resources. A comprehensive stakeholder mapping would include not only the core contributors, but also the users, the wider community, and the ecosystem of organizations that are affected by the project.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**2. Value Creation**: P2P models create value in a variety of ways. They can produce high-quality products and services, such as open-source software and online encyclopedias. They can also create social value by fostering collaboration, building community, and empowering individuals. The value created by P2P models is often shared among the participants, rather than being captured by a single entity.
+**1. Stakeholder Architecture:**
+The Peer-to-Peer Model defines Rights and Responsibilities through a decentralized network of autonomous peers. It moves away from hierarchical control, giving individuals the right to self-organize, choose their roles, and participate directly in decision-making. The principle of equipotentiality further reinforces an inclusive architecture by assuming every participant has the potential to contribute. However, the pattern primarily focuses on human stakeholders and does not explicitly define the Rights and Responsibilities of non-human agents like the environment or future generations.
 
-**3. Value Preservation**: The value created by P2P models is preserved through the use of open licenses, which ensure that the products and services are freely available for others to use, modify, and distribute. This helps to create a virtuous cycle of innovation, as others can build upon the work of the original creators.
+**2. Value Creation Capability:**
+The pattern strongly enables collective value creation beyond economic output. By fostering transparency, open information sharing, and commons-based peer production, it creates significant knowledge and social value. The model's emphasis on creating agile, resilient, and purpose-driven organizations highlights its capacity to generate resilience value, moving beyond purely financial metrics.
 
-**4. Shared Rights & Responsibilities**: In a P2P model, rights and responsibilities are distributed among the participants. This is in contrast to traditional hierarchical organizations, where rights and responsibilities are concentrated in a small group of managers. The distribution of rights and responsibilities can be a source of both strength and weakness. On the one hand, it can lead to a greater sense of ownership and empowerment among participants. On the other hand, it can also lead to a lack of accountability and a diffusion of responsibility.
+**3. Resilience & Adaptability:**
+Resilience and adaptability are at the core of the P2P model. Its decentralized nature allows it to thrive on change and maintain coherence under stress by distributing authority and reducing single points of failure. Practices like dynamic steering, continuous governance updates, and role-based work enable the system to sense and respond to its environment, making it highly adaptable to complexity.
 
-**5. Systematic Design**: P2P models are enabled by a variety of systems and processes, such as online collaboration platforms, version control systems, and governance processes. These systems and processes help to coordinate the work of a large number of participants and to ensure the quality and coherence of the final product.
+**4. Ownership Architecture:**
+The P2P model redefines ownership as a set of Rights and Responsibilities tied to contribution rather than monetary equity. The concept of a co-created and maintained "commons" is central to this architecture, where value is shared among participants based on their engagement. This shifts the focus from passive ownership to active stewardship within the network.
 
-**6. Systems of Systems**: P2P models are often part of a larger ecosystem of organizations and projects. For example, the open-source software movement is made up of a vast network of interconnected projects, each of which builds upon the work of others. This ecosystem approach allows for a high degree of innovation and resilience.
+**5. Design for Autonomy:**
+This pattern is highly compatible with autonomous systems like AI and DAOs due to its foundational principles of decentralization, self-organization, and distributed authority. The clear, role-based structure and defined governance processes are designed to lower coordination overhead, making it a suitable framework for distributed and automated systems to operate effectively.
 
-**7. Fractal Properties**: The principles of P2P can be applied at all scales, from small teams to large-scale ecosystems. This fractal property allows for a high degree of scalability and adaptability.
+**6. Composability & Interoperability:**
+The Peer-to-Peer Model is inherently modular and composable. Its structure of nested, self-organizing circles can be combined with other organizational patterns to build larger, more complex value-creation systems. The pattern can be applied at different scales, allowing it to interoperate within a broader ecosystem of interconnected organizations.
 
-**Overall Score**: 4 (Commons-Aligned)
+**7. Fractal Value Creation:**
+The pattern exhibits strong fractal characteristics, as its value-creation logic can be applied at multiple scales—from individual teams to entire ecosystems. The documentation explicitly mentions using a "fractal approach" for scaling, ensuring that the core principles of autonomy and decentralization are replicated at all levels of the organization, enabling consistent value creation logic across the system.
 
-The Peer-to-Peer Model is highly aligned with the principles of the commons. It is based on the principles of open collaboration, shared ownership, and distributed governance. However, there are also some challenges that need to be addressed in order to fully realize the potential of the P2P model. These challenges include ensuring inclusivity, preventing the emergence of hidden hierarchies, and scaling the model to large organizations. By addressing these challenges, we can create a more just and sustainable economy that is based on the principles of the commons.
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+The Peer-to-Peer Model is a powerful enabler of collective value creation, aligning with most principles of the v2.0 framework. It provides a robust architecture for decentralization, autonomy, and resilience. It scores a 4 instead of a 5 because its successful implementation is challenging and requires a significant cultural shift, and it lacks an explicit framework for incorporating non-human stakeholders.
+
+**Opportunities for Improvement:**
+- Develop explicit guidelines for integrating the Rights and Responsibilities of non-human stakeholders, such as the environment and AI agents.
+- Create clearer mechanisms for resource allocation and conflict resolution in scaled, multi-organizational ecosystems to reduce ambiguity.
+- Integrate metrics for tracking non-economic value creation (e.g., social, knowledge, ecological) to provide a more holistic view of the system's health and performance.
 
 
 ### 9. Resources & References

@@ -185,49 +185,40 @@ In the cognitive era, Throughput Accounting is likely to evolve in several ways:
 
 By embracing the power of AI and automation, organizations can take Throughput Accounting to the next level and achieve unprecedented levels of performance and profitability.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-This assessment evaluates Throughput Accounting against the seven dimensions of the Commons OS framework to determine its alignment with commons principles. The goal is to provide a balanced and non-judgmental analysis of the pattern's strengths and weaknesses in this regard.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**1. Stakeholder Mapping:**
+**1. Stakeholder Architecture:**
+Throughput Accounting primarily defines Rights and Responsibilities for internal financial stakeholders like management and shareholders, optimizing for their benefit. Other stakeholders such as employees, suppliers, and the environment are implicitly treated as operational expenses or external factors to be managed, rather than as integral participants in the value creation architecture. This narrow focus limits its ability to establish a truly collective system of value creation.
 
-Throughput Accounting primarily focuses on the internal stakeholders of an organization, particularly shareholders and management. The goal is to maximize profitability, which directly benefits these stakeholders. While customers are considered in the sense that sales are necessary for throughput, their interests are not the primary focus. Other stakeholders, such as employees, suppliers, and the community, are largely viewed as costs to be managed rather than as partners in value creation. The stakeholder mapping is therefore quite narrow and does not fully embrace the concept of a multi-stakeholder commons.
+**2. Value Creation Capability:**
+The pattern is exceptionally strong at enabling economic value creation by optimizing cash flow and profitability. However, it does not inherently account for other forms of value, such as social, ecological, or knowledge value, unless they can be directly tied to a financial outcome. Its capability for collective value creation is therefore limited, as the value generated is primarily captured by the organization itself.
 
-**2. Value Creation:**
+**3. Resilience & Adaptability:**
+Throughput Accounting, through its foundation in the Theory of Constraints, provides a robust framework for adapting to change and managing complexity. The Five Focusing Steps offer a continuous process for identifying and elevating constraints, allowing the system to maintain coherence and thrive under stress. This focus on system-level optimization and adaptation is a key strength.
 
-Throughput Accounting is highly effective at creating financial value for the organization. By focusing on maximizing throughput, it drives profitability and improves cash flow. However, it does not explicitly consider other forms of value, such as social or environmental value. The value created is primarily captured by the organization and its shareholders, with limited consideration for how that value is distributed among other stakeholders.
+**4. Ownership Architecture:**
+The pattern's ownership architecture is implicitly tied to traditional corporate structures, where ownership is defined by monetary equity and financial returns. It does not offer a model for distributing Rights and Responsibilities beyond this financial framework. The concept of ownership as a form of stewardship over a shared resource is not present.
 
-**3. Value Preservation:**
+**5. Design for Autonomy:**
+Throughput Accounting is highly compatible with autonomous systems, including AI and DAOs, which can be used to identify constraints, optimize scheduling, and automate data analysis. By focusing on a single key constraint, it reduces coordination overhead and allows for more decentralized decision-making within the system. This makes it well-suited for distributed and automated environments.
 
-Throughput Accounting promotes the long-term sustainability of the organization by focusing on continuous improvement and adaptability. By constantly seeking to identify and elevate constraints, it helps the organization to remain competitive and relevant in a changing market. However, it does not explicitly address the preservation of shared resources or the environment.
+**6. Composability & Interoperability:**
+The pattern is highly composable and can be integrated with other management and operational patterns, such as Lean, Six Sigma, and various supply chain management methodologies. It provides a clear financial and operational logic that can serve as a foundational component within a larger, more complex value-creation system. Its focus on a single point of leverage (the constraint) makes it a powerful and interoperable tool.
 
-**4. Shared Rights & Responsibilities:**
+**7. Fractal Value Creation:**
+The core logic of identifying and managing constraints to maximize throughput can be applied at multiple scales, from an individual team to a department, an entire organization, and even across a multi-organizational supply chain. This fractal nature allows the value-creation logic to be replicated and adapted to different levels of complexity, making it a scalable pattern.
 
-Rights and responsibilities within the Throughput Accounting framework are clearly defined but are not necessarily shared in a commons-oriented way. Management has the right and responsibility to make decisions that maximize throughput, while employees have the responsibility to execute those decisions. There is little room for shared governance or co-ownership in the traditional sense.
+**Overall Score: 3 (Transitional)**
 
-**5. Systematic Design:**
-
-Throughput Accounting is a highly systematic and well-designed methodology. The Five Focusing Steps, the T, I, & OE metrics, and the Drum-Buffer-Rope scheduling system provide a clear and coherent framework for managing an organization. This systematic design is one of the key strengths of the pattern.
-
-**6. Systems of Systems:**
-
-Throughput Accounting can be applied at multiple scales, from a single team to an entire supply chain. This demonstrates its potential to be part of a larger system of systems. However, its focus on optimizing the performance of a single organization can sometimes lead to suboptimal outcomes for the broader ecosystem if not carefully managed.
-
-**7. Fractal Properties:**
-
-The core principles of Throughput Accounting can be applied at different levels of an organization, from the shop floor to the executive suite. This fractal property allows for a consistent and coherent approach to management across the entire organization.
-
-**Overall Score: 3 - Transitional**
-
-Throughput Accounting is a powerful and effective management methodology that can deliver significant financial benefits to an organization. However, its focus on maximizing financial returns for shareholders and its limited consideration for other stakeholders and forms of value place it in the transitional category. It is a step beyond traditional, purely extractive models of business, but it does not fully embrace the principles of a commons-oriented approach.
+**Rationale:**
+Throughput Accounting is a powerful tool for optimizing financial value creation and enhancing operational resilience. Its focus on system-level thinking and adaptability aligns well with key aspects of the Commons OS framework. However, its narrow stakeholder focus and limited conception of value beyond the economic sphere prevent it from being a complete value creation architecture. It has significant potential but requires adaptation to embrace a more holistic and equitable approach to value creation.
 
 **Opportunities for Improvement:**
-
-To become more commons-aligned, Throughput Accounting could be adapted to:
-
-*   **Broaden the definition of throughput:** The definition of throughput could be expanded to include not just financial value but also social and environmental value.
-*   **Incorporate a multi-stakeholder perspective:** The decision-making process could be opened up to include a wider range of stakeholders, such as employees, suppliers, and customers.
-*   **Integrate with other commons-oriented patterns:** Throughput Accounting could be combined with other patterns, such as open-source licensing or cooperative ownership, to create a more holistic and commons-aligned approach to management.
+- Integrate a multi-stakeholder governance model to broaden the definition of Rights and Responsibilities.
+- Expand the measurement framework beyond T, I, & OE to include metrics for social, ecological, and knowledge value.
+- Develop a more explicit ownership architecture that defines stewardship roles and responsibilities for all stakeholders.
 
 ### 9. Resources & References
 

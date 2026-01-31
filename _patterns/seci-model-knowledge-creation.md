@@ -87,7 +87,7 @@ tags:
   era: [digital, cognitive]
   origin: [academic, japanese-business]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: ["pat_01kg5023wtfe1t2fh8afp93rma"]
@@ -269,41 +269,40 @@ In the Cognitive Era, the SECI model is likely to evolve in several ways:
 *   **From a Focus on Internal Knowledge to a Focus on External Knowledge:** In an increasingly interconnected world, organizations will need to become more adept at sourcing and integrating knowledge from external sources. The SECI model will need to be adapted to support the creation of knowledge in open, networked ecosystems.
 *   **From a Focus on Knowledge Management to a Focus on Knowledge Co-creation:** The emphasis will shift from managing existing knowledge to creating new knowledge. This will require a more dynamic and emergent approach to knowledge management, one that is focused on fostering the conditions for continuous learning and innovation.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-This assessment evaluates the SECI model's alignment with commons principles, viewing its potential for a more equitable and sustainable knowledge ecosystem.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**1. Stakeholder Mapping:**
+**1. Stakeholder Architecture:**
+The SECI model primarily defines rights and responsibilities for internal stakeholders like employees and managers, aiming to enhance organizational knowledge. It lacks a native framework for incorporating broader stakeholders such as the environment, community, or future generations, though it can be adapted to do so.
 
-The SECI model, in its original formulation, is primarily focused on the stakeholders within a single organization: employees, managers, and the organization itself. The goal is to create a "knowledge-creating company" that can gain a competitive advantage. While the model can be extended to include external stakeholders, such as customers, suppliers, and partners, this is not its primary focus. A more commons-aligned approach would explicitly consider a broader range of stakeholders, including the wider community and future generations, and would seek to create knowledge that benefits not just the organization but society as a whole.
+**2. Value Creation Capability:**
+The model is a powerful engine for creating knowledge value, which drives innovation and organizational performance. While this is a critical form of value, the model's focus is not inherently on creating social, ecological, or resilience value beyond the direct interests of the organization.
 
-**2. Value Creation:**
+**3. Resilience & Adaptability:**
+By fostering a continuous cycle of learning and knowledge conversion, the SECI model significantly enhances an organization's ability to adapt to complexity and change. The process of turning tacit knowledge into explicit knowledge helps maintain coherence and builds a resilient knowledge base.
 
-The SECI model is highly effective at creating value in the form of new knowledge, innovation, and improved organizational performance. However, the value created is typically captured by the organization in the form of intellectual property, increased profits, and enhanced market position. From a commons perspective, the question is how this value is distributed. A more commons-aligned application of the SECI model would seek to share the value created more equitably among all stakeholders, for example, by contributing to open knowledge repositories or by using the knowledge created to address social and environmental challenges.
+**4. Ownership Architecture:**
+The model does not prescribe a specific ownership architecture, so by default, the knowledge created falls under conventional intellectual property regimes where the organization is the owner. It does not explicitly define ownership in terms of rights and responsibilities beyond monetary equity, but it is compatible with alternative ownership models.
 
-**3. Value Preservation:**
+**5. Design for Autonomy:**
+The SECI model is compatible with decentralized systems, DAOs, and AI, as its framework for knowledge sharing can be implemented in distributed environments. The concept of 'Ba' as a shared context is well-suited for virtual and autonomous systems, although the socialization phase can introduce coordination overhead.
 
-The SECI model contributes to value preservation by converting fragile, tacit knowledge into more robust, explicit forms. This process helps to ensure that valuable knowledge is not lost when individuals leave the organization. However, the model's focus on continuous innovation can also lead to a form of "creative destruction," where old knowledge is devalued and discarded in favor of the new. A more commons-aligned approach would place a greater emphasis on the stewardship of knowledge, ensuring that valuable knowledge is preserved and passed on to future generations.
+**6. Composability & Interoperability:**
+The model is highly composable and can be integrated with other patterns like Agile, Design Thinking, and Open Innovation. This allows it to be a core component in building larger, more complex systems for value creation, including knowledge commons.
 
-**4. Shared Rights & Responsibilities:**
+**7. Fractal Value Creation:**
+The SECI model exhibits strong fractal properties, as its value-creation logic can be applied at multiple scales—from individuals and teams to entire organizations and inter-organizational networks. This scalability allows the pattern to be a foundational element in a multi-scale value creation architecture.
 
-The SECI model does not explicitly address the issue of rights and responsibilities for the knowledge that is created. In most organizations, the intellectual property rights for knowledge created by employees are owned by the organization. A more commons-aligned approach would involve a more explicit and equitable distribution of rights and responsibilities. This could include models of co-ownership, where employees have a stake in the intellectual property they help to create, or the use of open licenses that allow for the free sharing and reuse of knowledge.
+**Overall Score: 4 (Value Creation Enabler)**
 
-**5. Systematic Design:**
+**Rationale:**
+The SECI model is a powerful engine for knowledge creation, a fundamental form of value. It provides a robust framework for converting individual tacit knowledge into organizational explicit knowledge, fostering innovation and adaptability. While its original focus is on organizational benefit, its principles are highly adaptable and can be extended to a commons context. It strongly enables collective value creation, even if it doesn't provide a complete architecture for it.
 
-The SECI model provides a systematic framework for designing and managing the knowledge creation process. Its four modes of knowledge conversion and the concept of 'Ba' offer a powerful set of tools for creating an environment that is conducive to knowledge creation. This systematic approach is highly compatible with the principles of a commons, which also emphasizes the importance of clear rules and governance structures.
-
-**6. Systems of Systems:**
-
-The SECI model can be seen as a subsystem within a larger system of organizational innovation. It can be combined with other patterns, such as Agile development, design thinking, and open innovation, to create a more comprehensive and effective innovation ecosystem. From a commons perspective, the SECI model can also be seen as a component of a larger knowledge commons, where multiple organizations and individuals collaborate to create and share knowledge for the common good.
-
-**7. Fractal Properties:**
-
-The SECI model exhibits strong fractal properties, as it can be applied at multiple scales, from the individual to the organization and beyond. This scalability is a key strength of the model and makes it highly adaptable to different contexts. It also aligns well with the principles of a commons, which often involve nested systems of governance at different scales.
-
-**Overall Score: 3 (Transitional)**
-
-The SECI model is a powerful framework for knowledge creation that has the potential to be highly aligned with the principles of a commons. However, its original formulation is primarily focused on the interests of the single organization. To become more commons-aligned, the model needs to be adapted to embrace a broader range of stakeholders, a more equitable distribution of value, and a greater emphasis on the stewardship of knowledge. With these modifications, the SECI model could become a key enabler of a more just and sustainable knowledge economy.
+**Opportunities for Improvement:**
+- Explicitly broaden the stakeholder map to include non-human and future-generation stakeholders.
+- Integrate mechanisms for distributing the value created more equitably among all contributing stakeholders.
+- Develop explicit ownership and governance models for the knowledge commons created through the SECI process.
 
 ### 9. Resources & References
 

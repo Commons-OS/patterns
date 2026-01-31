@@ -15,7 +15,7 @@ tags:
   era: [digital, cognitive]
   origin: [academic, activist]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: ["pat_01kg5023whehgsjwtbq21f60nk"]
 specializes_to: []
@@ -150,21 +150,40 @@ Solidarity Economy Production Systems (SEPS) are a subset of the broader Solidar
 *   **Data solidarity**: As data becomes an increasingly valuable resource, new models of data ownership and governance will emerge that are based on principles of solidarity and collective benefit.
 *   **Federated and interoperable networks**: The future of the solidarity economy will likely involve the development of federated and interoperable networks of autonomous but interconnected enterprises, creating a more resilient and decentralized economic system.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-1.  **Stakeholder Mapping**: SEPS are inherently multi-stakeholder, encompassing producers, consumers, workers, and the broader community. The most advanced models actively engage all relevant stakeholders in governance and decision-making.
-2.  **Value Creation**: SEPS create multiple forms of value, including economic value (e.g., income, livelihoods), social value (e.g., community, social cohesion), and environmental value (e.g., ecological sustainability). The distribution of this value is designed to be equitable and to benefit the community as a whole.
-3.  **Value Preservation**: By prioritizing long-term sustainability and community well-being over short-term profit, SEPS are designed to preserve and regenerate value over time. This includes preserving natural resources, cultural heritage, and social relationships.
-4.  **Shared Rights & Responsibilities**: SEPS are characterized by shared ownership and democratic governance, which means that rights and responsibilities are distributed among members. This fosters a sense of collective ownership and accountability.
-5.  **Systematic Design**: SEPS are intentionally designed systems that embed social and environmental goals into their structure and operations. This includes the use of cooperative legal structures, democratic governance processes, and fair trade practices.
-6.  **Systems of Systems**: SEPS are often part of larger ecosystems of interconnected enterprises and organizations, creating a resilient and self-reinforcing network of solidarity.
-7.  **Fractal Properties**: The core principles of solidarity, democracy, and sustainability can be applied at all scales, from small community-based enterprises to large-scale federations of cooperatives.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**Overall Score**: 4 (Commons-Aligned)
+**1. Stakeholder Architecture:**
+Solidarity Economy Production Systems (SEPS) explicitly define rights and responsibilities for stakeholders like workers, consumers, and producers through cooperative and collective ownership models. The pattern prioritizes human dignity and well-being, promoting democratic governance and active participation. However, its definition of stakeholders could be expanded to more explicitly include the environment and future generations as active participants in the governance structure.
 
-**Rationale**: Solidarity Economy Production Systems are highly aligned with the principles of the commons. They are designed to be multi-stakeholder, to create multiple forms of value, and to distribute that value equitably. They are also characterized by shared ownership, democratic governance, and a commitment to long-term sustainability. While there is always room for improvement, SEPS represent a significant step towards a more just, equitable, and sustainable economic system.
+**2. Value Creation Capability:**
+The pattern strongly enables collective value creation that extends beyond mere economic output. It systematically fosters social value through community cohesion, ecological value via sustainable practices, and knowledge value through mechanisms like Commons-Based Peer Production. Practices such as Fair Trade and Community-Supported Agriculture directly embed diverse value forms into the economic process.
 
-**Opportunities for Improvement**: To become even more commons-aligned, SEPS could focus on developing more robust mechanisms for community accountability, strengthening their connections to other commons-based movements, and advocating for more supportive public policies.
+**3. Resilience & Adaptability:**
+SEPS helps systems thrive on change by cultivating local resilience and community self-sufficiency. The emphasis on territorial rootedness and mutual support networks allows communities to better withstand economic shocks and adapt to complexity. The documented lower failure rates of solidarity economy enterprises during crises provide strong evidence of this enhanced resilience.
+
+**4. Ownership Architecture:**
+The pattern redefines ownership as a structure of rights and responsibilities, moving beyond purely monetary equity. Central to SEPS are cooperative and collective ownership models where control is tied to active participation and stewardship rather than capital investment. This represents a fundamental shift from traditional, extractive ownership models toward a more generative approach.
+
+**5. Design for Autonomy:**
+The pattern is highly compatible with distributed systems and emerging autonomous technologies like DAOs. Its core principles of democratic governance, member participation, and subsidiarity align well with decentralized technological frameworks. The "Evolution Outlook" section, which points to platform cooperativism and data solidarity, highlights a clear trajectory toward deeper integration with autonomous systems.
+
+**6. Composability & Interoperability:**
+This pattern is exceptionally composable and can be combined with other patterns to construct larger, more complex value-creation systems. The documentation notes that SEPS are frequently components of broader ecosystems of interconnected enterprises. The diverse array of practices it encompasses—from cooperatives to local currencies—can be modularly combined to fit various contexts.
+
+**7. Fractal Value Creation:**
+The value-creation logic inherent in SEPS is fractal, meaning its core principles can be applied effectively across multiple scales. The foundational tenets of solidarity, democracy, and sustainability are as relevant to small, community-based initiatives as they are to large-scale federations of cooperatives like the Mondragon Corporation. This scalability allows the pattern to be a foundational element in building a widespread alternative economic system.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+This pattern strongly enables collective value creation and is highly aligned with the Commons OS v2.0 framework. It provides a comprehensive set of principles and practices for building a more just and sustainable economy. However, it is not a complete "Value Creation Architecture" (a score of 5) because its stakeholder definition could be more inclusive of non-human agents (e.g., the environment), and its integration with digital autonomous systems is still emerging rather than fully realized.
+
+**Opportunities for Improvement:**
+- Explicitly integrate the environment and future generations as key stakeholders with defined rights and responsibilities within the governance models.
+- Develop more concrete, actionable models and open-source tools for integrating SEPS with DAOs and other decentralized technologies.
+- Create clearer, documented pathways for scaling and replication that are less dependent on specific, localized socio-economic contexts.
 
 ### 9. Resources & References
 

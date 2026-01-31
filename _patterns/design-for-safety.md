@@ -15,7 +15,7 @@ tags:
   era: [industrial, digital]
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -127,21 +127,40 @@ The advent of the cognitive era, characterized by the proliferation of artificia
 
 **Ethical Considerations:** The use of AI in the workplace also raises a number of ethical considerations that must be addressed in the Design for Safety pattern. These include issues such as data privacy, surveillance, and the potential for job displacement. For example, the use of wearable sensors to monitor worker safety could be seen as an invasion of privacy if not implemented in a transparent and ethical manner. Therefore, it is essential to develop a clear ethical framework for the use of AI in the workplace, and to ensure that the design and implementation of AI-powered safety systems are aligned with the organization's values and principles [21].
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Design for Safety pattern has a moderate alignment with the principles of a commons-based approach to organizing. While it strongly promotes the well-being of individuals and the collective, its implementation can vary from being a top-down, compliance-driven initiative to a more participatory and co-creative process. The following table provides a detailed assessment of the pattern's alignment with the seven dimensions of a commons-based approach.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Score (1-5) | Assessment |
-| :--- | :--- | :--- |
-| **Openness & Transparency** | 4 | The pattern encourages open communication about safety risks and incidents, and promotes transparency in decision-making processes. However, the degree of openness can be limited by legal and confidentiality concerns, particularly in relation to incident investigations. |
-| **Decentralization & Autonomy** | 3 | DfS can be implemented in a way that empowers employees to take ownership of their safety, but it often relies on a centralized safety function to provide expertise and oversight. The level of autonomy granted to individuals and teams can vary significantly depending on the organization's culture and structure. |
-| **Collaboration & Community** | 4 | The pattern strongly emphasizes the importance of collaboration between different departments and stakeholders. It fosters a sense of shared responsibility for safety and encourages the development of a strong safety community. |
-| **Sustainability & Resilience** | 4 | By proactively identifying and mitigating risks, DfS contributes to the long-term sustainability and resilience of the organization. It helps to prevent incidents that could disrupt operations, damage the environment, or harm the organization's reputation. |
-| **Fairness & Equity** | 3 | While DfS aims to protect all workers equally, its implementation can be influenced by existing power structures and biases. For example, the concerns of marginalized workers may not be given the same weight as those of more powerful groups. |
-| **Purpose & Values** | 5 | The pattern is deeply aligned with the purpose of creating a safe and healthy work environment, which is a fundamental value of any responsible organization. It provides a clear and compelling moral and ethical justification for its implementation. |
-| **Learning & Development** | 4 | DfS promotes a culture of continuous learning and improvement, where organizations are constantly seeking to learn from their experiences and to improve their safety performance. It encourages the development of new skills and competencies related to safety management. |
+**1. Stakeholder Architecture:**
+The Design for Safety pattern establishes a robust framework for distributing Rights and Responsibilities among key human stakeholders, including employees, management, and designers. It emphasizes a collective responsibility for creating a safe operational environment, which implicitly extends to the well-being of the surrounding community and environment by preventing industrial accidents. While its primary focus is on human safety within an organizational context, the "Cognitive Era Considerations" section shows its adaptability to include non-human stakeholders like AI and autonomous systems, although this is not yet its core focus.
 
-**Overall Commons Alignment Score: 3.9/5**
+**2. Value Creation Capability:**
+This pattern is a powerful enabler of collective value creation that extends far beyond economic metrics. By preventing harm and building trust, it generates significant social value through improved employee morale, well-being, and engagement. It also produces resilience value by making the organization more robust and capable of withstanding shocks and disruptions. Furthermore, its emphasis on continuous learning and incident analysis fosters the creation of invaluable knowledge value, turning potential failures into opportunities for systemic improvement.
+
+**3. Resilience & Adaptability:**
+Resilience and adaptability are at the very heart of the Design for Safety pattern. Its proactive approach, focused on anticipating and designing out potential failures, is the essence of building resilient systems that can thrive on change. The core principles of continuous improvement, learning from incidents, and adapting practices based on new knowledge ensure that the system does not become rigid but evolves with its operational context. This allows the organization to maintain coherence and function effectively even when faced with unexpected stressors.
+
+**4. Ownership Architecture:**
+The pattern reframes ownership as a form of stewardship and shared responsibility rather than a matter of equity or control. It empowers all stakeholders, especially frontline employees, to take ownership of their own safety and the safety of the collective. This distribution of responsibility fosters a culture where safety is not a top-down mandate but a shared value and a collective property of the system that everyone has a right and a duty to uphold.
+
+**5. Design for Autonomy:**
+While originating in industrial contexts, the pattern shows strong compatibility with autonomous systems. The "Cognitive Era Considerations" explicitly explore its application to AI, DAOs, and distributed systems, addressing challenges like algorithmic bias and human-AI trust. The principles of proactive hazard analysis are directly applicable to designing safe autonomous agents, although the traditional implementation involves significant human coordination overhead. However, many of its review and analysis practices (HAZOP, FMEA) can be automated to facilitate low-overhead safety design in purely digital or autonomous environments.
+
+**6. Composability & Interoperability:**
+Design for Safety is a meta-pattern, making it exceptionally composable and interoperable. It does not prescribe a specific structure but provides a set of principles and practices that can be integrated with almost any other organizational or technical pattern. It can be layered onto project management methodologies, software development lifecycles, or governance frameworks to build larger, more resilient value-creation systems.
+
+**7. Fractal Value Creation:**
+The logic of proactively designing for safety applies seamlessly across multiple scales, demonstrating a fractal nature. The same principles can be used to ensure the safety of a single software function, a team's workflow, a complex manufacturing plant, or an entire supply chain. This scalability allows the value-creation logic of risk mitigation and resilience-building to be replicated and adapted from the micro to the macro level.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Design for Safety is a strong enabler of collective value creation by establishing the foundational trust and stability necessary for any system to thrive. Its primary focus is on preventing value destruction (harm, accidents, downtime), which is a precondition for sustainable value creation. While it does not directly architect new forms of positive value, it creates the resilient, high-trust environment in which social, knowledge, and ecological value can flourish. It is a critical transitional pattern that bridges legacy safety thinking with a systemic, value-oriented approach.
+
+**Opportunities for Improvement:**
+- Explicitly extend the stakeholder architecture to include non-human agents (AI, environment) as primary stakeholders with defined Rights and Responsibilities, rather than as secondary considerations.
+- Develop specific practices for applying DfS to intangible assets like data, code, and social protocols, moving beyond its traditional focus on physical infrastructure.
+- Integrate the pattern more explicitly with economic and governance patterns to show how designing for safety directly enables new business models and more equitable value distribution.
 
 ## 9. Resources & References
 

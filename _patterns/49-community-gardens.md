@@ -150,45 +150,40 @@ While AI and automation can be valuable tools, it is important to remember that 
 
 As AI and automation become more sophisticated, the Community Gardens pattern is likely to evolve in several ways. We may see the emergence of new roles, such as "AI ethicists" and "human-machine interaction designers," who are responsible for ensuring that technology is used in a way that is aligned with the organization's values. We may also see the development of new tools and platforms that are specifically designed to support the Community Gardens pattern, such as AI-powered coaching and mentoring platforms, and virtual reality environments for collaborative learning and problem-solving. Ultimately, a the future of the Community Gardens pattern will depend on our ability to harness the power of technology to create more human-centric and life-affirming organizations.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-**1. Stakeholder Mapping:**
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-The Community Gardens pattern inherently promotes a multi-stakeholder perspective. The primary stakeholders are the employees (the "plants"), who are at the center of the model. However, the pattern also recognizes the importance of other stakeholders, including leaders (the "gardeners"), customers, partners, investors, and the wider community. A comprehensive stakeholder mapping exercise would involve identifying all of these groups and understanding their needs, interests, and contributions. The pattern encourages a shift from a shareholder-centric view to a stakeholder-centric view, where the goal is to create value for all stakeholders, not just for the owners of the company.
+**1. Stakeholder Architecture:**
+The Community Gardens pattern establishes a clear stakeholder architecture through its central metaphor. Leaders ("gardeners") have the responsibility to cultivate a nurturing environment, while employees ("plants") have the right to this environment and the responsibility to grow and contribute. This framework implicitly extends to customers and the wider community, who benefit from the "harvest," though it could be more explicit in defining rights and responsibilities for non-human stakeholders like the environment or future generations.
 
-**2. Value Creation:**
+**2. Value Creation Capability:**
+The pattern excels at enabling collective value creation far beyond the purely economic. It directly fosters social value through community and collaboration, knowledge value through continuous learning and cross-pollination, and resilience value by building an adaptive, engaged workforce. This multi-faceted approach to value is central to its design, treating economic output as a byproduct of a healthy system rather than the sole objective.
 
-The Community Gardens pattern creates multiple forms of value. For employees, it creates a more meaningful and engaging work experience, opportunities for growth and development, and a sense of belonging and community. For customers, it can lead to better products and services, as engaged and empowered employees are more likely to be innovative and customer-focused. For investors, it can lead to improved financial performance, as a healthy organizational culture is a key driver of long-term success. For the wider community, it can contribute to a more just and sustainable world, as organizations that are aligned with the Community Gardens pattern are more likely to be socially and environmentally responsible.
+**3. Resilience & Adaptability:**
+Resilience is a core strength of this pattern, embodied in the "Adapt to the Seasons" principle. By emphasizing diversity, continuous learning, and a culture of safe experimentation ("pruning and weeding with care"), it designs a system that can adapt to complexity and maintain coherence under stress. The focus on a healthy "soil" or foundation of psychological safety ensures the system can weather challenges and emerge stronger.
 
-**3. Value Preservation:**
+**4. Ownership Architecture:**
+The pattern re-frames ownership as distributed stewardship rather than monetary equity. The principle of "Empower and Distribute Ownership" explicitly defines ownership as the right and responsibility to contribute to the collective well-being of the "garden." This moves beyond traditional top-down control to a model where all stakeholders have a sense of agency and shared responsibility for the system's success.
 
-The Community Gardens pattern preserves value over time by fostering a culture of continuous learning and adaptation. The emphasis on diversity, experimentation, and feedback allows the organization to evolve and respond to changing circumstances. The pattern also preserves value by investing in the growth and development of its people, who are the ultimate source of the organization's resilience and innovation. By creating a strong sense of community and shared purpose, the pattern helps to ensure that the organization's values and knowledge are passed on from one generation of employees to the next.
+**5. Design for Autonomy:**
+The Community Gardens pattern is highly compatible with autonomous and distributed systems. Its principles of trust, empowerment, and distributed ownership reduce the need for high coordination overhead, making it a cultural foundation for DAOs or self-managing teams. The focus on cultivating conditions for growth, rather than commanding specific outcomes, aligns perfectly with the logic of decentralized, agent-based systems.
 
-**4. Shared Rights & Responsibilities:**
+**6. Composability & Interoperability:**
+This pattern is explicitly a meta-pattern designed for high composability. The documentation notes its ability to be combined with other organizational patterns like Agile, Lean, or Holacracy. This allows it to serve as a cultural layer that enhances other structural or process-based patterns, enabling the creation of more complex and robust value-creation systems.
 
-The Community Gardens pattern advocates for a more equitable distribution of rights and responsibilities. It challenges the traditional hierarchical model, where power and decision-making are concentrated at the top, and promotes a more decentralized and empowering approach. The principle of "Empower and Distribute Ownership" suggests that employees should have a say in the decisions that affect them, and that they should be given the autonomy and resources they need to do their best work. This can be achieved through a variety of mechanisms, such as self-managing teams, works councils, and employee ownership programs.
+**7. Fractal Value Creation:**
+The pattern has strong fractal properties, as its core logic can be applied at multiple scales. The principles of nurturing growth, fostering diversity, and ensuring a healthy environment apply equally to individuals, teams, departments, and the entire organization. This allows the value-creation logic to scale, creating a coherent and self-reinforcing culture across the whole system.
 
-**5. Systematic Design:**
+**Overall Score: 4 (Value Creation Enabler)**
 
-The Community Gardens pattern is enabled by a variety of systems and processes. These include:
+**Rationale:**
+The Community Gardens pattern is a powerful enabler for resilient collective value creation. It provides a comprehensive mental model and a set of principles that directly address all seven pillars of the v2.0 framework. Its focus on creating the *capability* for value to emerge, rather than simply managing existing resources, is highly aligned with the new commons definition.
 
-*   **Hiring and Onboarding:** Processes that are designed to attract and retain a diverse workforce, and to create a welcoming and inclusive environment for new employees.
-*   **Learning and Development:** Systems that provide employees with opportunities for growth and development, such as coaching, mentoring, and training programs.
-*   **Performance Management:** Systems that are focused on feedback and development, rather than on rating and ranking.
-*   **Compensation and Rewards:** Systems that are fair and transparent, and that recognize and reward both individual and collective contributions.
-*   **Communication and Collaboration:** Systems that facilitate open and honest communication, and that enable collaboration across teams and departments.
-
-**6. Systems of Systems:**
-
-The Community Gardens pattern can be seen as a meta-pattern that can be composed with other organizational patterns. For example, it can be combined with Agile and Lean methodologies to create a more human-centric and adaptive approach to product development. It can be combined with Holacracy and other self-management systems to create a more decentralized and empowering organizational structure. It can also be combined with patterns from the world of community organizing and social movements to create a more purpose-driven and impactful organization.
-
-**7. Fractal Properties:**
-
-The Community Gardens pattern exhibits strong fractal properties. The same principles of cultivating a healthy environment, embracing diversity, nurturing growth, and fostering collaboration can be applied at all levels of the organization, from the individual to the team to the department to the organization as a whole. A healthy team is a microcosm of a healthy organization, and a healthy organization is made up of a network of healthy teams. This fractal nature makes the pattern highly scalable and adaptable to different contexts.
-
-**Overall Score: 4/5 (Commons-Aligned)**
-
-The Community Gardens pattern is highly aligned with the principles of the commons. It promotes a multi-stakeholder perspective, creates multiple forms of value, and fosters a culture of shared ownership and responsibility. It is a powerful framework for creating more human-centric, just, and sustainable organizations. The reason it does not receive a perfect score is that the implementation of the pattern can vary widely. Without a strong commitment to the core principles, the pattern can be co-opted and used to create a superficial sense of community without addressing the underlying power structures and inequalities. To improve its commons alignment, organizations that adopt the Community Gardens pattern should be intentional about creating a more equitable distribution of power and resources, and should be transparent about their progress and challenges.
+**Opportunities for Improvement:**
+- Formalize the Rights and Responsibilities of external stakeholders, such as the environment, local communities, and future generations, to create a more complete stakeholder architecture.
+- Develop concrete metrics for assessing the "health" of the garden, moving beyond metaphor to measurable indicators of value creation capability.
+- Create clearer guidelines for balancing the need for nurturing and growth with the strategic necessity of making hard decisions, such as decommissioning projects or letting people go.
 
 ### 9. Resources & References
 

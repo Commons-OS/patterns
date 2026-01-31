@@ -15,7 +15,7 @@ tags:
   era: [digital]
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -118,8 +118,6 @@ The impact of Open Design can be seen in a growing number of projects and initia
 
 **User Empowerment and Satisfaction:** Open Design empowers users to become active participants in the design process, rather than passive consumers. This can lead to greater user satisfaction, as the final product is more likely to meet their needs and expectations. The co-creation platform Lego Ideas, where users can submit and vote on new Lego set designs, is a prime example of how Open Design can lead to products that are highly desired by the community.
 
-**Social and Environmental Impact:** Open Design has the potential to make a significant social and environmental impact. The rapid and collaborative development of personal protective equipment (PPE) and medical devices during the COVID-19 pandemic demonstrated the power of Open Design to address urgent societal needs. Open-source hardware projects, such as the Open Source Ecology initiative, are developing sustainable technologies that can be built and maintained locally, reducing our reliance on global supply chains and promoting a more circular economy.
-
 **Economic Impact:** While Open Design is often associated with non-commercial projects, it can also have a significant economic impact. Many businesses have built successful business models around open-source software and hardware. By providing services such as support, training, and customization, these businesses are able to generate revenue while still contributing to the open-source community. Red Hat, a leading provider of open-source software solutions, is a prominent example of a successful business built on an open-source foundation.
 
 ## 7. Cognitive Era Considerations
@@ -134,21 +132,40 @@ The Cognitive Era, characterized by the rise of artificial intelligence and othe
 
 **Ethical Considerations:** The use of AI in design also raises a number of ethical considerations. For example, who is responsible for the output of an AI-powered design tool? How can we ensure that AI-powered design tools are used in a responsible and ethical manner? These are complex questions that will require ongoing discussion and debate within the Open Design community.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-This assessment evaluates the alignment of the Open Design pattern with the principles of a commons-based approach. The scoring is on a scale of 1 to 5, where 1 indicates low alignment and 5 indicates high alignment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Score | Justification |
-| :--- | :--- | :--- |
-| **Openness & Transparency** | 4 | Open Design is fundamentally about transparency and the public sharing of information. The degree of openness can vary, but the core principle is to make the design process and its outputs as accessible as possible. |
-| **Participation & Inclusivity** | 4 | The pattern actively encourages participation from a diverse range of stakeholders. The barrier to entry is often low, particularly with the availability of open-source tools and resources. |
-| **Governance** | 3 | Governance models in Open Design projects can vary widely. Some projects have a clear and democratic governance structure, while others may be more centralized or ad-hoc. There is no single, standard governance model. |
-| **Sustainability** | 3 | The sustainability of Open Design projects depends on a variety of factors, including the engagement of the community, the availability of funding, and the long-term viability of the project's goals. While some projects have demonstrated long-term sustainability, others may struggle to maintain momentum. |
-| **Social & Environmental Impact** | 4 | Open Design has the potential to have a significant positive social and environmental impact. By enabling local manufacturing, promoting repair and reuse, and facilitating the development of sustainable technologies, it can contribute to a more equitable and sustainable society. |
-| **Knowledge Sharing** | 5 | Knowledge sharing is a core tenet of Open Design. The pattern is explicitly designed to facilitate the sharing of design information, documentation, and best practices. |
-| **Economic Model** | 2 | The economic models for Open Design are still evolving. While some businesses have built successful models around open-source principles, many Open Design projects are non-commercial and rely on volunteer contributions. This can make it challenging to sustain projects over the long term. |
+**1. Stakeholder Architecture:**
+Open Design defines rights primarily through open-source licenses, which grant broad permissions for use and modification to a wide range of stakeholders, including individuals and organizations. Responsibilities are typically managed through community norms and contribution guidelines rather than formal structures. While the pattern inherently includes human stakeholders, it does not explicitly architect rights and responsibilities for non-human agents like AI or the environment.
 
-**Overall Score: 3.3 / 5**
+**2. Value Creation Capability:**
+The pattern excels at creating collective value beyond direct economic output, particularly in the form of knowledge and social value. By making design processes and artifacts public, it generates a rich commons of shared knowledge that accelerates innovation. The collaborative nature of Open Design also builds strong communities and fosters social capital among participants.
+
+**3. Resilience & Adaptability:**
+Open Design promotes resilience by distributing the design process and making it transparent, reducing reliance on any single entity. Its modular and open nature allows for constant adaptation and evolution, as anyone can fork, modify, and improve upon existing designs. This creates a dynamic system that can respond effectively to changing needs and environmental feedback.
+
+**4. Ownership Architecture:**
+The pattern fundamentally shifts the concept of ownership from exclusive control to a framework of rights and responsibilities defined by contribution and stewardship. Ownership is expressed through open licenses that grant usage rights to all, while often attributing control to key contributors or a core team. This moves beyond monetary equity to a more nuanced, contribution-based model of ownership.
+
+**5. Design for Autonomy:**
+Open Design is highly compatible with autonomous systems, DAOs, and other distributed technologies due to its principles of transparency, modularity, and low coordination overhead. The practice of documenting design processes and decisions openly makes it legible to both human and machine agents. This structure is well-suited for asynchronous, decentralized collaboration, which is a hallmark of autonomous organizations.
+
+**6. Composability & Interoperability:**
+A core strength of Open Design is its inherent composability and interoperability. The use of open standards, modular components, and public documentation allows designs to be easily combined, adapted, and integrated with other open patterns and systems. This enables the construction of larger, more complex value-creation systems from smaller, independent parts.
+
+**7. Fractal Value Creation:**
+The value-creation logic of Open Design is fractal, meaning it can be applied effectively at multiple scales. The same principles of transparency, collaboration, and modularity can structure the design of a small component, a complete product, or a complex, multi-system platform. This scalability allows the pattern to be a foundational element in building nested, resilient value-creation ecosystems.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Open Design is a powerful enabler of collective value creation, providing a foundational layer for transparency, collaboration, and knowledge sharing. It strongly aligns with most pillars of the v2.0 framework, particularly in its ability to foster resilient, adaptable, and interoperable systems. However, it is not a complete architecture in itself, as it often lacks the formal governance structures and sustainable economic models needed for fully resilient value creation.
+
+**Opportunities for Improvement:**
+- Develop clearer and more formalized governance frameworks for Open Design projects to ensure equitable decision-making and stakeholder representation.
+- Explore and document a wider range of sustainable economic models beyond volunteer contributions and service contracts to ensure the long-term viability of projects.
+- Integrate explicit considerations for the rights and responsibilities of non-human stakeholders, such as the environment and AI agents, into the core principles of the pattern.
 
 ## 9. Resources & References
 

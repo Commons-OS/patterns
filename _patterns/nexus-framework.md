@@ -15,7 +15,7 @@ tags:
   era: [digital]
   origin: [scrum.org]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -156,25 +156,40 @@ While there is a growing body of case studies and anecdotal evidence supporting 
 *   **The Rise of the 'AI-Augmented' Nexus Integration Team**: The Nexus Integration Team of the future may be a hybrid team of humans and AI agents, working together to ensure the smooth flow of work through the Nexus.
 *   **A Greater Focus on Value Creation**: By automating many of the routine tasks associated with scaled Agile development, AI will free up teams to focus on what really matters: creating value for the customer. This could lead to a new wave of innovation and a re-imagining of what is possible with scaled Agile frameworks like Nexus.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-**1. Stakeholder Mapping**: The Nexus Framework primarily focuses on stakeholders directly involved in the product development process: the Scrum Teams, the Product Owner, the Nexus Integration Team, and the business stakeholders who provide feedback during the Nexus Sprint Review. While this is comprehensive within its domain, the framework does not explicitly prompt teams to consider a broader set of stakeholders, such as the wider community, the environment, or future generations. The focus remains on delivering value to the customer and the organization.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**2. Value Creation**: Nexus is designed to create economic value by enabling organizations to deliver complex products to market faster and more efficiently. It also creates value for the development teams by providing a more collaborative and less chaotic work environment. The end-users of the product are the primary beneficiaries of the value created, as they receive a higher quality and more frequently updated product. However, the framework's definition of value is primarily economic and does not explicitly consider other forms of value, such as social or environmental value.
+**1. Stakeholder Architecture:**
+The Nexus Framework defines a clear stakeholder architecture centered on product development, including roles like the Product Owner, Scrum Teams, and the Nexus Integration Team. Responsibilities are explicitly assigned to ensure the delivery of an integrated product increment. However, the framework's stakeholder considerations are primarily internal to the development process and do not explicitly extend to broader stakeholders such as the environment, local communities, or future generations.
 
-**3. Value Preservation**: The Nexus Framework has several built-in mechanisms for value preservation. The emphasis on an Integrated Increment and a shared Definition of Done helps to ensure that the product remains in a potentially releasable state at all times. The Nexus Sprint Retrospective provides a formal opportunity for the teams to inspect and adapt their process, which helps to maintain the relevance and effectiveness of the framework over time. The Product Owner is also responsible for continuously prioritizing the Product Backlog to ensure that the teams are always working on the most valuable features.
+**2. Value Creation Capability:**
+Nexus excels at enabling collective economic value creation by scaling Scrum to deliver complex products more effectively. It also generates knowledge value through its emphasis on cross-team collaboration and learning. The framework's focus on a single integrated increment fosters a sense of collective achievement and shared purpose, but it does not explicitly address the creation of social or ecological value.
 
-**4. Shared Rights & Responsibilities**: Nexus clearly defines the responsibilities of the various roles, events, and artifacts. The Product Owner is responsible for the Product Backlog, the Nexus Integration Team is responsible for the Integrated Increment, and the Scrum Teams are responsible for delivering the work. However, the framework is less explicit about the rights of the various stakeholders. While it promotes self-organization and empowerment for the teams, the ultimate authority rests with the Product Owner and the organization's leadership.
+**3. Resilience & Adaptability:**
+Built on the empirical principles of Scrum, Nexus is designed for resilience and adaptability. The framework's events, such as the Nexus Daily Scrum and Nexus Sprint Retrospective, provide regular opportunities for inspection and adaptation, allowing the system to respond to change and maintain coherence under stress. This iterative approach helps the collective of teams to thrive on complexity and continuously improve its processes.
 
-**5. Systematic Design**: The Nexus Framework is a highly systematic design for scaling Scrum. It provides a clear and coherent set of rules, roles, events, and artifacts that are designed to work together to enable multiple teams to deliver an integrated product. The Nexus Guide provides a detailed specification for this system, which makes it relatively easy to understand and implement.
+**4. Ownership Architecture:**
+Ownership in Nexus is defined through clearly articulated responsibilities for the various roles and teams. The Product Owner 'owns' the Product Backlog, and the Nexus Integration Team 'owns' the integration of the work. This is a form of stewardship over different aspects of the value creation process. However, the concept of ownership is not explicitly defined in terms of a broader set of rights and responsibilities beyond the immediate context of product development.
 
-**6. Systems of Systems**: Nexus is a classic example of a system of systems. Each Scrum Team is a system in its own right, and the Nexus Framework provides the structure for these systems to work together as a larger system (the Nexus). The framework is also designed to be extensible and can be combined with other frameworks and practices, such as DevOps and Lean UX.
+**5. Design for Autonomy:**
+Nexus is well-suited for a future of increased autonomy, as it provides a lightweight framework for coordinating the work of multiple autonomous teams. Its emphasis on transparency and self-organization makes it compatible with distributed systems and DAOs. The framework's design, which minimizes coordination overhead while maximizing alignment, is a key enabler for scaling autonomous collaboration.
 
-**7. Fractal Properties**: The core principles of Scrum—transparency, inspection, and adaptation—are fractal and are applied at all levels of the Nexus. The Nexus Daily Scrum is a fractal of the team's Daily Scrum, the Nexus Sprint Review is a fractal of the team's Sprint Review, and the Nexus Sprint Retrospective is a fractal of the team's Sprint Retrospective. This fractal nature helps to ensure that the empirical process control of Scrum is maintained at scale.
+**6. Composability & Interoperability:**
+As an extension of Scrum, Nexus is inherently composable and can be integrated with other patterns and practices like DevOps and Lean UX to create more comprehensive value-creation systems. It is a 'system of systems' that allows for the combination of multiple Scrum teams into a larger, cohesive whole. This modularity enables organizations to adapt the framework to their specific context and needs.
 
-**Overall Score**: 3 (Transitional)
+**7. Fractal Value Creation:**
+The core value-creating logic of Scrum—transparency, inspection, and adaptation—is replicated at all scales within the Nexus framework. The Nexus events are fractal versions of the team-level Scrum events, ensuring that the empirical process is applied to the coordination of the teams as well as the work of the teams themselves. This fractal design allows the value-creation logic to be applied consistently from the individual team to the entire Nexus.
 
-**Rationale**: The Nexus Framework is a powerful tool for scaling Scrum and delivering complex products. It promotes collaboration, transparency, and continuous improvement, which are all aligned with the principles of a commons. However, the framework's primary focus is on creating economic value for the organization and its customers. It does not explicitly encourage teams to consider a broader set of stakeholders or to optimize for social or environmental value. To become more commons-aligned, the Nexus Framework could be extended to include practices for stakeholder mapping, value modeling, and impact assessment that go beyond the immediate economic context.
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Nexus is a powerful enabler of collective value creation, providing a robust architecture for scaling agile development. It strongly aligns with the principles of resilience, adaptability, and composability. While its primary focus is on economic and knowledge value within the product development context, its core logic is highly compatible with a broader commons-based approach. The framework's main gap is its lack of explicit consideration for a wider set of stakeholders and forms of value.
+
+**Opportunities for Improvement:**
+- Integrate practices for mapping and engaging a broader range of stakeholders beyond the immediate product development process.
+- Extend the definition of 'value' to explicitly include social and ecological metrics, alongside economic ones.
+- Develop mechanisms for distributing rights and responsibilities more broadly among all stakeholders, not just the development teams and the Product Owner.
 
 ### 9. Resources & References
 

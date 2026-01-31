@@ -160,25 +160,40 @@ Despite the potential of AI, the uniquely human aspects of traditional governanc
 
 The Cognitive Era will likely accelerate the evolution of African Traditional Systems. As communities become more connected and exposed to new ideas and technologies, they will need to adapt their governance structures to address new challenges and opportunities. There may be a move towards hybrid models of governance that blend traditional and modern institutions, with technology serving as a bridge between the two. For example, blockchain technology could be used to create transparent and secure systems for managing communal land records, while mobile platforms could be used to facilitate community participation in decision-making. The key to a successful evolution will be the ability of traditional systems to embrace innovation while remaining true to their core principles of community, consensus, and social justice.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-**1. Stakeholder Mapping**: African Traditional Systems are inherently stakeholder-focused, with the primary stakeholders being the members of the community. The systems are designed to be inclusive, with mechanisms for all members to participate in decision-making. However, the extent to which all stakeholders are truly represented can vary. In some societies, women, youth, and minority groups may be marginalized. The stakeholder mapping is comprehensive in its focus on the community, but it can be improved by ensuring that all voices within the community are heard and given equal weight.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**2. Value Creation**: These systems create significant social and cultural value. They foster a strong sense of community, preserve cultural heritage, and provide a framework for social cohesion and mutual support. The value created is primarily for the benefit of the community as a whole, rather than for the private gain of individuals. However, the economic value created by these systems is often not well-captured or distributed, and there is a risk that the benefits may be captured by a small elite.
+**1. Stakeholder Architecture:**
+African Traditional Systems define Rights and Responsibilities primarily at the community level, with elders and chiefs holding specific duties. The architecture is inclusive of the collective and considers future generations through practices like communal land tenure. However, it can be weak in formally defining the rights of individuals, machines, or the environment as distinct stakeholders, and historically has marginalized certain human groups like women and youth.
 
-**3. Value Preservation**: Traditional systems are designed for long-term sustainability. The emphasis on intergenerational equity and the communal ownership of resources ensures that the value created is preserved for future generations. The oral traditions and cultural practices of the community are the primary mechanisms for value preservation. However, these systems are vulnerable to external shocks, such as colonialism, globalization, and climate change, which can erode their value over time.
+**2. Value Creation Capability:**
+The pattern excels at creating social, cultural, and resilience value by fostering community cohesion, preserving heritage through oral traditions, and enabling restorative justice. It enables collective value creation beyond simple economic output, focusing on shared identity and well-being. The primary limitation is its focus on subsistence and social harmony, with less developed mechanisms for generating and distributing diverse forms of value in a modern, complex economy.
 
-**4. Shared Rights & Responsibilities**: Rights and responsibilities are widely distributed throughout the community. All members have a right to participate in governance and to share in the benefits of the community's resources. They also have a responsibility to contribute to the well-being of the group and to respect the customs and traditions of the community. However, the distribution of rights and responsibilities is not always equitable, and some members of the community may bear a greater burden than others.
+**3. Resilience & Adaptability:**
+These systems are designed for resilience through stability, continuity, and deep social cohesion, allowing them to maintain coherence under stress. Their adaptability comes from consensus-based decision-making and a holistic worldview. However, this also makes them slow to adapt to rapid, large-scale external changes like globalization or technological disruption, as their core logic is optimized for preserving tradition.
 
-**5. Systematic Design**: African Traditional Systems are highly systematic, with well-defined structures, roles, and processes. The rules of governance are encoded in customary law and are enforced through a system of councils, chiefs, and other traditional authorities. However, these systems are often not well-documented, and their logic may not be immediately apparent to outsiders. This can make them difficult to understand and adapt to changing circumstances.
+**4. Ownership Architecture:**
+The pattern defines ownership primarily as stewardship, with Rights and Responsibilities distributed communally rather than as individual, monetized equity. Land and resources are often held in common for the benefit of present and future generations, representing a sophisticated, non-financial ownership architecture. This approach prevents wealth concentration but can be incompatible with legal systems based on individual private property.
 
-**6. Systems of Systems**: Traditional systems are often part of a larger ecosystem of institutions, both formal and informal. They interact with other traditional systems, as well as with the institutions of the modern state. The relationship between traditional and modern systems is often complex and contested, with both systems competing for legitimacy and authority. There is a need for greater integration and coordination between the two systems to ensure that they are working together for the common good.
+**5. Design for Autonomy:**
+With a high reliance on human-centric, consensus-driven processes, a high coordination overhead, and a logic deeply tied to human interaction, the pattern is not inherently designed for autonomy in the technological sense. While Section 7 notes potential for AI augmentation, the core governance logic is not immediately compatible with DAOs or other automated systems without significant re-interpretation and technological layering.
 
-**7. Fractal Properties**: The core principles of African Traditional Systems, such as community, consensus, and accountability, are fractal in nature. They can be applied at all scales, from the family to the nation. This makes them highly adaptable and resilient. However, the specific practices and institutions of traditional governance can vary widely from one society to another, and what works in one context may not work in another.
+**6. Composability & Interoperability:**
+African Traditional Systems can interoperate with other indigenous governance structures but often face significant friction when interacting with modern state institutions, which operate on a different logic. They are not designed for modularity or “plug-and-play” composability with other patterns outside of their cultural context, limiting their ability to form larger, integrated value-creation systems.
 
-**Overall Score**: 3/5 (Transitional)
+**7. Fractal Value Creation:**
+The core principles of community, consensus, and stewardship are fractal, applying from the family to the clan level. However, the specific implementation of these systems is highly context-dependent and does not easily scale beyond its cultural and geographical boundaries. This limits its ability to create a truly fractal value-creation logic that can be applied universally across different scales and domains.
 
-**Rationale**: African Traditional Systems have many of the characteristics of a commons-based approach to governance. They are community-focused, participatory, and sustainable. However, they also have a number of weaknesses that limit their effectiveness in the modern world. These include a lack of inclusivity, a vulnerability to external shocks, and a lack of resources. To become more fully aligned with the principles of the commons, these systems need to become more inclusive, more resilient, and more integrated with the institutions of the modern state. They also need to find ways to capture and distribute the economic value that they create in a more equitable manner.
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+African Traditional Systems provide a sophisticated architecture for creating social and resilience value, with a strong, non-financial ownership model. However, their focus on preserving tradition over enabling adaptation, high coordination overhead, and limited interoperability with modern systems place them in a transitional category. They have significant potential but require adaptation to align with a resilient, collective value creation framework for the Cognitive Era.
+
+**Opportunities for Improvement:**
+- Develop formal mechanisms to include a wider range of stakeholders, including the environment and digital systems.
+- Create hybrid models that integrate with modern economic and legal systems to enhance value creation and distribution.
+- Digitize oral traditions and customary law to lower coordination overhead and improve interoperability.
 
 ### 9. Resources & References
 

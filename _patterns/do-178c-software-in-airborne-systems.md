@@ -111,56 +111,40 @@ Despite the potential of AI, the human element remains crucial in the DO-178C pr
 
 The increasing use of AI/ML in airborne systems is driving an evolution in the DO-178C framework. The industry is actively working on developing new guidance and standards to address the unique challenges of certifying AI/ML systems. This includes developing methods for verifying and validating the behavior of non-deterministic systems, ensuring the explainability of AI/ML models, and managing the vast amounts of data required to train and test these systems. The future of DO-178C will likely involve a closer integration of AI/ML concepts and a greater emphasis on the use of formal methods and other advanced verification techniques.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-This assessment evaluates the DO-178C standard against the seven dimensions of a commons-aligned pattern. It aims to provide a balanced view of how the standard contributes to or detracts from a commons-based approach to knowledge and practice.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**1. Stakeholder Mapping**:
+**1. Stakeholder Architecture:**
+DO-178C defines a clear but rigid stakeholder architecture focused on ensuring safety within the aviation industry. It assigns specific Rights and Responsibilities to regulatory bodies (e.g., FAA, EASA), aircraft manufacturers, avionics suppliers, and engineers, with the flying public as the primary beneficiary. However, the framework does not explicitly extend its considerations to broader stakeholders such as the environment or future generations, limiting its scope to the immediate human and organizational actors involved in air travel.
 
-The stakeholders in the DO-178C ecosystem are numerous and diverse. They include:
+**2. Value Creation Capability:**
+The pattern excels at creating safety value, a critical public good that underpins the entire aviation industry. It also generates significant economic value by fostering a stable and interoperable market for avionics software. While the standard itself represents a valuable knowledge asset, its proprietary nature restricts the distribution of this knowledge value. The framework's focus is on technical and economic outcomes, with limited mechanisms for creating or measuring social or ecological value beyond the core function of safety.
 
-*   **Regulatory Bodies**: The FAA, EASA, and other national aviation authorities are the primary stakeholders, as they are responsible for ensuring the safety of the flying public.
-*   **Aircraft Manufacturers**: Companies like Boeing and Airbus are major stakeholders, as they are ultimately responsible for the safety and certification of their aircraft.
-*   **Avionics Suppliers**: The entire supply chain of avionics and software providers is directly impacted by the standard.
-*   **Engineers and Developers**: The individuals who design, develop, and test the software are key stakeholders.
-*   **The Flying Public**: The ultimate beneficiaries of the standard are the passengers and crew who rely on the safety of airborne systems.
+**3. Resilience & Adaptability:**
+DO-178C is fundamentally designed to produce resilient systems that maintain coherence under extreme stress, which is essential for safety-critical applications. The standard demonstrates adaptability through its periodic revision process (e.g., the update from DO-178B to DO-178C) and the use of technology-specific supplements to accommodate modern software practices like model-based design. This structured approach allows the framework to evolve and adapt to technological complexity while preserving its core safety principles.
 
-The stakeholder mapping is comprehensive in its focus on safety and the direct participants in the aviation industry. However, it is less inclusive of broader societal stakeholders who may be impacted by the environmental or economic aspects of aviation.
+**4. Ownership Architecture:**
+Ownership within the DO-178C context is defined through the allocation of responsibilities for compliance and the rights of certification authorities to audit and approve software. The intellectual property of the standard itself is owned by RTCA and EUROCAE, making it a proprietary asset that must be purchased. This model of ownership does not extend to a broader conception of stewardship or shared rights and responsibilities beyond the immediate participants in the certification process.
 
-**2. Value Creation**:
+**5. Design for Autonomy:**
+The pattern is inherently compatible with the distributed and complex nature of modern avionics, which are precursors to more autonomous systems. The "Cognitive Era Considerations" section of the pattern explicitly acknowledges the need to adapt to AI and machine learning, indicating a forward-looking perspective on autonomy. However, the high degree of rigor and documentation required can create significant coordination overhead, which may need to be streamlined for more dynamic, AI-driven systems.
 
-DO-178C creates significant value in several forms:
+**6. Composability & Interoperability:**
+High composability and interoperability are core strengths of the DO-178C standard. It is designed to integrate seamlessly with other key aviation standards, such as ARP4754 (systems engineering) and DO-254 (hardware development), creating a comprehensive "system of systems" for assurance. This allows for the modular development and integration of software components from a diverse supply chain, ensuring that they can combine to form a coherent and safe whole.
 
-*   **Safety Value**: The primary value created is the assurance of safety in airborne software systems. This is a public good that benefits everyone who flies.
-*   **Economic Value**: The standard creates economic value by enabling a global market for interoperable and certifiable avionics components. It also reduces the long-term costs associated with software failures and rework.
-*   **Knowledge Value**: The standard itself is a valuable body of knowledge that has been developed and refined over decades. It represents a collective understanding of how to build safe and reliable software.
-
-The value created by DO-178C is primarily captured by the aviation industry and its customers. While the public benefits from the safety it provides, the economic and knowledge value is largely contained within the industry.
-
-**3. Value Preservation**:
-
-DO-178C has a robust process for preserving its value and relevance over time. The standard is periodically updated to reflect changes in technology and best practices. The transition from DO-178B to DO-178C is a clear example of this. The use of supplemental documents, such as those for model-based design and object-oriented technology, allows the standard to adapt to new technologies without requiring a complete rewrite. This evolutionary approach ensures that the standard remains relevant and effective in a rapidly changing technological landscape.
-
-**4. Shared Rights & Responsibilities**:
-
-DO-178C establishes a clear distribution of rights and responsibilities among the various stakeholders. Regulatory bodies have the right to audit and approve software, while manufacturers and suppliers have the responsibility to comply with the standard. Engineers and developers have the responsibility to follow the prescribed processes and to produce high-quality software. However, the rights to the standard itself are held by RTCA and EUROCAE, and the document must be purchased. This limits the accessibility of the standard and can be a barrier to entry for smaller organizations and individuals.
-
-**5. Systematic Design**:
-
-DO-178C is the epitome of a systematically designed process. It provides a complete, end-to-end framework for the software development lifecycle, with well-defined processes, objectives, and artifacts. The standard's emphasis on planning, traceability, and verification ensures that the development process is repeatable, predictable, and auditable. This systematic design is a key factor in the standard's success in ensuring software safety.
-
-**6. Systems of Systems**:
-
-DO-178C is designed to work within a larger 
-system of systems. It is closely integrated with other standards, such as ARP4754 for system-level design and DO-254 for hardware development. This integrated approach ensures that safety is addressed at all levels of the system, from the overall aircraft design down to the individual software and hardware components. The standard's modular and objective-based nature allows it to be composed with other processes and standards, making it adaptable to a wide range of system architectures.
-
-**7. Fractal Properties**:
-
-The principles of DO-178C exhibit fractal properties, as they can be applied at different scales. The core principles of rigor, traceability, and verification are just as relevant to a small, single-purpose software component as they are to a large, complex flight management system. This scalability allows the standard to be applied consistently across the entire software supply chain, ensuring that all components, regardless of their size or complexity, are developed to the same high standards of safety and reliability.
+**7. Fractal Value Creation:**
+The value-creation logic of DO-178C exhibits strong fractal properties. Its core principles of systematic development, risk-based assurance, and end-to-end traceability can be applied consistently at multiple scales, from a single software module to a complex, integrated flight management system. This scalability ensures that the same logic of safety and reliability can be replicated across the entire development ecosystem, from small suppliers to large manufacturers.
 
 **Overall Score: 3 (Transitional)**
 
-DO-178C is a highly effective standard for ensuring the safety and reliability of airborne software. Its systematic design, focus on risk-based assurance, and robust verification processes are exemplary. However, its alignment with a commons-based approach is limited by its proprietary nature and its focus on the aviation industry. While the safety value it creates is a public good, the knowledge and economic value are largely captured by the industry. To become more commons-aligned, the standard could be made more accessible to the public, and its principles could be more actively promoted for adoption in other safety-critical domains. The increasing adoption of DO-178C in other industries is a positive step in this direction, and it demonstrates the potential for the standard to evolve into a more open and widely applicable framework for high-assurance software development.
+**Rationale:**
+DO-178C is a powerful and effective framework for ensuring safety and reliability in a critical, complex industry. It demonstrates strong principles of resilience, composability, and fractal design. However, its alignment as a value creation architecture is limited by its proprietary nature, which restricts knowledge sharing, and a stakeholder architecture that is narrowly focused on the aviation industry. It is considered "Transitional" because while it excels at creating safety value, it requires adaptation to embrace a broader definition of value and a more open, inclusive stakeholder model.
+
+**Opportunities for Improvement:**
+- Develop a more accessible, open-source version of the standard's core principles to encourage wider adoption and innovation in other safety-critical domains.
+- Expand the stakeholder model to formally include considerations for environmental impact and the long-term well-being of future generations.
+- Create mechanisms to better capture and distribute the knowledge value generated by the standard, potentially through public-private partnerships or educational initiatives.
 
 ### 9. Resources & References
 

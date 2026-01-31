@@ -1,216 +1,863 @@
 ---
-id: pat_01kg5023ygez1924mkvcfssvhq
-page_url: https://commons-os.github.io/patterns/ecodesign/
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/ecodesign.md
-slug: ecodesign
-title: Ecodesign
-aliases: []
-version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
-tags:
-  universality: 3
-  domain: design
-  category: [framework, methodology, practice]
-  era: [industrial, digital]
-  origin: []
-  status: draft
-  commons_alignment: 3
-commons_domain: business
-generalizes_from: []
-specializes_to: []
-enables: []
-requires: []
-related: []
-contributors: [higgerix, cloudsters]
-sources: []
-license: CC-BY-SA-4.0
-attribution: Commons OS distributed by cloudsters, https://cloudsters.net
-repository: https://github.com/commons-os/patterns
+title: 'Level 1>$section>$unit>ecodesign'
+commons_alignment: 4
+separator: <!--s-->
+verticalSeparator: <!--v-->
+theme: moon
+revealOptions:
+    transition: 'convex'
+    backgroundTransition: 'fade'
+    viewDistance: 5
+    center: false
+    overview: true
+    touch: true
+    progress: true
+    controls: true
+    controlsTutorial: true
+    controlsLayout: 'bottom-right'
+    help: true
+    mouseWheel: true
+    slideNumber: 'c/t'
+    autoSlide: 15000
+    width: '102%'
+    height: '102%'
+    margin: 0
+    minScale: 1.000000e-01
+    maxScale: 3
+    display: 'block'
+    transitionSpeed: 'default'
 ---
-
-# 1. Overview
-
-Ecodesign is a proactive approach to product and service development that integrates environmental considerations into the earliest stages of the design process. The fundamental goal of ecodesign is to minimize the negative environmental impact of a product throughout its entire life cycle, from the extraction of raw materials to manufacturing, distribution, use, and eventual disposal or recovery. This holistic perspective, often referred to as life cycle thinking, is central to the ecodesign methodology. By embedding sustainability into the core of design, ecodesign seeks to create products and services that are not only functional and economically viable but also environmentally responsible.
-
-The concept of ecodesign emerged from a growing awareness of the environmental consequences of industrial production and consumption. It represents a shift from the traditional, linear model of "take, make, dispose" to a more circular approach that emphasizes resource efficiency, waste reduction, and the creation of closed-loop systems. Ecodesign is not a single, rigid methodology but rather a framework of principles and practices that can be adapted to various industries and product categories. It encourages designers and engineers to think creatively about how to reduce material and energy consumption, extend product lifespans, and design for disassembly, reuse, and recycling.
-
-# 2. Core Principles
-
-The practice of ecodesign is guided by a set of core principles that provide a framework for making environmentally responsible design decisions. These principles are interconnected and often work in synergy to achieve the overarching goal of minimizing environmental impact. While the specific application of these principles may vary depending on the product or service in question, they represent the fundamental tenets of the ecodesign philosophy.
-
-<br>
-
-<table header-row="true">
-  <tr>
-    <td>Principle</td>
-    <td>Description</td>
-  </tr>
-  <tr>
-    <td>Life Cycle Thinking</td>
-    <td>This is the cornerstone of ecodesign. It involves considering the entire life cycle of a product, from the extraction and processing of raw materials to manufacturing, distribution, use, and end-of-life management (disposal, recycling, or reuse). By taking a holistic view, designers can identify and address potential environmental impacts at each stage.</td>
-  </tr>
-  <tr>
-    <td>Resource and Energy Efficiency</td>
-    <td>Ecodesign prioritizes the efficient use of resources, including materials, water, and energy. This principle encourages the development of products that consume fewer resources during their manufacture and use. It also promotes the use of renewable energy sources in the production process.</td>
-  </tr>
-  <tr>
-    <td>Sustainable Material Selection</td>
-    <td>The choice of materials has a significant impact on the environmental footprint of a product. Ecodesign advocates for the use of materials that are renewable, recycled, or have a lower environmental impact compared to conventional materials. This includes considering factors such as the energy required to produce the material, its toxicity, and its biodegradability.</td>
-  </tr>
-  <tr>
-    <td>Design for Disassembly, Reuse, and Recycling</td>
-    <td>To facilitate the transition to a circular economy, ecodesign emphasizes the importance of designing products that can be easily disassembled at the end of their life. This allows for the recovery of valuable materials and components for reuse or recycling, thereby reducing waste and the demand for virgin resources.</td>
-  </tr>
-  <tr>
-    <td>Minimization of Hazardous Substances</td>
-    <td>Ecodesign seeks to eliminate or reduce the use of hazardous substances in products and manufacturing processes. This not only minimizes the environmental risks associated with the product's life cycle but also protects the health of workers and consumers.</td>
-  </tr>
-  <tr>
-    <td>Durability and Longevity</td>
-    <td>In contrast to the throwaway culture of planned obsolescence, ecodesign promotes the creation of durable and long-lasting products. By extending the lifespan of products, ecodesign reduces the need for frequent replacements, thereby conserving resources and reducing waste.</td>
-  </tr>
-</table>
-
-# 3. Key Practices
-
-Ecodesign is put into action through a variety of key practices that translate the core principles into tangible design strategies. These practices are not mutually exclusive and are often used in combination to achieve the desired environmental performance. The selection and application of these practices depend on the specific context of the product or service being designed, including its function, target market, and the available technologies and resources.
-
-One of the most fundamental practices is the **integration of environmental criteria into the design process**. This involves establishing clear environmental goals and targets at the outset of a project and using them to guide decision-making throughout the design and development process. This can be facilitated by the use of ecodesign tools and methodologies, such as life cycle assessment (LCA), which provides a systematic way to evaluate the environmental impacts of a product at each stage of its life cycle.
-
-Another key practice is the **optimization of the product architecture**. This involves designing the product in a way that minimizes material and energy consumption, facilitates repair and maintenance, and enables easy disassembly for recycling or reuse. This can be achieved through modular design, which allows for individual components to be replaced or upgraded without having to discard the entire product.
-
-**Material and process selection** is also a critical practice in ecodesign. This involves choosing materials and manufacturing processes that have a lower environmental impact. For example, designers may opt for recycled or bio-based materials instead of virgin materials, or they may choose a manufacturing process that is more energy-efficient and generates less waste.
-
-**Communication and collaboration** are also essential practices for successful ecodesign. This includes communicating the environmental benefits of the product to consumers, as well as collaborating with suppliers, manufacturers, and other stakeholders to ensure that the entire value chain is aligned with the principles of ecodesign. By working together, stakeholders can identify opportunities for improvement and drive innovation in sustainable design.
-
-# 4. Application Context
-
-Ecodesign is a versatile framework that can be applied across a wide range of industries and product categories. Its principles and practices are not limited to a specific sector but can be adapted to any context where products and services are designed and developed. The application of ecodesign is particularly relevant in industries with a significant environmental footprint, such as manufacturing, construction, and electronics.
-
-In the **manufacturing sector**, ecodesign can be used to develop products that are more resource-efficient, durable, and recyclable. This can involve redesigning products to use less material, incorporating recycled content, and designing for easy disassembly. For example, a furniture manufacturer might use ecodesign principles to create a chair that is made from sustainably sourced wood and can be easily taken apart for recycling at the end of its life.
-
-In the **construction industry**, ecodesign can be applied to the design of buildings and infrastructure to reduce their environmental impact. This can include using sustainable building materials, designing for energy efficiency, and incorporating renewable energy systems. For example, an architect might use ecodesign principles to design a building with a green roof, passive solar heating, and a rainwater harvesting system.
-
-In the **electronics industry**, ecodesign is crucial for addressing the growing problem of electronic waste. By designing electronic products that are more durable, repairable, and recyclable, manufacturers can extend the lifespan of their products and reduce the amount of waste that ends up in landfills. For example, a smartphone manufacturer might use ecodesign principles to create a phone with a modular design that allows for easy replacement of the battery and other components.
-
-The application of ecodesign is not limited to physical products. It can also be applied to the design of **services and systems**. For example, a transportation company might use ecodesign principles to develop a more efficient and sustainable logistics system, or a software company might design a cloud-based service that minimizes energy consumption.
-
-# 5. Implementation
-
-The successful implementation of ecodesign requires a systematic and integrated approach that involves the entire organization. It is not simply a matter of applying a checklist of environmental criteria but rather a fundamental shift in the way products and services are designed and developed. The implementation process can be broken down into several key stages, from planning and goal setting to continuous improvement.
-
-The first stage is **planning and scoping**. This involves defining the scope of the ecodesign project, identifying the key environmental issues to be addressed, and setting clear goals and targets. This stage also involves securing the commitment of top management and allocating the necessary resources for the project.
-
-The second stage is **analysis and assessment**. This involves conducting a thorough analysis of the environmental impacts of the existing product or service throughout its life cycle. This can be done using tools such as life cycle assessment (LCA), which provides a quantitative assessment of the environmental impacts associated with each stage of the product's life.
-
-The third stage is **design and development**. This is where the creative work of ecodesign takes place. Based on the results of the analysis and assessment, designers and engineers can develop new design concepts that address the identified environmental issues. This may involve exploring alternative materials, redesigning the product architecture, or developing new manufacturing processes.
-
-The fourth stage is **testing and validation**. This involves testing the new design concepts to ensure that they meet the desired environmental and performance criteria. This may involve creating prototypes, conducting user testing, and performing further environmental assessments.
-
-The final stage is **launch and monitoring**. Once the new design has been validated, it can be launched into the market. However, the implementation process does not end there. It is important to monitor the environmental performance of the product throughout its life cycle and to use this information to identify opportunities for further improvement. This continuous improvement cycle is a key element of the ecodesign philosophy.
-
-# 6. Evidence & Impact
-
-The adoption of ecodesign practices has a demonstrable positive impact on both the environment and the economy. By systematically reducing the environmental footprint of products and services, ecodesign contributes to the conservation of natural resources, the mitigation of climate change, and the reduction of pollution. The evidence for the effectiveness of ecodesign can be seen in the growing number of companies that have successfully integrated this approach into their business strategies and the increasing body of research that documents its benefits.
-
-One of the most significant impacts of ecodesign is the **reduction of greenhouse gas emissions**. By designing products that are more energy-efficient and by using renewable energy in the manufacturing process, companies can significantly reduce their carbon footprint. For example, a study by the European Commission found that ecodesign measures for products such as refrigerators, washing machines, and televisions have led to substantial energy savings and a corresponding reduction in CO2 emissions [1].
-
-Ecodesign also has a positive impact on **resource efficiency**. By designing products that use less material, incorporate recycled content, and are designed for disassembly and reuse, companies can reduce their demand for virgin resources and minimize waste. This not only has environmental benefits but can also lead to cost savings. For example, a company that redesigns its packaging to use less material will not only reduce its environmental impact but also save money on material and transportation costs [2].
-
-In addition to the environmental and economic benefits, ecodesign can also have a positive impact on **brand reputation and customer loyalty**. In an increasingly environmentally conscious market, consumers are more likely to choose products from companies that demonstrate a commitment to sustainability. By communicating the environmental benefits of their products, companies can differentiate themselves from their competitors and build stronger relationships with their customers [3].
-
-The impact of ecodesign is not limited to individual companies. It also has the potential to drive systemic change at the industry and societal levels. By promoting the development of more sustainable products and services, ecodesign can help to create a more circular economy where resources are used more efficiently and waste is minimized.
-
-# 7. Cognitive Era Considerations
-
-The transition to the Cognitive Era, characterized by the proliferation of artificial intelligence (AI), machine learning, and other cognitive technologies, presents both new challenges and opportunities for ecodesign. As these technologies become increasingly integrated into our daily lives, it is crucial to consider their environmental impact and to apply the principles of ecodesign to their development and deployment.
-
-The environmental impact of cognitive technologies stems primarily from the significant energy consumption of the data centers that power them. The training of large-scale AI models, for example, can require massive amounts of computational power and electricity. Therefore, a key consideration for ecodesign in the Cognitive Era is the development of more energy-efficient AI algorithms and hardware. This includes exploring new approaches to model training, such as federated learning, which can reduce the need for large, centralized data centers.
-
-Another important consideration is the **life cycle of AI systems**. This includes not only the energy consumed during their operation but also the environmental impact of the hardware on which they run. Ecodesign principles can be applied to the design of AI hardware to make it more durable, repairable, and recyclable. This can help to reduce the growing problem of electronic waste.
-
-In addition to mitigating the negative environmental impacts of cognitive technologies, ecodesign can also be used to leverage their power for positive environmental change. For example, AI can be used to optimize energy consumption in buildings, improve the efficiency of transportation systems, and develop new solutions for environmental monitoring and conservation. By integrating ecodesign principles into the development of these applications, we can ensure that they are not only effective but also environmentally responsible.
-
-The Cognitive Era also raises new ethical and social considerations for ecodesign. As AI systems become more autonomous, it is important to ensure that they are aligned with human values and that they do not have unintended negative consequences for society or the environment. This requires a new, more holistic approach to ecodesign that takes into account not only the environmental but also the social and ethical dimensions of technology.
-
-# 8. Commons Alignment Assessment
-
-The Commons Alignment Assessment evaluates the degree to which a pattern aligns with the principles of commons-based peer production. This assessment is based on seven key dimensions, each of which represents a core aspect of a thriving commons. The following table provides an assessment of the Ecodesign pattern against these dimensions, with a score from 1 to 5 for each dimension, where 1 indicates low alignment and 5 indicates high alignment.
-
-<br>
-
-<table header-row="true">
-  <tr>
-    <td>Dimension</td>
-    <td>Score</td>
-    <td>Justification</td>
-  </tr>
-  <tr>
-    <td>Openness and Transparency</td>
-    <td>4</td>
-    <td>Ecodesign promotes transparency by encouraging the disclosure of information about the environmental impact of products. However, the degree of openness can vary depending on the specific implementation.</td>
-  </tr>
-  <tr>
-    <td>Participation and Contribution</td>
-    <td>3</td>
-    <td>While ecodesign can be a collaborative process, it does not inherently require broad participation from a diverse community. The level of participation depends on the organizational context in which it is applied.</td>
-  </tr>
-  <tr>
-    <td>Shared Resources and Governance</td>
-    <td>2</td>
-    <td>Ecodesign is primarily focused on the design of individual products and services and does not directly address the creation and governance of shared resources.</td>
-  </tr>
-  <tr>
-    <td>Circularity and Sustainability</td>
-    <td>5</td>
-    <td>This is the core of the ecodesign pattern. It is explicitly focused on promoting the sustainable use of resources and the creation of circular systems.</td>
-  </tr>
-  <tr>
-    <td>Social and Economic Equity</td>
-    <td>3</td>
-    <td>Ecodesign can contribute to social and economic equity by creating more sustainable and resilient communities. However, this is not always a primary focus of the pattern.</td>
-  </tr>
-  <tr>
-    <td>Modularity and Forkability</td>
-    <td>4</td>
-    <td>Ecodesign encourages modular design to facilitate repair, reuse, and recycling. This inherent modularity also makes it easier to adapt and customize products and services.</td>
-  </tr>
-  <tr>
-    <td>Community and Culture</td>
-    <td>3</td>
-    <td>Ecodesign can foster a culture of sustainability and environmental responsibility within an organization. However, it does not necessarily lead to the creation of a broader community around the product or service.</td>
-  </tr>
-</table>
-
-<br>
-
-**Overall Commons Alignment Score: 3**
-
-The overall Commons Alignment Score is the average of the scores for each dimension. In the case of Ecodesign, the overall score is 3, which indicates a moderate level of alignment with the principles of commons-based peer production. While the pattern is highly aligned with the dimension of Circularity and Sustainability, it is less aligned with the dimensions of Shared Resources and Governance and Participation and Contribution. This suggests that while ecodesign is a valuable tool for promoting environmental sustainability, it may need to be complemented with other patterns to fully realize the potential of a commons-based approach.
-
-# 9. Resources & References
-
-[1] European Commission. (n.d.). *Ecodesign for Sustainable Products Regulation*. Retrieved from https://commission.europa.eu/energy-climate-change-environment/standards-tools-and-labels/products-labelling-rules-and-requirements/ecodesign-sustainable-products-regulation_en
-
-[2] Greenly. (2023, December 27). *What is Ecodesign?*. Retrieved from https://greenly.earth/en-us/blog/industries/what-is-ecodesign
-
-[3] Ansys. (n.d.). *What is Eco Design?*. Retrieved from https://www.ansys.com/simulation-topics/what-is-eco-design
-
-[4] Wikipedia. (n.d.). *Ecological design*. Retrieved from https://en.wikipedia.org/wiki/Ecological_design
-
-[5] INDEED Innovation. (2024, June 20). *Eco-Design Principles for Digital Products*. Retrieved from https://www.indeed-innovation.com/the-mensch/eco-design-principles-for-digital-products/
-
-[6] Microsoft. (n.d.). *The Principles of Sustainable Software Engineering*. Retrieved from https://learn.microsoft.com/en-us/training/modules/sustainable-software-engineering-overview/
+___
+## ecodesign
+### Sandra Domenek
+___
+    version: production (0.335)
+    date: October 07, 2024
+    content: 39 slides
+    class: Level 1>$section>$unit>ecodesign
+    title: ecodesign
+    source: ecodesign.pptx
+    hash: 
+    contact: olivier.vitrac@agroparistech.fr
+note: ##### [15:54:25 - 07/10/2024]olivi@LX-Olivier2020> pptx2reveal_v2 with the following parameters: 
+ |   **parameter**  | **value**  |
+ | --------------: | -------- |
+|   `wwwroot`:   |   ` /home/olivi/Bulk/fitness2022/conversion/output/www`   |
+|   `wwwrel`:   |   ` AgroParisTech/Level 1`   |
+|   `wwwlib`:   |   ` src5.3`   |
+|   `pptxfolder`:   |   ` /home/olivi/Bulk/fitness2022/conversion/source/lectures/ecodesign`   |
+|   `pptx`:   |   ` ecodesign.pptx`   |
+|   `imfolder`:   |   ` src_ecodesign`   |
+|   `imsourcefolder`:   |   ` ecodesign`   |
+|   `impat`:   |   ` Slide*.jpg`   |
+|   `svgpat`:   |   ` Slide*.svg`   |
+|   `author`:   |   ` Sandra Domenek`   |
+|   `contact`:   |   ` olivier.vitrac@agroparistech.fr`   |
+|   `YAMLtitle`:   |   ` Level 1>$section>$unit>ecodesign`   |
+|   `title`:   |   ` ecodesign`   |
+ | `vrsn`: |   ` 0.335`   |
+|   `mdfile`:   |   ` ecodesign.md`   |
+|   `projectname`:   |   ` ecodesign`   |
+|   `theme`:   |   ` moon`   |
+|   `resize`:   |   ` 1200x675`   |
+ | `initialscale`: |   ` 0.8`   |
+ | `maximumscale`: |   ` 2`   |
+|   `userscalable`:   |   ` yes`   |
+|   `headingshift`:   |   ` `   |
+|   `headingshiftnotes`:   |   ` ##`   |
+ | `mainfontsize`: |   ` 32`   |
+ | `fontsize`: |   ` 0.8`   |
+|   `hash`:   |   ` `   |
+ | `maxtitle`: |   ` 120`   |
+ | `maxcontentslide`: |   ` 12`   |
+|   `favicon`:   |   ` /Data/olivi/Bulk/fitnessII/conversion/template/favicon/favicon.ico`   |
+|   `mainindex`:   |   ` `   |
+|   `dependencymain`:   |   ` index.html`   |
+|   `imformatpreferred`:   |   ` svg`   |
+|   `svgmaxsize`:   |   ` 1024 KB`   |
+|   `pdf`:   |   ` ecodesign.pdf`   |
+<!--v-->---
+# CONTENT
+---
+*  [1/39] [Slide 01/39](#/1)
+*  [2/39] [Eco-design](#/2)
+*  [3/39] [Introduction to eco -design](#/3)
+*  [4/39] [Definition and legal framework](#/4)
+*  [5/39] [Eco-design for - sustainable products regulation](#/5)
+*  [6/39] [Eco-design for - sustainable products regulation](#/6)
+*  [7/39] [Characteristics of the eco-design approach](#/7)
+*  [8/39] [Environmental impacts](#/8)
+*  [9/39] [Calculation of the reduction of environmental impact](#/9)
+*  [10/39] [Fundamental principles](#/10)
+*  [11/39] [Evolution of freedom in the design process](#/11)
+*  [12/39] [Eco-design](#/12)
+<!--v-->---
+# CONTENT (Cont'ed)
+---
+*  [13/39] [Innovative design](#/13)
+*  [14/39] [Innovative design c-k theory](#/14)
+*  [15/39] [Innovative design c-k theory](#/15)
+*  [16/39] [Design process](#/16)
+*  [17/39] [Principles of creative problem solving](#/17)
+*  [18/39] [Eco-design](#/18)
+*  [19/39] [Eco-design tools generative tools](#/19)
+*  [20/39] [Qualitative rules “of the thumb”](#/20)
+*  [21/39] [Some rules of the thumb for packaging](#/21)
+*  [22/39] [The 12 principles of green chemistry](#/22)
+*  [23/39] [Eco-design lids wheel](#/23)
+*  [24/39] [Ecodesign tools - evaluative tools](#/24)
+<!--v-->---
+# CONTENT (Cont'ed)
+---
+*  [25/39] [Some tips for the use of evaluative tools](#/25)
+*  [26/39] [Life cycle assessment (lca)](#/26)
+*  [27/39] [Key notions of lca](#/27)
+*  [28/39] [Key notions of eco-design / lca](#/28)
+*  [29/39] [Key notions of eco-design / lca](#/29)
+*  [30/39] [Elements of lca](#/30)
+*  [31/39] [Lca difficulties to be considered](#/31)
+*  [32/39] [Shifting burdens issue](#/32)
+*  [33/39] [Simplified qualitative assessment of - life cycle - sqalc](#/33)
+*  [34/39] [Guidelines](#/34)
+*  [35/39] [Circular economy – circularity indicators](#/35)
+*  [36/39] [Choice of indicators](#/36)
+<!--v-->---
+# CONTENT (Cont'ed)
+---
+*  [37/39] [Structure of mass flow indicators](#/37)
+*  [38/39] [Slide 38/39](#/38)
+*  [39/39] [Slide 39/39](#/39)
+<!--s-->
+# slide 01/39
+![Slide1.svg](./src_ecodesign/Slide1.svg  "slide 1 of 39") 
+note: 
 
 ---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 01/39        |     2777     |          0           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     1_Vide     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
 
-## Navigation
 
-- **Page URL**: [https://commons-os.github.io/patterns/domain/ecodesign/](https://commons-os.github.io/patterns/domain/ecodesign/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/ecodesign.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/ecodesign.md)
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Eco-design
+![Slide2.svg](./src_ecodesign/Slide2.svg  "slide 2 of 39") 
+note: ### Eco-design
+### Programme: Introduction to eco-design Innovative design Eco-design tools Generative tools Evaluative tools - Circularity indicators
+2
 
 ---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 02/39        |     2780     |          3           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     title only     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
 
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Introduction to eco -design
+![Slide3.svg](./src_ecodesign/Slide3.svg  "slide 3 of 39") 
+note: ### Introduction to eco -design
+### Espace réservé du texte 2 What is eco-design for? Espace réservé du texte 2 Protection of the environment Innovative advantage Compliance with and anticipation of legislation Growing marked demand of environmentally friendly products Enhancing enterprise's image Redesign of industrial processes, reduce manufacturing and logistics costs Detection of new opportunities for value creation Set apart from competitors Develop new markets of higher added value Stimulate innovation - Credits : Ecodesign Today, Wordpress
+3
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 03/39        |     2785     |          4           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     title only     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Definition and legal framework
+![Slide4.svg](./src_ecodesign/Slide4.svg  "slide 4 of 39") 
+note: ### Definition and legal framework
+### Espace réservé du texte 2 Eco-design, also known as ecological design, sustainable design, or responsible design, emerges as a desire to create products while respecting the principles of sustainable development. This holistic approach incorporates the notion of environmental protection from the conception of goods to their end-of-life, including responsible waste management. Eco-design considers all stages of the life of a product or service, from production to use to distribution to end-of-life management. The term Eco-design is very intertwined with the EU Framework established in 2005: the European Eco-design Directive. The Eco-design Directive wants to make durable and sustainable products the norm. It was first developed for energy-consuming products, providing Eco-design rules to limit the energy consumption of electronics. Its rules now expand to other branches under the “Eco-design for - Sustainable Products Regulation” (ESPR) which entered into force in 2024.
+4
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 04/39        |     2794     |          3           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     title only     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Eco-design for - Sustainable Products Regulation
+![Slide5.svg](./src_ecodesign/Slide5.svg  "slide 5 of 39") 
+note: ### Eco-design for Sustainable Products Regulation
+### Objective: Setting of performance and information conditions (eco-design requirements) for almost all categories of physical goods (with some exceptions, such as food and feed, as defined in Regulation 178/2002). Eco-design objectives: Improve product durability, reusability, upgradability and reparability Make products more energy and resource-efficient Address the presence of substances that inhibit circularity Increase recycled content Make products easier to remanufacture and recycle Set rules on carbon and environmental footprints Improve the availability of information on product sustainability - For groups of products that share sufficient common characteristics, the framework enables the establishment of horizontal rules.
+https://commission.europa.EU/energy-climate-change-environment/standards-tools-and-labels/products-labelling-rules-and-requirements/ecodesign-sustainable-products-regulation_en
+5
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 05/39        |     2800     |          4           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     title only     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Eco-design for - Sustainable Products Regulation
+![Slide6.svg](./src_ecodesign/Slide6.svg  "slide 6 of 39") 
+note: ### Eco-design for Sustainable Products Regulation
+### Specific measures concern: Digital product passport Rules to addres s destruction of unsold consumer goods - Green public procurement
+https://commission.europa.EU/energy-climate-change-environment/standards-tools-and-labels/products-labelling-rules-and-requirements/ecodesign-sustainable-products-regulation_en
+6
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 06/39        |     2806     |          4           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     title only     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Characteristics of the eco-design approach
+![Slide7.svg](./src_ecodesign/Slide7.svg  "slide 7 of 39") 
+note: ### Characteristics of the eco-design approach
+### Espace réservé du texte 2 Eco-design is a “multi-step” and “multi-criteria” analysis. It is a design approach taking into consideration the environmental impacts of the product during its whole lifecycle. The objective is to reduce ecological footprint of a product at equal functionality or equal service delivered. Espace réservé du texte 2 Keep in mind that each step of the lifecycle is source of impact(s). -&gt; For optimization it is necessary to have a holistic, integrative point of view .
+Van Hemel, C. G. (1998), EcoDesign empirically explored, Design for environment in Dutch small and medium sized enterprises, Delft, Delft University of - Technology .
+7
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 07/39        |     2812     |          4           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     title only     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Environmental impacts
+![Slide8.svg](./src_ecodesign/Slide8.svg  "slide 8 of 39") 
+note: ### Environmental impacts
+1- There are different types of environmental impacts: depletion of natural resources, global warming, water pollution, air pollution, soil pollution, etc. 2- The environmental impacts of a product can be generated during the different stages of the life cycle: production, transport, distribution, use, end of life. 3- There is no "zero impact" product : any product needs raw materials and energy, must be packaged and transported, will become waste.
+8
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 08/39        |     2821     |          3           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     text     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Calculation of the reduction of environmental impact
+![Slide9.svg](./src_ecodesign/Slide9.svg  "slide 9 of 39") 
+note: ### Calculation of the reduction of environmental impact
+I Impact PS Product system: all products necessary for one service FU Elementary functional unit - In conclusion: It is sufficient to reduce at least one impact without increasing or creating another.
+I’ FU(i) (PS version A’) &lt; I FU(i) (PS version A)
+Credits: Ventère, 2012, Techniques de l’Ingénieur, [G 6000]
+Eco-design needs to be evidenced by the analysis and quantification of the environmental impact. Such as:
+9
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 09/39        |     2826     |          6           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     text     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Fundamental principles
+![Slide10.svg](./src_ecodesign/Slide10.svg  "slide 10 of 39") 
+note: ### Fundamental principles
+Every improvement of ecological quality should be done, even if small Use life-cycle thinking and multi-criteria analysis to prevent shifting ecological burdens from one step to one other Define the functions of the product with regards to the service for the user - Use « ecological common sense » Quantify ecological impacts
+10
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 10/39        |     2834     |          3           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     text     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Evolution of freedom in the design process
+![Slide11.svg](./src_ecodesign/Slide11.svg  "slide 11 of 39") 
+
+note: Evolution of freedom in the design process commentaire
+/explication du graphique: prendre les mesures dépuis le début. Mettre en valeur les outilq
+à utiliser
+depuis le début: generative: expliquer les outils generaitces Auteur Sandra, development stages of a product: de
+
+### Evolution of freedom in the design process TIME Early Development Stages Late Development Stages Degree of Freedom Cost of - Change Environmental Lock-In GENERATIVE EVALUATIVE TOOLS AND MODELS
+In the design process, freedom and cost are related. This diagram illustrates the cost of changes to design processes across various stages. The earlier one starts the eco-design process, the better. Making design changes in the late stages incurs higher costs.
+Eco-design can apply to a product at any stage of its development. In the early design phase, innovative design tools are used to shift perspectives and generate new concepts. In the later development phases, the focus shifts to optimizing existing processes. Various tools support the design process: in the early stages, generative tools and models are applied, while in the later stages, evaluative tools and models are adapted.
+11
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 11/39        |     2839     |          4           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     text     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Eco-design
+![Slide12.svg](./src_ecodesign/Slide12.svg  "slide 12 of 39") 
+note: ### Eco-design
+### Programme: Introduction to eco -design Innovative design Eco-design tools Generative tools Evaluative tools - Circularity indicators
+12
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 12/39        |     2856     |          3           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     title only     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Innovative design
+![Slide13.svg](./src_ecodesign/Slide13.svg  "slide 13 of 39") 
+note: ### Innovative design
+### Espace réservé du texte 2 Unlike redesign, innovative design implies a paradigm shift that requires inventing new systems or products. To achieve this, it is necessary: Redefining what one seeks to create as a service, a function... This requires exploring the expectations of the needs of the people (customers but not only producers, processors...) who will be affected by this innovation . To move from a knowledge exploitation mode (I mobilize the knowledge that I have or that my group has) to a mode of exploration of knowledge : to go in search of knowledge that exists but which I do not have and therefore I do not think to mobilize or identify the knowledge that needs to be created to achieve innovation. The conceptual framework for innovative design is the C-K theory . www.ck-theory.org
+13
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 13/39        |     2861     |          3           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     title only     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Innovative design C-K theory
+![Slide14.svg](./src_ecodesign/Slide14.svg  "slide 14 of 39") 
+note: ### Innovative design C-K theory
+### Espace réservé du texte 2 C-K theory describes and explains the reasoning of a designer as he thinks of and designs a new object – a new product, service, or process. In addition to its explanatory power, this theoretical framework provides powerful generative mechanisms to overcome cognitive obstacles, thus improving our ability to innovate. C-K theory relies on the interaction between two spaces: the C oncept and the K nowledge spaces. THE C-SPACE The map of all possibilities This is the space where you can imagine and explore new concepts, which can sometimes seem impossible, crazy or insane. Contrary to what one might think, this space is very structured: ideas are broken down and represented in the form of a concept tree. THE K-SPACE The knowledge library - This is the space where you put all the knowledge you use or need to imagine or design new concepts. Since a new idea never comes from nowhere: it is a combination of things you know, you have seen, read or heard. Espace réservé du texte 2 www.ck-theory.org
+14
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 14/39        |     2867     |          3           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     title only     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Innovative design C-K theory
+![Slide15.svg](./src_ecodesign/Slide15.svg  "slide 15 of 39") 
+note: ### Innovative design C-K theory
+### Innovative proposition can be widened by acquired knowledge From: Wikipedia: C-K theory by - Armand Hatchuel Existing and acquired knowledge helps to formulate propositions; knowledge acquisition is driven by novel product propositions
+15
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 15/39        |     2875     |          3           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     title only     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Design process
+![Slide16.svg](./src_ecodesign/Slide16.svg  "slide 16 of 39") 
+note: ### Design process – Creative problem solving
+In each step: Divergent and convergent thinking. Divergent phase: Collect all individual ideas Convergent phase: Elaborate collective synthesis and idea selection
+Never mix up task 1 and 2 ! They are strictly separated in time.
+Method from Alex Osborn and - Sid Parnes
+16
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 16/39        |     2888     |          5           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     text     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Principles of creative problem solving
+![Slide17.svg](./src_ecodesign/Slide17.svg  "slide 17 of 39") 
+note: ### Principles of creative problem solving
+Source: INRAE – Formations on creative problem solving – L. Prevosto From the theory of Alex Osborne - Applied Imagination: Principles and Procedures of Creative Problem Solving. New York, NY: Charles Scribner’s Sons, 1953 Espace réservé du texte 2 Brainstorming techniques: Techniques to change context for idea generation: Inspiration by images - Changing context: In the future, in a space capsule, …. Writing of constraint texts ….
+Ask problems as questions. Open-ended questions generate more answers, problem statements tend to generate limited responses . Defer or suspend judgment in divergent phases. Early judging solutions early on tends to shut down idea generation. In convergent phases time is given to evaluate ideas. Focus on "Yes, and," rather than "No, but." "Yes, and" encourages to expand thoughts. "But" – even if preceded by "yes" ends conversation and can negates previous ideas. Balance divergent and convergent thinking and separate those processes.
+17
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 17/39        |     2895     |          4           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     text     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Eco-design
+![Slide18.svg](./src_ecodesign/Slide18.svg  "slide 18 of 39") 
+note: ### Eco-design
+### Programme: Introduction to eco-design Innovative design Eco-design tools Generative tools Evaluative tools - Circularity indicators
+18
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 18/39        |     2902     |          3           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     title only     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Eco-design Tools Generative tools
+![Slide19.svg](./src_ecodesign/Slide19.svg  "slide 19 of 39") 
+
+note: Ajouter check list: 5 R
+
+### Eco-design Tools Generative tools
+### Espace réservé du texte 2 Generative tools aim to steer the design process by incorporating principles, checklists, and guidelines. These are beneficial for integrating sustainability considerations at the forefront during the design and ideation phases. They aid in idea generation. Often require a high level of expertise. Attention should be paid to avoiding cherry-picking !
+19
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 19/39        |     2907     |          3           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     title only     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Qualitative rules “of the thumb”
+![Slide20.svg](./src_ecodesign/Slide20.svg  "slide 20 of 39") 
+note: ### Qualitative rules “of the thumb”
+6 “R”s Rethink product and its functions Repair (design for easy repairing) Replac e harmful substances - Reuse (ease disassembly, return and use again) Reduce energy, materials, … Recycle (use recycled materials, design for recycling)
+20
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 20/39        |     2915     |          3           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     text     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Some rules of the thumb for packaging
+![Slide21.svg](./src_ecodesign/Slide21.svg  "slide 21 of 39") 
+note: ### Some rules of the thumb for packaging
+Use less material (thinner packaging with adapted performance) Increase shelf-life of products (re-use pallets and interlayers) Decrease use of high-energy and water consuming products Design for improved end-of-life management Decrease voids: adapt packaging height, improve stacking ability, … Optimize palletization plans Reduce wastes from laize edges and thermoforming Minimize size of labels Optimize grouping packages - Compare technical specifications of suppliers and look for innovations
+21
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 21/39        |     2927     |          3           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     Titre et contenu     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# The 12 principles of green chemistry
+![Slide22.svg](./src_ecodesign/Slide22.svg  "slide 22 of 39") 
+note: ### The 12 principles of green chemistry
+### from Anastas et Warner, 1998
+1: Thou shall avoid waste 2: Thou shall design safe products (avoid toxicity) 3: Thou shall design safe processes (avoid hazardous syntheses leaving toxic waste and by-products) 4: Thou shall use renewable feedstocks (rather than depleting ones) 5: Thou shall use catalysts rather than stoichiometric reagents 6: Thou shall avoid temporary modifications (protection – deprotection steps) 7: Thou shall incorporate all material in thy product (avoid atom waste) 8: Thou shall use safe reaction conditions (avoid solvents, or use innocuous ones) 9: Thou shall optimize energy efficiency (ambient temperature and pressure whenever possible) 10: Thou shall keep end of life in mind 11: Thou shall prevent pollution 12: Thy products shall be safe (minimize potential for chemical accidents, explosions, fires…) Similar lists: Ten Golden Rules, Design for - Environment Principles De Koeijer, Pack Tech &amp; Sci, 2017
+22
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 22/39        |     2933     |          4           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     title only     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Eco-design Lids wheel
+![Slide23.svg](./src_ecodesign/Slide23.svg  "slide 23 of 39") 
+
+note: Lids wheel organizes those lists in what needs do be thought on at what stage
+
+### Eco-design Lids wheel
+### 1
+2
+3
+4
+5
+6
+7
+0
+0/ New Concept Development Functional optimization Dematerialization or optimization of product mass Integration of functions
+1/ Selection of low-impact materials Renewable, non-hazardous materials Low energy-content materials Recycled materials
+3/ Optimization of production techniques Low/clean energy consumption Low generation of wastes Fewer production steps Alternative processes
+5/ Reduction of ecological impact at use Few energy/material consumption during use No auxiliary energy/material use
+6/ Optimization of initial lifetime Reliability and durability Modular structure, classic design Easy maintenance and repair, user taking care
+7/ Optimization of end-of-life system Recover materials, reuse, recycle, optimize waste treatment (incineration, composting,...)
+2/ Reduction of materials Weight reduction Transport volume reduction
+4/ Optimization of distribution processes Efficient logistics Optimized transport system (transport packaging)
+Single use products
+Durable products
+Concept Brezet &amp; van Hemel, 1997, adapted from - Aguledo 2016, PhD Thesis, DOI 10.13140/RG.2.2.36786.61126
+23
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 23/39        |     2940     |          21           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     title only     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Ecodesign tools - Evaluative tools
+![Slide24.svg](./src_ecodesign/Slide24.svg  "slide 24 of 39") 
+
+note: Ajouter check list: 5 R
+
+### Ecodesign tools Evaluative tools
+### Espace réservé du texte 2 Evaluative tools aim to evaluate the environmental impact related to the product or service. Espace réservé du texte 2 Life cycle assessment-based methods - Require relatively precise specifications. Effective in later stages of development processes when environmental commitment is already relatively high. Useful as a comparison tool for specific design decisions. Cannot be used as standalone front-end design tool.
+24
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 24/39        |     2968     |          3           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     title only     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Some tips for the use of evaluative tools
+![Slide25.svg](./src_ecodesign/Slide25.svg  "slide 25 of 39") 
+
+note: What indicators are proposed
+
+### Some tips for the use of evaluative tools Environmental and resource indicators Waste GHG emissions Pollution,... Economy Full distribution costs External costs partly included Social elements Not included Combined system packaging and product Both systems included Whole life cycle considered Distribution chain from production to user Product loss considered Product loss included if data are available Product protection Product protection considered User Friendliness User friendliness considered Market acceptance Market acceptance considered Feedback for users : Useful for giving new design directions Working in cross functional teams and along the supply chain rises awareness - Confidentiality issues can be solved by third-parties
+25
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 25/39        |     2978     |          2           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     text     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Life Cycle Assessment (LCA)
+![Slide26.svg](./src_ecodesign/Slide26.svg  "slide 26 of 39") 
+note: ### Life Cycle Assessment (LCA)
+### Reduction of environmental impacts needs to be quantified. -&gt; LCA provides evidence for eco-design. LCA methodological tool that applies life cycle thinking in a quantitative way on environmental analysis of activities related to processes or products (goods and services). A central characteristic of LCA is the holistic focus on products or processes and their functions, considering upstream and downstream activities procedures are part of the ISO 14000 environmental management standards: in ISO 14040:2006 and 14044:2006.
+Source: European Commission LCA Info Hub: http://lca.jrc.EC.europa.EU/lcainfohub/introduction.vm### For detailed information see lecture on LCA .
+26
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 26/39        |     2983     |          5           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     title only     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Key notions of LCA
+![Slide27.svg](./src_ecodesign/Slide27.svg  "slide 27 of 39") 
+note: ### Key notions of LCA
+Functional unit Quantitative expression of a service unit Includes time necessary for a given service In case quantification difficult to obtain, use of a reference unit Example: Painting: cover 20 m 2 of a normalized surface with opacity higher than 98 % and without cracks for 10 years under UV light without weather exposure. Shampooing: wash middle long hair and obtain sensorially appreciated smooth effect for 12 hours in temperate climate (4 hours outside in urban environment and 8 h inside) Difficulty: how to obtain a norm quantity? -&gt; least bad choice: approximately 8 mL, being average quantity of consumers poured in their hand during washing giving rise to a reference unit. Product lifetime - Lifetime of the product itself, not service time!
+Source: Ventère, 2012, Techniques de l’Ingénieur, [G 6000]
+27
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 27/39        |     2990     |          4           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     text     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Key notions of eco-design / LCA
+![Slide28.svg](./src_ecodesign/Slide28.svg  "slide 28 of 39") 
+note: ### Key notions of eco-design / LCA
+Environmental impacts Elementary flow Environmental impact Carbon Petrol Water … Depletion of non renewable resources CFC CO 2 NO X … Depletion of ozone layer Greenhouse effect Climate change INPUTS OUTPUTS
+Source: Ventère, 2012, Techniques de l’Ingénieur, [G 6000] LCA Conversion of elementary flows to impacts - One flow can have multiple impacts
+28
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 28/39        |     2996     |          4           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     text     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Key notions of eco-design / LCA
+![Slide29.svg](./src_ecodesign/Slide29.svg  "slide 29 of 39") 
+note: ### Key notions of eco-design / LCA
+System boundaries
+Source: Ventère, 2012, Techniques de l’Ingénieur, [G 6000]
+Inputs: depletion of natural resources
+Outputs: emissions into water, soil, air, landfill - From the resource to the landfill, including transport, neglecting initial investments (such as construction of industrial sites, roads…)
+Consideration electrical power by initial transformation of matter into power (combustion)
+Elementary flows of matter
+29
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 29/39        |     3017     |          9           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     text     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Elements of LCA
+![Slide30.svg](./src_ecodesign/Slide30.svg  "slide 30 of 39") 
+note: ### Elements of LCA
+Goal and scope definition defines the goal and intended use of the LCA, and scopes the assessment concerning system boundaries, function and flow, required data quality, technology and assessment parameters. Life Cycle Inventory analysis, LCI, is an activity for collecting data on inputs (resources and intermediate products) and outputs (emissions, wastes) for all the processes in the product system. Life Cycle Impact Assessment, LCIA, is the phase of the LCA where inventory data on inputs and outputs are translated into indicators about the product system's potential impacts on the environment, on human health, and on the availability of natural resources. Interpretation is the phase where the results of the LCI and LCIA are interpreted according to the goal of the study and where sensitivity and uncertainty analysis are performed to qualify the results and the conclusions.
+Sources: European Commission LCA Info Hub: http://lca.jrc.EC.europa.EU/lcainfohub/introduction.vm### Rousseaux, 2005, Techniques de l'ingénieur, ref . G5500
+30
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 30/39        |     3033     |          4           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     text     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# LCA difficulties to be considered
+![Slide31.svg](./src_ecodesign/Slide31.svg  "slide 31 of 39") 
+note: ### LCA difficulties to be considered
+Availability and quality of data scarcely measured If measured, often confidential If available, often aggregated Uncertainties not known…. Allocation of impacts in case of Co-productions Co-treatments Revalorizations Methodological issues Integration of spatio -temporal factors - Improvement of impact indicators Toxicity, ecotoxicity, biodiversity, water depletion…
+Co-production Co-treatment revalorization
+Sources: Rousseaux, 2005, Techniques de l'ingénieur, ref . G5500 Schneider, 1998, Techniques de l'ingénieur, ref . G5550
+31
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 31/39        |     3039     |          5           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     text     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Shifting burdens issue
+![Slide32.svg](./src_ecodesign/Slide32.svg  "slide 32 of 39") 
+note: ### Shifting burdens issue
+### Source: European Commission LCA Info Hub http://lca.jrc.EC.europa.EU/lcainfohub/introduction.vm
+The "shifting of burdens" issue: Including the whole life cycle helps ensure that no environmental burdens are shifted to other life phases, i.e. it is avoided that improvements in one part of the life cycle (e.g. production) lead to even higher impacts in other parts of the same life cycle (e.g. the product use), and vice versa. At the same time, an LCA helps to identify and avoid the shifting of burdens among different impacts, as it can and should consider in parallel effects on e.g. Climate Change, Acidification, Summer Smog, Natural Resource Consumption etc.
+32
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 32/39        |     3053     |          4           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     title only     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Simplified qualitative assessment of - Life Cycle - SQALC
+![Slide33.svg](./src_ecodesign/Slide33.svg  "slide 33 of 39") 
+
+note: Simplified one point assesssment
+
+### Simplified qualitative assessment of Life Cycle - SQALC
+Selective and qualitative method for single point assessment used for selective improvement Assessment steps Qualitative assessment be questionnaires Quantitative assessment of hot spots of step 1 by indicators Product mass Energy content Energy consumption - Recyclability Generated pollution,... Recommendations
+Example of available tools: Ecodesign Pilot - TU Wien PIQET – Packaging Impact Quick Evaluation Tool
+Svanes, Pack Technol &amp; Sci, 2010
+33
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 33/39        |     3059     |          5           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     text     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Guidelines
+![Slide34.svg](./src_ecodesign/Slide34.svg  "slide 34 of 39") 
+note: ### Overview of tools for eco-design at different levels of expertise and moments in the design process
+Source: Bellini, Janin, 2011, Techniques de l’Ingénieur, [G 6010]
+34
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 34/39        |     3066     |          3           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     text     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Circular economy – circularity indicators
+![Slide35.svg](./src_ecodesign/Slide35.svg  "slide 35 of 39") 
+note: ### Circular economy – circularity indicators
+Indicator types
+M. Saidani et al. / Journal of Cleaner Production 207 (2019) 542e559
+Examples Ellen MacArthur Foundation, 2015, https:// ellenmacarthurfoundation.org / resources / circulytics / overview - Material Circularity Indicator (MCI) Evans and Bocken, 2015, http:// circulareconomytoolkit.org / Toolkit.html Circular Economy Toolkit
+35
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 35/39        |     3117     |          5           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     text     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Choice of indicators
+![Slide36.svg](./src_ecodesign/Slide36.svg  "slide 36 of 39") 
+note: ### Choice of indicators - Project of Université Saclay / Centrale- Supelec http:// www.circulareconomyindicators.com / cpitool.php
+36
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 36/39        |     3126     |          3           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     text     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# Structure of mass flow indicators
+![Slide37.svg](./src_ecodesign/Slide37.svg  "slide 37 of 39") 
+note: ### Structure of mass flow indicators
+Overall material flow circulation ratio:
+Overall material flow circulation ratio:
+the higher, the more efficient - Virtanen et al, J. Cleaner Production, 2019, 20, 1020
+37
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 37/39        |     3132     |          6           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     text     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# slide 38/39
+![Slide38.svg](./src_ecodesign/Slide38.svg  "slide 38 of 39") 
+note: 
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 38/39        |     3143     |          0           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     1_Vide     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--s-->
+# slide 39/39
+![Slide39.svg](./src_ecodesign/Slide39.svg  "slide 39 of 39") 
+note: 
+
+---
+|     **name**     |   **id**   | **number of objects** |      **date PPTx (name)**       |
+| :--------------: | :--------: | :-------------------: | :-----------------------------: |
+|        slide 39/39        |     3146     |          0           |            October 07, 2024 (ecodesign.pptx)            |
+| **slide master** | **layout** |       **style**       | **date of conversion (engine)** |
+|        Nouvelle présentation        |     1_Vide     |                     |             Oct 07, 2024 (extractTXTfromPPT)             |
+
+
+content provided AS IS - [report a problem](mailto:olivier.vitrac@agroparistech.fr)
+<!--v-->---
+# Thank you for your attention.
+---
+###  Use this link to go back to the first slides
+*  >  [first slide](#/)
+ 
+*  >  [logo slide](#/1)
+ 
+*  >  [content slide](#/0/2)
+ 
+*  >  [title slide](#/2)
+ 
+---
+####  report issues to [Olivier Vitrac](mailto:olivier.vitrac@agroparistech.fr)
+
+
+### 8. Commons Alignment Assessment (v2.0)
+
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
+
+**1. Stakeholder Architecture:**
+The ecodesign pattern implicitly defines a multi-stakeholder architecture by considering the entire product lifecycle, involving designers, manufacturers, consumers, and regulators. The EU's Ecodesign for Sustainable Products Regulation (ESPR) formalizes responsibilities for producers, but the rights and responsibilities of other stakeholders, particularly the environment and future generations, are addressed as outcomes rather than core architectural principles.
+
+**2. Value Creation Capability:**
+Ecodesign excels at creating multi-faceted value. It generates ecological value through resource efficiency, waste reduction, and pollution prevention. Economic value is realized through cost savings, new market opportunities, and enhanced brand reputation. Socially, it responds to the growing demand for sustainable products and promotes corporate responsibility, while the use of tools like Life Cycle Assessment (LCA) builds knowledge value.
+
+**3. Resilience & Adaptability:**
+The pattern fosters resilience by promoting the design of durable, repairable, and upgradable products, which allows systems to better withstand supply chain disruptions and resource scarcity. Its emphasis on modularity and continuous improvement through tools like the Lids wheel enables adaptability to evolving environmental regulations, technological advancements, and consumer needs.
+
+**4. Ownership Architecture:**
+While not explicitly redefining ownership, ecodesign shifts the concept from a purely transactional view to one of stewardship. By emphasizing the entire product lifecycle and advocating for circularity, it embeds a sense of responsibility for the product's end-of-life into the ownership model, moving beyond mere monetary equity.
+
+**5. Design for Autonomy:**
+The principles of ecodesign, such as modularity, standardization, and clear information (e.g., Digital Product Passport), are highly compatible with autonomous systems. These principles can facilitate automated manufacturing, repair, and recycling processes, and could be managed by DAOs or other distributed systems with low coordination overhead.
+
+**6. Composability & Interoperability:**
+Ecodesign is a highly composable pattern that can be integrated with numerous other frameworks to build larger value-creation systems. It naturally complements patterns like the circular economy, open-source hardware, and various sustainable business models. The use of standardized methodologies like LCA ensures a degree of interoperability and shared understanding across different applications.
+
+**7. Fractal Value Creation:**
+The core logic of ecodesign—minimizing environmental impact while maximizing value—is fractal and can be applied at various scales. It is effective from the level of a single component to a complex product, a service, a business model, and even urban planning, demonstrating its scalability.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Ecodesign is a powerful enabler of collective value creation, providing a robust framework and practical tools for reducing environmental impact and fostering a circular economy. It strongly aligns with the principles of Commons OS v2.0, but it is more of a design philosophy and methodology than a complete, self-contained value creation architecture. Its primary focus is on the 'how' of sustainable production, and it requires integration with other patterns to fully realize a commons-based system.
+
+**Opportunities for Improvement:**
+- Explicitly define the rights and responsibilities of all stakeholders, including the environment and future generations, within the ecodesign framework.
+- Develop more explicit models of ownership that formalize the stewardship responsibilities of producers and consumers.
+- Strengthen the integration with digital technologies like blockchain and DAOs to enhance transparency, traceability, and autonomous management of ecodesigned products and systems.

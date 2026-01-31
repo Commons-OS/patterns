@@ -15,7 +15,7 @@ tags:
   era: [digital]
   origin: [jim-highsmith, sam-bayer]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -91,26 +91,42 @@ A manufacturing company used ASD to develop a new supply chain management system
 
 In the Cognitive Era, where artificial intelligence and machine learning are becoming increasingly prevalent, the principles of Adaptive Software Development are more relevant than ever. The ability to adapt to rapid technological change and evolving customer expectations is a key determinant of success in the digital economy. ASD provides a framework for building intelligent systems that can learn and adapt over time. The methodology's emphasis on continuous learning and experimentation is well-suited for developing AI-powered applications where the optimal solution is not known in advance. Furthermore, the collaborative nature of ASD is essential for bringing together the diverse skills and expertise needed to build complex cognitive systems. As AI becomes more integrated into software development, the principles of ASD will continue to provide a valuable guide for navigating the challenges and opportunities of the Cognitive Era.
 
-### 8. Commons Alignment Assessment (600-800 words)
+### 8. Commons Alignment Assessment (v2.0)
 
-Adaptive Software Development (ASD) exhibits a moderate alignment with the principles of a commons-based approach to organizing and creating value. The methodology's emphasis on collaboration, self-organization, and knowledge sharing resonates with the core tenets of the commons. However, ASD is primarily a project management framework and does not explicitly address issues of ownership, governance, and distribution of value, which are central to the commons.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**Alignment with Commons Principles:**
+**1. Stakeholder Architecture:**
+Adaptive Software Development (ASD) defines stakeholders primarily as the project team, customers, and managers. The rights and responsibilities are centered around active collaboration, feedback, and collective problem-solving within the project's scope. It does not, however, explicitly extend its stakeholder architecture to include non-human agents, the environment, or future generations, focusing on the immediate value creation process.
 
-*   **Collaboration and Peer Production:** ASD is highly aligned with the principle of collaboration. The methodology is built on the idea of a self-organizing team that works together to solve problems and create value. This collaborative approach is similar to the peer production model that is common in commons-based projects.
-*   **Knowledge Sharing:** The "learn" phase of the ASD lifecycle is a powerful mechanism for knowledge sharing. By reflecting on the results of each iteration and sharing their insights, team members can collectively build their understanding of the project and the technology. This practice is consistent with the open and transparent nature of commons-based knowledge creation.
-*   **Permissionless Participation:** While ASD teams are typically composed of a dedicated group of individuals, the methodology does not preclude the possibility of broader participation. The iterative and feature-based nature of ASD makes it possible for new contributors to join the project and quickly become productive.
+**2. Value Creation Capability:**
+ASD excels at creating knowledge and social value through its collaborative and learning-oriented approach. The primary focus is on delivering functional software features that provide economic value to the customer. While it fosters a strong sense of shared purpose and collective achievement, it does not inherently address broader ecological or systemic value creation beyond the software product itself.
 
-**Areas of Misalignment:**
+**3. Resilience & Adaptability:**
+This is the core strength of ASD. The methodology is explicitly designed to thrive on change and adapt to complexity, making it highly resilient. The "Speculate-Collaborate-Learn" cycle provides a robust framework for navigating uncertainty and maintaining coherence under the stress of evolving requirements and market conditions.
 
-*   **Ownership and Governance:** ASD does not prescribe a particular model of ownership or governance. In most cases, the software developed using ASD is owned by the organization that funded the project. This is in contrast to commons-based projects, where the output is typically owned by the community and governed by a set of shared rules.
-*   **Distribution of Value:** ASD does not address the issue of how the value created by the project should be distributed. In a corporate setting, the value is typically captured by the shareholders. In a commons-based project, the value is shared among the contributors and the broader community.
+**4. Ownership Architecture:**
+ASD is agnostic about ownership architecture. It is a development methodology that can be applied within various ownership structures, from proprietary corporate environments to open-source projects. It does not define ownership as a set of rights and responsibilities beyond the conventional model of the organization funding the project owning the output.
 
-**Overall Assessment:**
+**5. Design for Autonomy:**
+The principles of ASD, such as self-organizing teams and iterative development, make it highly compatible with autonomous systems, DAOs, and other distributed forms of organization. Its low coordination overhead and emphasis on mission-driven autonomy align well with the needs of AI-powered and decentralized systems. The pattern is well-suited for developing systems that can operate with a high degree of autonomy.
 
-Adaptive Software Development can be seen as a valuable tool for building and managing commons-based projects. The methodology's emphasis on collaboration, learning, and adaptation can help to create a dynamic and resilient community of contributors. However, to fully align with the principles of the commons, ASD would need to be supplemented with a clear framework for ownership, governance, and value distribution. With a commons alignment score of 3, ASD represents a solid starting point for organizations that are looking to adopt a more collaborative and community-oriented approach to software development.
+**6. Composability & Interoperability:**
+ASD is a high-level methodology that is highly composable with other patterns and practices. It can be integrated with technical practices from other Agile methodologies like Extreme Programming (XP) or used within larger project management frameworks. Its principles are general enough to be combined with other patterns to create more comprehensive value-creation systems.
 
-### 9. Resources & References (200-400 words)
+**7. Fractal Value Creation:**
+The core value-creation logic of ASD, embodied in the "Speculate-Collaborate-Learn" cycle, is fractal. It can be applied at multiple scales, from a single development team to an entire organization. This allows for the creation of a nested system of adaptive value creation, where the same principles guide behavior at all levels of the system.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+ASD is a powerful enabler of collective value creation, particularly in complex and uncertain environments. Its emphasis on resilience, adaptability, and collaborative learning aligns strongly with the principles of a commons. However, it falls short of being a complete value creation architecture because it does not explicitly address the broader stakeholder and ownership dimensions of a commons.
+
+**Opportunities for Improvement:**
+- Explicitly incorporate a broader range of stakeholders, including non-human agents and the environment, into the development process.
+- Integrate a flexible governance model that allows for different forms of ownership and value distribution, beyond the traditional corporate structure.
+- Develop practices for assessing and enhancing the social and ecological value created by the software, in addition to its economic value.
+
+
 
 For those interested in learning more about Adaptive Software Development, there are a number of excellent resources available. The following books, articles, and websites provide a comprehensive overview of the methodology and its application in practice.
 

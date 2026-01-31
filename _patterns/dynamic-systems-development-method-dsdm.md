@@ -108,9 +108,40 @@ DSDM employs a set of key practices that bring its principles to life. These pra
 
 - **Evolution Outlook**: As AI and automation become more sophisticated, it is likely that DSDM will continue to evolve. We may see the emergence of new tools and techniques that further automate the DSDM process, and we may also see a greater emphasis on the use of data and analytics to drive decision-making. However, the core principles of DSDM, such as its focus on business value, its iterative and collaborative approach, and its commitment to quality, are likely to remain as relevant as ever.
 
-### 8. Commons Alignment Assessment (600-800 words)
+### 8. Commons Alignment Assessment (v2.0)
 
-1.  **Stakeholder Mapping**: DSDM provides a detailed and explicit mapping of stakeholder roles, including the Executive Sponsor, Visionary, Ambassador User, and Advisor User. This ensures that a wide range of perspectives are included in the project. However, the focus is primarily on internal stakeholders and users of the system. The framework does not explicitly call for the inclusion of broader community or societal stakeholders who may be impacted by the project.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
+
+**1. Stakeholder Architecture:**
+DSDM defines clear Rights and Responsibilities for project-level stakeholders through roles like 'Visionary' and 'Ambassador User,' ensuring business and user needs are represented. However, its architecture is limited to the immediate project ecosystem, lacking explicit consideration for broader societal, ecological, or future-generational stakeholders whose rights are not formally integrated into the process.
+
+**2. Value Creation Capability:**
+The framework is explicitly designed to create business value by aligning project delivery with strategic goals and delivering functional systems early. While this ensures economic and functional value, it does not inherently guide the creation of other forms of value, such as social, ecological, or systemic resilience, which are treated as secondary at best.
+
+**3. Resilience & Adaptability:**
+Resilience is a core strength of DSDM, achieved through iterative development, timeboxing, and MoSCoW prioritization, which allow projects to adapt to changing requirements under fixed constraints. This builds systemic resilience at the project level by ensuring a functional, high-quality system is always delivered, maintaining coherence under the stress of uncertainty.
+
+**4. Ownership Architecture:**
+Ownership in DSDM is implicitly defined through roles and responsibilities related to project delivery and decision-making, rather than equity or asset ownership. The 'Business Sponsor' owns the business case, and users take ownership of requirements, but the framework does not address the ownership of the value created post-project or the architecture of the system's long-term stewardship.
+
+**5. Design for Autonomy:**
+DSDM's structured yet agile nature makes it compatible with distributed teams and potentially DAOs, as roles and responsibilities are clearly defined. While its emphasis on continuous communication can create coordination overhead, the framework's principles of empowerment and iterative development support autonomous work within defined boundaries, making it adaptable for human-machine collaboration.
+
+**6. Composability & Interoperability:**
+DSDM is highly composable, often used as a project management 'wrapper' for other development methods like Scrum or XP. This demonstrates its ability to interoperate with other patterns to build larger, more comprehensive value-creation systems, providing a governance layer that can connect different operational frameworks.
+
+**7. Fractal Value Creation:**
+The core logic of DSDM—prioritizing value delivery within fixed constraints—can be applied fractally from individual work packages to large-scale programs. A program can be a timebox containing smaller project timeboxes, each with their own prioritized deliverables, allowing the value-creation logic to scale across an organization.
+
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+DSDM is a robust project delivery framework that strongly enables adaptive and resilient processes, which are foundational to a Commons. However, its definition of 'value' is narrowly focused on business and functional outcomes, and its stakeholder architecture is confined to the project's immediate participants. It has significant potential to be a transitional pattern for building Commons but requires adaptation to broaden its scope of value creation and stakeholder engagement.
+
+**Opportunities for Improvement:**
+- Integrate a broader stakeholder analysis practice, explicitly including roles for community, environmental, or future-generation representatives.
+- Expand the MoSCoW prioritization technique to include non-economic value dimensions, such as social impact, knowledge creation, or ecological benefit.
+- Develop a 'post-project' stewardship model that defines the long-term ownership and governance of the value created by the system.
 
 2.  **Value Creation**: The primary focus of DSDM is on creating value for the business. The first principle of DSDM is to "Focus on the business need," and the framework is designed to ensure that projects are aligned with strategic business goals. While this can lead to the creation of valuable products and services, the value is primarily measured in economic terms. The framework does not explicitly consider other forms of value, such as social or environmental value.
 

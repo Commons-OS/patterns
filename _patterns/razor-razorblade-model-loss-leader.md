@@ -15,7 +15,7 @@ tags:
   era: [industrial, digital]
   origin: [gillette, standard-oil]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 1
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -216,3 +216,38 @@ The razor-razorblade model is a classic example of a transitional business model
 ---
 
 *Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
+
+### 8. Commons Alignment Assessment (v2.0)
+
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
+
+**1. Stakeholder Architecture:**
+The Razor-Razorblade model establishes a rigid architecture of Rights and Responsibilities that heavily favors the producer. The producer retains the Right to all value generated from the recurring sale of proprietary consumables, while the customer has a Responsibility to purchase these consumables to continue using the initial product. This model does not inherently account for the Rights of other stakeholders, such as the environment, which is often negatively impacted by the disposal of proprietary, non-interoperable components.
+
+**2. Value Creation Capability:**
+Value creation is narrowly defined in economic terms and is primarily extractive, benefiting the producer. While it provides initial value to the customer through a low-cost entry point, this is often offset by high long-term costs for consumables. The model actively discourages the creation of collective value, such as knowledge sharing (through repair or modification) or ecological value, by design.
+
+**3. Resilience & Adaptability:**
+The pattern creates a resilient revenue stream for the producer by enforcing customer lock-in, but it reduces the resilience and adaptability of the customer and the broader ecosystem. Customers become dependent on a single supplier, making them vulnerable to price increases, supply chain disruptions, or product discontinuation. The system is designed to resist change and complexity, rather than thriving on it, by preventing interoperability with third-party components.
+
+**4. Ownership Architecture:**
+Ownership is defined in a traditional, monetary sense, where the customer owns a physical product but lacks the full Rights associated with it. The producer retains de facto control over the product's utility through intellectual property and proprietary design, effectively limiting the customer's Right to repair, modify, or use the product with components from other sources. This contradicts the commons principle of defining ownership as a broader bundle of Rights and Responsibilities.
+
+**5. Design for Autonomy:**
+This pattern is fundamentally incompatible with autonomous systems, DAOs, and distributed architectures. Its core logic is based on centralized control and dependency, creating a high coordination overhead for the customer who must source specific, proprietary consumables. It actively works against the principles of autonomy and distributed governance by creating a walled garden controlled by a single entity.
+
+**6. Composability & Interoperability:**
+The Razor-Razorblade model is the antithesis of composability and interoperability. Its success relies on creating a closed ecosystem where the core product is intentionally incompatible with third-party consumables. This prevents the pattern from being combined with other systems or patterns to build larger, more diverse value-creation networks.
+
+**7. Fractal Value Creation:**
+While the business logic of the model can be applied at multiple scales (from individual products to large-scale industrial systems), the value it creates is not fractal in a commons sense. The pattern replicates a logic of extraction and centralized control at every scale, rather than a logic of generative and distributed value creation. It creates fractal patterns of dependency, not empowerment.
+
+**Overall Score: 1 (Legacy / Not Aligned)**
+
+**Rationale:**
+The Razor-Razorblade model is a legacy, industrial-era pattern designed for vendor lock-in and centralized profit extraction. Its core principles of proprietary design, customer lock-in, and preventing interoperability are fundamentally misaligned with the Commons OS v2.0 framework, which emphasizes distributed value creation, stakeholder equity, and system resilience.
+
+**Opportunities for Improvement:**
+- Redesign the system to use open standards for consumables, allowing for a competitive and resilient market that benefits both consumers and third-party producers.
+- Shift the business model from profiting on captive consumables to offering value-added services or subscriptions that enhance the user experience.
+- Embrace "Right to Repair" principles by making the core product easily repairable and providing access to parts and documentation, fostering a culture of maintenance and longevity.

@@ -15,7 +15,7 @@ tags:
   era: [industrial, cognitive]
   origin: [academic, healthcare]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: ["pat_01kg50240gfv9r5nq18d4pn699"]
 specializes_to: []
@@ -125,11 +125,40 @@ Shared governance in healthcare is a professional practice model that fundamenta
 
 *   **Human-Machine Balance:** While AI can provide valuable insights, the core of shared governance remains uniquely human. The collaborative dialogue, critical thinking, and relationship-building that are essential to shared governance cannot be automated. The role of technology is to augment, not replace, the human element of shared decision-making.
 
-*   **Evolution Outlook:** In the cognitive era, shared governance is likely to become even more data-driven and agile. With the help of AI and other technologies, councils will be able to make more informed decisions and respond more quickly to changing patient needs and organizational priorities. The focus will be on creating a learning health system where data and evidence are seamlessly integrated into the decision-making process at all levels of the organization.
+*   **Evolution Outlook:** In the cognitive era, shared governance is likely to become even more data-driven and agile. With the help of AI and other technologies, councils will be able to make more informed decisions and respond more quickly to changing patient needs and organizational priorities. The focus will be on creating a learning health system where data and evidence are seamlessly integrated into the decision-making process at all levels of the organization.### 8. Commons Alignment Assessment (v2.0)
 
-### 8. Commons Alignment Assessment
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-1.  **Stakeholder Mapping:** Shared governance in healthcare primarily focuses on internal stakeholders, particularly nurses and other clinical staff. While the ultimate beneficiary is the patient, the model's direct participants are the healthcare professionals. The inclusion of interdisciplinary teams broadens the stakeholder map, but the primary focus remains on the internal professional community.
+**1. Stakeholder Architecture:**
+The pattern establishes a clear stakeholder architecture by distributing rights and responsibilities between frontline clinical staff and organizational leaders. It defines nurses as key stakeholders with decision-making authority over their practice, fostering a partnership model rather than a hierarchical one. However, the primary focus is on internal human stakeholders (staff, management) and implicitly on patients, with less explicit consideration for the broader environment or future generations.
+
+**2. Value Creation Capability:**
+Shared governance strongly enables collective value creation beyond immediate economic outputs. It is designed to produce significant social value (increased job satisfaction, engagement, retention), knowledge value (professional development, evidence-based practice), and resilience value (improved patient safety and outcomes). By empowering frontline staff, it unlocks their capacity to contribute to a more effective and responsive healthcare system.
+
+**3. Resilience & Adaptability:**
+The model enhances organizational resilience and adaptability by decentralizing decision-making to those closest to the patient. This allows the system to respond more effectively to the complexities of patient care and a changing healthcare landscape. The use of data-driven councils creates a feedback loop for continuous learning and adaptation, helping the organization maintain coherence under stress.
+
+**4. Ownership Architecture:**
+Ownership is defined as a set of rights and responsibilities related to professional practice and accountability for outcomes, rather than monetary equity. Staff are given the right to govern their practice and are in turn responsible for the quality of care delivered. This fosters a deep sense of psychological ownership and stewardship over the value-creation process within their domain.
+
+**5. Design for Autonomy:**
+The pattern is explicitly designed to increase the professional autonomy of nurses, making it compatible with systems that require distributed control. It has low coordination overhead at the macro level, as decisions are handled locally. It is also highly compatible with AI and automation, which can serve as powerful cognitive augmentation tools by providing data and analytics to support council decision-making.
+
+**6. Composability & Interoperability:**
+Shared governance is highly composable, often integrated with other management and quality improvement patterns like Lean, PDCA, and the Magnet Recognition Program®. It can interoperate with different departmental governance structures within a larger organization. Its principles of partnership and shared accountability can be applied as a foundational layer for building more comprehensive value-creation systems.
+
+**7. Fractal Value Creation:**
+The value-creation logic of shared governance is inherently fractal. The model can be implemented at the scale of a single unit, a department, an entire hospital, or a multi-facility healthcare system. The core principles of empowering frontline stakeholders to improve outcomes can be replicated and adapted across these different scales, demonstrating fractal scalability.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Shared Governance is a powerful framework that creates a robust architecture for collective value creation within its domain. It systematically empowers key stakeholders, enhances system resilience, and focuses on non-monetary value like patient well-being and staff engagement. While its stakeholder scope is not fully comprehensive by v2.0 standards, it is a strong enabler of a commons-based approach in a critical sector.
+
+**Opportunities for Improvement:**
+- Broaden the stakeholder architecture to formally include patient, community, and environmental representatives in the governance councils.
+- Evolve the concept of ownership from professional practice to a broader sense of stewardship for community health and well-being.
+- Integrate mechanisms for inter-organizational collaboration, allowing shared governance models to connect across different healthcare systems to address regional health challenges. **Stakeholder Mapping:** Shared governance in healthcare primarily focuses on internal stakeholders, particularly nurses and other clinical staff. While the ultimate beneficiary is the patient, the model's direct participants are the healthcare professionals. The inclusion of interdisciplinary teams broadens the stakeholder map, but the primary focus remains on the internal professional community.
 
 2.  **Value Creation:** The value created by shared governance is multifaceted. For patients, it leads to improved quality of care and better outcomes. For nurses and other staff, it creates a more empowering and satisfying work environment. For the organization, it can lead to improved efficiency, lower costs, and a stronger reputation.
 

@@ -198,47 +198,40 @@ The Lean Canvas is likely to evolve in the cognitive era, with new tools and tec
 
 However, the core principles of the Lean Canvas are likely to remain relevant. The focus on customer problems, the importance of validated learning, and the need for speed and iteration will continue to be essential for success in the fast-paced and ever-changing world of entrepreneurship.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Commons Alignment Assessment evaluates the Lean Canvas pattern against seven dimensions to determine its alignment with commons principles. This assessment provides a nuanced view of how the pattern supports or hinders the creation of a more equitable and sustainable world.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**1. Stakeholder Mapping:**
+**1. Stakeholder Architecture:**
+The Lean Canvas primarily defines a two-sided relationship between the business and the customer, focusing on solving a customer problem to create a viable business model. It does not inherently include a framework for mapping or integrating the Rights and Responsibilities of a broader set of stakeholders, such as the environment, the community, or future generations. The architecture is therefore limited, prioritizing the entrepreneur and consumer relationship above a multi-stakeholder commons.
 
-The Lean Canvas has a strong focus on two key stakeholders: the **customer** and the **business**. The "Customer Segments" block is dedicated to understanding the target audience, while the rest of the canvas is designed to build a sustainable business model around serving that audience. However, the Lean Canvas does not explicitly prompt for a broader stakeholder analysis. Other stakeholders, such as employees, partners, suppliers, the local community, and the environment, are not explicitly considered. This narrow focus can lead to business models that are optimized for customer value and business profit at the expense of other stakeholders. To improve its commons alignment, the Lean Canvas could be supplemented with a stakeholder mapping exercise to identify and consider the needs of all stakeholders.
+**2. Value Creation Capability:**
+The pattern is exceptionally strong at enabling the creation of economic value by identifying and solving problems for a specific customer segment. However, its core structure does not explicitly prompt for the creation of other forms of value, such as social, ecological, or knowledge value. While it can be adapted for these purposes, its primary focus remains on building a scalable and profitable business, making its collective value creation capability secondary to its commercial purpose.
 
-**2. Value Creation:**
+**3. Resilience & Adaptability:**
+This is a core strength of the Lean Canvas. The entire methodology is designed to help systems thrive on change by promoting rapid iteration, validated learning, and adaptation (pivoting) based on feedback. It provides a coherent framework for navigating the complexity and uncertainty of new ventures, making the resulting business model more resilient to market shifts and stress.
 
-The Lean Canvas is a powerful tool for value creation. It helps entrepreneurs to identify and solve real-world problems for customers, and to create a sustainable business model that can deliver that value over time. The primary beneficiaries of the value created are the **customers** who get their problems solved and the **business** that generates revenue and profit. However, the Lean Canvas can also be used to create value for other stakeholders. For example, a business that is built on the principles of the Lean Canvas can create jobs, support local suppliers, and contribute to the local economy. The extent to which the Lean Canvas creates value for a broader set of stakeholders depends on the intentions and values of the entrepreneur who is using it.
+**4. Ownership Architecture:**
+The Lean Canvas is agnostic about the formal ownership structure of the venture, but it is implicitly designed for a traditional startup context where ownership is defined by monetary equity. It does not provide a native mechanism for defining ownership as a bundle of Rights and Responsibilities distributed among various stakeholders. The focus is on building a business as an asset, rather than architecting a commons with distributed stewardship.
 
-**3. Value Preservation:**
+**5. Design for Autonomy:**
+The pattern is highly compatible with autonomous systems due to its focus on a simple, clear, and data-driven framework. The one-page canvas acts as a central coordinating document that can align distributed teams, DAOs, or even AI-driven agents with low overhead. Its emphasis on key metrics and validated learning provides a clear feedback loop for autonomous execution and adaptation.
 
-The Lean Canvas is designed to help businesses to preserve value over time by adapting to changing market conditions. The iterative nature of the Lean Canvas, with its emphasis on validated learning and continuous feedback, allows businesses to stay relevant and to avoid being disrupted by new technologies or changing customer needs. The "Key Metrics" and "Unfair Advantage" blocks are particularly important for value preservation. The Key Metrics help businesses to track their progress and to make data-driven decisions, while the Unfair Advantage helps them to build a sustainable competitive advantage that is difficult for others to copy.
+**6. Composability & Interoperability:**
+The Lean Canvas is explicitly designed to be part of a larger ecosystem of innovation tools and practices, such as the Business Model Canvas and Customer Development. It is highly composable, allowing it to be combined with other patterns to build more comprehensive value-creation systems. This interoperability is a key feature, enabling its integration into diverse workflows and organizational structures.
 
-**4. Shared Rights & Responsibilities:**
+**7. Fractal Value Creation:**
+The logic of the Lean Canvas is fractal, as it can be applied at multiple scales. An individual can use it for a single product, a team for a new venture, and a large corporation for managing a portfolio of innovative projects. The core logic of deconstructing and validating a business model based on problems, solutions, and key metrics remains consistent across these different scales.
 
-The Lean Canvas itself does not prescribe a specific model for shared rights and responsibilities. It is a tool that can be used by any type of organization, from a traditional for-profit startup to a worker-owned cooperative. However, the principles of the Lean Startup, which are closely related to the Lean Canvas, can be interpreted in a way that supports shared rights and responsibilities. For example, the emphasis on collaboration, transparency, and empowerment can help to create a more democratic and equitable workplace. The extent to which the Lean Canvas supports shared rights and responsibilities depends on the organizational structure and culture in which it is used.
+**Overall Score: 3 (Transitional)**
 
-**5. Systematic Design:**
-
-The Lean Canvas is a highly systematic tool for business model design. It provides a structured framework for thinking about the different components of a business model and how they fit together. The nine blocks of the canvas represent the key systems and processes that need to be in place for a business to be successful. The Lean Canvas helps entrepreneurs to design these systems in a way that is coherent, consistent, and aligned with the overall business objectives. The systematic nature of the Lean Canvas makes it a powerful tool for reducing risk and for increasing the odds of startup success.
-
-**6. Systems of Systems:**
-
-The Lean Canvas is not a standalone tool. It is part of a larger ecosystem of tools and methodologies that are used for innovation and entrepreneurship. The Lean Canvas is often used in conjunction with other tools, such as the Business Model Canvas, the Value Proposition Canvas, and customer development interviews. It is also a key component of the Lean Startup methodology, which provides a comprehensive framework for building a successful startup. The ability of the Lean Canvas to integrate with other tools and methodologies makes it a versatile and powerful tool for innovation.
-
-**7. Fractal Properties:**
-
-The principles of the Lean Canvas can be applied at different scales, from a single product to a portfolio of products. A large organization can use the Lean Canvas to develop new products and services, and to create a portfolio of innovative businesses. The same principles that are used to validate a single business idea can be used to manage a portfolio of business ideas. This fractal nature of the Lean Canvas makes it a scalable tool that can be used by organizations of all sizes.
-
-**Overall Score: 3/5 (Transitional)**
-
-The Lean Canvas is a powerful tool for innovation and entrepreneurship, but its alignment with commons principles is mixed. It has a strong focus on customer value and business sustainability, but it does not explicitly consider the needs of other stakeholders. The Lean Canvas is a transitional pattern that can be used to create both extractive and generative business models. To improve its commons alignment, the Lean Canvas should be used in conjunction with other tools and methodologies that promote a more holistic and stakeholder-centric approach to business.
+**Rationale:**
+The Lean Canvas is a powerful tool for building resilient and adaptable business models, but it is fundamentally transitional. Its strengths lie in its adaptability, composability, and fractal nature, which are highly aligned with commons principles. However, its narrow stakeholder focus and implicit bias towards traditional ownership and economic value creation prevent it from being a complete value creation architecture. It requires significant adaptation to move from a purely commercial tool to one that fosters a true multi-stakeholder commons.
 
 **Opportunities for Improvement:**
-
-*   **Integrate stakeholder mapping:** The Lean Canvas could be improved by adding a block for stakeholder mapping, or by explicitly prompting for a broader stakeholder analysis.
-*   **Promote a broader definition of value:** The Lean Canvas could be improved by encouraging entrepreneurs to think about value creation in a broader sense, beyond just customer value and business profit.
-*   **Encourage the use of commons-oriented business models:** The Lean Canvas could be used to promote the development of commons-oriented business models, such as cooperatives, social enterprises, and platform cooperatives.
+- Integrate a dedicated "Stakeholder" or "Commons" block to explicitly map the Rights and Responsibilities of all affected parties, including the environment.
+- Broaden the "Revenue Streams" and "Cost Structure" blocks to "Value Flows" to account for non-monetary value creation and ecological costs.
+- Add a "Commons Impact" metric to the "Key Metrics" block to track the health and resilience of the shared resources the venture depends on.
 
 ## 9. Resources & References
 

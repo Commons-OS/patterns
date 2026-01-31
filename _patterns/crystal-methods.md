@@ -15,7 +15,7 @@ tags:
   era: [digital]
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -143,21 +143,40 @@ In the Cognitive Era, characterized by the increasing prevalence of artificial i
 
 While the fundamental principles of Crystal remain as relevant as ever, the Cognitive Era presents new opportunities and challenges. By embracing a human-centric approach and by leveraging the power of AI in a responsible and ethical way, development teams can continue to thrive in this new era.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Commons Alignment Assessment evaluates how well the Crystal Methods pattern aligns with the principles of a commons-based approach. The assessment is based on seven dimensions, each rated on a scale of 1 to 5, where 1 represents low alignment and 5 represents high alignment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Score | Rationale |
-| :--- | :--- | :--- |
-| **1. Openness and Transparency** | 4 | Crystal promotes transparency within the team through practices like osmotic communication and frequent delivery. However, the lack of formal documentation can sometimes reduce transparency for external stakeholders. |
-| **2. Decentralization and Distribution** | 4 | The framework is inherently decentralized, empowering individual teams to define their own processes. It is not, however, explicitly focused on distributed networks in the way that some digital commons are. |
-| **3. Community and Collaboration** | 5 | Collaboration is at the very heart of Crystal. The entire framework is designed to foster a strong sense of community and to facilitate effective collaboration among team members. |
-| **4. Modularity and Forkability** | 5 | Crystal is highly modular and forkable. The family of methods is designed to be adapted and customized to fit the specific needs of each project. Teams are encouraged to "roll their own" methodology based on Crystal principles. |
-| **5. Sustainability and Resilience** | 3 | The sustainability of a Crystal implementation is highly dependent on the team itself. The reliance on tacit knowledge and informal communication can make it less resilient to team turnover. |
-| **6. Pluralism and Diversity** | 4 | Crystal supports a diversity of approaches by providing a family of methods rather than a single, one-size-fits-all solution. It encourages teams to find their own way of working, which can lead to a plurality of practices. |
-| **7. Purpose and Values** | 3 | While Crystal has a clear set of human-centric values, it is not explicitly aligned with a broader social or ecological purpose. The purpose of a Crystal project is determined by the project itself, not by the methodology. |
+**1. Stakeholder Architecture:**
+Crystal Methods define a clear set of Rights and Responsibilities primarily between the development team and the expert users. The framework grants the team the Right to define their own processes while holding them Responsible for frequent delivery of working software. Users have the Right to provide feedback and influence development, with the Responsibility of being accessible to the team. However, the architecture does not explicitly extend to broader stakeholders like the environment, future generations, or non-user organizations.
 
-**Overall Commons Alignment Score: 3.7/5**
+**2. Value Creation Capability:**
+The pattern strongly enables collective value creation beyond immediate economic output. While the primary goal is delivering software, principles like "Reflective Improvement" and "Osmotic Communication" build significant knowledge and social value within the team. By prioritizing "Personal Safety" and team well-being, it fosters a collaborative environment that enhances the collective capability to create high-quality, user-aligned products.
+
+**3. Resilience & Adaptability:**
+Resilience and adaptability are core strengths of the Crystal family. The framework is explicitly designed as a configurable set of methodologies to thrive on change and adapt to project complexity. Practices like incremental development, frequent delivery, and reflective improvement create tight feedback loops that allow the system to maintain coherence and continuously learn, even under the stress of shifting requirements.
+
+**4. Ownership Architecture:**
+Crystal promotes a form of stewardship over the project rather than traditional ownership based on equity. The development team is given autonomy and responsibility, which fosters a sense of collective ownership over the process and the quality of the final product. This architecture defines ownership as the rights to self-organize and the responsibility to deliver value, moving beyond purely monetary considerations.
+
+**5. Design for Autonomy:**
+The framework is highly compatible with autonomous systems due to its emphasis on empowering self-organizing teams and minimizing coordination overhead. Its principles of trust, communication, and adaptability are well-suited for environments with distributed authority, such as DAOs. While predating modern AI, its human-centric and goal-oriented nature makes it compatible with human-AI collaborative workflows where AI agents could be integrated as part of the team.
+
+**6. Composability & Interoperability:**
+Crystal is inherently modular and designed for composability. It is presented as a family of methods and a collection of principles, encouraging teams to select, adapt, and combine practices to fit their specific context. This allows it to be easily integrated with other technical patterns (like Continuous Integration) and organizational patterns to build larger, more complex value-creation systems.
+
+**7. Fractal Value Creation:**
+The pattern demonstrates fractal value creation through its color-coded methodologies, which apply the same core principles at different scales of team size and system criticality. The fundamental logic of empowering a team to create value through communication and adaptation can be replicated from a small team (Crystal Clear) to a large, multi-team program (Crystal Maroon). This allows the value-creation architecture to scale effectively throughout an organization.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Crystal Methods are a powerful enabler of collective value creation by establishing a resilient and adaptive architecture for teams. It excels at building social and knowledge capital and is designed for scalability and autonomy. It scores a 4 because while it provides a robust internal framework for value creation, it does not explicitly define the rights and responsibilities for a broader set of stakeholders beyond the team and users, which is a key element of a complete value creation architecture.
+
+**Opportunities for Improvement:**
+- Explicitly integrate a wider range of stakeholders (e.g., community, environment, future generations) into the stakeholder architecture, defining their rights and responsibilities.
+- Develop specific practices for measuring and optimizing for non-economic value creation, such as social, ecological, and knowledge value.
+- Create clearer guidelines on how to maintain osmotic communication and personal safety in fully distributed or hybrid team environments, including those with AI agents.
 
 ## 9. Resources & References
 

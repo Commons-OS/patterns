@@ -185,41 +185,40 @@ While AI can automate many of the analytical and operational aspects of TOC, the
 
 In the cognitive era, the Theory of Constraints is likely to evolve from a periodic, manual process to a continuous, automated one. AI-powered systems will continuously monitor the system, identify constraints, and make real-time adjustments to optimize performance. The focus will shift from finding and fixing a single bottleneck to managing a dynamic system of constraints. The human role will evolve from that of a problem-solver to that of a system designer and orchestrator.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Theory of Constraints (TOC) is a powerful methodology for improving organizational performance. However, its alignment with the principles of a commons-based approach to value creation is mixed. This assessment examines TOC through the seven dimensions of commons alignment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**1. Stakeholder Mapping:**
+**1. Stakeholder Architecture:**
+The Theory of Constraints primarily defines Rights and Responsibilities for internal stakeholders, such as managers and shareholders, who are tasked with and benefit from optimizing the system for a singular goal (usually profit). It does not inherently architect for a broader set of stakeholders like the environment, community, or future generations, viewing them as external factors rather than integral participants with defined rights.
 
-TOC is primarily focused on the internal stakeholders of an organization, particularly shareholders and managers. The goal of TOC is to increase the profitability of the organization, which directly benefits these stakeholders. While customers may benefit from improved quality and faster delivery, their interests are secondary to the financial goals of the organization. Other stakeholders, such as employees, suppliers, and the community, are not explicitly considered in the core framework of TOC. The focus is on optimizing the system for the benefit of the owners of the system.
+**2. Value Creation Capability:**
+The pattern excels at enabling economic value creation by increasing throughput and efficiency. However, its native focus is narrow, overlooking social, ecological, and knowledge value unless they can be directly translated into a financial benefit. It is a powerful engine for optimizing a predefined value stream, but not for fostering diverse, collective value creation across multiple capitals.
 
-**2. Value Creation:**
+**3. Resilience & Adaptability:**
+TOC provides a robust framework for building resilience and adaptability. The Five Focusing Steps create a continuous learning loop that helps a system cohere under stress and adapt to change by systematically identifying and addressing its weakest point. This iterative process allows the system to evolve and improve its performance in complex environments.
 
-TOC creates value by improving the efficiency and effectiveness of an organization's processes. This leads to increased throughput, reduced costs, and improved quality. The value created is primarily economic value, which is captured by the organization and its shareholders. While some of this value may be shared with customers in the form of lower prices or better products, the primary beneficiary is the organization itself. TOC does not explicitly consider other forms of value, such as social or environmental value.
+**4. Ownership Architecture:**
+The pattern operates within a traditional ownership model where the rights to created value belong to the system's owners (e.g., shareholders). It does not redefine ownership as a set of Rights and Responsibilities distributed among various stakeholders. The focus is on optimizing the asset for its owners, not on stewarding a commons for collective benefit.
 
-**3. Value Preservation:**
+**5. Design for Autonomy:**
+TOC is highly compatible with autonomous systems. Its logic-based, data-driven approach to identifying and elevating constraints can be easily encoded into AI and DAOs, creating self-optimizing systems with low coordination overhead. The pattern’s focus on a single constraint at a time simplifies the decision-making logic required for autonomous agents.
 
-TOC is a process of continuous improvement, which helps to preserve the value of an organization over time. By constantly identifying and eliminating constraints, organizations can adapt to changing market conditions and maintain their competitive advantage. However, the focus is on preserving the economic value of the organization, rather than preserving the value of a shared resource or a commons.
+**6. Composability & Interoperability:**
+The pattern is highly composable, designed to integrate with and optimize other operational patterns and processes within an organization or supply chain. It can serve as a meta-pattern that enhances the performance of larger, more complex systems. Its universal logic allows it to connect disparate activities by focusing them on a single, shared constraint.
 
-**4. Shared Rights & Responsibilities:**
-
-TOC is a top-down management philosophy. The responsibility for implementing TOC lies with the management of the organization. Employees are expected to follow the new processes and procedures that are put in place. There is little emphasis on shared decision-making or on empowering employees to take ownership of the improvement process. The rights to the value created by TOC are held by the owners of the organization.
-
-**5. Systematic Design:**
-
-TOC is a highly systematic approach to organizational improvement. The Five Focusing Steps provide a clear and logical framework for identifying and eliminating constraints. The various tools and techniques of TOC, such as Drum-Buffer-Rope and Throughput Accounting, are designed to work together as a coherent system. This systematic design is one of the key strengths of TOC.
-
-**6. Systems of Systems:**
-
-TOC can be applied to systems of systems, such as supply chains. By identifying and managing the constraint in a supply chain, organizations can improve the performance of the entire system. However, the focus is on optimizing the system for the benefit of the participating organizations, rather than for the benefit of a larger commons.
-
-**7. Fractal Properties:**
-
-The principles of TOC can be applied at all levels of an organization, from a single team to the entire enterprise. This fractal property allows for a consistent approach to improvement throughout the organization. However, the focus remains on optimizing the performance of the individual parts of the system, rather than on the health of the system as a whole.
+**7. Fractal Value Creation:**
+TOC exhibits strong fractal properties, as its core logic of identifying and managing constraints can be applied at any scale—from an individual’s workflow to a team, an entire organization, or a multi-organizational supply chain. This allows the value-creation logic to be deployed consistently across nested systems, ensuring local optimizations contribute to the global goal.
 
 **Overall Score: 3 (Transitional)**
 
-The Theory of Constraints is a powerful tool for improving organizational performance, but its alignment with commons principles is limited. It is a transitional pattern that can help organizations to become more efficient and effective, but it does not go far enough in terms of creating a truly regenerative and equitable system. To become more commons-aligned, TOC would need to broaden its focus to include a wider range of stakeholders, to consider a broader range of value types, and to empower employees to participate more fully in the improvement process.
+**Rationale:**
+TOC is a powerful systems-optimization tool that strongly enables resilience, autonomy, and scalability (Pillars 3, 5, 6, 7). However, its fundamental architecture is designed to serve a singular, predefined (often financial) goal for the system's owners, rather than fostering collective value creation for a broad set of stakeholders (Pillars 1, 2, 4). It is a transitional pattern because its powerful optimization engine could be adapted and pointed toward commons-based goals, but it does not do so out of the box.
+
+**Opportunities for Improvement:**
+- Integrate a multi-stakeholder governance model to define the system's goal, moving beyond a purely financial objective.
+- Expand the definition of "throughput" to include non-financial value metrics, such as social impact or ecological regeneration.
+- Redefine the "constraint" to include limits on commons health (e.g., carbon budget, community well-being) to guide optimization efforts.
 
 ### 9. Resources & References
 

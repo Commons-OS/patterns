@@ -107,70 +107,37 @@ AI and automation can significantly enhance distributed leadership by providing 
 
 While AI can augment human capabilities, it cannot replace the uniquely human aspects of leadership. Building trust, fostering relationships, and creating a culture of psychological safety remain the purview of human leaders. Empathy, emotional intelligence, and the ability to inspire and motivate others are essential qualities that cannot be replicated by machines. The role of human leaders in a distributed leadership model will be to cultivate an environment where both humans and machines can thrive, and to ensure that technology is used in a way that aligns with the organization's values and purpose.
 
-**Evolution Outlook**
+### 8. Commons Alignment Assessment (v2.0)
 
-In the future, we can expect to see a deeper integration of AI and distributed leadership. Leadership structures may become even more fluid and dynamic, with human and machine agents collaborating in real-time to solve complex problems. The challenge for organizations will be to design systems that are both efficient and humane, and that empower individuals to work effectively in a human-machine partnership.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-### 8. Commons Alignment Assessment (600-800 words)
+**1. Stakeholder Architecture:**
+This pattern defines Rights and Responsibilities primarily among internal stakeholders, dynamically shifting roles between leaders and followers. It excels at empowering individuals within an organization but does not explicitly extend its architecture to external stakeholders such as the environment, local communities, or future generations. The focus remains on the people and context of a specific organization.
 
-This assessment evaluates the alignment of the Distributed Leadership pattern with the principles of a commons-based approach, using the seven dimensions of the Commons OS framework.
+**2. Value Creation Capability:**
+Distributed Leadership strongly enables collective value creation beyond mere economic output. By leveraging the collective intelligence and diverse expertise of its members, it fosters innovation, enhances problem-solving, and builds knowledge capital. The emphasis on a shared vision and collaborative culture directly contributes to creating significant social and resilience value.
 
-**1. Stakeholder Mapping**
+**3. Resilience & Adaptability:**
+This is a core strength of the pattern. By decentralizing leadership, the system becomes less fragile and more capable of adapting to complex, dynamic environments. It helps organizations thrive on change and maintain coherence under stress by distributing the cognitive and emotional load of leadership across many individuals.
 
-Distributed leadership inherently promotes a broad and inclusive approach to stakeholder mapping. By defining leadership as a practice rather than a position, it recognizes that anyone within an organization can be a leader. This naturally extends the scope of stakeholders beyond formal leadership to include all employees, regardless of their role or level in the hierarchy. The emphasis on the interaction between leaders, followers, and the situation also brings in external stakeholders, such as customers, partners, and the wider community, who are all part of the “situation” and can influence and be influenced by the leadership practice. However, the comprehensiveness of the stakeholder mapping depends on the specific implementation of the pattern. A truly commons-aligned approach would proactively seek to identify and engage all relevant stakeholders, both internal and external, in the leadership process.
+**4. Ownership Architecture:**
+The pattern promotes a strong sense of psychological ownership by empowering individuals and giving them a stake in the organization's direction and success. However, it does not define a formal ownership architecture in terms of Rights and Responsibilities related to the value being created. The concept of ownership is more cultural than structural.
 
-**2. Value Creation**
+**5. Design for Autonomy:**
+Distributed Leadership is highly compatible with autonomous systems, including AI and DAOs. Its emphasis on empowerment, clear roles, and data-informed decision-making at the edges reduces coordination overhead and supports decentralized operations. The pattern provides a social and cultural foundation upon which technical autonomy can be built.
 
-Distributed leadership creates value in multiple forms. For the organization, it can lead to improved decision-making, increased innovation, and greater adaptability, which can translate into enhanced performance and resilience. For individuals, it offers opportunities for personal and professional growth, increased autonomy, and a greater sense of ownership and purpose. The primary beneficiaries of this value creation are the members of the organization themselves. However, by fostering a more responsive and adaptive organization, distributed leadership can also create value for external stakeholders, such as customers who receive better products and services, and the community which benefits from a more engaged and responsible corporate citizen.
+**6. Composability & Interoperability:**
+As a leadership framework, this pattern is highly composable and can be integrated with various other organizational patterns. It is not a rigid, monolithic system but a set of principles that can be applied to enhance other structures, from traditional hierarchies to more radical decentralized networks. It can serve as a foundational layer for building larger, more complex value-creation systems.
 
-**3. Value Preservation**
+**7. Fractal Value Creation:**
+The logic of distributing leadership can be applied fractally across multiple scales. As noted in the pattern description, its principles are effective from the team level to the entire organization and even in multi-organizational ecosystems. This allows for the creation of coherent value-creation dynamics that scale with the system.
 
-Distributed leadership is a highly adaptive pattern that can maintain its relevance over time. By distributing leadership and empowering individuals at all levels, it creates a more resilient and agile organization that can better respond to changes in the environment. The emphasis on learning and continuous improvement is also a key mechanism for value preservation. However, the long-term sustainability of the pattern depends on the organization's ability to maintain a culture of trust, collaboration, and psychological safety. Without these foundational elements, the pattern can easily revert to a more traditional, hierarchical model.
+**Overall Score: 4 (Value Creation Enabler)**
 
-**4. Shared Rights & Responsibilities**
+**Rationale:**
+Distributed Leadership is a powerful enabler of collective value creation, fostering resilience, adaptability, and innovation. It provides a crucial cultural and operational shift away from centralized, heroic leadership models. However, it does not constitute a complete value creation architecture, as it lacks a formal and explicit framework for multi-stakeholder governance and a structural ownership model that extends beyond the internal organization.
 
-This is a core strength of the distributed leadership pattern. The very definition of the pattern is based on the idea of sharing the responsibilities of leadership. By empowering individuals and teams to make decisions and take action, it distributes not only the responsibilities but also the rights of leadership. However, the distribution of rights and responsibilities needs to be carefully managed to ensure fairness and equity. There is a risk that some individuals may end up shouldering a disproportionate share of the burden, or that the distribution of power may not be as equitable as it appears on the surface.
-
-**5. Systematic Design**
-
-The successful implementation of distributed leadership requires a systematic approach to organizational design. This includes creating clear roles and responsibilities, establishing effective communication channels, and providing the necessary training and development to build leadership capacity at all levels. The pattern also relies on the design of effective routines and tools that support collaboration and decision-making. However, the pattern itself does not prescribe a specific set of systems or processes. It is a framework that needs to be adapted to the specific context of each organization.
-
-**6. Systems of Systems**
-
-Distributed leadership can be seen as a meta-pattern that can be composed with other organizational patterns to create a more holistic system. For example, it can be combined with agile methodologies to create a more responsive and adaptive organization. It can also be used in conjunction with patterns of self-organization, such as Holacracy or Sociocracy, to create a more decentralized and democratic organization. The modular nature of the pattern makes it highly adaptable and composable.
-
-**7. Fractal Properties**
-
-The principles of distributed leadership are highly fractal, meaning they can be applied at all scales, from the individual to the ecosystem. An individual can practice distributed leadership in their own work by taking initiative and collaborating with others. A team can practice distributed leadership by sharing responsibility and making decisions collectively. An organization can practice distributed leadership by empowering its employees and fostering a culture of collaboration. And a network of organizations can practice distributed leadership by working together to achieve a common goal.
-
-**Overall Score: 4 (Commons-Aligned)**
-
-Distributed Leadership is highly aligned with the principles of a commons-based approach. It promotes a more inclusive, equitable, and participatory model of leadership that can create value for all stakeholders. However, the successful implementation of the pattern requires a significant commitment to cultural change and a systematic approach to organizational design. There is also a need for greater awareness of the potential pitfalls of the pattern, such as the risk of inequitable distribution of responsibilities and the need to maintain a culture of trust and psychological safety. To become an exemplary commons pattern, there needs to be more explicit guidance on how to ensure a fair and equitable distribution of power and responsibility, and how to sustain the pattern over the long term.
-
-### 9. Resources & References (200-400 words)
-
-For those interested in delving deeper into the topic of distributed leadership, there are several essential resources. The seminal work on the topic is James P. Spillane's *Distributed Leadership* (2006), which provides a comprehensive overview of his theory and its application in schools. For a broader range of perspectives, *Distributed Leadership: Different Perspectives* (2008), edited by Alma Harris, brings together a collection of essays from leading scholars. Finally, for real-world examples of the pattern in action, the William and Flora Hewlett Foundation's 2018 *Case Studies in Distributed Leadership* is an invaluable resource.
-
-Several organizations and communities are dedicated to advancing the understanding and practice of distributed leadership. The Distributed Leadership Study, a research project at Northwestern University led by James Spillane, has been instrumental in developing the theory and practice of this leadership model. The Wallace Foundation, a philanthropic organization, has also funded a significant amount of research on educational leadership, including distributed leadership.
-
-While there are no specific tools or platforms exclusively designed for distributed leadership, a wide range of collaboration and communication tools can be used to support its implementation. Popular platforms such as Slack, Microsoft Teams, and Asana can facilitate the communication and coordination necessary for a distributed leadership model to succeed.
-
-**References**
-
--   Spillane, J. P. (2006). *Distributed leadership*. San Francisco: Jossey-Bass.
--   Spillane, J. P., Halverson, R., & Diamond, J. B. (2004). Towards a theory of leadership practice: A distributed perspective. *Journal of Curriculum Studies*, *36*(1), 3-34.
--   Harris, A. (2008). *Distributed leadership: Different perspectives*. Dordrecht: Springer.
--   The William and Flora Hewlett Foundation. (2018). *Case Studies in Distributed Leadership*. Retrieved from https://hewlett.org/case-studies-in-distributed-leadership/
--   Wikipedia. (2023). *Distributed leadership*. Retrieved from https://en.wikipedia.org/wiki/Distributed_leadership
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/76-distributed-leadership-spillane/](https://commons-os.github.io/patterns/domain/76-distributed-leadership-spillane/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/76-distributed-leadership-spillane.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/76-distributed-leadership-spillane.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
+**Opportunities for Improvement:**
+- Explicitly define a multi-stakeholder model that includes rights and responsibilities for external stakeholders like the environment and community.
+- Develop a more formal ownership architecture that connects value creation to value distribution among all contributing stakeholders.
+- Integrate the pattern with complementary governance and economic models to create a more comprehensive commons-building framework.

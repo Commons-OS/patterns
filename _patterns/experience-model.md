@@ -12,7 +12,7 @@ tags:
   era: [digital]
   origin: [contextual-design]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -104,8 +104,6 @@ The Experience Model, as a core component of the Contextual Design methodology, 
 While many companies that use Contextual Design and Experience Models do not publicly disclose their specific design processes, the methodology has been widely adopted by leading technology companies, including:
 
 *   **Microsoft:** Microsoft has been a long-time proponent of user-centered design, and has used Contextual Design principles in the development of many of its products.
-*   **IBM:** IBM's design thinking framework incorporates many of the core principles of Contextual Design, emphasizing a deep understanding of the user and their context.
-*   **Intuit:** Intuit, the company behind TurboTax and QuickBooks, is known for its customer-driven innovation process, which is heavily influenced by the principles of Contextual Design.
 *   **Hewlett-Packard:** HP has used Contextual Design to improve the user experience of its printers and other hardware products.
 *   **Adobe:** Adobe's user-centered design process incorporates many of the same principles as Contextual Design, with a focus on understanding the creative professional's workflow and needs.
 
@@ -135,27 +133,40 @@ Despite the potential of AI, the human element remains at the heart of the Exper
 
 The Experience Model is likely to evolve in several key ways in the Cognitive Era. The models will become more dynamic and data-driven, incorporating real-time data from sensors, IoT devices, and other digital sources to provide a more continuous and holistic view of the user's experience. The distinction between the different models may blur as they become more integrated and interconnected. We may also see the emergence of new types of models that are specifically designed to capture the complexities of the human-machine relationship. As our lives become increasingly intertwined with intelligent systems, the Experience Model will become an even more critical tool for ensuring that technology is designed to serve human needs and values.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Experience Model, with its focus on deep user understanding and collaborative design, has the potential to align with the principles of a commons-based approach. However, its ultimate alignment depends on how it is implemented and the values that guide its application.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-1.  **Stakeholder Mapping:** The Experience Model is inherently focused on the user, but it can be expanded to include a broader range of stakeholders. The Relationship and Collaboration Models, in particular, provide a framework for mapping the interactions and dependencies among different actors in a system. A commons-aligned application of the Experience Model would explicitly seek to identify and understand the needs of all stakeholders, not just the end-user.
+**1. Stakeholder Architecture:**
+The Experience Model provides a strong foundation for understanding key human stakeholders, particularly end-users and their immediate collaborators. Practices like the Relationship and Collaboration Models map the rights and responsibilities within a specific context, but the pattern is not inherently designed to map a comprehensive architecture that includes non-human agents, the environment, or future generations. Its focus remains on the "user experience" rather than the "system experience."
 
-2.  **Value Creation:** The pattern is designed to create value for the user by improving their experience and for the business by driving innovation and customer loyalty. In a commons context, the focus would be on creating shared value for a community or ecosystem. The Experience Model can be used to identify opportunities for creating shared resources, fostering collaboration, and building a sense of collective ownership.
+**2. Value Creation Capability:**
+This is the pattern's greatest strength. It is explicitly designed to uncover opportunities for value creation that go far beyond the economic, focusing on social (connection), knowledge (understanding), and personal (identity, accomplishment) value. By immersing designers in the user's world, it enables the creation of solutions that are deeply meaningful and contextually relevant, fostering a resilient form of value that is tied to human flourishing.
 
-3.  **Value Preservation:** The iterative and dynamic nature of the Experience Model supports the principle of value preservation. By treating the models as living documents that are continuously updated, organizations can ensure that their understanding of the user and their context remains relevant over time. This helps to preserve the value of the initial research and design investment.
+**3. Resilience & Adaptability:**
+The pattern contributes to resilience by ensuring solutions are well-adapted to the complex, often chaotic, reality of users' lives. The Day-in-the-Life model, for example, helps systems anticipate and handle interruptions and context shifts. However, the pattern is a design-time tool; it provides a snapshot for building adaptable products but does not offer a mechanism for the system itself to learn and adapt to change over time.
 
-4.  **Shared Rights & Responsibilities:** The Experience Model itself does not prescribe a particular governance model. However, the collaborative and participatory nature of the process can foster a sense of shared responsibility among the design team and other stakeholders. A commons-aligned approach would seek to extend this sense of ownership to the broader community, giving them a voice in the design and evolution of the product or service.
+**4. Ownership Architecture:**
+The Experience Model does not directly address ownership in terms of equity or formal governance. Instead, it fosters a sense of psychological ownership and shared responsibility among the design and development team by creating a deep, collective understanding of the user. This shared empathy and insight act as a form of stewardship over the user's experience, guiding decisions based on user needs rather than purely technical or business metrics.
 
-5.  **Systematic Design:** The Experience Model is a highly systematic approach to design, with a clear process and a set of well-defined models. This systematic approach can be valuable in a commons context, providing a structured framework for collaborative design and decision-making.
+**5. Design for Autonomy:**
+The pattern is highly compatible with designing for autonomous systems because it excels at defining the context, goals, and values within which an AI or DAO should operate. By modeling the "why" behind human actions, it provides the necessary data to align machine behavior with human-centered values, reducing the need for constant human oversight. The visual, model-based output is a low-overhead way to communicate complex requirements to both human and machine developers.
 
-6.  **Systems of Systems:** The Experience Model is well-suited for understanding and designing complex systems. The different models within the framework can be seen as a "system of systems," each providing a different perspective on the user's world. This holistic approach is essential for designing solutions that are not just effective in isolation but also work well together as part of a larger ecosystem.
+**6. Composability & Interoperability:**
+The Experience Model is highly composable, designed as a system of interlocking models (Day-in-the-Life, Identity, etc.) that can be used together or in isolation. It interoperates seamlessly with other design and development patterns, serving as the foundational "sense-making" layer that informs subsequent activities like journey mapping, service blueprints, or agile development. It provides the contextual "API" for other patterns to connect with.
 
-7.  **Fractal Properties:** The principles of the Experience Model can be applied at different scales, from a single user interaction to an entire product ecosystem. This fractal nature allows for a consistent and coherent design approach across all levels of a system, which is a key characteristic of a well-designed commons.
+**7. Fractal Value Creation:**
+The pattern exhibits strong fractal properties. The core logic of immersing in context, modeling relationships, and understanding motivations can be applied at any scale—from a single feature interaction to a team's workflow, an organization's culture, or an entire multi-stakeholder ecosystem. This allows the value-creation logic of deep contextual understanding to be replicated consistently across all levels of a system.
 
-**Overall Score: 3/5 (Transitional)**
+**Overall Score: 4 (Value Creation Enabler)**
 
-The Experience Model is a powerful tool for user-centered design that has the potential to be highly aligned with the principles of a commons. However, its default application is often focused on creating value for a single organization rather than a broader community. To move towards a more commons-aligned approach, organizations should focus on expanding the scope of stakeholder mapping, explicitly designing for shared value creation, and fostering a culture of shared ownership and responsibility.
+**Rationale:**
+The Experience Model is a powerful enabler for creating collective value because it provides the essential foundation: a deep, shared understanding of the people a system serves. Its focus on non-economic value, its compatibility with autonomous systems, and its fractal nature make it a critical tool for designing human-centric, resilient systems. It scores a 4 instead of a 5 because it is a "sense-making" and design-input tool, not a complete "value creation architecture" in itself; it does not provide the governance or operational structures for ongoing value creation.
+
+**Opportunities for Improvement:**
+- Explicitly extend the stakeholder models to include non-human agents, environmental factors, and considerations for future generations to create a true "system experience" model.
+- Integrate the models into live, dynamic dashboards that reflect ongoing system use, turning them from static design artifacts into adaptive management tools.
+- Combine the pattern with governance frameworks (like Sociocracy) to translate the deep understanding of stakeholder needs into formal rights and responsibilities within the system's ownership architecture.
 
 ### 9. Resources & References
 

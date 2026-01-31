@@ -15,7 +15,7 @@ tags:
   era: [digital]
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -150,52 +150,40 @@ In the Cognitive Era, the primary interface for accessing knowledge may no longe
 **Ethical Considerations:**
 As AI becomes more involved in the creation and dissemination of knowledge, new ethical considerations arise. Who is responsible if an AI-generated document contains errors or biases? How can we ensure that AI-powered search algorithms are fair and do not perpetuate existing inequalities? Organizations will need to develop clear ethical guidelines for the use of AI in their knowledge management practices to ensure that these powerful new technologies are used responsibly.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The **Documented: Published, Described, Accessible** pattern is moderately aligned with the principles of a commons-based approach. While it promotes the sharing of knowledge, its implementation can vary from a completely open and collaborative model to a more restricted and proprietary one. The following table assesses the pattern against the seven dimensions of commons alignment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-<table header-row="true">
-<tr>
-<td>Dimension</td>
-<td>Alignment Level</td>
-<td>Rationale</td>
-</tr>
-<tr>
-<td>**1. Openness & Accessibility**</td>
-<td>High</td>
-<td>The core principle of this pattern is to make knowledge accessible. When implemented with open standards and technologies, it strongly supports this dimension. However, the level of openness can be limited by organizational policies and access controls.</td>
-</tr>
-<tr>
-<td>**2. Community & Collaboration**</td>
-<td>Medium</td>
-<td>The pattern facilitates collaboration by providing a shared knowledge base. However, it does not inherently require a community-driven approach to content creation and governance. The level of collaboration depends on the culture of the organization.</td>
-</tr>
-<tr>
-<td>**3. Shared Purpose & Values**</td>
-<td>Medium</td>
-<td>A well-implemented documentation system can help to articulate and reinforce shared purpose and values. However, the pattern itself is value-neutral and can be used in organizations with a wide range of values.</td>
-</tr>
-<tr>
-<td>**4. Distributed Governance**</td>
-<td>Low</td>
-<td>The pattern often relies on a centralized governance model, with clear ownership and approval workflows. While this ensures quality and consistency, it is not well-aligned with the principle of distributed governance.</td>
-</tr>
-<tr>
-<td>**5. Sustainability & Resilience**</td>
-<td>High</td>
-<td>By codifying knowledge and reducing dependence on individuals, this pattern significantly enhances the sustainability and resilience of an organization. It ensures that knowledge is preserved and remains accessible over the long term.</td>
-</tr>
-<tr>
-<td>**6. Fair & Equitable Distribution**</td>
-<td>Medium</td>
-<td>The pattern can support a fair and equitable distribution of knowledge within an organization. However, access to information can still be restricted based on roles and permissions, which may create inequalities.</td>
-</tr>
-<tr>
-<td>**7. Contribution & Recognition**</td>
-<td>Medium</td>
-<td>Modern knowledge management systems often include features for tracking contributions and recognizing top contributors. However, this is not a core component of the pattern itself, and the level of recognition can vary.</td>
-</tr>
-</table>
+**1. Stakeholder Architecture:**
+The pattern primarily defines Rights and Responsibilities for internal stakeholders, such as content owners and employees, focusing on knowledge accessibility and maintenance. While this creates a clear internal architecture, it does not explicitly extend these considerations to a broader set of stakeholders like the environment, future generations, or external community members. The focus remains on the organization as the primary boundary for stakeholder interaction.
+
+**2. Value Creation Capability:**
+This pattern is a powerful enabler of collective value creation by transforming tacit, individual knowledge into an explicit, shared asset. It directly facilitates the creation of knowledge and resilience value, fostering a culture of continuous learning and improving decision-making. This capability extends beyond immediate economic outputs, creating social value through enhanced collaboration and a shared sense of intelligence.
+
+**3. Resilience & Adaptability:**
+The pattern significantly enhances system resilience by codifying critical knowledge, which reduces dependency on specific individuals and ensures continuity during periods of change or turnover. The core principles of currency, accuracy, and version control provide a robust framework for adapting to complexity and maintaining coherence. This allows the organizational knowledge base to evolve and thrive on change rather than becoming obsolete.
+
+**4. Ownership Architecture:**
+Ownership is defined as stewardship, with clear responsibilities for the accuracy and currency of information. This is a crucial step beyond viewing knowledge as a consumable resource. However, the pattern does not fundamentally challenge traditional ownership models, as the knowledge is still treated as an organizational asset rather than a commons co-owned by all value-creating stakeholders.
+
+**5. Design for Autonomy:**
+The pattern is highly compatible with autonomous systems, as explicitly noted in its "Cognitive Era Considerations." By providing structured, accessible, and machine-readable information, it lowers coordination overhead and creates a clear interface for AI, DAOs, and other distributed technologies to interact with organizational processes. This makes it a foundational element for building more autonomous and scalable systems.
+
+**6. Composability & Interoperability:**
+As a foundational practice, this pattern exhibits high composability. Well-documented systems, processes, and APIs are inherently easier to combine and integrate, forming the connective tissue for larger, more complex value-creation systems. It provides the shared understanding necessary for different patterns and components to interoperate effectively.
+
+**7. Fractal Value Creation:**
+The logic of making knowledge explicit and accessible applies effectively at multiple scales. The value-creation loop of documenting, sharing, and improving knowledge can be practiced by individuals, teams, entire organizations, and even cross-organizational networks. This fractal nature allows the pattern to be a consistent engine for value creation throughout a system-of-systems.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+The "Documented" pattern is a strong enabler of collective value creation, resilience, and autonomy. It provides the foundational infrastructure for building a collective intelligence and is highly composable. However, it falls short of a complete "Value Creation Architecture" because its stakeholder and ownership models remain largely traditional and internally focused, lacking a broader, multi-stakeholder commons perspective.
+
+**Opportunities for Improvement:**
+- Broaden the stakeholder architecture to include rights and responsibilities for external stakeholders, such as customers, partners, and the wider community.
+- Explore decentralized governance models for knowledge curation and ownership, moving beyond a purely top-down, centralized approach.
+- Develop methods for documenting and assessing the value created for all stakeholders, not just internal efficiency and productivity gains.
 
 ## 9. Resources & References
 

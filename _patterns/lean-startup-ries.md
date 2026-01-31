@@ -149,25 +149,40 @@ The Lean Startup, a methodology developed by Eric Ries, provides a scientific ap
 *   As AI becomes more sophisticated, it is likely to become an increasingly integral part of the Lean Startup methodology. We may see the emergence of AI-powered platforms that guide entrepreneurs through the entire process, from ideation to a scalable business.
 *   However, the core principles of the Lean Startup—validated learning, iterative development, and customer-centricity—will remain as relevant as ever.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-1.  **Stakeholder Mapping**: The Lean Startup methodology is primarily focused on the relationship between the startup and its customers. While it indirectly considers other stakeholders (e.g., investors, employees), it does not provide a systematic framework for mapping and engaging with all relevant stakeholders.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-2.  **Value Creation**: The Lean Startup is highly effective at creating value for customers by focusing on their needs and problems. It also creates value for entrepreneurs and investors by reducing the risk of failure. However, it does not explicitly consider the creation of value for other stakeholders or for the commons as a whole.
+**1. Stakeholder Architecture:**
+The pattern primarily defines the relationship between the business and its customers, establishing a feedback-driven architecture. The customer's responsibility is to provide feedback on the MVP, while the entrepreneur's responsibility is to learn from that feedback and iterate. It does not, however, provide a framework for defining the rights and responsibilities of a broader set of stakeholders, such as the environment, society, or even internal team members beyond their functional roles.
 
-3.  **Value Preservation**: The methodology's emphasis on continuous iteration and adaptation helps to ensure that a business remains relevant over time. However, it does not address the long-term sustainability of the business or its impact on the environment and society.
+**2. Value Creation Capability:**
+Lean Startup excels at enabling the creation of economic value by de-risking new ventures and focusing on building a sustainable business. It also generates significant knowledge value through its process of validated learning. However, the methodology is neutral regarding other forms of value, such as social or ecological, which are not explicitly included in its core feedback loop.
 
-4.  **Shared Rights & Responsibilities**: The Lean Startup does not explicitly address the distribution of rights and responsibilities among stakeholders. It is a methodology for building a business, and the governance of that business is left to the discretion of the founders.
+**3. Resilience & Adaptability:**
+The methodology is fundamentally designed to enhance resilience and adaptability, but primarily at the scale of a single organization within a competitive market. The core Build-Measure-Learn loop and the concept of the "pivot" are powerful mechanisms for adapting to change and maintaining coherence under market stress. This resilience is focused on business survival rather than broader systemic or ecological health.
 
-5.  **Systematic Design**: The Build-Measure-Learn feedback loop is a systematic process for learning and iteration. However, the methodology does not provide a systematic approach to designing the business as a whole, including its governance, ownership, and social and environmental impact.
+**4. Ownership Architecture:**
+The Lean Startup methodology does not address ownership architecture in any meaningful way. It is a process for product and business model discovery, and it operates under the assumption of traditional ownership structures (e.g., founder equity, venture capital). The framework is agnostic to how rights and responsibilities related to ownership are distributed.
 
-6.  **Systems of Systems**: The Lean Startup is a modular methodology that can be combined with other patterns and practices. For example, it can be used in conjunction with agile development, design thinking, and the Business Model Canvas.
+**5. Design for Autonomy:**
+The pattern is highly compatible with autonomous systems. Its core feedback loop is a clear, repeatable algorithm that can be augmented or even partially automated by AI, as noted in the Cognitive Era Considerations. The emphasis on rapid, decentralized experimentation and low coordination overhead makes it well-suited for distributed teams and potentially DAOs.
 
-7.  **Fractal Properties**: The principles of the Lean Startup can be applied at multiple scales, from an individual entrepreneur to a large corporation. The Build-Measure-Learn feedback loop can be used to test a single feature or an entire business model.
+**6. Composability & Interoperability:**
+This pattern is exceptionally composable, designed to be integrated with other methodologies like Agile Development, Design Thinking, and the Business Model Canvas. It acts as a steering mechanism for these other operational patterns, allowing teams to combine them into a larger, more comprehensive value-creation system. Its modular nature is one of its greatest strengths.
 
-**Overall Score**: 3 (Transitional)
+**7. Fractal Value Creation:**
+The Lean Startup's logic demonstrates strong fractal properties. The Build-Measure-Learn cycle can be applied at multiple scales, from testing a single feature (micro), to validating a product (meso), to pivoting an entire business strategy (macro). This allows the same fundamental value-creation logic to operate effectively across different levels of an organization.
 
-The Lean Startup is a powerful methodology for building successful businesses, but it is not inherently aligned with the principles of the commons. While it can be used to create businesses that are beneficial to society, it can also be used to create businesses that are extractive and harmful. The methodology's focus on speed and growth can sometimes come at the expense of other values, such as sustainability, equity, and social responsibility. To be more commons-aligned, the Lean Startup would need to be supplemented with other frameworks and practices that explicitly address these issues.
+**Overall Score: 3 (Transitional)**
+
+**Rationale:**
+The Lean Startup is a powerful engine for innovation and organizational adaptation, making it a significant transitional pattern. Its strengths in resilience, composability, and fractal design are highly valuable. However, its focus remains narrowly on the business-customer relationship and economic value, lacking the broader stakeholder and value-creation perspective of a true Commons architecture. It provides the "how" of value creation but not the "for whom" or "what kind" of value beyond the market.
+
+**Opportunities for Improvement:**
+- Integrate a multi-stakeholder feedback loop beyond just the customer, including community, environmental, and employee perspectives.
+- Expand the concept of "validated learning" to include metrics for social and ecological value creation, not just market viability.
+- Combine the pattern with governance and ownership models that distribute rights and responsibilities more broadly among stakeholders.
 
 ### 9. Resources & References
 

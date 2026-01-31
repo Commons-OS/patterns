@@ -15,7 +15,7 @@ tags:
   era: [digital]
   origin: [kent-beck, chrysler-c3-project]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: ["pat_01kg5023w3fmhsjawrdrgjrrxn"]
 specializes_to: []
@@ -123,7 +123,6 @@ XP is defined by a set of 12 core practices, which are the concrete activities t
 *   **The on-site customer role is difficult to fill**: It can be difficult to find a customer who has the time, authority, and knowledge to be an effective on-site customer.
 *   **Pair programming can be intimidating**: Some developers may be uncomfortable with the idea of working in pairs. It is important to create a supportive environment where developers feel comfortable learning and making mistakes.
 *   **Maintaining discipline**: XP requires a high level of discipline. It is easy to let the practices slide, especially under pressure. The team needs to be committed to the practices and to hold each other accountable.
-*   **Scaling XP**: XP is designed for small, co-located teams. Scaling it to large, distributed teams can be challenging.
 
 **Success Factors**:
 
@@ -173,33 +172,40 @@ While AI can automate many of the tasks in XP, the human element remains essenti
 
 In the cognitive era, XP is likely to evolve in several ways. The practices will be augmented by AI, as described above. The focus will shift from the mechanics of the practices to the underlying principles and values. There will be a greater emphasis on learning and adaptation, as teams learn how to best leverage the power of AI. The distinction between software development and operations will continue to blur, as XP teams take on more responsibility for the entire lifecycle of the product, from conception to deployment and beyond.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-**1. Stakeholder Mapping**: XP explicitly includes the customer as a key stakeholder, but it has a narrower focus on the immediate customer and development team. It could be improved by more explicitly considering the needs of other stakeholders, such as end-users, support staff, and the wider community.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**2. Value Creation**: XP is very effective at creating value for the customer and the development team. The customer gets a high-quality product that meets their needs, and the development team gets a sustainable and rewarding work environment. However, the focus is primarily on the economic value of the software. It could be improved by considering other forms of value, such as social and environmental value.
+**1. Stakeholder Architecture:**
+XP establishes a tight, effective stakeholder architecture between developers and the business customer, defining their rights and responsibilities clearly through practices like the 'Planning Game' and the 'On-Site Customer'. However, this architecture is narrow, as it does not explicitly account for the rights of broader stakeholders like end-users, the operational environment, or future generations. The responsibilities are centered on the immediate project team and its direct client, not a wider ecosystem.
 
-**3. Value Preservation**: The emphasis on quality and refactoring in XP helps to preserve the value of the software over time. The practice of collective code ownership also helps to ensure that the knowledge of the system is not lost when team members leave. However, there is no explicit mechanism for ensuring that the software remains relevant to the changing needs of the community.
+**2. Value Creation Capability:**
+XP strongly enables the creation of knowledge and resilience value through its collaborative practices and focus on adaptability. It generates social value for the development team by promoting a sustainable and high-trust environment. However, its value creation is primarily framed around the economic output of the software product, with limited mechanisms for generating or measuring broader social or ecological value.
 
-**4. Shared Rights & Responsibilities**: XP promotes a high degree of shared rights and responsibilities within the development team. Collective code ownership and pair programming are good examples of this. However, the rights and responsibilities of other stakeholders, such as the customer and the end-user, are not as well-defined.
+**3. Resilience & Adaptability:**
+This is a core strength of XP, which is explicitly designed to 'embrace change' and thrive in complex, unpredictable environments. Practices like short iterations, continuous integration, and constant refactoring create a system with high adaptive capacity and coherence under the stress of changing requirements. The methodology builds resilient value creation capability by ensuring the software artifact is always in a working, high-quality state.
 
-**5. Systematic Design**: XP is a highly systematic methodology, with a set of well-defined practices and principles. The practices are designed to be mutually reinforcing, and they create a virtuous cycle of quality and productivity. However, the focus is on the design of the software, not on the design of the wider system in which the software is embedded.
+**4. Ownership Architecture:**
+XP's 'Collective Code Ownership' is a powerful example of defining ownership as shared responsibility rather than individual property. This decouples ownership from monetary equity and focuses on the team's collective capability to maintain and evolve the codebase. This stewardship model is highly aligned with a commons-oriented view of ownership within the boundary of the development team.
 
-**6. Systems of Systems**: XP is focused on the development of a single system. It does not provide much guidance on how to design and develop systems of systems. However, the principles of XP, such as simplicity and incremental change, can be applied to the development of larger, more complex systems.
+**5. Design for Autonomy:**
+XP is highly compatible with autonomous systems, as its principles of simple design, low coordination overhead (via practices like continuous integration), and clear interfaces are foundational for building robust, decentralized applications. The emphasis on automated testing and continuous delivery provides the reliability needed for systems that include AI agents or DAOs. Its iterative nature allows for the incremental and safe integration of autonomous components.
 
-**7. Fractal Properties**: The principles and values of XP can be applied at different scales, from the individual developer to the team to the organization. However, the practices of XP are primarily designed for small, co-located teams.
+**6. Composability & Interoperability:**
+XP is highly composable with other agile and DevOps patterns, such as Scrum for project management or CI/CD for operations, to create more comprehensive value-creation systems. Its focus on simple, well-tested code promotes interoperability at a technical level. While not explicitly designed for integrating large, disparate organizational systems, its principles do not hinder such efforts and can be applied within larger frameworks.
 
-**Overall Score**: 3/5 (Transitional)
+**7. Fractal Value Creation:**
+XP's core values—Simplicity, Communication, Feedback, Courage, and Respect—are fractal and can be applied at the individual, team, and organizational levels to guide value creation. While the specific technical practices are designed for small software teams, the underlying logic of rapid feedback loops and incremental change can scale. For example, the 'Planning Game' can be adapted for strategic portfolio planning at a much larger scale.
 
-**Rationale**: XP is a highly effective methodology for developing high-quality software, but its focus is primarily on the needs of the immediate customer and the development team. It has many of the elements of a commons-based approach, such as shared ownership and a commitment to quality, but it could be improved by more explicitly considering the needs of the wider community and other forms of value beyond the purely economic.
+**Overall Score: 4 (Value Creation Enabler)**
 
-**Opportunities for Improvement**: XP could be made more commons-aligned by:
+**Rationale:**
+XP is a powerful enabler of collective value creation, particularly in the domains of resilience, knowledge sharing, and adaptability. Its ownership model is highly aligned with commons principles. The score is not a 5 because its stakeholder architecture is narrowly focused on the developer-customer dyad, and it lacks explicit mechanisms for considering or creating non-economic (e.g., ecological) value.
 
-*   Expanding the stakeholder mapping to include a wider range of stakeholders.
-*   Explicitly considering social and environmental value in the Planning Game.
-*   Creating a mechanism for ensuring that the software remains relevant to the changing needs of the community.
-*   More clearly defining the rights and responsibilities of all stakeholders.
-*   Applying the principles of XP to the design of the wider system in which the software is embedded.
+**Opportunities for Improvement:**
+- Broaden the 'On-Site Customer' role to a 'Stakeholder Council' that includes representatives for end-users, operations, and community or environmental interests.
+- Integrate non-financial value metrics into the 'Planning Game' to prioritize features that enhance social or ecological well-being alongside business value.
+- Formally extend the principle of 'Collective Code Ownership' to 'Collective System Stewardship,' including responsibility for the long-term impacts of the software in its operational environment.
 
 ### 9. Resources & References
 

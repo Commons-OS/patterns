@@ -101,21 +101,40 @@ On the other hand, the cognitive era also poses certain risks to the core princi
 
 To navigate these challenges, it is essential for MAPNs to adopt a critical and reflective approach to the use of technology. This means carefully considering the potential impacts of new technologies on the network's values and principles, and making conscious choices about which tools to adopt and how to use them. It is also important to prioritize the development of digital literacy and skills among all members of the network, so that everyone has the opportunity to participate fully in the digital economy. By embracing a human-centric approach to technology, MAPNs can harness the power of the cognitive era to create a more just, equitable, and sustainable future for all.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-Mutual Aid Production Networks exhibit a strong alignment with the principles of the commons, as they are designed to be participatory, transparent, and community-controlled. The following table provides an assessment of the pattern against seven key dimensions of commons alignment:
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Assessment |
-|---|---|
-| **Peer Governance** | MAPNs are characterized by their decentralized and non-hierarchical governance structures. Decision-making is typically based on consensus and direct democracy, with all members having the opportunity to participate in shaping the direction of the network. This commitment to peer governance ensures that the network remains accountable to its members and responsive to the needs of the community. |
-| **Common Ownership** | The resources and products of a MAPN are typically held in common, with all members having access to them. This can include everything from tools and equipment to knowledge and information. The principle of common ownership ensures that the network's resources are used for the benefit of the entire community, rather than for the private gain of a few individuals. |
-| **Free and Open Access** | MAPNs are generally open to all who wish to participate, regardless of their background or circumstances. There are typically no barriers to entry, and all members have free and open access to the network's resources and knowledge. This commitment to inclusivity ensures that the network is a welcoming and supportive environment for all. |
-| **Stigmergic Coordination** | The decentralized and modular nature of MAPNs allows for a high degree of stigmergic coordination. Members are able to self-organize and initiate projects without the need for central direction or control. This allows the network to be highly adaptive and responsive to changing circumstances, and to harness the collective intelligence of its members. |
-| **Holoptism** | Transparency and information sharing are key principles of MAPNs. All members have access to information about the network's operations, finances, and decision-making processes. This commitment to holoptism ensures that the network is accountable to its members and that all members have the information they need to participate fully in the life of the network. |
-| **Right to Fork** | Because MAPNs are based on open standards and protocols, it is relatively easy for members to fork the network and create their own version. This right to fork ensures that the network remains accountable to its members and that it does not become a new form of centralized control. It also allows for a high degree of experimentation and innovation, as different groups can adapt the model to their own specific needs and contexts. |
-| **Externalities** | MAPNs are designed to internalize their negative externalities and to generate positive externalities for the wider community. By producing goods and services locally, they can help to reduce the environmental impact of long-distance transportation. They can also help to build social capital and to create a more resilient and equitable local economy. |
+**1. Stakeholder Architecture:**
+The pattern defines Rights and Responsibilities through principles of voluntary cooperation, solidarity, and decentralized, consensus-based governance. This architecture is primarily human-centric, empowering autonomous individuals and groups to contribute based on ability and receive based on need. While not explicitly defined, the focus on local production and community well-being creates positive externalities for the local environment and future generations by building a more sustainable and resilient social fabric.
 
-Overall, Mutual Aid Production Networks receive a **commons alignment score of 5 out of 5**, reflecting their deep commitment to the principles of peer governance, common ownership, and community self-determination.
+**2. Value Creation Capability:**
+Mutual Aid Production Networks are explicitly designed to create collective value far beyond economic output. The framework enables the generation of significant social value (community cohesion, solidarity), resilience value (community self-sufficiency, crisis response), and knowledge value (skill sharing). By prioritizing cooperation over competition, it builds a system where the primary output is a stronger, more capable, and interconnected community.
+
+**3. Resilience & Adaptability:**
+The pattern excels at fostering resilience and adaptability. Its decentralized, non-hierarchical structure allows it to thrive on change and maintain coherence under stress, as evidenced by its effectiveness in disaster relief and crisis situations. By reducing reliance on fragile, centralized supply chains and promoting local self-sufficiency, the network helps communities absorb and adapt to external shocks.
+
+**4. Ownership Architecture:**
+Ownership is defined as a set of collective Rights and Responsibilities, moving beyond monetary equity. Practices like common-pool resources, cooperative ownership of productive assets, and mutual credit systems redefine ownership as shared stewardship and access. This architecture ensures that the means of production and the value created serve the entire community, not just a few stakeholders.
+
+**5. Design for Autonomy:**
+The pattern's principles of decentralization, voluntary association, and stigmergic coordination make it highly compatible with AI, DAOs, and other distributed systems. Its low coordination overhead allows for emergent, self-organized action. The 'Cognitive Era Considerations' section directly addresses the potential to integrate modern technologies to enhance efficiency and scale, while also noting the need to manage the risks of a digital divide.
+
+**6. Composability & Interoperability:**
+This pattern is highly composable, designed as a framework that integrates various practices like timebanking, mutual credit, and cooperative savings. It can be applied to diverse domains such as food systems, manufacturing, and disaster relief. Its modular nature allows it to combine with other patterns to build larger, more complex value-creation systems, from local pods to transnational networks.
+
+**7. Fractal Value Creation:**
+The core value-creation logic of mutual aid and cooperation is inherently fractal, applying seamlessly at multiple scales. The pattern can be implemented in small, informal community groups, federated into larger regional networks, or even scaled to transnational solidarity networks. This scalability ensures the principles of resilient value creation can be replicated and adapted from the micro to the macro level.
+
+**Overall Score: 5 (Value Creation Architecture)**
+
+**Rationale:**
+Mutual Aid Production Networks provide a complete and robust architecture for resilient collective value creation. The pattern's foundational principles—decentralization, solidarity, and community self-sufficiency—are perfectly aligned with the v2.0 framework, defining a system that generates diverse forms of value for all stakeholders through a resilient and adaptable structure.
+
+**Opportunities for Improvement:**
+- Explicitly define the Rights and Responsibilities of non-human stakeholders, such as the environment or autonomous AI agents, within the governance framework.
+- Develop standardized protocols or interfaces to enhance interoperability and value flow between different MAPNs and other commons-based systems.
+- Create clearer frameworks for stewarding shared data and knowledge, ensuring digital assets are managed securely, equitably, and in alignment with the network's core principles.
 
 ## 9. Resources & References
 

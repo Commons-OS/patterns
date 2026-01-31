@@ -15,7 +15,7 @@ tags:
   era: [agricultural, cognitive]
   origin: [indigenous, pre-colonial]
   status: draft
-  commons_alignment: 4
+  commons_alignment: 5
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -113,55 +113,37 @@ While AI can be a powerful tool, it is important to maintain a balance between h
 
 In the Cognitive Era, Asian Indigenous Systems are likely to evolve and adapt in new and creative ways. We may see the emergence of hybrid models that combine the wisdom of traditional knowledge with the power of modern technology. For example, we could see the development of decentralized autonomous organizations (DAOs) that are based on the principles of indigenous governance. These new forms of organization could offer a powerful alternative to the hierarchical and centralized models that dominate the modern world.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-| Dimension | Assessment |
-| --- | --- |
-| **Stakeholder Mapping** | Comprehensive and holistic, including past, present, and future generations, as well as the natural environment. |
-| **Value Creation** | Creates social, cultural, ecological, and spiritual value, primarily for the benefit of the community. |
-| **Value Preservation** | Preserves value through intergenerational knowledge transmission, cultural traditions, and sustainable resource management. |
-| **Shared Rights & Responsibilities** | Rights and responsibilities are distributed among community members based on customary laws and practices, with a strong emphasis on collective responsibility. |
-| **Systematic Design** | Based on principles and practices developed and refined over centuries, with a deep understanding of the local context. |
-| **Systems of Systems** | Nested within larger systems of governance and trade, with a history of interaction and exchange with other cultures. |
-| **Fractal Properties** | Core principles can be applied at different scales, from the family to the wider region. |
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-**Overall Score: 4 (Commons-Aligned)**
+**1. Stakeholder Architecture:**
+This pattern defines a sophisticated stakeholder architecture rooted in the community as the core unit. It explicitly includes past (ancestral wisdom), present, and future generations, alongside the natural environment, as key stakeholders. Rights and responsibilities are distributed through customary laws and practices, emphasizing collective well-being over individual gain.
 
-Asian Indigenous Systems are highly aligned with the principles of the commons. They are based on a deep respect for the community, the environment, and the wisdom of traditional knowledge. However, there are also challenges and opportunities for improvement. For example, some systems may have exclusionary practices or may be resistant to change. There is also a need to find ways to better integrate these systems with the modern economy and with the formal political system.
+**2. Value Creation Capability:**
+The pattern enables the creation of multi-dimensional value far beyond economic output. Practices like Bayanihan and Gotong Royong generate social and relational value, while systems like the Subak demonstrate the creation of ecological and economic value through sustainable resource management. The holistic worldview inherent in these systems ensures that social, cultural, ecological, and spiritual values are created and nurtured in an integrated manner.
 
-### 9. Resources & References
+**3. Resilience & Adaptability:**
+Having evolved over millennia, these systems have proven their resilience and adaptability to diverse and changing contexts. The emphasis on community, mutual support, and consensus-based decision-making allows them to maintain coherence under stress and adapt to new challenges. This is evident in their ability to manage resources sustainably for centuries and respond effectively to community needs.
 
-#### Essential Reading
+**4. Ownership Architecture:**
+Ownership is defined not by monetary equity but by a web of rights and responsibilities held by the community. The Subak system, a self-governing institution for water management, is a prime example of this stewardship-based ownership model. Resources are viewed as a collective inheritance to be managed for the benefit of all, including future generations.
 
--   *Tending the Wild: Native American Knowledge and the Management of California's Natural Resources* by M. Kat Anderson. While focused on California, this book provides a rich and detailed account of indigenous resource management practices that are relevant to the Asian context.
--   *Sacred Ecology* by Fikret Berkes. This book provides a comprehensive overview of traditional ecological knowledge and its relevance for sustainable development.
--   *The Art of Not Being Governed: An Anarchist History of Upland Southeast Asia* by James C. Scott. This book offers a fascinating account of the history and culture of the hill peoples of Southeast Asia and their resistance to state control.
+**5. Design for Autonomy:**
+The pattern is inherently decentralized and promotes autonomy at the community level. Self-governing institutions and consensus-based decision-making are core features, reducing the need for central coordination. The principles of these systems are highly compatible with modern distributed technologies like DAOs, offering a foundation for autonomous, community-governed systems in the digital age.
 
-#### Organizations & Communities
+**6. Composability & Interoperability:**
+As a meta-pattern, Asian Indigenous Systems are highly composable and can be integrated with other organizational patterns. Their principles can be applied to various domains and scales, from small teams to large ecosystems. This allows for the creation of hybrid models that combine the wisdom of indigenous practices with the benefits of modern management techniques.
 
--   **Asia Indigenous Peoples Pact (AIPP):** A regional organization that works to promote and defend the rights of indigenous peoples in Asia.
--   **The International Work Group for Indigenous Affairs (IWGIA):** A global human rights organization dedicated to promoting, protecting and defending the rights of indigenous peoples.
+**7. Fractal Value Creation:**
+The value-creation logic of this pattern is fractal, meaning it can be applied at multiple scales. The core principles of community, consensus, and holistic well-being are as relevant to a small project team as they are to a large, multi-organizational network. This scalability allows the pattern to be a foundational element in building larger, resilient value-creation systems.
 
-#### References
+**Overall Score: 5 (Value Creation Architecture)**
 
-[1] Buenavista, D. P., Wynne-Jones, S., & McDonald, M. (2018). Asian Indigeneity, Indigenous Knowledge Systems, and Challenges of the 2030 Agenda. *East Asian Community Review*, 1(3-4), 221-240. https://link.springer.com/article/10.1057/s42215-018-00010-0
+**Rationale:**
+This pattern represents a complete and sophisticated architecture for resilient collective value creation. It provides a comprehensive framework that integrates a multi-stakeholder perspective, multi-dimensional value creation, and a proven model for resilience and adaptability. Its principles are timeless and offer a powerful alternative to conventional, resource-extractive models.
 
-[2] IFAD. (n.d.). *Findings of four case studies conducted by indigenous people on IFAD-funded projects in Asia and the Pacific*. Retrieved from https://www.ifad.org/documents/48415603/49875212/Findings+of+four+case+studies+conducted+by+indigenous+people+on+IFAD-funded+projects+in+Asia+and+the+Pacific.pdf/d9cdd0ce-bf76-7c61-eddf-2d9e66509a29?t=1726646316135
-
-[3] Minority Rights Group International. (2005). *Good Governance and Indigenous Peoples in Asia*. Retrieved from https://minorityrights.org/app/uploads/2024/01/download-137-good-governance-and-indigenous-peoples-in-asia.pdf
-
-[4] Bentley, G. C. (1986). Indigenous states of southeast Asia. *Annual Review of Anthropology*, 15, 275-305. https://www.jstor.org/stable/2155763
-
-[5] Bourdier, F. (2008). Indigenous populations in a cultural perspective. The paradox of development in Southeast Asia. *Anthropos*, 103(2), 433-449. https://www.jstor.org/stable/40467417
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/asian-indigenous-systems/](https://commons-os.github.io/patterns/domain/asian-indigenous-systems/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/asian-indigenous-systems.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/asian-indigenous-systems.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
+**Opportunities for Improvement:**
+- Develop clearer models for interfacing with modern legal and economic systems to ensure the protection and recognition of these commons.
+- Create more explicit guidance and toolkits for adapting these systems to digital and globally distributed contexts.
+- Document and share best practices for successfully hybridizing these systems with contemporary management and organizational structures.

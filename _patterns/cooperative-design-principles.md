@@ -117,21 +117,40 @@ Despite these challenges, the Cognitive Era also presents a number of opportunit
 
 Ultimately, the key to navigating the challenges and opportunities of the Cognitive Era is to stay true to the core principles of Cooperative Design. This means creating design processes that are inclusive, democratic, and empowering for all participants. It also means being mindful of the ethical implications of these new technologies, and working to ensure that they are used in a way that is beneficial to society as a whole.
 
-# 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-This section provides an assessment of how well the Cooperative Design Principles align with the seven dimensions of the Commons OS. The assessment is based on a scale of 1 to 5, where 1 represents a low level of alignment and 5 represents a high level of alignment.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Alignment Score | Rationale |
-| :--- | :--- | :--- |
-| **1. Openness & Transparency** | 5 | Cooperative Design is fundamentally about openness and transparency. The principles of Voluntary and Open Membership and Education, Training, and Information are all about creating a design process that is open and accessible to all. |
-| **2. Participation & Collaboration** | 5 | Participation and collaboration are at the heart of Cooperative Design. The principles of Democratic Member Control and Cooperation Among Cooperatives are all about creating a design process that is based on collaboration and mutual support. |
-| **3. Decentralization & Federation** | 4 | Cooperative Design is consistent with the principles of decentralization and federation. The principle of Autonomy and Independence encourages self-organization and self-governance, and the principle of Cooperation Among Cooperatives encourages collaboration among different projects. However, the level of decentralization and federation can vary depending on the specific implementation of the principles. |
-| **4. Equity & Inclusion** | 5 | Equity and inclusion are core values of Cooperative Design. The principles of Voluntary and Open Membership and Democratic Member Control are all about creating a design process that is equitable and inclusive for all participants. |
-| **5. Sustainability & Resilience** | 4 | Cooperative Design is consistent with the principles of sustainability and resilience. The principle of Concern for Community encourages a focus on the long-term well-being of the community, and the principle of Member Economic Participation encourages a focus on creating sustainable and resilient economic models. However, the level of sustainability and resilience can vary depending on the specific implementation of the principles. |
-| **6. Pluralism & Diversity** | 5 | Pluralism and diversity are core values of Cooperative Design. The principle of Voluntary and Open Membership is all about creating a design process that is open to a diverse range of voices and perspectives. |
-| **7. Purpose & Values** | 5 | Cooperative Design is a purpose-driven and values-based approach to design. The principles are all about creating a design process that is aligned with the values of the cooperative movement, such as self-help, self-responsibility, democracy, equality, equity, and solidarity. |
+**1. Stakeholder Architecture:**
+The pattern establishes a robust stakeholder architecture by emphasizing "Voluntary and Open Membership" and "Democratic Member Control." It explicitly grants stakeholders the right to participate and influence decisions, fostering a collaborative environment where rights and responsibilities are shared among all participants, including users, designers, and the wider community.
 
-**Overall Commons Alignment Score:** 5
+**2. Value Creation Capability:**
+Cooperative Design directly enables the creation of diverse forms of value beyond the purely economic. Through its principle of "Concern for Community" and practices like co-creation workshops, it generates social value (equitable solutions), knowledge value (mutual learning), and ecological value by considering the broader impacts of the design on the community and environment.
+
+**3. Resilience & Adaptability:**
+The pattern is inherently designed for resilience and adaptability through its iterative and feedback-driven process. The practice of continuous prototyping and refinement with users allows the resulting systems to evolve and adapt to changing contexts and user needs, ensuring they remain coherent and functional under stress.
+
+**4. Ownership Architecture:**
+Ownership is framed as shared rights and responsibilities rather than just monetary equity. The principle of "Member Economic Participation" is interpreted as all participants having a stake in the outcome, fostering a sense of collective ownership and investment in the project's success and long-term value.
+
+**5. Design for Autonomy:**
+With its emphasis on "Autonomy and Independence," the pattern is highly compatible with autonomous systems. The principles of self-organization and democratic control are foundational for DAOs and other distributed systems, providing a governance framework that can operate with low coordination overhead once shared understanding is established.
+
+**6. Composability & Interoperability:**
+The pattern is highly composable, as stated in the "Cooperation Among Cooperatives" principle, which encourages sharing knowledge and best practices. It is a flexible framework, not a rigid process, designed to be combined with other patterns and methodologies to construct larger, more complex value-creation ecosystems.
+
+**7. Fractal Value Creation:**
+The value-creation logic of Cooperative Design is fractal, applying effectively at multiple scales. The pattern has been successfully used for everything from small software features to large-scale urban planning projects like Bogotá's TransMilenio bus system, demonstrating its ability to scale its collaborative principles across different levels of complexity.
+
+**Overall Score: 5 (Value Creation Architecture)**
+
+**Rationale:**
+Cooperative Design Principles provide a comprehensive and foundational architecture for resilient collective value creation. The pattern systematically addresses all seven pillars of the Commons OS v2.0 framework, offering a complete model for defining stakeholder relationships, fostering diverse value creation, and ensuring adaptability and scalability. It moves beyond simple participation to create a truly democratic and empowering design process.
+
+**Opportunities for Improvement:**
+- Explicitly integrate considerations for non-human stakeholders, such as the environment or AI agents, into the stakeholder architecture.
+- Develop clearer guidelines for applying the principles in fully asynchronous or globally distributed digital environments.
+- Create more defined mechanisms for capturing and distributing the non-economic value (e.g., knowledge, reputation) generated during the process.
 
 # 9. Resources & References
 

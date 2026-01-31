@@ -15,7 +15,7 @@ tags:
   era: [cognitive]
   origin: [academic, mckinsey-health-institute]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -73,13 +73,40 @@ The inexorable rise of artificial intelligence and automation presents both unpr
 
 As AI and automation continue to mature and become more sophisticated, the Holistic Health pattern is likely to evolve in several key ways. We will likely see a significant shift from standalone, ad-hoc programs to deeply integrated wellness platforms that are seamlessly woven into the fabric of daily work. The focus will also likely shift from a reactive to a proactive and even predictive approach, and from a one-size-fits-all to a hyper-personalized and adaptive model. Ultimately, the perception of wellness is likely to shift from that of a discretionary cost center to that of a strategic and indispensable investment that drives long-term profitability and sustainable growth.
 
-### 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Holistic Health pattern, when critically assessed against the seven dimensions of the Commons OS framework, can be most accurately described as a transitional model. It inherently requires a broad and inclusive mapping of **stakeholders**, including not just employees, but also their families, their communities, managers, HR professionals, customers, and investors. It creates both **use value** (in the form of improved health and well-being) and **exchange value** (in the form of increased productivity and profitability) for a wide and diverse range of stakeholders. The pattern also preserves value over the long term by fostering a more sustainable and resilient workforce, and it implies a more equitable and just distribution of **shared rights and responsibilities** among its various stakeholders.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-The pattern is enabled and supported by a variety of **systematic designs**, including comprehensive wellness programs, fair and transparent performance management systems, and robust leadership development programs. It also composes synergistically with other organizational patterns, such as **Psychological Safety** and **Learning Organization**, and its core principles can be effectively applied at all scales of an organization, thereby demonstrating its **fractal properties**. While the pattern has the clear and exciting potential to be a truly commons-aligned approach, it is often implemented in a way that instrumentally prioritizes organizational benefits over a genuine and intrinsic commitment to employee well-being. To fully realize its potential and become more commons-aligned, organizations must consciously and deliberately broaden their stakeholder map, place a greater emphasis on the creation of use value, and deeply embed the principles of shared rights and responsibilities into the very core of their culture.
+**1. Stakeholder Architecture:**
+The pattern primarily centers on the employee-employer relationship, defining responsibilities for the organization to provide a healthy environment and rights for employees to access wellness resources. While it acknowledges the impact on families and communities, it doesn't formally integrate them into its governance structure, leaving the architecture focused on internal human stakeholders.
 
-**Overall Score**: 3 (Transitional)
+**2. Value Creation Capability:**
+It strongly enables the creation of social and resilience value by fostering a healthier, more engaged, and less burnt-out workforce. This directly translates to knowledge value through enhanced innovation and performance. However, its primary lens is on employee well-being as a driver for organizational productivity, rather than a broader system of multi-capital value creation.
+
+**3. Resilience & Adaptability:**
+The pattern directly enhances organizational resilience by creating a workforce that is better equipped to handle stress and change. By promoting mental and physical well-being, it helps maintain coherence and performance under pressure. This focus on human sustainability is a key component of adapting to a complex and dynamic work environment.
+
+**4. Ownership Architecture:**
+The pattern implies a shift in ownership from a purely financial contract to a mutual responsibility for well-being and performance. It treats employee health as a shared asset that requires collective stewardship. However, it does not fundamentally restructure equity or decision-making rights, framing ownership more as a cultural commitment than a structural one.
+
+**5. Design for Autonomy:**
+This pattern is highly compatible with autonomous systems, as it focuses on creating conditions for individuals to thrive, regardless of management structure. AI can be used to personalize wellness journeys and optimize work environments, reducing coordination overhead. The emphasis on employee choice and flexible work arrangements inherently supports a more distributed and autonomous workforce.
+
+**6. Composability & Interoperability:**
+The pattern is explicitly designed to be composable, integrating synergistically with other patterns like Psychological Safety and Learning Organization. It serves as a foundational layer for building more complex, human-centric organizational systems. Its principles can be applied within various operational and governance frameworks, enhancing their overall effectiveness.
+
+**7. Fractal Value Creation:**
+The pattern's logic is inherently fractal, as its principles of well-being apply consistently from the individual to the team, department, and the entire organization. The health of each part contributes to the health of the whole, creating a scalable logic for value creation. This allows the pattern to be implemented at any scale and grow organically throughout a system.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+The Holistic Health pattern is a powerful enabler of collective value creation by focusing on the foundational layer: the well-being of the individuals within the system. It creates significant social, knowledge, and resilience value. It scores a 4 because while it strongly enables a value-creating system, it is not a complete architecture in itself; it is a critical sub-system that needs to be integrated with other patterns governing resource allocation, knowledge flows, and stakeholder rights to form a complete commons.
+
+**Opportunities for Improvement:**
+- Formally map the Rights and Responsibilities of a wider group of stakeholders beyond the employee and employer, including families, communities, and the environment.
+- Develop explicit mechanisms for stakeholders to participate in the governance and evolution of the wellness programs.
+- Integrate the measurement of well-being more directly into the organization's core value accounting, beyond lagging indicators like productivity and retention.
 
 ### 9. Resources & References
 

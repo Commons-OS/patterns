@@ -15,7 +15,7 @@ tags:
   era: [cognitive]
   origin: [Kate Raworth]
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -119,23 +119,40 @@ However, there are also significant risks. The digital economy is currently domi
 
 To navigate these challenges, it is essential to apply the principles of Doughnut Economics to the design of digital technologies themselves. This means creating digital platforms that are distributive and regenerative by design. It means ensuring that the benefits of AI and other advanced technologies are shared widely, and that these technologies are used to empower people and to protect the planet. It also means being mindful of the potential for unintended consequences, and taking a precautionary approach to the development and deployment of new technologies.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-The Commons Alignment Assessment evaluates how well the Doughnut Economics (Product Application) pattern aligns with the principles of a commons-based economy. The assessment is based on the seven core principles of Doughnut Economics, which are used here as the seven dimensions of commons alignment. The overall commons alignment score for this pattern is 3 out of 5.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Rating (1-5) | Rationale |
-| :--- | :--- | :--- |
-| **Change the Goal** | 4 | The pattern strongly aligns with the commons principle of prioritizing social and ecological well-being over financial profit. It provides a clear framework for shifting the goal of business from endless growth to thriving in the Doughnut. |
-| **See the Big Picture** | 4 | The pattern encourages a holistic and systemic view of the economy, which is a key feature of commons thinking. It recognizes that the economy is embedded within society and the living world, and that all of these systems are interconnected. |
-| **Nurture Human Nature** | 3 | The pattern promotes collaboration, community, and a sense of shared purpose, which are all important aspects of a commons-based economy. However, the extent to which this is realized in practice will depend on the specific implementation of the pattern. |
-| **Get Savvy with Systems** | 3 | The pattern encourages a systems-thinking approach to product design, which is essential for managing complex systems like the commons. However, the tools and methods for doing this are still under development. |
-| **Be Distributive** | 3 | The pattern has a strong focus on creating a more equitable and just economy. It encourages businesses to share value more equitably among all who co-create it. However, the effectiveness of this will depend on the specific ownership and governance structures that are put in place. |
-| **Be Regenerative** | 4 | The pattern is deeply aligned with the commons principle of stewardship. It encourages businesses to design products and business models that are regenerative by design, and that contribute to the health and well-being of the planet. |
-| **Aim to Thrive Rather Than to Grow** | 2 | While the pattern encourages businesses to move beyond the goal of endless growth, this is a challenging principle to put into practice in our current economic system. Many businesses are still locked into a growth-at-all-costs mindset, and it will take a significant cultural and structural shift to change this. |
+**1. Stakeholder Architecture:**
+The pattern fundamentally redefines stakeholders to include the planet and society, not just consumers and shareholders. It establishes responsibilities to operate within an "ecological ceiling" and a "social foundation," effectively granting rights to a safe environment and social equity. This architecture guides product design to be distributive and regenerative, considering the well-being of all stakeholders, including future generations.
 
-**Overall Score: 3/5**
+**2. Value Creation Capability:**
+The framework is explicitly designed to shift value creation from purely economic output to a multidimensional view that includes social and ecological value. By aiming to "thrive rather than grow," it prioritizes the creation of resilience, well-being, and knowledge. Practices like circular design and value chain innovation are direct strategies for generating positive externalities and collective value beyond the product itself.
 
-The Doughnut Economics (Product Application) pattern has a strong potential to contribute to a more commons-based economy. However, its effectiveness will depend on the specific context in which it is applied, and on the willingness of businesses to embrace a new way of thinking about the purpose of business.
+**3. Resilience & Adaptability:**
+The pattern promotes resilience by encouraging a shift from degenerative, linear systems to regenerative, circular ones that can better withstand resource shocks. The core principle to "Get Savvy with Systems" fosters an adaptive approach to complexity, helping organizations understand feedback loops and interconnectedness. This systemic awareness is critical for maintaining coherence and adapting to a constantly changing environment.
+
+**4. Ownership Architecture:**
+The pattern challenges traditional ownership by promoting models like "Steward-Ownership," where the company's purpose is legally enshrined and profits are reinvested to serve that mission. This defines ownership through the lens of responsibility and stewardship rather than just monetary equity. Furthermore, its advocacy for open-source models helps distribute ownership of knowledge and capability, moving beyond proprietary control.
+
+**5. Design for Autonomy:**
+The framework's principles of being distributive and systems-savvy are highly compatible with autonomous systems like DAOs and AI. Its emphasis on community-centric models and collaboration aligns with the distributed nature of these technologies. The pattern encourages designing systems with low coordination overhead by embedding ethical and ecological principles directly into the operational logic, making it suitable for a future of increasingly autonomous economic activity.
+
+**6. Composability & Interoperability:**
+As a high-level framework, this pattern is exceptionally composable. It provides a guiding philosophy and set of principles that can be combined with numerous other operational, technical, and organizational patterns. It acts as a meta-pattern that helps to select and integrate other patterns in a way that aligns them toward a common goal of regenerative and distributive value creation.
+
+**7. Fractal Value Creation:**
+The core logic of the Doughnut—meeting needs within planetary boundaries—is inherently fractal and can be applied at any scale. The pattern demonstrates its application at the product level, but the same principles can be scaled down to individuals or up to entire industries, cities, and national economies. This scalability allows the value-creation logic to be consistently applied across nested systems, from a single product to the global commons.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+The pattern provides a powerful and comprehensive framework for shifting from extractive, linear models to regenerative, circular ones. It strongly enables collective value creation by redefining the goals of business and providing clear principles for generating social and ecological well-being. While it is a high-level guide and not a complete, off-the-shelf implementation, it is a critical enabler for building new value creation architectures.
+
+**Opportunities for Improvement:**
+- Develop more explicit guidance on defining and managing the Rights and Responsibilities of non-human stakeholders, such as ecosystems or AI agents.
+- Create more detailed implementation pathways for integrating the framework with specific legal and governance structures for DAOs and other autonomous systems.
+- Provide clearer metrics and tools for measuring the creation of non-financial value (social, ecological, knowledge) in a standardized way.
 
 ## 9. Resources & References
 

@@ -15,7 +15,7 @@ tags:
   era: [cognitive]
   origin: []
   status: draft
-  commons_alignment: 3
+  commons_alignment: 4
 commons_domain: business
 generalizes_from: []
 specializes_to: []
@@ -94,8 +94,6 @@ One of the most significant areas of impact has been in the study of **innovatio
 
 In the realm of **business strategy**, evolutionary thinking has influenced how firms approach innovation and competition. The concept of "dynamic capabilities," developed by David Teece and his colleagues, draws heavily on evolutionary principles. It emphasizes the importance of a firm's ability to sense, seize, and reconfigure its resources and capabilities to adapt to changing market environments. This perspective has moved the focus of strategy away from static positioning towards the management of innovation and organizational learning.
 
-Evolutionary economics has also made significant contributions to our understanding of **economic geography and regional development**. The concept of "regional innovation systems" highlights the importance of local networks, institutions, and knowledge spillovers in fostering innovation and economic growth. This has led to a greater appreciation for the role of place-specific factors in shaping economic outcomes and has informed regional development policies aimed at building and strengthening local innovation capabilities.
-
 ## 7. Cognitive Era Considerations
 
 The transition to the Cognitive Era, characterized by the rise of artificial intelligence, machine learning, and big data, presents both new challenges and opportunities for evolutionary economics. The principles of variation, selection, and retention remain highly relevant, but their manifestation and interplay are being transformed by these new technologies.
@@ -106,21 +104,40 @@ The transition to the Cognitive Era, characterized by the rise of artificial int
 
 **Data-Driven Routines and Organizational Learning:** In the Cognitive Era, organizational routines are increasingly encoded in software and data. This has the potential to both enhance and constrain organizational learning. On the one hand, data-driven routines can be more easily monitored, evaluated, and improved. On the other hand, they can also lead to a form of "algorithmic rigidity," where organizations become locked into suboptimal patterns of behavior. Evolutionary economics can provide valuable insights into how to design organizations that can effectively leverage data and AI to foster continuous learning and adaptation.
 
-## 8. Commons Alignment Assessment
+### 8. Commons Alignment Assessment (v2.0)
 
-Evolutionary economics, with its focus on dynamic change, innovation, and the importance of institutional context, offers a number of valuable perspectives for the development of a more commons-oriented economy. However, its alignment with commons principles is not without its tensions and ambiguities.
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
-| Dimension | Alignment | Rationale |
-|---|---|---|
-| **Openness & Access** | Moderate | While not explicitly focused on open access, the emphasis on knowledge diffusion and the social nature of innovation aligns with the principle of sharing knowledge to foster further creativity and progress. |
-| **Participation & Governance** | Moderate | The framework recognizes the importance of diverse actors and decentralized decision-making, but it does not inherently prescribe participatory governance structures. The focus is more on the emergent outcomes of competition and collaboration. |
-| **Shared Value & Co-creation** | High | The emphasis on innovation as a collective process, involving the recombination of existing knowledge and ideas, strongly resonates with the principles of co-creation and shared value. |
-| **Sustainability & Regeneration** | Low | The traditional focus of evolutionary economics has been on economic growth and technological progress, with less attention paid to ecological sustainability and planetary boundaries. However, the framework could be extended to incorporate these concerns. |
-| **Fairness & Equity** | Low | While the framework can be used to analyze the distributional consequences of economic change, it does not have a built-in normative commitment to fairness and equity. The focus is on the process of selection, which can lead to both winners and losers. |
-| **Decentralization & Distribution** | High | The view of the economy as a complex, decentralized system, with no central controller, is highly aligned with the principles of decentralization and distribution. |
-| **Purpose & Values** | Moderate | Evolutionary economics is primarily a descriptive framework, but it can be used to explore how different values and purposes can shape economic evolution. It provides a lens for understanding how to create an economy that is aligned with a broader set of social and ecological goals. |
+**1. Stakeholder Architecture:**
+The pattern primarily views stakeholders as economic agents (firms, individuals) competing and collaborating within a market environment. It does not explicitly define a broader architecture of Rights and Responsibilities that includes non-economic actors like the environment, future generations, or AI systems. The focus is on describing behavior rather than prescribing a normative stakeholder framework.
 
-**Overall Commons Alignment Score: 3/5**
+**2. Value Creation Capability:**
+Evolutionary economics excels at explaining the creation of knowledge and technological value through its focus on innovation and routines. However, its traditional scope is centered on economic and competitive value. While the framework is adaptable, it does not inherently prioritize the creation of social, ecological, or resilience value, which are often external to the market selection process.
+
+**3. Resilience & Adaptability:**
+This is a core strength of the pattern. The entire framework, based on variation, selection, and retention, is designed to explain how systems adapt to change and complexity. It provides a robust mental model for understanding how economies and organizations maintain coherence and evolve under stress, making it highly aligned with the principle of resilience.
+
+**4. Ownership Architecture:**
+The pattern implicitly assumes traditional models of ownership, where firms own assets and the knowledge embedded in their routines. It does not explore alternative ownership architectures, such as stewardship or commons-based models, that define ownership through Rights and Responsibilities rather than just monetary equity. The focus remains on the firm as the primary unit of analysis and ownership.
+
+**5. Design for Autonomy:**
+The pattern is highly compatible with autonomous systems. Its principles of bounded rationality, decentralized interaction, and emergent order are foundational to understanding DAOs and other distributed systems. The use of agent-based models for implementation directly simulates autonomous agents operating with low coordination overhead, making it a natural fit for the Cognitive Era.
+
+**6. Composability & Interoperability:**
+As a high-level theoretical framework, evolutionary economics is extremely composable. It readily integrates with other patterns and disciplines, such as institutional analysis, network theory, and complexity science. This allows it to be combined with other conceptual tools to build more comprehensive and multi-layered systems for analyzing and designing value creation architectures.
+
+**7. Fractal Value Creation:**
+The core evolutionary logic of variation, selection, and retention demonstrates strong fractal characteristics. This process can be observed at multiple scales: within individual decision-making (heuristics), organizational learning (routines), industry dynamics (firm competition), and national innovation systems. This scalability allows the pattern to provide a coherent logic for value creation across different levels of analysis.
+
+**Overall Score: 4/5 (Value Creation Enabler)**
+
+**Rationale:**
+Evolutionary Economics provides a powerful and essential framework for understanding how complex systems create value through adaptation and innovation. Its core principles of resilience, autonomy, and fractal scalability are deeply aligned with the v2.0 framework. However, it is an enabler rather than a complete architecture because it lacks a normative stakeholder and ownership model, and its definition of value is primarily economic. It describes the engine of value creation but does not provide the steering wheel for directing it towards collective well-being.
+
+**Opportunities for Improvement:**
+- Integrate a multi-stakeholder framework that explicitly defines Rights and Responsibilities for humans, organizations, AI, and the environment.
+- Expand the concept of "fitness" in the selection process to include metrics for social, ecological, and resilience value, not just market success.
+- Develop explicit models of commons-based ownership and governance that can be analyzed within an evolutionary framework.
 
 ## 9. Resources & References
 
