@@ -36,9 +36,9 @@ jobs:
         run: |
           pip install pyyaml openai
       
-      - name: Build knowledge graph
+      - name: Build all indexes
         run: |
-          python3 scripts/build_graph.py
+          python3 scripts/build_indexes.py
       
       - name: Generate health report
         id: health
