@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T15:24:32.844254Z",
-  "total_patterns": 922,
+  "generated_at": "2026-02-01T12:17:24.020314Z",
+  "total_patterns": 1114,
   "score_distribution": {
     "4": 449,
     "3": 297,
@@ -53,6 +53,888 @@
       "domain": "business",
       "universality": null,
       "file": "100-microservices-architecture.md"
+    },
+    {
+      "slug": "ai-bill-of-materials-aibom",
+      "title": "AI Bill of Materials (AIBOM)",
+      "description": "AI Bill of Materials (AIBOM) is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1000-ai-bill-of-materials-aibom.md"
+    },
+    {
+      "slug": "model-registry",
+      "title": "Model Registry",
+      "description": "Model Registry is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1001-model-registry.md"
+    },
+    {
+      "slug": "training-data-provenance",
+      "title": "Training Data Provenance",
+      "description": "Training Data Provenance is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1002-training-data-provenance.md"
+    },
+    {
+      "slug": "ai-explainability-xai",
+      "title": "AI Explainability (XAI)",
+      "description": "AI Explainability (XAI) is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1003-ai-explainability-xai.md"
+    },
+    {
+      "slug": "human-in-the-loop-hitl",
+      "title": "Human-in-the-Loop (HITL)",
+      "description": "Human-in-the-Loop (HITL) is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1004-human-in-the-loop-hitl.md"
+    },
+    {
+      "slug": "ai-bias-audit",
+      "title": "AI Bias Audit",
+      "description": "AI Bias Audit is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1005-ai-bias-audit.md"
+    },
+    {
+      "slug": "model-monitoring",
+      "title": "Model Monitoring",
+      "description": "Model Monitoring is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1006-model-monitoring.md"
+    },
+    {
+      "slug": "adversarial-robustness",
+      "title": "Adversarial Robustness",
+      "description": "Adversarial Robustness is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1007-adversarial-robustness.md"
+    },
+    {
+      "slug": "federated-learning-architecture",
+      "title": "Federated Learning Architecture",
+      "description": "Federated Learning Architecture is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1008-federated-learning-architecture.md"
+    },
+    {
+      "slug": "on-device-inference",
+      "title": "On-Device Inference",
+      "description": "On-Device Inference is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1009-on-device-inference.md"
+    },
+    {
+      "slug": "model-approval-workflow",
+      "title": "Model Approval Workflow",
+      "description": "Model Approval Workflow is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1010-model-approval-workflow.md"
+    },
+    {
+      "slug": "differential-privacy-for-ml",
+      "title": "Differential Privacy for ML",
+      "description": "Differential Privacy for ML is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1011-differential-privacy-for-ml.md"
+    },
+    {
+      "slug": "model-versioning",
+      "title": "Model Versioning",
+      "description": "Model Versioning is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1012-model-versioning.md"
+    },
+    {
+      "slug": "adversarial-robustness",
+      "title": "Adversarial Robustness",
+      "description": "Adversarial Robustness is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1013-adversarial-robustness.md"
+    },
+    {
+      "slug": "secure-model-serving",
+      "title": "Secure Model Serving",
+      "description": "Secure Model Serving is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1014-secure-model-serving.md"
+    },
+    {
+      "slug": "model-drift-detection",
+      "title": "Model Drift Detection",
+      "description": "Model Drift Detection is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1015-model-drift-detection.md"
+    },
+    {
+      "slug": "secure-aggregation",
+      "title": "Secure Aggregation",
+      "description": "Secure Aggregation is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1016-secure-aggregation.md"
+    },
+    {
+      "slug": "split-learning",
+      "title": "Split Learning",
+      "description": "Split Learning is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1017-split-learning.md"
+    },
+    {
+      "slug": "federated-evaluation",
+      "title": "Federated Evaluation",
+      "description": "Federated Evaluation is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1018-federated-evaluation.md"
+    },
+    {
+      "slug": "tee-based-inference",
+      "title": "TEE-Based Inference",
+      "description": "TEE-Based Inference is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1019-tee-based-inference.md"
+    },
+    {
+      "slug": "data-minimization",
+      "title": "Data Minimization",
+      "description": "Data Minimization is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1020-data-minimization.md"
+    },
+    {
+      "slug": "privacy-by-design-pbd",
+      "title": "Privacy by Design (PbD)",
+      "description": "Privacy by Design (PbD) is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1021-privacy-by-design-pbd.md"
+    },
+    {
+      "slug": "consent-management",
+      "title": "Consent Management",
+      "description": "Consent Management is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1022-consent-management.md"
+    },
+    {
+      "slug": "anonymization",
+      "title": "Anonymization",
+      "description": "Anonymization is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1023-anonymization.md"
+    },
+    {
+      "slug": "encryption",
+      "title": "Encryption",
+      "description": "Encryption is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1024-encryption.md"
+    },
+    {
+      "slug": "access-control",
+      "title": "Access Control",
+      "description": "Access Control is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1025-access-control.md"
+    },
+    {
+      "slug": "data-retention",
+      "title": "Data Retention",
+      "description": "Data Retention is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1026-data-retention.md"
+    },
+    {
+      "slug": "differential-privacy",
+      "title": "Differential Privacy",
+      "description": "Differential Privacy is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1027-differential-privacy.md"
+    },
+    {
+      "slug": "federated-learning",
+      "title": "Federated Learning",
+      "description": "Federated Learning is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1028-federated-learning.md"
+    },
+    {
+      "slug": "privacy-dashboard",
+      "title": "Privacy Dashboard",
+      "description": "Privacy Dashboard is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1029-privacy-dashboard.md"
+    },
+    {
+      "slug": "privacy-impact-assessment-pia",
+      "title": "Privacy Impact Assessment (PIA)",
+      "description": "Privacy Impact Assessment (PIA) is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1030-privacy-impact-assessment-pia.md"
+    },
+    {
+      "slug": "pseudonymization",
+      "title": "Pseudonymization",
+      "description": "Pseudonymization is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1031-pseudonymization.md"
+    },
+    {
+      "slug": "data-portability",
+      "title": "Data Portability",
+      "description": "Data Portability is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1032-data-portability.md"
+    },
+    {
+      "slug": "right-to-erasure-right-to-be-forgotten",
+      "title": "Right to Erasure ('Right to be Forgotten')",
+      "description": "Right to Erasure ('Right to be Forgotten') is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1033-right-to-erasure-right-to-be-forgotten.md"
+    },
+    {
+      "slug": "purpose-limitation",
+      "title": "Purpose Limitation",
+      "description": "Purpose Limitation is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1034-purpose-limitation.md"
+    },
+    {
+      "slug": "privacy-impact-assessment-pia",
+      "title": "Privacy Impact Assessment (PIA)",
+      "description": "Privacy Impact Assessment (PIA) is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1035-privacy-impact-assessment-pia.md"
+    },
+    {
+      "slug": "k-anonymity",
+      "title": "K-Anonymity",
+      "description": "K-Anonymity is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1036-k-anonymity.md"
+    },
+    {
+      "slug": "l-diversity",
+      "title": "L-Diversity",
+      "description": "L-Diversity is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1037-l-diversity.md"
+    },
+    {
+      "slug": "secure-multi-party-computation-smpc-or-mpc",
+      "title": "Secure Multi-Party Computation (SMPC or MPC)",
+      "description": "Secure Multi-Party Computation (SMPC or MPC) is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1038-secure-multi-party-computation-smpc-or-mpc.md"
+    },
+    {
+      "slug": "homomorphic-encryption",
+      "title": "Homomorphic Encryption",
+      "description": "Homomorphic Encryption is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1039-homomorphic-encryption.md"
+    },
+    {
+      "slug": "private-information-retrieval-pir",
+      "title": "Private Information Retrieval (PIR)",
+      "description": "Private Information Retrieval (PIR) is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1040-private-information-retrieval-pir.md"
+    },
+    {
+      "slug": "privacy-by-default",
+      "title": "Privacy by Default",
+      "description": "Privacy by Default is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1041-privacy-by-default.md"
+    },
+    {
+      "slug": "data-masking",
+      "title": "Data Masking",
+      "description": "Data Masking is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1042-data-masking.md"
+    },
+    {
+      "slug": "zero-knowledge-proofs-zkps",
+      "title": "Zero-Knowledge Proofs (ZKPs)",
+      "description": "Zero-Knowledge Proofs (ZKPs) is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1043-zero-knowledge-proofs-zkps.md"
+    },
+    {
+      "slug": "attribute-based-credentials-abcs",
+      "title": "Attribute-Based Credentials (ABCs)",
+      "description": "Attribute-Based Credentials (ABCs) is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1044-attribute-based-credentials-abcs.md"
+    },
+    {
+      "slug": "synthetic-data-generation",
+      "title": "Synthetic Data Generation",
+      "description": "Synthetic Data Generation is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1045-synthetic-data-generation.md"
+    },
+    {
+      "slug": "confidential-computing",
+      "title": "Confidential Computing",
+      "description": "Confidential Computing is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1046-confidential-computing.md"
+    },
+    {
+      "slug": "privacy-preserving-analytics",
+      "title": "Privacy-Preserving Analytics",
+      "description": "Privacy-Preserving Analytics is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1047-privacy-preserving-analytics.md"
+    },
+    {
+      "slug": "decentralized-data-storage",
+      "title": "Decentralized Data Storage",
+      "description": "Decentralized Data Storage is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1048-decentralized-data-storage.md"
+    },
+    {
+      "slug": "privacy-preserving-record-linkage",
+      "title": "Privacy-Preserving Record Linkage",
+      "description": "Privacy-Preserving Record Linkage is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1049-privacy-preserving-record-linkage.md"
+    },
+    {
+      "slug": "self-sovereign-identity",
+      "title": "Self-Sovereign Identity",
+      "description": "Self-Sovereign Identity is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1050-self-sovereign-identity.md"
+    },
+    {
+      "slug": "zero-trust-architecture",
+      "title": "Zero Trust Architecture",
+      "description": "Zero Trust Architecture is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1051-zero-trust-architecture.md"
+    },
+    {
+      "slug": "defense-in-depth",
+      "title": "Defense in Depth",
+      "description": "Defense in Depth is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1052-defense-in-depth.md"
+    },
+    {
+      "slug": "principle-of-least-privilege-polp",
+      "title": "Principle of Least Privilege (PoLP)",
+      "description": "Principle of Least Privilege (PoLP) is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1053-principle-of-least-privilege-polp.md"
+    },
+    {
+      "slug": "secure-by-design",
+      "title": "Secure by Design",
+      "description": "Secure by Design is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1054-secure-by-design.md"
+    },
+    {
+      "slug": "multi-factor-authentication-mfa",
+      "title": "Multi-Factor Authentication (MFA)",
+      "description": "Multi-Factor Authentication (MFA) is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1055-multi-factor-authentication-mfa.md"
+    },
+    {
+      "slug": "input-validation",
+      "title": "Input Validation",
+      "description": "Input Validation is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1056-input-validation.md"
+    },
+    {
+      "slug": "secrets-management",
+      "title": "Secrets Management",
+      "description": "Secrets Management is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1057-secrets-management.md"
+    },
+    {
+      "slug": "security-logging-and-monitoring",
+      "title": "Security Logging and Monitoring",
+      "description": "Security Logging and Monitoring is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1058-security-logging-and-monitoring.md"
+    },
+    {
+      "slug": "network-segmentation",
+      "title": "Network Segmentation",
+      "description": "Network Segmentation is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1059-network-segmentation.md"
+    },
+    {
+      "slug": "api-security",
+      "title": "API Security",
+      "description": "API Security is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1060-api-security.md"
+    },
+    {
+      "slug": "vulnerability-management",
+      "title": "Vulnerability Management",
+      "description": "Vulnerability Management is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1061-vulnerability-management.md"
+    },
+    {
+      "slug": "role-based-access-control-rbac",
+      "title": "Role-Based Access Control (RBAC)",
+      "description": "Role-Based Access Control (RBAC) is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1062-role-based-access-control-rbac.md"
+    },
+    {
+      "slug": "security-headers",
+      "title": "Security Headers",
+      "description": "Security Headers is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1063-security-headers.md"
+    },
+    {
+      "slug": "vulnerability-management",
+      "title": "Vulnerability Management",
+      "description": "Vulnerability Management is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1064-vulnerability-management.md"
+    },
+    {
+      "slug": "incident-response",
+      "title": "Incident Response",
+      "description": "Incident Response is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1065-incident-response.md"
+    },
+    {
+      "slug": "microsegmentation",
+      "title": "Microsegmentation",
+      "description": "Microsegmentation is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1066-microsegmentation.md"
+    },
+    {
+      "slug": "bastion-host",
+      "title": "Bastion Host",
+      "description": "Bastion Host is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1067-bastion-host.md"
+    },
+    {
+      "slug": "service-mesh-security",
+      "title": "Service Mesh Security",
+      "description": "Service Mesh Security is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1068-service-mesh-security.md"
+    },
+    {
+      "slug": "container-security",
+      "title": "Container Security",
+      "description": "Container Security is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1069-container-security.md"
+    },
+    {
+      "slug": "infrastructure-as-code-security",
+      "title": "Infrastructure as Code Security",
+      "description": "Infrastructure as Code Security is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1070-infrastructure-as-code-security.md"
+    },
+    {
+      "slug": "secure-ci-cd-pipeline",
+      "title": "Secure CI/CD Pipeline",
+      "description": "Secure CI/CD Pipeline is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1071-secure-ci-cd-pipeline.md"
+    },
+    {
+      "slug": "penetration-testing",
+      "title": "Penetration Testing",
+      "description": "Penetration Testing is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1072-penetration-testing.md"
+    },
+    {
+      "slug": "software-bill-of-materials-sbom",
+      "title": "Software Bill of Materials (SBOM)",
+      "description": "Software Bill of Materials (SBOM) is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1073-software-bill-of-materials-sbom.md"
+    },
+    {
+      "slug": "supply-chain-levels-for-software-artifacts-slsa",
+      "title": "Supply chain Levels for Software Artifacts (SLSA)",
+      "description": "Supply chain Levels for Software Artifacts (SLSA) is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1074-supply-chain-levels-for-software-artifacts-slsa.md"
+    },
+    {
+      "slug": "binary-authorization",
+      "title": "Binary Authorization",
+      "description": "Binary Authorization is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1075-binary-authorization.md"
+    },
+    {
+      "slug": "runtime-application-self-protection-rasp",
+      "title": "Runtime Application Self-Protection (RASP)",
+      "description": "Runtime Application Self-Protection (RASP) is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1076-runtime-application-self-protection-rasp.md"
+    },
+    {
+      "slug": "chaos-engineering-for-security",
+      "title": "Chaos Engineering for Security",
+      "description": "Chaos Engineering for Security is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1077-chaos-engineering-for-security.md"
+    },
+    {
+      "slug": "security-as-code",
+      "title": "Security as Code",
+      "description": "Security as Code is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1078-security-as-code.md"
+    },
+    {
+      "slug": "immutable-infrastructure",
+      "title": "Immutable Infrastructure",
+      "description": "Immutable Infrastructure is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1079-immutable-infrastructure.md"
+    },
+    {
+      "slug": "data-sovereignty-by-design",
+      "title": "Data Sovereignty by Design",
+      "description": "Data Sovereignty by Design is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1080-data-sovereignty-by-design.md"
+    },
+    {
+      "slug": "open-standards-adoption",
+      "title": "Open Standards Adoption",
+      "description": "Open Standards Adoption is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1081-open-standards-adoption.md"
+    },
+    {
+      "slug": "vendor-exit-strategy",
+      "title": "Vendor Exit Strategy",
+      "description": "Vendor Exit Strategy is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1082-vendor-exit-strategy.md"
+    },
+    {
+      "slug": "multi-cloud",
+      "title": "Multi-Cloud",
+      "description": "Multi-Cloud is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1083-multi-cloud.md"
+    },
+    {
+      "slug": "data-classification",
+      "title": "Data Classification",
+      "description": "Data Classification is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1084-data-classification.md"
+    },
+    {
+      "slug": "open-source-first",
+      "title": "Open Source First",
+      "description": "Open Source First is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1085-open-source-first.md"
+    },
+    {
+      "slug": "portable-data-formats",
+      "title": "Portable Data Formats",
+      "description": "Portable Data Formats is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1086-portable-data-formats.md"
+    },
+    {
+      "slug": "regional-data-residency",
+      "title": "Regional Data Residency",
+      "description": "Regional Data Residency is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1087-regional-data-residency.md"
+    },
+    {
+      "slug": "decentralized-identifier-did",
+      "title": "Decentralized Identifier (DID)",
+      "description": "Decentralized Identifier (DID) is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1088-decentralized-identifier-did.md"
+    },
+    {
+      "slug": "verifiable-credentials",
+      "title": "Verifiable Credentials",
+      "description": "Verifiable Credentials is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1089-verifiable-credentials.md"
+    },
+    {
+      "slug": "container-based-portability",
+      "title": "Container-Based Portability",
+      "description": "Container-Based Portability is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1090-container-based-portability.md"
+    },
+    {
+      "slug": "api-abstraction-layer",
+      "title": "API Abstraction Layer",
+      "description": "API Abstraction Layer is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1091-api-abstraction-layer.md"
+    },
+    {
+      "slug": "federated-data-spaces",
+      "title": "Federated Data Spaces",
+      "description": "Federated Data Spaces is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1092-federated-data-spaces.md"
+    },
+    {
+      "slug": "usage-control-policies",
+      "title": "Usage Control Policies",
+      "description": "Usage Control Policies is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1093-usage-control-policies.md"
+    },
+    {
+      "slug": "sovereign-cloud-architecture",
+      "title": "Sovereign Cloud Architecture",
+      "description": "Sovereign Cloud Architecture is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1094-sovereign-cloud-architecture.md"
+    },
+    {
+      "slug": "edge-first-data-processing",
+      "title": "Edge-First Data Processing",
+      "description": "Edge-First Data Processing is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1095-edge-first-data-processing.md"
+    },
+    {
+      "slug": "cross-border-data-transfer-controls",
+      "title": "Cross-Border Data Transfer Controls",
+      "description": "Cross-Border Data Transfer Controls is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1096-cross-border-data-transfer-controls.md"
+    },
+    {
+      "slug": "gaia-x-compliance",
+      "title": "GAIA-X Compliance",
+      "description": "GAIA-X Compliance is a pattern for building resilient value creation systems.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "1097-gaia-x-compliance.md"
     },
     {
       "slug": "dynamic-governance-sociocratic-circle-method",
@@ -1619,6 +2501,852 @@
       "domain": "business",
       "universality": null,
       "file": "99-infrastructure-as-code-iac.md"
+    },
+    {
+      "slug": "A092-Model-Registry",
+      "title": "A092 Model Registry",
+      "description": "_# Pattern: Model Registry",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "A092-Model-Registry.md"
+    },
+    {
+      "slug": "A093-Training-Data-Provenance",
+      "title": "A093 Training Data Provenance",
+      "description": "_# Pattern: Training Data Provenance",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "A093-Training-Data-Provenance.md"
+    },
+    {
+      "slug": "A094-Explainability",
+      "title": "A094 Explainability",
+      "description": "_# Pattern: AI Explainability",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "A094-Explainability.md"
+    },
+    {
+      "slug": "A095-Human-in-the-Loop",
+      "title": "A095 Human In The Loop",
+      "description": "_# Pattern: Human-in-the-Loop",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "A095-Human-in-the-Loop.md"
+    },
+    {
+      "slug": "A096-Bias-Audit",
+      "title": "A096 Bias Audit",
+      "description": "_# Pattern: AI Bias Audit",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "A096-Bias-Audit.md"
+    },
+    {
+      "slug": "A097-Model-Monitoring",
+      "title": "A097 Model Monitoring",
+      "description": "_# Pattern: Model Monitoring",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "A097-Model-Monitoring.md"
+    },
+    {
+      "slug": "A098-Adversarial-Robustness",
+      "title": "A098 Adversarial Robustness",
+      "description": "_# Pattern: Adversarial Robustness",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "A098-Adversarial-Robustness.md"
+    },
+    {
+      "slug": "A099-Federated-Learning-Architecture",
+      "title": "A099 Federated Learning Architecture",
+      "description": "_# Pattern: Federated Learning Architecture",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "A099-Federated-Learning-Architecture.md"
+    },
+    {
+      "slug": "A100-On-Device-Inference",
+      "title": "A100 On Device Inference",
+      "description": "_# Pattern: On-Device Inference",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "A100-On-Device-Inference.md"
+    },
+    {
+      "slug": "A101-Model-Approval-Workflow",
+      "title": "A101 Model Approval Workflow",
+      "description": "_# Pattern: Model Approval Workflow",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "A101-Model-Approval-Workflow.md"
+    },
+    {
+      "slug": "A102-Differential-Privacy-for-ML",
+      "title": "A102 Differential Privacy For Ml",
+      "description": "_# Pattern: Differential Privacy for ML",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "A102-Differential-Privacy-for-ML.md"
+    },
+    {
+      "slug": "A103-Model-Versioning",
+      "title": "A103 Model Versioning",
+      "description": "_# Pattern: Model Versioning",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "A103-Model-Versioning.md"
+    },
+    {
+      "slug": "A104-Adversarial-Robustness",
+      "title": "A104 Adversarial Robustness",
+      "description": "_# Pattern: Adversarial Robustness",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "A104-Adversarial-Robustness.md"
+    },
+    {
+      "slug": "A105-Secure-Model-Serving",
+      "title": "A105 Secure Model Serving",
+      "description": "_# Pattern: Secure Model Serving",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "A105-Secure-Model-Serving.md"
+    },
+    {
+      "slug": "A106-Model-Drift-Detection",
+      "title": "A106 Model Drift Detection",
+      "description": "_# Pattern: Model Drift Detection",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "A106-Model-Drift-Detection.md"
+    },
+    {
+      "slug": "A107-Secure-Aggregation",
+      "title": "A107 Secure Aggregation",
+      "description": "_# Pattern: Secure Aggregation",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "A107-Secure-Aggregation.md"
+    },
+    {
+      "slug": "A108-Split-Learning",
+      "title": "A108 Split Learning",
+      "description": "_# Pattern: Split Learning",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "A108-Split-Learning.md"
+    },
+    {
+      "slug": "A109-Federated-Evaluation",
+      "title": "A109 Federated Evaluation",
+      "description": "_# Pattern: Federated Evaluation",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "A109-Federated-Evaluation.md"
+    },
+    {
+      "slug": "A114-TEE-Based-Inference",
+      "title": "A114 Tee Based Inference",
+      "description": "_# Pattern: TEE-Based Inference",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "A114-TEE-Based-Inference.md"
+    },
+    {
+      "slug": "P002-Privacy-by-Design",
+      "title": "P002 Privacy By Design",
+      "description": "_# Pattern: Privacy by Design",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P002-Privacy-by-Design.md"
+    },
+    {
+      "slug": "P003-Consent-Management",
+      "title": "Pattern: Consent Management",
+      "description": "**P003: Consent Management**",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P003-Consent-Management.md"
+    },
+    {
+      "slug": "P004-Anonymization",
+      "title": "P004 Anonymization",
+      "description": "_# Pattern: Anonymization",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P004-Anonymization.md"
+    },
+    {
+      "slug": "P005-Encryption",
+      "title": "P005 Encryption",
+      "description": "_# Pattern: Encryption",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P005-Encryption.md"
+    },
+    {
+      "slug": "P006-Access-Control",
+      "title": "P006 Access Control",
+      "description": "_# Pattern: Access Control",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P006-Access-Control.md"
+    },
+    {
+      "slug": "P007-Data-Retention",
+      "title": "P007 Data Retention",
+      "description": "_# Pattern: Data Retention",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P007-Data-Retention.md"
+    },
+    {
+      "slug": "P008-Differential-Privacy",
+      "title": "P008 Differential Privacy",
+      "description": "_# Pattern: Differential Privacy",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P008-Differential-Privacy.md"
+    },
+    {
+      "slug": "P009-Federated-Learning",
+      "title": "P009 Federated Learning",
+      "description": "_# Pattern: Federated Learning",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P009-Federated-Learning.md"
+    },
+    {
+      "slug": "P010-Privacy-Dashboard",
+      "title": "P010 Privacy Dashboard",
+      "description": "_# Pattern: Privacy Dashboard",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P010-Privacy-Dashboard.md"
+    },
+    {
+      "slug": "P011-Privacy-Impact-Assessment",
+      "title": "P011 Privacy Impact Assessment",
+      "description": "_# Pattern: Privacy Impact Assessment (PIA)",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P011-Privacy-Impact-Assessment.md"
+    },
+    {
+      "slug": "P012-Pseudonymization",
+      "title": "P012 Pseudonymization",
+      "description": "_# Pattern: Pseudonymization",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P012-Pseudonymization.md"
+    },
+    {
+      "slug": "P013-Data-Portability",
+      "title": "P013 Data Portability",
+      "description": "_# Pattern: Data Portability",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P013-Data-Portability.md"
+    },
+    {
+      "slug": "P014-Right-to-Erasure",
+      "title": "P014 Right To Erasure",
+      "description": "_# Pattern: Right to Erasure",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P014-Right-to-Erasure.md"
+    },
+    {
+      "slug": "P015-Purpose-Limitation",
+      "title": "P015 Purpose Limitation",
+      "description": "_# Pattern: Purpose Limitation",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P015-Purpose-Limitation.md"
+    },
+    {
+      "slug": "P016-Privacy-Impact-Assessment",
+      "title": "P016 Privacy Impact Assessment",
+      "description": "_# Pattern: Privacy Impact Assessment (PIA)",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P016-Privacy-Impact-Assessment.md"
+    },
+    {
+      "slug": "P017-K-Anonymity",
+      "title": "P017 K Anonymity",
+      "description": "_# Pattern: K-Anonymity",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P017-K-Anonymity.md"
+    },
+    {
+      "slug": "P018-L-Diversity",
+      "title": "P018 L Diversity",
+      "description": "_# Pattern: L-Diversity",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P018-L-Diversity.md"
+    },
+    {
+      "slug": "P019-Secure-Multi-Party-Computation",
+      "title": "P019 Secure Multi Party Computation",
+      "description": "_# Pattern: Secure Multi-Party Computation",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P019-Secure-Multi-Party-Computation.md"
+    },
+    {
+      "slug": "P020-Homomorphic-Encryption",
+      "title": "P020 Homomorphic Encryption",
+      "description": "_# Pattern: Homomorphic Encryption",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P020-Homomorphic-Encryption.md"
+    },
+    {
+      "slug": "P021-Private-Information-Retrieval",
+      "title": "P021 Private Information Retrieval",
+      "description": "_# Pattern: Private Information Retrieval",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P021-Private-Information-Retrieval.md"
+    },
+    {
+      "slug": "P022-Privacy-by-Default",
+      "title": "P022 Privacy By Default",
+      "description": "_# Pattern: Privacy by Default",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P022-Privacy-by-Default.md"
+    },
+    {
+      "slug": "P023-Data-Masking",
+      "title": "P023 Data Masking",
+      "description": "_# Pattern: Data Masking",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P023-Data-Masking.md"
+    },
+    {
+      "slug": "P024-Zero-Knowledge-Proofs",
+      "title": "P024 Zero Knowledge Proofs",
+      "description": "_# Pattern: Zero-Knowledge Proofs",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P024-Zero-Knowledge-Proofs.md"
+    },
+    {
+      "slug": "P025-Attribute-Based-Credentials",
+      "title": "P025 Attribute Based Credentials",
+      "description": "_# Pattern: Attribute-Based Credentials",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P025-Attribute-Based-Credentials.md"
+    },
+    {
+      "slug": "P026-Synthetic-Data-Generation",
+      "title": "P026 Synthetic Data Generation",
+      "description": "_# Pattern: Synthetic Data Generation",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P026-Synthetic-Data-Generation.md"
+    },
+    {
+      "slug": "P027-Confidential-Computing",
+      "title": "P027 Confidential Computing",
+      "description": "_# Pattern: Confidential Computing",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P027-Confidential-Computing.md"
+    },
+    {
+      "slug": "P028-Privacy-Preserving-Analytics",
+      "title": "P028 Privacy Preserving Analytics",
+      "description": "_# Pattern: Privacy-Preserving Analytics",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P028-Privacy-Preserving-Analytics.md"
+    },
+    {
+      "slug": "P029-Decentralized-Data-Storage",
+      "title": "P029 Decentralized Data Storage",
+      "description": "_# Pattern: Decentralized Data Storage",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P029-Decentralized-Data-Storage.md"
+    },
+    {
+      "slug": "P030-Privacy-Preserving-Record-Linkage",
+      "title": "P030 Privacy Preserving Record Linkage",
+      "description": "_# Pattern: Privacy-Preserving Record Linkage",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "P030-Privacy-Preserving-Record-Linkage.md"
+    },
+    {
+      "slug": "S032-Defense-in-Depth",
+      "title": "S032 Defense In Depth",
+      "description": "_# Pattern: Defense in Depth",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S032-Defense-in-Depth.md"
+    },
+    {
+      "slug": "S033-Least-Privilege",
+      "title": "S033 Least Privilege",
+      "description": "_# Pattern: Principle of Least Privilege",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S033-Least-Privilege.md"
+    },
+    {
+      "slug": "S035-Secure-by-Design",
+      "title": "S035 Secure By Design",
+      "description": "_# Pattern: Secure by Design",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S035-Secure-by-Design.md"
+    },
+    {
+      "slug": "S036-Multi-Factor-Authentication",
+      "title": "S036 Multi Factor Authentication",
+      "description": "_# Pattern: Multi-Factor Authentication",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S036-Multi-Factor-Authentication.md"
+    },
+    {
+      "slug": "S037-Input-Validation",
+      "title": "S037 Input Validation",
+      "description": "_# Pattern: Input Validation",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S037-Input-Validation.md"
+    },
+    {
+      "slug": "S038-Secrets-Management",
+      "title": "S038 Secrets Management",
+      "description": "_# Pattern: Secrets Management",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S038-Secrets-Management.md"
+    },
+    {
+      "slug": "S039-Security-Logging",
+      "title": "S039 Security Logging",
+      "description": "_# Pattern: Security Logging",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S039-Security-Logging.md"
+    },
+    {
+      "slug": "S040-Network-Segmentation",
+      "title": "S040 Network Segmentation",
+      "description": "_# Pattern: Network Segmentation",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S040-Network-Segmentation.md"
+    },
+    {
+      "slug": "S041-API-Security",
+      "title": "S041 Api Security",
+      "description": "_# Pattern: API Security",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S041-API-Security.md"
+    },
+    {
+      "slug": "S042-Vulnerability-Management",
+      "title": "S042 Vulnerability Management",
+      "description": "_# Pattern: Vulnerability Management",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S042-Vulnerability-Management.md"
+    },
+    {
+      "slug": "S043-Role-Based-Access-Control",
+      "title": "S043 Role Based Access Control",
+      "description": "_# Pattern: Role-Based Access Control (RBAC)",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S043-Role-Based-Access-Control.md"
+    },
+    {
+      "slug": "S044-Security-Headers",
+      "title": "S044 Security Headers",
+      "description": "_# Pattern: Security Headers",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S044-Security-Headers.md"
+    },
+    {
+      "slug": "S045-Vulnerability-Management",
+      "title": "S045 Vulnerability Management",
+      "description": "_# Pattern: Vulnerability Management",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S045-Vulnerability-Management.md"
+    },
+    {
+      "slug": "S046-Incident-Response",
+      "title": "S046 Incident Response",
+      "description": "_# Pattern: Incident Response",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S046-Incident-Response.md"
+    },
+    {
+      "slug": "S047-Microsegmentation",
+      "title": "S047 Microsegmentation",
+      "description": "_# Pattern: Microsegmentation",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S047-Microsegmentation.md"
+    },
+    {
+      "slug": "S048-Bastion-Host",
+      "title": "S048 Bastion Host",
+      "description": "_# Pattern: Bastion Host",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S048-Bastion-Host.md"
+    },
+    {
+      "slug": "S049-Service-Mesh-Security",
+      "title": "S049 Service Mesh Security",
+      "description": "_# Pattern: Service Mesh Security",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S049-Service-Mesh-Security.md"
+    },
+    {
+      "slug": "S050-Container-Security",
+      "title": "S050 Container Security",
+      "description": "_# Pattern: Container Security",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S050-Container-Security.md"
+    },
+    {
+      "slug": "S051-Infrastructure-as-Code-Security",
+      "title": "S051 Infrastructure As Code Security",
+      "description": "_# Pattern: Infrastructure as Code Security",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S051-Infrastructure-as-Code-Security.md"
+    },
+    {
+      "slug": "S052-Secure-CI-CD-Pipeline",
+      "title": "S052 Secure Ci Cd Pipeline",
+      "description": "_# Pattern: Secure CI/CD Pipeline",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S052-Secure-CI-CD-Pipeline.md"
+    },
+    {
+      "slug": "S053-Penetration-Testing",
+      "title": "S053 Penetration Testing",
+      "description": "_# Pattern: Penetration Testing",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S053-Penetration-Testing.md"
+    },
+    {
+      "slug": "S054-Software-Bill-of-Materials",
+      "title": "S054 Software Bill Of Materials",
+      "description": "_# Pattern: Software Bill of Materials (SBOM)",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S054-Software-Bill-of-Materials.md"
+    },
+    {
+      "slug": "S055-SLSA-Framework",
+      "title": "S055 Slsa Framework",
+      "description": "_# Pattern: SLSA Framework",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S055-SLSA-Framework.md"
+    },
+    {
+      "slug": "S056-Binary-Authorization",
+      "title": "S056 Binary Authorization",
+      "description": "_# Pattern: Binary Authorization",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S056-Binary-Authorization.md"
+    },
+    {
+      "slug": "S057-Runtime-Application-Self-Protection",
+      "title": "S057 Runtime Application Self Protection",
+      "description": "_# Pattern: Runtime Application Self-Protection",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S057-Runtime-Application-Self-Protection.md"
+    },
+    {
+      "slug": "S058-Chaos-Engineering-for-Security",
+      "title": "S058 Chaos Engineering For Security",
+      "description": "_# Pattern: Chaos Engineering for Security",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S058-Chaos-Engineering-for-Security.md"
+    },
+    {
+      "slug": "S059-Security-as-Code",
+      "title": "S059 Security As Code",
+      "description": "_# Pattern: Security as Code",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S059-Security-as-Code.md"
+    },
+    {
+      "slug": "S060-Immutable-Infrastructure",
+      "title": "S060 Immutable Infrastructure",
+      "description": "_# Pattern: Immutable Infrastructure",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S060-Immutable-Infrastructure.md"
+    },
+    {
+      "slug": "S061-Data-Sovereignty-by-Design",
+      "title": "S061 Data Sovereignty By Design",
+      "description": "_# Pattern: Data Sovereignty by Design",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S061-Data-Sovereignty-by-Design.md"
+    },
+    {
+      "slug": "S062-Open-Standards",
+      "title": "S062 Open Standards",
+      "description": "_# Pattern: Open Standards Adoption",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S062-Open-Standards.md"
+    },
+    {
+      "slug": "S063-Vendor-Exit-Strategy",
+      "title": "S063 Vendor Exit Strategy",
+      "description": "_# Pattern: Vendor Exit Strategy",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S063-Vendor-Exit-Strategy.md"
+    },
+    {
+      "slug": "S064-Multi-Cloud",
+      "title": "S064 Multi Cloud",
+      "description": "_# Pattern: Multi-Cloud",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S064-Multi-Cloud.md"
+    },
+    {
+      "slug": "S065-Data-Classification",
+      "title": "S065 Data Classification",
+      "description": "_# Pattern: Data Classification",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S065-Data-Classification.md"
+    },
+    {
+      "slug": "S067-Open-Source-First",
+      "title": "S067 Open Source First",
+      "description": "_# Pattern: Open Source First",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S067-Open-Source-First.md"
+    },
+    {
+      "slug": "S068-Portable-Data-Formats",
+      "title": "S068 Portable Data Formats",
+      "description": "_# Pattern: Portable Data Formats",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S068-Portable-Data-Formats.md"
+    },
+    {
+      "slug": "S069-Regional-Data-Residency",
+      "title": "S069 Regional Data Residency",
+      "description": "_# Pattern: Regional Data Residency",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S069-Regional-Data-Residency.md"
+    },
+    {
+      "slug": "S070-Decentralized-Identifier",
+      "title": "S070 Decentralized Identifier",
+      "description": "_# Pattern: Decentralized Identifier (DID)",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S070-Decentralized-Identifier.md"
+    },
+    {
+      "slug": "S071-Verifiable-Credentials",
+      "title": "S071 Verifiable Credentials",
+      "description": "_# Pattern: Verifiable Credentials",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S071-Verifiable-Credentials.md"
+    },
+    {
+      "slug": "S072-Container-Based-Portability",
+      "title": "S072 Container Based Portability",
+      "description": "_# Pattern: Container-Based Portability",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S072-Container-Based-Portability.md"
+    },
+    {
+      "slug": "S073-API-Abstraction-Layer",
+      "title": "S073 Api Abstraction Layer",
+      "description": "_# Pattern: API Abstraction Layer",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S073-API-Abstraction-Layer.md"
+    },
+    {
+      "slug": "S074-Federated-Data-Spaces",
+      "title": "S074 Federated Data Spaces",
+      "description": "_# Pattern: Federated Data Spaces",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S074-Federated-Data-Spaces.md"
+    },
+    {
+      "slug": "S075-Usage-Control-Policies",
+      "title": "S075 Usage Control Policies",
+      "description": "_# Pattern: Usage Control Policies",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S075-Usage-Control-Policies.md"
+    },
+    {
+      "slug": "S077-Sovereign-Cloud-Architecture",
+      "title": "S077 Sovereign Cloud Architecture",
+      "description": "_# Pattern: Sovereign Cloud Architecture",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S077-Sovereign-Cloud-Architecture.md"
+    },
+    {
+      "slug": "S078-Edge-First-Data-Processing",
+      "title": "S078 Edge First Data Processing",
+      "description": "_# Pattern: Edge-First Data Processing",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S078-Edge-First-Data-Processing.md"
+    },
+    {
+      "slug": "S079-Cross-Border-Data-Transfer-Controls",
+      "title": "S079 Cross Border Data Transfer Controls",
+      "description": "_# Pattern: Cross-Border Data Transfer Controls",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S079-Cross-Border-Data-Transfer-Controls.md"
+    },
+    {
+      "slug": "S084-GAIA-X-Compliance",
+      "title": "S084 Gaia X Compliance",
+      "description": "_# Pattern: GAIA-X Compliance",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "S084-GAIA-X-Compliance.md"
     },
     {
       "slug": "a3-thinking-toyota-problem-solving",
