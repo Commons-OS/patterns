@@ -1,0 +1,906 @@
+{
+  "page": 4,
+  "total_pages": 10,
+  "patterns": [
+    {
+      "slug": "community-owned-production",
+      "title": "Community-Owned Production",
+      "description": "Community-Owned Production is a socio-economic pattern where the means of production\u2014such as land, factories, tools, and infrastructure\u2014are owned and controlled collectively by a community rather t...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "community-owned-production.md"
+    },
+    {
+      "slug": "community-supported-manufacturing",
+      "title": "Community Supported Manufacturing",
+      "description": "Community Supported Manufacturing (CSM) is a production and distribution model where a community of stakeholders directly supports the manufacturing of products they need or desire. This model is h...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "community-supported-manufacturing.md"
+    },
+    {
+      "slug": "complementary-currencies-parallel-systems",
+      "title": "Complementary Currencies - Parallel Systems",
+      "description": "Complementary currencies are alternative systems of exchange that operate alongside, or in parallel to, conventional national currencies. They are designed to facilitate trade and create value with...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "complementary-currencies-parallel-systems.md"
+    },
+    {
+      "slug": "complementary-medicine",
+      "title": "Complementary Medicine",
+      "description": "The Complementary Medicine pattern, in an organizational context, refers to the strategic integration of external, specialized practices, methodologies, or services to enhance and support the core ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "complementary-medicine.md"
+    },
+    {
+      "slug": "complexity-economics",
+      "title": "Complexity Economics",
+      "description": "Complexity Economics represents a significant paradigm shift from traditional economic models, which are largely rooted in the principles of equilibrium, representative agents, and diminishing retu...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "complexity-economics.md"
+    },
+    {
+      "slug": "complexity-science-applications-santa-fe-institute",
+      "title": "Complexity Science Applications (Santa Fe Institute)",
+      "description": "Complexity science offers a powerful lens for understanding and navigating the intricate, dynamic, and often unpredictable nature of modern organizations. It moves beyond traditional, linear models...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "complexity-science-applications-santa-fe-institute.md"
+    },
+    {
+      "slug": "computational-fluid-dynamics-cfd-in-design",
+      "title": "Computational Fluid Dynamics (CFD) in Design",
+      "description": "Computational Fluid Dynamics (CFD) is a powerful simulation tool that utilizes numerical analysis and data structures to solve and analyze problems involving fluid flows. In the context of design, ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "computational-fluid-dynamics-cfd-in-design.md"
+    },
+    {
+      "slug": "computer-integrated-manufacturing",
+      "title": "Computer-Integrated Manufacturing",
+      "description": "Computer-Integrated Manufacturing (CIM) is a manufacturing paradigm that employs computers to control and coordinate the entire production process, from design to distribution. This integration fac...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "computer-integrated-manufacturing.md"
+    },
+    {
+      "slug": "computer-vision-for-quality-control",
+      "title": "Computer Vision for Quality Control",
+      "description": "Computer Vision for Quality Control is a transformative approach that leverages artificial intelligence (AI) and machine learning to automate the inspection and analysis of products in a manufactur...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "computer-vision-for-quality-control.md"
+    },
+    {
+      "slug": "concurrent-engineering",
+      "title": "Concurrent Engineering",
+      "description": "Concurrent Engineering (CE), also known as Simultaneous Engineering or Integrated Product Development (IPD), is a systematic approach to product development that emphasizes the parallel execution o...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "concurrent-engineering.md"
+    },
+    {
+      "slug": "concurrent-product-development",
+      "title": "Concurrent Product Development",
+      "description": "Concurrent Product Development (CPD), also known as Concurrent Engineering (CE) or Simultaneous Engineering, is a systematic approach to product development that emphasizes the parallel execution o...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "concurrent-product-development.md"
+    },
+    {
+      "slug": "configuration-management",
+      "title": "Configuration Management",
+      "description": "Configuration Management (CM) is a systems engineering process for establishing and maintaining consistency of a product's performance, functional, and physical attributes with its requirements, de...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "configuration-management.md"
+    },
+    {
+      "slug": "conflict-resolution-models",
+      "title": "Conflict Resolution Models",
+      "description": "Conflict resolution models are frameworks designed to understand, manage, and resolve disagreements between individuals or groups. These models provide structured approaches to conflict, moving bey...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "conflict-resolution-models.md"
+    },
+    {
+      "slug": "conglomerate-model",
+      "title": "Conglomerate Model",
+      "description": "A conglomerate is a multi-industry company that consists of several different and unrelated business entities operating in various industries. In a conglomerate, one company, the parent, owns a con...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "conglomerate-model.md"
+    },
+    {
+      "slug": "consensus-based-design",
+      "title": "Consensus-Based Design",
+      "description": "Consensus-Based Design is a collaborative approach to decision-making within the design process, where the goal is to reach a collective agreement among all participants. Unlike traditional design ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "consensus-based-design.md"
+    },
+    {
+      "slug": "consent-based-decision-making-distinct-from-consensus",
+      "title": "Consent-Based Decision Making: Distinct from Consensus",
+      "description": "Consent-based decision making is a governance practice where a decision is made when no member of the group has a significant, reasoned objection. Unlike consensus, which requires everyone to agree...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "consent-based-decision-making-distinct-from-consensus.md"
+    },
+    {
+      "slug": "consent-based-decision-making",
+      "title": "Consent-Based Decision Making",
+      "description": "Consent-Based Decision Making is a governance practice for making and evolving decisions within a group or organization. The core principle is that a decision can be adopted as long as no member ha...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "consent-based-decision-making.md"
+    },
+    {
+      "slug": "consulting-firm-proprietary-frameworks",
+      "title": "Consulting Firm Proprietary Frameworks",
+      "description": "A proprietary consulting framework is a structured, repeatable methodology developed and owned by a consulting firm to diagnose and solve specific types of business problems. These frameworks serve...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "consulting-firm-proprietary-frameworks.md"
+    },
+    {
+      "slug": "consulting-model",
+      "title": "Consulting Model",
+      "description": "The Consulting Model is a framework that defines how a consulting practice delivers value to its clients. It encompasses the structure, processes, and methods used to provide expert advice and solu...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "consulting-model.md"
+    },
+    {
+      "slug": "contextual-inquiry",
+      "title": "Contextual Inquiry",
+      "description": "Contextual Inquiry is a user-centered design (UCD) research method that falls under the umbrella of ethnographic field studies. It is a qualitative research technique that helps researchers and des...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "contextual-inquiry.md"
+    },
+    {
+      "slug": "contingency-leadership-fiedler",
+      "title": "Contingency Leadership (Fiedler)",
+      "description": "Fiedler's Contingency Model of Leadership, developed by psychologist Fred Fiedler in the 1960s, is a seminal theory in organizational psychology. It posits that there is no single best way to lead;...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "contingency-leadership-fiedler.md"
+    },
+    {
+      "slug": "contingency-theory",
+      "title": "Contingency Theory",
+      "description": "Contingency Theory is a meta-pattern in organizational theory that asserts there is no single best way to organize a corporation, lead a company, or make decisions. Instead, the optimal course of a...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "contingency-theory.md"
+    },
+    {
+      "slug": "continuous-deliverydeployment-cd",
+      "title": "Continuous Delivery/Deployment (CD)",
+      "description": "Continuous Delivery (CD) is a software engineering practice that embodies the principle of releasing software in short, frequent cycles. This approach ensures that software can be reliably released...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "continuous-deliverydeployment-cd.md"
+    },
+    {
+      "slug": "continuous-improvement-ci-generic-frameworks",
+      "title": "Continuous Improvement (CI) - Generic Frameworks",
+      "description": "Continuous Improvement (CI) is a deeply ingrained organizational philosophy and a collection of methodologies aimed at consistently enhancing all functions and processes within a business. It is no...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "continuous-improvement-ci-generic-frameworks.md"
+    },
+    {
+      "slug": "continuous-integration-ci",
+      "title": "Continuous Integration (CI)",
+      "description": "Continuous Integration (CI) is a software development practice where developers regularly merge their code changes into a central repository, after which automated builds and tests are run. The pri...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "continuous-integration-ci.md"
+    },
+    {
+      "slug": "continuous-integrationcontinuous-deployment-cicd-automation",
+      "title": "Continuous Integration/Continuous Deployment (CI/CD) - Automation",
+      "description": "Continuous Integration/Continuous Deployment (CI/CD) is a cornerstone of modern software development and a critical practice within the DevOps and Site Reliability Engineering (SRE) paradigms. It r...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "continuous-integrationcontinuous-deployment-cicd-automation.md"
+    },
+    {
+      "slug": "control-charts",
+      "title": "Control Charts",
+      "description": "Control charts, also known as Shewhart charts or process-behavior charts, are a fundamental tool for statistical process control (SPC). They are graphical representations of data collected from a p...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "control-charts.md"
+    },
+    {
+      "slug": "cooperative-business-models-worker-consumer-producer",
+      "title": "Cooperative Business Models Worker Consumer Producer",
+      "description": "id: pat_01kg5023y4e708zavzcte3n4dd page_url: https://commons-os.github.io/patterns/cooperative-business-models-worker-consumer-producer/ github_url: https://github.com/commons-os/patterns/blob/main...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "cooperative-business-models-worker-consumer-producer.md"
+    },
+    {
+      "slug": "cooperative-design-principles",
+      "title": "Cooperative Design Principles",
+      "description": "Cooperative Design Principles represent a paradigm shift in the design process, moving from a designer-centric model to a collaborative and democratic approach that actively involves all stakeholde...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "cooperative-design-principles.md"
+    },
+    {
+      "slug": "cooperative-design",
+      "title": "Cooperative Design",
+      "description": "Cooperative Design, also known as Participatory Design, Co-design, or Co-creation, is a design philosophy and methodology that emphasizes the active involvement of all stakeholders in the design pr...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "cooperative-design.md"
+    },
+    {
+      "slug": "cooperative-economics",
+      "title": "Cooperative Economics",
+      "description": "Cooperative (or co-operative) economics is a field of economics that incorporates cooperative studies and political economy toward the study and management of cooperatives. It is an economic model ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "cooperative-economics.md"
+    },
+    {
+      "slug": "cooperative-governance-models-rochdale-mondragon-variants",
+      "title": "Cooperative Governance Models (Rochdale, Mondragon Variants)",
+      "description": "Cooperative Governance Models are frameworks for the democratic administration of organizations that are jointly owned and controlled by their members. These models provide an alternative to tradit...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "cooperative-governance-models-rochdale-mondragon-variants.md"
+    },
+    {
+      "slug": "cooperative-supply-chains",
+      "title": "Cooperative Supply Chains",
+      "description": "Cooperative Supply Chains represent a paradigm shift from traditional, often adversarial, supply chain models to a collaborative network of independent organizations. These entities willingly work ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "cooperative-supply-chains.md"
+    },
+    {
+      "slug": "copyfair-licensing",
+      "title": "Copyfair Licensing",
+      "description": "Copyfair licensing is a novel approach to intellectual property that seeks to create a more equitable and sustainable model for the sharing and commercialization of creative works. It stands as a m...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "copyfair-licensing.md"
+    },
+    {
+      "slug": "core-competence-theory",
+      "title": "Core Competence Theory",
+      "description": "Core Competence Theory is a management framework that posits that a firm's long-term competitive advantage derives from its core competencies\u2014the unique combination of resources and skills that are...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "core-competence-theory.md"
+    },
+    {
+      "slug": "core-competence",
+      "title": "Core Competence",
+      "description": "Core Competence, as a key strategic concept, refers to the unique and deeply ingrained capabilities that allow a firm to differentiate itself from competitors and deliver superior value to its cust...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "core-competence.md"
+    },
+    {
+      "slug": "corporate-social-responsibility-csr-traditional-model",
+      "title": "Corporate Social Responsibility (CSR): Traditional Model",
+      "description": "Corporate Social Responsibility (CSR) in its traditional model is a concept whereby companies integrate social and environmental concerns in their business operations and in their interaction with ...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "corporate-social-responsibility-csr-traditional-model.md"
+    },
+    {
+      "slug": "cradle-to-cradle-design",
+      "title": "Cradle-to-Cradle Design",
+      "description": "Cradle-to-Cradle (C2C) design offers a transformative vision for industry, one that moves beyond the traditional, linear model of \u201ctake, make, waste\u201d to a circular, regenerative system. Coined by a...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "cradle-to-cradle-design.md"
+    },
+    {
+      "slug": "crowdsourcing-model",
+      "title": "Crowdsourcing Model",
+      "description": "The Crowdsourcing Model is a business strategy that sources work, information, or opinions from a large, distributed group of people, often online. It leverages the crowd's collective intelligence,...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "crowdsourcing-model.md"
+    },
+    {
+      "slug": "crowdsourcing",
+      "title": "Crowdsourcing",
+      "description": "Crowdsourcing is the practice of obtaining work, information, or opinions from a large, distributed group of people, often via the internet. Instead of assigning tasks to a designated employee or a...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "crowdsourcing.md"
+    },
+    {
+      "slug": "cryptocurrency-finance-defi-models",
+      "title": "Cryptocurrency Finance - DeFi Models",
+      "description": "Decentralized Finance (DeFi) represents a paradigm shift in the financial services industry, leveraging the power of blockchain technology to construct a financial system that is open, transparent,...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "cryptocurrency-finance-defi-models.md"
+    },
+    {
+      "slug": "crystal-methods",
+      "title": "Crystal Methods",
+      "description": "Crystal Methods constitute a family of agile software development methodologies developed by Alistair Cockburn in the early 1990s. [1] Unlike more prescriptive frameworks that dictate specific proc...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "crystal-methods.md"
+    },
+    {
+      "slug": "cultural-intelligence",
+      "title": "Cultural Intelligence",
+      "description": "Cultural Intelligence (CQ), a term that has gained significant traction in the 21st century, refers to the inherent ability of an individual to effectively navigate and adapt to diverse cultural co...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "cultural-intelligence.md"
+    },
+    {
+      "slug": "customer-experience-cx-management",
+      "title": "Customer Experience (CX) Management",
+      "description": "Customer Experience Management (CXM) is the discipline of designing, managing, and optimizing the end-to-end experience a customer has with a company. It encompasses every interaction and touchpoin...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "customer-experience-cx-management.md"
+    },
+    {
+      "slug": "customer-journey-mapping",
+      "title": "Customer Journey Mapping",
+      "description": "Customer Journey Mapping is a powerful technique used by organizations to visualize and understand the experiences of their customers. It is a visual representation of the various touchpoints and i...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "customer-journey-mapping.md"
+    },
+    {
+      "slug": "cyber-physical-systems-cps",
+      "title": "Cyber-Physical Systems (CPS)",
+      "description": "Cyber-Physical Systems (CPS) are engineered systems that are built from, and depend upon, the seamless integration of computational algorithms and physical components. In essence, CPS are networks ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "cyber-physical-systems-cps.md"
+    },
+    {
+      "slug": "daos-documented",
+      "title": "DAOs (Documented)",
+      "description": "A Decentralized Autonomous Organization (DAO) is a novel form of organization that operates through smart contracts on a blockchain. Unlike traditional hierarchical organizations, DAOs are member-o...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "daos-documented.md"
+    },
+    {
+      "slug": "data-monetization-information-economy",
+      "title": "Data Monetization - Information Economy",
+      "description": "Data monetization is the process of leveraging data to generate quantifiable economic value. It involves transforming a company's data assets into financial returns, either directly by selling data...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "data-monetization-information-economy.md"
+    },
+    {
+      "slug": "de-stijl-movement",
+      "title": "De Stijl Movement",
+      "description": "The De Stijl movement, which translates to \"The Style,\" was a Dutch artistic movement that emerged in 1917. Founded by a group of artists and architects including Theo van Doesburg, Piet Mondrian, ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "de-stijl-movement.md"
+    },
+    {
+      "slug": "decentralized-ai",
+      "title": "Decentralized AI",
+      "description": "Decentralized Artificial Intelligence (AI) represents a paradigm shift in the development and deployment of AI systems. Unlike traditional, centralized AI models that are controlled by a single ent...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "decentralized-ai.md"
+    },
+    {
+      "slug": "deep-learning-for-defect-detection",
+      "title": "Deep Learning for Defect Detection",
+      "description": "Deep Learning for Defect Detection is an organizational pattern that leverages advanced artificial intelligence, specifically deep learning models, to automate and enhance the process of identifyin...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "deep-learning-for-defect-detection.md"
+    },
+    {
+      "slug": "defi-decentralized-finance",
+      "title": "DeFi (Decentralized Finance)",
+      "description": "Decentralized Finance (DeFi) has emerged as a revolutionary force in the financial technology landscape, offering a paradigm shift from the conventional, centralized financial systems that have lon...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "defi-decentralized-finance.md"
+    },
+    {
+      "slug": "degrowth-documented",
+      "title": "Degrowth",
+      "description": "Degrowth is a concept that challenges the paradigm of perpetual economic growth, advocating for a planned and democratic reduction of production and consumption to address social and ecological cri...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "degrowth-documented.md"
+    },
+    {
+      "slug": "deliberative-democracy-fishkin",
+      "title": "Deliberative Democracy - Fishkin",
+      "description": "Deliberative Democracy, as conceptualized and operationalized by political scientist James S. Fishkin, is a form of democracy in which deliberation is central to decision-making. It seeks to addres...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "deliberative-democracy-fishkin.md"
+    },
+    {
+      "slug": "deliberative-democracy-fishkins-model",
+      "title": "Deliberative Democracy: Fishkin's Model",
+      "description": "Deliberative Democracy, particularly James S. Fishkin's model, is a form of public consultation that fosters a more informed and engaged citizenry. It centers on deliberation in decision-making, ov...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "deliberative-democracy-fishkins-model.md"
+    },
+    {
+      "slug": "delphi-method",
+      "title": "Delphi Method",
+      "description": "The Delphi method, also known as the Delphi technique, is a structured communication method, originally developed as a systematic, interactive forecasting method that relies on a panel of experts. ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "delphi-method.md"
+    },
+    {
+      "slug": "democratic-schools",
+      "title": "Democratic Schools",
+      "description": "Democratic schools represent a progressive educational model where students are active participants in their own learning and in the governance of their school. These institutions are founded on th...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "democratic-schools.md"
+    },
+    {
+      "slug": "design-for-aesthetics",
+      "title": "Design for Aesthetics",
+      "description": "Design for Aesthetics is a fundamental principle in organizational design that emphasizes the importance of creating products, services, and experiences that are not only functional and usable but ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "design-for-aesthetics.md"
+    },
+    {
+      "slug": "design-for-assembly-dfa",
+      "title": "Design for Assembly (DFA)",
+      "description": "Design for Assembly (DFA) is a foundational engineering methodology focused on optimizing the design of a product to make its assembly process as efficient and cost-effective as possible. By system...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "design-for-assembly-dfa.md"
+    },
+    {
+      "slug": "design-for-corrosion-resistance",
+      "title": "Design for Corrosion Resistance",
+      "description": "Design for Corrosion Resistance is a proactive engineering and design philosophy that aims to prevent or mitigate the degradation of materials due to chemical or electrochemical reactions with thei...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "design-for-corrosion-resistance.md"
+    },
+    {
+      "slug": "design-for-cost",
+      "title": "Design for Cost",
+      "description": "Design for Cost (DFC) is a systematic approach to managing costs throughout the product development lifecycle. The fundamental principle of DFC is the recognition that the majority of a product's c...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "design-for-cost.md"
+    },
+    {
+      "slug": "design-for-disassembly",
+      "title": "Design for Disassembly",
+      "description": "Design for Disassembly (DfD) is a design philosophy and practice that aims to create products, buildings, and systems with their entire lifecycle in mind, specifically focusing on their end-of-life...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "design-for-disassembly.md"
+    },
+    {
+      "slug": "design-for-environment-dfe",
+      "title": "Design for Environment (DFE)",
+      "description": "Traditional design and manufacturing processes often prioritize economic factors like cost and performance, while neglecting the significant environmental and human health impacts of a product thro...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "design-for-environment-dfe.md"
+    },
+    {
+      "slug": "design-for-ergonomics",
+      "title": "Design for Ergonomics",
+      "description": "Design for Ergonomics is a fundamental principle that advocates for the design of products, systems, and environments to be optimized for human well-being and overall system performance. It is a mu...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "design-for-ergonomics.md"
+    },
+    {
+      "slug": "design-for-maintainability",
+      "title": "Design for Maintainability",
+      "description": "Design for Maintainability (DfM) is an engineering principle that prioritizes the ease, efficiency, and safety of maintenance activities throughout the lifecycle of a product, system, or service. I...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "design-for-maintainability.md"
+    },
+    {
+      "slug": "design-for-manufacture-dfm",
+      "title": "Design for Manufacture (DFM)",
+      "description": "Design for Manufacturing (DFM) is a proactive engineering practice focused on optimizing product design for ease and cost-effectiveness of manufacturing without compromising quality. It involves co...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "design-for-manufacture-dfm.md"
+    },
+    {
+      "slug": "design-for-quality",
+      "title": "Design for Quality",
+      "description": "> Design for Quality (DFQ) is a proactive and systematic approach to product and process development that aims to build quality into a product from its inception. Rather than relying on inspection ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "design-for-quality.md"
+    },
+    {
+      "slug": "design-for-recycling",
+      "title": "Design for Recycling",
+      "description": "Design for Recycling (DfR) is a proactive design philosophy and set of practices that aim to make products and packaging easier to recycle at the end of their life. It is a critical component of th...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "design-for-recycling.md"
+    },
+    {
+      "slug": "design-for-reliability",
+      "title": "Design for Reliability",
+      "description": "Design for Reliability (DfR) is a proactive and systematic engineering discipline focused on ensuring that a product or system meets its specified reliability requirements throughout its entire lif...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "design-for-reliability.md"
+    },
+    {
+      "slug": "design-for-safety",
+      "title": "Design for Safety",
+      "description": "Design for Safety (DfS) is a proactive and holistic approach to organizational design that integrates safety and health considerations into all stages of a project, from conceptualization and plann...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "design-for-safety.md"
+    },
+    {
+      "slug": "design-for-serviceability",
+      "title": "Design for Serviceability",
+      "description": "Design for Serviceability (DFS) is an engineering and design philosophy focused on creating products and systems that are easy to inspect, maintain, repair, and upgrade throughout their entire life...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "design-for-serviceability.md"
+    },
+    {
+      "slug": "design-for-six-sigma-dfss",
+      "title": "Design for Six Sigma (DFSS)",
+      "description": "Design for Six Sigma (DFSS) is a comprehensive and proactive business-process management methodology that provides a structured framework for designing new products and processes. It is a collectio...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "design-for-six-sigma-dfss.md"
+    },
+    {
+      "slug": "design-for-sustainability-dfs",
+      "title": "Design for Sustainability (DfS)",
+      "description": "This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "design-for-sustainability-dfs.md"
+    },
+    {
+      "slug": "design-for-test-dft",
+      "title": "Design for Test (DFT)",
+      "description": "Design for Test (DFT) is a critical design methodology in the semiconductor and electronics industries. It involves incorporating specific features into an integrated circuit (IC) to facilitate the...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "design-for-test-dft.md"
+    },
+    {
+      "slug": "design-for-testability",
+      "title": "Design for Testability",
+      "description": "Design for Testability (DFT) is a set of principles and practices that aim to make a system or component easier to test. It involves building testability into the design of a product from the very ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "design-for-testability.md"
+    },
+    {
+      "slug": "design-for-x-dfx",
+      "title": "Design for X (DFX)",
+      "description": "Design for X (DFX), also known as Design for Excellence, is a comprehensive design methodology that addresses a wide range of issues throughout the entire product lifecycle. The 'X' in DFX is a var...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "design-for-x-dfx.md"
+    },
+    {
+      "slug": "design-history-file-dhf",
+      "title": "Design History File (DHF)",
+      "description": "The Design History File (DHF) is a comprehensive compilation of documents that meticulously records the entire design and development process of a product, particularly in regulated industries such...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "design-history-file-dhf.md"
+    },
+    {
+      "slug": "design-patterns-gang-of-four",
+      "title": "Design Patterns (Gang of Four)",
+      "description": "\"Design Patterns: Elements of Reusable Object-Oriented Software\" is a seminal book in the field of software engineering, authored by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, wh...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "design-patterns-gang-of-four.md"
+    },
+    {
+      "slug": "design-thinking",
+      "title": "Design Thinking",
+      "description": "Design Thinking is a human-centered, iterative methodology for creative problem-solving and innovation. It provides a structured framework that begins with empathy for the user, and moves through s...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "design-thinking.md"
+    },
+    {
+      "slug": "devops",
+      "title": "DevOps",
+      "description": "DevOps is a cultural and professional movement that emphasizes collaboration, communication, and integration between software developers and IT operations professionals. It is a set of practices, t...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "devops.md"
+    },
+    {
+      "slug": "digital-manufacturing",
+      "title": "Digital Manufacturing",
+      "description": "Digital manufacturing is an integrated approach to manufacturing that is centered around a computer system. It represents the application of digital technologies to the entire manufacturing lifecyc...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "digital-manufacturing.md"
+    },
+    {
+      "slug": "digital-twin-technology-virtual-representations",
+      "title": "Digital Twin Technology Virtual Representations",
+      "description": "id: pat_01kg5023ydftgramg3kwv7bv11 page_url: https://commons-os.github.io/patterns/digital-twin-technology-virtual-representations/ github_url: https://github.com/commons-os/patterns/blob/main/_pat...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "digital-twin-technology-virtual-representations.md"
+    },
+    {
+      "slug": "direct-sales-model",
+      "title": "Direct Sales Model",
+      "description": "The Direct Sales Model is a method of distributing and selling products or services directly to consumers, bypassing traditional retail channels. This approach is characterized by a direct interact...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "direct-sales-model.md"
+    },
+    {
+      "slug": "disciplined-agile-delivery-dad",
+      "title": "Disciplined Agile Delivery (DAD)",
+      "description": "Discipline Agile Delivery (DAD) is a comprehensive, people-first, and learning-oriented hybrid agile framework for IT solution delivery. Developed by Scott Ambler and Mark Lines, and now part of th...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "disciplined-agile-delivery-dad.md"
+    },
+    {
+      "slug": "discounted-cash-flow-dcf",
+      "title": "Discounted Cash Flow (DCF)",
+      "description": "Discounted Cash Flow (DCF) is a valuation method used to estimate the value of an investment based on its expected future cash flows. DCF analysis attempts to determine the value of an investment t...",
+      "score": 1,
+      "domain": "business",
+      "universality": null,
+      "file": "discounted-cash-flow-dcf.md"
+    },
+    {
+      "slug": "disruptive-innovation-strategy",
+      "title": "Disruptive Innovation Strategy",
+      "description": "Disruptive Innovation Strategy is a powerful framework for understanding and predicting how smaller, less-resourced companies can successfully challenge and displace established industry leaders [1...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "disruptive-innovation-strategy.md"
+    },
+    {
+      "slug": "disruptive-innovation-theory-christensen",
+      "title": "Disruptive Innovation Theory (Christensen)",
+      "description": "Disruptive Innovation Theory, a term coined by Clayton M. Christensen, describes a process whereby a smaller company with fewer resources is able to successfully challenge established incumbent bus...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "disruptive-innovation-theory-christensen.md"
+    },
+    {
+      "slug": "distributed-design",
+      "title": "Distributed Design",
+      "description": "Distributed Design is an emerging paradigm that reconfigures the traditional, centralized model of design, production, and consumption. It leverages digital technologies and global collaboration ne...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "distributed-design.md"
+    },
+    {
+      "slug": "diversity-inclusion-frameworks",
+      "title": "Diversity & Inclusion Frameworks",
+      "description": "Diversity and Inclusion (D&I) frameworks are strategic plans to create a more equitable and inclusive workplace. They provide a roadmap for fostering an environment where all employees feel valued ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "diversity-inclusion-frameworks.md"
+    },
+    {
+      "slug": "diy-do-it-yourself-culture",
+      "title": "DIY (Do-It-Yourself) Culture",
+      "description": "Do-It-Yourself (DIY) culture is a socio-economic phenomenon and a mode of production centered on the principle of self-sufficiency, wherein individuals or groups create, modify, or repair objects a...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "diy-do-it-yourself-culture.md"
+    },
+    {
+      "slug": "dmaic-six-sigma-methodology",
+      "title": "DMAIC - Six Sigma Methodology",
+      "description": "DMAIC (Define, Measure, Analyze, Improve, Control) is a structured, data-driven problem-solving methodology used to improve existing processes that are not meeting performance standards or customer...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "dmaic-six-sigma-methodology.md"
+    },
+    {
+      "slug": "dmaic-six-sigma",
+      "title": "DMAIC - Six Sigma",
+      "description": "DMAIC (Define, Measure, Analyze, Improve, Control) is a data-driven improvement cycle used for improving, optimizing, and stabilizing business processes. It is the core methodology of the Six Sigma...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "dmaic-six-sigma.md"
+    },
+    {
+      "slug": "do-178c-software-in-airborne-systems",
+      "title": "DO-178C (Software in Airborne Systems)",
+      "description": "DO-178C, formally titled \"Software Considerations in Airborne Systems and Equipment Certification,\" is the internationally recognized standard for the development of software used in airborne syste...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "do-178c-software-in-airborne-systems.md"
+    },
+    {
+      "slug": "documented-published-described-accessible",
+      "title": "Documented: Published, Described, Accessible",
+      "description": "The **Documented: Published, Described, Accessible** pattern is a foundational practice within knowledge-intensive organizations, emphasizing that for information or processes to be truly valuable,...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "documented-published-described-accessible.md"
+    },
+    {
+      "slug": "domain-driven-design-ddd",
+      "title": "Domain-Driven Design (DDD)",
+      "description": "Domain-Driven Design (DDD) is a software development methodology that emphasizes the importance of the business domain in the design and development of software systems. Coined by Eric Evans in his...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "domain-driven-design-ddd.md"
+    },
+    {
+      "slug": "donut-economics-documented",
+      "title": "Donut Economics - Documented",
+      "description": "*Placeholder for the original content of the pattern.*",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "donut-economics-documented.md"
+    },
+    {
+      "slug": "doughnut-economics-product-application",
+      "title": "Doughnut Economics (Product Application)",
+      "description": "Doughnut Economics, a concept developed by economist Kate Raworth, provides a framework for sustainable development. It visualizes a world where both people and the planet can thrive. The model is ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "doughnut-economics-product-application.md"
+    },
+    {
+      "slug": "driver-based-planning-predictive-modeling",
+      "title": "Driver-Based Planning - Predictive Modeling",
+      "description": "Driver-Based Planning, when augmented with Predictive Modeling, is a forward-looking approach to financial and operational planning that connects key business drivers to financial outcomes. Instead...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "driver-based-planning-predictive-modeling.md"
+    },
+    {
+      "slug": "dynamic-capabilities",
+      "title": "Dynamic Capabilities",
+      "description": "id: pat_01kg5023ygez1924mkr9m0h5jq page_url: https://commons-os.github.io/patterns/dynamic-capabilities/ github_url: https://github.com/commons-os/patterns/blob/main/_patterns/dynamic-capabilities....",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "dynamic-capabilities.md"
+    },
+    {
+      "slug": "dynamic-systems-development-method-dsdm",
+      "title": "Dynamic Systems Development Method (DSDM)",
+      "description": "Dynamic Systems Development Method (DSDM) is an Agile project delivery framework that provides a comprehensive foundation for planning, managing, executing, and scaling Agile projects. Initially re...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "dynamic-systems-development-method-dsdm.md"
+    }
+  ]
+}

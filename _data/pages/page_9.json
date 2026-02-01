@@ -1,0 +1,906 @@
+{
+  "page": 9,
+  "total_pages": 10,
+  "patterns": [
+    {
+      "slug": "sociocracy-original-gerard-endenburgs-original-model",
+      "title": "Sociocracy (Original) - Gerard Endenburg's Original Model",
+      "description": "Sociocracy, also known as the Sociocratic Circle-Organization Method (SCM), is a system of governance for all-sized organizations, from small startups to large corporations. It is based on the prin...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "sociocracy-original-gerard-endenburgs-original-model.md"
+    },
+    {
+      "slug": "sociotechnical-systems-tavistock",
+      "title": "Sociotechnical Systems (Tavistock)",
+      "description": "Sociotechnical Systems (STS) is an organizational theory and design approach that emphasizes the joint optimization of the social and technical aspects of a work system. It emerged from the work of...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "sociotechnical-systems-tavistock.md"
+    },
+    {
+      "slug": "software-development-life-cycle-sdlc",
+      "title": "Software Development Life Cycle (SDLC)",
+      "description": "The Software Development Life Cycle (SDLC) is a structured process that provides a framework for developing high-quality software. It encompasses the entire lifecycle of a software product, from it...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "software-development-life-cycle-sdlc.md"
+    },
+    {
+      "slug": "solidarity-economy-alternative-paradigm",
+      "title": "Solidarity Economy - Alternative Paradigm",
+      "description": "The Solidarity Economy, also referred to as the Social and Solidarity Economy (SSE), represents a transformative economic framework that prioritizes social and environmental objectives over the sin...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "solidarity-economy-alternative-paradigm.md"
+    },
+    {
+      "slug": "solidarity-economy-production-systems",
+      "title": "Solidarity Economy Production Systems",
+      "description": "Solidarity Economy Production Systems (SEPS) are a subset of the broader Solidarity Economy (SE) or Social and Solidarity Economy (SSE). SEPS refers to the specific models and practices of producin...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "solidarity-economy-production-systems.md"
+    },
+    {
+      "slug": "southeast-asian-family-business",
+      "title": "Southeast Asian Family Business",
+      "description": "Family businesses are the cornerstone of Southeast Asia's economic landscape, comprising a significant majority of both publicly listed and private companies across the region [1]. These enterprise...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "southeast-asian-family-business.md"
+    },
+    {
+      "slug": "space-systems-engineering-design-for-extreme-environments",
+      "title": "Space Systems Engineering (Design for Extreme Environments)",
+      "description": "Space Systems Engineering is a specialized discipline that applies a methodical, multi-disciplinary approach to the design, realization, technical management, operations, and retirement of systems ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "space-systems-engineering-design-for-extreme-environments.md"
+    },
+    {
+      "slug": "spiral-model",
+      "title": "Spiral Model",
+      "description": "The Spiral Model is a risk-driven software development process model that provides a flexible and iterative approach to software development. It was first described by Barry Boehm in his 1986 paper...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "spiral-model.md"
+    },
+    {
+      "slug": "spiritual-leadership",
+      "title": "Spiritual Leadership",
+      "description": "Spiritual leadership is an emerging paradigm for organizational development and transformation that seeks to create an intrinsically motivated and committed workforce by fostering a sense of spirit...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "spiritual-leadership.md"
+    },
+    {
+      "slug": "stage-gate-process-cooper",
+      "title": "Stage-Gate Process (Cooper)",
+      "description": "The Stage-Gate process, developed by Dr. Robert G. Cooper, is a comprehensive product innovation and management framework that has become a cornerstone of new product development (NPD) for many of ...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "stage-gate-process-cooper.md"
+    },
+    {
+      "slug": "stakeholder-capitalism-wef-model",
+      "title": "Stakeholder Capitalism Wef Model",
+      "description": "'' id: pat_01kg502402e8s98e5wh453cf4r page_url: https://commons-os.github.io/patterns/domain/stakeholder-capitalism-wef-model/ github_url: https://github.com/commons-os/patterns/blob/main/_patterns...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "stakeholder-capitalism-wef-model.md"
+    },
+    {
+      "slug": "statistical-process-control-spc",
+      "title": "Statistical Process Control (SPC)",
+      "description": "Statistical Process Control (SPC) is a methodology that employs statistical techniques to monitor, control, and improve processes. It is a data-driven approach to quality management that enables or...",
+      "score": 1,
+      "domain": "business",
+      "universality": null,
+      "file": "statistical-process-control-spc.md"
+    },
+    {
+      "slug": "steady-state-economy-documented",
+      "title": "Steady-State Economy",
+      "description": "> A steady-state economy is an economy of stable or mildly fluctuating size. The term typically refers to a national economy, but it can also be applied to a local, regional, or global economy. An ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "steady-state-economy-documented.md"
+    },
+    {
+      "slug": "steward-ownership-governance-purpose-foundation-model",
+      "title": "Steward-Ownership Governance - Purpose Foundation Model",
+      "description": "Steward-Ownership is a legal and financial framework that redefines corporate ownership to ensure a company's long-term independence and purpose. The Steward-Ownership Governance - Purpose Foundati...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "steward-ownership-governance-purpose-foundation-model.md"
+    },
+    {
+      "slug": "stewardship-governance",
+      "title": "Stewardship Governance",
+      "description": "Stewardship Governance is a framework centered on the responsible management of an organization's resources and the fulfillment of its purpose over the long term. It is founded on the principle tha...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "stewardship-governance.md"
+    },
+    {
+      "slug": "strategic-alliance-model",
+      "title": "Strategic Alliance Model",
+      "description": "id: pat_01kg502403e39rjfyp2ppsrnh1 page_url: https://commons-os.github.io/patterns/domain/strategic-alliance-model/ github_url: https://github.com/commons-os/patterns/blob/main/_patterns/strategic-...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "strategic-alliance-model.md"
+    },
+    {
+      "slug": "strategic-foresight",
+      "title": "Strategic Foresight",
+      "description": "Strategic foresight is a systematic, intelligence-based, and future-oriented practice that enables organizations to anticipate and prepare for future changes, challenges, and opportunities. It is a...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "strategic-foresight.md"
+    },
+    {
+      "slug": "strategic-intent-hamel-prahalad",
+      "title": "Strategic Intent (Hamel & Prahalad)",
+      "description": "Strategic intent is a concept articulated by Gary Hamel and C.K. Prahalad that describes the creation of a long-term, ambitious, and compelling vision for an organization. It is a framework that ch...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "strategic-intent-hamel-prahalad.md"
+    },
+    {
+      "slug": "streamline-moderne",
+      "title": "Streamline Moderne",
+      "description": "_# Streamline Moderne",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "streamline-moderne.md"
+    },
+    {
+      "slug": "subscription-model-recurring-revenue",
+      "title": "Subscription Model - Recurring Revenue",
+      "description": "The Subscription Model is a business model where customers pay a recurring fee at regular intervals for access to a product or service. This model shifts the focus from one-time transactions to lon...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "subscription-model-recurring-revenue.md"
+    },
+    {
+      "slug": "supply-chain-management",
+      "title": "Supply Chain Management",
+      "description": "Supply Chain Management (SCM) is the comprehensive management of the flow of goods and services, from the sourcing of raw materials to the delivery of finished products to the end consumer. It enco...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "supply-chain-management.md"
+    },
+    {
+      "slug": "sustainable-manufacturing",
+      "title": "Sustainable Manufacturing",
+      "description": "Sustainable manufacturing is the creation of manufactured products through economically-sound processes that minimize negative environmental impacts while conserving energy and natural resources. S...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "sustainable-manufacturing.md"
+    },
+    {
+      "slug": "sustainable-packaging-design",
+      "title": "Sustainable Packaging Design",
+      "description": "Sustainable packaging design is a holistic approach to the development of packaging that aims to minimize its environmental impact and maximize its social and economic benefits throughout its entir...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "sustainable-packaging-design.md"
+    },
+    {
+      "slug": "swarm-intelligence",
+      "title": "Swarm Intelligence",
+      "description": "Swarm intelligence (SI) is the collective behavior of decentralized, self-organized systems, whether they be natural or artificial. The concept is employed in work on artificial intelligence and or...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "swarm-intelligence.md"
+    },
+    {
+      "slug": "swarm-robotics-design",
+      "title": "Swarm Robotics Design",
+      "description": "Swarm robotics is a field of multi-robot systems in which large numbers of relatively simple robots are designed to accomplish a collective goal. Inspired by the emergent behavior observed in socia...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "swarm-robotics-design.md"
+    },
+    {
+      "slug": "swot-analysis-classic-framework",
+      "title": "SWOT Analysis - Classic Framework",
+      "description": "SWOT analysis is a strategic planning framework used to evaluate the Strengths, Weaknesses, Opportunities, and Threats involved in a project or in a business venture. It involves specifying the obj...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "swot-analysis-classic-framework.md"
+    },
+    {
+      "slug": "synthetic-biology-design-build-test-learn-cycle",
+      "title": "Synthetic Biology Design-Build-Test-Learn Cycle",
+      "description": "The Synthetic Biology Design-Build-Test-Learn (DBTL) cycle is an iterative framework for engineering biological systems [1]. As a cornerstone of synthetic biology, it guides the rational design and...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "synthetic-biology-design-build-test-learn-cycle.md"
+    },
+    {
+      "slug": "system-design",
+      "title": "System Design",
+      "description": "System design is the process of defining the architecture, components, modules, interfaces, and data for a system to satisfy specified requirements. It is a holistic process that involves translati...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "system-design.md"
+    },
+    {
+      "slug": "systems-architecture",
+      "title": "Systems Architecture",
+      "description": "A systems architecture is the conceptual model that defines the structure, behavior, and different views of a system. It is a formal description and representation of a system, organized in a way t...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "systems-architecture.md"
+    },
+    {
+      "slug": "systems-integration",
+      "title": "Systems Integration",
+      "description": "Systems Integration is the process of connecting different sub-systems (components) into a single larger system that functions as one. In the context of information technology, this involves linkin...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "systems-integration.md"
+    },
+    {
+      "slug": "systems-modeling-language-sysml",
+      "title": "Systems Modeling Language (SysML)",
+      "description": "The Systems Modeling Language (SysML) is a general-purpose graphical modeling language used for specifying, analyzing, designing, and verifying complex systems. It is particularly well-suited for s...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "systems-modeling-language-sysml.md"
+    },
+    {
+      "slug": "systems-theory-von-bertalanffy",
+      "title": "Systems Theory (von Bertalanffy)",
+      "description": "Systems Theory, also known as General System Theory (GST), is an interdisciplinary framework for understanding the interconnectedness and behavior of complex phenomena. Developed by the Austrian bi...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "systems-theory-von-bertalanffy.md"
+    },
+    {
+      "slug": "systems-thinking-frameworks-meadows-senge-checkland",
+      "title": "Systems Thinking Frameworks (Meadows, Senge, Checkland)",
+      "description": "Systems thinking is a holistic approach to analysis that focuses on the way that a system's constituent parts interrelate and how systems work over time and within the context of larger systems. It...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "systems-thinking-frameworks-meadows-senge-checkland.md"
+    },
+    {
+      "slug": "systems-thinking",
+      "title": "Systems Thinking",
+      "description": "Systems thinking is a holistic analytical approach that examines how a system's parts interrelate and how systems function over time within larger systems. In contrast to traditional analysis which...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "systems-thinking.md"
+    },
+    {
+      "slug": "target-costing-market-driven-pricing",
+      "title": "Target Costing - Market-driven Pricing",
+      "description": "Target costing is a strategic approach to cost management that originates from a market-driven perspective. Instead of designing a product and then determining its cost and price (a cost-plus appro...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "target-costing-market-driven-pricing.md"
+    },
+    {
+      "slug": "tax-optimization-frameworks",
+      "title": "Tax Optimization Frameworks",
+      "description": "Tax optimization is the legal and strategic process of arranging financial activities to minimize tax liability. It involves using tax laws and regulations to one's advantage, which is different fr...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "tax-optimization-frameworks.md"
+    },
+    {
+      "slug": "taylorism-scientific-management",
+      "title": "Taylorism (Scientific Management)",
+      "description": "Scientific Management, often referred to as Taylorism, is a management theory that emerged in the late 19th and early 20th centuries. Developed by Frederick Winslow Taylor, an American mechanical e...",
+      "score": 1,
+      "domain": "business",
+      "universality": null,
+      "file": "taylorism-scientific-management.md"
+    },
+    {
+      "slug": "team-development-models",
+      "title": "Team Development Models",
+      "description": "Team development models are conceptual frameworks that describe the stages through which teams or groups progress over time. These models provide a roadmap for understanding, anticipating, and infl...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "team-development-models.md"
+    },
+    {
+      "slug": "technical-performance-measurement",
+      "title": "Technical Performance Measurement",
+      "description": "Technical Performance Measurement (TPM) is a systems engineering practice used to manage and assess the technical progress of a program or project. It involves forecasting the future value of key t...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "technical-performance-measurement.md"
+    },
+    {
+      "slug": "technocracy",
+      "title": "Technocracy",
+      "description": "Technocracy is a model of governance in which decision-makers are selected based on their technical expertise and knowledge rather than their political affiliations or popularity. The term derives ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "technocracy.md"
+    },
+    {
+      "slug": "technology-adoption-lifecycle-moore",
+      "title": "Technology Adoption Lifecycle (Moore)",
+      "description": "The Technology Adoption Lifecycle is a sociological model that describes the acceptance of a new technological product or innovation. The model, popularized by Everett M. Rogers and later adapted f...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "technology-adoption-lifecycle-moore.md"
+    },
+    {
+      "slug": "technology-roadmapping",
+      "title": "Technology Roadmapping",
+      "description": "Technology roadmapping is a strategic planning process that aligns technology development with business objectives. It provides a visual framework for organizations to chart their technological fut...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "technology-roadmapping.md"
+    },
+    {
+      "slug": "technology-specific-frameworks",
+      "title": "Technology-Specific Frameworks",
+      "description": "A **Technology-Specific Framework** is a pre-packaged, reusable set of software components, libraries, and tools that are designed to facilitate the development of applications within a particular ...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "technology-specific-frameworks.md"
+    },
+    {
+      "slug": "temporal-coverage-historical-to-emerging",
+      "title": "Temporal Coverage (Historical to Emerging)",
+      "description": "This section provides a high-level summary of the Temporal Coverage (Historical to Emerging) pattern, its purpose, and its significance in organizational contexts.",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "temporal-coverage-historical-to-emerging.md"
+    },
+    {
+      "slug": "test-driven-development-tdd-testing-first",
+      "title": "Test-Driven Development (TDD) - Testing First",
+      "description": "Test-Driven Development (TDD) is a software development process that emphasizes writing automated tests before writing the production code that satisfies those tests. This seemingly counterintuitiv...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "test-driven-development-tdd-testing-first.md"
+    },
+    {
+      "slug": "the-natural-step-framework",
+      "title": "The Natural Step Framework",
+      "description": "The Natural Step (TNS) is a strategic framework for sustainable development, providing a systematic approach for organizations to integrate sustainability into their core strategies. Rooted in a sc...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "the-natural-step-framework.md"
+    },
+    {
+      "slug": "theory-of-change-organizational-development",
+      "title": "Theory of Change: Organizational Development",
+      "description": "A Theory of Change (ToC) is a comprehensive and participatory methodology for planning, monitoring, and evaluating social change initiatives. It provides a detailed, illustrated description of how ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "theory-of-change-organizational-development.md"
+    },
+    {
+      "slug": "theory-of-constraints-goldratts-toc",
+      "title": "Theory of Constraints - Goldratt's TOC",
+      "description": "The Theory of Constraints (TOC) is a management philosophy that views any complex system as being limited in achieving more of its goals by a very small number of constraints. It was conceived by D...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "theory-of-constraints-goldratts-toc.md"
+    },
+    {
+      "slug": "theory-of-constraints-toc",
+      "title": "Theory of Constraints (TOC)",
+      "description": "The Theory of Constraints (TOC) is a management philosophy that views any complex system as being limited in achieving more of its goals by a very small number of constraints. It was introduced by ...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "theory-of-constraints-toc.md"
+    },
+    {
+      "slug": "throughput-accounting-toc-financial",
+      "title": "Throughput Accounting - TOC Financial",
+      "description": "Throughput Accounting (TA) is a management accounting methodology that originated from the Theory of Constraints (TOC), a management philosophy introduced by Eliyahu M. Goldratt. It provides a fram...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "throughput-accounting-toc-financial.md"
+    },
+    {
+      "slug": "time-banking-for-collaborative-making",
+      "title": "Time Banking for Collaborative Making",
+      "description": "Time Banking for Collaborative Making is a framework that leverages the principles of time banking to foster and sustain collaborative creative and production environments. It is a system designed ...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "time-banking-for-collaborative-making.md"
+    },
+    {
+      "slug": "time-blocking",
+      "title": "Time Blocking",
+      "description": "Time blocking is a time management method that involves dividing your day into specific blocks of time, where each block is dedicated to accomplishing a specific task or a group of related tasks. I...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "time-blocking.md"
+    },
+    {
+      "slug": "token-based-governance",
+      "title": "Token-Based Governance",
+      "description": "Token-Based Governance is a novel form of organizational governance that has emerged with the advent of blockchain technology and cryptocurrencies. It represents a paradigm shift from traditional h...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "token-based-governance.md"
+    },
+    {
+      "slug": "token-economics",
+      "title": "Token Economics",
+      "description": "Token Economics, often referred to as \"tokenomics,\" is the study of the economic systems based on tokens. It explores the design, distribution, and management of digital tokens to create sustainabl...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "token-economics.md"
+    },
+    {
+      "slug": "tool-specific-methodologies",
+      "title": "Tool-specific Methodologies",
+      "description": "A tool-specific methodology is an approach to work that is fundamentally shaped by the capabilities and constraints of a particular tool or set of tools. This pattern emerges when a tool is not mer...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "tool-specific-methodologies.md"
+    },
+    {
+      "slug": "total-quality-management-tqm",
+      "title": "Total Quality Management (TQM)",
+      "description": "Total Quality Management (TQM) is a management philosophy that seeks to integrate all organizational functions (marketing, finance, design, engineering, and production, customer service, etc.) to f...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "total-quality-management-tqm.md"
+    },
+    {
+      "slug": "touchpoint-design",
+      "title": "Touchpoint Design",
+      "description": "Touchpoint Design is a strategic practice focused on ensuring that every interaction a customer or user has with a brand, product, or service is consistent, coherent, and contributes positively to ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "touchpoint-design.md"
+    },
+    {
+      "slug": "tows-matrix-swot-extension",
+      "title": "TOWS Matrix - SWOT Extension",
+      "description": "The TOWS Matrix, an acronym for Threats, Opportunities, Weaknesses, and Strengths, is a strategic planning framework that extends the well-known SWOT analysis. While SWOT analysis focuses on identi...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "tows-matrix-swot-extension.md"
+    },
+    {
+      "slug": "toyota-production-system-tps",
+      "title": "Toyota Production System (TPS)",
+      "description": "The Toyota Production System (TPS) is an integrated socio-technical system developed by Toyota that comprises its management philosophy and practices. It is a management system that organizes manuf...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "toyota-production-system-tps.md"
+    },
+    {
+      "slug": "tps-documented",
+      "title": "Toyota Production System",
+      "description": "The Toyota Production System (TPS) is a highly influential and widely adopted integrated socio-technical system for manufacturing and logistics that was developed by Toyota Motor Corporation. At it...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "tps-documented.md"
+    },
+    {
+      "slug": "trade-off-analysis",
+      "title": "Trade-Off Analysis",
+      "description": "Trade-off analysis is a systematic approach to decision-making that involves evaluating the advantages and disadvantages of different options to find the best balance of competing factors. It is a ...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "trade-off-analysis.md"
+    },
+    {
+      "slug": "traditional-budgeting",
+      "title": "Traditional Budgeting",
+      "description": "Traditional budgeting, also known as incremental budgeting, is a widely used financial planning process where the budget for the upcoming period is based on the current period's budget, with increm...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "traditional-budgeting.md"
+    },
+    {
+      "slug": "traditional-craftsmanship-techniques",
+      "title": "Traditional Craftsmanship Techniques",
+      "description": "Traditional craftsmanship is the embodiment of skill, knowledge, and cultural heritage, passed down through generations. It represents a deep connection between the artisan, their materials, and th...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "traditional-craftsmanship-techniques.md"
+    },
+    {
+      "slug": "traditional-ecological-knowledge-tek",
+      "title": "Traditional Ecological Knowledge (TEK)",
+      "description": "Traditional Ecological Knowledge (TEK), also referred to as Indigenous Knowledge (IK), represents a comprehensive and cumulative body of knowledge, practices, and beliefs developed and handed down ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "traditional-ecological-knowledge-tek.md"
+    },
+    {
+      "slug": "traditional-hierarchical-models",
+      "title": "Traditional Hierarchical Models",
+      "description": "A traditional hierarchical model is an organizational structure characterized by a clear, top-down chain of command, where authority and decision-making power are concentrated at the highest levels...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "traditional-hierarchical-models.md"
+    },
+    {
+      "slug": "traditional-management-theories",
+      "title": "Traditional Management Theories",
+      "description": "Traditional management theories emerged during the Industrial Revolution, a period of significant technological and social change. As factories replaced smaller workshops, there was a need for new ...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "traditional-management-theories.md"
+    },
+    {
+      "slug": "traditional-medicine-systems",
+      "title": "Traditional Medicine Systems",
+      "description": "Traditional Medicine Systems are the total sum of the knowledge, skills, and practices based on the theories, beliefs, and experiences indigenous to different cultures, whether explicable or not, u...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "traditional-medicine-systems.md"
+    },
+    {
+      "slug": "traditional-water-management",
+      "title": "Traditional Water Management",
+      "description": "Traditional Water Management encompasses a diverse array of practices and systems developed by indigenous peoples and local communities over centuries to sustainably manage water resources. These s...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "traditional-water-management.md"
+    },
+    {
+      "slug": "transactional-leadership",
+      "title": "Transactional Leadership",
+      "description": "Transactional leadership is a management style rooted in the principles of exchange, where leaders motivate followers through a system of rewards and punishments [1]. This approach emphasizes struc...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "transactional-leadership.md"
+    },
+    {
+      "slug": "transferable-applicable-beyond-single-organization",
+      "title": "Transferable: Applicable Beyond Single Organization",
+      "description": "A transferable organizational pattern is a blueprint for organizing people and resources that can be successfully applied across different organizations, industries, and cultures. These patterns ar...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "transferable-applicable-beyond-single-organization.md"
+    },
+    {
+      "slug": "transition-to-renewables",
+      "title": "Transition to Renewables",
+      "description": "The transition to renewable energy represents a fundamental shift in our global energy landscape. It is the process of moving away from energy sources that rely on finite and polluting fossil fuels...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "transition-to-renewables.md"
+    },
+    {
+      "slug": "treasury-management",
+      "title": "Treasury Management",
+      "description": "Treasury management is the strategic financial discipline responsible for managing an organization's liquidity, financial risks, and capital structure to support its overall business objectives. It...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "treasury-management.md"
+    },
+    {
+      "slug": "triz-theory-of-inventive-problem-solving-soviet",
+      "title": "TRIZ (Theory of Inventive Problem Solving - Soviet)",
+      "description": "TRIZ, a Russian acronym for \"Teoriya Resheniya Izobretatelskikh Zadach\" (\u0422\u0435\u043e\u0440\u0438\u044f \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0438\u0437\u043e\u0431\u0440\u0435\u0442\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0445 \u0437\u0430\u0434\u0430\u0447), translates to the \"Theory of Inventive Problem Solving.\" It is a systematic and huma...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "triz-theory-of-inventive-problem-solving-soviet.md"
+    },
+    {
+      "slug": "true-cost-accounting-externalities-included",
+      "title": "True Cost Accounting - Externalities Included",
+      "description": "True Cost Accounting (TCA), also known as Full Cost Accounting (FCA), is a comprehensive accounting framework that seeks to measure and value the full range of environmental, social, and economic c...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "true-cost-accounting-externalities-included.md"
+    },
+    {
+      "slug": "true-cost-accounting",
+      "title": "True Cost Accounting",
+      "description": "True Cost Accounting (TCA), also known as Full Cost Accounting or Multiple Capital Accounting, is a comprehensive and systemic methodology for measuring and valuing the full range of impacts\u2014both p...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "true-cost-accounting.md"
+    },
+    {
+      "slug": "two-speed-development-model",
+      "title": "Two-Speed Development Model",
+      "description": "The Two-Speed Development Model, also known as Two-Speed IT or Bimodal IT, is an organizational pattern for managing IT and software development by separating them into two distinct streams, or spe...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "two-speed-development-model.md"
+    },
+    {
+      "slug": "ubuntu-documented",
+      "title": "Ubuntu (documented)",
+      "description": "Ubuntu is a profound African philosophy that emphasizes the interconnectedness of humanity. The term, originating from the Bantu languages of Southern Africa, is often translated as \"I am because w...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "ubuntu-documented.md"
+    },
+    {
+      "slug": "ujamaa-tanzania",
+      "title": "Ujamaa (Tanzania)",
+      "description": "Ujamaa, a Swahili term meaning 'familyhood' or 'fraternity,' was a socialist ideology that formed the basis of Tanzania's social and economic development policies from the late 1960s to the mid-198...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "ujamaa-tanzania.md"
+    },
+    {
+      "slug": "un-sustainable-development-goals-sdgs-global-framework",
+      "title": "UN Sustainable Development Goals (SDGs) - Global Framework",
+      "description": "The UN Sustainable Development Goals (SDGs) are 17 interlinked global goals at the core of the 2030 Agenda for Sustainable Development, adopted by all UN Member States in 2015 [1]. They are a unive...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "un-sustainable-development-goals-sdgs-global-framework.md"
+    },
+    {
+      "slug": "unified-modeling-language-uml",
+      "title": "Unified Modeling Language (UML)",
+      "description": "The Unified Modeling Language (UML) is a standardized, general-purpose modeling language used in software engineering to provide a visual representation of a system's design. Created to unify the d...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "unified-modeling-language-uml.md"
+    },
+    {
+      "slug": "universal-design",
+      "title": "Universal Design",
+      "description": "Universal Design (UD) is a design philosophy and process that aims to create products, environments, and services that are usable by all people, to the greatest extent possible, without the need fo...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "universal-design.md"
+    },
+    {
+      "slug": "unschooling",
+      "title": "Unschooling",
+      "description": "Unschooling is an informal learning that advocates learner-chosen activities as a primary means for learning. Unschoolers learn through their natural life experiences including play, household resp...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "unschooling.md"
+    },
+    {
+      "slug": "upcycling-repurposing",
+      "title": "Upcycling & Repurposing",
+      "description": "Upcycling and repurposing are two distinct but related practices that are central to the circular economy. Both practices involve taking waste materials and transforming them into new products, but...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "upcycling-repurposing.md"
+    },
+    {
+      "slug": "urban-agriculture",
+      "title": "Urban Agriculture",
+      "description": "Urban agriculture is the practice of cultivating, processing, and distributing food in or around urban areas. It encompasses a wide range of activities, including horticulture, animal husbandry, aq...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "urban-agriculture.md"
+    },
+    {
+      "slug": "usability-engineering-for-medical-devices-iec-62366",
+      "title": "Usability Engineering for Medical Devices (IEC 62366)",
+      "description": "Usability Engineering for Medical Devices, as defined by the international standard IEC 62366, is a systematic approach to designing and developing medical devices that are safe and easy to use. Th...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "usability-engineering-for-medical-devices-iec-62366.md"
+    },
+    {
+      "slug": "usability-testing",
+      "title": "Usability Testing",
+      "description": "Usability testing is a crucial practice in user-centered design, employed to evaluate the ease of use of a product, service, or system by testing it with representative users. It involves observing...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "usability-testing.md"
+    },
+    {
+      "slug": "user-story-mapping",
+      "title": "User Story Mapping",
+      "description": "User Story Mapping is a collaborative practice used by agile teams to visualize and organize the work required to deliver a valuable product or service. It provides a holistic view of the user's jo...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "user-story-mapping.md"
+    },
+    {
+      "slug": "v-model-for-automotive-systems-engineering",
+      "title": "V-Model for Automotive Systems Engineering",
+      "description": "The V-Model for Automotive Systems Engineering is a structured and rigorous systems development lifecycle model that is widely used in the automotive industry. It provides a graphical representatio...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "v-model-for-automotive-systems-engineering.md"
+    },
+    {
+      "slug": "v-model",
+      "title": "V-Model",
+      "description": "The V-Model, also known as the V-Cycle or V-Modell, is a systems development lifecycle model that provides a graphical representation of the relationship between the development and testing phases ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "v-model.md"
+    },
+    {
+      "slug": "valuation-methodologies",
+      "title": "Valuation Methodologies",
+      "description": "Valuation methodologies are a set of structured approaches and techniques used to determine the economic value of an asset, a business, or a company. These methodologies provide a framework for und...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "valuation-methodologies.md"
+    },
+    {
+      "slug": "value-chain-analysis",
+      "title": "Value Chain Analysis",
+      "description": "Value Chain Analysis is a strategic management framework that allows an organization to deconstruct its operations into a series of value-adding activities. By examining this \"value chain,\" a compa...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "value-chain-analysis.md"
+    },
+    {
+      "slug": "value-chain-coordination",
+      "title": "Value Chain Coordination",
+      "description": "Value Chain Coordination (VCC) is a strategic, market-based approach focused on enhancing local and regional economies by fostering collaboration among businesses within a specific supply chain. Th...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "value-chain-coordination.md"
+    },
+    {
+      "slug": "value-disciplines-treacy-wiersema",
+      "title": "Value Disciplines (Treacy & Wiersema)",
+      "description": "The Value Disciplines model, developed by Michael Treacy and Fred Wiersema, is a strategic framework that helps organizations achieve market leadership by excelling in one of three value discipline...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "value-disciplines-treacy-wiersema.md"
+    },
+    {
+      "slug": "value-net-model",
+      "title": "Value Net Model",
+      "description": "The Value Net Model is a strategic framework that encourages businesses to look beyond traditional competition and consider the entire ecosystem of players that influence their success. It provides...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "value-net-model.md"
+    },
+    {
+      "slug": "value-proposition-canvas",
+      "title": "Value Proposition Canvas",
+      "description": "The Value Proposition Canvas is a strategic management and user-centered design tool used to ensure that a product or service is positioned around what the customer values and needs. [1] [2] was cr...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "value-proposition-canvas.md"
+    },
+    {
+      "slug": "value-stream-mapping-lean-tool",
+      "title": "Value Stream Mapping",
+      "description": "Value Stream Mapping (VSM) is a lean management tool used to visualize and analyze the flow of materials and information required to bring a product or service from its conception to the customer. ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "value-stream-mapping-lean-tool.md"
+    },
+    {
+      "slug": "vastu-shastra",
+      "title": "Vastu Shastra",
+      "description": "Vastu Shastra, an ancient Indian science of architecture and design, offers a holistic framework for creating harmonious living and working spaces. Rooted in Vedic traditions, it provides principle...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "vastu-shastra.md"
+    },
+    {
+      "slug": "vdi-2221-systematic-approach-to-design",
+      "title": "VDI 2221 (Systematic Approach to Design)",
+      "description": "VDI 2221, titled \"Systematic Approach to the Design of Technical Systems and Products,\" is a comprehensive methodology developed by the Association of German Engineers (VDI - Verein Deutscher Ingen...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "vdi-2221-systematic-approach-to-design.md"
+    },
+    {
+      "slug": "verification-validation-vv",
+      "title": "Verification & Validation (V&V)",
+      "description": "Verification and Validation (V&V) are the processes of checking that a software system meets specifications and standards and fulfills the required purpose. It is a set of activities that ensure th...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "verification-validation-vv.md"
+    },
+    {
+      "slug": "vernacular-architecture",
+      "title": "Vernacular Architecture",
+      "description": "Vernacular architecture is a design philosophy and practice that is deeply rooted in local context, tradition, and the use of readily available materials. It represents a form of building that aris...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "vernacular-architecture.md"
+    }
+  ]
+}

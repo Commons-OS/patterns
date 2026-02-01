@@ -1,0 +1,906 @@
+{
+  "page": 3,
+  "total_pages": 10,
+  "patterns": [
+    {
+      "slug": "agile-software-development",
+      "title": "Agile Software Development",
+      "description": "Agile Software Development is an iterative and incremental approach to software development that prioritizes flexibility, customer collaboration, and the delivery of working software in small, freq...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "agile-software-development.md"
+    },
+    {
+      "slug": "agile-unified-process-aup",
+      "title": "Agile Unified Process (AUP)",
+      "description": "Agile Unified Process (AUP) is a simplified version of the Rational Unified Process (RUP) developed by Scott Ambler in 2005. It provides a straightforward and easy-to-understand approach for develo...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "agile-unified-process-aup.md"
+    },
+    {
+      "slug": "ai-alignment-research",
+      "title": "AI Alignment Research",
+      "description": "AI Alignment Research is a field of study dedicated to ensuring that artificial intelligence systems are designed and developed in a way that their goals and behaviors are in harmony with human val...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "ai-alignment-research.md"
+    },
+    {
+      "slug": "ai-assisted-engineering-optimization",
+      "title": "AI-Assisted Engineering Optimization",
+      "description": "AI-Assisted Engineering Optimization represents a paradigm shift in how engineering design, analysis, and optimization are approached. This pattern leverages artificial intelligence, particularly m...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "ai-assisted-engineering-optimization.md"
+    },
+    {
+      "slug": "ai-augmented-organizations",
+      "title": "AI-Augmented Organizations",
+      "description": "An AI-Augmented Organization represents a fundamental shift in organizational design, moving beyond simple automation to a paradigm where humans and artificial intelligence collaborate as partners ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "ai-augmented-organizations.md"
+    },
+    {
+      "slug": "ai-cooperatives",
+      "title": "AI Cooperatives",
+      "description": "AI Cooperatives represent a paradigm shift in the development and governance of artificial intelligence, challenging the prevailing model of concentrated corporate control. In an era where a handfu...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "ai-cooperatives.md"
+    },
+    {
+      "slug": "ai-driven-topology-optimization",
+      "title": "AI-Driven Topology Optimization",
+      "description": "AI-Driven Topology Optimization is a sophisticated computational methodology that leverages artificial intelligence, particularly machine learning and deep learning models, to automate and accelera...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "ai-driven-topology-optimization.md"
+    },
+    {
+      "slug": "ai-ethics-frameworks-responsible-ai",
+      "title": "AI Ethics Frameworks - Responsible AI",
+      "description": "AI Ethics Frameworks, often encapsulated under the umbrella of \"Responsible AI,\" represent a structured approach to designing, developing, and deploying artificial intelligence systems in a manner ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "ai-ethics-frameworks-responsible-ai.md"
+    },
+    {
+      "slug": "ai-for-materials-discovery",
+      "title": "Ai For Materials Discovery",
+      "description": "id: pat_01kg5023xcf1gs9k569vnpvp18 page_url: https://commons-os.github.io/patterns/domain/ai-for-materials-discovery/ github_url: https://github.com/commons-os/patterns/blob/main/_patterns/ai-for-m...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "ai-for-materials-discovery.md"
+    },
+    {
+      "slug": "ai-for-social-good",
+      "title": "AI for Social Good",
+      "description": "Artificial Intelligence for Social Good (AI4SG) is an emerging multidisciplinary field that focuses on applying artificial intelligence research and development to address pressing social and globa...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "ai-for-social-good.md"
+    },
+    {
+      "slug": "ai-governance-models",
+      "title": "AI Governance Models",
+      "description": "AI Governance Models are structured frameworks of principles, policies, and practices that guide the responsible development, deployment, and management of artificial intelligence systems. The core...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "ai-governance-models.md"
+    },
+    {
+      "slug": "ai-powered-design-assistants",
+      "title": "AI-Powered Design Assistants",
+      "description": "AI-Powered Design Assistants represent a significant evolution in the field of design, leveraging artificial intelligence to augment and accelerate the creative process. These sophisticated tools a...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "ai-powered-design-assistants.md"
+    },
+    {
+      "slug": "ai-powered-simulation",
+      "title": "AI-Powered Simulation",
+      "description": "AI-Powered Simulation is a transformative practice that integrates artificial intelligence, particularly machine learning and advanced data analytics, with traditional simulation modeling to create...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "ai-powered-simulation.md"
+    },
+    {
+      "slug": "ai-safety-frameworks",
+      "title": "AI Safety Frameworks",
+      "description": "AI Safety Frameworks are structured sets of guidelines, principles, and practices designed to ensure that artificial intelligence systems operate without causing unintended harm and align with huma...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "ai-safety-frameworks.md"
+    },
+    {
+      "slug": "algorithmic-management",
+      "title": "Algorithmic Management",
+      "description": "Algorithmic management refers to the use of computer algorithms and data-driven systems to perform managerial functions traditionally carried out by humans. These functions include task assignment,...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "algorithmic-management.md"
+    },
+    {
+      "slug": "amazonian-indigenous-systems",
+      "title": "Amazonian Indigenous Systems",
+      "description": "Amazonian Indigenous Systems are a holistic framework of knowledge, practices, and beliefs developed over millennia by Indigenous peoples of the Amazon. It's a complex worldview linking social orga...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "amazonian-indigenous-systems.md"
+    },
+    {
+      "slug": "andon-system",
+      "title": "Andon System",
+      "description": "The Andon System is a powerful visual management tool that originated within the Toyota Production System (TPS) [1]. It serves as a real-time communication system on the factory floor, designed to ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "andon-system.md"
+    },
+    {
+      "slug": "ansoff-matrix",
+      "title": "Ansoff Matrix",
+      "description": "The Ansoff Matrix, also known as the Product/Market Expansion Grid, is a strategic planning framework that helps organizations identify and evaluate opportunities for growth. Developed by H. Igor A...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "ansoff-matrix.md"
+    },
+    {
+      "slug": "api-first-design-interface-driven",
+      "title": "API-First Design - Interface-Driven",
+      "description": "API-first design is a strategic approach to software development that treats Application Programming Interfaces (APIs) as central to the entire development process. In this model, the API is not an...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "api-first-design-interface-driven.md"
+    },
+    {
+      "slug": "appreciative-inquiry-if-not-in-strategy",
+      "title": "Appreciative Inquiry (if not in Strategy)",
+      "description": "Appreciative Inquiry (AI) is a strengths-based, positive approach to leadership development and organizational change. It stands in contrast to traditional problem-solving methods by focusing on wh...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "appreciative-inquiry-if-not-in-strategy.md"
+    },
+    {
+      "slug": "aquaponics",
+      "title": "Aquaponics",
+      "description": "Aquaponics is a sustainable food production system that integrates aquaculture (raising aquatic animals like fish) with hydroponics (cultivating plants in water without soil). This symbiotic relati...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "aquaponics.md"
+    },
+    {
+      "slug": "arctic-indigenous-systems",
+      "title": "Arctic Indigenous Systems",
+      "description": "Arctic Indigenous Systems represent a holistic and deeply contextualized approach to knowledge, governance, and living that has been developed and practiced by the more than 40 distinct Indigenous ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "arctic-indigenous-systems.md"
+    },
+    {
+      "slug": "arp4754-guidelines-for-development-of-civil-aircraft-and-systems",
+      "title": "ARP4754 - Guidelines for Development of Civil Aircraft and Systems",
+      "description": "ARP4754, formally known as \"Guidelines for Development of Civil Aircraft and Systems,\" is a widely recognized standard in the aerospace industry, published by SAE International. It provides a struc...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "arp4754-guidelines-for-development-of-civil-aircraft-and-systems.md"
+    },
+    {
+      "slug": "arts-and-crafts-movement-design-principles",
+      "title": "Arts and Crafts Movement Design Principles",
+      "description": "The Arts and Crafts Movement was a design revolution that emerged in Britain in the latter half of the 19th century and spread internationally, continuing to influence design and craft to this day ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "arts-and-crafts-movement-design-principles.md"
+    },
+    {
+      "slug": "as9100-quality-management-system",
+      "title": "AS9100 Quality Management System",
+      "description": "AS9100 is the international quality management system (QMS) standard for the aviation, space, and defense (AS&D) industry. Created by the Society of Automotive Engineers (SAE) and the European Asso...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "as9100-quality-management-system.md"
+    },
+    {
+      "slug": "asian-indigenous-systems",
+      "title": "Asian Indigenous Systems",
+      "description": "Asian Indigenous Systems represent a diverse and deeply rooted collection of organizational and governance patterns that have evolved over millennia within the indigenous communities of Asia. These...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "asian-indigenous-systems.md"
+    },
+    {
+      "slug": "asset-light-model",
+      "title": "Asset-Light Model",
+      "description": "The Asset-Light Model is a business strategy where a company minimizes its ownership of physical assets, instead leveraging partnerships and third-party resources to deliver its products or service...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "asset-light-model.md"
+    },
+    {
+      "slug": "auction-model",
+      "title": "Auction Model",
+      "description": "The Auction Model is a method of determining the price of a good or service through a process of competitive bidding [1]. Rather than a seller setting a fixed price, an auction allows potential buy...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "auction-model.md"
+    },
+    {
+      "slug": "augmented-reality-ar-product-design",
+      "title": "Augmented Reality (AR) Product Design",
+      "description": "Augmented Reality (AR) Product Design is a specialized field of design that focuses on creating user experiences that overlay computer-generated information onto the real world. Unlike Virtual Real...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "augmented-reality-ar-product-design.md"
+    },
+    {
+      "slug": "augmented-reality-in-manufacturing",
+      "title": "Augmented Reality In Manufacturing",
+      "description": "'''--- id: pat_01kg50240jfastcwdcdbgxbdb1 page_url: https://commons-os.github.io/patterns/augmented-reality-in-manufacturing/ github_url: https://github.com/commons-os/patterns/blob/main/_patterns/...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "augmented-reality-in-manufacturing.md"
+    },
+    {
+      "slug": "austrian-economics",
+      "title": "Austrian Economics",
+      "description": "Austrian Economics is a school of economic thought that originated in Vienna during the late 19th century with the work of Carl Menger. It is a heterodox school of thought, meaning it deviates from...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "austrian-economics.md"
+    },
+    {
+      "slug": "autogestion-worker-self-management",
+      "title": "Autogesti\u00f3n (Worker Self-Management)",
+      "description": "Autogesti\u00f3n, or worker self-management, is a model of workplace organization where employees collectively and democratically manage the enterprise. This approach fundamentally alters traditional hi...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "autogestion-worker-self-management.md"
+    },
+    {
+      "slug": "automated-decision-systems",
+      "title": "Automated Decision Systems",
+      "description": "id: pat_01kg5023xhf21s8k0s75j32fpf page_url: https://commons-os.github.io/patterns/automated-decision-systems/ github_url: https://github.com/commons-os/patterns/blob/main/_patterns/automated-decis...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "automated-decision-systems.md"
+    },
+    {
+      "slug": "automotive-spice-software-process-improvement",
+      "title": "Automotive Spice Software Process Improvement",
+      "description": "slug: automotive-spice-software-process-improvement title: Automotive SPICE (Software Process Improvement) aliases: [ASPICE] version: 1.0 created: 2026-01-28T00:00:00Z modified: 2026-01-28T00:00:00...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "automotive-spice-software-process-improvement.md"
+    },
+    {
+      "slug": "autosar-automotive-software-architecture",
+      "title": "AUTOSAR (Automotive Open System Architecture)",
+      "description": "AUTOSAR (AUTomotive Open System ARchitecture) is a global partnership of automotive industry players, founded in 2003 to create a standardized software architecture for electronic control units (EC...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "autosar-automotive-software-architecture.md"
+    },
+    {
+      "slug": "axiomatic-design",
+      "title": "Axiomatic Design",
+      "description": "Axiomatic Design (AD) is a systems design methodology developed by Dr. Nam P. Suh at MIT in the 1990s. It provides a systematic and scientific basis for making design decisions. The fundamental ide...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "axiomatic-design.md"
+    },
+    {
+      "slug": "b-corporation-model-benefit-corporation",
+      "title": "B Corporation Model",
+      "description": "A B Corporation, or Benefit Corporation, is a for-profit company that has been certified by the non-profit B Lab as voluntarily meeting higher standards of social and environmental performance, acc...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "b-corporation-model-benefit-corporation.md"
+    },
+    {
+      "slug": "b-impact-assessment-b-corp-measurement",
+      "title": "B Impact Assessment - B Corp Measurement",
+      "description": "The B Impact Assessment (BIA) is a free, confidential, and comprehensive digital tool designed for businesses to measure, manage, and improve their social and environmental performance, accountabil...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "b-impact-assessment-b-corp-measurement.md"
+    },
+    {
+      "slug": "bauhaus-design-philosophy",
+      "title": "Bauhaus Design Philosophy",
+      "description": "The Bauhaus, which translates to \"building house,\" was a revolutionary German art school founded by architect Walter Gropius in Weimar in 1919. It operated until 1933 across three locations: Weimar...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "bauhaus-design-philosophy.md"
+    },
+    {
+      "slug": "bcg-matrix",
+      "title": "BCG Matrix",
+      "description": "The Boston Consulting Group (BCG) Matrix, also known as the Growth-Share Matrix, is a strategic planning tool developed in 1970 by Bruce Henderson, the founder of the Boston Consulting Group. It pr...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "bcg-matrix.md"
+    },
+    {
+      "slug": "behavior-driven-development-bdd-specification-by-example",
+      "title": "Behavior Driven Development Bdd Specification By Example",
+      "description": "id: pat_01kg50240kf018z02azbs3qdjk page_url: https://commons-os.github.io/patterns/behavior-driven-development-bdd-specification-by-example/ github_url: https://github.com/commons-os/patterns/blob/...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "behavior-driven-development-bdd-specification-by-example.md"
+    },
+    {
+      "slug": "behavior-driven-development-bdd",
+      "title": "Behavior-Driven Development (BDD)",
+      "description": "Behavior-Driven Development (BDD) is a software development methodology that evolved from Test-Driven Development (TDD). It emphasizes collaboration between developers, quality assurance (QA) profe...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "behavior-driven-development-bdd.md"
+    },
+    {
+      "slug": "behavioral-economics",
+      "title": "Behavioral Economics",
+      "description": "'''--- id: pat_01kg5023xkes99fv5f4jpaa4at page_url: https://commons-os.github.io/patterns/behavioral-economics/ github_url: https://github.com/commons-os/patterns/blob/main/_patterns/behavioral-eco...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "behavioral-economics.md"
+    },
+    {
+      "slug": "behavioral-management-mcgregor-xy",
+      "title": "Behavioral Management Mcgregor Xy",
+      "description": "id: pat_01kg5023xkes99fv5f6tzdxtwq page_url: https://commons-os.github.io/patterns/behavioral-management-mcgregor-xy/ github_url: https://github.com/commons-os/patterns/blob/main/_patterns/behavior...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "behavioral-management-mcgregor-xy.md"
+    },
+    {
+      "slug": "benchmarking",
+      "title": "Benchmarking",
+      "description": "Benchmarking is a systematic process of measuring and comparing an organization's products, services, processes, and practices against those of recognized industry leaders or best-in-class organiza...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "benchmarking.md"
+    },
+    {
+      "slug": "beneficial-ai",
+      "title": "Beneficial AI",
+      "description": "Beneficial AI is a principle-based approach to the development and deployment of artificial intelligence systems, ensuring they are designed to be beneficial to humanity. This approach prioritizes ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "beneficial-ai.md"
+    },
+    {
+      "slug": "best-practices-transfer",
+      "title": "Best Practices Transfer",
+      "description": "Best Practices Transfer is the systematic process of identifying, capturing, sharing, and internalizing successful methods, processes, and strategies from one part of an organization to another. Th...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "best-practices-transfer.md"
+    },
+    {
+      "slug": "big-data-analytics-in-manufacturing",
+      "title": "Big Data Analytics in Manufacturing",
+      "description": "Big Data Analytics in Manufacturing refers to the application of advanced analytical techniques to large and complex datasets generated throughout the manufacturing lifecycle. These datasets, chara...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "big-data-analytics-in-manufacturing.md"
+    },
+    {
+      "slug": "biomimicry",
+      "title": "Biomimicry",
+      "description": "Biomimicry is an innovative approach that seeks sustainable solutions to human challenges by emulating nature\u2019s time-tested patterns and strategies. The term, derived from the Greek words \u201cbios\u201d (l...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "biomimicry.md"
+    },
+    {
+      "slug": "bioprinting-design-methodology",
+      "title": "Bioprinting Design Methodology",
+      "description": "Bioprinting is an additive manufacturing technique that utilizes bioinks\u2014materials composed of living cells and biocompatible polymers\u2014to fabricate three-dimensional tissue and organ structures lay...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "bioprinting-design-methodology.md"
+    },
+    {
+      "slug": "blended-learning",
+      "title": "Blended Learning",
+      "description": "Blended learning, also known as hybrid learning, is an educational approach that strategically integrates online learning with traditional face-to-face instruction. This model requires the physical...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "blended-learning.md"
+    },
+    {
+      "slug": "blockchain-governance-beyond-daos",
+      "title": "Blockchain Governance (Beyond Daos)",
+      "description": "Blockchain governance, in its essence, refers to the frameworks, processes, and rules that determine how a blockchain protocol is managed, updated, and how decisions are made within its ecosystem. ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "blockchain-governance-beyond-daos.md"
+    },
+    {
+      "slug": "blue-ocean-strategy-innovation",
+      "title": "Blue Ocean Strategy (Innovation)",
+      "description": "Blue Ocean Strategy is a business theory and framework for creating new market space and making competition irrelevant. Developed by W. Chan Kim and Ren\u00e9e Mauborgne, the strategy posits that sustai...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "blue-ocean-strategy-innovation.md"
+    },
+    {
+      "slug": "blue-ocean-strategy-value-innovation",
+      "title": "Blue Ocean Strategy / Value Innovation",
+      "description": "Blue Ocean Strategy is a market-creating strategy that pursues the simultaneous achievement of differentiation and low cost, creating a leap in value for both buyers and the company. The strategy i...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "blue-ocean-strategy-value-innovation.md"
+    },
+    {
+      "slug": "board-governance-models-carver-policy-governance",
+      "title": "Board Governance Models (Carver Policy Governance)",
+      "description": "Policy Governance, often referred to as the Carver model, is a system for organizational governance created by Dr. John Carver in the 1970s. It provides a comprehensive framework that defines and c...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "board-governance-models-carver-policy-governance.md"
+    },
+    {
+      "slug": "brain-computer-interface-bci-design",
+      "title": "Brain-Computer Interface (BCI) Design",
+      "description": "A brain-computer interface (BCI), or brain-machine interface (BMI), is a system that facilitates direct communication between the brain and an external device, bypassing the peripheral nervous syst...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "brain-computer-interface-bci-design.md"
+    },
+    {
+      "slug": "break-even-analysis",
+      "title": "Break-Even Analysis",
+      "description": "Break-Even Analysis is a financial tool used by businesses to determine the point at which total costs and total revenues are equal, resulting in no net loss or gain. In other words, it identifies ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "break-even-analysis.md"
+    },
+    {
+      "slug": "british-cooperative-movement",
+      "title": "British Cooperative Movement",
+      "description": "The British Cooperative Movement represents a significant and enduring chapter in the history of social and economic organization in the United Kingdom. Originating in the late 18th and early 19th ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "british-cooperative-movement.md"
+    },
+    {
+      "slug": "brokerage-model",
+      "title": "Brokerage Model",
+      "description": "The Brokerage Model is a business framework centered on a third-party intermediary, or broker, that facilitates transactions between buyers and sellers. The broker does not own the goods or service...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "brokerage-model.md"
+    },
+    {
+      "slug": "buddhist-economics",
+      "title": "Buddhist Economics",
+      "description": "Buddhist economics is a spiritual and philosophical approach to economics that challenges the core tenets of modern economic theory. It is not a rigid set of rules, but rather a framework for ethic...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "buddhist-economics.md"
+    },
+    {
+      "slug": "buen-vivir-documented",
+      "title": "Buen Vivir",
+      "description": "Buen Vivir, a term translating to \"Good Living\" or \"Collective Well-being,\" is a social philosophy and development paradigm originating from the indigenous cosmovisions of the Andean region of Sout...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "buen-vivir-documented.md"
+    },
+    {
+      "slug": "building-information-modeling-bim",
+      "title": "Building Information Modeling (BIM)",
+      "description": "Building Information Modeling (BIM) is a holistic process for creating and managing information for a built asset. It is a digital representation of the physical and functional characteristics of a...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "building-information-modeling-bim.md"
+    },
+    {
+      "slug": "bureaucratic-theory-weber",
+      "title": "Bureaucratic Theory (Weber)",
+      "description": "Bureaucratic Theory, as formulated by Max Weber, is a foundational concept in the fields of sociology, management, and organizational theory. It posits that bureaucracy is the most efficient and ra...",
+      "score": 1,
+      "domain": "business",
+      "universality": null,
+      "file": "bureaucratic-theory-weber.md"
+    },
+    {
+      "slug": "business-model-canvas-osterwalder",
+      "title": "Business Model Canvas (Osterwalder)",
+      "description": "The Business Model Canvas (BMC) is a strategic management and entrepreneurial tool. It provides a visual framework to describe, design, challenge, invent, and pivot a business model. The canvas is ...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "business-model-canvas-osterwalder.md"
+    },
+    {
+      "slug": "cadcam-integration",
+      "title": "CAD/CAM Integration",
+      "description": "CAD/CAM integration represents a pivotal advancement in manufacturing, creating a seamless bridge between the digital design of a product and its physical production. At its core, this integration ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "cadcam-integration.md"
+    },
+    {
+      "slug": "capital-budgeting",
+      "title": "Capital Budgeting",
+      "description": "Capital budgeting is the process that organizations use to evaluate and select long-term investments or projects. These investments typically involve significant capital outlays and are expected to...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "capital-budgeting.md"
+    },
+    {
+      "slug": "carbon-neutral-design",
+      "title": "Carbon-Neutral Design",
+      "description": "Carbon-Neutral Design is a comprehensive approach to architecture and product design that aims to create buildings, products, and services with zero net carbon emissions over their entire lifecycle...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "carbon-neutral-design.md"
+    },
+    {
+      "slug": "care-ethics-gilligan-tronto",
+      "title": "Care Ethics (Gilligan, Tronto)",
+      "description": "Care Ethics is a moral theory that emphasizes the importance of relationships, interdependence, and compassion in ethical decision-making. It emerged in the latter half of the 20th century as a cri...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "care-ethics-gilligan-tronto.md"
+    },
+    {
+      "slug": "cash-flow-management",
+      "title": "Cash Flow Management",
+      "description": "Cash Flow Management is the systematic process of monitoring, analyzing, and optimizing the net movement of cash into and out of an organization. This practice ensures that a company has sufficient...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "cash-flow-management.md"
+    },
+    {
+      "slug": "cellular-manufacturing-work-cell-design",
+      "title": "Cellular Manufacturing - Work Cell Design",
+      "description": "Cellular manufacturing is a production approach that arranges workstations and equipment in a sequence to support a smooth, continuous flow of materials and components through the production proces...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "cellular-manufacturing-work-cell-design.md"
+    },
+    {
+      "slug": "chaebol-rd-structure",
+      "title": "Chaebol R&D Structure",
+      "description": "The Chaebol R&D structure is a model of industrial research and development that is deeply embedded in the South Korean economic landscape. Originating in the 1960s as part of a government-led effo...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "chaebol-rd-structure.md"
+    },
+    {
+      "slug": "change-management-models-beyond-documented",
+      "title": "Change Management Models (Beyond Documented)",
+      "description": "Reinvention Change is a paradigm for organizational transformation that goes beyond incremental adjustments to fundamentally reshape a company's core identity, value creation model, and operating p...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "change-management-models-beyond-documented.md"
+    },
+    {
+      "slug": "chaos-engineering",
+      "title": "Chaos Engineering",
+      "description": "Chaos Engineering is the discipline of experimenting on a software system in production to build confidence in its capability to withstand turbulent and unexpected conditions. It is a proactive app...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "chaos-engineering.md"
+    },
+    {
+      "slug": "charismatic-leadership",
+      "title": "Charismatic Leadership",
+      "description": "Charismatic leadership is a model of influence based on the leader's exceptional personal qualities, which inspire devotion and enthusiasm in followers. The term 'charisma,' derived from the Greek ...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "charismatic-leadership.md"
+    },
+    {
+      "slug": "chinese-guanxi-networks",
+      "title": "Chinese Guanxi Networks",
+      "description": "Guanxi (\u5173\u7cfb), a central concept in Chinese culture, refers to the intricate web of social networks and influential relationships that facilitate business and other dealings. It is a deeply ingrained...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "chinese-guanxi-networks.md"
+    },
+    {
+      "slug": "chinese-state-capitalism",
+      "title": "Chinese State Capitalism",
+      "description": "Chinese State Capitalism is a hybrid economic system that merges elements of a market economy with significant state intervention and control, guided by the political objectives of the Chinese Comm...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "chinese-state-capitalism.md"
+    },
+    {
+      "slug": "circles-method",
+      "title": "CIRCLES Method",
+      "description": "The CIRCLES Method is a structured and systematic framework designed to guide product managers and designers through the process of responding to product design questions. Developed by Lewis C. Lin...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "circles-method.md"
+    },
+    {
+      "slug": "circuit-simulation-spice",
+      "title": "Circuit Simulation (SPICE)",
+      "description": "Circuit Simulation (SPICE) is a foundational pattern in electronic engineering that utilizes software to simulate and analyze the behavior of electronic circuits. SPICE, an acronym for Simulation P...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "circuit-simulation-spice.md"
+    },
+    {
+      "slug": "circular-economy-design-principles",
+      "title": "Circular Economy Design Principles",
+      "description": "Circular Economy Design Principles provide a framework for designing products, services, and systems that are regenerative and restorative by intention. The core idea is to move away from the tradi...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "circular-economy-design-principles.md"
+    },
+    {
+      "slug": "circular-economy",
+      "title": "Circular Economy",
+      "description": "The circular economy is a systems-level framework for decoupling economic growth from resource consumption [1]. It challenges the traditional linear 'take-make-dispose' model, which leads to resour...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "circular-economy.md"
+    },
+    {
+      "slug": "classical-economics-smith",
+      "title": "Classical Economics (Smith)",
+      "description": "Classical Economics, largely synonymous with the groundbreaking work of the 18th-century Scottish economist and philosopher Adam Smith, represents a foundational paradigm in economic thought. First...",
+      "score": 1,
+      "domain": "business",
+      "universality": null,
+      "file": "classical-economics-smith.md"
+    },
+    {
+      "slug": "cloud-native-architecture-kubernetes-containers",
+      "title": "Cloud Native Architecture Kubernetes Containers",
+      "description": "id: pat_01kg5023xwf518k5w2msa0cgjr page_url: https://commons-os.github.io/patterns/cloud-native-architecture-kubernetes-containers/ github_url: https://github.com/commons-os/patterns/blob/main/_pat...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "cloud-native-architecture-kubernetes-containers.md"
+    },
+    {
+      "slug": "cloud-native-development",
+      "title": "Cloud-Native Development",
+      "description": "Cloud-native development represents a fundamental shift in how applications are built and deployed, moving from monolithic architectures to a model that fully leverages the capabilities of cloud co...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "cloud-native-development.md"
+    },
+    {
+      "slug": "cmmi-for-development-aerospace",
+      "title": "CMMI for Development (Aerospace)",
+      "description": "Capability Maturity Model Integration (CMMI) for Development is a process improvement framework that provides organizations with a set of best practices for developing and maintaining products and ...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "cmmi-for-development-aerospace.md"
+    },
+    {
+      "slug": "co-creation",
+      "title": "Co-creation",
+      "description": "Co-creation is a collaborative approach to innovation and problem-solving that involves bringing together diverse stakeholders to jointly create value. In the context of a business, this refers to ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "co-creation.md"
+    },
+    {
+      "slug": "co-housing",
+      "title": "Co-housing",
+      "description": "Co-housing is a type of intentional community composed of private homes supplemented by shared facilities. The community is intentionally designed to foster social interaction, and is typically sel...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "co-housing.md"
+    },
+    {
+      "slug": "coherent-clear-principles-practices-outcomes",
+      "title": "Coherent: Clear Principles, Practices, Outcomes",
+      "description": "Organizational coherence is the degree to which an organization functions as a unified, adaptive whole, where its principles, practices, and desired outcomes are in harmonious alignment. This patte...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "coherent-clear-principles-practices-outcomes.md"
+    },
+    {
+      "slug": "collaborative-filtering",
+      "title": "Collaborative Filtering",
+      "description": "Collaborative filtering is a powerful and widely adopted technique in the realm of recommender systems. Its primary function is to make automatic predictions about the interests of a user by collec...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "collaborative-filtering.md"
+    },
+    {
+      "slug": "collective-intelligence",
+      "title": "Collective Intelligence",
+      "description": "Collective intelligence is the enhanced capacity that emerges from the collaboration of individuals, often facilitated by technology, to create a shared or group intelligence. This emergent intelli...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "collective-intelligence.md"
+    },
+    {
+      "slug": "collective-leadership-distributed-authority-models",
+      "title": "Collective Leadership - Distributed Authority Models",
+      "description": "Collective Leadership, often used interchangeably with distributed or shared leadership, is a model where decision-making authority and accountability are spread across a group of individuals rathe...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "collective-leadership-distributed-authority-models.md"
+    },
+    {
+      "slug": "collective-leadership-various-models",
+      "title": "Collective Leadership - Various Models",
+      "description": "Collective Leadership is a model where leadership is distributed among a group of people rather than being centralized in a single individual. In this approach, a team with diverse skills and exper...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "collective-leadership-various-models.md"
+    },
+    {
+      "slug": "commons-based-peer-production",
+      "title": "Commons-Based Peer Production",
+      "description": "Commons-Based Peer Production (CBPP) is a model of socio-economic production in which large numbers of people work cooperatively, most commonly over the Internet. The term was coined by Harvard Law...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "commons-based-peer-production.md"
+    },
+    {
+      "slug": "commons-governance-various-models",
+      "title": "Commons Governance (Various Models)",
+      "description": "Commons governance refers to the management and regulation of shared resources by the communities that depend on them. This approach to governance emphasizes collective stewardship, where resource ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "commons-governance-various-models.md"
+    },
+    {
+      "slug": "commons-transition-strategies",
+      "title": "Commons Transition Strategies",
+      "description": "Commons Transition Strategies represent a comprehensive framework for shifting from a society dominated by extractive capitalism to one centered around the principles of the commons. This transitio...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "commons-transition-strategies.md"
+    },
+    {
+      "slug": "communication-frameworks",
+      "title": "Communication Frameworks",
+      "description": "A **Communication Framework** is a structured system of principles, guidelines, and practices that an organization uses to manage its internal and external communication. It provides a blueprint fo...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "communication-frameworks.md"
+    },
+    {
+      "slug": "communities-of-practice",
+      "title": "Communities of Practice",
+      "description": "Communities of Practice (CoPs) are a foundational pattern for collective learning and knowledge cultivation within organizations and networks. Coined by cognitive anthropologist Jean Lave and educa...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "communities-of-practice.md"
+    },
+    {
+      "slug": "community-based-resource-management",
+      "title": "Community-Based Resource Management",
+      "description": "Community-Based Resource Management (CBRM) is a people-centered approach that empowers local communities to manage their natural resources in a sustainable and equitable manner. It is a paradigm th...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "community-based-resource-management.md"
+    },
+    {
+      "slug": "community-energy",
+      "title": "Community Energy",
+      "description": "Community energy represents a fundamental shift in the way we produce, consume, and relate to energy. It is a socio-technical movement that empowers local communities to take control of their energ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "community-energy.md"
+    },
+    {
+      "slug": "community-land-ownership",
+      "title": "Community Land Ownership",
+      "description": "Community Land Ownership (CLO) is a transformative approach to land tenure that separates the ownership of land from the ownership of the buildings and other improvements upon it. In a CLO model, a...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "community-land-ownership.md"
+    },
+    {
+      "slug": "community-land-trust-clt-development-models",
+      "title": "Community Land Trust (CLT) Development Models",
+      "description": "A Community Land Trust (CLT) is a non-profit, community-based organization that acquires and retains ownership of land, holding it in trust for the benefit of a defined geographic community. The CL...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "community-land-trust-clt-development-models.md"
+    }
+  ]
+}

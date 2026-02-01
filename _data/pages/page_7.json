@@ -1,0 +1,906 @@
+{
+  "page": 7,
+  "total_pages": 10,
+  "patterns": [
+    {
+      "slug": "mil-std-882-system-safety",
+      "title": "MIL-STD-882 (System Safety)",
+      "description": "MIL-STD-882, also known as the System Safety Standard, is a United States military standard that establishes a framework for identifying, assessing, and mitigating hazards within systems. It provid...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "mil-std-882-system-safety.md"
+    },
+    {
+      "slug": "minimum-viable-product-mvp-ries",
+      "title": "Minimum Viable Product (MVP) (Ries)",
+      "description": "The Minimum Viable Product (MVP) is a core concept in the Lean Startup methodology, popularized by Eric Ries. It is a strategy for developing a new product by creating a version with just enough fe...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "minimum-viable-product-mvp-ries.md"
+    },
+    {
+      "slug": "mittelstand-innovation-practices",
+      "title": "Mittelstand Innovation Practices",
+      "description": "The German \"Mittelstand\" represents a unique and highly successful model of small and medium-sized enterprises (SMEs) that form the backbone of the German economy. These firms, often family-owned a...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "mittelstand-innovation-practices.md"
+    },
+    {
+      "slug": "model-driven-development",
+      "title": "Model-Driven Development",
+      "description": "Model-Driven Development (MDD), also known as Model-Driven Engineering (MDE), is a software development methodology that emphasizes the creation of domain-specific models as the primary artifacts o...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "model-driven-development.md"
+    },
+    {
+      "slug": "modern-monetary-theory",
+      "title": "Modern Monetary Theory",
+      "description": "Modern Monetary Theory (MMT) is a heterodox macroeconomic framework that offers a significant departure from conventional understandings of money, government finance, and economic policy. It presen...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "modern-monetary-theory.md"
+    },
+    {
+      "slug": "modernist-design-movement",
+      "title": "Modernist Design Movement",
+      "description": "The Modernist Design Movement, which emerged in the late 19th and early 20th centuries, represents a radical break from the ornate and traditional styles of the past. It is a broad term that encomp...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "modernist-design-movement.md"
+    },
+    {
+      "slug": "modular-construction",
+      "title": "Modular Construction",
+      "description": "Modular construction, as an organizational pattern, is a strategic approach to designing and building systems, products, or even entire organizations from self-contained, interchangeable modules. E...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "modular-construction.md"
+    },
+    {
+      "slug": "modular-design",
+      "title": "Modular Design",
+      "description": "Modular design, also known as modularity in design, is a design principle that involves breaking down a system into smaller, independent, and interchangeable parts called modules. These modules can...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "modular-design.md"
+    },
+    {
+      "slug": "molecular-manufacturing",
+      "title": "Molecular Manufacturing",
+      "description": "id: pat_01kg50240qf7082yepfp46nrbt page_url: https://commons-os.github.io/patterns/molecular-manufacturing/ github_url: https://github.com/commons-os/patterns/blob/main/_patterns/molecular-manufact...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "molecular-manufacturing.md"
+    },
+    {
+      "slug": "moloch-daos",
+      "title": "Moloch DAOs",
+      "description": "Moloch DAOs represent a minimalist and highly effective framework for decentralized autonomous organizations, designed to address the critical challenge of coordination failure in funding public go...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "moloch-daos.md"
+    },
+    {
+      "slug": "monozukuri-the-art-of-making-things",
+      "title": "Monozukuri (The Art of Making Things)",
+      "description": "Monozukuri (\u3082\u306e\u3065\u304f\u308a), a Japanese term that translates to \"the art of making things,\" represents a profound philosophy of craftsmanship, continuous improvement, and an unwavering dedication to quality...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "monozukuri-the-art-of-making-things.md"
+    },
+    {
+      "slug": "motivation-theories",
+      "title": "Motivation Theories",
+      "description": "Motivation theories are a collection of frameworks that seek to explain the underlying reasons for human behavior. They explore the cognitive and psychological processes that drive individuals to a...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "motivation-theories.md"
+    },
+    {
+      "slug": "multi-stakeholder-governance-formal-frameworks",
+      "title": "Multi-Stakeholder Governance - Formal Frameworks",
+      "description": "Multi-stakeholder governance is a practice of governance that employs bringing multiple stakeholders together to participate in dialogue, decision making, and implementation of responses to jointly...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "multi-stakeholder-governance-formal-frameworks.md"
+    },
+    {
+      "slug": "mutual-aid-networks-solidarity-based",
+      "title": "Mutual Aid Networks - Solidarity-Based",
+      "description": "Mutual Aid Networks are a form of social organization based on the voluntary and collaborative exchange of resources and services for the common benefit of all members. These networks are built on ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "mutual-aid-networks-solidarity-based.md"
+    },
+    {
+      "slug": "mutual-aid-production-networks",
+      "title": "Mutual Aid Production Networks",
+      "description": "Mutual Aid Production Networks (MAPNs) represent a decentralized and collaborative approach to production and service provision, rooted in the principles of mutual aid, solidarity, and community se...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "mutual-aid-production-networks.md"
+    },
+    {
+      "slug": "mutual-society-governance",
+      "title": "Mutual Society Governance",
+      "description": "Mutual society governance is a framework for governing organizations that are owned and controlled by their members, rather than by outside investors or shareholders. This model is founded on the p...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "mutual-society-governance.md"
+    },
+    {
+      "slug": "nanotechnology-product-engineering",
+      "title": "Nanotechnology Product Engineering",
+      "description": "Nanotechnology Product Engineering is a specialized, interdisciplinary domain focused on the design, development, and manufacturing of products with components or features at the nanoscale. This fi...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "nanotechnology-product-engineering.md"
+    },
+    {
+      "slug": "nasa-systems-engineering-npr-71231",
+      "title": "NASA Systems Engineering (NPR 7123.1)",
+      "description": "NASA Systems Engineering, as defined in the NASA Procedural Requirement (NPR) 7123.1, is a comprehensive and rigorous framework for the engineering of complex systems. It provides a systematic, dis...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "nasa-systems-engineering-npr-71231.md"
+    },
+    {
+      "slug": "natural-capitalism-hawken-lovins",
+      "title": "Natural Capitalism",
+      "description": "Natural Capitalism is a framework for a sustainable form of capitalism that recognizes the critical interdependency between the production and use of human-made capital and the maintenance and supp...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "natural-capitalism-hawken-lovins.md"
+    },
+    {
+      "slug": "natural-language-processing-for-requirements",
+      "title": "Natural Language Processing for Requirements",
+      "description": "Natural Language Processing for Requirements Engineering (NLP4RE) is a pattern that leverages Natural Language Processing (NLP) techniques to analyze and manage textual requirements. This approach ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "natural-language-processing-for-requirements.md"
+    },
+    {
+      "slug": "nemawashi-consensus-building",
+      "title": "Nemawashi (Consensus Building)",
+      "description": "Nemawashi (\u6839\u56de\u3057) is a Japanese term that literally translates to \"root-binding\" or \"turning the roots.\" Originally a horticultural term, it describes the process of carefully preparing a tree for tr...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "nemawashi-consensus-building.md"
+    },
+    {
+      "slug": "neoclassical-economics",
+      "title": "Neoclassical Economics",
+      "description": "Neoclassical economics is a broad and influential school of economic thought that emerged in the late 19th and early 20th centuries. It represents a significant evolution from classical economics, ...",
+      "score": 1,
+      "domain": "business",
+      "universality": null,
+      "file": "neoclassical-economics.md"
+    },
+    {
+      "slug": "net-positive-design",
+      "title": "Net-Positive Design",
+      "description": "Net-Positive Design is a paradigm shift in the way we think about and create our built environment. It moves beyond the conventional goal of simply minimizing negative impacts\u2014a concept often refer...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "net-positive-design.md"
+    },
+    {
+      "slug": "net-present-value-npv",
+      "title": "Net Present Value (NPV)",
+      "description": "Net Present Value (NPV) is a fundamental concept in finance and a cornerstone of corporate capital budgeting. It provides a method for evaluating the profitability of an investment or project by co...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "net-present-value-npv.md"
+    },
+    {
+      "slug": "network-effects-strategy",
+      "title": "Network Effects Strategy",
+      "description": "The Network Effects Strategy is a business model that leverages the power of network effects to create a sustainable competitive advantage. A network effect is a phenomenon whereby a product or ser...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "network-effects-strategy.md"
+    },
+    {
+      "slug": "network-effects",
+      "title": "Network Effects",
+      "description": "A network effect is a phenomenon whereby a product or service gains additional value as more people use it [1]. Also known as network externalities or demand-side economies of scale, this effect is...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "network-effects.md"
+    },
+    {
+      "slug": "neural-architecture-search",
+      "title": "Neural Architecture Search",
+      "description": "Neural Architecture Search (NAS) is a technique in automated machine learning (AutoML) that automates the design of artificial neural networks (ANNs). Its primary goal is to discover the optimal ne...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "neural-architecture-search.md"
+    },
+    {
+      "slug": "neural-networks-for-system-identification",
+      "title": "Neural Networks for System Identification",
+      "description": "Neural Networks for System Identification is a powerful methodology that leverages artificial neural networks (ANNs) to create mathematical models of dynamic systems directly from observed input-ou...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "neural-networks-for-system-identification.md"
+    },
+    {
+      "slug": "neuromorphic-engineering",
+      "title": "Neuromorphic Engineering",
+      "description": "Neuromorphic Engineering is a multidisciplinary field that seeks to design and build computing systems inspired by the architecture and computational principles of the biological brain. This approa...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "neuromorphic-engineering.md"
+    },
+    {
+      "slug": "new-product-development-npd-process-booz-allen-hamilton",
+      "title": "New Product Development (NPD) Process (Booz, Allen & Hamilton)",
+      "description": "The New Product Development (NPD) process, as conceptualized by the management consulting firm Booz, Allen & Hamilton in 1982, is a seminal framework that has profoundly influenced how organization...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "new-product-development-npd-process-booz-allen-hamilton.md"
+    },
+    {
+      "slug": "nexus-framework",
+      "title": "Nexus Framework",
+      "description": "Nexus is a framework for scaling Scrum to multiple teams working on a single product. It provides a lightweight structure for coordinating the work of three to nine Scrum teams, enabling them to de...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "nexus-framework.md"
+    },
+    {
+      "slug": "nft-communities",
+      "title": "NFT Communities",
+      "description": "An NFT (Non-Fungible Token) community is a group of individuals united by their shared interest in and ownership of a particular NFT collection or project [1]. These communities have rapidly become...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "nft-communities.md"
+    },
+    {
+      "slug": "nordic-model-scandinavia",
+      "title": "Nordic Model - Scandinavia",
+      "description": "The Nordic Model, also known as the Scandinavian Model or Nordic Capitalism, is a hybrid socio-economic framework that merges free-market capitalism with a comprehensive welfare state [1]. This mod...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "nordic-model-scandinavia.md"
+    },
+    {
+      "slug": "on-demand-manufacturing",
+      "title": "On Demand Manufacturing",
+      "description": "id: pat_01kg50240qf7082yephv82p2xh page_url: https://commons-os.github.io/patterns/context-specific/on-demand-manufacturing/ github_url: https://github.com/commons-os/patterns/blob/main/_patterns/o...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "on-demand-manufacturing.md"
+    },
+    {
+      "slug": "on-demand-model",
+      "title": "On-Demand Model",
+      "description": "The On-Demand Model, also known as \"Accessibility on Demand,\" is a business model centered on the real-time provision of goods and services to customers upon their immediate request [5]. It operate...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "on-demand-model.md"
+    },
+    {
+      "slug": "online-learning-models",
+      "title": "Online Learning Models",
+      "description": "Online Learning Models represent a paradigm shift in how organizations approach knowledge acquisition, skill development, and capability building. At its core, this pattern moves away from traditio...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "online-learning-models.md"
+    },
+    {
+      "slug": "open-design",
+      "title": "Open Design",
+      "description": "Open Design is a collaborative and transparent approach to the development of products, services, and systems, where design information is publicly shared and accessible. It extends the principles ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "open-design.md"
+    },
+    {
+      "slug": "open-innovation-platforms",
+      "title": "Open Innovation Platforms",
+      "description": "An open innovation platform is a digital tool that facilitates collaboration between an organization and external parties to drive innovation. These platforms connect individuals, organizations, an...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "open-innovation-platforms.md"
+    },
+    {
+      "slug": "open-source-ecology-ose",
+      "title": "Open Source Ecology (OSE)",
+      "description": "Open Source Ecology (OSE) is a movement and organization dedicated to creating an open-source economy. Founded by Marcin Jakubowski in 2003, OSE's primary mission is to develop and popularize the G...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "open-source-ecology-ose.md"
+    },
+    {
+      "slug": "open-source-hardware-oshwa",
+      "title": "Open Source Hardware (OSHWA)",
+      "description": "Open Source Hardware (OSHWA) represents a movement and a practice where the designs of physical objects are made publicly available, allowing anyone to study, modify, create, and distribute the har...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "open-source-hardware-oshwa.md"
+    },
+    {
+      "slug": "oral-tradition-storytelling-in-design",
+      "title": "Oral Tradition & Storytelling in Design",
+      "description": "Oral Tradition and Storytelling in Design is a pattern that leverages the power of narrative to create more intuitive, engaging, and emotionally resonant user experiences. It involves shaping the d...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "oral-tradition-storytelling-in-design.md"
+    },
+    {
+      "slug": "organizational-development-lewin-schein",
+      "title": "Organizational Development (Lewin, Schein)",
+      "description": "Organizational Development (OD) as conceptualized by Kurt Lewin and later expanded upon by Edgar Schein, is a planned, organization-wide effort to increase an organization's effectiveness and healt...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "organizational-development-lewin-schein.md"
+    },
+    {
+      "slug": "pacific-islander-systems",
+      "title": "Pacific Islander Systems",
+      "description": "Pacific Islander Systems represent a diverse and sophisticated set of organizational patterns developed by the indigenous peoples of Oceania. These systems are deeply rooted in kinship, reciprocity...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "pacific-islander-systems.md"
+    },
+    {
+      "slug": "package-design-and-development-process",
+      "title": "Package Design and Development Process",
+      "description": "The Package Design and Development Process is a comprehensive, multi-faceted approach to creating product packaging that is functional, aesthetically pleasing, and aligned with brand identity. This...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "package-design-and-development-process.md"
+    },
+    {
+      "slug": "pair-programming",
+      "title": "Pair Programming",
+      "description": "Pair programming is a software development practice where two programmers collaborate at a single workstation on the same task. Originating as a core component of Extreme Programming (XP), the prac...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "pair-programming.md"
+    },
+    {
+      "slug": "palli-palli-hurry-hurry-development-culture",
+      "title": "Palli-Palli (Hurry-Hurry) Development Culture",
+      "description": "The Palli-Palli (\ube68\ub9ac \ube68\ub9ac), or \"Hurry-Hurry,\" development culture is a deeply ingrained societal and organizational pattern originating from South Korea. It is characterized by a relentless focus on s...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "palli-palli-hurry-hurry-development-culture.md"
+    },
+    {
+      "slug": "panarchy-theory-gunderson-holling",
+      "title": "Panarchy Theory",
+      "description": "Panarchy Theory, developed by ecologists C.S. Holling and Lance Gunderson, is a conceptual framework that seeks to explain the dynamics of complex adaptive systems. It posits that these systems, wh...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "panarchy-theory-gunderson-holling.md"
+    },
+    {
+      "slug": "parallel-design",
+      "title": "Parallel Design",
+      "description": "Parallel Design is a design and development methodology where multiple individuals or teams independently generate solutions for the same problem. These diverse solutions are then evaluated, and th...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "parallel-design.md"
+    },
+    {
+      "slug": "pareto-analysis-8020",
+      "title": "Pareto Analysis (80/20)",
+      "description": "Pareto Analysis, also known as the 80/20 rule, the law of the vital few, and the principle of factor sparsity, is a decision-making technique used to prioritize a small number of factors that have ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "pareto-analysis-8020.md"
+    },
+    {
+      "slug": "participatory-budgeting-if-not-in-financial",
+      "title": "Participatory Budgeting (if not in Financial)",
+      "description": "Participatory Budgeting (PB) is a transformative democratic process that empowers ordinary people to directly decide how to allocate a portion of a public budget. It is a powerful mechanism for shi...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "participatory-budgeting-if-not-in-financial.md"
+    },
+    {
+      "slug": "participatory-design",
+      "title": "Participatory Design",
+      "description": "Participatory Design (PD) is a collaborative and democratic approach to design that actively involves all stakeholders in the design process. This includes employees, partners, customers, citizens,...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "participatory-design.md"
+    },
+    {
+      "slug": "passive-house",
+      "title": "Passive House",
+      "description": "Passive House (Passivhaus) is a voluntary building performance standard for very high energy efficiency and thermal comfort that substantially reduces a building\u2019s carbon footprint. [1] Buildings c...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "passive-house.md"
+    },
+    {
+      "slug": "path-goal-theory",
+      "title": "Path-Goal Theory",
+      "description": "Path-Goal Theory is a leadership model that posits a leader's primary role is to motivate their followers by clarifying the path to achieving their goals and removing obstacles along the way. Devel...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "path-goal-theory.md"
+    },
+    {
+      "slug": "pay-what-you-want-model",
+      "title": "Pay-What-You-Want Model",
+      "description": "The Pay-What-You-Want (PWYW) model is a participative pricing strategy where customers are given the freedom to decide the amount they wish to pay for a product or service. This approach, also know...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "pay-what-you-want-model.md"
+    },
+    {
+      "slug": "payback-period",
+      "title": "Payback Period",
+      "description": "This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "payback-period.md"
+    },
+    {
+      "slug": "pdca-cycle-plan-do-check-act-deming",
+      "title": "PDCA Cycle - Plan-Do-Check-Act (Deming)",
+      "description": "The Plan-Do-Check-Act (PDCA) cycle, also known as the Deming Cycle or Shewhart Cycle, is an iterative four-step management method used in business for the control and continual improvement of proce...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "pdca-cycle-plan-do-check-act-deming.md"
+    },
+    {
+      "slug": "peer-production-license",
+      "title": "Peer Production License",
+      "description": "The Peer Production License (PPL) is a type of license that modifies the principles of copyleft to create a new framework known as \"copyfarleft.\" It is designed to allow for the free and open shari...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "peer-production-license.md"
+    },
+    {
+      "slug": "peer-to-peer-model",
+      "title": "Peer-to-Peer Model",
+      "description": "The Peer-to-Peer (P2P) model is an organizational structure where individuals coordinate and transact directly with each other, without the need for a central authority or intermediary. In this mod...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "peer-to-peer-model.md"
+    },
+    {
+      "slug": "peer-to-peer-p2p-production",
+      "title": "Peer-to-Peer (P2P) Production",
+      "description": "Peer-to-Peer (P2P) Production, often used interchangeably with Commons-Based Peer Production (CBPP), represents a decentralized and collaborative model of socio-economic production. Coined by Harva...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "peer-to-peer-p2p-production.md"
+    },
+    {
+      "slug": "permaculture-design",
+      "title": "Permaculture Design",
+      "description": "Permaculture is a design philosophy and methodology that seeks to create sustainable and self-sufficient human settlements and agricultural systems by modeling them on natural ecosystems. The term,...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "permaculture-design.md"
+    },
+    {
+      "slug": "permaculture-documented",
+      "title": "Permaculture",
+      "description": "Permaculture is a design philosophy and a set of principles for creating sustainable human settlements and agricultural systems. The term, a portmanteau of \"permanent agriculture\" and \"permanent cu...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "permaculture-documented.md"
+    },
+    {
+      "slug": "permaculture-inspired-design",
+      "title": "Permaculture-Inspired Design",
+      "description": "Permaculture-inspired design is a holistic design philosophy and methodology that applies the principles and ethics of permaculture to create resilient, regenerative, and sustainable systems in var...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "permaculture-inspired-design.md"
+    },
+    {
+      "slug": "persona-development",
+      "title": "Persona Development",
+      "description": "Persona Development is a practice centered on the creation of **personas**, which are fictional, yet realistic, representations of a target audience or user group. These archetypes are not based on...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "persona-development.md"
+    },
+    {
+      "slug": "personal-fabrication",
+      "title": "Personal Fabrication",
+      "description": "Personal fabrication, a concept at the intersection of digital technology and manufacturing, represents a paradigm shift in the production of goods. It empowers individuals to design and create phy...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "personal-fabrication.md"
+    },
+    {
+      "slug": "personality-frameworks-mbti-disc-etc",
+      "title": "Personality Frameworks (MBTI, DISC, etc.)",
+      "description": "Personality frameworks, such as the Myers-Briggs Type Indicator (MBTI) and DISC, are models used to categorize and understand the different ways people think, feel, and behave. These frameworks pro...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "personality-frameworks-mbti-disc-etc.md"
+    },
+    {
+      "slug": "personalized-learning",
+      "title": "Personalized Learning",
+      "description": "Personalized learning is an educational philosophy and pedagogical approach that customizes the learning experience to meet the unique needs, strengths, skills, interests, and preferences of each i...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "personalized-learning.md"
+    },
+    {
+      "slug": "pestle-analysis",
+      "title": "PESTLE Analysis",
+      "description": "This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "pestle-analysis.md"
+    },
+    {
+      "slug": "phase-gate-process",
+      "title": "Phase-Gate Process",
+      "description": "The Phase-Gate process, also known as the Stage-Gate process, is a project management methodology and framework used to guide a project from conception to launch. It is a structured approach that d...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "phase-gate-process.md"
+    },
+    {
+      "slug": "planetary-boundaries-stockholm-resilience-centre",
+      "title": "Planetary Boundaries - Stockholm Resilience Centre",
+      "description": "The Planetary Boundaries framework, first introduced in 2009 by a collective of 28 internationally acclaimed scientists led by Johan Rockstr\u00f6m, represents a significant paradigm shift in our unders...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "planetary-boundaries-stockholm-resilience-centre.md"
+    },
+    {
+      "slug": "planetary-health",
+      "title": "Planetary Health",
+      "description": "id: pat_01kg5023zme99s1z091z46qm58 page_url: https://commons-os.github.io/patterns/domain/planetary-health/ github_url: https://github.com/commons-os/patterns/blob/main/_patterns/planetary-health.m...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "planetary-health.md"
+    },
+    {
+      "slug": "platform-business-models",
+      "title": "Platform Business Models",
+      "description": "A platform business model is an economic and social framework that creates value by facilitating exchanges between two or more interdependent groups, typically producers and consumers. Unlike tradi...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "platform-business-models.md"
+    },
+    {
+      "slug": "platform-cooperativism",
+      "title": "Platform Cooperativism",
+      "description": "Platform cooperativism is a model for the ownership and governance of internet platforms that is built on cooperative principles. It presents a democratically-oriented alternative to the venture ca...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "platform-cooperativism.md"
+    },
+    {
+      "slug": "platform-ecosystems",
+      "title": "Platform Ecosystems",
+      "description": "Platform ecosystems represent a fundamental shift in how value is created and exchanged in the modern economy. At their core, they are complex socio-technical systems that facilitate interactions b...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "platform-ecosystems.md"
+    },
+    {
+      "slug": "platform-engineering-internal-developer-platforms",
+      "title": "Platform Engineering - Internal Developer Platforms",
+      "description": "Platform engineering is the discipline of designing and building toolchains and workflows that enable self-service capabilities for software engineering organizations. It has emerged as a critical ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "platform-engineering-internal-developer-platforms.md"
+    },
+    {
+      "slug": "platform-governance-ostrom-inspired",
+      "title": "Platform Governance - Ostrom-Inspired",
+      "description": "Platform Governance - Ostrom-Inspired is a framework for designing and managing digital platforms based on the principles of collective self-governance developed by Nobel laureate Elinor Ostrom. It...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "platform-governance-ostrom-inspired.md"
+    },
+    {
+      "slug": "platform-strategy",
+      "title": "Platform Strategy",
+      "description": "A platform strategy is a business model that creates value by facilitating exchanges between two or more interdependent groups, typically consumers and producers. Unlike traditional linear business...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "platform-strategy.md"
+    },
+    {
+      "slug": "poka-yoke-mistake-proofing",
+      "title": "Poka-Yoke (Mistake-Proofing)",
+      "description": "Poka-yoke (\u30dd\u30ab\u30e8\u30b1), a Japanese term that translates to \"mistake-proofing\" or \"error-proofing,\" is a fundamental principle and practice in the field of quality management and process improvement. It r...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "poka-yoke-mistake-proofing.md"
+    },
+    {
+      "slug": "polymer-product-design",
+      "title": "Polymer Product Design",
+      "description": "Polymer Product Design is a specialized field of engineering that focuses on the design, analysis, and modification of polymer materials for the creation of a vast range of products. The influence ...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "polymer-product-design.md"
+    },
+    {
+      "slug": "pomodoro-technique",
+      "title": "Pomodoro Technique",
+      "description": "The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. It uses a timer to break down work into intervals, traditionally 25 minutes in length, separated...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "pomodoro-technique.md"
+    },
+    {
+      "slug": "porters-diamond",
+      "title": "Porter's Diamond",
+      "description": "The Porter's Diamond model, formally known as the Porter Diamond Theory of National Advantage, is a seminal framework developed by Michael E. Porter, a renowned economist and professor at Harvard B...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "porters-diamond.md"
+    },
+    {
+      "slug": "porters-five-forces-competitive-analysis",
+      "title": "Porter's Five Forces - Competitive Analysis",
+      "description": "Porter's Five Forces is a strategic framework for analyzing the competitive environment of an industry. Developed by Michael E. Porter at Harvard Business School in 1979, this model provides a comp...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "porters-five-forces-competitive-analysis.md"
+    },
+    {
+      "slug": "porters-generic-strategies-cost-differentiation-focus",
+      "title": "Porter's Generic Strategies: Cost, Differentiation, and Focus",
+      "description": "Michael Porter's generic strategies describe how a company can achieve competitive advantage over its rivals. Porter, a Harvard Business School professor, first introduced these strategies in his 1...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "porters-generic-strategies-cost-differentiation-focus.md"
+    },
+    {
+      "slug": "positive-organizational-scholarship-cameron-dutton",
+      "title": "Positive Organizational Scholarship",
+      "description": "Positive Organizational Scholarship (POS) is a field of study that focuses on the positive aspects of organizations and their members. It seeks to understand and explain what is positive, flourishi...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "positive-organizational-scholarship-cameron-dutton.md"
+    },
+    {
+      "slug": "post-growth-economy",
+      "title": "Post-Growth Economy",
+      "description": "A post-growth economy is an economic system that does not depend on or pursue economic growth as a primary objective. Instead, it prioritizes societal well-being, ecological sustainability, and fai...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "post-growth-economy.md"
+    },
+    {
+      "slug": "post-keynesian-economics",
+      "title": "Post-Keynesian Economics",
+      "description": "Post-Keynesian Economics (PKE) is a school of economic thought that originated in the work of John Maynard Keynes, particularly his 1936 book, *The General Theory of Employment, Interest and Money*...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "post-keynesian-economics.md"
+    },
+    {
+      "slug": "postmodern-design",
+      "title": "Postmodern Design",
+      "description": "Postmodern Design emerged in the late 1960s and flourished through the 1980s as a deliberate and playful rebellion against the rigid doctrines of modernism [1]. While modernism championed order, si...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "postmodern-design.md"
+    },
+    {
+      "slug": "power-electronics-design-methodology",
+      "title": "Power Electronics Design Methodology",
+      "description": "Power Electronics Design Methodology (PEDM) is a systematic and iterative approach to designing, developing, and validating power electronic systems. It provides a structured framework for engineer...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "power-electronics-design-methodology.md"
+    },
+    {
+      "slug": "precious-plastic-distributed-recycling",
+      "title": "Precious Plastic (Distributed Recycling)",
+      "description": "Precious Plastic is a global movement and open-source platform that empowers individuals and communities to tackle plastic pollution by providing the knowledge, tools, and network to create local r...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "precious-plastic-distributed-recycling.md"
+    },
+    {
+      "slug": "precision-medicine",
+      "title": "Precision Medicine",
+      "description": "Precision medicine is an emerging organizational pattern for healthcare that shifts the focus from a generalized, \"one-size-fits-all\" approach to a more individualized and precise strategy for dise...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "precision-medicine.md"
+    },
+    {
+      "slug": "predictive-maintenance",
+      "title": "Predictive Maintenance",
+      "description": "Predictive Maintenance (PdM) is a proactive maintenance strategy that utilizes data analysis tools and techniques to detect anomalies in operation and possible defects in processes and equipment so...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "predictive-maintenance.md"
+    },
+    {
+      "slug": "prefabrication",
+      "title": "Prefabrication",
+      "description": "Prefabrication is an organizational pattern that shifts the production of components from the final point of assembly to a controlled, off-site environment. This practice, with roots in ancient con...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "prefabrication.md"
+    },
+    {
+      "slug": "privacy-by-design-cavoukians-framework",
+      "title": "Privacy By Design Cavoukians Framework",
+      "description": "id: pat_01kg50240yfb0rpr97nmfpwg3g page_url: https://commons-os.github.io/patterns/privacy-by-design-cavoukians-framework/ github_url: https://github.com/commons-os/patterns/blob/main/_patterns/pri...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "privacy-by-design-cavoukians-framework.md"
+    },
+    {
+      "slug": "process-capability-analysis",
+      "title": "Process Capability Analysis",
+      "description": "Process Capability Analysis is a statistical methodology used to determine whether a process is capable of consistently producing output that meets predetermined specifications. It is a crucial too...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "process-capability-analysis.md"
+    },
+    {
+      "slug": "process-design-and-simulation-aspen-hysys",
+      "title": "Process Design and Simulation (Aspen, HYSYS)",
+      "description": "_**This is a DRAFT version of the pattern.** Request for comments and feedback are welcome. Please leave your comments as issues in the repository._",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "process-design-and-simulation-aspen-hysys.md"
+    },
+    {
+      "slug": "process-philosophy-whitehead",
+      "title": "Process Philosophy (Whitehead)",
+      "description": "Process Philosophy, most notably articulated by Alfred North Whitehead, represents a radical departure from traditional Western metaphysics. It posits that reality is not composed of static, enduri...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "process-philosophy-whitehead.md"
+    },
+    {
+      "slug": "product-generation-process",
+      "title": "Product Generation Process",
+      "description": "The Product Generation Process is a structured framework that guides organizations through the stages of creating and launching new products, from the initial idea to market release and beyond. Thi...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "product-generation-process.md"
+    },
+    {
+      "slug": "product-lifecycle-management-plm",
+      "title": "Product Lifecycle Management (PLM)",
+      "description": "Product Lifecycle Management (PLM) is a strategic approach to managing the entire lifecycle of a product, from its initial conception, through design and development, to manufacturing, service, and...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "product-lifecycle-management-plm.md"
+    },
+    {
+      "slug": "product-portfolio-management",
+      "title": "Product Portfolio Management",
+      "description": "Product Portfolio Management (PPM) is the centralized management of the processes, methods, and technologies used by project management offices (PMOs) and enterprises to analyze and collectively ma...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "product-portfolio-management.md"
+    },
+    {
+      "slug": "product-roadmapping",
+      "title": "Product Roadmapping",
+      "description": "Product roadmapping is a strategic practice that provides a high-level visual summary of a product's vision and direction over time. It is a living document that communicates the 'why' and 'what' b...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "product-roadmapping.md"
+    },
+    {
+      "slug": "product-systems-engineering-pse",
+      "title": "Product Systems Engineering (PSE)",
+      "description": "Product Systems Engineering (PSE) is a comprehensive, interdisciplinary methodology focused on the successful design, development, and deployment of complex products. It is often considered the tra...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "product-systems-engineering-pse.md"
+    }
+  ]
+}

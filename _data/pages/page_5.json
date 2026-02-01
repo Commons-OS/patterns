@@ -1,0 +1,906 @@
+{
+  "page": 5,
+  "total_pages": 10,
+  "patterns": [
+    {
+      "slug": "ecodesign",
+      "title": "Level 1>$section>$unit>ecodesign",
+      "description": "___ ___ version: production (0.335) date: October 07, 2024 content: 39 slides class: Level 1>$section>$unit>ecodesign title: ecodesign source: ecodesign.pptx hash: contact: olivier.vitrac@agroparis...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "ecodesign.md"
+    },
+    {
+      "slug": "ecological-economics",
+      "title": "Ecological Economics",
+      "description": "Ecological economics is a transdisciplinary field of study that examines the complex and dynamic relationships between human economies and natural ecosystems. It challenges the mainstream economic ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "ecological-economics.md"
+    },
+    {
+      "slug": "economia-popular",
+      "title": "Economia Popular",
+      "description": "Economia Popular, or Popular Economy, refers to a wide range of economic activities, occupations, and trades, both mercantile and non-mercantile, carried out by low-income individuals and small-sca...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "economia-popular.md"
+    },
+    {
+      "slug": "economic-order-quantity-eoq",
+      "title": "Economic Order Quantity (EOQ)",
+      "description": "The Economic Order Quantity (EOQ) is a foundational inventory management model that provides a systematic approach to determining the optimal quantity of goods to order. Developed in 1913 by Ford W...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "economic-order-quantity-eoq.md"
+    },
+    {
+      "slug": "ecosystem-orchestration",
+      "title": "Ecosystem Orchestration",
+      "description": "Ecosystem Orchestration is the strategic process of designing, building, and managing a network of interconnected partners to drive mutual growth and value creation. It involves coordinating and en...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "ecosystem-orchestration.md"
+    },
+    {
+      "slug": "ecosystem-strategy",
+      "title": "Ecosystem Strategy",
+      "description": "An Ecosystem Strategy is a business approach where a company builds a network of interconnected services and partnerships to meet a customer's primary needs in an integrated and seamless experience...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "ecosystem-strategy.md"
+    },
+    {
+      "slug": "edge-ai",
+      "title": "Edge AI",
+      "description": "Edge AI is a rapidly emerging technological paradigm that involves deploying artificial intelligence (AI) applications directly onto edge devices, which are physical hardware located at the periphe...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "edge-ai.md"
+    },
+    {
+      "slug": "edge-computing-distributed-processing",
+      "title": "Edge Computing - Distributed Processing",
+      "description": "Edge computing is a distributed computing paradigm that shifts computation and data storage closer to the sources of data generation. This approach contrasts with traditional cloud computing models...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "edge-computing-distributed-processing.md"
+    },
+    {
+      "slug": "edge-computing-in-manufacturing",
+      "title": "Edge Computing in Manufacturing",
+      "description": "Edge computing in manufacturing represents a paradigm shift in the way data is processed and utilized within industrial environments. It involves moving computational power and data storage closer ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "edge-computing-in-manufacturing.md"
+    },
+    {
+      "slug": "eisenhower-matrix",
+      "title": "Eisenhower Matrix",
+      "description": "The The Eisenhower Matrix, also referred to as the Urgent-Important Matrix, is a classic time management and productivity framework used to prioritize tasks based on their urgency and importance. I...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "eisenhower-matrix.md"
+    },
+    {
+      "slug": "electronic-design-automation-eda-workflows",
+      "title": "Electronic Design Automation (EDA) Workflows",
+      "description": "Electronic Design Automation (EDA) refers to the category of software tools and a broader ecosystem of software, hardware, and services dedicated to the design and production of electronic systems....",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "electronic-design-automation-eda-workflows.md"
+    },
+    {
+      "slug": "emcemi-design-for-compliance",
+      "title": "EMC/EMI Design for Compliance",
+      "description": "Electromagnetic Compatibility (EMC) and Electromagnetic Interference (EMI) are fundamental considerations in the design of modern electronic devices. **EMC/EMI Design for Compliance** is a comprehe...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "emcemi-design-for-compliance.md"
+    },
+    {
+      "slug": "emerging-ecosystem-frameworks",
+      "title": "Emerging Ecosystem Frameworks",
+      "description": "Emerging ecosystem frameworks represent a shift from traditional, linear business models to more dynamic, interconnected, and collaborative networks of organizations, individuals, and resources. Th...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "emerging-ecosystem-frameworks.md"
+    },
+    {
+      "slug": "emerging-strategy-tools",
+      "title": "Emerging Strategy Tools",
+      "description": "Emerging strategy tools represent a significant evolution in the field of strategic management, moving beyond traditional frameworks to embrace the capabilities of the cognitive era. These tools le...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "emerging-strategy-tools.md"
+    },
+    {
+      "slug": "emotional-intelligence-goleman",
+      "title": "Emotional Intelligence (Goleman)",
+      "description": "Emotional Intelligence (EI), a concept brought to widespread public attention by Daniel Goleman\u2019s seminal 1995 book, refers to the capacity to recognize, understand, and manage one\u2019s own emotions, ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "emotional-intelligence-goleman.md"
+    },
+    {
+      "slug": "empathy-mapping",
+      "title": "Empathy Mapping",
+      "description": "Empathy Mapping is a collaborative tool used to gain a deeper understanding of a target audience, be it customers, users, or other stakeholders. It is a visual representation of what a team knows a...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "empathy-mapping.md"
+    },
+    {
+      "slug": "energy-cooperatives",
+      "title": "Energy Cooperatives",
+      "description": "An energy cooperative is a business model where a community of citizens jointly own and participate in renewable energy or energy efficiency projects. These cooperatives are a form of legal entity ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "energy-cooperatives.md"
+    },
+    {
+      "slug": "energy-efficiency-programs",
+      "title": "Energy Efficiency Programs",
+      "description": "Energy Efficiency Programs are structured initiatives designed to improve energy efficiency within a specific population, such as a company, a community, or a customer base. These programs have bee...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "energy-efficiency-programs.md"
+    },
+    {
+      "slug": "enterprise-resource-planning-erp",
+      "title": "Enterprise Resource Planning (ERP)",
+      "description": "Enterprise Resource Planning (ERP) is a comprehensive software solution that integrates and manages the core business processes of an organization in real-time. It serves as a centralized system th...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "enterprise-resource-planning-erp.md"
+    },
+    {
+      "slug": "environmental-accounting-ecological-costs",
+      "title": "Environmental Accounting - Ecological Costs",
+      "description": "Environmental Accounting, with a specific focus on ecological costs, is a critical practice that extends traditional accounting principles to identify, measure, and report the environmental impacts...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "environmental-accounting-ecological-costs.md"
+    },
+    {
+      "slug": "esg-framework",
+      "title": "ESG Framework",
+      "description": "This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "esg-framework.md"
+    },
+    {
+      "slug": "ethical-leadership",
+      "title": "Ethical Leadership",
+      "description": "Ethical leadership is a leadership style distinguished by its foundation in strong moral principles and values. It involves leading with integrity, fairness, and respect for others, while consisten...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "ethical-leadership.md"
+    },
+    {
+      "slug": "ethnographic-research",
+      "title": "Ethnographic Research",
+      "description": "Ethnographic research is a qualitative research methodology that involves the systematic and holistic study of people in their natural environment to understand their culture, behaviors, and social...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "ethnographic-research.md"
+    },
+    {
+      "slug": "evolutionary-economics",
+      "title": "Evolutionary Economics",
+      "description": "Evolutionary economics is a school of economic thought that draws inspiration from evolutionary biology to understand and explain economic phenomena. It stands in contrast to mainstream neoclassica...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "evolutionary-economics.md"
+    },
+    {
+      "slug": "experience-design-xd",
+      "title": "Experience Design (XD)",
+      "description": "This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "experience-design-xd.md"
+    },
+    {
+      "slug": "experience-model",
+      "title": "Experience Model",
+      "description": "An Experience Model is a structured, visual representation of the key attributes that shape a user's interaction with a product, service, or system. It serves as a powerful tool in user-centered de...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "experience-model.md"
+    },
+    {
+      "slug": "experimentation-framework-spotify-model",
+      "title": "Experimentation Framework (Spotify Model)",
+      "description": "The Experimentation Framework, often associated with the \"Spotify Model,\" is a comprehensive approach to organizational design and product development that prioritizes autonomy, continuous learning...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "experimentation-framework-spotify-model.md"
+    },
+    {
+      "slug": "expert-consultation-implicit-through-published-works",
+      "title": "Expert Consultation (Implicit through Published Works)",
+      "description": "This pattern describes the process of gaining expert knowledge and insights by studying the published works of authorities in a specific field. It is a form of one-way, asynchronous consultation wh...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "expert-consultation-implicit-through-published-works.md"
+    },
+    {
+      "slug": "expert-systems-in-design",
+      "title": "Expert Systems in Design",
+      "description": "Expert Systems in Design are a class of artificial intelligence (AI) applications that capture and leverage the knowledge of human experts to solve complex design problems. These systems act as int...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "expert-systems-in-design.md"
+    },
+    {
+      "slug": "explainable-ai-systems",
+      "title": "Explainable AI Systems",
+      "description": "Explainable AI (XAI) helps users understand and trust AI system outputs, particularly from machine learning. It addresses the \"black box\" issue where an AI's decision-making process is opaque. This...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "explainable-ai-systems.md"
+    },
+    {
+      "slug": "extreme-programming-xp-becks-methodology",
+      "title": "Extreme Programming (XP) - Beck's Methodology",
+      "description": "Extreme Programming (XP) is a disciplined, yet agile, software development methodology designed to deliver high-quality software quickly and continuously. It is a type of agile framework that is hi...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "extreme-programming-xp-becks-methodology.md"
+    },
+    {
+      "slug": "fab-labs",
+      "title": "Fab Labs",
+      "description": "A Fab Lab, short for Fabrication Laboratory, is a small-scale workshop offering digital fabrication. It's a place where anyone can come to learn, create, invent, and prototype, using a standard set...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "fab-labs.md"
+    },
+    {
+      "slug": "fablab-network-model",
+      "title": "FabLab Network Model",
+      "description": "The FabLab Network Model is a global ecosystem of community-based workshops, known as FabLabs or Fabrication Laboratories, that provide widespread access to modern tools for digital fabrication [1]...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "fablab-network-model.md"
+    },
+    {
+      "slug": "fail-fast-philosophy",
+      "title": "Fail Fast Philosophy",
+      "description": "The Fail Fast philosophy is a principle that encourages frequent and early testing of products, services, or ideas to quickly identify flaws and determine their viability. The core idea is to embra...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "fail-fast-philosophy.md"
+    },
+    {
+      "slug": "failure-mode-and-effects-analysis-fmea",
+      "title": "Failure Mode and Effects Analysis (FMEA)",
+      "description": "Failure Mode and Effects Analysis (FMEA) is a systematic, proactive method for evaluating a process, product, or service to identify where and how it might fail and to assess the relative impact of...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "failure-mode-and-effects-analysis-fmea.md"
+    },
+    {
+      "slug": "failure-mode-effects-analysis-fmea",
+      "title": "Failure Mode Effects Analysis (FMEA)",
+      "description": "Failure Mode and Effects Analysis (FMEA) is a systematic, proactive, and team-based methodology used to identify, analyze, and mitigate potential failure modes in a system, product, process, or ser...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "failure-mode-effects-analysis-fmea.md"
+    },
+    {
+      "slug": "fault-tree-analysis",
+      "title": "Fault Tree Analysis",
+      "description": "This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "fault-tree-analysis.md"
+    },
+    {
+      "slug": "fda-design-controls-21-cfr-82030",
+      "title": "FDA Design Controls (21 CFR 820.30)",
+      "description": "FDA Design Controls, as stipulated in 21 CFR 820.30, are a set of systematic procedures and practices that are an integral part of the design and development process for medical devices in the Unit...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "fda-design-controls-21-cfr-82030.md"
+    },
+    {
+      "slug": "feature-flagstoggles",
+      "title": "Feature Flags/Toggles",
+      "description": "Feature Flags, also known as Feature Toggles, are a powerful software development practice that enables teams to modify system behavior without changing code and without redeploying the application...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "feature-flagstoggles.md"
+    },
+    {
+      "slug": "federated-learning",
+      "title": "Federated Learning",
+      "description": "Federated Learning, also known as collaborative learning, is a machine learning paradigm that enables multiple, decentralized entities to collaboratively train a shared model without exchanging the...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "federated-learning.md"
+    },
+    {
+      "slug": "feminist-economics",
+      "title": "Feminist Economics",
+      "description": "Feminist economics is a critical school of thought that challenges and expands upon traditional economic theories by incorporating a gender-aware perspective. It examines how gender, as a social co...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "feminist-economics.md"
+    },
+    {
+      "slug": "feng-shui",
+      "title": "Feng Shui",
+      "description": "Feng Shui, which literally translates to \"wind-water,\" is an ancient Chinese philosophical system of harmonizing everyone with the surrounding environment. It is a practice that is deeply rooted in...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "feng-shui.md"
+    },
+    {
+      "slug": "financial-ratio-analysis",
+      "title": "Financial Ratio Analysis",
+      "description": "Financial ratio analysis is a quantitative method of gaining insights into a company's liquidity, operational efficiency, and profitability by studying its financial statements. This practice invol...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "financial-ratio-analysis.md"
+    },
+    {
+      "slug": "finite-element-analysis-fea-driven-design",
+      "title": "Finite Element Analysis (FEA) Driven Design",
+      "description": "Finite Element Analysis (FEA) Driven Design is a sophisticated approach to product development that leverages computational simulation to inform and guide the design process from its earliest stage...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "finite-element-analysis-fea-driven-design.md"
+    },
+    {
+      "slug": "first-nations-north-america",
+      "title": "First Nations (North America)",
+      "description": "The organizational patterns of First Nations in North America represent a diverse and sophisticated tapestry of governance and social structure, deeply rooted in cultural values and a profound conn...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "first-nations-north-america.md"
+    },
+    {
+      "slug": "flexible-manufacturing-systems-fms",
+      "title": "Flexible Manufacturing Systems (FMS)",
+      "description": "A Flexible Manufacturing System (FMS) is a highly automated and integrated production system capable of producing a variety of parts or products with minimal setup time and human intervention. It c...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "flexible-manufacturing-systems-fms.md"
+    },
+    {
+      "slug": "food-sovereignty",
+      "title": "Food Sovereignty",
+      "description": "Food Sovereignty is a transformative framework that places the right of peoples to define their own food and agriculture systems at its center. It is the right of peoples to healthy and culturally ...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "food-sovereignty.md"
+    },
+    {
+      "slug": "fordism-assembly-line-production",
+      "title": "Fordism (Assembly Line Production)",
+      "description": "Fordism is a manufacturing and economic system named after Henry Ford, which became prominent in the early 20th century. It describes a system of mass production of standardized, low-cost goods, co...",
+      "score": 1,
+      "domain": "business",
+      "universality": null,
+      "file": "fordism-assembly-line-production.md"
+    },
+    {
+      "slug": "foundational-economy-essential-services",
+      "title": "Foundational Economy - Essential Services",
+      "description": "The Foundational Economy is a concept that re-frames our understanding of the economy to focus on the essential goods and services that underpin everyday life for all citizens, regardless of their ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "foundational-economy-essential-services.md"
+    },
+    {
+      "slug": "fourth-generation-rd",
+      "title": "Fourth Generation R&D",
+      "description": "Fourth Generation R&D represents a significant evolutionary leap in how organizations conceive, develop, and deliver innovation. To fully appreciate its significance, it's essential to understand t...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "fourth-generation-rd.md"
+    },
+    {
+      "slug": "fraunhofer-model-applied-research",
+      "title": "Fraunhofer Model (Applied Research)",
+      "description": "The Fraunhofer Model is a framework for applied research that bridges the gap between scientific discovery and industrial application. It is embodied by the Fraunhofer-Gesellschaft, Germany's leadi...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "fraunhofer-model-applied-research.md"
+    },
+    {
+      "slug": "french-dirigisme",
+      "title": "French Dirigisme",
+      "description": "French Dirigisme is an economic framework where the state plays a highly influential and directive role in the nation's economy. This approach, which gained prominence in the post-World War II era,...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "french-dirigisme.md"
+    },
+    {
+      "slug": "front-end-innovation-process",
+      "title": "Front-End Innovation Process",
+      "description": "The Front-End Innovation (FEI) Process, often referred to as the \"fuzzy front end,\" is the initial and arguably most critical stage of the innovation lifecycle. It encompasses all activities from t...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "front-end-innovation-process.md"
+    },
+    {
+      "slug": "functional-decomposition",
+      "title": "Functional Decomposition",
+      "description": "Functional decomposition is a fundamental methodology used in various fields, including software engineering, systems engineering, and business analysis, to break down a complex system, process, or...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "functional-decomposition.md"
+    },
+    {
+      "slug": "functional-safety-iso-26262",
+      "title": "Functional Safety (ISO 26262)",
+      "description": "Functional Safety (ISO 26262) is an international standard that addresses the functional safety of electrical and electronic (E/E) systems in production road vehicles. Titled \"Road vehicles \u2013 Funct...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "functional-safety-iso-26262.md"
+    },
+    {
+      "slug": "futarchy-robin-hansons-prediction-market-governance",
+      "title": "Futarchy - Robin Hanson's Prediction Market Governance",
+      "description": "Futarchy is a governance model that utilizes prediction markets to make decisions. Proposed by economist Robin Hanson, its core principle is to \"vote on values, but bet on beliefs.\" In a futarchy, ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "futarchy-robin-hansons-prediction-market-governance.md"
+    },
+    {
+      "slug": "futures-thinking",
+      "title": "Futures Thinking",
+      "description": "Futures Thinking is a strategic methodology that enables organizations to navigate uncertainty and proactively shape their future. It is a structured approach to exploring, anticipating, and prepar...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "futures-thinking.md"
+    },
+    {
+      "slug": "garage-startup-culture",
+      "title": "Garage Startup Culture",
+      "description": "The \"Garage Startup Culture\" is a potent cultural pattern that has become deeply embedded in the mythology of modern entrepreneurship. It evokes a powerful image: a small team of passionate individ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "garage-startup-culture.md"
+    },
+    {
+      "slug": "ge-mckinsey-matrix-nine-box-matrix",
+      "title": "GE-McKinsey Matrix - Nine-box matrix",
+      "description": "The GE-McKinsey Matrix, also known as the GE-McKinsey Nine-Box Matrix, is a strategic portfolio analysis tool used by business leaders to make decisions about resource allocation and investment pri...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "ge-mckinsey-matrix-nine-box-matrix.md"
+    },
+    {
+      "slug": "gemba-kaizen-shop-floor-improvement",
+      "title": "Gemba Kaizen - Shop Floor Improvement",
+      "description": "Gemba Kaizen is a Japanese management philosophy that focuses on achieving continuous improvement by involving all employees, from the CEO to the frontline workers. The term \"Gemba\" refers to \"the ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "gemba-kaizen-shop-floor-improvement.md"
+    },
+    {
+      "slug": "gemba-walks",
+      "title": "Gemba Walks",
+      "description": "Gemba Walk is a foundational management practice that originated in Japan as part of the Toyota Production System (TPS), a philosophy developed by Toyota to ensure the most efficient and high-quali...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "gemba-walks.md"
+    },
+    {
+      "slug": "genchi-genbutsu-go-and-see",
+      "title": "Genchi Genbutsu (Go and See)",
+      "description": "Genchi Genbutsu, a cornerstone of the Toyota Production System, is a Japanese principle meaning \"go and see for yourself.\" It stresses direct observation to fully understand a situation. Instead of...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "genchi-genbutsu-go-and-see.md"
+    },
+    {
+      "slug": "generative-design",
+      "title": "Generative Design",
+      "description": "Generative design is an iterative and collaborative design process that leverages artificial intelligence (AI) and advanced algorithms to explore a vast landscape of design possibilities. It repres...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "generative-design.md"
+    },
+    {
+      "slug": "genetic-algorithms-for-optimization",
+      "title": "Genetic Algorithms for Optimization",
+      "description": "_# Genetic Algorithms for Optimization",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "genetic-algorithms-for-optimization.md"
+    },
+    {
+      "slug": "geographiccultural-diversity-prioritization",
+      "title": "Geographic/Cultural Diversity Prioritization",
+      "description": "Geographic/Cultural Diversity Prioritization is an organizational pattern that emphasizes the intentional inclusion of individuals from varied geographical locations and cultural backgrounds within...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "geographiccultural-diversity-prioritization.md"
+    },
+    {
+      "slug": "geometric-dimensioning-tolerancing-gdt",
+      "title": "Geometric Dimensioning & Tolerancing (GD&T)",
+      "description": "Geometric Dimensioning and Tolerancing (GD&T) is a symbolic language used on engineering drawings and 3D models to define and communicate engineering tolerances. It defines the nominal geometry of ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "geometric-dimensioning-tolerancing-gdt.md"
+    },
+    {
+      "slug": "getting-things-done-gtd",
+      "title": "Getting Things Done (GTD)",
+      "description": "This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "getting-things-done-gtd.md"
+    },
+    {
+      "slug": "gift-economy-documented",
+      "title": "Gift Economy",
+      "description": "A gift economy, or gift culture, represents a system of exchange where valuable goods and services are provided without any explicit agreement for immediate or future rewards. In this model, items ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "gift-economy-documented.md"
+    },
+    {
+      "slug": "gift-economy-reciprocity-based",
+      "title": "Gift Economy - Reciprocity-based",
+      "description": "A gift economy, in its broadest sense, is a social and economic system where goods and services are given without any explicit agreement for immediate or future quid pro quo. Instead of a direct ex...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "gift-economy-reciprocity-based.md"
+    },
+    {
+      "slug": "gitcoin-grants",
+      "title": "Gitcoin Grants",
+      "description": "Gitcoin Grants is a community-led initiative that has become a cornerstone of the Web3 ecosystem, pioneering a novel approach to funding public goods and open-source projects. Launched in 2019 by t...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "gitcoin-grants.md"
+    },
+    {
+      "slug": "gitops",
+      "title": "GitOps",
+      "description": "GitOps is an operational framework that takes DevOps best practices used for application development such as version control, collaboration, compliance, and CI/CD, and applies them to infrastructur...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "gitops.md"
+    },
+    {
+      "slug": "good-manufacturing-practice-gmp-for-food",
+      "title": "Good Manufacturing Practice Gmp For Food",
+      "description": "id: pat_01kg50240nfz989qp37vnjfkzz page_url: https://commons-os.github.io/patterns/context-specific/good-manufacturing-practice-gmp-for-food/ github_url: https://github.com/commons-os/patterns/blob...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "good-manufacturing-practice-gmp-for-food.md"
+    },
+    {
+      "slug": "good-manufacturing-practice-gmp",
+      "title": "Good Manufacturing Practice (GMP)",
+      "description": "Good Manufacturing Practice (GMP) is a system for ensuring that products are consistently produced and controlled according to quality standards. It is designed to minimize the risks involved in an...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "good-manufacturing-practice-gmp.md"
+    },
+    {
+      "slug": "green-building-leed-breeam",
+      "title": "Green Building (LEED, BREEAM)",
+      "description": "Green building is a holistic approach to the built environment that prioritizes environmental responsibility and resource efficiency throughout a building's life cycle. It aims to minimize the envi...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "green-building-leed-breeam.md"
+    },
+    {
+      "slug": "green-engineering",
+      "title": "Green Engineering",
+      "description": "Green Engineering is a design philosophy that aims to minimize the environmental impact of products and processes while maintaining economic viability and promoting human health. It is a proactive ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "green-engineering.md"
+    },
+    {
+      "slug": "growth-mindset-dweck",
+      "title": "Growth Mindset (Dweck)",
+      "description": "The Growth Mindset, a concept pioneered by Stanford University psychologist Carol S. Dweck, has emerged as a foundational principle in understanding the psychology of success and learning. In her s...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "growth-mindset-dweck.md"
+    },
+    {
+      "slug": "guanxi-networks-in-product-development",
+      "title": "Guanxi Networks in Product Development",
+      "description": "Guanxi (\u5173\u7cfb) is a foundational concept in Chinese culture, representing a complex web of mutually beneficial social and business relationships. It extends beyond simple networking, encompassing reci...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "guanxi-networks-in-product-development.md"
+    },
+    {
+      "slug": "hackerspaces-makerspaces",
+      "title": "Hackerspaces / Makerspaces",
+      "description": "Hackerspaces and makerspaces are community-oriented physical places where people with common interests, often in computers, technology, science, digital art, and electronics, can meet, socialize, a...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "hackerspaces-makerspaces.md"
+    },
+    {
+      "slug": "halal-economy",
+      "title": "Halal Economy",
+      "description": "The Halal Economy is a global economic system guided by the principles of Islamic law (Shariah), encompassing a wide range of sectors beyond the well-known food industry. It represents a comprehens...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "halal-economy.md"
+    },
+    {
+      "slug": "harambee-kenya",
+      "title": "Harambee (Kenya)",
+      "description": "Harambee, a Swahili word meaning \"all pull together,\" is a long-standing Kenyan tradition of community self-help and collective action. It represents a deeply ingrained cultural practice where indi...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "harambee-kenya.md"
+    },
+    {
+      "slug": "hardware-description-language-hdl-design-vhdl-verilog",
+      "title": "Hardware Description Language (HDL) Design (VHDL, Verilog)",
+      "description": "A Hardware Description Language (HDL) is a specialized computer language used to describe the structure, behavior, and timing of electronic circuits, particularly digital logic circuits. HDLs are f...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "hardware-description-language-hdl-design-vhdl-verilog.md"
+    },
+    {
+      "slug": "hardware-description-language-hdl-design",
+      "title": "Hardware Description Language (HDL) Design",
+      "description": "Hardware Description Language (HDL) Design is a foundational pattern in modern digital electronics, providing a systematic and abstract way to define the structure and behavior of electronic circui...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "hardware-description-language-hdl-design.md"
+    },
+    {
+      "slug": "haudenosaunee-documented",
+      "title": "Haudenosaunee (documented)",
+      "description": "The Haudenosaunee, meaning \"people who build a house,\" are a confederacy of six Indigenous nations: the Mohawk, Oneida, Onondaga, Cayuga, Seneca, and Tuscarora. Historically known as the Iroquois C...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "haudenosaunee-documented.md"
+    },
+    {
+      "slug": "hazard-analysis-and-critical-control-points-haccp",
+      "title": "Hazard Analysis and Critical Control Points (HACCP)",
+      "description": "Hazard Analysis and Critical Control Points (HACCP) is a systematic, preventive approach to food safety that addresses biological, chemical, and physical hazards from raw material production, procu...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "hazard-analysis-and-critical-control-points-haccp.md"
+    },
+    {
+      "slug": "hazard-analysis",
+      "title": "Hazard Analysis",
+      "description": "This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "hazard-analysis.md"
+    },
+    {
+      "slug": "heijunka-production-leveling",
+      "title": "Heijunka (Production Leveling)",
+      "description": "Heijunka (\u5e73\u6e96\u5316), a Japanese term meaning \"leveling\" or \"smoothing,\" is a fundamental concept of the Toyota Production System (TPS) and a critical component of lean manufacturing methodologies. It is...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "heijunka-production-leveling.md"
+    },
+    {
+      "slug": "holding-company-model",
+      "title": "Holding Company Model",
+      "description": "The Holding Company Model is a corporate structure where a parent company, known as the holding company, owns a controlling interest in the securities of other companies, referred to as subsidiarie...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "holding-company-model.md"
+    },
+    {
+      "slug": "holocracy-lite-simplified-versions",
+      "title": "Holocracy Lite - Simplified Versions",
+      "description": "Holacracy Lite represents a flexible and adaptable approach to organizational design, drawing inspiration from the comprehensive Holacracy framework developed by Brian Robertson. While full Holacra...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "holocracy-lite-simplified-versions.md"
+    },
+    {
+      "slug": "homeschooling",
+      "title": "Homeschooling",
+      "description": "Homeschooling, also known as home education, is an educational model where children are educated at home by parents, guardians, or tutors, rather than in a formal public or private school setting. ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "homeschooling.md"
+    },
+    {
+      "slug": "horizontal-integration-model",
+      "title": "Horizontal Integration Model",
+      "description": "The Horizontal Integration Model is a business strategy where a company grows by acquiring or merging with a competitor that operates at the same level in the value chain. This approach contrasts w...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "horizontal-integration-model.md"
+    },
+    {
+      "slug": "hoshin-kanri-policy-deployment",
+      "title": "Hoshin Kanri - Policy Deployment",
+      "description": "Hoshin Kanri, also known as Policy Deployment, is a strategic planning and management methodology that originated in Japan in the 1950s. It is a systematic approach to ensure that a company's strat...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "hoshin-kanri-policy-deployment.md"
+    },
+    {
+      "slug": "hoshin-planning-strategic-planning",
+      "title": "Hoshin Planning - Strategic Planning",
+      "description": "Hoshin Kanri (\u65b9\u91dd\u7ba1\u7406), also known as Hoshin Planning or Policy Deployment, is a strategic planning and management methodology that originated in post-war Japan. The name translates to \"compass manage...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "hoshin-planning-strategic-planning.md"
+    },
+    {
+      "slug": "human-ai-collaboration-models",
+      "title": "Human-AI Collaboration Models",
+      "description": "Human-AI Collaboration (HAIC) is a partnership between people and artificial intelligence (AI) systems, where the unique strengths of each are combined to achieve shared goals more effectively than...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "human-ai-collaboration-models.md"
+    },
+    {
+      "slug": "human-centered-design",
+      "title": "Human-Centered Design",
+      "description": "Human-Centered Design (HCD) is a creative approach to problem-solving that places people at the heart of the design process. It is a philosophy and a methodology that emphasizes designing *with* pe...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "human-centered-design.md"
+    },
+    {
+      "slug": "human-factors-in-packaging-design",
+      "title": "Human Factors in Packaging Design",
+      "description": "Human Factors in Packaging Design is a specialized application of human factors and ergonomics that focuses on the interaction between humans and packaging systems. It is a user-centered design app...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "human-factors-in-packaging-design.md"
+    },
+    {
+      "slug": "human-relations-mayo",
+      "title": "Human Relations (Mayo)",
+      "description": "The Human Relations Theory, primarily associated with the work of Elton Mayo, emerged in the 1930s as a significant departure from the classical, mechanistic approaches to management that dominated...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "human-relations-mayo.md"
+    },
+    {
+      "slug": "hybrid-combinations",
+      "title": "Hybrid Combinations",
+      "description": "A hybrid organizational structure represents a sophisticated approach to organizational design, blending elements from two or more traditional models, such as functional, divisional, and matrix str...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "hybrid-combinations.md"
+    },
+    {
+      "slug": "hybrid-governance-models",
+      "title": "Hybrid Governance Models",
+      "description": "Hybrid governance models represent a strategic integration of different governance approaches, combining elements from centralized, decentralized, and federated structures to create a more flexible...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "hybrid-governance-models.md"
+    },
+    {
+      "slug": "hydroponics",
+      "title": "Hydroponics",
+      "description": "Hydroponics, in its agricultural origins, is a method of growing plants without soil, using mineral nutrient solutions in a water solvent. This technique allows for accelerated growth, higher yield...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "hydroponics.md"
+    },
+    {
+      "slug": "iatf-16949-quality-management-system",
+      "title": "IATF 16949 Quality Management System",
+      "description": "IATF 16949:2016 is the international standard for automotive quality management systems. It was developed by the International Automotive Task Force (IATF), a group of automotive manufacturers and ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "iatf-16949-quality-management-system.md"
+    }
+  ]
+}

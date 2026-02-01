@@ -1,0 +1,204 @@
+{
+  "page": 10,
+  "total_pages": 10,
+  "patterns": [
+    {
+      "slug": "vertical-farming",
+      "title": "Vertical Farming",
+      "description": "Vertical farming is an innovative agricultural practice that involves growing crops in vertically stacked layers, often in controlled indoor environments. This method deviates from traditional, hor...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "vertical-farming.md"
+    },
+    {
+      "slug": "vertical-integration-model",
+      "title": "Vertical Integration Model",
+      "description": "Vertical integration is a corporate strategy where a company acquires or establishes business operations in different stages of the same production path. In essence, a company undergoing vertical i...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "vertical-integration-model.md"
+    },
+    {
+      "slug": "virtual-reality-vr-product-design",
+      "title": "Virtual Reality (VR) Product Design",
+      "description": "Virtual Reality (VR) Product Design is a specialized field of design that focuses on creating immersive and interactive experiences within a simulated, three-dimensional environment. Unlike traditi...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "virtual-reality-vr-product-design.md"
+    },
+    {
+      "slug": "voice-of-the-customer-voc",
+      "title": "Voice of the Customer (VOC)",
+      "description": "Voice of the Customer (VoC) is a systematic approach that enables organizations to capture, analyze, and act upon customer feedback to drive business improvements. It is a methodology rooted in qua...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "voice-of-the-customer-voc.md"
+    },
+    {
+      "slug": "vrio-framework-resource-analysis",
+      "title": "VRIO Framework - Resource Analysis",
+      "description": "The VRIO framework is a strategic analysis tool used to evaluate an organization's internal resources and capabilities to determine if they can be a source of sustained competitive advantage. It is...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "vrio-framework-resource-analysis.md"
+    },
+    {
+      "slug": "vrio-framework",
+      "title": "VRIO Framework",
+      "description": "The VRIO framework is a strategic analysis tool used to assess an organization's internal resources and capabilities to determine if they can be a source of sustained competitive advantage. It prov...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "vrio-framework.md"
+    },
+    {
+      "slug": "wabi-sabi-japanese-aesthetic",
+      "title": "Wabi-Sabi (Japanese Aesthetic)",
+      "description": "Wabi-sabi (\u4f98\u3073\u5bc2\u3073) is a traditional Japanese aesthetic and worldview centered on the acceptance of transience, imperfection, and the beauty of the incomplete. It is a concept that finds profound beau...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "wabi-sabi-japanese-aesthetic.md"
+    },
+    {
+      "slug": "war-gaming",
+      "title": "War Gaming",
+      "description": "War Gaming, also known as business war gaming or corporate war gaming, is a structured, role-playing simulation that allows organizations to explore and test their strategies in a controlled and ri...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "war-gaming.md"
+    },
+    {
+      "slug": "waterfall-development",
+      "title": "Waterfall Development",
+      "description": "The Waterfall model is a classic and foundational software development methodology characterized by its linear and sequential structure. It is one of the earliest process models to be introduced in...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "waterfall-development.md"
+    },
+    {
+      "slug": "waterfall-model-royce",
+      "title": "Waterfall Model (Royce)",
+      "description": "The Waterfall Model is a sequential software development process, in which progress is seen as flowing steadily downwards (like a waterfall) through the phases of conception, initiation, analysis, ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "waterfall-model-royce.md"
+    },
+    {
+      "slug": "web3-governance-decentralized-web",
+      "title": "Web3 Governance: Decentralized Web",
+      "description": "Web3 governance, in the context of the decentralized web, represents a fundamental shift in how online platforms and services are managed, moving away from centralized corporate control towards com...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "web3-governance-decentralized-web.md"
+    },
+    {
+      "slug": "web3-governance",
+      "title": "Web3 Governance",
+      "description": "Web3 Governance is a system of decentralized decision-making for blockchain-based projects and communities. It provides a framework for how a collective can form a consensus and the degree to which...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "web3-governance.md"
+    },
+    {
+      "slug": "wellbeing-economy-beyond-gdp",
+      "title": "Wellbeing Economy - Beyond GDP",
+      "description": "The Wellbeing Economy is a transformative economic framework that prioritizes the holistic well-being of both people and the planet over the singular pursuit of economic growth, as traditionally me...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "wellbeing-economy-beyond-gdp.md"
+    },
+    {
+      "slug": "wholesaleretail-model",
+      "title": "Wholesale/Retail Model",
+      "description": "The Wholesale/Retail Model is a fundamental and enduring structure in commerce that defines the flow of goods from production to consumption. At its core, it involves two distinct but interconnecte...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "wholesaleretail-model.md"
+    },
+    {
+      "slug": "wiki-based-collaboration",
+      "title": "Wiki-Based Collaboration",
+      "description": "Wiki-based collaboration is a method of collective work that leverages a wiki\u2014a knowledge base website where users collaboratively modify content and structure directly from a web browser [1]. The ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "wiki-based-collaboration.md"
+    },
+    {
+      "slug": "wikihouse-open-source-housing",
+      "title": "WikiHouse (Open Source Housing)",
+      "description": "WikiHouse is an open-source construction system that aims to radically simplify the way we design, manufacture, and assemble high-performance buildings. By leveraging digital fabrication and a dist...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "wikihouse-open-source-housing.md"
+    },
+    {
+      "slug": "worker-cooperative-product-development-models",
+      "title": "Worker Cooperative Product Development Models",
+      "description": "Worker Cooperative Product Development Models reimagine the innovation process by prioritizing labor over capital, democratic collaboration over hierarchical control, and long-term sustainability o...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "worker-cooperative-product-development-models.md"
+    },
+    {
+      "slug": "working-backward-amazon",
+      "title": "Working Backward (Amazon)",
+      "description": "The Working Backward method is a product development and innovation management pattern that originated at Amazon. It is a customer-centric approach that inverts the traditional product development ...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "working-backward-amazon.md"
+    },
+    {
+      "slug": "working-capital-management",
+      "title": "Working Capital Management",
+      "description": "Working Capital Management (WCM) is the strategic approach to managing a company's short-term assets and liabilities to ensure the smooth functioning of its day-to-day operations. It is a critical ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "working-capital-management.md"
+    },
+    {
+      "slug": "workplace-democracy-formal-models",
+      "title": "Workplace Democracy - Formal Models",
+      "description": "Workplace democracy is the application of democratic principles, theories, and practices to the workplace. It extends the concept of democracy beyond the political sphere and into the economic real...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "workplace-democracy-formal-models.md"
+    },
+    {
+      "slug": "x-matrix-hoshin-kanri-tool",
+      "title": "X-Matrix - Hoshin Kanri Tool",
+      "description": "The Hoshin Kanri X-Matrix is a strategic planning and management tool that originated from the Lean management philosophy. It is designed to align a company's long-term strategic objectives with it...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "x-matrix-hoshin-kanri-tool.md"
+    },
+    {
+      "slug": "zero-based-budgeting-justification-based",
+      "title": "Zero-Based Budgeting - Justification-Based",
+      "description": "Zero-Based Budgeting (ZBB) is a budgeting method that requires all expenses to be justified for each new budget period. Unlike traditional budgeting, which often involves making incremental adjustm...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "zero-based-budgeting-justification-based.md"
+    }
+  ]
+}

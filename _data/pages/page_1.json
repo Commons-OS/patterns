@@ -1,0 +1,906 @@
+{
+  "page": 1,
+  "total_pages": 10,
+  "patterns": [
+    {
+      "slug": "sociocracy-original-gerard-endenburg",
+      "title": "Sociocracy (Original) - Gerard Endenburg",
+      "description": "Sociocracy, also known as the Sociocratic Circle-Organization Method (SCM), is a system of governance that enables organizations to self-organize, make decisions, and perform their work effectively...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "1-sociocracy-original-gerard-endenburg.md"
+    },
+    {
+      "slug": "triple-bottom-line-elkington",
+      "title": "Triple Bottom Line - Elkington",
+      "description": "The Triple Bottom Line (TBL or 3BL) is a sustainability framework that expands the traditional focus on financial performance to include social and environmental performance. Coined by John Elkingt...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "1-triple-bottom-line-elkington.md"
+    },
+    {
+      "slug": "consent-agenda-quaker-based",
+      "title": "Consent Agenda - Quaker-Based",
+      "description": "The Quaker-based Consent Agenda is a decision-making practice designed to increase the efficiency of meetings by grouping routine, non-controversial items into a single package for approval. This m...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "10-consent-agenda-quaker-based.md"
+    },
+    {
+      "slug": "complementary-currencies",
+      "title": "Complementary Currencies",
+      "description": "A complementary currency is a medium of exchange that operates alongside a national currency, rather than replacing it. These currencies are created and used by communities, organizations, or busin...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "100-complementary-currencies.md"
+    },
+    {
+      "slug": "microservices-architecture",
+      "title": "Microservices Architecture",
+      "description": "Microservices architecture is an architectural style that structures an application as a collection of small, autonomous services, modeled around a business domain. Each service is self-contained, ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "100-microservices-architecture.md"
+    },
+    {
+      "slug": "dynamic-governance-sociocratic-circle-method",
+      "title": "Dynamic Governance - Sociocratic Circle Method",
+      "description": "Dynamic Governance, also known as the Sociocratic Circle Method (SCM) or simply Sociocracy, is a system of governance that seeks to create more effective, transparent, and equitable organizations. ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "11-dynamic-governance-sociocratic-circle-method.md"
+    },
+    {
+      "slug": "industrial-ecology",
+      "title": "Industrial Ecology",
+      "description": "Industrial Ecology (IE) is a systems-based, multidisciplinary field that provides a holistic framework for transforming industrial systems to be more sustainable. It studies the flows of materials ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "11-industrial-ecology.md"
+    },
+    {
+      "slug": "agile-governance",
+      "title": "Agile Governance",
+      "description": "Agile Governance is a framework for decision-making, accountability, and risk management that helps organizations thrive in a VUCA world. It shifts from traditional command-and-control oversight to...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "12-agile-governance.md"
+    },
+    {
+      "slug": "symbiotic-networks-industrial-symbiosis",
+      "title": "Symbiotic Networks - Industrial Symbiosis",
+      "description": "Industrial Symbiosis (IS) is a pioneering approach to sustainable industrial development where traditionally separate industries form a collaborative network to exchange materials, energy, water, a...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "12-symbiotic-networks-industrial-symbiosis.md"
+    },
+    {
+      "slug": "regenerative-economics-fullerton",
+      "title": "Regenerative Economics - Fullerton",
+      "description": "Regenerative Economics, a concept developed by John Fullerton, former JPMorgan managing director and founder of the Capital Institute, presents a paradigm shift in economic thinking. It proposes th...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "13-regenerative-economics-fullerton.md"
+    },
+    {
+      "slug": "shared-governance-healthcare",
+      "title": "Shared Governance - Healthcare",
+      "description": "Shared governance is a professional practice model and organizational framework primarily utilized in healthcare, particularly within nursing, that empowers clinical staff to have a significant voi...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "13-shared-governance-healthcare.md"
+    },
+    {
+      "slug": "board-governance-carver-policy-governance",
+      "title": "Board Governance - Carver Policy Governance",
+      "description": "Policy Governance, often referred to as the Carver Model, is a comprehensive framework for organizational governance created by Dr. John Carver in the 1970s. It is designed to provide a clear and e...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "14-board-governance-carver-policy-governance.md"
+    },
+    {
+      "slug": "supply-chain-management-stakeholder-approach",
+      "title": "Supply Chain Management - Stakeholder Approach",
+      "description": "The Stakeholder Approach to Supply Chain Management is a methodology that broadens the focus of supply chain decisions beyond the traditional economic interests of shareholders to include the inter...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "14-supply-chain-management-stakeholder-approach.md"
+    },
+    {
+      "slug": "cooperative-governance-mondragon-model",
+      "title": "Cooperative Governance - Mondragon Model",
+      "description": "The Cooperative Governance - Mondragon Model is a system of industrial democracy and worker ownership developed in the Basque Country of Spain. It represents a unique and highly successful approach...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "15-cooperative-governance-mondragon-model.md"
+    },
+    {
+      "slug": "open-innovation",
+      "title": "Open Innovation",
+      "description": "Open innovation is a paradigm that assumes that firms can and should use external ideas as well as internal ideas, and internal and external paths to market, as they look to advance their technolog...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "15-open-innovation.md"
+    },
+    {
+      "slug": "six-sigma-motorolage",
+      "title": "Six Sigma",
+      "description": "Six Sigma is a disciplined, data-driven methodology for eliminating defects in any process \u2013 from manufacturing to transactional and from product to service. It was introduced by American engineer ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "16-six-sigma-motorolage.md"
+    },
+    {
+      "slug": "lean-six-sigma",
+      "title": "Lean Six Sigma",
+      "description": "Lean Six Sigma is a synergistic management methodology that combines the principles of Lean and Six Sigma to enhance process performance, eliminate waste, and reduce variation. At its core, Lean Si...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "17-lean-six-sigma.md"
+    },
+    {
+      "slug": "service-oriented-architecture-soa",
+      "title": "Service-Oriented Architecture (SOA)",
+      "description": "Service-Oriented Architecture (SOA) is a software design paradigm that structures applications as a collection of loosely coupled, interoperable services. These services are self-contained, autonom...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "17-service-oriented-architecture-soa.md"
+    },
+    {
+      "slug": "api-first-design",
+      "title": "API-First Design",
+      "description": "API-First Design is a strategic approach to software development where the application programming interface (API) is treated as a \u201cfirst-class citizen.\u201d In this model, the design, development, and...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "18-api-first-design.md"
+    },
+    {
+      "slug": "theory-of-constraints-goldratt",
+      "title": "Theory of Constraints - Goldratt",
+      "description": "The Theory of Constraints (TOC) is a management philosophy that views any manageable system as being limited in achieving more of its goals by a very small number of constraints. It was introduced ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "18-theory-of-constraints-goldratt.md"
+    },
+    {
+      "slug": "business-process-reengineering-hammer-champy",
+      "title": "Business Process Reengineering - Hammer & Champy",
+      "description": "Business Process Reengineering (BPR) is a management strategy that involves the radical redesign of core business processes to achieve dramatic improvements in productivity, cycle times, and qualit...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "19-business-process-reengineering-hammer-champy.md"
+    },
+    {
+      "slug": "platform-engineering",
+      "title": "Platform Engineering",
+      "description": "Platform engineering designs and builds toolchains and workflows for developer self-service. Its main output is an Internal Developer Platform (IDP), an integrated product covering an application's...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "19-platform-engineering.md"
+    },
+    {
+      "slug": "stakeholder-capitalism-wef",
+      "title": "Stakeholder Capitalism",
+      "description": "Stakeholder capitalism is a model of corporate governance that shifts the focus of a company from solely maximizing shareholder value to creating long-term value for all of its stakeholders. These ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "2-stakeholder-capitalism-wef.md"
+    },
+    {
+      "slug": "5s-methodology",
+      "title": "5S Methodology",
+      "description": "The 5S methodology is a systematic approach to workplace organization and cleaning that originated in Japan. It is a foundational element of Lean manufacturing and the Toyota Production System (TPS...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "20-5s-methodology.md"
+    },
+    {
+      "slug": "cloud-native-architecture",
+      "title": "Cloud-Native Architecture",
+      "description": "Cloud-Native Architecture is a modern approach to designing, building, and operating applications to fully leverage the advantages of the cloud computing model. It represents a significant shift fr...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "20-cloud-native-architecture.md"
+    },
+    {
+      "slug": "gemba-kaizen",
+      "title": "Gemba Kaizen",
+      "description": "slug: 21-gemba-kaizen title: Gemba Kaizen aliases: [Go and See, Genchi Genbutsu] version: 1.0 created: 2026-01-28T00:00:00Z modified: 2026-01-28T00:00:00Z tags: universality: human-universal domain...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "21-gemba-kaizen.md"
+    },
+    {
+      "slug": "serverless-computing",
+      "title": "Serverless Computing",
+      "description": "Serverless computing is a cloud computing execution model in which the cloud provider runs the server and dynamically manages the allocation of machine resources. Pricing is based on the actual amo...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "21-serverless-computing.md"
+    },
+    {
+      "slug": "edge-computing",
+      "title": "Edge Computing",
+      "description": "Edge computing is a distributed computing paradigm that brings computation and data storage closer to the sources of data generation. Instead of sending data to a centralized cloud for processing, ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "22-edge-computing.md"
+    },
+    {
+      "slug": "a3-thinking-toyota",
+      "title": "A3 Thinking",
+      "description": "A3 Thinking is a structured problem-solving and continuous-improvement methodology that originated at Toyota. It is named after the A3-sized paper (11x17 inches or 297x420 mm) on which the entire p...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "23-a3-thinking-toyota.md"
+    },
+    {
+      "slug": "zero-trust-security",
+      "title": "Zero Trust Security",
+      "description": "Zero Trust is a security model that fundamentally inverts the traditional \"trust but verify\" approach to network security into a \"never trust, always verify\" paradigm. It operates on the foundation...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "23-zero-trust-security.md"
+    },
+    {
+      "slug": "pdca-cycle-deming",
+      "title": "PDCA Cycle: The Deming-Shewhart Engine of Continuous Improvement",
+      "description": "The Plan-Do-Check-Act (PDCA) cycle, a cornerstone of continuous improvement, is an iterative four-step management method used for the control and continual improvement of processes and products [1]...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "24-pdca-cycle-deming.md"
+    },
+    {
+      "slug": "privacy-by-design-cavoukian",
+      "title": "Privacy by Design - Cavoukian",
+      "description": "This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "24-privacy-by-design-cavoukian.md"
+    },
+    {
+      "slug": "data-governance-frameworks-dama",
+      "title": "Data Governance Frameworks - DAMA",
+      "description": "The DAMA International Data Management Body of Knowledge (DAMA-DMBOK) is a globally recognized, comprehensive framework that provides a standard set of principles, best practices, and terminology f...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "25-data-governance-frameworks-dama.md"
+    },
+    {
+      "slug": "ai-ethics-frameworks",
+      "title": "AI Ethics Frameworks",
+      "description": "AI Ethics Frameworks are structured sets of principles, guidelines, and best practices designed to guide the responsible development, deployment, and governance of artificial intelligence systems. ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "26-ai-ethics-frameworks.md"
+    },
+    {
+      "slug": "value-stream-mapping",
+      "title": "Value Stream Mapping",
+      "description": "Value Stream Mapping (VSM), also known as material and information flow mapping, is a lean management method used to analyze and improve the flow of materials and information required to bring a pr...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "26-value-stream-mapping.md"
+    },
+    {
+      "slug": "digital-twin-technology",
+      "title": "Digital Twin Technology",
+      "description": "A digital twin is a virtual representation of a physical object, system, or process that serves as its real-time digital counterpart. This is not merely a static model or a blueprint; it is a dynam...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "27-digital-twin-technology.md"
+    },
+    {
+      "slug": "just-in-time-jit",
+      "title": "Just-In-Time (JIT)",
+      "description": "Just-in-Time (JIT) is an inventory management strategy that aligns raw-material orders from suppliers directly with production schedules. The core principle of JIT is to produce and deliver only wh...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "27-just-in-time-jit.md"
+    },
+    {
+      "slug": "jidoka-automation-with-human-touch",
+      "title": "Jidoka - Automation With Human Touch",
+      "description": "Jidoka, a cornerstone of the Toyota Production System (TPS), is a principle that introduces a human touch to automation. Often translated as \"autonomation\" or \"intelligent automation,\" Jidoka empow...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "28-jidoka-automation-with-human-touch.md"
+    },
+    {
+      "slug": "28_TpYG9zMI5us4qaYiifJXOa_1769634357269_na1fn_L2hvbWUvdWJ1bnR1L2ZkZF9yZXNlYXJjaC9mZWF0dXJlLWRyaXZlbi1kZXZlbG9wbWVudC1mZGQ",
+      "title": "28_Tpyg9Zmi5Us4Qayiifjxoa_1769634357269_Na1Fn_L2Hvbwuvdwj1Bnr1L2Zkzf9Yzxnlyxjjac9Mzwf0Dxjllwryaxzlbi1Kzxzlbg9Wbwvudc1Mzgq",
+      "description": "Feature-Driven Development (FDD) is an agile software development methodology that emphasizes a short, iterative, and feature-centric process. It is a model-driven approach that aims to deliver tan...",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "28_TpYG9zMI5us4qaYiifJXOa_1769634357269_na1fn_L2hvbWUvdWJ1bnR1L2ZkZF9yZXNlYXJjaC9mZWF0dXJlLWRyaXZlbi1kZXZlbG9wbWVudC1mZGQ.md"
+    },
+    {
+      "slug": "domain-driven-design-ddd",
+      "title": "Domain-Driven Design (DDD)",
+      "description": "Domain-Driven Design (DDD) is a software development methodology that emphasizes the importance of modeling the business domain at the core of the software. Coined by Eric Evans in his seminal 2003...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "29-domain-driven-design-ddd.md"
+    },
+    {
+      "slug": "poka-yoke-error-proofing",
+      "title": "Poka-Yoke - Error-proofing",
+      "description": "Poka-Yoke, a Japanese term meaning \"mistake-proofing,\" is a fundamental principle of lean manufacturing and quality management that seeks to prevent human errors from occurring in a process. It inv...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "29-poka-yoke-error-proofing.md"
+    },
+    {
+      "slug": "shared-value-porter-kramer",
+      "title": "Shared Value - Porter & Kramer",
+      "description": "id: pat_01kg5023w2eshb12c2jt3bkqw0 page_url: https://commons-os.github.io/patterns/domain/3-shared-value-porter-kramer/ github_url: https://github.com/commons-os/patterns/blob/main/_patterns/3-shar...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "3-shared-value-porter-kramer.md"
+    },
+    {
+      "slug": "andon-system-visual-management",
+      "title": "Andon System - Visual Management",
+      "description": "The Andon system is a visual management tool that empowers workers to signal problems in a production process the moment they occur. The term \"Andon\" is a Japanese word for a traditional paper lant...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "30-andon-system-visual-management.md"
+    },
+    {
+      "slug": "event-driven-architecture",
+      "title": "Event-Driven Architecture",
+      "description": "Event-Driven Architecture (EDA) is a software architecture paradigm that promotes the production, detection, consumption of, and reaction to events. An event can be defined as a significant change ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "30-event-driven-architecture.md"
+    },
+    {
+      "slug": "heijunka-production-leveling",
+      "title": "Heijunka - Production Leveling",
+      "description": "Heijunka (\u5e73\u6e96\u5316), a Japanese term for \"leveling\" or \"smoothing,\" is a foundational principle of the Toyota Production System (TPS) designed to create stability in a production process by leveling the...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "31-heijunka-production-leveling.md"
+    },
+    {
+      "slug": "systems-thinking-meadows",
+      "title": "Systems Thinking - Meadows",
+      "description": "Systems Thinking, as articulated by Donella H. Meadows, is a holistic approach to analysis that focuses on the way that a system's constituent parts interrelate and how systems work over time and w...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "31-systems-thinking-meadows.md"
+    },
+    {
+      "slug": "cellular-manufacturing",
+      "title": "Cellular Manufacturing",
+      "description": "Cellular manufacturing is a production process that arranges factory floor workstations and equipment into a \"cell\" to facilitate the production of a single product or a group of similar products. ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "32-cellular-manufacturing.md"
+    },
+    {
+      "slug": "complexity-science-applications-santa-fe-institute",
+      "title": "Complexity Science Applications - Santa Fe Institute",
+      "description": "Complexity Science, as pioneered and championed by the Santa Fe Institute (SFI), is a multidisciplinary field that studies complex adaptive systems (CAS)\u2014systems with diverse, interconnected compon...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "32-complexity-science-applications-santa-fe-institute.md"
+    },
+    {
+      "slug": "pull-systems",
+      "title": "Pull Systems",
+      "description": "A pull system is a lean production method where work is initiated only when there is real demand from a downstream process. Instead of pushing products or tasks through a system based on forecasts,...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "33-pull-systems.md"
+    },
+    {
+      "slug": "resilience-frameworks-walker-salt",
+      "title": "Resilience Frameworks - Walker & Salt",
+      "description": "Resilience Thinking, as articulated by Brian Walker and David Salt, is a framework for understanding and managing complex adaptive systems, particularly social-ecological systems. It provides a len...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "33-resilience-frameworks-walker-salt.md"
+    },
+    {
+      "slug": "adaptive-management-holling",
+      "title": "Adaptive Management",
+      "description": "Adaptive Management is a structured, iterative process for improving management policies and practices by systematically testing assumptions, learning from the outcomes of management actions, and i...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "34-adaptive-management-holling.md"
+    },
+    {
+      "slug": "extreme-programming-xp",
+      "title": "Extreme Programming (XP)",
+      "description": "Extreme Programming (XP) is an agile software development methodology designed to improve software quality and responsiveness to changing customer requirements. Created by Kent Beck in the 1990s, X...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "34-extreme-programming-xp.md"
+    },
+    {
+      "slug": "panarchy-theory-gunderson-holling",
+      "title": "Panarchy Theory",
+      "description": "Panarchy is a conceptual framework for understanding the dynamics of complex adaptive systems, particularly social-ecological systems. It was developed by ecologists C.S. Holling and Lance Gunderso...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "35-panarchy-theory-gunderson-holling.md"
+    },
+    {
+      "slug": "spotify-model",
+      "title": "Spotify Model",
+      "description": "The Spotify Model is an agile organizational framework that originated at the music streaming company Spotify in the early 2010s. It was first publicly detailed in a 2012 whitepaper by Henrik Knibe...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "35-spotify-model.md"
+    },
+    {
+      "slug": "balanced-scorecard-kaplan-norton",
+      "title": "Balanced Scorecard - Kaplan & Norton",
+      "description": "The Balanced Scorecard (BSC) is a strategic planning and management system used extensively in business and industry, government, and nonprofit organizations worldwide to align business activities ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "36-balanced-scorecard-kaplan-norton.md"
+    },
+    {
+      "slug": "metamodernism-hanzi-freinacht",
+      "title": "Metamodernism - Hanzi Freinacht",
+      "description": "Metamodernism, as articulated by the pseudonymous political philosopher Hanzi Freinacht, is a developmental philosophy and political ideology that seeks to transcend the limitations of both moderni...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "36-metamodernism-hanzi-freinacht.md"
+    },
+    {
+      "slug": "process-philosophy-whitehead",
+      "title": "Process Philosophy: Whitehead",
+      "description": "Process Philosophy, most notably articulated by Alfred North Whitehead, is a metaphysical framework that posits reality is fundamentally constituted by processes of becoming rather than static subs...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "37-process-philosophy-whitehead.md"
+    },
+    {
+      "slug": "strategy-maps-kaplan-norton",
+      "title": "Strategy Maps: Kaplan & Norton",
+      "description": "A Strategy Map is a visual framework that illustrates an organization's strategic objectives and the cause-and-effect relationships among them [1]. Developed by Robert S. Kaplan and David P. Norton...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "37-strategy-maps-kaplan-norton.md"
+    },
+    {
+      "slug": "relational-ontology-indigenousfeminist",
+      "title": "Relational Ontology - Indigenous/Feminist",
+      "description": "Relational Ontology, through Indigenous and feminist lenses, posits **relations as ontologically primary**, where entities are constituted by their relationships.",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "38-relational-ontology-indigenousfeminist.md"
+    },
+    {
+      "slug": "x-matrix-hoshin-kanri",
+      "title": "X-Matrix - Hoshin Kanri",
+      "description": "Hoshin Kanri, also known as Hoshin Planning or Policy Deployment, is a strategic planning and management methodology that originated in Japan. Its primary purpose is to align the entire organizatio...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "38-x-matrix-hoshin-kanri.md"
+    },
+    {
+      "slug": "care-ethics-gilligan-tronto",
+      "title": "Care Ethics - Gilligan, Tronto",
+      "description": "The Ethics of Care, or Care Ethics, is a normative ethical theory that centers on the significance of interpersonal relationships and interdependence in moral life. It offers a contrast to traditio...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "39-care-ethics-gilligan-tronto.md"
+    },
+    {
+      "slug": "swot-analysis",
+      "title": "SWOT Analysis",
+      "description": "SWOT analysis, a strategic planning framework, is a cornerstone of modern business strategy that enables organizations to identify their internal **S**trengths and **W**eaknesses, and external **O*...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "39-swot-analysis.md"
+    },
+    {
+      "slug": "inclusive-business-bop-strategies",
+      "title": "Inclusive Business - BoP Strategies",
+      "description": "Inclusive Business, particularly through Base of the Pyramid (BoP) strategies, is a business approach that seeks to integrate the poor and low-income populations into the value chains of companies,...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "4-inclusive-business-bop-strategies.md"
+    },
+    {
+      "slug": "quadratic-voting-weyl-posner",
+      "title": "Quadratic Voting",
+      "description": "Quadratic Voting (QV) is a collective decision-making procedure that is designed to allow for a more nuanced expression of preferences than traditional one-person-one-vote systems. It addresses the...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "4-quadratic-voting-weyl-posner.md"
+    },
+    {
+      "slug": "tows-matrix",
+      "title": "TOWS Matrix",
+      "description": "The TOWS Matrix is a strategic planning tool that provides a framework for developing actionable strategies from the results of a SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis. It w...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "40-tows-matrix.md"
+    },
+    {
+      "slug": "agroecology",
+      "title": "Agroecology",
+      "description": "Agroecology is an integrated and holistic approach that applies ecological and social principles to the design and management of sustainable food and agricultural systems. It is not merely a set of...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "41-agroecology.md"
+    },
+    {
+      "slug": "porters-five-forces",
+      "title": "Porter's Five Forces",
+      "description": "Porter's Five Forces is a framework for analyzing industry competition and profitability. Developed by Michael E. Porter in 1979, it expands the view of competition beyond direct rivals to include ...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "41-porters-five-forces.md"
+    },
+    {
+      "slug": "biodynamic-agriculture",
+      "title": "Biodynamic Agriculture",
+      "description": "Biodynamic agriculture is a holistic and regenerative farming system that views the farm as a self-sustaining, living organism. It was first conceptualized in 1924 by the Austrian philosopher and s...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "42-biodynamic-agriculture.md"
+    },
+    {
+      "slug": "porters-generic-strategies",
+      "title": "Porter's Generic Strategies",
+      "description": "Porter's Generic Strategies are a framework for achieving competitive advantage, developed by Michael E. Porter, a professor at Harvard Business School. The framework, first published in his 1980 b...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "42-porters-generic-strategies.md"
+    },
+    {
+      "slug": "organic-certification-systems",
+      "title": "Organic Certification Systems",
+      "description": "Organic Certification Systems are structured frameworks of standards and verification procedures that regulate the production, handling, and labeling of agricultural products as 'organic'. These sy...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "43-organic-certification-systems.md"
+    },
+    {
+      "slug": "value-chain-analysis-porter",
+      "title": "Value Chain Analysis - Porter",
+      "description": "Value Chain Analysis is a strategic framework for dissecting a company's activities to understand costs and identify sources of competitive advantage. The concept was introduced by Michael E. Porte...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "43-value-chain-analysis-porter.md"
+    },
+    {
+      "slug": "bcg-matrix-boston-consulting-group",
+      "title": "BCG Matrix - Boston Consulting Group",
+      "description": "The BCG Matrix, also known as the Growth-Share Matrix, is a portfolio management framework developed by Bruce Henderson of the Boston Consulting Group in 1970. It was created to help companies deci...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "44-bcg-matrix-boston-consulting-group.md"
+    },
+    {
+      "slug": "fair-trade",
+      "title": "Fair Trade",
+      "description": "Fair trade is a global movement and a market-based approach to international trade that aims to help producers in developing countries achieve better trading conditions and promote sustainability. ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "44-fair-trade.md"
+    },
+    {
+      "slug": "ge-mckinsey-matrix",
+      "title": "GE-McKinsey Matrix",
+      "description": "The GE-McKinsey Matrix, also known as the GE nine-box matrix, is a powerful and widely used portfolio analysis framework that provides a systematic and data-driven approach for multi-business corpo...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "45-ge-mckinsey-matrix.md"
+    },
+    {
+      "slug": "ansoff-matrix-growth-strategies",
+      "title": "Ansoff Matrix - Growth Strategies",
+      "description": "The Ansoff Matrix, also known as the Product/Market Expansion Grid, is a strategic planning tool that provides a framework for businesses to devise and analyze their growth strategies. It is a simp...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "46-ansoff-matrix-growth-strategies.md"
+    },
+    {
+      "slug": "slow-food-movement",
+      "title": "Slow Food Movement",
+      "description": "The Slow Food movement is a global, grassroots organization that advocates for a food system that is good, clean, and fair for all. It was founded in Italy by Carlo Petrini in 1986 as a response to...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "46-slow-food-movement.md"
+    },
+    {
+      "slug": "farm-to-table",
+      "title": "Farm-to-Table",
+      "description": "Farm-to-table is a social and culinary movement that emphasizes the direct sourcing of fresh, seasonal ingredients from local producers. At its core, it represents a philosophy of food that priorit...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "47-farm-to-table.md"
+    },
+    {
+      "slug": "strategy-diamond-hambrick-frederickson",
+      "title": "Strategy Diamond - Hambrick & Frederickson",
+      "description": "The Strategy Diamond is a framework developed by Donald C. Hambrick and James W. Fredrickson to help executives formulate and communicate a business strategy. It provides a comprehensive and integr...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "47-strategy-diamond-hambrick-frederickson.md"
+    },
+    {
+      "slug": "mckinsey-7s",
+      "title": "McKinsey 7S",
+      "description": "The McKinsey 7S Framework is a management model developed by business consultants Robert H. Waterman, Jr. and Tom Peters in the 1980s. It is a tool that analyzes an organization's design to underst...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "48-mckinsey-7s.md"
+    },
+    {
+      "slug": "community-gardens",
+      "title": "Community Gardens",
+      "description": "The Community Gardens pattern is a metaphorical framework for understanding and cultivating a healthy and productive organizational culture. It views the organization as a garden, where employees a...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "49-community-gardens.md"
+    },
+    {
+      "slug": "futarchy-robin-hanson",
+      "title": "Futarchy",
+      "description": "Futarchy is a form of governance, originally proposed by economist Robin Hanson, that uses prediction markets to make decisions. The core idea is to separate the process of defining what we want (v...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "5-futarchy-robin-hanson.md"
+    },
+    {
+      "slug": "social-license-to-operate",
+      "title": "Social License to Operate",
+      "description": "The Social License to Operate (SLO) is the ongoing acceptance of a company's activities by its stakeholders, particularly local communities. It's an unwritten, intangible social contract based on p...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "5-social-license-to-operate.md"
+    },
+    {
+      "slug": "pestel-analysis",
+      "title": "PESTEL Analysis",
+      "description": "PESTEL analysis is a strategic framework for understanding the macro-environmental factors that impact an organization. The acronym stands for Political, Economic, Social, Technological, Environmen...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "50-pestel-analysis.md"
+    },
+    {
+      "slug": "industry-40",
+      "title": "Industry 4.0",
+      "description": "Industry 4.0, also known as the Fourth Industrial Revolution (4IR), represents the ongoing digital transformation of the manufacturing and industrial sectors. It is characterized by the fusion of a...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "51-industry-40.md"
+    },
+    {
+      "slug": "lean-canvas-ash-maurya",
+      "title": "Lean Canvas - Ash Maurya",
+      "description": "The Lean Canvas is a one-page business model template created by Ash Maurya that helps entrepreneurs and product developers deconstruct a business idea into its key assumptions. It is an adaptation...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "51-lean-canvas-ash-maurya.md"
+    },
+    {
+      "slug": "smart-manufacturing",
+      "title": "Smart Manufacturing",
+      "description": "",
+      "score": null,
+      "domain": "business",
+      "universality": null,
+      "file": "52-smart-manufacturing.md"
+    },
+    {
+      "slug": "value-proposition-canvas-osterwalder",
+      "title": "Value Proposition Canvas",
+      "description": "The Value Proposition Canvas (VPC) is a strategic management and marketing tool that helps businesses to better understand their customers and to create products and services that perfectly match t...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "52-value-proposition-canvas-osterwalder.md"
+    },
+    {
+      "slug": "advanced-manufacturing",
+      "title": "Advanced Manufacturing",
+      "description": "As the original file was not found, this section is a placeholder. The following assessment is based on general knowledge of Advanced Manufacturing.",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "53-advanced-manufacturing.md"
+    },
+    {
+      "slug": "jobs-to-be-done-christensen",
+      "title": "Jobs-to-be-Done - Christensen",
+      "description": "Jobs-to-be-Done (JTBD) is a framework that guides innovators to create products and services that customers will want to buy. The central idea is that customers don\u2019t buy products; they \u201chire\u201d them...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "53-jobs-to-be-done-christensen.md"
+    },
+    {
+      "slug": "freemium-model",
+      "title": "Freemium Model",
+      "description": "The Freemium model, a portmanteau of \"free\" and \"premium,\" is a business strategy where a company offers a basic version of its product or service for free, while charging for advanced features, fu...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "54-freemium-model.md"
+    },
+    {
+      "slug": "mass-customization",
+      "title": "Mass Customization",
+      "description": "id: pat_01kg5023wce4htqbxf799j2t6x page_url: https://commons-os.github.io/patterns/domain/54-mass-customization/ github_url: https://github.com/commons-os/patterns/blob/main/_patterns/54-mass-custo...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "54-mass-customization.md"
+    },
+    {
+      "slug": "flexible-manufacturing",
+      "title": "Flexible Manufacturing",
+      "description": "A Flexible Manufacturing System (FMS) is an integrated, computer-controlled manufacturing system that allows for the automated processing of a variety of part types simultaneously and in any order....",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "55-flexible-manufacturing.md"
+    },
+    {
+      "slug": "subscription-model",
+      "title": "Subscription Model",
+      "description": "The subscription model is a business strategy where customers pay a recurring fee at regular intervals for access to a product or service [1]. Instead of a one-time purchase, this model fosters a c...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "55-subscription-model.md"
+    },
+    {
+      "slug": "green-manufacturing",
+      "title": "Green Manufacturing",
+      "description": "Green manufacturing, also known as sustainable manufacturing or green production, is the practice of creating products through processes that minimize environmental impact, conserve energy and natu...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "56-green-manufacturing.md"
+    },
+    {
+      "slug": "additive-manufacturing-3d-printing",
+      "title": "Additive Manufacturing (3D Printing)",
+      "description": "Additive Manufacturing (AM), commonly known as 3D Printing, is a transformative manufacturing process that builds three-dimensional objects layer by layer from a digital design file. Unlike traditi...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "57-additive-manufacturing-3d-printing.md"
+    },
+    {
+      "slug": "franchise-model",
+      "title": "Franchise Model",
+      "description": "The Franchise Model is a business arrangement where a central entity, the **franchisor**, grants a license to an independent entrepreneur or entity, the **franchisee**, to operate a business using ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "57-franchise-model.md"
+    },
+    {
+      "slug": "distributed-manufacturing",
+      "title": "Distributed Manufacturing",
+      "description": "Distributed manufacturing represents a paradigm shift in production, moving away from the 20th-century model of centralized, mass production to a decentralized, networked approach. At its core, it ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "58-distributed-manufacturing.md"
+    },
+    {
+      "slug": "open-source-business-models",
+      "title": "Open Source Business Models",
+      "description": "Open Source Business Models are strategies that companies use to generate revenue from software that is licensed under an open-source license. These models address the challenge of profiting from s...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "58-open-source-business-models.md"
+    },
+    {
+      "slug": "b-corporation-model",
+      "title": "B Corporation Model",
+      "description": "The B Corporation (or B Corp) model is a certification for for-profit companies that meet high standards of social and environmental performance, accountability, and transparency. The certification...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "59-b-corporation-model.md"
+    },
+    {
+      "slug": "maker-movement",
+      "title": "Maker Movement",
+      "description": "The Maker Movement is a global cultural phenomenon that represents a technology-based extension of the Do-It-Yourself (DIY) culture. It is characterized by a hands-on approach to innovation, where ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "59-maker-movement.md"
+    }
+  ]
+}

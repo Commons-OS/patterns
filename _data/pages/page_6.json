@@ -1,0 +1,906 @@
+{
+  "page": 6,
+  "total_pages": 10,
+  "patterns": [
+    {
+      "slug": "ich-q10-pharmaceutical-quality-system",
+      "title": "ICH Q10 (Pharmaceutical Quality System)",
+      "description": "The ICH Q10 Pharmaceutical Quality System (PQS) is a comprehensive model for an effective quality management system for the pharmaceutical industry. It provides a framework for implementing a robus...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "ich-q10-pharmaceutical-quality-system.md"
+    },
+    {
+      "slug": "ich-q12-product-lifecycle-management",
+      "title": "ICH Q12 (Product Lifecycle Management)",
+      "description": "ICH Q12 provides a regulatory framework for pharmaceutical product lifecycle management. It offers a harmonized approach to managing post-approval Chemistry, Manufacturing, and Controls (CMC) chang...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "ich-q12-product-lifecycle-management.md"
+    },
+    {
+      "slug": "ich-q8-pharmaceutical-development",
+      "title": "ICH Q8 (Pharmaceutical Development)",
+      "description": "The International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH) Q8 (R2) guideline, titled \"Pharmaceutical Development,\" is a foundational document that...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "ich-q8-pharmaceutical-development.md"
+    },
+    {
+      "slug": "ich-q9-quality-risk-management",
+      "title": "ICH Q9 (Quality Risk Management)",
+      "description": "ICH Q9, titled \"Quality Risk Management,\" is a guideline developed by the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH). It provides a sy...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "ich-q9-quality-risk-management.md"
+    },
+    {
+      "slug": "iec-62304-medical-device-software",
+      "title": "IEC 62304 (Medical Device Software)",
+      "description": "IEC 62304, titled \"Medical device software \u2013 Software life cycle processes,\" is a seminal international standard that establishes a comprehensive framework for the entire lifecycle of medical devic...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "iec-62304-medical-device-software.md"
+    },
+    {
+      "slug": "implemented-evidence-of-real-world-use",
+      "title": "Implemented: Evidence of Real-World Use",
+      "description": "The \"Implemented: Evidence of Real-World Use\" pattern is a foundational principle in organizational design and development. It emphasizes the critical importance of grounding theoretical models and...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "implemented-evidence-of-real-world-use.md"
+    },
+    {
+      "slug": "inclusive-design",
+      "title": "Inclusive Design",
+      "description": "Inclusive Design is a methodology that enables and draws on the full range of human diversity. It is a design process that considers the full range of human diversity with respect to ability, langu...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "inclusive-design.md"
+    },
+    {
+      "slug": "incremental-development-model",
+      "title": "Incremental Development Model",
+      "description": "The Incremental Development Model represents a significant departure from traditional, linear software development methodologies. It is a process where a product is designed, implemented, and teste...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "incremental-development-model.md"
+    },
+    {
+      "slug": "incremental-development",
+      "title": "Incremental Development",
+      "description": "Incremental Development is a method of developing a product or system in which the work is sliced into small, manageable increments. Each increment builds upon the previous ones, adding new functio...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "incremental-development.md"
+    },
+    {
+      "slug": "indian-joint-family-business",
+      "title": "Indian Joint Family Business",
+      "description": "The Indian Joint Family Business, also known as the Hindu Undivided Family (HUF) business, is a unique and traditional form of business organization found exclusively in India. This model is deeply...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "indian-joint-family-business.md"
+    },
+    {
+      "slug": "indigenous-design-principles-seven-generations",
+      "title": "Indigenous Design Principles (Seven Generations)",
+      "description": "Indigenous Design Principles, deeply rooted in the wisdom of Indigenous cultures worldwide, offer a profound and holistic approach to design that stands in stark contrast to many mainstream, Wester...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "indigenous-design-principles-seven-generations.md"
+    },
+    {
+      "slug": "indigenous-fire-management",
+      "title": "Indigenous Fire Management",
+      "description": "Indigenous Fire Management, often referred to as \"cultural burning\" or \"good fire,\" is a traditional ecological practice that involves the intentional and controlled use of fire to manage and shape...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "indigenous-fire-management.md"
+    },
+    {
+      "slug": "indigenous-food-systems",
+      "title": "Indigenous Food Systems",
+      "description": "Indigenous Food Systems are holistic, place-based systems of producing, procuring, and consuming food that are rooted in the traditional knowledge, practices, and cultural values of Indigenous Peop...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "indigenous-food-systems.md"
+    },
+    {
+      "slug": "indigenous-governance-various-traditions-beyond-maorihaudenosaunee",
+      "title": "Indigenous Governance (various traditions beyond Maori/Haudenosaunee)",
+      "description": "Indigenous governance encompasses a wide array of systems and practices that Indigenous peoples have developed and used to govern themselves for millennia. These systems are deeply rooted in the sp...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "indigenous-governance-various-traditions-beyond-maorihaudenosaunee.md"
+    },
+    {
+      "slug": "industrial-ecology-closed-loop-systems",
+      "title": "Industrial Ecology - Closed-Loop Systems",
+      "description": "Industrial Ecology (IE) is a systems-based, multidisciplinary field that studies the flow of materials and energy through industrial systems, with the goal of minimizing their environmental impact....",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "industrial-ecology-closed-loop-systems.md"
+    },
+    {
+      "slug": "industrial-internet-of-things-iiot",
+      "title": "Industrial Internet of Things (IIoT)",
+      "description": "The Industrial Internet of Things (IIoT) represents a significant evolution in the integration of physical industrial systems with advanced digital technologies. It refers to an ecosystem of interc...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "industrial-internet-of-things-iiot.md"
+    },
+    {
+      "slug": "industrie-40",
+      "title": "Industrie 4.0",
+      "description": "Industrie 4.0, also known as the Fourth Industrial Revolution, represents a paradigm shift in manufacturing and industrial processes. It is characterized by the increasing digitization and intercon...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "industrie-40.md"
+    },
+    {
+      "slug": "industry-40-principles",
+      "title": "Industry 4.0 Principles",
+      "description": "The Fourth Industrial Revolution, or Industry 4.0, represents a paradigm shift in industrial production, characterized by the convergence of digital, physical, and biological systems. This revoluti...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "industry-40-principles.md"
+    },
+    {
+      "slug": "informal-economy-models",
+      "title": "Informal Economy Models",
+      "description": "The informal economy, also known as the grey economy or shadow economy, represents a significant and complex segment of the global economic landscape [1]. It encompasses all economic activities, en...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "informal-economy-models.md"
+    },
+    {
+      "slug": "infrastructure-as-code-iac-terraform-etc",
+      "title": "Infrastructure as Code (IaC)",
+      "description": "Infrastructure as Code (IaC) is the practice of managing and provisioning computing infrastructure through machine-readable definition files, rather than through physical hardware configuration or ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "infrastructure-as-code-iac-terraform-etc.md"
+    },
+    {
+      "slug": "initial-comprehensive-taxonomy",
+      "title": "Initial Comprehensive Taxonomy",
+      "description": "The Initial Comprehensive Taxonomy pattern involves the systematic development of a foundational, organization-wide classification scheme. This taxonomy serves as a structured vocabulary to bring c...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "initial-comprehensive-taxonomy.md"
+    },
+    {
+      "slug": "institutional-economics",
+      "title": "Institutional Economics",
+      "description": "Institutional Economics represents a significant departure from mainstream neoclassical economic thought, offering a more holistic and contextually-rich framework for understanding economic phenome...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "institutional-economics.md"
+    },
+    {
+      "slug": "integral-theory-wilber-if-not-in-strategy",
+      "title": "Integral Theory (Wilber) - If Not In Strategy",
+      "description": "This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "integral-theory-wilber-if-not-in-strategy.md"
+    },
+    {
+      "slug": "integrated-computational-materials-engineering-icme",
+      "title": "Integrated Computational Materials Engineering (ICME)",
+      "description": "Integrated Computational Materials Engineering (ICME) is a systematic approach to designing products, the materials they are made of, and their manufacturing processes by linking materials models a...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "integrated-computational-materials-engineering-icme.md"
+    },
+    {
+      "slug": "integrated-product-development-ipd",
+      "title": "Integrated Product Development (IPD)",
+      "description": "Integrated Product Development (IPD) is a comprehensive methodology for structuring and managing the product development process within an organization. It is not a single invention but rather a sy...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "integrated-product-development-ipd.md"
+    },
+    {
+      "slug": "integrated-project-delivery-ipd",
+      "title": "Integrated Project Delivery (IPD)",
+      "description": "Integrated Project Delivery (IPD) is a revolutionary project delivery methodology that fundamentally shifts the paradigm of design and construction. It contractually unites the owner, architect, an...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "integrated-project-delivery-ipd.md"
+    },
+    {
+      "slug": "interface-control",
+      "title": "Interface Control",
+      "description": "Interface Control is a systems engineering and project management practice that focuses on defining, managing, and controlling the interfaces between different components of a system, or between di...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "interface-control.md"
+    },
+    {
+      "slug": "intergenerational-equity-frameworks",
+      "title": "Intergenerational Equity Frameworks",
+      "description": "Intergenerational Equity Frameworks are a set of principles and practices designed to ensure fairness and justice between generations. The core idea is that the present generation has a moral oblig...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "intergenerational-equity-frameworks.md"
+    },
+    {
+      "slug": "internal-rate-of-return-irr",
+      "title": "Internal Rate of Return (IRR)",
+      "description": "The Internal Rate of Return (IRR) is a powerful financial metric used to estimate the profitability of potential investments. It is a discount rate at which the net present value (NPV) of all cash ...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "internal-rate-of-return-irr.md"
+    },
+    {
+      "slug": "internet-of-things-iot-for-manufacturing",
+      "title": "Internet of Things (IoT) for Manufacturing",
+      "description": "The Internet of Things (IoT) for Manufacturing, often referred to as the Industrial Internet of Things (IIoT), represents a paradigm shift in the manufacturing sector. It involves the integration o...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "internet-of-things-iot-for-manufacturing.md"
+    },
+    {
+      "slug": "inventory-management",
+      "title": "Inventory Management",
+      "description": "Inventory management is the systematic process of ordering, storing, using, and selling a company's inventory, which includes everything from raw materials to finished products. Effective inventory...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "inventory-management.md"
+    },
+    {
+      "slug": "investment-daos",
+      "title": "Investment DAOs",
+      "description": "An Investment Decentralized Autonomous Organization (DAO) represents a paradigm shift in the landscape of investment vehicles, leveraging blockchain technology to create member-owned and controlled...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "investment-daos.md"
+    },
+    {
+      "slug": "investment-frameworks",
+      "title": "Investment Frameworks",
+      "description": "An **Investment Framework** is a structured, systematic approach used by individuals and organizations to evaluate, compare, and select investment opportunities. It provides a consistent and discip...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "investment-frameworks.md"
+    },
+    {
+      "slug": "ipc-standards-for-pcb-design-ipc-2221",
+      "title": "IPC Standards for PCB Design (IPC-2221)",
+      "description": "The IPC-2221 standard, a cornerstone of modern electronics design and manufacturing, provides a comprehensive set of generic guidelines for the design of printed circuit boards (PCBs). Issued by th...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "ipc-standards-for-pcb-design-ipc-2221.md"
+    },
+    {
+      "slug": "iso-13485-medical-device-qms",
+      "title": "ISO 13485 Medical Device QMS",
+      "description": "ISO 13485, *Medical devices \u2013 Quality management systems \u2013 Requirements for regulatory purposes*, is an internationally recognized standard that defines the requirements for a quality management sy...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "iso-13485-medical-device-qms.md"
+    },
+    {
+      "slug": "ista-testing-procedures",
+      "title": "ISTA Testing Procedures",
+      "description": "The International Safe Transit Association (ISTA) is a global, member-based, non-profit organization focused on the specific concerns of transport packaging. ISTA's mission is to empower organizati...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "ista-testing-procedures.md"
+    },
+    {
+      "slug": "iterative-development",
+      "title": "Iterative Development",
+      "description": "Iterative development is a project management and software development methodology that breaks down large, complex projects into smaller, more manageable parts. Instead of attempting to build a com...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "iterative-development.md"
+    },
+    {
+      "slug": "japanese-management-wa-nemawashi",
+      "title": "Japanese Management (Wa, Nemawashi)",
+      "description": "Japanese management is known for its unique approach to organizational efficiency and long-term success, centered on two key concepts: **Wa (\u548c)** and **Nemawashi (\u6839\u56de\u3057)**. Wa, or \"harmony,\" prioriti...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "japanese-management-wa-nemawashi.md"
+    },
+    {
+      "slug": "jidoka-automation-with-human-touch",
+      "title": "Jidoka (Automation with Human Touch)",
+      "description": "Jidoka, also known as \"autonomation\" or automation with a human touch, is a fundamental principle of the Toyota Production System (TPS) and a cornerstone of lean manufacturing. It empowers machines...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "jidoka-automation-with-human-touch.md"
+    },
+    {
+      "slug": "jobs-to-be-done-jtbd",
+      "title": "Jobs-to-be-Done (JTBD)",
+      "description": "Jobs-to-be-Done (JTBD) is a framework that shifts the focus from the product or service itself to the customer's underlying goal or \"job.\" It is a lens through which to understand why customers mak...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "jobs-to-be-done-jtbd.md"
+    },
+    {
+      "slug": "joint-venture-model",
+      "title": "Joint Venture Model",
+      "description": "A **Joint Venture (JV)** is a strategic alliance where two or more independent organizations create a new, legally separate entity to pursue a specific business opportunity or project. The parent o...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "joint-venture-model.md"
+    },
+    {
+      "slug": "just-in-time-inventory",
+      "title": "Just-in-Time Inventory",
+      "description": "Just-in-Time (JIT) inventory is a management methodology that aims to increase efficiency and reduce waste by receiving goods only as they are needed in the production process. This approach, which...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "just-in-time-inventory.md"
+    },
+    {
+      "slug": "just-in-time-jit-manufacturing",
+      "title": "Just-in-Time (JIT) Manufacturing",
+      "description": "Just-in-Time (JIT) manufacturing is a production strategy that aligns raw-material orders from suppliers directly with production schedules. The core principle of JIT is to produce and deliver only...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "just-in-time-jit-manufacturing.md"
+    },
+    {
+      "slug": "just-in-time-jit-production-system",
+      "title": "Just-In-Time (JIT) Production System",
+      "description": "Just-in-Time (JIT) is a production strategy focused on aligning raw-material orders from suppliers directly with production schedules. The goal is to have materials arrive for manufacturing precise...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "just-in-time-jit-production-system.md"
+    },
+    {
+      "slug": "kaizen-continuous-improvement",
+      "title": "Kaizen (Continuous Improvement)",
+      "description": "Kaizen, a Japanese term meaning \"change for the better\" or \"continuous improvement,\" is a management philosophy and a systematic approach that aims to achieve continuous, incremental improvements i...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "kaizen-continuous-improvement.md"
+    },
+    {
+      "slug": "kaizen-documented",
+      "title": "Kaizen",
+      "description": "Kaizen, a Japanese term meaning \"continuous improvement,\" is a philosophy and methodology that focuses on making small, incremental changes in processes and systems to achieve significant long-term...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "kaizen-documented.md"
+    },
+    {
+      "slug": "kanban-original-toyota-system",
+      "title": "Kanban (Original) - Toyota System",
+      "description": "Kanban, a Japanese term meaning \"signboard\" or \"visual card,\" is a revolutionary scheduling system developed as a cornerstone of the Toyota Production System (TPS) for lean manufacturing, also know...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "kanban-original-toyota-system.md"
+    },
+    {
+      "slug": "kanban-production",
+      "title": "Kanban (Production)",
+      "description": "Kanban, a term of Japanese origin meaning \u201csignboard\u201d or \u201cbillboard,\u201d is a visual scheduling system designed for lean manufacturing environments [1]. It stands as a cornerstone of the Toyota Produc...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "kanban-production.md"
+    },
+    {
+      "slug": "kanban",
+      "title": "Kanban",
+      "description": "Kanban is a visual management method for directing and improving work processes. Its name, Japanese for \u201csignboard\u201d or \u201cbillboard,\u201d points to its core: making work visible. By using Kanban boards, ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "kanban.md"
+    },
+    {
+      "slug": "kano-model",
+      "title": "Kano Model",
+      "description": "The Kano Model is a theory on product development and customer satisfaction developed by Professor Noriaki Kano in the 1980s. It provides a framework for prioritizing features based on their abilit...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "kano-model.md"
+    },
+    {
+      "slug": "keynesian-economics",
+      "title": "Keynesian Economics",
+      "description": "Keynesian economics is a macroeconomic theory of total spending in the economy and its effects on output, employment, and inflation. It was developed by the British economist John Maynard Keynes du...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "keynesian-economics.md"
+    },
+    {
+      "slug": "kinematics-dynamics-analysis",
+      "title": "Kinematics & Dynamics Analysis",
+      "description": "Kinematics & Dynamics Analysis, in an organizational context, is a powerful framework for understanding and improving how an organization functions. It borrows concepts from classical mechanics to ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "kinematics-dynamics-analysis.md"
+    },
+    {
+      "slug": "knowledge-management-nonaka-takeuchi",
+      "title": "Knowledge Management - Nonaka & Takeuchi",
+      "description": "The Nonaka and Takeuchi model of knowledge management, also known as the SECI model, is a seminal framework for understanding and managing knowledge creation within organizations. Developed by Ikuj...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "knowledge-management-nonaka-takeuchi.md"
+    },
+    {
+      "slug": "knowledge-management-systems",
+      "title": "Knowledge Management Systems",
+      "description": "A Knowledge Management System (KMS) is a comprehensive, technology-based system designed to capture, store, share, and manage an organization's collective knowledge and information. It serves as a ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "knowledge-management-systems.md"
+    },
+    {
+      "slug": "korean-chaebol-system",
+      "title": "Korean Chaebol System",
+      "description": "The Korean Chaebol System is a unique form of business conglomerate that has dominated the South Korean economy since the mid-20th century. A chaebol, which translates to \"wealthy family\" or \"finan...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "korean-chaebol-system.md"
+    },
+    {
+      "slug": "land-trusts-documented",
+      "title": "Land Trusts",
+      "description": "A land trust is a non-profit, voluntary organization that works with landowners to protect land, most often by holding and managing land and conservation easements. The modern land trust movement i...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "land-trusts-documented.md"
+    },
+    {
+      "slug": "large-scale-scrum-less",
+      "title": "Large-Scale Scrum (LeSS)",
+      "description": "Large-Scale Scrum (LeSS) is a framework for applying Scrum to multiple teams who work together on a single, complete product. It is not a separate, \u201cnew and improved\u201d Scrum, but rather a way of sca...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "large-scale-scrum-less.md"
+    },
+    {
+      "slug": "lead-user-innovation",
+      "title": "Lead User Innovation",
+      "description": "Lead User Innovation is a groundbreaking approach to innovation that shifts the focus from the manufacturer to the user. It is a method of gathering innovation from a special class of users who are...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "lead-user-innovation.md"
+    },
+    {
+      "slug": "leader-member-exchange-lmx",
+      "title": "Leader-Member Exchange (LMX)",
+      "description": "The Leader-Member Exchange (LMX) theory is a relationship-based approach to leadership that focuses on the dyadic, or two-way, relationship between leaders and their individual followers [1]. Unlik...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "leader-member-exchange-lmx.md"
+    },
+    {
+      "slug": "lean-accounting-value-stream-costing",
+      "title": "Lean Accounting - Value Stream Costing",
+      "description": "Lean Accounting is a management accounting system that applies lean principles to financial reporting and control processes. It moves away from traditional cost accounting methods, which are often ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "lean-accounting-value-stream-costing.md"
+    },
+    {
+      "slug": "lean-accounting",
+      "title": "Lean Accounting",
+      "description": "Lean accounting is a management accounting system that aligns accounting practices with the principles of lean manufacturing and lean thinking. It represents a significant departure from traditiona...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "lean-accounting.md"
+    },
+    {
+      "slug": "lean-canvas-ash-mauryas-adaptation",
+      "title": "Lean Canvas - Ash Maurya's Adaptation",
+      "description": "The Lean Canvas, created by Ash Maurya in 2010, is a one-page business plan template designed to help entrepreneurs and startups deconstruct their ideas into key assumptions. It is an adaptation of...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "lean-canvas-ash-mauryas-adaptation.md"
+    },
+    {
+      "slug": "lean-canvas-maurya",
+      "title": "Lean Canvas (Maurya)",
+      "description": "The Lean Canvas, created by Ash Maurya, is a one-page business model template for entrepreneurs and startups. It offers a concise framework to deconstruct a business idea into its core assumptions....",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "lean-canvas-maurya.md"
+    },
+    {
+      "slug": "lean-construction",
+      "title": "Lean Construction",
+      "description": "Lean Construction adapts lean manufacturing principles from Toyota to the architecture, engineering, and construction (AEC) industry. It's a collaborative, relationship-focused production managemen...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "lean-construction.md"
+    },
+    {
+      "slug": "lean-manufacturing",
+      "title": "Lean Manufacturing",
+      "description": "Lean Manufacturing is a production method aimed at reducing waste and maximizing productivity by creating more value for customers with fewer resources. The core principle of lean is to eliminate a...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "lean-manufacturing.md"
+    },
+    {
+      "slug": "lean-six-sigma-combined-approach",
+      "title": "Lean Six Sigma Combined Approach",
+      "description": "id: pat_01kg5023zcf99tjg7qgdbhqfkm page_url: https://commons-os.github.io/patterns/lean-six-sigma-combined-approach/ github_url: https://github.com/commons-os/patterns/blob/main/_patterns/lean-six-...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "lean-six-sigma-combined-approach.md"
+    },
+    {
+      "slug": "lean-software-development",
+      "title": "Lean Software Development",
+      "description": "Lean Software Development (LSD) is a methodology that applies the principles of lean manufacturing, originally developed by Toyota, to the domain of software development. It is an agile framework t...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "lean-software-development.md"
+    },
+    {
+      "slug": "lean-startup-ries",
+      "title": "Lean Startup (Ries)",
+      "description": "The Lean Startup, a methodology developed by Eric Ries, provides a scientific approach to creating and managing startups and launching products [1]. Its core purpose is to shorten product developme...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "lean-startup-ries.md"
+    },
+    {
+      "slug": "learning-commons",
+      "title": "Learning Commons",
+      "description": "A Learning Commons is a dynamic, technology-rich, and flexible environment designed to support collaborative study, information sharing, and knowledge creation. It represents a significant evolutio...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "learning-commons.md"
+    },
+    {
+      "slug": "learning-organization-senge-if-distinct-from-organizational-learning",
+      "title": "Learning Organization (Senge)",
+      "description": "A Learning Organization, as conceptualized by Peter Senge in his seminal work \"The Fifth Discipline,\" is an organization where people continually expand their capacity to create the results they tr...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "learning-organization-senge-if-distinct-from-organizational-learning.md"
+    },
+    {
+      "slug": "leasing-model",
+      "title": "Leasing Model",
+      "description": "The Leasing Model is a business arrangement where a company acquires an asset and then rents it to a customer for a periodic fee. This model allows businesses and individuals to use assets without ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "leasing-model.md"
+    },
+    {
+      "slug": "licensing-model-ip-monetization",
+      "title": "Licensing Model - IP Monetization",
+      "description": "The Licensing Model for IP Monetization is a strategic practice where an owner of intellectual property (IP) grants permission to another party to use, manufacture, or sell their creations in excha...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "licensing-model-ip-monetization.md"
+    },
+    {
+      "slug": "life-cycle-costing-total-cost-ownership",
+      "title": "Life Cycle Costing - Total Cost Ownership",
+      "description": "Life Cycle Costing (LCC), or Total Cost of Ownership (TCO), is a financial and management accounting methodology for assessing the total cost of an asset, product, or service over its entire lifesp...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "life-cycle-costing-total-cost-ownership.md"
+    },
+    {
+      "slug": "lights-out-manufacturing",
+      "title": "Lights-Out Manufacturing",
+      "description": "Lights-out manufacturing, also known as a \"dark factory,\" represents a paradigm of industrial production characterized by full automation, where manufacturing processes are carried out with minimal...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "lights-out-manufacturing.md"
+    },
+    {
+      "slug": "living-building-challenge",
+      "title": "Living Building Challenge",
+      "description": "The Living Building Challenge (LBC) is a holistic green building certification program and sustainable design framework that aims to create buildings that are regenerative and self-sufficient. Deve...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "living-building-challenge.md"
+    },
+    {
+      "slug": "local-manufacturing",
+      "title": "Local Manufacturing",
+      "description": "Local manufacturing is the practice of producing goods within a community for the benefit of that same community. It represents a shift from the dominant model of globalized mass production, where ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "local-manufacturing.md"
+    },
+    {
+      "slug": "local-material-sourcing",
+      "title": "Local Material Sourcing",
+      "description": "Local Material Sourcing is an organizational pattern that prioritizes the procurement of raw materials, components, and services from suppliers located in close geographical proximity to the point ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "local-material-sourcing.md"
+    },
+    {
+      "slug": "maasai-east-africa",
+      "title": "Maasai (East Africa)",
+      "description": "The Maasai people of East Africa represent a unique and enduring model of social organization, deeply rooted in pastoral traditions and a sophisticated age-set system. As a semi-nomadic people, the...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "maasai-east-africa.md"
+    },
+    {
+      "slug": "machine-learning-for-design",
+      "title": "Machine Learning for Design",
+      "description": "Machine Learning for Design (ML4D) represents a paradigm shift in the creative and engineering disciplines, leveraging computational intelligence to augment and accelerate the design process. It in...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "machine-learning-for-design.md"
+    },
+    {
+      "slug": "machine-vision-systems",
+      "title": "Machine Vision Systems",
+      "description": "Machine vision systems are a combination of hardware and software that provide operational guidance to devices in the execution of their functions based on the capture and processing of images. The...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "machine-vision-systems.md"
+    },
+    {
+      "slug": "maintainability-engineering",
+      "title": "Maintainability Engineering",
+      "description": "Maintainability Engineering is a systematic, interdisciplinary approach to designing and developing systems, products, and services that are easy to maintain throughout their lifecycle. The primary...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "maintainability-engineering.md"
+    },
+    {
+      "slug": "maker-commons",
+      "title": "Maker Commons",
+      "description": "A Maker Commons is a shared, collaborative environment where individuals can access tools, resources, and knowledge to create, invent, and learn. It is a physical or virtual space that fosters a cu...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "maker-commons.md"
+    },
+    {
+      "slug": "maker-movement-principles",
+      "title": "Maker Movement Principles",
+      "description": "The Maker Movement is a global cultural phenomenon that celebrates hands-on creation, invention, and learning. It represents a convergence of DIY (Do-It-Yourself) traditions, hacker culture, and th...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "maker-movement-principles.md"
+    },
+    {
+      "slug": "management-by-objectives-drucker",
+      "title": "Management by Objectives (Drucker)",
+      "description": "Management by Objectives (MBO), a term first coined by the renowned management theorist Peter Drucker in his 1954 seminal work, *The Practice of Management*, is a strategic management model that ai...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "management-by-objectives-drucker.md"
+    },
+    {
+      "slug": "manufacturing-model",
+      "title": "Manufacturing Model",
+      "description": "The Manufacturing Model is a strategic framework that defines how a company will produce and deliver its products to customers. It encompasses a set of principles and practices that govern the enti...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "manufacturing-model.md"
+    },
+    {
+      "slug": "maori-design-principles",
+      "title": "Maori Design Principles",
+      "description": "Maori Design Principles, encapsulated in the Te Aranga Principles, represent a groundbreaking approach to design and development in Aotearoa New Zealand. These principles are not merely a set of ae...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "maori-design-principles.md"
+    },
+    {
+      "slug": "maori-documented",
+      "title": "Maori",
+      "description": "The Maori organizational pattern is a framework rooted in the indigenous culture of New Zealand. It emphasizes a holistic worldview, interconnectedness, and a deep sense of community. This pattern ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "maori-documented.md"
+    },
+    {
+      "slug": "marketplace-model-two-sided-platforms",
+      "title": "Marketplace Model - Two-Sided Platforms",
+      "description": "The Marketplace Model, also known as a Two-Sided Platform or Multi-Sided Platform, is a business model that creates value by facilitating direct interactions between two or more distinct but interd...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "marketplace-model-two-sided-platforms.md"
+    },
+    {
+      "slug": "marxian-economics",
+      "title": "Marxian Economics",
+      "description": "Marxian economics, a school of economic thought originating from the works of 19th-century philosopher Karl Marx, offers a critical analysis of capitalism. At its core, Marxian economics asserts th...",
+      "score": 1,
+      "domain": "business",
+      "universality": null,
+      "file": "marxian-economics.md"
+    },
+    {
+      "slug": "material-requirements-planning-mrp",
+      "title": "Material Requirements Planning (MRP)",
+      "description": "Material Requirements Planning (MRP) is a production planning, scheduling, and inventory control system used to manage manufacturing processes. It is a software-based system that helps businesses m...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "material-requirements-planning-mrp.md"
+    },
+    {
+      "slug": "materials-selection-process-ashby-charts",
+      "title": "Materials Selection Process (Ashby Charts)",
+      "description": "The Materials Selection Process, particularly when enhanced by the use of Ashby charts, represents a systematic and visually intuitive methodology for optimizing the choice of materials in engineer...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "materials-selection-process-ashby-charts.md"
+    },
+    {
+      "slug": "matrix-governance",
+      "title": "Matrix Governance",
+      "description": "Matrix governance is an organizational structure that establishes a grid-like pattern of authority, where individuals have dual or multiple reporting relationships. This approach contrasts with the...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "matrix-governance.md"
+    },
+    {
+      "slug": "mbse-model-based-systems-engineering",
+      "title": "MBSE (Model-Based Systems Engineering)",
+      "description": "Model-Based Systems Engineering (MBSE) is a formalized methodology that uses digital models as the primary means of communication and information exchange, rather than relying on traditional docume...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "mbse-model-based-systems-engineering.md"
+    },
+    {
+      "slug": "mckinsey-7s-organizational-alignment",
+      "title": "McKinsey 7S - Organizational Alignment",
+      "description": "The McKinsey 7S Framework is a renowned management model that emerged from the consulting firm McKinsey & Company in the late 1970s, developed by consultants Tom Peters and Robert Waterman, with co...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "mckinsey-7s-organizational-alignment.md"
+    },
+    {
+      "slug": "membership-model",
+      "title": "Membership Model",
+      "description": "The **Membership Model** is an organizational strategy centered on creating a community of members who pay recurring fees for ongoing access to a set of benefits and services. This model shifts the...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "membership-model.md"
+    },
+    {
+      "slug": "memphis-design-movement",
+      "title": "Memphis Design Movement",
+      "description": "The Memphis Design Movement, also known as the Memphis Group or Memphis Milano, was a highly influential and revolutionary Italian design and architecture collective that emerged in the early 1980s...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "memphis-design-movement.md"
+    },
+    {
+      "slug": "meritocracy-models",
+      "title": "Meritocracy Models",
+      "description": "Meritocracy is a system where advancement is based on individual ability and achievement. Coined by Michael Young in 1958 as a dystopian critique, the term has been embraced by organizations seekin...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "meritocracy-models.md"
+    },
+    {
+      "slug": "metamodernism-hanzi-freinacht",
+      "title": "Metamodernism (Hanzi Freinacht)",
+      "description": "Metamodernism, as articulated by the pseudonymous political philosopher Hanzi Freinacht, represents a paradigm shift in thinking, a developmental stage, and a political ideology. It seeks to transc...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "metamodernism-hanzi-freinacht.md"
+    },
+    {
+      "slug": "metaverse-product-design",
+      "title": "Metaverse Product Design",
+      "description": "The design of products for the metaverse is guided by a set of core principles that address the unique challenges and opportunities of this immersive digital frontier. These principles, adapted fro...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "metaverse-product-design.md"
+    },
+    {
+      "slug": "microservices-architecture-distributed-systems",
+      "title": "Microservices Architecture",
+      "description": "Microservices architecture is an architectural style that structures an application as a collection of small, autonomous services, modeled around a business domain. Each service is self-contained, ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "microservices-architecture-distributed-systems.md"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "total_patterns": 922,
+  "total_pages": 10,
+  "patterns_per_page": 100,
+  "score_distribution": {
+    "4": 449,
+    "3": 297,
+    "5": 57,
+    "2": 53,
+    "1": 9
+  },
+  "pages": [
+    "page_1.json",
+    "page_2.json",
+    "page_3.json",
+    "page_4.json",
+    "page_5.json",
+    "page_6.json",
+    "page_7.json",
+    "page_8.json",
+    "page_9.json",
+    "page_10.json"
+  ]
+}

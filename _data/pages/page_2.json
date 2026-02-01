@@ -1,0 +1,906 @@
+{
+  "page": 2,
+  "total_pages": 10,
+  "patterns": [
+    {
+      "slug": "5s-methodology-workplace-organization",
+      "title": "5S Methodology - Workplace Organization",
+      "description": "The 5S methodology is a systematic approach to workplace organization and cleaning that originated in Japan. It is a foundational element of Lean manufacturing and the Toyota Production System (TPS...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "5s-methodology-workplace-organization.md"
+    },
+    {
+      "slug": "corporate-social-responsibility-csr",
+      "title": "Corporate Social Responsibility (CSR)",
+      "description": "Corporate Social Responsibility (CSR) is a self-regulating business model where companies hold themselves accountable to stakeholders and the public [1]. Also known as corporate citizenship, CSR in...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "6-corporate-social-responsibility-csr.md"
+    },
+    {
+      "slug": "steward-ownership-governance-purpose-foundation",
+      "title": "Steward Ownership Governance Purpose Foundation",
+      "description": "id: pat_01kg5023wdeh98phj0yfecnt58 page_url: https://commons-os.github.io/patterns/domain/6-steward-ownership-governance-purpose-foundation/ github_url: https://github.com/commons-os/patterns/blob/...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "6-steward-ownership-governance-purpose-foundation.md"
+    },
+    {
+      "slug": "social-enterprise-models",
+      "title": "Social Enterprise Models",
+      "description": "A social enterprise is a business that prioritizes specific public interest objectives over shareholder profits. These organizations apply commercial strategies to maximize improvements in financia...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "60-social-enterprise-models.md"
+    },
+    {
+      "slug": "doughnut-economics-kate-raworth",
+      "title": "Doughnut Economics: Kate Raworth",
+      "description": "Doughnut Economics is a groundbreaking economic model and framework developed by British economist Kate Raworth. It redefines the goal of economics, moving away from the endless pursuit of GDP grow...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "61-doughnut-economics-kate-raworth.md"
+    },
+    {
+      "slug": "integrated-care",
+      "title": "Integrated Care",
+      "description": "Integrated care is a healthcare approach centered on the systematic coordination of medical and behavioral health services, alongside other services that support a person's overall well-being. Ofte...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "61-integrated-care.md"
+    },
+    {
+      "slug": "patient-centered-care",
+      "title": "Patient-Centered Care",
+      "description": "Patient-Centered Care (PCC) is a model of healthcare that places the patient at the forefront of all clinical decisions and quality measurements. It is a partnership among practitioners, patients, ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "62-patient-centered-care.md"
+    },
+    {
+      "slug": "wellbeing-economy",
+      "title": "Wellbeing Economy",
+      "description": "A Wellbeing Economy is a model where the economy's primary goal is to serve the wellbeing of people and the planet, rather than focusing on perpetual economic growth as the main indicator of succes...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "62-wellbeing-economy.md"
+    },
+    {
+      "slug": "steady-state-economics-herman-daly",
+      "title": "Steady-State Economics",
+      "description": "A steady-state economy is an economic system characterized by a constant stock of physical wealth (capital) and a stable population size. Unlike growth-oriented economies, a steady-state economy do...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "63-steady-state-economics-herman-daly.md"
+    },
+    {
+      "slug": "value-based-care",
+      "title": "Value-Based Care",
+      "description": "Value-Based Care (VBC) is a healthcare delivery model where providers, including hospitals and physicians, are compensated based on patient health outcomes rather than the volume of services delive...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "63-value-based-care.md"
+    },
+    {
+      "slug": "mutual-aid-networks",
+      "title": "Mutual Aid Networks",
+      "description": "Mutual Aid Networks are voluntary, collaborative frameworks where participants exchange resources and services for their common benefit. More than simple reciprocity, these networks represent a for...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "64-mutual-aid-networks.md"
+    },
+    {
+      "slug": "population-health-management",
+      "title": "Population Health Management",
+      "description": "Population Health Management (PHM) is a comprehensive and data-driven framework designed to improve the health outcomes of a defined group of individuals. It represents a fundamental shift in healt...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "64-population-health-management.md"
+    },
+    {
+      "slug": "community-wealth-building-preston-model",
+      "title": "Community Wealth Building - Preston Model",
+      "description": "Community Wealth Building (CWB) is a systems-based approach to local economic development focused on creating an inclusive, resilient, and equitable economy by reorganizing and controlling local as...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "65-community-wealth-building-preston-model.md"
+    },
+    {
+      "slug": "holistic-health",
+      "title": "Holistic Health",
+      "description": "Holistic Health in an organizational context is a comprehensive approach to employee well-being that extends beyond the traditional focus on physical health to encompass mental, social, and spiritu...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "65-holistic-health.md"
+    },
+    {
+      "slug": "foundational-economy",
+      "title": "Foundational Economy",
+      "description": "The Foundational Economy is a socio-economic concept that emphasizes the importance of the basic goods and services essential for everyday life. It provides a framework for understanding and improv...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "66-foundational-economy.md"
+    },
+    {
+      "slug": "preventive-health",
+      "title": "Preventive Health",
+      "description": "Preventive Health, also known as corporate or workplace wellness, is an organizational pattern focused on proactively supporting employee well-being through structured policies, programs, and envir...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "66-preventive-health.md"
+    },
+    {
+      "slug": "one-health-approach",
+      "title": "One Health Approach",
+      "description": "The One Health approach is an integrated, unifying framework for balancing and optimizing the health of people, animals, and ecosystems. It recognizes the inextricable link between human health, an...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "67-one-health-approach.md"
+    },
+    {
+      "slug": "solidarity-economy",
+      "title": "Solidarity Economy",
+      "description": "The Solidarity Economy, or Social and Solidarity Economy (SSE), is a transformative economic framework prioritizing people and the planet over profit. It is a global movement of movements, not a ri...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "67-solidarity-economy.md"
+    },
+    {
+      "slug": "cooperative-business-models-detailed",
+      "title": "Cooperative Business Models - Detailed",
+      "description": "A cooperative is an autonomous association of persons united voluntarily to meet their common economic, social, and cultural needs and aspirations through a jointly-owned and democratically-control...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "68-cooperative-business-models-detailed.md"
+    },
+    {
+      "slug": "impact-business-models",
+      "title": "Impact Business Models",
+      "description": "An Impact Business Model (IBM) is a strategic framework where a company's core business activities are intentionally designed to generate positive social or environmental outcomes alongside financi...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "69-impact-business-models.md"
+    },
+    {
+      "slug": "montessori-method",
+      "title": "Montessori Method",
+      "description": "The Montessori Method is a child-centered educational approach developed by Dr. Maria Montessori in the early 20th century. It is founded on the belief that children are naturally eager to learn an...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "69-montessori-method.md"
+    },
+    {
+      "slug": "multi-stakeholder-governance",
+      "title": "Multi-Stakeholder Governance",
+      "description": "id: pat_01kg5023wjfg8tqb1zkapfve8q page_url: https://commons-os.github.io/patterns/domain/7-multi-stakeholder-governance/ github_url: https://github.com/commons-os/patterns/blob/main/_patterns/7-mu...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "7-multi-stakeholder-governance.md"
+    },
+    {
+      "slug": "regenerative-business-models",
+      "title": "Regenerative Business Models",
+      "description": "Regenerative business models represent a fundamental evolution in organizational strategy, moving beyond the linear, extractive paradigm of \u201ctake-make-dispose\u201d toward a circular, restorative, and r...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "70-regenerative-business-models.md"
+    },
+    {
+      "slug": "waldorf-education",
+      "title": "Waldorf Education",
+      "description": "Waldorf education, also known as Steiner education, is a holistic educational philosophy based on the teachings of Austrian philosopher Rudolf Steiner. It is a comprehensive approach to education t...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "70-waldorf-education.md"
+    },
+    {
+      "slug": "conscious-capitalism-mackey-sisodia",
+      "title": "Conscious Capitalism",
+      "description": "Conscious Capitalism is a business philosophy that advocates for a more ethical and socially responsible approach to capitalism. It posits that companies should operate with a higher purpose beyond...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "71-conscious-capitalism-mackey-sisodia.md"
+    },
+    {
+      "slug": "project-based-learning",
+      "title": "Project-Based Learning",
+      "description": "Project-Based Learning (PBL) is a teaching method in which students learn by actively engaging in real-world and personally meaningful projects. Students work on a project over an extended period o...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "72-project-based-learning.md"
+    },
+    {
+      "slug": "servant-leadership-greenleaf",
+      "title": "Servant Leadership",
+      "description": "Servant leadership is a leadership philosophy in which the main goal of the leader is to serve. This is different from traditional leadership where the leader's main focus is the thriving of their ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "72-servant-leadership-greenleaf.md"
+    },
+    {
+      "slug": "experiential-learning",
+      "title": "Experiential Learning",
+      "description": "Experiential learning is a process of learning through experience, or more specifically, \"learning through reflection on doing.\" It is a hands-on approach that moves away from traditional, passive ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "73-experiential-learning.md"
+    },
+    {
+      "slug": "transformational-leadership-burns-bass",
+      "title": "Transformational Leadership - Burns & Bass",
+      "description": "Transformational leadership is a leadership theory where leaders and their followers raise one another to higher levels of morality and motivation. It is a process in which leaders and followers en...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "73-transformational-leadership-burns-bass.md"
+    },
+    {
+      "slug": "authentic-leadership-george",
+      "title": "Authentic Leadership: George",
+      "description": "Authentic Leadership, a concept popularized by former Medtronic CEO Bill George in his 2003 book, \"Authentic Leadership: Rediscovering the Secrets to Creating Lasting Value,\" is a leadership style ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "74-authentic-leadership-george.md"
+    },
+    {
+      "slug": "competency-based-education",
+      "title": "Competency-Based Education",
+      "description": "Competency-Based Education (CBE) is an educational framework that prioritizes the demonstration of learning and skills over the amount of time a student spends in a classroom [1]. In this model, le...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "74-competency-based-education.md"
+    },
+    {
+      "slug": "adaptive-leadership-heifetz",
+      "title": "Adaptive Leadership",
+      "description": "Adaptive Leadership is a practical framework for leading in a world of constant change. It was developed by Ronald Heifetz and his colleagues at Harvard University in the late 20th century. The mod...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "75-adaptive-leadership-heifetz.md"
+    },
+    {
+      "slug": "distributed-leadership-spillane",
+      "title": "Distributed Leadership - Spillane",
+      "description": "Distributed Leadership is a conceptual and analytical approach to understanding how the work of leadership takes place among the people and in the context of a complex organization. Rather than foc...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "76-distributed-leadership-spillane.md"
+    },
+    {
+      "slug": "renewable-energy-systems",
+      "title": "Renewable Energy Systems",
+      "description": "Renewable energy systems are technologies and infrastructure that capture, convert, store, and distribute energy from naturally replenishing sources. These sources, such as sunlight, wind, rain, ti...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "77-renewable-energy-systems.md"
+    },
+    {
+      "slug": "action-learning-revans",
+      "title": "Action Learning - Revans",
+      "description": "Action Learning is a process that involves a small group of people working on real problems, taking action, and learning as individuals, as a team, and as an organization. It is a method of learnin...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "78-action-learning-revans.md"
+    },
+    {
+      "slug": "distributed-energy",
+      "title": "Distributed Energy",
+      "description": "id: pat_01kg5023wmf90bgv5h64xt0td9 page_url: https://commons-os.github.io/patterns/domain/78-distributed-energy/ github_url: https://github.com/commons-os/patterns/blob/main/_patterns/78-distribute...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "78-distributed-energy.md"
+    },
+    {
+      "slug": "communities-of-practice-wenger",
+      "title": "Communities of Practice - Wenger",
+      "description": "A Community of Practice (CoP) is a group of people who share a concern or a passion for something they do and learn how to do it better as they interact regularly [1]. This concept, first introduce...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "79-communities-of-practice-wenger.md"
+    },
+    {
+      "slug": "microgrids",
+      "title": "Microgrids",
+      "description": "The Microgrid pattern is an organizational model that structures a business or network as a decentralized, resilient, and largely self-sufficient system. It draws a direct analogy from electrical p...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "79-microgrids.md"
+    },
+    {
+      "slug": "cross-dimensional-patterns-identified",
+      "title": "Cross-Dimensional Meta-Patterns",
+      "description": "Cross-Dimensional Meta-Patterns represent a sophisticated approach to organizational design that addresses the increasing complexity of modern business environments. A meta-pattern, in this context...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "8-cross-dimensional-patterns-identified.md"
+    },
+    {
+      "slug": "un-sustainable-development-goals-sdgs",
+      "title": "UN Sustainable Development Goals (SDGs)",
+      "description": "The UN Sustainable Development Goals (SDGs), also known as the Global Goals, are a set of 17 comprehensive, integrated, and indivisible goals established by the United Nations in 2015. They serve a...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "8-un-sustainable-development-goals-sdgs.md"
+    },
+    {
+      "slug": "workplace-democracy",
+      "title": "Workplace Democracy",
+      "description": "Workplace democracy is the application of democratic principles and practices to the workplace, empowering employees to have a significant voice in the decisions that affect their work and the orga...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "8-workplace-democracy.md"
+    },
+    {
+      "slug": "community-energy-cooperatives",
+      "title": "Community Energy Cooperatives",
+      "description": "Community Energy Cooperatives are member-owned and democratically-controlled enterprises that develop, own, and operate renewable energy projects for the benefit of their community. These entities ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "80-community-energy-cooperatives.md"
+    },
+    {
+      "slug": "seci-model-knowledge-creation-nonaka-takeuchi",
+      "title": "SECI Model - Knowledge Creation (Nonaka & Takeuchi)",
+      "description": "The SECI model, by Ikujiro Nonaka and Hirotaka Takeuchi, is a framework for organizational knowledge creation, describing the interplay between tacit and explicit knowledge. SECI is an acronym for ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "80-seci-model-knowledge-creation-nonaka-takeuchi.md"
+    },
+    {
+      "slug": "demand-response",
+      "title": "Demand Response",
+      "description": "Demand Response (DR) is a crucial mechanism in modern energy grid management that incentivizes electricity consumers to voluntarily and temporarily alter their consumption patterns. This involves r...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "81-demand-response.md"
+    },
+    {
+      "slug": "emotional-intelligence-goleman",
+      "title": "Emotional Intelligence - Goleman",
+      "description": "Emotional Intelligence (EI), often referred to as Emotional Quotient (EQ), is the capability of individuals to recognize their own emotions and those of others, discern between different feelings a...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "81-emotional-intelligence-goleman.md"
+    },
+    {
+      "slug": "net-zero-energy",
+      "title": "Net Zero Energy",
+      "description": "A Net Zero Energy (NZE) building is a structure that produces as much energy as it consumes over a year, resulting in a net-zero energy balance. This is achieved through a combination of energy-eff...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "82-net-zero-energy.md"
+    },
+    {
+      "slug": "psychological-safety-edmondson",
+      "title": "Psychological Safety",
+      "description": "Psychological safety is a shared belief held by members of a team that the team is safe for interpersonal risk-taking. It describes an environment where individuals feel comfortable expressing them...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "82-psychological-safety-edmondson.md"
+    },
+    {
+      "slug": "activity-based-costing-abc",
+      "title": "Activity-Based Costing (ABC)",
+      "description": "Activity-Based Costing (ABC) is a costing methodology that identifies activities within an organization and assigns the cost of each activity to all products and services according to the actual co...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "83-activity-based-costing-abc.md"
+    },
+    {
+      "slug": "83_3CEp5lBRfBRIHRVjKBXxBs_1769632212887_na1fn_L2hvbWUvdWJ1bnR1L2Nsb3VkLW1hbnVmYWN0dXJpbmc",
+      "title": "83_3Cep5Lbrfbrihrvjkbxxbs_1769632212887_Na1Fn_L2Hvbwuvdwj1Bnr1L2Nsb3Vklw1Hbnvmywn0Dxjpbmc",
+      "description": "Cloud Manufacturing (CMfg), also known as Manufacturing as a Service (MaaS), represents a paradigm shift in the manufacturing industry, leveraging the power of cloud computing, the Internet of Thin...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "83_3CEp5lBRfBRIHRVjKBXxBs_1769632212887_na1fn_L2hvbWUvdWJ1bnR1L2Nsb3VkLW1hbnVmYWN0dXJpbmc.md"
+    },
+    {
+      "slug": "zero-based-budgeting",
+      "title": "Zero-Based Budgeting",
+      "description": "Zero-Based Budgeting (ZBB) is a budgeting method where all expenses must be justified for each new period. Unlike traditional, incremental budgeting, which often involves making adjustments to the ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "84-zero-based-budgeting.md"
+    },
+    {
+      "slug": "mittelstand-german-sme-model",
+      "title": "Mittelstand - German SME Model",
+      "description": "The Mittelstand represents the highly successful ecosystem of small and medium-sized enterprises (SMEs) that forms the backbone of the German economy. More than just a classification based on size,...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "85-mittelstand-german-sme-model.md"
+    },
+    {
+      "slug": "rolling-forecasts",
+      "title": "Rolling Forecasts",
+      "description": "A rolling forecast is a dynamic financial planning and management tool that continuously updates and extends a company's financial projections over a set future time horizon, typically 12 to 18 mon...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "85-rolling-forecasts.md"
+    },
+    {
+      "slug": "italian-industrial-districts",
+      "title": "Italian Industrial Districts",
+      "description": "Italian Industrial Districts represent a unique and enduring form of industrial organization characterized by a dense network of small and medium-sized enterprises (SMEs) geographically concentrate...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "86-italian-industrial-districts.md"
+    },
+    {
+      "slug": "throughput-accounting-toc",
+      "title": "Throughput Accounting - TOC",
+      "description": "Throughput Accounting (TA) is a simplified, principle-based management accounting methodology developed by Dr. Eliyahu M. Goldratt as a core component of his Theory of Constraints (TOC). It address...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "86-throughput-accounting-toc.md"
+    },
+    {
+      "slug": "dutch-polder-model",
+      "title": "Dutch Polder Model",
+      "description": "id: pat_01kg5023wxeqsb7ey1g2c1rkaj page_url: https://commons-os.github.io/patterns/domain/87-dutch-polder-model/ github_url: https://github.com/commons-os/patterns/blob/main/_patterns/87-dutch-pold...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "87-dutch-polder-model.md"
+    },
+    {
+      "slug": "harambee-kenya",
+      "title": "Harambee - Kenya",
+      "description": "Harambee, a Swahili term meaning \"all pull together,\" is Kenya's national motto and a powerful tradition of community self-help. It represents a collective effort where individuals pool their resou...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "88-harambee-kenya.md"
+    },
+    {
+      "slug": "target-costing",
+      "title": "Target Costing",
+      "description": "Target costing is a proactive cost management methodology where the cost of a product is determined by subtracting a desired profit margin from a competitive market price. It is a market-driven app...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "88-target-costing.md"
+    },
+    {
+      "slug": "multi-capital-accounting-eight-capitals",
+      "title": "Multi-Capital Accounting - Eight Capitals",
+      "description": "Multi-capital accounting is a framework that extends traditional financial accounting to include other forms of capital, providing a more holistic view of an organization's performance and value cr...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "89-multi-capital-accounting-eight-capitals.md"
+    },
+    {
+      "slug": "ujamaa-tanzania",
+      "title": "Ujamaa - Tanzania",
+      "description": "Ujamaa, a Swahili word meaning \"familyhood\" or \"fraternity,\" was a socialist development policy implemented in Tanzania by its first president, Julius Nyerere, following the country's independence ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "89-ujamaa-tanzania.md"
+    },
+    {
+      "slug": "collective-leadership",
+      "title": "Collective Leadership",
+      "description": "Collective Leadership is a leadership model where decision-making, responsibility, and power are distributed among a group of individuals rather than being centralized in a single, hierarchical lea...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "9-collective-leadership.md"
+    },
+    {
+      "slug": "planetary-boundaries-stockholm-resilience",
+      "title": "Planetary Boundaries: Stockholm Resilience",
+      "description": "The Planetary Boundaries framework is a concept that defines a \"safe operating space for humanity\" by identifying and quantifying nine critical Earth system processes that regulate the stability an...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "9-planetary-boundaries-stockholm-resilience.md"
+    },
+    {
+      "slug": "confucian-business-ethics",
+      "title": "Confucian Business Ethics",
+      "description": "Confucian Business Ethics is a system of moral principles and values derived from the teachings of Confucius and his disciples, applied to the context of business and economic activity. This ethica...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "90-confucian-business-ethics.md"
+    },
+    {
+      "slug": "buddhist-economics-schumacher",
+      "title": "Buddhist Economics - Schumacher",
+      "description": "Buddhist Economics, as articulated by E.F. Schumacher in his 1973 book *Small Is Beautiful: A Study of Economics as if People Mattered*, presents a radical departure from mainstream Western economi...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "91-buddhist-economics-schumacher.md"
+    },
+    {
+      "slug": "integrated-reporting-ir-framework",
+      "title": "Integrated Reporting - <IR> Framework",
+      "description": "Integrated Reporting (<IR>) is a principles-based framework for corporate reporting that demonstrates the links between an organization's strategy, governance, and financial performance and the soc...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "91-integrated-reporting-ir-framework.md"
+    },
+    {
+      "slug": "gri-standards-sustainability-reporting",
+      "title": "GRI Standards - Sustainability Reporting",
+      "description": "The Global Reporting Initiative (GRI) Standards represent the most widely adopted global framework for sustainability reporting. Developed and maintained by the Global Reporting Initiative, an inde...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "92-gri-standards-sustainability-reporting.md"
+    },
+    {
+      "slug": "islamic-finance-detailed",
+      "title": "Islamic Finance - Detailed",
+      "description": "Islamic finance is a financial system that operates in accordance with Sharia, the Islamic law. It is founded on the principle that money itself has no intrinsic value and should only be used as a ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "92-islamic-finance-detailed.md"
+    },
+    {
+      "slug": "b-impact-assessment",
+      "title": "B Impact Assessment",
+      "description": "The B Impact Assessment (BIA) is a free, comprehensive, and confidential digital tool designed to help businesses measure, manage, and improve their positive impact on society and the environment [...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "93-b-impact-assessment.md"
+    },
+    {
+      "slug": "stakeholder-councils",
+      "title": "Stakeholder Councils",
+      "description": "A Stakeholder Council is a formal body composed of representatives from an organization's various stakeholder groups. These councils serve as a structured mechanism for dialogue, consultation, and ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "93-stakeholder-councils.md"
+    },
+    {
+      "slug": "common-good-balance-sheet-economy-for-common-good",
+      "title": "Common Good Balance Sheet - Economy for Common Good",
+      "description": "The Common Good Balance Sheet (CGBS) is a tool for organizations to measure and report on their contribution to the common good. It is the core instrument of the Economy for the Common Good (ECG), ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "94-common-good-balance-sheet-economy-for-common-good.md"
+    },
+    {
+      "slug": "network-governance",
+      "title": "Network Governance",
+      "description": "Network governance represents a shift from traditional hierarchical or market-based modes of organization to a more collaborative and decentralized approach. It is characterized by a set of autonom...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "94-network-governance.md"
+    },
+    {
+      "slug": "federated-governance",
+      "title": "Federated Governance",
+      "description": "Federated Governance is an organizational pattern that provides a hybrid approach to decision-making and control, striking a deliberate balance between centralized authority and decentralized auton...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "95-federated-governance.md"
+    },
+    {
+      "slug": "microfinance-models-grameen-brac",
+      "title": "Microfinance Models - Grameen, BRAC",
+      "description": "Microfinance Models, particularly the Grameen and BRAC models, represent a significant innovation in financial services, designed to provide small loans (microcredit) to impoverished individuals wh...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "95-microfinance-models-grameen-brac.md"
+    },
+    {
+      "slug": "credit-union-governance",
+      "title": "Credit Union Governance",
+      "description": "Credit Union Governance is the framework of rules, relationships, systems, and processes by which a credit union is directed and controlled. It encompasses the relationships between the members, th...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "96-credit-union-governance.md"
+    },
+    {
+      "slug": "test-driven-development-tdd",
+      "title": "Test-Driven Development (TDD)",
+      "description": "Test-Driven Development (TDD) is a software development practice that fundamentally inverts the traditional coding process. Instead of writing production code first and then testing it, TDD advocat...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "96-test-driven-development-tdd.md"
+    },
+    {
+      "slug": "continuous-integrationcontinuous-deployment-cicd",
+      "title": "Continuous Integration/Continuous Deployment (CI/CD)",
+      "description": "Continuous Integration/Continuous Deployment (CI/CD) is a cornerstone of modern software development and a fundamental practice within the DevOps and Site Reliability Engineering (SRE) paradigms. I...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "97-continuous-integrationcontinuous-deployment-cicd.md"
+    },
+    {
+      "slug": "reputation-based-governance",
+      "title": "Reputation-Based Governance",
+      "description": "Reputation-Based Governance is a model of organizational governance where influence and decision-making power are allocated based on an individual's reputation, which is earned through their contri...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "98-reputation-based-governance.md"
+    },
+    {
+      "slug": "site-reliability-engineering-sre-google",
+      "title": "Site Reliability Engineering (SRE) - Google",
+      "description": "Site Reliability Engineering (SRE) is a discipline that incorporates aspects of software engineering and applies them to infrastructure and operations problems. The main goals are to create scalabl...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "98-site-reliability-engineering-sre-google.md"
+    },
+    {
+      "slug": "community-currencies-local-exchange",
+      "title": "Community Currencies - Local Exchange",
+      "description": "Community Currencies, often implemented through a Local Exchange Trading System (LETS), represent a form of complementary currency designed to facilitate exchange within a specific community. These...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "99-community-currencies-local-exchange.md"
+    },
+    {
+      "slug": "infrastructure-as-code-iac",
+      "title": "Infrastructure as Code (IaC)",
+      "description": "Infrastructure as Code (IaC) is the practice of managing and provisioning computer data center resources through machine-readable definition files, rather than physical hardware configuration or in...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "99-infrastructure-as-code-iac.md"
+    },
+    {
+      "slug": "a3-thinking-toyota-problem-solving",
+      "title": "A3 Thinking - Toyota Problem Solving",
+      "description": "A3 Thinking is a problem-solving methodology that originated at Toyota. It is a structured approach to problem-solving that uses a single sheet of A3-sized paper to document the problem, analysis, ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "a3-thinking-toyota-problem-solving.md"
+    },
+    {
+      "slug": "a3-thinking-toyota",
+      "title": "A3 Thinking",
+      "description": "A3 thinking is a structured problem-solving and continuous improvement methodology that originated at Toyota. It is named after the A3-sized (11x17 inches or 297x420 mm) paper that is used to docum...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "a3-thinking-toyota.md"
+    },
+    {
+      "slug": "ab-testing",
+      "title": "A/B Testing",
+      "description": "A/B testing, also known as split testing or bucket testing, is a method of comparing two versions of a webpage, app, or other digital asset to determine which one performs better. It is a randomize...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "ab-testing.md"
+    },
+    {
+      "slug": "aboriginal-australian-systems",
+      "title": "Aboriginal Australian Systems",
+      "description": "Aboriginal Australian Systems represent a sophisticated and enduring approach to social, political, and economic organization, deeply rooted in the world's oldest living cultures. These systems are...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "aboriginal-australian-systems.md"
+    },
+    {
+      "slug": "aboriginal-land-management-practices",
+      "title": "Aboriginal Land Management Practices",
+      "description": "Aboriginal Land Management Practices, also known as Indigenous Land Management or Traditional Ecological Knowledge (TEK), represent a holistic and deeply spiritual approach to caring for Country th...",
+      "score": 5,
+      "domain": "business",
+      "universality": null,
+      "file": "aboriginal-land-management-practices.md"
+    },
+    {
+      "slug": "academic-strategy-models",
+      "title": "Academic Strategy Models",
+      "description": "id: pat_01kg5023x6ecsvs4r57cbh62w3 page_url: https://commons-os.github.io/patterns/academic-strategy-models/ github_url: https://github.com/commons-os/patterns/blob/main/_patterns/academic-strategy...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "academic-strategy-models.md"
+    },
+    {
+      "slug": "activity-based-costing-abc-cost-allocation",
+      "title": "Activity-Based Costing (ABC) - Cost Allocation",
+      "description": "Activity-Based Costing (ABC) is a costing methodology that identifies activities in an organization and assigns the cost of each activity to all products and services, based on the actual consumpti...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "activity-based-costing-abc-cost-allocation.md"
+    },
+    {
+      "slug": "adaptive-management-holling",
+      "title": "Adaptive Management (Holling)",
+      "description": "Adaptive Management, a concept pioneered by C.S. Holling in 1978, is a structured, iterative process of robust decision making in the face of uncertainty, with an aim to reducing uncertainty over t...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "adaptive-management-holling.md"
+    },
+    {
+      "slug": "adaptive-software-development",
+      "title": "Adaptive Software Development",
+      "description": "Adaptive Software Development (ASD) is an Agile software development methodology that emphasizes the need for continuous adaptation to the project's environment. Developed by Jim Highsmith and Sam ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "adaptive-software-development.md"
+    },
+    {
+      "slug": "adhocracy-mintzberg",
+      "title": "Adhocracy (Mintzberg)",
+      "description": "Adhocracy, a term popularized by Alvin Toffler and later developed by Henry Mintzberg, describes an organizational structure that is the antithesis of bureaucracy. It is a highly flexible, organic,...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "adhocracy-mintzberg.md"
+    },
+    {
+      "slug": "administrative-theory-fayol",
+      "title": "Administrative Theory (Fayol)",
+      "description": "Administrative Theory, developed by French mining engineer and management theorist Henri Fayol in the early 20th century, is a foundational framework for understanding the functions of management a...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "administrative-theory-fayol.md"
+    },
+    {
+      "slug": "advanced-product-quality-planning-apqp",
+      "title": "Advanced Product Quality Planning (APQP)",
+      "description": "Advanced Product Quality Planning (APQP) is a structured framework of procedures and techniques used to develop products in industry, particularly in the automotive sector. Its primary goal is to e...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "advanced-product-quality-planning-apqp.md"
+    },
+    {
+      "slug": "advertising-model-attention-economy",
+      "title": "Advertising Model - Attention Economy",
+      "description": "The Advertising Model within the context of the Attention Economy is a business strategy where companies provide free content or services to attract a large user base and then generate revenue by s...",
+      "score": 2,
+      "domain": "business",
+      "universality": null,
+      "file": "advertising-model-attention-economy.md"
+    },
+    {
+      "slug": "advisory-boards-governance",
+      "title": "Advisory Boards & Governance",
+      "description": "An Advisory Board is a structured group of external experts who provide non-binding strategic advice to an organization's leadership. Unlike a formal Board of Directors, an advisory board has no go...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "advisory-boards-governance.md"
+    },
+    {
+      "slug": "african-socialism",
+      "title": "African Socialism",
+      "description": "African Socialism is a distinctive political and economic framework that emerged in the mid-20th century as newly independent African nations sought to forge their own paths of development. It repr...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "african-socialism.md"
+    },
+    {
+      "slug": "african-traditional-systems",
+      "title": "African Traditional Systems",
+      "description": "African Traditional Systems of governance represent a diverse set of indigenous political and social structures that have existed on the African continent for centuries, long before the colonial er...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "african-traditional-systems.md"
+    },
+    {
+      "slug": "after-action-reviews",
+      "title": "After Action Reviews",
+      "description": "An After Action Review (AAR) is a structured process for reviewing an event, project, or activity to learn from both successes and failures. Originally developed by the U.S. Army in the 1970s, the ...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "after-action-reviews.md"
+    },
+    {
+      "slug": "agency-model",
+      "title": "Agency Model",
+      "description": "The Agency Model is a business framework centered around a group of specialized experts who provide services to clients to solve specific problems or address particular needs. Unlike product-based ...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "agency-model.md"
+    },
+    {
+      "slug": "aggregator-model",
+      "title": "Aggregator Model",
+      "description": "The Aggregator Model is a business strategy where a company creates a platform that brings together a large number of producers and consumers of a specific service or product. The aggregator acts a...",
+      "score": 3,
+      "domain": "business",
+      "universality": null,
+      "file": "aggregator-model.md"
+    },
+    {
+      "slug": "agile-governance-it-governance-frameworks",
+      "title": "Agile Governance - IT Governance Frameworks",
+      "description": "Agile governance is a framework that applies the principles of agile software development to the practice of governance, particularly within the realm of information technology. It represents a shi...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "agile-governance-it-governance-frameworks.md"
+    },
+    {
+      "slug": "agile-software-development-manifesto-principles",
+      "title": "Agile Software Development - Manifesto Principles",
+      "description": "The Agile Manifesto's twelve principles are a set of guiding precepts that underpin the Agile movement in software development. These principles, which elaborate on the four core values of the mani...",
+      "score": 4,
+      "domain": "business",
+      "universality": null,
+      "file": "agile-software-development-manifesto-principles.md"
+    }
+  ]
+}
