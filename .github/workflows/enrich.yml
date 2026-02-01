@@ -1,0 +1,164 @@
+name: Enrich Entity
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - '_staging/**'
+  workflow_dispatch:
+    inputs:
+      entity_path:
+        description: 'Path to entity file to enrich'
+        required: true
+        type: string
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    name: AI-Powered Entity Enrichment
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install pyyaml openai
+      
+      - name: Get changed files
+        if: github.event_name == 'pull_request'
+        id: changed-files
+        uses: tj-actions/changed-files@v44
+        with:
+          files: |
+            _staging/**/*.md
+      
+      - name: Build embedding index
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python3 scripts/enrich_entity.py --build-embeddings
+      
+      - name: Enrich changed files (PR)
+        if: github.event_name == 'pull_request' && steps.changed-files.outputs.any_changed == 'true'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          mkdir -p enrichment_reports
+          
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            echo "Enriching: $file"
+            python3 scripts/enrich_entity.py "$file"
+          done
+      
+      - name: Enrich specific file (manual)
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python3 scripts/enrich_entity.py "${{ inputs.entity_path }}"
+      
+      - name: Generate enrichment summary
+        id: summary
+        run: |
+          SUMMARY=""
+          
+          for report in data/enrichment_reports/*.json; do
+            if [ -f "$report" ]; then
+              ENTITY_TITLE=$(python3 -c "import json; print(json.load(open('$report'))['entity_title'])")
+              QUALITY_SCORE=$(python3 -c "import json; print(json.load(open('$report')).get('quality', {}).get('overall_score', 'N/A'))")
+              
+              SUMMARY="${SUMMARY}\n### ${ENTITY_TITLE}\n"
+              SUMMARY="${SUMMARY}- **Quality Score:** ${QUALITY_SCORE}/5\n"
+            fi
+          done
+          
+          echo "summary<<EOF" >> $GITHUB_OUTPUT
+          echo -e "$SUMMARY" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+      
+      - name: Post enrichment report
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+            
+            let comment = '## 🤖 AI Enrichment Report\n\n';
+            comment += 'The following entities have been analyzed for quality, tags, and relationships:\n\n';
+            
+            const reportsDir = 'data/enrichment_reports';
+            if (fs.existsSync(reportsDir)) {
+              const reports = fs.readdirSync(reportsDir).filter(f => f.endsWith('.json'));
+              
+              for (const reportFile of reports) {
+                const report = JSON.parse(fs.readFileSync(path.join(reportsDir, reportFile)));
+                
+                comment += `### ${report.entity_title}\n\n`;
+                
+                // Quality
+                const quality = report.quality || {};
+                comment += `**Quality Score:** ${quality.overall_score || 'N/A'}/5\n\n`;
+                
+                if (quality.issues && quality.issues.length > 0) {
+                  comment += '**Issues Found:**\n';
+                  quality.issues.slice(0, 3).forEach(issue => {
+                    comment += `- ${issue}\n`;
+                  });
+                  comment += '\n';
+                }
+                
+                // Tag suggestions
+                const tags = report.tags || {};
+                if (tags.tag_changes && tags.tag_changes.length > 0) {
+                  comment += '**Tag Suggestions:**\n';
+                  tags.tag_changes.slice(0, 3).forEach(change => {
+                    comment += `- ${change}\n`;
+                  });
+                  comment += '\n';
+                }
+                
+                // Relationship suggestions
+                const rels = report.relationships || {};
+                const suggestedRels = rels.suggested_relationships || {};
+                const hasRels = Object.values(suggestedRels).some(arr => arr && arr.length > 0);
+                
+                if (hasRels) {
+                  comment += '**Relationship Suggestions:**\n';
+                  for (const [relType, relList] of Object.entries(suggestedRels)) {
+                    if (relList && relList.length > 0) {
+                      comment += `- *${relType}*: `;
+                      const ids = relList.slice(0, 2).map(r => r.id || r).join(', ');
+                      comment += `${ids}\n`;
+                    }
+                  }
+                  comment += '\n';
+                }
+                
+                comment += '---\n\n';
+              }
+            }
+            
+            comment += '\n*This report was generated automatically by the Pattern Engine.*';
+            
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: comment
+            });
+      
+      - name: Upload enrichment reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: enrichment-reports
+          path: data/enrichment_reports/
+          retention-days: 30
