@@ -1,0 +1,193 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Commons OS Knowledge Graph Schema",
+  "description": "Schema for the Pattern Engine knowledge graph containing patterns, lighthouses, and their relationships.",
+  "version": "1.0",
+  
+  "definitions": {
+    "typeid_pattern": {
+      "type": "string",
+      "pattern": "^pat_[a-z0-9]{20,30}$",
+      "description": "TypeID for patterns"
+    },
+    "typeid_lighthouse": {
+      "type": "string",
+      "pattern": "^lh_[a-z0-9]{20,30}$",
+      "description": "TypeID for lighthouses"
+    },
+    "typeid_any": {
+      "type": "string",
+      "pattern": "^(pat|lh)_[a-z0-9]{20,30}$",
+      "description": "TypeID for any entity"
+    },
+    "iso8601_timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "review", "published", "mature", "deprecated"],
+      "description": "Quality lifecycle status"
+    },
+    "commons_alignment": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5,
+      "description": "Commons alignment score (1=low, 5=very high)"
+    },
+    
+    "relationship": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": [
+            "generalizes_from",
+            "specializes_to",
+            "enables",
+            "requires",
+            "related",
+            "implements",
+            "applied_by",
+            "inspired_by",
+            "collaborates_with"
+          ],
+          "description": "Type of relationship"
+        },
+        "source": { "$ref": "#/definitions/typeid_any" },
+        "target": { "$ref": "#/definitions/typeid_any" },
+        "weight": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "description": "Relationship strength (0-1), used for similarity-based relationships"
+        },
+        "created": { "$ref": "#/definitions/iso8601_timestamp" },
+        "source_type": {
+          "type": "string",
+          "enum": ["manual", "ai_suggested", "ai_confirmed"],
+          "description": "How this relationship was created"
+        }
+      },
+      "required": ["type", "source", "target"],
+      "additionalProperties": false
+    },
+    
+    "pattern_node": {
+      "type": "object",
+      "properties": {
+        "id": { "$ref": "#/definitions/typeid_pattern" },
+        "slug": { "type": "string" },
+        "title": { "type": "string" },
+        "status": { "$ref": "#/definitions/status" },
+        "commons_alignment": { "$ref": "#/definitions/commons_alignment" },
+        "domain": { "type": "string" },
+        "category": { 
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "created": { "$ref": "#/definitions/iso8601_timestamp" },
+        "modified": { "$ref": "#/definitions/iso8601_timestamp" },
+        "embedding": {
+          "type": "array",
+          "items": { "type": "number" },
+          "description": "Vector embedding for similarity search"
+        }
+      },
+      "required": ["id", "slug", "title", "status"],
+      "additionalProperties": true
+    },
+    
+    "lighthouse_node": {
+      "type": "object",
+      "properties": {
+        "id": { "$ref": "#/definitions/typeid_lighthouse" },
+        "slug": { "type": "string" },
+        "title": { "type": "string" },
+        "status": { "$ref": "#/definitions/status" },
+        "commons_alignment": { "$ref": "#/definitions/commons_alignment" },
+        "industry": { 
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "scale": { "type": "string" },
+        "region": { 
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "location": {
+          "type": "object",
+          "properties": {
+            "city": { "type": "string" },
+            "country": { "type": "string" },
+            "coordinates": {
+              "type": "array",
+              "items": { "type": "number" },
+              "minItems": 2,
+              "maxItems": 2
+            }
+          }
+        },
+        "website": { "type": "string", "format": "uri" },
+        "founded": { "type": "integer" },
+        "created": { "$ref": "#/definitions/iso8601_timestamp" },
+        "modified": { "$ref": "#/definitions/iso8601_timestamp" },
+        "embedding": {
+          "type": "array",
+          "items": { "type": "number" },
+          "description": "Vector embedding for similarity search"
+        }
+      },
+      "required": ["id", "slug", "title", "status"],
+      "additionalProperties": true
+    }
+  },
+  
+  "type": "object",
+  "properties": {
+    "version": {
+      "type": "string",
+      "description": "Schema version"
+    },
+    "generated": {
+      "$ref": "#/definitions/iso8601_timestamp",
+      "description": "When this graph was generated"
+    },
+    "stats": {
+      "type": "object",
+      "properties": {
+        "total_patterns": { "type": "integer" },
+        "total_lighthouses": { "type": "integer" },
+        "total_relationships": { "type": "integer" },
+        "patterns_by_status": {
+          "type": "object",
+          "additionalProperties": { "type": "integer" }
+        },
+        "lighthouses_by_status": {
+          "type": "object",
+          "additionalProperties": { "type": "integer" }
+        }
+      }
+    },
+    "nodes": {
+      "type": "object",
+      "properties": {
+        "patterns": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/pattern_node" }
+        },
+        "lighthouses": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/lighthouse_node" }
+        }
+      }
+    },
+    "edges": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/relationship" }
+    }
+  },
+  "required": ["version", "generated", "nodes", "edges"],
+  "additionalProperties": false
+}
