@@ -1,29 +1,30 @@
 {
   "version": "1.0",
-  "generated": "2026-02-01T22:03:45.172331Z",
+  "generated": "2026-02-01T22:14:27.370533Z",
   "stats": {
-    "total_patterns": 999,
+    "total_patterns": 1026,
     "total_lighthouses": 0,
     "total_relationships": 3309,
     "patterns_by_status": {
-      "draft": 999
+      "draft": 1026
     },
     "lighthouses_by_status": {},
     "patterns_by_domain": {
       "operations": 495,
-      "culture": 38,
-      "privacy": 29,
-      "design": 189,
+      "culture": 37,
+      "privacy": 54,
+      "design": 188,
       "meta": 31,
-      "ai-governance": 19,
-      "governance": 45,
+      "security": 39,
+      "governance": 47,
       "domain": 15,
       "sustainability": 19,
-      "technology": 51,
-      "sovereignty": 18,
-      "security": 28,
+      "technology": 55,
+      "ai-governance": 4,
       "value-creation": 18,
-      "implementation": 4
+      "sovereignty": 12,
+      "implementation": 4,
+      "startup": 8
     },
     "lighthouses_by_industry": {}
   },
@@ -170,21 +171,21 @@
         "filepath": "_patterns/academic-strategy-models.md"
       },
       {
-        "id": "pat_fbfd5708ff3a48a889b99389",
+        "id": "pat_019c19b234ca7ed6ad8c89394a",
         "slug": "access-control",
         "title": "Access Control",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/access-control.md"
       },
       {
@@ -375,21 +376,21 @@
         "filepath": "_patterns/advanced-product-quality-planning-apqp.md"
       },
       {
-        "id": "pat_8fa6c779c0c744768b79141b",
+        "id": "pat_019c19b234b97df28b67492774",
         "slug": "adversarial-robustness",
         "title": "Adversarial Robustness",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "ai-governance",
+        "commons_alignment": 3,
+        "domain": "security",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/adversarial-robustness.md"
       },
       {
@@ -989,21 +990,21 @@
         "filepath": "_patterns/andon-system.md"
       },
       {
-        "id": "pat_50d054375f8e4e96b681a844",
+        "id": "pat_019c19b234c67ecfa5ff443301",
         "slug": "anonymization",
         "title": "Anonymization",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/anonymization.md"
       },
       {
@@ -1044,21 +1045,21 @@
         "filepath": "_patterns/ansoff-matrix.md"
       },
       {
-        "id": "pat_c1b3d5d64b0740579be99e03",
+        "id": "pat_019c19b23527717a9b5086e138",
         "slug": "api-abstraction-layer",
         "title": "API Abstraction Layer",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "sovereignty",
+        "commons_alignment": 3,
+        "domain": "governance",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
         "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/api-abstraction-layer.md"
       },
       {
@@ -1100,21 +1101,21 @@
         "filepath": "_patterns/api-first-design.md"
       },
       {
-        "id": "pat_02fe2552a42242deabc46e26",
+        "id": "pat_019c19b234fb754c82bef3ad47",
         "slug": "api-security",
         "title": "API Security",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "security",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/api-security.md"
       },
       {
@@ -1276,6 +1277,24 @@
         "created": "2026-02-01T12:17:06+00:00",
         "modified": "2026-02-01T12:17:06+00:00",
         "filepath": "_patterns/attribute-based-credentials-abcs.md"
+      },
+      {
+        "id": "pat_019c19b234e57f9791d80979b1",
+        "slug": "attribute-based-credentials",
+        "title": "Attribute Based Credentials",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "privacy",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "industrial"
+        ],
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
+        "filepath": "_patterns/attribute-based-credentials.md"
       },
       {
         "id": "pat_01kg5023xge89s6mx3vwpszg7s",
@@ -1550,21 +1569,21 @@
         "filepath": "_patterns/balanced-scorecard-kaplan-norton.md"
       },
       {
-        "id": "pat_468f73ebe0fa4c65bae22dfa",
+        "id": "pat_019c19b235067714907bcdebad",
         "slug": "bastion-host",
         "title": "Bastion Host",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "security",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/bastion-host.md"
       },
       {
@@ -1746,6 +1765,24 @@
         "filepath": "_patterns/best-practices-transfer.md"
       },
       {
+        "id": "pat_019c19b234ae7c72b57e9bd731",
+        "slug": "bias-audit",
+        "title": "Bias Audit",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "technology",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "cognitive"
+        ],
+        "commons_domain": "business",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
+        "filepath": "_patterns/bias-audit.md"
+      },
+      {
         "id": "pat_01kg50240kf018z02b1d1kn1ba",
         "slug": "big-data-analytics-in-manufacturing",
         "title": "Big Data Analytics in Manufacturing",
@@ -1765,21 +1802,21 @@
         "filepath": "_patterns/big-data-analytics-in-manufacturing.md"
       },
       {
-        "id": "pat_29e9dbfe82d9450c9ba1d7d7",
+        "id": "pat_019c19b2351174d491168420ca",
         "slug": "binary-authorization",
         "title": "Binary Authorization",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "security",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/binary-authorization.md"
       },
       {
@@ -2280,21 +2317,21 @@
         "filepath": "_patterns/change-management-models-beyond-documented.md"
       },
       {
-        "id": "pat_98801769807846468bd4c345",
+        "id": "pat_019c19b2351372b98fdbe4496c",
         "slug": "chaos-engineering-for-security",
         "title": "Chaos Engineering for Security",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "security",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/chaos-engineering-for-security.md"
       },
       {
@@ -3192,21 +3229,21 @@
         "filepath": "_patterns/concurrent-product-development.md"
       },
       {
-        "id": "pat_2a2d48fd65a3438dbbf0eb51",
+        "id": "pat_019c19b234e87b818561d0bb29",
         "slug": "confidential-computing",
         "title": "Confidential Computing",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/confidential-computing.md"
       },
       {
@@ -3429,39 +3466,39 @@
         "filepath": "_patterns/consulting-model.md"
       },
       {
-        "id": "pat_7f9f8bee327545b2b53d2de9",
+        "id": "pat_019c19b2352676de9860d0337b",
         "slug": "container-based-portability",
-        "title": "Container-Based Portability",
+        "title": "Container Based Portability",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "sovereignty",
+        "commons_alignment": 3,
+        "domain": "security",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
-          "cognitive"
+          "industrial"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/container-based-portability.md"
       },
       {
-        "id": "pat_fb3762c0297f48fc9de3aded",
+        "id": "pat_019c19b235097d0299c8015ddf",
         "slug": "container-security",
         "title": "Container Security",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "security",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/container-security.md"
       },
       {
@@ -3910,21 +3947,21 @@
         "filepath": "_patterns/credit-union-governance.md"
       },
       {
-        "id": "pat_11f67e0f27c64a6db6e3449b",
+        "id": "pat_019c19b2352e7d4bbb3ec221a3",
         "slug": "cross-border-data-transfer-controls",
-        "title": "Cross-Border Data Transfer Controls",
+        "title": "Cross Border Data Transfer Controls",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "sovereignty",
+        "commons_alignment": 3,
+        "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/cross-border-data-transfer-controls.md"
       },
       {
@@ -4116,21 +4153,21 @@
         "filepath": "_patterns/daos-documented.md"
       },
       {
-        "id": "pat_784a1d1ab2674e72affb3f86",
+        "id": "pat_019c19b2351e7fca9a38527bd7",
         "slug": "data-classification",
         "title": "Data Classification",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "sovereignty",
+        "commons_alignment": 3,
+        "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/data-classification.md"
       },
       {
@@ -4151,21 +4188,21 @@
         "filepath": "_patterns/data-governance-frameworks-dama.md"
       },
       {
-        "id": "pat_0c688a03b5004429b651aca3",
+        "id": "pat_019c19b234e27bc6a0f05e68c8",
         "slug": "data-masking",
         "title": "Data Masking",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/data-masking.md"
       },
       {
@@ -4206,57 +4243,57 @@
         "filepath": "_patterns/data-monetization-information-economy.md"
       },
       {
-        "id": "pat_0f0e08f09d29409ba1e10068",
+        "id": "pat_019c19b234d479ae978903dd63",
         "slug": "data-portability",
         "title": "Data Portability",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/data-portability.md"
       },
       {
-        "id": "pat_33f77a2580aa4fadb84e64fd",
+        "id": "pat_019c19b234cb73698ecaaa9abb",
         "slug": "data-retention",
         "title": "Data Retention",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/data-retention.md"
       },
       {
-        "id": "pat_a765c970e20d430a986c81a5",
+        "id": "pat_019c19b235177483a646802518",
         "slug": "data-sovereignty-by-design",
         "title": "Data Sovereignty by Design",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "sovereignty",
+        "commons_alignment": 3,
+        "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/data-sovereignty-by-design.md"
       },
       {
@@ -4294,21 +4331,21 @@
         "filepath": "_patterns/decentralized-ai.md"
       },
       {
-        "id": "pat_eb9d3417fae1451fa6d5af1f",
+        "id": "pat_019c19b234eb7b648ee7ae6bb5",
         "slug": "decentralized-data-storage",
         "title": "Decentralized Data Storage",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/decentralized-data-storage.md"
       },
       {
@@ -4328,6 +4365,24 @@
         "created": "2026-02-01T12:17:06+00:00",
         "modified": "2026-02-01T12:17:06+00:00",
         "filepath": "_patterns/decentralized-identifier-did.md"
+      },
+      {
+        "id": "pat_019c19b235237e2bb24a1c5c6e",
+        "slug": "decentralized-identifier",
+        "title": "Decentralized Identifier",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "sovereignty",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "cognitive"
+        ],
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
+        "filepath": "_patterns/decentralized-identifier.md"
       },
       {
         "id": "pat_01kg5023vjetsaajnc397n2n2m",
@@ -4350,21 +4405,21 @@
         "filepath": "_patterns/deep-learning-for-defect-detection.md"
       },
       {
-        "id": "pat_235f26a8b437483788a5b45c",
+        "id": "pat_019c19b234ee76d6a06b928cb2",
         "slug": "defense-in-depth",
         "title": "Defense in Depth",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "security",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/defense-in-depth.md"
       },
       {
@@ -4925,39 +4980,39 @@
         "filepath": "_patterns/devops.md"
       },
       {
-        "id": "pat_dcec694af600473aa9100a53",
+        "id": "pat_019c19b234b77e82bb7a48063e",
         "slug": "differential-privacy-for-ml",
         "title": "Differential Privacy for ML",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "ai-governance",
+        "commons_alignment": 3,
+        "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/differential-privacy-for-ml.md"
       },
       {
-        "id": "pat_e8efd7331e6f4d6eac4dbcb2",
+        "id": "pat_019c19b234cd7eabaf4499ef1b",
         "slug": "differential-privacy",
         "title": "Differential Privacy",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
-          "cognitive"
+          "industrial"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/differential-privacy.md"
       },
       {
@@ -5634,21 +5689,21 @@
         "filepath": "_patterns/edge-computing.md"
       },
       {
-        "id": "pat_33178e510ec54165a4a062db",
+        "id": "pat_019c19b2352c705da3c96d7920",
         "slug": "edge-first-data-processing",
-        "title": "Edge-First Data Processing",
+        "title": "Edge First Data Processing",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "sovereignty",
+        "commons_alignment": 3,
+        "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
-          "cognitive"
+          "industrial"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/edge-first-data-processing.md"
       },
       {
@@ -5779,21 +5834,21 @@
         "filepath": "_patterns/empathy-mapping.md"
       },
       {
-        "id": "pat_6398423b7254490594eb13df",
+        "id": "pat_019c19b234c970b3bf66ca0d23",
         "slug": "encryption",
         "title": "Encryption",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/encryption.md"
       },
       {
@@ -6070,6 +6125,24 @@
         "filepath": "_patterns/expert-systems-in-design.md"
       },
       {
+        "id": "pat_019c19b234ab74c2a6b17828e2",
+        "slug": "explainability",
+        "title": "Explainability",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "privacy",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "cognitive"
+        ],
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
+        "filepath": "_patterns/explainability.md"
+      },
+      {
         "id": "pat_01kg5023ypf08rv1dagnb27bjj",
         "slug": "explainable-ai-systems",
         "title": "Explainable AI Systems",
@@ -6307,39 +6380,39 @@
         "filepath": "_patterns/feature-flagstoggles.md"
       },
       {
-        "id": "pat_f09faf0e2a424e9b842d4281",
+        "id": "pat_019c19b2352872cfbff19daf10",
         "slug": "federated-data-spaces",
         "title": "Federated Data Spaces",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "sovereignty",
+        "commons_alignment": 3,
+        "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/federated-data-spaces.md"
       },
       {
-        "id": "pat_eb745afff3b74def8d04a9ee",
+        "id": "pat_019c19b234c07fe6b166bdd3cc",
         "slug": "federated-evaluation",
         "title": "Federated Evaluation",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "ai-governance",
+        "commons_alignment": 3,
+        "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/federated-evaluation.md"
       },
       {
@@ -6363,41 +6436,39 @@
         "filepath": "_patterns/federated-governance.md"
       },
       {
-        "id": "pat_3d1662f8f9354f54a0bb1d79",
+        "id": "pat_019c19b234b3786e8b4e0244db",
         "slug": "federated-learning-architecture",
         "title": "Federated Learning Architecture",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "ai-governance",
+        "commons_alignment": 3,
+        "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/federated-learning-architecture.md"
       },
       {
-        "id": "pat_01kg5023vke6gsrh5cwp1vsjec",
+        "id": "pat_019c19b234ce7789accc99f843",
         "slug": "federated-learning",
         "title": "Federated Learning",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "culture",
+        "commons_alignment": 3,
+        "domain": "privacy",
         "category": [
-          "framework",
-          "methodology"
+          "practice"
         ],
         "era": [
-          "digital",
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-01-28T00:00:00+00:00",
-        "modified": "2026-01-28T00:00:00+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/federated-learning.md"
       },
       {
@@ -6437,6 +6508,24 @@
         "created": "2026-01-28T00:00:00+00:00",
         "modified": "2026-01-28T00:00:00+00:00",
         "filepath": "_patterns/feng-shui.md"
+      },
+      {
+        "id": "pat_019c19b3544878378fe954794f",
+        "slug": "ff002-venture-capital-vc",
+        "title": "FF002: Venture Capital (VC)",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "startup",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "cognitive"
+        ],
+        "commons_domain": "startup",
+        "created": "2026-02-01T14:55:08Z",
+        "modified": "2026-02-01T14:55:08Z",
+        "filepath": "_patterns/ff002-venture-capital-vc.md"
       },
       {
         "id": "pat_01kg5023yrf4gvtspwd44sp7w5",
@@ -6810,21 +6899,39 @@
         "filepath": "_patterns/futures-thinking.md"
       },
       {
-        "id": "pat_01cc311b041e4e8cb272b903",
-        "slug": "gaia-x-compliance",
-        "title": "GAIA-X Compliance",
+        "id": "pat_019c19b354497b42a36450937e",
+        "slug": "g002-patient-capital",
+        "title": "G002: Patient Capital",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "sovereignty",
+        "commons_alignment": 3,
+        "domain": "startup",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
-          "cognitive"
+          "industrial"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "startup",
+        "created": "2026-02-01T14:55:08Z",
+        "modified": "2026-02-01T14:55:08Z",
+        "filepath": "_patterns/g002-patient-capital.md"
+      },
+      {
+        "id": "pat_019c19b2352f7cfea2a781079c",
+        "slug": "gaia-x-compliance",
+        "title": "GAIA X Compliance",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "sovereignty",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "industrial"
+        ],
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/gaia-x-compliance.md"
       },
       {
@@ -7124,6 +7231,42 @@
         "created": "2026-01-28T00:00:00+00:00",
         "modified": "2026-01-28T00:00:00+00:00",
         "filepath": "_patterns/gitops.md"
+      },
+      {
+        "id": "pat_019c19b3544b7d4eb076ea611d",
+        "slug": "gl013-steward-ownership",
+        "title": "GL013: Steward Ownership",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "startup",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "industrial"
+        ],
+        "commons_domain": "startup",
+        "created": "2026-02-01T14:55:08Z",
+        "modified": "2026-02-01T14:55:08Z",
+        "filepath": "_patterns/gl013-steward-ownership.md"
+      },
+      {
+        "id": "pat_019c19b3544c7a68ab968d8dde",
+        "slug": "gl057-exit-to-community-e2c",
+        "title": "GL057: Exit to Community (E2C)",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "startup",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "industrial"
+        ],
+        "commons_domain": "startup",
+        "created": "2026-02-01T14:55:08Z",
+        "modified": "2026-02-01T14:55:08Z",
+        "filepath": "_patterns/gl057-exit-to-community-e2c.md"
       },
       {
         "id": "pat_4tgbfenli5finlkgkyqkdligfi",
@@ -7518,21 +7661,21 @@
         "filepath": "_patterns/homeschooling.md"
       },
       {
-        "id": "pat_8d054d0c9e0d464f83b5222a",
+        "id": "pat_019c19b234de707d9809f4cda2",
         "slug": "homomorphic-encryption",
         "title": "Homomorphic Encryption",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/homomorphic-encryption.md"
       },
       {
@@ -7667,6 +7810,24 @@
         "created": "2026-02-01T12:17:06+00:00",
         "modified": "2026-02-01T12:17:06+00:00",
         "filepath": "_patterns/human-in-the-loop-hitl.md"
+      },
+      {
+        "id": "pat_019c19b234ad70d7a118ebfce2",
+        "slug": "human-in-the-loop",
+        "title": "Human in the Loop",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "governance",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "cognitive"
+        ],
+        "commons_domain": "business",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
+        "filepath": "_patterns/human-in-the-loop.md"
       },
       {
         "id": "pat_01kg5023z3f90bkx13gn0k3f5p",
@@ -7851,21 +8012,21 @@
         "filepath": "_patterns/iec-62304-medical-device-software.md"
       },
       {
-        "id": "pat_5b82f0847d2248a5bf357697",
+        "id": "pat_019c19b23516771f81c2cff04a",
         "slug": "immutable-infrastructure",
         "title": "Immutable Infrastructure",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "security",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
-          "cognitive"
+          "industrial"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/immutable-infrastructure.md"
       },
       {
@@ -7906,21 +8067,21 @@
         "filepath": "_patterns/implemented-evidence-of-real-world-use.md"
       },
       {
-        "id": "pat_abd94d4e81a54acfb58bba51",
+        "id": "pat_019c19b235037b63bc95a36959",
         "slug": "incident-response",
         "title": "Incident Response",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "security",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/incident-response.md"
       },
       {
@@ -8263,21 +8424,21 @@
         "filepath": "_patterns/infrastructure-as-code-iac.md"
       },
       {
-        "id": "pat_d6c12b2aea824727af3a6dd4",
+        "id": "pat_019c19b2350a71e2b3348865f3",
         "slug": "infrastructure-as-code-security",
         "title": "Infrastructure as Code Security",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "security",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/infrastructure-as-code-security.md"
       },
       {
@@ -8295,21 +8456,21 @@
         "filepath": "_patterns/initial-comprehensive-taxonomy.md"
       },
       {
-        "id": "pat_84bc35993b92402888f910d6",
+        "id": "pat_019c19b234f478948a57a0d73a",
         "slug": "input-validation",
         "title": "Input Validation",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "security",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/input-validation.md"
       },
       {
@@ -8686,6 +8847,24 @@
         "filepath": "_patterns/iterative-development.md"
       },
       {
+        "id": "pat_019c19b3544d7e15b0ed1b615e",
+        "slug": "iv001-build-measure-learn-loop",
+        "title": "IV001: Build-Measure-Learn Loop",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "startup",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "cognitive"
+        ],
+        "commons_domain": "startup",
+        "created": "2026-02-01T14:55:08Z",
+        "modified": "2026-02-01T14:55:08Z",
+        "filepath": "_patterns/iv001-build-measure-learn-loop.md"
+      },
+      {
         "id": "pat_01kg5023z9e988phvxsxypcxdm",
         "slug": "japanese-management-wa-nemawashi",
         "title": "Japanese Management (Wa, Nemawashi)",
@@ -8855,21 +9034,21 @@
         "filepath": "_patterns/just-in-time-jit.md"
       },
       {
-        "id": "pat_ba3618f03e67477991345209",
+        "id": "pat_019c19b234da7502a7971fa80d",
         "slug": "k-anonymity",
-        "title": "K-Anonymity",
+        "title": "K Anonymity",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/k-anonymity.md"
       },
       {
@@ -9075,21 +9254,21 @@
         "filepath": "_patterns/korean-chaebol-system.md"
       },
       {
-        "id": "pat_e38e0a256bf148a9aeb22616",
+        "id": "pat_019c19b234db786b9b657e51a2",
         "slug": "l-diversity",
-        "title": "L-Diversity",
+        "title": "L Diversity",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/l-diversity.md"
       },
       {
@@ -9424,6 +9603,24 @@
         "created": "2026-01-28T00:00:00+00:00",
         "modified": "2026-01-28T00:00:00+00:00",
         "filepath": "_patterns/leasing-model.md"
+      },
+      {
+        "id": "pat_019c19b234f07db491c0ae6a27",
+        "slug": "least-privilege",
+        "title": "Least Privilege",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "security",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "cognitive"
+        ],
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
+        "filepath": "_patterns/least-privilege.md"
       },
       {
         "id": "pat_01kg5023zcf99tjg7qsycgrmf1",
@@ -10035,21 +10232,21 @@
         "filepath": "_patterns/microgrids.md"
       },
       {
-        "id": "pat_225949e7e51043fa9c189d16",
+        "id": "pat_019c19b235047e66a248b30109",
         "slug": "microsegmentation",
         "title": "Microsegmentation",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "security",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/microsegmentation.md"
       },
       {
@@ -10165,39 +10362,39 @@
         "filepath": "_patterns/mittelstand-innovation-practices.md"
       },
       {
-        "id": "pat_7fbbad82bfc84daebda5f3b6",
+        "id": "pat_019c19b234b678548bf37357ea",
         "slug": "model-approval-workflow",
         "title": "Model Approval Workflow",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "ai-governance",
+        "commons_alignment": 3,
+        "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/model-approval-workflow.md"
       },
       {
-        "id": "pat_c3e5e9684f65443faf8ddeb1",
+        "id": "pat_019c19b234bc732484d65f62ef",
         "slug": "model-drift-detection",
         "title": "Model Drift Detection",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "ai-governance",
+        "commons_alignment": 3,
+        "domain": "technology",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
         "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/model-drift-detection.md"
       },
       {
@@ -10219,57 +10416,57 @@
         "filepath": "_patterns/model-driven-development.md"
       },
       {
-        "id": "pat_cd171add9d87445399d2f2b6",
+        "id": "pat_019c19b234b07bfc9c6343af33",
         "slug": "model-monitoring",
         "title": "Model Monitoring",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "ai-governance",
+        "commons_alignment": 3,
+        "domain": "security",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
-          "cognitive"
+          "industrial"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/model-monitoring.md"
       },
       {
-        "id": "pat_5ec0daf8d24b434ca1a33aee",
+        "id": "pat_019c19b234a877ff8c12dfb997",
         "slug": "model-registry",
         "title": "Model Registry",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "ai-governance",
+        "commons_alignment": 3,
+        "domain": "technology",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
         "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/model-registry.md"
       },
       {
-        "id": "pat_313b84616bf24435a78eaccc",
+        "id": "pat_019c19b234b87852a59e92729c",
         "slug": "model-versioning",
         "title": "Model Versioning",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "ai-governance",
+        "commons_alignment": 3,
+        "domain": "technology",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
         "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/model-versioning.md"
       },
       {
@@ -10462,21 +10659,21 @@
         "filepath": "_patterns/multi-capital-accounting-eight-capitals.md"
       },
       {
-        "id": "pat_3de06efedc8d4ec3a6e80c5e",
+        "id": "pat_019c19b2351c77fcb3ec771c33",
         "slug": "multi-cloud",
-        "title": "Multi-Cloud",
+        "title": "Multi Cloud",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "sovereignty",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/multi-cloud.md"
       },
       {
@@ -10496,6 +10693,24 @@
         "created": "2026-02-01T12:17:06+00:00",
         "modified": "2026-02-01T12:17:06+00:00",
         "filepath": "_patterns/multi-factor-authentication-mfa.md"
+      },
+      {
+        "id": "pat_019c19b234f278a6b5fcefec3c",
+        "slug": "multi-factor-authentication",
+        "title": "Multi Factor Authentication",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "security",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "cognitive"
+        ],
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
+        "filepath": "_patterns/multi-factor-authentication.md"
       },
       {
         "id": "pat_01kg50240xe19r5fzqq08kmwaq",
@@ -10838,21 +11053,21 @@
         "filepath": "_patterns/network-governance.md"
       },
       {
-        "id": "pat_a93f34b7d2774335978d9b56",
+        "id": "pat_019c19b234f97c50a7646cb6a3",
         "slug": "network-segmentation",
         "title": "Network Segmentation",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "security",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
-          "cognitive"
+          "industrial"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/network-segmentation.md"
       },
       {
@@ -11019,21 +11234,21 @@
         "filepath": "_patterns/on-demand-model.md"
       },
       {
-        "id": "pat_7f8f5c81b5c948559c8d1ed8",
+        "id": "pat_019c19b234b473398ad2f459f0",
         "slug": "on-device-inference",
-        "title": "On-Device Inference",
+        "title": "On Device Inference",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "ai-governance",
+        "commons_alignment": 3,
+        "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/on-device-inference.md"
       },
       {
@@ -11168,21 +11383,21 @@
         "filepath": "_patterns/open-source-ecology-ose.md"
       },
       {
-        "id": "pat_b138ee68549445609062980a",
+        "id": "pat_019c19b2351f72f9928982305a",
         "slug": "open-source-first",
         "title": "Open Source First",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "sovereignty",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/open-source-first.md"
       },
       {
@@ -11220,6 +11435,24 @@
         "created": "2026-02-01T12:17:06+00:00",
         "modified": "2026-02-01T12:17:06+00:00",
         "filepath": "_patterns/open-standards-adoption.md"
+      },
+      {
+        "id": "pat_019c19b235197be8b4c5301753",
+        "slug": "open-standards",
+        "title": "Open Standards",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "sovereignty",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "cognitive"
+        ],
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
+        "filepath": "_patterns/open-standards.md"
       },
       {
         "id": "pat_01kg5023zjes888kggxrxqam9q",
@@ -11500,6 +11733,24 @@
         "filepath": "_patterns/patient-centered-care.md"
       },
       {
+        "id": "pat_019c19b234c57dcaa68aaa0676",
+        "slug": "pattern-consent-management",
+        "title": "Pattern: Consent Management",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "privacy",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "cognitive"
+        ],
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
+        "filepath": "_patterns/pattern-consent-management.md"
+      },
+      {
         "id": "pat_01kg5023zketsrxaxyhng7f2c7",
         "slug": "pay-what-you-want-model",
         "title": "Pay-What-You-Want Model",
@@ -11632,21 +11883,21 @@
         "filepath": "_patterns/peer-to-peer-p2p-production.md"
       },
       {
-        "id": "pat_7deb71f69a664f8b8e23caa6",
+        "id": "pat_019c19b2350d7425bfd4f3e9b2",
         "slug": "penetration-testing",
         "title": "Penetration Testing",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "security",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/penetration-testing.md"
       },
       {
@@ -11910,21 +12161,21 @@
         "filepath": "_patterns/platform-business-models.md"
       },
       {
-        "id": "pat_01kg5023zme99s1z094s0prmbw",
+        "id": "pat_019c19b3544770008bbc50d158",
         "slug": "platform-cooperativism",
         "title": "Platform Cooperativism",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "design",
+        "commons_alignment": 3,
+        "domain": "startup",
         "category": [
-          "meta-pattern"
+          "practice"
         ],
         "era": [
-          "digital"
+          "industrial"
         ],
-        "commons_domain": "business",
-        "created": "2026-01-28T00:00:00+00:00",
-        "modified": "2026-01-28T00:00:00+00:00",
+        "commons_domain": "startup",
+        "created": "2026-02-01T14:55:08Z",
+        "modified": "2026-02-01T14:55:08Z",
         "filepath": "_patterns/platform-cooperativism.md"
       },
       {
@@ -12106,21 +12357,21 @@
         "filepath": "_patterns/population-health-management.md"
       },
       {
-        "id": "pat_f41e36e732ae4dfe93ff1aa4",
+        "id": "pat_019c19b2352077398063533e98",
         "slug": "portable-data-formats",
         "title": "Portable Data Formats",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "sovereignty",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/portable-data-formats.md"
       },
       {
@@ -12435,21 +12686,21 @@
         "filepath": "_patterns/principle-of-least-privilege-polp.md"
       },
       {
-        "id": "pat_7721db0de1ba4208accd59e8",
+        "id": "pat_019c19b234e17db1b5c6407260",
         "slug": "privacy-by-default",
         "title": "Privacy by Default",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/privacy-by-default.md"
       },
       {
@@ -12505,21 +12756,39 @@
         "filepath": "_patterns/privacy-by-design-pbd.md"
       },
       {
-        "id": "pat_7a06ddf8ab82489da80e371e",
-        "slug": "privacy-dashboard",
-        "title": "Privacy Dashboard",
+        "id": "pat_019c19b234c37d1db6a2405fcf",
+        "slug": "privacy-by-design",
+        "title": "Privacy by Design",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
+        "filepath": "_patterns/privacy-by-design.md"
+      },
+      {
+        "id": "pat_019c19b234d0738f893365de15",
+        "slug": "privacy-dashboard",
+        "title": "Privacy Dashboard",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "privacy",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "cognitive"
+        ],
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/privacy-dashboard.md"
       },
       {
@@ -12541,39 +12810,57 @@
         "filepath": "_patterns/privacy-impact-assessment-pia.md"
       },
       {
-        "id": "pat_df2e30c74d654f3996ce9ab3",
-        "slug": "privacy-preserving-analytics",
-        "title": "Privacy-Preserving Analytics",
+        "id": "pat_019c19b234d179aca6b672a8a9",
+        "slug": "privacy-impact-assessment",
+        "title": "Privacy Impact Assessment",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
+        "filepath": "_patterns/privacy-impact-assessment.md"
+      },
+      {
+        "id": "pat_019c19b234e975fb88697f02a1",
+        "slug": "privacy-preserving-analytics",
+        "title": "Privacy Preserving Analytics",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "privacy",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "cognitive"
+        ],
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/privacy-preserving-analytics.md"
       },
       {
-        "id": "pat_e7bd862442ad4e88949fae20",
+        "id": "pat_019c19b234ed7815a3c93593e6",
         "slug": "privacy-preserving-record-linkage",
-        "title": "Privacy-Preserving Record Linkage",
+        "title": "Privacy Preserving Record Linkage",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/privacy-preserving-record-linkage.md"
       },
       {
@@ -12593,6 +12880,24 @@
         "created": "2026-02-01T12:17:06+00:00",
         "modified": "2026-02-01T12:17:06+00:00",
         "filepath": "_patterns/private-information-retrieval-pir.md"
+      },
+      {
+        "id": "pat_019c19b234e07c9f9c3ff2e81b",
+        "slug": "private-information-retrieval",
+        "title": "Private Information Retrieval",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "privacy",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "cognitive"
+        ],
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
+        "filepath": "_patterns/private-information-retrieval.md"
       },
       {
         "id": "pat_01kg50240yfb0rpr97qkym67st",
@@ -12865,21 +13170,21 @@
         "filepath": "_patterns/prototyping.md"
       },
       {
-        "id": "pat_0d07e8ec38ce4413a7363d1b",
+        "id": "pat_019c19b234d2705cb15785ebeb",
         "slug": "pseudonymization",
         "title": "Pseudonymization",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/pseudonymization.md"
       },
       {
@@ -12955,21 +13260,21 @@
         "filepath": "_patterns/pull-systems.md"
       },
       {
-        "id": "pat_b855e6264a1f42acb5a120a9",
+        "id": "pat_019c19b234d67dff842bf320ca",
         "slug": "purpose-limitation",
         "title": "Purpose Limitation",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/purpose-limitation.md"
       },
       {
@@ -13062,6 +13367,42 @@
         "created": "2026-01-28T00:00:00+00:00",
         "modified": "2026-01-28T00:00:00+00:00",
         "filepath": "_patterns/quechuaaymara-andes.md"
+      },
+      {
+        "id": "pat_019c19b3544e7827baf0020317",
+        "slug": "r002-steward-ownership",
+        "title": "R002: Steward Ownership",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "startup",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "industrial"
+        ],
+        "commons_domain": "startup",
+        "created": "2026-02-01T14:55:08Z",
+        "modified": "2026-02-01T14:55:08Z",
+        "filepath": "_patterns/r002-steward-ownership.md"
+      },
+      {
+        "id": "pat_019c19b3544f7078be08298c48",
+        "slug": "r004-exit-to-community",
+        "title": "R004: Exit to Community",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "startup",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "industrial"
+        ],
+        "commons_domain": "startup",
+        "created": "2026-02-01T14:55:08Z",
+        "modified": "2026-02-01T14:55:08Z",
+        "filepath": "_patterns/r004-exit-to-community.md"
       },
       {
         "id": "pat_01kg5023zrexhr77rggze9vy2c",
@@ -13329,21 +13670,21 @@
         "filepath": "_patterns/regional-accounting-standards.md"
       },
       {
-        "id": "pat_53aaf104be534e71a06316e1",
+        "id": "pat_019c19b23522756dbf6b80670c",
         "slug": "regional-data-residency",
         "title": "Regional Data Residency",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "sovereignty",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/regional-data-residency.md"
       },
       {
@@ -13754,6 +14095,24 @@
         "filepath": "_patterns/right-to-erasure-right-to-be-forgotten.md"
       },
       {
+        "id": "pat_019c19b234d5753d9d3186cb1f",
+        "slug": "right-to-erasure",
+        "title": "Right to Erasure",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "privacy",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "cognitive"
+        ],
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
+        "filepath": "_patterns/right-to-erasure.md"
+      },
+      {
         "id": "pat_01kg5023zve6sv1r0bnsmhnkq6",
         "slug": "right-to-repair-movement",
         "title": "Right to Repair Movement",
@@ -13871,6 +14230,24 @@
         "filepath": "_patterns/role-based-access-control-rbac.md"
       },
       {
+        "id": "pat_019c19b234fe73f3b1ab5ad406",
+        "slug": "role-based-access-control",
+        "title": "Role Based Access Control",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "security",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "cognitive"
+        ],
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
+        "filepath": "_patterns/role-based-access-control.md"
+      },
+      {
         "id": "pat_01kg5023zve6sv1r0bt9fxtm1t",
         "slug": "rolling-forecasts-continuous-planning",
         "title": "Rolling Forecasts - Continuous Planning",
@@ -13945,6 +14322,24 @@
         "created": "2026-02-01T12:17:06+00:00",
         "modified": "2026-02-01T12:17:06+00:00",
         "filepath": "_patterns/runtime-application-self-protection-rasp.md"
+      },
+      {
+        "id": "pat_019c19b2351271a2a0fb953d23",
+        "slug": "runtime-application-self-protection",
+        "title": "Runtime Application Self Protection",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "security",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "industrial"
+        ],
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
+        "filepath": "_patterns/runtime-application-self-protection.md"
       },
       {
         "id": "pat_01kg5023zve6sv1r0by9vpcbdp",
@@ -14106,21 +14501,21 @@
         "filepath": "_patterns/seci-model-knowledge-creation.md"
       },
       {
-        "id": "pat_1b16726e8b464735860c5629",
+        "id": "pat_019c19b234f67fb78b627cb83a",
         "slug": "secrets-management",
         "title": "Secrets Management",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "security",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/secrets-management.md"
       },
       {
@@ -14144,75 +14539,75 @@
         "filepath": "_patterns/sector-specific-governance-healthcare-education-etc.md"
       },
       {
-        "id": "pat_62a833feba0c4aa3a6eed3b5",
+        "id": "pat_019c19b234be70338bb19fae60",
         "slug": "secure-aggregation",
         "title": "Secure Aggregation",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "ai-governance",
+        "commons_alignment": 3,
+        "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/secure-aggregation.md"
       },
       {
-        "id": "pat_1cacf9bb04044f91a3948edb",
+        "id": "pat_019c19b234f175819459aea6fc",
         "slug": "secure-by-design",
         "title": "Secure by Design",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "security",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
-          "cognitive"
+          "industrial"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/secure-by-design.md"
       },
       {
-        "id": "pat_dee9ac7f6d104bcbb2f2bff6",
+        "id": "pat_019c19b2350c7ced917afb2f94",
         "slug": "secure-ci-cd-pipeline",
-        "title": "Secure CI/CD Pipeline",
+        "title": "Secure CI CD Pipeline",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "security",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/secure-ci-cd-pipeline.md"
       },
       {
-        "id": "pat_455a50950089479bbf5a39f5",
+        "id": "pat_019c19b234bb778691291a3752",
         "slug": "secure-model-serving",
         "title": "Secure Model Serving",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "ai-governance",
+        "commons_alignment": 3,
+        "domain": "security",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/secure-model-serving.md"
       },
       {
@@ -14234,21 +14629,39 @@
         "filepath": "_patterns/secure-multi-party-computation-smpc-or-mpc.md"
       },
       {
-        "id": "pat_43dacacdfa554d28b1547219",
+        "id": "pat_019c19b234dd74c7bf26044d48",
+        "slug": "secure-multi-party-computation",
+        "title": "Secure Multi Party Computation",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "privacy",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "industrial"
+        ],
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
+        "filepath": "_patterns/secure-multi-party-computation.md"
+      },
+      {
+        "id": "pat_019c19b235157adf822f3b9979",
         "slug": "security-as-code",
         "title": "Security as Code",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "security",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
-          "cognitive"
+          "industrial"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/security-as-code.md"
       },
       {
@@ -14270,21 +14683,21 @@
         "filepath": "_patterns/security-engineering.md"
       },
       {
-        "id": "pat_00cac9f737b24d6688f941cd",
+        "id": "pat_019c19b234ff793eb5ec291b2c",
         "slug": "security-headers",
         "title": "Security Headers",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "security",
+        "commons_alignment": 3,
+        "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/security-headers.md"
       },
       {
@@ -14304,6 +14717,24 @@
         "created": "2026-02-01T12:17:06+00:00",
         "modified": "2026-02-01T12:17:06+00:00",
         "filepath": "_patterns/security-logging-and-monitoring.md"
+      },
+      {
+        "id": "pat_019c19b234f87b1e96941992f5",
+        "slug": "security-logging",
+        "title": "Security Logging",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "security",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "cognitive"
+        ],
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
+        "filepath": "_patterns/security-logging.md"
       },
       {
         "id": "pat_c7f70c986cf743c5921521f9",
@@ -14595,21 +15026,21 @@
         "filepath": "_patterns/service-journey-mapping.md"
       },
       {
-        "id": "pat_ab79927c4502414e8de8660a",
+        "id": "pat_019c19b235077fbcbde1053003",
         "slug": "service-mesh-security",
         "title": "Service Mesh Security",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "security",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/service-mesh-security.md"
       },
       {
@@ -15017,6 +15448,24 @@
         "filepath": "_patterns/slow-food-movement.md"
       },
       {
+        "id": "pat_019c19b235107b7393e79957ea",
+        "slug": "slsa-framework",
+        "title": "SLSA Framework",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "security",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "cognitive"
+        ],
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
+        "filepath": "_patterns/slsa-framework.md"
+      },
+      {
         "id": "pat_01kg5023zzecsb265ctbtgy3a3",
         "slug": "smart-factories",
         "title": "Smart Factories",
@@ -15337,6 +15786,24 @@
         "filepath": "_patterns/software-bill-of-materials-sbom.md"
       },
       {
+        "id": "pat_019c19b2350e75efac92bbcc29",
+        "slug": "software-bill-of-materials",
+        "title": "Software Bill of Materials",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "security",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "cognitive"
+        ],
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
+        "filepath": "_patterns/software-bill-of-materials.md"
+      },
+      {
         "id": "pat_01kg50240rf3s9mqrr00ebz8bv",
         "slug": "software-development-life-cycle-sdlc",
         "title": "Software Development Life Cycle (SDLC)",
@@ -15432,21 +15899,21 @@
         "filepath": "_patterns/southeast-asian-family-business.md"
       },
       {
-        "id": "pat_4e07065d8a1f4cfbbde05704",
+        "id": "pat_019c19b2352b761c9fb0b21a51",
         "slug": "sovereign-cloud-architecture",
         "title": "Sovereign Cloud Architecture",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "sovereignty",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/sovereign-cloud-architecture.md"
       },
       {
@@ -15506,21 +15973,21 @@
         "filepath": "_patterns/spiritual-leadership.md"
       },
       {
-        "id": "pat_9aa5c4a20b2445dc96c3d2bd",
+        "id": "pat_019c19b234bf7bf29aa2eddea8",
         "slug": "split-learning",
         "title": "Split Learning",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "ai-governance",
+        "commons_alignment": 3,
+        "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/split-learning.md"
       },
       {
@@ -16068,21 +16535,21 @@
         "filepath": "_patterns/synthetic-biology-design-build-test-learn-cycle.md"
       },
       {
-        "id": "pat_58e840b24f4b4c6494fd91d5",
+        "id": "pat_019c19b234e675948df7cb3760",
         "slug": "synthetic-data-generation",
         "title": "Synthetic Data Generation",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/synthetic-data-generation.md"
       },
       {
@@ -16423,21 +16890,21 @@
         "filepath": "_patterns/technology-specific-frameworks.md"
       },
       {
-        "id": "pat_7fe40c241ca54b619b66910f",
+        "id": "pat_019c19b234c27a899e9f2cebef",
         "slug": "tee-based-inference",
-        "title": "TEE-Based Inference",
+        "title": "TEE Based Inference",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "ai-governance",
+        "commons_alignment": 3,
+        "domain": "security",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/tee-based-inference.md"
       },
       {
@@ -16994,21 +17461,21 @@
         "filepath": "_patterns/traditional-water-management.md"
       },
       {
-        "id": "pat_17cd572f03ed48788fa98093",
+        "id": "pat_019c19b234aa73b3bc43a325e1",
         "slug": "training-data-provenance",
         "title": "Training Data Provenance",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "ai-governance",
+        "commons_alignment": 3,
+        "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/training-data-provenance.md"
       },
       {
@@ -17376,21 +17843,21 @@
         "filepath": "_patterns/usability-testing.md"
       },
       {
-        "id": "pat_3eaf1396112040f386f6799e",
+        "id": "pat_019c19b235297de7befae788b0",
         "slug": "usage-control-policies",
         "title": "Usage Control Policies",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "sovereignty",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/usage-control-policies.md"
       },
       {
@@ -17675,39 +18142,39 @@
         "filepath": "_patterns/vdi-2221-systematic-approach-to-design.md"
       },
       {
-        "id": "pat_ddfff5055e4544d7b890264d",
+        "id": "pat_019c19b2351b707ab1b2bc2ddf",
         "slug": "vendor-exit-strategy",
         "title": "Vendor Exit Strategy",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "sovereignty",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/vendor-exit-strategy.md"
       },
       {
-        "id": "pat_3ff4445bddea423c86b720d5",
+        "id": "pat_019c19b235247b639312665ad2",
         "slug": "verifiable-credentials",
         "title": "Verifiable Credentials",
         "status": "draft",
-        "commons_alignment": 4,
-        "domain": "sovereignty",
+        "commons_alignment": 3,
+        "domain": "privacy",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/verifiable-credentials.md"
       },
       {
@@ -17857,21 +18324,21 @@
         "filepath": "_patterns/vrio-framework.md"
       },
       {
-        "id": "pat_2005c9a0fb174aeab99c101d",
+        "id": "pat_019c19b235017cce9d7e848bc0",
         "slug": "vulnerability-management",
         "title": "Vulnerability Management",
         "status": "draft",
-        "commons_alignment": 4,
+        "commons_alignment": 3,
         "domain": "security",
         "category": [
-          "pattern"
+          "practice"
         ],
         "era": [
           "cognitive"
         ],
-        "commons_domain": "business",
-        "created": "2026-02-01T12:17:06+00:00",
-        "modified": "2026-02-01T12:17:06+00:00",
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
         "filepath": "_patterns/vulnerability-management.md"
       },
       {
@@ -18264,6 +18731,24 @@
         "created": "2026-02-01T12:17:06+00:00",
         "modified": "2026-02-01T12:17:06+00:00",
         "filepath": "_patterns/zero-knowledge-proofs-zkps.md"
+      },
+      {
+        "id": "pat_019c19b234e4734b93c92d7c57",
+        "slug": "zero-knowledge-proofs",
+        "title": "Zero Knowledge Proofs",
+        "status": "draft",
+        "commons_alignment": 3,
+        "domain": "privacy",
+        "category": [
+          "practice"
+        ],
+        "era": [
+          "cognitive"
+        ],
+        "commons_domain": "security",
+        "created": "2026-02-01T14:53:55Z",
+        "modified": "2026-02-01T14:53:55Z",
+        "filepath": "_patterns/zero-knowledge-proofs.md"
       },
       {
         "id": "pat_d2eb9d9c377a4469b89e3cc0",
