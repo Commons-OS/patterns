@@ -1,0 +1,226 @@
+name: Pattern Engine Maintenance
+
+on:
+  schedule:
+    # Run weekly on Sundays at 2:00 AM UTC
+    - cron: '0 2 * * 0'
+  workflow_dispatch:
+    inputs:
+      run_enrichment:
+        description: 'Run AI enrichment on all entities'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  maintenance:
+    runs-on: ubuntu-latest
+    name: Weekly Maintenance
+    
+    permissions:
+      contents: write
+      issues: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install pyyaml openai
+      
+      - name: Build knowledge graph
+        run: |
+          python3 scripts/build_graph.py
+      
+      - name: Generate health report
+        id: health
+        run: |
+          python3 << 'EOF'
+          import json
+          import yaml
+          from pathlib import Path
+          from datetime import datetime
+          
+          base_dir = Path('.')
+          report = {
+              'timestamp': datetime.utcnow().isoformat() + 'Z',
+              'issues': [],
+              'warnings': [],
+              'stats': {}
+          }
+          
+          # Load graph
+          graph_path = base_dir / 'data' / 'graph.json'
+          if graph_path.exists():
+              with open(graph_path) as f:
+                  graph = json.load(f)
+              report['stats'] = graph['stats']
+          else:
+              report['issues'].append('Knowledge graph not found')
+          
+          # Check for orphan relationships
+          if graph_path.exists():
+              all_ids = set()
+              for p in graph['nodes']['patterns']:
+                  all_ids.add(p['id'])
+              for l in graph['nodes']['lighthouses']:
+                  all_ids.add(l['id'])
+              
+              orphan_edges = 0
+              for edge in graph['edges']:
+                  if edge['target'] not in all_ids:
+                      orphan_edges += 1
+              
+              if orphan_edges > 0:
+                  report['warnings'].append(f'{orphan_edges} relationships point to non-existent entities')
+          
+          # Check for patterns without relationships
+          patterns_without_rels = 0
+          pattern_ids_with_rels = set()
+          for edge in graph.get('edges', []):
+              pattern_ids_with_rels.add(edge['source'])
+              pattern_ids_with_rels.add(edge['target'])
+          
+          for p in graph['nodes']['patterns']:
+              if p['id'] not in pattern_ids_with_rels:
+                  patterns_without_rels += 1
+          
+          if patterns_without_rels > 10:
+              report['warnings'].append(f'{patterns_without_rels} patterns have no relationships')
+          
+          # Check for staging backlog
+          staging_patterns = list((base_dir / '_staging' / 'patterns').glob('*.md')) if (base_dir / '_staging' / 'patterns').exists() else []
+          staging_lighthouses = list((base_dir / '_staging' / 'lighthouses').glob('*.md')) if (base_dir / '_staging' / 'lighthouses').exists() else []
+          
+          if len(staging_patterns) > 0:
+              report['warnings'].append(f'{len(staging_patterns)} patterns waiting in staging')
+          if len(staging_lighthouses) > 0:
+              report['warnings'].append(f'{len(staging_lighthouses)} lighthouses waiting in staging')
+          
+          # Check for draft patterns
+          draft_count = report['stats'].get('patterns_by_status', {}).get('draft', 0)
+          if draft_count > 20:
+              report['warnings'].append(f'{draft_count} patterns still in draft status')
+          
+          # Save report
+          report_path = base_dir / 'data' / 'health_report.json'
+          report_path.parent.mkdir(parents=True, exist_ok=True)
+          with open(report_path, 'w') as f:
+              json.dump(report, f, indent=2)
+          
+          # Generate summary for GitHub
+          summary = f"""## Pattern Engine Health Report
+          
+          **Generated:** {report['timestamp']}
+          
+          ### Statistics
+          - **Total Patterns:** {report['stats'].get('total_patterns', 0)}
+          - **Total Lighthouses:** {report['stats'].get('total_lighthouses', 0)}
+          - **Total Relationships:** {report['stats'].get('total_relationships', 0)}
+          
+          """
+          
+          if report['issues']:
+              summary += "### ❌ Issues\n"
+              for issue in report['issues']:
+                  summary += f"- {issue}\n"
+              summary += "\n"
+          
+          if report['warnings']:
+              summary += "### ⚠️ Warnings\n"
+              for warning in report['warnings']:
+                  summary += f"- {warning}\n"
+              summary += "\n"
+          
+          if not report['issues'] and not report['warnings']:
+              summary += "### ✅ All Clear\nNo issues or warnings detected.\n"
+          
+          with open('health_summary.md', 'w') as f:
+              f.write(summary)
+          
+          print(summary)
+          EOF
+      
+      - name: Update embedding index
+        if: inputs.run_enrichment == true
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python3 scripts/enrich_entity.py --build-embeddings
+      
+      - name: Commit updated data files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add data/
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: Weekly maintenance update $(date +%Y-%m-%d)"
+            git push
+          fi
+      
+      - name: Create issue if problems found
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            
+            if (!fs.existsSync('data/health_report.json')) {
+              return;
+            }
+            
+            const report = JSON.parse(fs.readFileSync('data/health_report.json'));
+            
+            if (report.issues.length === 0 && report.warnings.length === 0) {
+              console.log('No issues to report');
+              return;
+            }
+            
+            const summary = fs.readFileSync('health_summary.md', 'utf8');
+            
+            // Check if there's already an open maintenance issue
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              labels: 'maintenance',
+              state: 'open'
+            });
+            
+            if (issues.length > 0) {
+              // Update existing issue
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issues[0].number,
+                body: summary
+              });
+            } else {
+              // Create new issue
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: `Pattern Engine Maintenance Report - ${new Date().toISOString().split('T')[0]}`,
+                body: summary,
+                labels: ['maintenance']
+              });
+            }
+      
+      - name: Upload health report
+        uses: actions/upload-artifact@v4
+        with:
+          name: health-report
+          path: |
+            data/health_report.json
+            data/graph.json
+          retention-days: 90
