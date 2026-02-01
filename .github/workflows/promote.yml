@@ -1,0 +1,148 @@
+name: Promote Entity
+
+on:
+  workflow_dispatch:
+    inputs:
+      entity_path:
+        description: 'Path to entity file in _staging/ to promote'
+        required: true
+        type: string
+      target_number:
+        description: 'Sequential number for the promoted entity (leave empty for auto-assign)'
+        required: false
+        type: string
+
+jobs:
+  promote:
+    runs-on: ubuntu-latest
+    name: Promote Entity from Staging
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: pip install pyyaml
+      
+      - name: Validate entity before promotion
+        run: |
+          echo "Validating ${{ inputs.entity_path }}..."
+          python3 scripts/validate_entity.py "${{ inputs.entity_path }}"
+      
+      - name: Determine entity type and target directory
+        id: determine-target
+        run: |
+          ENTITY_PATH="${{ inputs.entity_path }}"
+          
+          if [[ "$ENTITY_PATH" == *"_staging/patterns/"* ]]; then
+            TARGET_DIR="_patterns"
+            ENTITY_TYPE="pattern"
+          elif [[ "$ENTITY_PATH" == *"_staging/lighthouses/"* ]]; then
+            TARGET_DIR="_lighthouses"
+            ENTITY_TYPE="lighthouse"
+          else
+            echo "❌ Invalid entity path. Must be in _staging/patterns/ or _staging/lighthouses/"
+            exit 1
+          fi
+          
+          echo "target_dir=$TARGET_DIR" >> $GITHUB_OUTPUT
+          echo "entity_type=$ENTITY_TYPE" >> $GITHUB_OUTPUT
+      
+      - name: Get next sequential number
+        id: get-number
+        run: |
+          TARGET_DIR="${{ steps.determine-target.outputs.target_dir }}"
+          
+          if [ -n "${{ inputs.target_number }}" ]; then
+            NEXT_NUM="${{ inputs.target_number }}"
+          else
+            # Find the highest existing number
+            HIGHEST=$(ls -1 "$TARGET_DIR"/*.md 2>/dev/null | sed 's/.*\///' | sed 's/-.*//' | sort -n | tail -1)
+            if [ -z "$HIGHEST" ]; then
+              NEXT_NUM=1
+            else
+              NEXT_NUM=$((HIGHEST + 1))
+            fi
+          fi
+          
+          echo "next_number=$NEXT_NUM" >> $GITHUB_OUTPUT
+      
+      - name: Promote entity
+        run: |
+          ENTITY_PATH="${{ inputs.entity_path }}"
+          TARGET_DIR="${{ steps.determine-target.outputs.target_dir }}"
+          NEXT_NUM="${{ steps.get-number.outputs.next_number }}"
+          
+          # Extract slug from filename
+          FILENAME=$(basename "$ENTITY_PATH")
+          # Handle both "slug.md" and "number-slug.md" formats
+          if [[ "$FILENAME" =~ ^[0-9]+-(.+)\.md$ ]]; then
+            SLUG="${BASH_REMATCH[1]}"
+          else
+            SLUG="${FILENAME%.md}"
+          fi
+          
+          NEW_FILENAME="${NEXT_NUM}-${SLUG}.md"
+          TARGET_PATH="${TARGET_DIR}/${NEW_FILENAME}"
+          
+          echo "Promoting: $ENTITY_PATH -> $TARGET_PATH"
+          
+          # Update the slug in the frontmatter
+          python3 << EOF
+          import yaml
+          import re
+          
+          with open("$ENTITY_PATH", 'r') as f:
+              content = f.read()
+          
+          # Split frontmatter and body
+          parts = content.split('---', 2)
+          if len(parts) >= 3:
+              frontmatter = yaml.safe_load(parts[1])
+              frontmatter['slug'] = "${NEXT_NUM}-${SLUG}"
+              frontmatter['tags']['status'] = 'published'
+              
+              # Update URLs
+              if 'page_url' in frontmatter:
+                  frontmatter['page_url'] = frontmatter['page_url'].replace(frontmatter.get('slug', ''), "${NEXT_NUM}-${SLUG}")
+              if 'github_url' in frontmatter:
+                  frontmatter['github_url'] = f"https://github.com/commons-os/patterns/blob/main/${TARGET_DIR}/${NEW_FILENAME}"
+              
+              new_content = '---\n' + yaml.dump(frontmatter, default_flow_style=False, allow_unicode=True, sort_keys=False ) + '---' + parts[2]
+              
+              with open("$TARGET_PATH", 'w') as f:
+                  f.write(new_content)
+          EOF
+          
+          # Remove from staging
+          rm "$ENTITY_PATH"
+          
+          echo "✅ Entity promoted successfully"
+          echo "promoted_path=$TARGET_PATH" >> $GITHUB_ENV
+      
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add -A
+          git commit -m "Promote entity: ${{ inputs.entity_path }} -> ${{ env.promoted_path }}"
+          git push
+      
+      - name: Summary
+        run: |
+          echo "## Promotion Complete" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Source:** \`${{ inputs.entity_path }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "**Target:** \`${{ env.promoted_path }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "**Status:** Published" >> $GITHUB_STEP_SUMMARY
