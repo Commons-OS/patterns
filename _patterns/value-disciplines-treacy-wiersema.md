@@ -1,15 +1,18 @@
----id: pat_placeholder
+---
+id: pat_placeholder
 slug: value-disciplines-treacy-wiersema
 title: Value Disciplines (Treacy & Wiersema)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 tags:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [industrial]
+  category:
+  - framework
+  era:
+  - industrial
   origin: []
   status: draft
   commons_alignment: 3
@@ -19,11 +22,15 @@ specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/value-disciplines-treacy-wiersema/
+github_url: https://github.com/commons-os/patterns/blob/main/_patterns/value-disciplines-treacy-wiersema.md
 ---
 
 ## 1. Overview

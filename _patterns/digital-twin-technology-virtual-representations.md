@@ -1,32 +1,33 @@
 ---
-id: pat_01kg5023ydftgramg3kwv7bv11
+id: pat_bdmlilgmzjbdbmjsplfbheganu
 page_url: https://commons-os.github.io/patterns/digital-twin-technology-virtual-representations/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/digital-twin-technology-virtual-representations.md
 slug: digital-twin-technology-virtual-representations
-title: Digital Twin Technology: Virtual Representations
+title: "Digital Twin Technology Virtual Representations"
 aliases: []
-version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+version: "1.0"
+created: "2026-02-01T21:15:43Z"
+modified: "2026-02-01T21:15:43Z"
 tags:
-  universality: domain
-  domain: technology
-  category: [framework, tool]
-  era: [digital, cognitive]
-  origin: []
+  universality: universal
+  domain: operations
+  category: [practice]
+  era: [digital]
+  origin: [Commons OS]
   status: draft
-  commons_alignment: 4
+  commons_alignment: 3
 commons_domain: business
-generalizes_from: ["pat_01kg5023w1f29v6bdxjx3shzfb"]
+generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors: [commons-os]
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+---
 ---
 
 ## 1. Overview

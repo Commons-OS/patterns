@@ -1,16 +1,26 @@
 ---
+id: pat_292f4ca728a44c318b916f869f
+page_url: https://commons-os.github.io/patterns/machine-vision-systems/
+github_url: https://github.com/commons-os/patterns/blob/main/_patterns/machine-vision-systems.md
 slug: machine-vision-systems
 title: Machine Vision Systems
-aliases: [Automated Optical Inspection, Visual Inspection Systems]
+aliases:
+- Automated Optical Inspection
+- Visual Inspection Systems
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 tags:
   universality: domain
   domain: culture
   category: tool
-  era: [industrial, digital, cognitive]
-  origin: [academic, mit]
+  era:
+  - industrial
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - mit
   status: draft
   commons_alignment: 3
 commons_domain: business
@@ -19,7 +29,9 @@ specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

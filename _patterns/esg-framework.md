@@ -1,5 +1,36 @@
 ---
-title: "ESG Framework"
+id: pat_2864ceac67d447e29ae8331e8f
+page_url: https://commons-os.github.io/patterns/esg-framework/
+github_url: https://github.com/commons-os/patterns/blob/main/_patterns/esg-framework.md
+slug: esg-framework
+title: ESG Framework
+aliases: []
+version: '1.0'
+created: '2026-02-01T22:02:19Z'
+modified: '2026-02-01T22:02:19Z'
+tags:
+  universality: universal
+  domain: operations
+  category:
+  - practice
+  era:
+  - cognitive
+  origin:
+  - Commons OS
+  status: draft
+  commons_alignment: 3
+commons_domain: business
+generalizes_from: []
+specializes_to: []
+enables: []
+requires: []
+related: []
+contributors:
+- commons-os
+sources: []
+license: CC-BY-SA-4.0
+attribution: Commons OS distributed by cloudsters, https://cloudsters.net
+repository: https://github.com/commons-os/patterns
 commons_alignment: 3
 ---
 

@@ -1,28 +1,51 @@
---- 
+---
 id: pat_01kg5023xve9saxvbkcrkzc4jy
-page_url: https://commons-os.github.io/patterns/domain/circular-economy-design-principles/
+page_url: https://commons-os.github.io/patterns/circular-economy-design-principles/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/circular-economy-design-principles.md
 slug: circular-economy-design-principles
 title: Circular Economy Design Principles
-aliases: [Circular Design]
+aliases:
+- Circular Design
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 tags:
   universality: domain
   domain: design
-  category: [principle]
-  era: [industrial, digital]
-  origin: [ellen-macarthur-foundation]
+  category:
+  - principle
+  era:
+  - industrial
+  - digital
+  origin:
+  - ellen-macarthur-foundation
   status: draft
   commons_alignment: 5
 commons_domain: business
-generalizes_from: ["pat_01kg5023xve9saxvbke9pt1zne"]
+generalizes_from:
+- pat_01kg5023xve9saxvbke9pt1zne
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023yzebrbkxpy6w243r3d", "pat_01kg5023wce4htqbxfeemnbwak", "pat_01kg50240rf3s9mqrr284wczhz", "pat_01kg50240hf7g93xhgnnqj6kv4", "pat_01kg5023wjfg8tqb1zny1rz16s", "pat_01kg5023vwe00rptkqw7kkhgah", "pat_01kg5023zseyh85cxgdc134228", "pat_01kg5023xve9saxvbke9pt1zne", "pat_01kg5023ygez1924mknd5wrfee", "pat_01kg502403e39rjfypfvwb3ebj", "pat_01kg50240zfdhtkt15ks7vh3qr", "pat_01kg5023zrexhr77rgtmbqtvy9", "pat_01kg5023yyfh08wev9cc23bjjk", "pat_01kg5023wkey887v6x5rk1m7cz", "pat_01kg50240wfjh98jqwy1kwdw68"]
-contributors: [higgerix, cloudsters]
+related:
+- pat_01kg5023yzebrbkxpy6w243r3d
+- pat_01kg5023wce4htqbxfeemnbwak
+- pat_01kg50240rf3s9mqrr284wczhz
+- pat_01kg50240hf7g93xhgnnqj6kv4
+- pat_01kg5023wjfg8tqb1zny1rz16s
+- pat_01kg5023vwe00rptkqw7kkhgah
+- pat_01kg5023zseyh85cxgdc134228
+- pat_01kg5023xve9saxvbke9pt1zne
+- pat_01kg5023ygez1924mknd5wrfee
+- pat_01kg502403e39rjfypfvwb3ebj
+- pat_01kg50240zfdhtkt15ks7vh3qr
+- pat_01kg5023zrexhr77rgtmbqtvy9
+- pat_01kg5023yyfh08wev9cc23bjjk
+- pat_01kg5023wkey887v6x5rk1m7cz
+- pat_01kg50240wfjh98jqwy1kwdw68
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

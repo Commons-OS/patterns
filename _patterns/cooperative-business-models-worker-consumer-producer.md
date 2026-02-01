@@ -1,32 +1,33 @@
 ---
-id: pat_01kg5023y4e708zavzcte3n4dd
+id: pat_gjf75xviibbpbmfxgd65y7m5lm
 page_url: https://commons-os.github.io/patterns/cooperative-business-models-worker-consumer-producer/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/cooperative-business-models-worker-consumer-producer.md
 slug: cooperative-business-models-worker-consumer-producer
-title: Cooperative Business Models: Worker, Consumer, and Producer
-aliases: [Co-ops, Co-operatives]
-version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+title: "Cooperative Business Models Worker Consumer Producer"
+aliases: []
+version: "1.0"
+created: "2026-02-01T21:15:43Z"
+modified: "2026-02-01T21:15:43Z"
 tags:
-  universality: domain
-  domain: value-creation
-  category: meta-pattern
-  era: [industrial, digital]
-  origin: [rochdale-pioneers]
+  universality: universal
+  domain: operations
+  category: [practice]
+  era: [digital]
+  origin: [Commons OS]
   status: draft
-  commons_alignment: 4
+  commons_alignment: 3
 commons_domain: business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023xne3gs3g227jcvch6k", "pat_01kg5023x4easr02ymp7vsz81b", "pat_01kg5023y5fnhb2ej6755c58p1", "pat_01kg50240sfm8re6ep2sz2xmy5", "pat_01kg5023vwe00rptkqr3z6pkd9", "pat_01kg5023y4e708zavzfmvmx4yp", "pat_01kg50240fev1snyp2ytvn21xm", "pat_01kg50240rf3s9mqrqw0pp5mwn", "pat_01kg5023x3f8gtc1a31gws6jj3", "pat_01kg5023xmek8szp5z3c5dc977", "pat_01kg5023y8e9ssb52a5snc91pm", "pat_01kg5023xbed1bnd9kg5m8pqq0", "pat_01kg5023vhev9b6swdrszd75z9", "pat_01kg5023whehgsjwtbrb92n8n3", "pat_01kg5023x2fqgbpste3v1ha2b1"]
-contributors: [higgerix, cloudsters]
+related: []
+contributors: [commons-os]
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+---
 ---
 
 ### 1. Overview

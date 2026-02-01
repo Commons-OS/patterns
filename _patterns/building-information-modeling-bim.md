@@ -1,16 +1,26 @@
 ---
+id: pat_cd053c9a7138431ebc9c38bd86
+page_url: https://commons-os.github.io/patterns/building-information-modeling-bim/
+github_url: https://github.com/commons-os/patterns/blob/main/_patterns/building-information-modeling-bim.md
 slug: building-information-modeling-bim
 title: Building Information Modeling (BIM)
-aliases: [Virtual Building, Single Building Model, Integrated Project Models]
+aliases:
+- Virtual Building
+- Single Building Model
+- Integrated Project Models
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 tags:
   universality: domain
   domain: design
   category: methodology
-  era: [digital, cognitive]
-  origin: [academic, autodesk]
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - autodesk
   status: draft
   commons_alignment: 4
 commons_domain: business
@@ -19,8 +29,16 @@ specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.autodesk.com/solutions/aec/bim, https://en.wikipedia.org/wiki/Building_information_modeling, https://www.planradar.com/au/6-steps-integrate-bim-technology/, https://www.bimassociates.com/blog/impressive-bim-project-designs-case-studies/, https://doi.org/10.1016/j.jobe.2024.108107, https://doi.org/10.1080/13467581.2024.2343803]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.autodesk.com/solutions/aec/bim
+- https://en.wikipedia.org/wiki/Building_information_modeling
+- https://www.planradar.com/au/6-steps-integrate-bim-technology/
+- https://www.bimassociates.com/blog/impressive-bim-project-designs-case-studies/
+- https://doi.org/10.1016/j.jobe.2024.108107
+- https://doi.org/10.1080/13467581.2024.2343803
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

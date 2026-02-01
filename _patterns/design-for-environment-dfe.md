@@ -1,18 +1,50 @@
 ---
+id: pat_59fa2c0cd0ab40efb13fda5848
+page_url: https://commons-os.github.io/patterns/design-for-environment-dfe/
+github_url: https://github.com/commons-os/patterns/blob/main/_patterns/design-for-environment-dfe.md
+slug: design-for-environment-dfe
 title: Design for Environment (DFE)
+aliases: []
+version: '1.0'
+created: '2026-02-01T22:01:54Z'
+modified: '2026-02-01T22:01:54Z'
+tags:
+  universality: universal
+  domain: operations
+  category:
+  - practice
+  era:
+  - cognitive
+  origin:
+  - Commons OS
+  status: draft
+  commons_alignment: 3
+commons_domain: business
+generalizes_from: []
+specializes_to: []
+enables: []
+requires: []
+related: []
+contributors:
+- commons-os
+sources: []
+license: CC-BY-SA-4.0
+attribution: Commons OS distributed by cloudsters, https://cloudsters.net
+repository: https://github.com/commons-os/patterns
 author:
-- "[Gerard Endenburg](https://www.gdrc.org/uem/lca/guidelines.html)"
-- "[Joseph Fiksel](https://www.researchgate.net/publication/234792075_Design_For_Environment_Methodologies_Tools_And_Implementation)"
-- "[U.S. Environmental Protection Agency](https://www.epa.gov/saferchoice/design-environment-alternatives-assessments)"
+- '[Gerard Endenburg](https://www.gdrc.org/uem/lca/guidelines.html)'
+- '[Joseph Fiksel](https://www.researchgate.net/publication/234792075_Design_For_Environment_Methodologies_Tools_And_Implementation)'
+- '[U.S. Environmental Protection Agency](https://www.epa.gov/saferchoice/design-environment-alternatives-assessments)'
 pattern_type: Design
 pattern_domain: Social + Economic + Ecological
-description: "A design approach to reduce the overall human health and environmental impact of a product, process or service, where the whole life cycle is considered."
+description: A design approach to reduce the overall human health and environmental
+  impact of a product, process or service, where the whole life cycle is considered.
 commons_alignment: 4
 pattern_language:
-- "[[Patterns for a Circular Economy]]"
-- "[[Regenerative Systems]]"
-- "[[Sustainable Manufacturing]]"
-pattern_card: "https://wiki.commonsengine.org/images/pattern-cards/pattern-card-dfe.png"
+- '[[Patterns for a Circular Economy]]'
+- '[[Regenerative Systems]]'
+- '[[Sustainable Manufacturing]]'
+pattern_card: https://wiki.commonsengine.org/images/pattern-cards/pattern-card-dfe.png
 ---
 
 ### 1. The Problem

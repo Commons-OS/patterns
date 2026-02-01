@@ -1,5 +1,36 @@
 ---
+id: pat_d30b7c5e9b5c4a29911feab7a3
+page_url: https://commons-os.github.io/patterns/a3-thinking-toyota-problem-solving/
+github_url: https://github.com/commons-os/patterns/blob/main/_patterns/a3-thinking-toyota-problem-solving.md
+slug: a3-thinking-toyota-problem-solving
 title: A3 Thinking - Toyota Problem Solving
+aliases: []
+version: '1.0'
+created: '2026-02-01T22:01:54Z'
+modified: '2026-02-01T22:01:54Z'
+tags:
+  universality: universal
+  domain: operations
+  category:
+  - practice
+  era:
+  - cognitive
+  origin:
+  - Commons OS
+  status: draft
+  commons_alignment: 3
+commons_domain: business
+generalizes_from: []
+specializes_to: []
+enables: []
+requires: []
+related: []
+contributors:
+- commons-os
+sources: []
+license: CC-BY-SA-4.0
+attribution: Commons OS distributed by cloudsters, https://cloudsters.net
+repository: https://github.com/commons-os/patterns
 commons_alignment: 4
 ---
 

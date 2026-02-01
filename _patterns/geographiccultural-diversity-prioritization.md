@@ -1,18 +1,20 @@
 ---
 id: pat_01kg5023yweb8r88nxv5g3w3p1
-page_url: https://commons-os.github.io/patterns/domain/geographiccultural-diversity-prioritization/
+page_url: https://commons-os.github.io/patterns/geographiccultural-diversity-prioritization/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/geographiccultural-diversity-prioritization.md
 slug: geographiccultural-diversity-prioritization
-title: "Geographic/Cultural Diversity Prioritization"
+title: Geographic/Cultural Diversity Prioritization
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 tags:
   universality: domain
   domain: culture
-  category: [practice]
-  era: [cognitive]
+  category:
+  - practice
+  era:
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 4
@@ -22,7 +24,9 @@ specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

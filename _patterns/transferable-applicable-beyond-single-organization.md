@@ -1,13 +1,13 @@
---- 
+---
 id: pat_01kg502407eyh8wbympscg4e10
-page_url: https://commons-os.github.io/patterns/domain/transferable-applicable-beyond-single-organization/
+page_url: https://commons-os.github.io/patterns/transferable-applicable-beyond-single-organization/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/transferable-applicable-beyond-single-organization.md
 slug: transferable-applicable-beyond-single-organization
 title: 'Transferable: Applicable Beyond Single Organization'
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 tags:
   universality: domain
   domain: operations
@@ -22,7 +22,9 @@ specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

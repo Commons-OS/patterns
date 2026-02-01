@@ -4,20 +4,39 @@ page_url: https://commons-os.github.io/patterns/waterfall-model-royce/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/waterfall-model-royce.md
 slug: waterfall-model-royce
 title: Waterfall Model (Royce)
-aliases: [Linear Sequential Model, Classic Lifecycle Model]
+aliases:
+- Linear Sequential Model
+- Classic Lifecycle Model
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 tags:
   universality: domain
   domain: operations
-  category: [methodology]
-  era: [industrial]
-  origin: [academic]
+  category:
+  - methodology
+  era:
+  - industrial
+  origin:
+  - academic
   status: draft
   commons_alignment: 3
-contributors: [higgerix, cloudsters]
-sources: ["Royce, W. W. (1970). Managing the Development of Large Software Systems.", "Wikipedia. (2023). Waterfall model.", "Standish Group. (2015). CHAOS Report.", "Petersen, K., Wohlin, C., & Baca, D. (2009). The waterfall model in large-scale development.", "McConnell, S. (1996). Rapid Development: Taming Wild Software Schedules."]
+commons_domain: business
+generalizes_from: []
+specializes_to: []
+enables: []
+requires: []
+related: []
+contributors:
+- higgerix
+- cloudsters
+sources:
+- Royce, W. W. (1970). Managing the Development of Large Software Systems.
+- Wikipedia. (2023). Waterfall model.
+- Standish Group. (2015). CHAOS Report.
+- Petersen, K., Wohlin, C., & Baca, D. (2009). The waterfall model in large-scale
+  development.
+- 'McConnell, S. (1996). Rapid Development: Taming Wild Software Schedules.'
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

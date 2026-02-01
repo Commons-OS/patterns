@@ -1,32 +1,33 @@
 ---
-id: pat_01kg5023xwf518k5w2msa0cgjr
+id: pat_3gqc3hqfffbwtedxm3cbrahxja
 page_url: https://commons-os.github.io/patterns/cloud-native-architecture-kubernetes-containers/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/cloud-native-architecture-kubernetes-containers.md
 slug: cloud-native-architecture-kubernetes-containers
-title: Cloud-Native Architecture: Kubernetes and Containers
-aliases: [Cloud-Native, CNA, K8s Architecture]
-version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+title: "Cloud Native Architecture Kubernetes Containers"
+aliases: []
+version: "1.0"
+created: "2026-02-01T21:15:43Z"
+modified: "2026-02-01T21:15:43Z"
 tags:
-  universality: domain
-  domain: design
-  category: methodology
+  universality: universal
+  domain: operations
+  category: [practice]
   era: [digital]
-  origin: [google, cncf]
+  origin: [Commons OS]
   status: draft
-  commons_alignment: 4
+  commons_alignment: 3
 commons_domain: business
-generalizes_from: ["pat_01kg5023vzfs093rykdd5ep4vh"]
+generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://kubernetes.io/docs/concepts/overview/, https://www.datacamp.com/blog/kubernetes-architecture-explained, https://kubernetes.io/case-studies/spotify/, https://www.cncf.io/case-studies/, https://kubegrade.com/kubernetes-cloud-native-architecture/]
+contributors: [commons-os]
+sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+---
 ---
 
 ### 1. Overview (150-300 words)

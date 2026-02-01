@@ -1,32 +1,33 @@
 ---
-id: pat_01kg50240kf018z02azbs3qdjk
+id: pat_sqh72b7qkfeolm5dj6b76bsxwu
 page_url: https://commons-os.github.io/patterns/behavior-driven-development-bdd-specification-by-example/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/behavior-driven-development-bdd-specification-by-example.md
 slug: behavior-driven-development-bdd-specification-by-example
-title: Behavior-Driven Development (BDD): Specification by Example
-aliases: [Specification by Example, Story-Driven Development]
-version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+title: "Behavior Driven Development Bdd Specification By Example"
+aliases: []
+version: "1.0"
+created: "2026-02-01T21:15:43Z"
+modified: "2026-02-01T21:15:43Z"
 tags:
-  universality: context-specific
-  domain: design
-  category: [methodology, practice]
+  universality: universal
+  domain: operations
+  category: [practice]
   era: [digital]
-  origin: [dan-north, agile-manifesto]
+  origin: [Commons OS]
   status: draft
-  commons_alignment: 4
+  commons_alignment: 3
 commons_domain: business
-generalizes_from: ["pat_01kg5023vyfzhvteh01za2yrvr", "pat_01kg5023xjea9ve0dr2yn0ng4v"]
+generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023xfergseskezjw7vhps", "pat_01kg5023xne3gs3g2247a6tg6m", "pat_01kg5023zzecsb265cca6xrxst", "pat_01kg5023zbftgswm71jpa7pdya", "pat_01kg5023y9f3hr6tv4n4j1h14z", "pat_01kg5023vjetsaajnc397n2n2m", "pat_01kg5023zyebsatbkqyk4ffphj", "pat_01kg5023yeebha23tbpqbvfwb5", "pat_01kg5023zfejs9j7hrnhg9xnns", "pat_01kg5023xmek8szp5z4979bzb7", "pat_01kg5023zyebsatbkqwveseny5", "pat_01kg5023yvehgrw2tgha4z5mxc", "pat_01kg5023vyfzhvteh01za2yrvr", "pat_01kg50240wfjh98jqx4axm2q65", "pat_01kg5023xqet0abagjfk9c2b4m"]
-contributors: [higgerix, cloudsters]
+related: []
+contributors: [commons-os]
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+---
 ---
 
 ### 1. Overview (150-300 words)

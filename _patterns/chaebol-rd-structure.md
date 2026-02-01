@@ -1,16 +1,22 @@
 ---
+id: pat_200b39e58c374f43b6a53ae81e
+page_url: https://commons-os.github.io/patterns/chaebol-rd-structure/
+github_url: https://github.com/commons-os/patterns/blob/main/_patterns/chaebol-rd-structure.md
 slug: chaebol-rd-structure
 title: Chaebol R&D Structure
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 tags:
   universality: domain
   domain: operations
   category: meta-pattern
-  era: [industrial, digital]
-  origin: [south-korea]
+  era:
+  - industrial
+  - digital
+  origin:
+  - south-korea
   status: draft
   commons_alignment: 2
 commons_domain: business
@@ -19,8 +25,15 @@ specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.investopedia.com/terms/c/chaebol-structure.asp", "https://www.tandfonline.com/doi/abs/10.1080/17538963.2017.1319630", "https://www.nature.com/nature-index/news/how-south-korea-made-itself-a-global-innovation-leader-research-science", "https://www.forbes.com/sites/christopherhelman/2025/06/12/how-south-koreas-chaebols-are-pushing-the-robotics-revolution/", "https://news.samsung.com/global/ai-leadership-%E2%91%A2-samsungs-ai-strategy-centered-on-customer-experiences"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.investopedia.com/terms/c/chaebol-structure.asp
+- https://www.tandfonline.com/doi/abs/10.1080/17538963.2017.1319630
+- https://www.nature.com/nature-index/news/how-south-korea-made-itself-a-global-innovation-leader-research-science
+- https://www.forbes.com/sites/christopherhelman/2025/06/12/how-south-koreas-chaebols-are-pushing-the-robotics-revolution/
+- https://news.samsung.com/global/ai-leadership-%E2%91%A2-samsungs-ai-strategy-centered-on-customer-experiences
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -1,16 +1,24 @@
 ---
+id: pat_25925003784c44d098c9856452
+page_url: https://commons-os.github.io/patterns/marketplace-model-two-sided-platforms/
+github_url: https://github.com/commons-os/patterns/blob/main/_patterns/marketplace-model-two-sided-platforms.md
 slug: marketplace-model-two-sided-platforms
 title: Marketplace Model - Two-Sided Platforms
-aliases: [Two-Sided Network, Multi-Sided Platform]
+aliases:
+- Two-Sided Network
+- Multi-Sided Platform
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 tags:
   universality: domain
   domain: value-creation
   category: meta-pattern
-  era: [digital, cognitive]
-  origin: [academic]
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
   status: draft
   commons_alignment: 3
 commons_domain: business
@@ -19,7 +27,9 @@ specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

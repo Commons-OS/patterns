@@ -1,0 +1,235 @@
+---
+id: pat_01kg5023wefm0801dqekka0929
+page_url: https://commons-os.github.io/patterns/patient-centered-care/
+github_url: https://github.com/commons-os/patterns/blob/main/_patterns/patient-centered-care.md
+slug: patient-centered-care
+title: Patient-Centered Care
+aliases:
+- Person-Centered Care
+- Relationship-Centered Care
+version: 1.0
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
+tags:
+  universality: domain
+  domain: operations
+  category:
+  - framework
+  - principle
+  era:
+  - digital
+  origin:
+  - academic
+  - picker-institute
+  status: draft
+  commons_alignment: 4
+commons_domain: business
+generalizes_from: []
+specializes_to: []
+enables: []
+requires: []
+related: []
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://catalyst.nejm.org/doi/full/10.1056/CAT.17.0559
+- https://www.oneviewhealthcare.com/blog/the-eight-principles-of-patient-centered-care/
+- https://mymountainmover.com/9-practical-strategies-to-implement-patient-centered-care/
+- https://www.commonwealthfund.org/publications/fund-reports/2007/oct/patient-centered-care-what-does-it-take
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC11554389/
+license: CC-BY-SA-4.0
+attribution: Commons OS distributed by cloudsters, https://cloudsters.net
+repository: https://github.com/commons-os/patterns
+---
+
+### 1. Overview
+
+Patient-Centered Care (PCC) is a model of healthcare that places the patient at the forefront of all clinical decisions and quality measurements. It is a partnership among practitioners, patients, and their families to ensure that decisions respect patients’ wants, needs, and preferences and that patients have the education and support they need to make decisions and participate in their own care. The core problem that Patient-Centered Care addresses is the traditionally paternalistic and fragmented nature of healthcare, where patients are often passive recipients of care rather than active participants. By shifting the focus from the disease to the patient, PCC aims to improve individual health outcomes, patient satisfaction, and the overall quality of care.
+
+The concept of patient-centeredness has its roots in the humanistic psychology of Carl Rogers in the 1940s and 1950s, which emphasized empathy and a client-centered approach. However, its application to healthcare gained significant momentum in the late 1980s through the work of the Picker Institute and The Commonwealth Fund. Harvey Picker, a philanthropist, and his wife Jean, after experiencing the healthcare system firsthand, established the Picker Institute in 1986 to promote a healthcare system that is more responsive to the needs and concerns of patients and their families. Their research, which involved extensive interviews with patients and healthcare providers, led to the identification of the key dimensions of patient-centered care, which have since become a guiding framework for healthcare organizations worldwide.
+
+### 2. Core Principles
+
+The Picker Institute, in collaboration with Harvard Medical School, identified eight core principles that form the foundation of Patient-Centered Care. These principles provide a framework for healthcare organizations to create a culture of care that is respectful of and responsive to the needs of patients and their families.
+
+1.  **Respect for patients' values, preferences, and expressed needs:** This principle emphasizes the importance of treating each patient as a unique individual with their own set of values, beliefs, and preferences. Healthcare providers should actively involve patients in decision-making processes, ensuring that the care provided aligns with what is most important to them. This includes respecting their cultural and religious beliefs, as well as their personal goals for their health and well-being.
+
+2.  **Coordination and integration of care:** Patients often experience a fragmented healthcare system, with multiple providers and specialists involved in their care. This principle highlights the need for seamless coordination and integration of care across all settings and providers. By ensuring that all members of the care team are on the same page, healthcare organizations can reduce medical errors, improve efficiency, and alleviate the feelings of vulnerability and powerlessness that patients often experience.
+
+3.  **Information and education:** Empowering patients to become active participants in their care requires providing them with clear, accurate, and timely information. This includes information about their clinical status, treatment options, and potential outcomes. By educating patients and their families, healthcare providers can foster a sense of shared responsibility and enable them to make informed decisions about their care.
+
+4.  **Physical comfort:** The physical comfort of patients is a critical aspect of their overall experience. This principle encompasses a wide range of factors, from effective pain management to a clean and comfortable hospital environment. By addressing the physical needs of patients, healthcare organizations can create a healing environment that promotes rest, recovery, and well-being.
+
+5.  **Emotional support and alleviation of fear and anxiety:** Illness and hospitalization can be a source of significant fear and anxiety for patients and their families. This principle underscores the importance of providing emotional support and addressing the psychological needs of patients. This includes showing empathy, compassion, and respect, as well as providing access to resources such as counseling and support groups.
+
+6.  **Involvement of family and friends:** Family and friends play a vital role in the patient's journey, providing both practical and emotional support. This principle recognizes the importance of involving family members in the care process, from participating in decision-making to providing hands-on care. By creating a welcoming and inclusive environment for families, healthcare organizations can enhance the patient's support system and improve their overall experience.
+
+7.  **Continuity and transition:** The transition from the hospital to home can be a challenging time for patients and their families. This principle emphasizes the need for a smooth and coordinated transition, with clear communication and a comprehensive discharge plan. This includes providing patients with the information and resources they need to manage their care at home, as well as ensuring that they have access to ongoing support and follow-up care.
+
+8.  **Access to care:** Patients should have timely and convenient access to the care they need. This principle addresses a range of barriers to access, from transportation and financial constraints to long wait times and difficulty scheduling appointments. By improving access to care, healthcare organizations can ensure that all patients have the opportunity to receive the care they need, when they need it.
+
+### 3. Key Practices
+
+Translating the principles of Patient-Centered Care into practice requires the adoption of specific strategies and behaviors by healthcare professionals and organizations. These key practices are the tangible actions that create a truly patient-centered experience.
+
+1.  **Shared Decision-Making:** This practice moves beyond informed consent to a collaborative process where clinicians and patients work together to make healthcare choices. It involves presenting all reasonable treatment options, discussing the potential benefits and harms of each, and considering the patient's values, preferences, and life circumstances. For example, a physician might discuss the pros and cons of different cancer treatments (e.g., surgery, chemotherapy, radiation) with a patient, and together they decide on a course of action that aligns with the patient's goals for quality of life.
+
+2.  **Personalized Care Planning:** Instead of using generic care plans, this practice involves creating individualized plans that are tailored to the specific needs of each patient. This includes considering the patient's clinical condition, as well as their social, emotional, and financial circumstances. For instance, a care plan for a diabetic patient might include not only medication and diet recommendations but also referrals to community resources for healthy food options and support groups.
+
+3.  **Open and Transparent Communication:** This practice involves fostering an environment of open and honest communication, where patients feel comfortable asking questions and expressing their concerns. It also means providing patients with access to their own health information, including their medical records and test results. Many healthcare systems now offer online patient portals where patients can view their health information, communicate with their providers, and schedule appointments.
+
+4.  **Patient and Family Engagement:** This practice involves actively engaging patients and their families in all aspects of care. This can range from inviting family members to participate in rounds to including patient representatives on hospital committees. For example, some hospitals have patient and family advisory councils that provide input on hospital policies and procedures.
+
+5.  **Team-Based, Coordinated Care:** This practice involves creating a multidisciplinary team of healthcare professionals who work together to provide comprehensive and coordinated care. This team may include physicians, nurses, social workers, pharmacists, and other specialists. Regular team meetings and shared electronic health records are essential for effective care coordination.
+
+6.  **Enhanced Access to Care:** This practice focuses on making healthcare more accessible and convenient for patients. This can include offering extended office hours, providing virtual consultations (telehealth), and using technology to streamline appointment scheduling and communication. For example, many clinics now offer same-day appointments and online scheduling to reduce wait times and improve access.
+
+7.  **Patient Education and Empowerment:** This practice involves providing patients with the knowledge and skills they need to manage their own health. This can include providing educational materials, offering self-management support programs, and using teach-back methods to ensure that patients understand their care plan. For instance, a nurse might use a teach-back method to confirm that a patient understands how to properly use their inhaler.
+
+8.  **Measurement and Improvement of Patient Experience:** This practice involves systematically measuring and improving the patient experience. This can be done through patient satisfaction surveys, focus groups, and other feedback mechanisms. The data collected is then used to identify areas for improvement and to track progress over time.
+
+### 4. Application Context
+
+Patient-Centered Care is a versatile framework that can be applied across a wide range of healthcare settings and patient populations. However, its effectiveness can vary depending on the specific context.
+
+**Best Used For:**
+
+*   **Chronic Disease Management:** For patients with chronic conditions such as diabetes, heart disease, and asthma, PCC can empower them to take an active role in managing their health, leading to better outcomes and improved quality of life.
+*   **End-of-Life Care:** In palliative and hospice care, PCC is essential for ensuring that patients’ wishes and preferences are respected, and that they receive care that is aligned with their goals for comfort and dignity.
+*   **Maternity Care:** PCC in maternity care involves treating the expectant mother and her family as partners in the birthing process, leading to a more positive and empowering experience.
+*   **Mental Health:** In mental healthcare, a person-centered approach is crucial for building trust and rapport between the patient and provider, and for developing a treatment plan that addresses the patient's unique needs and goals.
+*   **Primary Care:** The patient-centered medical home (PCMH) is a model of primary care that is based on the principles of PCC. It emphasizes a team-based approach to care, with a focus on prevention, wellness, and chronic disease management.
+
+**Not Suitable For:**
+
+*   **Emergency and Trauma Care:** In life-threatening emergencies, the immediate focus is on stabilizing the patient and providing life-saving interventions. While communication and respect are still important, the principles of shared decision-making may not be fully applicable in these situations.
+*   **Public Health Interventions:** While patient-centered principles can inform the design of public health programs, the focus of these interventions is on the health of the population as a whole, rather than the individual.
+
+**Scale:**
+
+Patient-Centered Care can be applied at all levels of the healthcare system, from the individual patient-provider interaction to the organizational and policy level. It can be implemented by individual clinicians, healthcare teams, entire hospitals, and even integrated delivery systems.
+
+**Domains:**
+
+Patient-Centered Care is applicable across all domains of healthcare, including:
+
+*   Hospitals
+*   Ambulatory care clinics
+*   Long-term care facilities
+*   Home health agencies
+*   Mental health centers
+*   Dental practices
+
+### 5. Implementation
+
+**Prerequisites:**
+
+*   **Leadership Commitment:** Strong and visible commitment from organizational leaders is essential for driving the cultural and operational changes required for PCC.
+*   **Clear Vision and Goals:** The organization must have a clear vision for what it wants to achieve with PCC and a set of specific, measurable goals to track progress.
+*   **Financial and Human Resources:** Implementing PCC requires an investment in training, technology, and staff time. Organizations must be willing to allocate the necessary resources to support the initiative.
+*   **A Culture of Continuous Improvement:** PCC is an ongoing process of learning and improvement. Organizations must be willing to experiment with new approaches, learn from their mistakes, and continuously refine their practices.
+
+**Getting Started:**
+
+1.  **Assess the Current State:** The first step is to assess the organization's current level of patient-centeredness. This can be done through patient surveys, focus groups, and staff interviews.
+2.  **Form a Guiding Coalition:** A multidisciplinary team of leaders, clinicians, and staff should be formed to guide the implementation process.
+3.  **Develop a Strategic Plan:** Based on the assessment, the guiding coalition should develop a strategic plan that outlines the organization's goals, priorities, and action steps for implementing PCC.
+4.  **Provide Training and Education:** All staff should receive training on the principles and practices of PCC. This training should be ongoing and tailored to the specific roles and responsibilities of each staff member.
+5.  **Start Small and Scale Up:** It is often best to start with a pilot project in a specific department or unit. This allows the organization to test new approaches, learn from its experiences, and build momentum for a broader rollout.
+
+**Common Challenges:**
+
+*   **Resistance to Change:** Healthcare professionals are often resistant to changes in their workflow and routines. Overcoming this resistance requires strong leadership, clear communication, and a compelling case for change.
+*   **Lack of Time and Resources:** Clinicians are often pressed for time and may feel that they do not have the time to engage in shared decision-making and other PCC practices. Organizations must find ways to support clinicians by providing them with the time, tools, and resources they need.
+*   **Misaligned Incentives:** Traditional fee-for-service payment models often reward volume over value, which can be a barrier to implementing PCC. Payment reform that rewards quality and patient outcomes is essential for creating a sustainable model of PCC.
+*   **Technology Barriers:** While technology can be a powerful enabler of PCC, it can also be a barrier if it is not user-friendly and does not support patient engagement.
+
+**Success Factors:**
+
+*   **Engaged Leadership:** Leaders who are actively involved in the implementation process and who model the desired behaviors are essential for success.
+*   **Empowered Frontline Staff:** Frontline staff who are empowered to make decisions and to innovate are a key driver of PCC.
+*   **Patient and Family Partnership:** A true partnership between patients, families, and healthcare providers is the cornerstone of PCC.
+*   **Data-Driven Improvement:** Organizations that use data to track their progress and to identify areas for improvement are more likely to succeed in implementing PCC.
+
+### 6. Evidence & Impact
+
+Patient-Centered Care has been widely adopted by healthcare organizations around the world, and a growing body of evidence demonstrates its positive impact on patient outcomes, patient satisfaction, and the overall cost of care.
+
+**Notable Adopters:**
+
+*   **Kaiser Permanente:** As one of the largest integrated healthcare systems in the United States, Kaiser Permanente has been a pioneer in implementing PCC. Their model of care is built on a foundation of prevention, wellness, and coordinated care, with a strong emphasis on patient engagement and shared decision-making.
+*   **Cleveland Clinic:** The Cleveland Clinic is another leading academic medical center that has embraced PCC. Their "Patients First" philosophy is embedded in all aspects of their operations, from the design of their facilities to the way they train their staff.
+*   **Planetree International:** Planetree is a non-profit organization that has been at the forefront of the PCC movement for over 40 years. They have developed a comprehensive framework for implementing PCC, which has been adopted by hundreds of healthcare organizations worldwide.
+*   **The Department of Veterans Affairs (VA):** The VA has made a significant commitment to PCC, with a focus on providing care that is personalized, proactive, and patient-driven. Their patient-centered medical home model, known as PACT (Patient Aligned Care Team), has been shown to improve patient outcomes and reduce costs.
+*   **Intermountain Healthcare:** Intermountain Healthcare is a not-for-profit healthcare system that is widely recognized for its commitment to quality and innovation. Their model of care is based on the principles of continuous improvement and evidence-based practice, with a strong focus on patient-centeredness.
+
+**Documented Outcomes:**
+
+A large and growing body of research has documented the positive impact of PCC on a wide range of outcomes, including:
+
+*   **Improved Patient Satisfaction:** Patients who receive patient-centered care report higher levels of satisfaction with their care.
+*   **Better Health Outcomes:** PCC has been shown to improve a variety of health outcomes, including better control of chronic conditions, reduced mortality rates, and improved quality of life.
+*   **Increased Patient Engagement:** Patients who are actively involved in their care are more likely to adhere to their treatment plans and to make healthy lifestyle choices.
+*   **Lower Costs:** By improving care coordination, reducing medical errors, and empowering patients to manage their own health, PCC can lead to lower healthcare costs.
+
+**Research Support:**
+
+*   A 2012 systematic review of the literature by the Health Research and Educational Trust found that PCC was associated with improved patient satisfaction, better health outcomes, and lower costs.
+*   A 2017 study published in the New England Journal of Medicine found that a patient-centered approach to care for patients with complex health needs led to a significant reduction in hospital readmissions and emergency department visits.
+*   The Institute of Medicine's landmark 2001 report, "Crossing the Quality Chasm: A New Health System for the 21st Century," identified patient-centeredness as one of the six key aims for improving the quality of healthcare.
+
+### 7. Cognitive Era Considerations
+
+The rise of artificial intelligence (AI) and other cognitive technologies is poised to have a profound impact on the practice of Patient-Centered Care. These technologies have the potential to both enhance and challenge the core principles of PCC.
+
+**Cognitive Augmentation Potential:**
+
+*   **Personalized Medicine:** AI algorithms can analyze vast amounts of data, including genomic data, to identify personalized treatment options for individual patients.
+*   **Predictive Analytics:** AI can be used to predict which patients are at high risk for certain conditions, allowing for early intervention and preventive care.
+*   **Virtual Health Assistants:** AI-powered virtual assistants can provide patients with 24/7 access to health information, support, and guidance.
+*   **Clinical Decision Support:** AI can provide clinicians with real-time decision support, helping them to make more informed and evidence-based decisions.
+
+**Human-Machine Balance:**
+
+While AI has the potential to enhance many aspects of PCC, it is important to maintain a balance between technology and the human touch. The core of PCC is the relationship between the patient and the provider, and this relationship cannot be replaced by technology. The uniquely human aspects of care, such as empathy, compassion, and communication, will become even more important in the cognitive era.
+
+**Evolution Outlook:**
+
+In the future, we can expect to see a greater integration of AI and other cognitive technologies into the practice of PCC. This will lead to a more personalized, proactive, and predictive model of care. However, it will also raise new ethical and social challenges, such as data privacy, algorithmic bias, and the digital divide. It will be essential to address these challenges in a thoughtful and proactive manner to ensure that the benefits of AI are realized in a way that is equitable and just.
+
+### 8. Commons Alignment Assessment (v2.0)
+
+This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
+
+**1. Stakeholder Architecture:**
+The pattern defines Rights and Responsibilities primarily for patients and healthcare providers, extending to the patient's immediate family. Patients gain the right to participate in decisions and the responsibility to be active in their care. While this is a significant step, it does not explicitly architect the roles of broader stakeholders like payers, technology providers, or the community, whose involvement is crucial for a truly systemic approach to value creation.
+
+**2. Value Creation Capability:**
+Patient-Centered Care strongly enables the creation of diverse value beyond the purely economic. It directly fosters improved health outcomes (resilience value), patient dignity and satisfaction (social value), and enhanced patient knowledge and empowerment (knowledge value). The framework shifts the focus from transactional service delivery to a collaborative partnership aimed at producing holistic well-being for the patient.
+
+**3. Resilience & Adaptability:**
+The pattern is designed to help the healthcare system adapt to the complexity of individual patient needs, preferences, and values. By establishing feedback loops through patient engagement and experience measurement, it creates a mechanism for continuous learning and adaptation. This approach helps maintain coherence and quality of care even when faced with the stress of complex chronic conditions or end-of-life situations.
+
+**4. Ownership Architecture:**
+PCC redefines ownership of the care process as a shared stewardship between the patient and provider, moving beyond the traditional provider-as-owner model. This is framed through the Rights and Responsibilities of shared decision-making and mutual engagement. It is less about financial equity and more about the distribution of control and agency in the co-creation of health.
+
+**5. Design for Autonomy:**
+The principles of PCC are highly compatible with autonomous and distributed systems. By empowering patients with information and agency, it fosters individual autonomy. The framework's emphasis on clear communication and coordination is well-suited for integration with AI-driven decision support tools and distributed care teams, although the coordination overhead can be a challenge without robust technological support.
+
+**6. Composability & Interoperability:**
+Patient-Centered Care is a highly composable pattern that serves as a foundational layer for larger value-creation systems. It interoperates effectively with other patterns such as the Patient-Centered Medical Home (PCMH), integrated care models, and various quality improvement methodologies. This allows it to be a core component in building more comprehensive and resilient healthcare ecosystems.
+
+**7. Fractal Value Creation:**
+The core logic of PCC is fractal, applying at multiple scales. The principles of partnership, respect, and shared decision-making can be practiced in a single patient-provider interaction (micro), guide the design of a clinical department (meso), and shape the culture and policies of an entire healthcare system (macro). This scalability allows the value-creation logic to permeate all levels of the system.
+
+**Overall Score: 4 (Value Creation Enabler)**
+
+**Rationale:**
+Patient-Centered Care is a strong enabler of collective value creation, fundamentally shifting healthcare from a provider-centric, service-delivery model to a collaborative, patient-partnered approach. It excels at creating non-monetary value, enhancing resilience, and distributing agency. It scores a 4 because while it is a powerful enabler, it is not a complete value creation architecture in itself; it requires integration with other patterns to address the full spectrum of stakeholders and systemic economic realities.
+
+**Opportunities for Improvement:**
+- Explicitly map the Rights and Responsibilities of a wider set of stakeholders, including payers, community organizations, and technology providers.
+- Develop mechanisms to more equitably distribute the value created, particularly in fee-for-service environments.
+- Integrate more formal governance structures to ensure patient and family voices are not just heard but have defined power in organizational decision-making.
+

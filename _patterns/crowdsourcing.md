@@ -1,13 +1,13 @@
---- 
+---
 id: pat_01kg5023y6fxsa08h2gnagmbdr
-page_url: https://commons-os.github.io/patterns/domain/crowdsourcing/
+page_url: https://commons-os.github.io/patterns/crowdsourcing/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/crowdsourcing.md
 slug: crowdsourcing
 title: Crowdsourcing
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 tags:
   universality: domain
   domain: operations
@@ -18,11 +18,14 @@ tags:
   commons_alignment: 3
 commons_domain: business
 generalizes_from: []
-specializes_to: ["pat_01kg5023y6fxsa08h2e6aqnr9g"]
+specializes_to:
+- pat_01kg5023y6fxsa08h2e6aqnr9g
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

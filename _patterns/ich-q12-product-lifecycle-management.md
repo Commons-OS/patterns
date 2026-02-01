@@ -1,16 +1,23 @@
 ---
+id: pat_70654157f6b2486da11fa37157
+page_url: https://commons-os.github.io/patterns/ich-q12-product-lifecycle-management/
+github_url: https://github.com/commons-os/patterns/blob/main/_patterns/ich-q12-product-lifecycle-management.md
 slug: ich-q12-product-lifecycle-management
 title: ICH Q12 (Product Lifecycle Management)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 tags:
   universality: domain
   domain: operations
-  category: [framework, meta-pattern]
-  era: [cognitive]
-  origin: [ICH]
+  category:
+  - framework
+  - meta-pattern
+  era:
+  - cognitive
+  origin:
+  - ICH
   status: draft
   commons_alignment: 4
 commons_domain: business
@@ -19,13 +26,15 @@ specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: 
-  - https://database.ich.org/sites/default/files/Q12_Guideline_Step4_2019_1119.pdf
-  - https://www.ema.europa.eu/en/ich-q12-technical-regulatory-considerations-pharmaceutical-product-lifecycle-management-scientific-guideline
-  - https://www.fda.gov/regulatory-information/search-fda-guidance-documents/q12-technical-and-regulatory-considerations-pharmaceutical-product-lifecycle-management-guidance
-  - https://ispe.org/pharmaceutical-engineering/may-june-2020/ich-q12-transformational-product-life-cycle-management
-  - https://www.advarra.com/blog/pharmaceutical-product-lifecycle-management/
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://database.ich.org/sites/default/files/Q12_Guideline_Step4_2019_1119.pdf
+- https://www.ema.europa.eu/en/ich-q12-technical-regulatory-considerations-pharmaceutical-product-lifecycle-management-scientific-guideline
+- https://www.fda.gov/regulatory-information/search-fda-guidance-documents/q12-technical-and-regulatory-considerations-pharmaceutical-product-lifecycle-management-guidance
+- https://ispe.org/pharmaceutical-engineering/may-june-2020/ich-q12-transformational-product-life-cycle-management
+- https://www.advarra.com/blog/pharmaceutical-product-lifecycle-management/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -1,16 +1,22 @@
 ---
+id: pat_857a21a6313e4532bc266cd76e
+page_url: https://commons-os.github.io/patterns/blended-learning/
+github_url: https://github.com/commons-os/patterns/blob/main/_patterns/blended-learning.md
 slug: blended-learning
 title: Blended Learning
-aliases: [Hybrid Learning, Mixed-Mode Instruction]
+aliases:
+- Hybrid Learning
+- Mixed-Mode Instruction
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 tags:
   universality: human-universal
   domain: culture
   category: practice
   era: digital
-  origin: [academic]
+  origin:
+  - academic
   status: draft
   commons_alignment: 4
 commons_domain: business
@@ -19,7 +25,9 @@ specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

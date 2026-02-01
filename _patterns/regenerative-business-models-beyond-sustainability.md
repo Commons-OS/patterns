@@ -1,32 +1,33 @@
 ---
-id: pat_01kg5023zseyh85cxg8cr7f0nk
+id: pat_bkjournfbvgglkrnbwnaqcgx6y
 page_url: https://commons-os.github.io/patterns/regenerative-business-models-beyond-sustainability/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/regenerative-business-models-beyond-sustainability.md
 slug: regenerative-business-models-beyond-sustainability
-title: Regenerative Business Models: Beyond Sustainability
-aliases: [Regenerative Enterprise, Net-Positive Business]
-version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+title: "Regenerative Business Models Beyond Sustainability"
+aliases: []
+version: "1.0"
+created: "2026-02-01T21:15:43Z"
+modified: "2026-02-01T21:15:43Z"
 tags:
-  universality: domain
-  domain: sustainability
-  category: meta-pattern
-  era: cognitive
-  origin: [academic, business]
+  universality: universal
+  domain: operations
+  category: [practice]
+  era: [digital]
+  origin: [Commons OS]
   status: draft
-  commons_alignment: 5
+  commons_alignment: 3
 commons_domain: business
-generalizes_from: ["pat_01kg5023wjfg8tqb1zny1rz16s"]
+generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023yzebrbkxpy6w243r3d", "pat_01kg5023wce4htqbxfeemnbwak", "pat_01kg50240rf3s9mqrr284wczhz", "pat_01kg5023xve9saxvbkcrkzc4jy", "pat_01kg50240hf7g93xhgnnqj6kv4", "pat_01kg5023wjfg8tqb1zny1rz16s", "pat_01kg5023zseyh85cxgdc134228", "pat_01kg5023vwe00rptkqw7kkhgah", "pat_01kg5023xve9saxvbke9pt1zne", "pat_01kg5023ygez1924mknd5wrfee", "pat_01kg502403e39rjfypfvwb3ebj", "pat_01kg50240zfdhtkt15ks7vh3qr", "pat_01kg5023zrexhr77rgtmbqtvy9", "pat_01kg5023yyfh08wev9cc23bjjk", "pat_01kg5023wkey887v6x5rk1m7cz"]
-contributors: [higgerix, cloudsters]
+related: []
+contributors: [commons-os]
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+---
 ---
 
 ### 1. Overview

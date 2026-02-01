@@ -23,7 +23,7 @@ enables: []
 requires: []
 related: []
 contributors: [higgerix, cloudsters]
-sources: [https://www.investopedia.com/terms/r/reverse-auction.asp, https://en.wikipedia.org/wiki/Reverse_auction, https://marketdojo.com/case-studies/, https://www.forbes.com/2000/03/06/going-going-gone-down/?sh=5e7f6d3e1b8f, https://www.apriori.com/blog/what-is-a-reverse-auction-how-buyers-maximize-strategy/]
+sources: ["https://www.investopedia.com/terms/r/reverse-auction.asp", "https://en.wikipedia.org/wiki/Reverse_auction", "https://marketdojo.com/case-studies/", "https://www.forbes.com/2000/03/06/going-going-gone-down/?sh=5e7f6d3e1b8f", "https://www.apriori.com/blog/what-is-a-reverse-auction-how-buyers-maximize-strategy/"]
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

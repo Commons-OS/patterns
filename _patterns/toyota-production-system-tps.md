@@ -1,20 +1,43 @@
 ---
+id: pat_5ccf5fbf28504e63b68c607d09
+page_url: https://commons-os.github.io/patterns/toyota-production-system-tps/
+github_url: https://github.com/commons-os/patterns/blob/main/_patterns/toyota-production-system-tps.md
 slug: toyota-production-system-tps
 title: Toyota Production System (TPS)
-aliases: [Lean Manufacturing, Just-in-Time Production]
+aliases:
+- Lean Manufacturing
+- Just-in-Time Production
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 tags:
   universality: domain
   domain: operations
-  category: [framework, methodology]
-  era: [industrial, cognitive]
-  origin: [toyota]
+  category:
+  - framework
+  - methodology
+  era:
+  - industrial
+  - cognitive
+  origin:
+  - toyota
   status: draft
   commons_alignment: 3
-contributors: [higgerix, cloudsters]
-sources: [https://en.wikipedia.org/wiki/Toyota_Production_System, https://www.ineak.com/key-principles-of-toyota-production-system-tps/, https://www.lean.org/lexicon-terms/toyota-production-system/, https://shoplogix.com/nine-companies-that-use-lean-manufacturing/, https://cloud.google.com/blog/topics/hybrid-cloud/toyota-ai-platform-manufacturing-efficiency]
+commons_domain: business
+generalizes_from: []
+specializes_to: []
+enables: []
+requires: []
+related: []
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Toyota_Production_System
+- https://www.ineak.com/key-principles-of-toyota-production-system-tps/
+- https://www.lean.org/lexicon-terms/toyota-production-system/
+- https://shoplogix.com/nine-companies-that-use-lean-manufacturing/
+- https://cloud.google.com/blog/topics/hybrid-cloud/toyota-ai-platform-manufacturing-efficiency
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

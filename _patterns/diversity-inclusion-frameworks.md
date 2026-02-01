@@ -1,16 +1,25 @@
 ---
+id: pat_e545ac33af5347c3b2d97e441c
+page_url: https://commons-os.github.io/patterns/diversity-inclusion-frameworks/
+github_url: https://github.com/commons-os/patterns/blob/main/_patterns/diversity-inclusion-frameworks.md
 slug: diversity-inclusion-frameworks
 title: Diversity & Inclusion Frameworks
-aliases: [DEI Frameworks, D&I Frameworks]
+aliases:
+- DEI Frameworks
+- D&I Frameworks
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 tags:
   universality: implementation
   domain: culture
-  category: [framework]
-  era: [digital]
-  origin: [academic, corporate]
+  category:
+  - framework
+  era:
+  - digital
+  origin:
+  - academic
+  - corporate
   status: draft
   commons_alignment: 4
 commons_domain: business
@@ -19,7 +28,9 @@ specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

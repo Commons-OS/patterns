@@ -1,16 +1,23 @@
----id: pat_placeholder
+---
+id: pat_placeholder
 slug: vertical-integration-model
 title: Vertical Integration Model
-aliases: [Vertical Consolidation]
+aliases:
+- Vertical Consolidation
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 tags:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [industrial, digital]
-  origin: [andrew-carnegie, ford-motor-company]
+  category:
+  - framework
+  era:
+  - industrial
+  - digital
+  origin:
+  - andrew-carnegie
+  - ford-motor-company
   status: draft
   commons_alignment: 3
 commons_domain: business
@@ -19,11 +26,15 @@ specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/vertical-integration-model/
+github_url: https://github.com/commons-os/patterns/blob/main/_patterns/vertical-integration-model.md
 ---
 
 ## 1. Overview

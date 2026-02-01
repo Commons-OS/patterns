@@ -23,7 +23,7 @@ enables: []
 requires: []
 related: []
 contributors: [higgerix, cloudsters]
-sources: [https://www.coastalbend.edu/institutional_effectiveness_research/practicalguidetospinhe.pdf, https://eric.ed.gov/?id=EJ1208199, https://link.springer.com/article/10.1007/s44217-024-00351-z, https://www.imd.org/research-knowledge/strategy/case-studies/the-seven-dimensions-of-academic-strategy-a-systems-framework-for-higher-education-excellence/, https://thoughtexchange.com/blog/3-proven-strategic-planning-models-for-k-12-education/]
+sources: ["https://www.coastalbend.edu/institutional_effectiveness_research/practicalguidetospinhe.pdf", "https://eric.ed.gov/?id=EJ1208199", "https://link.springer.com/article/10.1007/s44217-024-00351-z", "https://www.imd.org/research-knowledge/strategy/case-studies/the-seven-dimensions-of-academic-strategy-a-systems-framework-for-higher-education-excellence/", "https://thoughtexchange.com/blog/3-proven-strategic-planning-models-for-k-12-education/"]
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

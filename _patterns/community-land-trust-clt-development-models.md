@@ -1,16 +1,21 @@
 ---
+id: pat_63a75a82867848b88b75581a00
+page_url: https://commons-os.github.io/patterns/community-land-trust-clt-development-models/
+github_url: https://github.com/commons-os/patterns/blob/main/_patterns/community-land-trust-clt-development-models.md
 slug: community-land-trust-clt-development-models
 title: Community Land Trust (CLT) Development Models
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 tags:
   universality: human-universal
   domain: culture
   category: framework
   era: industrial
-  origin: ['civil-rights-movement', 'gramdan-movement']
+  origin:
+  - civil-rights-movement
+  - gramdan-movement
   status: draft
   commons_alignment: 4
 commons_domain: business
@@ -19,7 +24,9 @@ specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

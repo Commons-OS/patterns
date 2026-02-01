@@ -23,7 +23,7 @@ enables: []
 requires: []
 related: []
 contributors: [higgerix, cloudsters]
-sources: [https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592, https://gleematic.com/7-examples-of-automated-decision-making-processes-you-can-implement/, https://digitalgovernmenthub.org/wp-content/uploads/2023/08/Defining-and-Demystifying-Automated-Decision-Systems.pdf, https://inrule.com/blog/examples-of-decision-automation/, https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/, https://ieeexplore.ieee.org/document/7427547/]
+sources: ["https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592", "https://gleematic.com/7-examples-of-automated-decision-making-processes-you-can-implement/", "https://digitalgovernmenthub.org/wp-content/uploads/2023/08/Defining-and-Demystifying-Automated-Decision-Systems.pdf", "https://inrule.com/blog/examples-of-decision-automation/", "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/", "https://ieeexplore.ieee.org/document/7427547/"]
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

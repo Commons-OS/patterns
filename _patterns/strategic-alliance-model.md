@@ -1,3 +1,33 @@
+---
+id: pat_4c6cjjh4yve6jkyakc3qpobn6e
+page_url: https://commons-os.github.io/patterns/strategic-alliance-model/
+github_url: https://github.com/commons-os/patterns/blob/main/_patterns/strategic-alliance-model.md
+slug: strategic-alliance-model
+title: "Strategic Alliance Model"
+aliases: []
+version: "1.0"
+created: "2026-02-01T21:15:43Z"
+modified: "2026-02-01T21:15:43Z"
+tags:
+  universality: universal
+  domain: operations
+  category: [practice]
+  era: [digital]
+  origin: [Commons OS]
+  status: draft
+  commons_alignment: 3
+commons_domain: business
+generalizes_from: []
+specializes_to: []
+enables: []
+requires: []
+related: []
+contributors: [commons-os]
+sources: []
+license: CC-BY-SA-4.0
+attribution: Commons OS distributed by cloudsters, https://cloudsters.net
+repository: https://github.com/commons-os/patterns
+---
 
 ---
 id: pat_01kg502403e39rjfyp2ppsrnh1

@@ -1,6 +1,37 @@
 ---
-layout: pattern
+id: pat_0556d364f1594a98ac7663b9b7
+page_url: https://commons-os.github.io/patterns/donut-economics-documented/
+github_url: https://github.com/commons-os/patterns/blob/main/_patterns/donut-economics-documented.md
+slug: donut-economics-documented
 title: Donut Economics - Documented
+aliases: []
+version: '1.0'
+created: '2026-02-01T22:01:54Z'
+modified: '2026-02-01T22:01:54Z'
+tags:
+  universality: universal
+  domain: operations
+  category:
+  - practice
+  era:
+  - cognitive
+  origin:
+  - Commons OS
+  status: draft
+  commons_alignment: 3
+commons_domain: business
+generalizes_from: []
+specializes_to: []
+enables: []
+requires: []
+related: []
+contributors:
+- commons-os
+sources: []
+license: CC-BY-SA-4.0
+attribution: Commons OS distributed by cloudsters, https://cloudsters.net
+repository: https://github.com/commons-os/patterns
+layout: pattern
 author: Kate Raworth
 commons_alignment: 5
 ---

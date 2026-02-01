@@ -1,31 +1,62 @@
 ---
-title: 'Level 1>$section>$unit>ecodesign'
+id: pat_12d984c21a2f46079e9698e92a
+page_url: https://commons-os.github.io/patterns/ecodesign/
+github_url: https://github.com/commons-os/patterns/blob/main/_patterns/ecodesign.md
+slug: ecodesign
+title: Level 1>$section>$unit>ecodesign
+aliases: []
+version: '1.0'
+created: '2026-02-01T22:01:54Z'
+modified: '2026-02-01T22:01:54Z'
+tags:
+  universality: universal
+  domain: operations
+  category:
+  - practice
+  era:
+  - cognitive
+  origin:
+  - Commons OS
+  status: draft
+  commons_alignment: 3
+commons_domain: business
+generalizes_from: []
+specializes_to: []
+enables: []
+requires: []
+related: []
+contributors:
+- commons-os
+sources: []
+license: CC-BY-SA-4.0
+attribution: Commons OS distributed by cloudsters, https://cloudsters.net
+repository: https://github.com/commons-os/patterns
 commons_alignment: 4
 separator: <!--s-->
 verticalSeparator: <!--v-->
 theme: moon
 revealOptions:
-    transition: 'convex'
-    backgroundTransition: 'fade'
-    viewDistance: 5
-    center: false
-    overview: true
-    touch: true
-    progress: true
-    controls: true
-    controlsTutorial: true
-    controlsLayout: 'bottom-right'
-    help: true
-    mouseWheel: true
-    slideNumber: 'c/t'
-    autoSlide: 15000
-    width: '102%'
-    height: '102%'
-    margin: 0
-    minScale: 1.000000e-01
-    maxScale: 3
-    display: 'block'
-    transitionSpeed: 'default'
+  transition: convex
+  backgroundTransition: fade
+  viewDistance: 5
+  center: false
+  overview: true
+  touch: true
+  progress: true
+  controls: true
+  controlsTutorial: true
+  controlsLayout: bottom-right
+  help: true
+  mouseWheel: true
+  slideNumber: c/t
+  autoSlide: 15000
+  width: 102%
+  height: 102%
+  margin: 0
+  minScale: 0.1
+  maxScale: 3
+  display: block
+  transitionSpeed: default
 ---
 ___
 ## ecodesign

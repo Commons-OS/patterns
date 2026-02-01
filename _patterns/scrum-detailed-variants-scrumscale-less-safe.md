@@ -1,32 +1,33 @@
 ---
-id: pat_01kg5023zwft8t7k639ctqfhce
+id: pat_3goflysgg5c6jngrmjqw6lqizu
 page_url: https://commons-os.github.io/patterns/scrum-detailed-variants-scrumscale-less-safe/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/scrum-detailed-variants-scrumscale-less-safe.md
 slug: scrum-detailed-variants-scrumscale-less-safe
-title: Scrum (Detailed Variants: Scrum@Scale, LeSS, SAFe)
-aliases: ["Agile Scrum"]
-version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+title: "Scrum Detailed Variants Scrumscale Less Safe"
+aliases: []
+version: "1.0"
+created: "2026-02-01T21:15:43Z"
+modified: "2026-02-01T21:15:43Z"
 tags:
-  universality: domain
-  domain: design
-  category: [framework]
+  universality: universal
+  domain: operations
+  category: [practice]
   era: [digital]
-  origin: [agile-manifesto]
+  origin: [Commons OS]
   status: draft
-  commons_alignment: 4
+  commons_alignment: 3
 commons_domain: business
-generalizes_from: ["pat_01kg5023zwft8t7k63bfadqqwg"]
+generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023ydftgramg3qp7rjkam", "pat_01kg5023zwft8t7k635h086kyj", "pat_01kg5023ypf08rv1dagnb27bjj", "pat_01kg5023vwe00rptkqr3z6pkd9", "pat_01kg5023ypf08rv1dafrvtxwdr", "pat_01kg5023zbftgswm71hgn15e2f", "pat_01kg5023y7e50rxp3ew60jdasx", "pat_01kg5023ztenhrk74hc9a8qszj", "pat_01kg5023zwft8t7k63bfadqqwg", "pat_01kg50240wfjh98jqx34wdddnm", "pat_01kg5023xaemr9xsmd0fgaxe86", "pat_01kg5023yneg8rmv1200tvfn3g", "pat_01kg5023yneg8rmv122d6v7bg5", "pat_01kg5023xaemr9xsmcy13gf405", "pat_01kg5023xaemr9xsmcxd0eg8ek"]
-contributors: [higgerix, cloudsters]
-sources: ["https://www.scrum.org/resources/what-scrum-module", "https://scrumguides.org/scrum-guide.html", "https://www.scrumatscale.com/scrum-at-scale-guide/", "https://www.atlassian.com/agile/agile-at-scale/less", "https://en.wikipedia.org/wiki/Scaled_Agile_Framework"]
+related: []
+contributors: [commons-os]
+sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+---
 ---
 
 ### 1. Overview

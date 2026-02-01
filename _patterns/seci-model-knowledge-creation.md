@@ -1,3 +1,33 @@
+---
+id: pat_bx4shx23nvh3vgqocwtid5xfjy
+page_url: https://commons-os.github.io/patterns/seci-model-knowledge-creation/
+github_url: https://github.com/commons-os/patterns/blob/main/_patterns/seci-model-knowledge-creation.md
+slug: seci-model-knowledge-creation
+title: "Seci Model Knowledge Creation"
+aliases: []
+version: "1.0"
+created: "2026-02-01T21:15:43Z"
+modified: "2026-02-01T21:15:43Z"
+tags:
+  universality: universal
+  domain: operations
+  category: [practice]
+  era: [digital]
+  origin: [Commons OS]
+  status: draft
+  commons_alignment: 3
+commons_domain: business
+generalizes_from: []
+specializes_to: []
+enables: []
+requires: []
+related: []
+contributors: [commons-os]
+sources: []
+license: CC-BY-SA-4.0
+attribution: Commons OS distributed by cloudsters, https://cloudsters.net
+repository: https://github.com/commons-os/patterns
+---
 # SECI Model - Knowledge Creation
 
 ## Research Notes

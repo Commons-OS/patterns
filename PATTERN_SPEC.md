@@ -19,22 +19,30 @@ _patterns/
 
 ### Filename Format
 ```
-{sequential_number}-{slug}.md
+{slug}.md
 ```
 
 **Rules:**
-- `sequential_number`: Integer, starting from 1, no leading zeros
-- `slug`: Lowercase, hyphen-separated, human-readable
+- `slug`: Lowercase, hyphen-separated, human-readable identifier
 - Extension: `.md` (Markdown)
+- Slug MUST be unique across all patterns
+- Slug SHOULD be descriptive enough to distinguish similar patterns
 
 **Examples:**
 ```
-1-sociocracy-original-gerard-endenburg.md
-1024-steward-ownership.md
-1025-zero-trust-architecture.md
+sociocracy-original-gerard-endenburg.md
+steward-ownership.md
+zero-trust-architecture.md
+privacy-by-design-cavoukian.md
 ```
 
+**Slug Naming Guidelines:**
+- Use the pattern's common name as the base
+- Add originator name if multiple variants exist (e.g., `sociocracy-original-gerard-endenburg.md`)
+- Add distinguishing context if needed (e.g., `privacy-by-design-cavoukian.md` vs `privacy-by-design-gdpr.md`)
+
 **DO NOT USE:**
+- Sequential numbers (e.g., `1024-`, `1025-`)
 - Category prefixes (e.g., `P001-`, `S031-`, `IV001-`)
 - UUIDs in filenames
 - Uppercase letters
@@ -73,7 +81,8 @@ pat_01kg502401ejststrxw4haba08
 **Rules:**
 - IDs are immutable once assigned
 - IDs are globally unique across all patterns
-- IDs are used for cross-references between patterns
+- IDs are the primary identifier for cross-references between patterns
+- The TypeID is the ONLY unique identifier — slugs are for human readability
 
 ---
 
@@ -87,8 +96,8 @@ Every pattern MUST begin with YAML frontmatter enclosed in `---` delimiters.
 ---
 id: pat_{uuid7}                    # TypeID (required, immutable)
 page_url: https://commons-os.github.io/patterns/{slug}/
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/{filename}
-slug: {sequential}-{slug}          # Must match filename without .md
+github_url: https://github.com/commons-os/patterns/blob/main/_patterns/{slug}.md
+slug: {slug}                       # Must match filename without .md
 title: Pattern Title               # Human-readable title
 aliases: [Alias 1, Alias 2]        # Alternative names (can be empty [])
 version: 1.0                       # Semantic version
@@ -126,7 +135,7 @@ repository: https://github.com/commons-os/patterns
 
 | Field | Type | Required | Description |
 |-------|------|----------|-------------|
-| `id` | string | Yes | TypeID in format `pat_{uuid7}` |
+| `id` | string | Yes | TypeID in format `pat_{uuid7}` — the unique identifier |
 | `page_url` | string | Yes | Public URL on GitHub Pages |
 | `github_url` | string | Yes | Direct link to file on GitHub |
 | `slug` | string | Yes | URL-friendly identifier, matches filename |
@@ -149,7 +158,7 @@ repository: https://github.com/commons-os/patterns
 | `requires` | array | Yes | TypeIDs of required patterns |
 | `related` | array | Yes | TypeIDs of related patterns |
 | `contributors` | array | Yes | GitHub usernames of contributors |
-| `sources` | array | Yes | URLs of reference sources |
+| `sources` | array | Yes | URLs of reference sources (quote URLs with special characters) |
 | `license` | string | Yes | License identifier |
 | `attribution` | string | Yes | Attribution statement |
 | `repository` | string | Yes | Repository URL |
@@ -209,21 +218,21 @@ After the YAML frontmatter, the pattern content MUST follow this structure:
 
 Before committing any pattern, verify:
 
-### Automated Checks (run `scripts/validate_pattern.py`)
+### Automated Checks (run `scripts/validate_entity.py`)
 - [ ] File is in `_patterns/` directory
-- [ ] Filename matches `{number}-{slug}.md` format
-- [ ] YAML frontmatter is valid
+- [ ] Filename matches `{slug}.md` format (no numbers, lowercase, hyphens)
+- [ ] YAML frontmatter is valid and parseable
 - [ ] All required fields are present
-- [ ] `id` is in TypeID format
-- [ ] `slug` matches filename
+- [ ] `id` is in TypeID format (`pat_` prefix)
+- [ ] `slug` matches filename without `.md`
 - [ ] `commons_alignment` is between 1 and 5
-- [ ] All TypeID references in relationships are valid
+- [ ] All TypeID references in relationships exist in `graph.json`
 
 ### Manual Checks
 - [ ] Content follows the 8-section structure
-- [ ] 7 Pillars Assessment table is complete
+- [ ] 7 Pillars Assessment table is complete with rationales
 - [ ] Sources are properly cited
-- [ ] No duplicate pattern (check by title and aliases)
+- [ ] No duplicate pattern (check by title, slug, and aliases)
 
 ---
 
@@ -235,30 +244,29 @@ python3 scripts/generate_typeid.py
 # Output: pat_01kg5024abcdef123456789
 ```
 
-### Step 2: Determine Sequential Number
-```bash
-ls _patterns/ | tail -1
-# Find the highest number, add 1
-```
+### Step 2: Create Slug
+Choose a unique, descriptive slug:
+- Check existing patterns: `ls _patterns/`
+- Use pattern name + originator if needed for uniqueness
 
 ### Step 3: Create File from Template
 ```bash
-cp _templates/pattern.md _patterns/{number}-{slug}.md
+cp _templates/pattern.md _patterns/{slug}.md
 ```
 
 ### Step 4: Fill in Content
 - Replace all `{placeholders}` with actual values
 - Complete all 8 content sections
-- Fill in the 7 Pillars Assessment
+- Fill in the 7 Pillars Assessment with rationales
 
 ### Step 5: Validate
 ```bash
-python3 scripts/validate_pattern.py _patterns/{number}-{slug}.md
+python3 scripts/validate_entity.py _patterns/{slug}.md
 ```
 
 ### Step 6: Commit
 ```bash
-git add _patterns/{number}-{slug}.md
+git add _patterns/{slug}.md
 git commit -m "Add pattern: {title}"
 git push
 ```
@@ -293,15 +301,34 @@ git push
 
 ---
 
-## 9. Version History
+## 9. Retrieval & Indexing
+
+Patterns are stored as individual Markdown files, but retrieval is supported by generated indexes:
+
+### graph.json
+- Contains all pattern metadata and relationships
+- Rebuilt automatically on each push to main
+- Use for: finding patterns by TypeID, querying relationships
+
+### embeddings.json
+- Contains vector embeddings for semantic search
+- Rebuilt automatically when patterns change
+- Use for: "find patterns about X" queries
+
+**Note:** These indexes are derived from the Markdown files. The files are the source of truth.
+
+---
+
+## 10. Version History
 
 | Version | Date | Changes |
 |---------|------|---------|
 | 1.0 | 2026-02-01 | Initial specification |
+| 1.1 | 2026-02-01 | Removed sequential numbers from filename format; slug-only naming |
 
 ---
 
-## 10. Questions?
+## 11. Questions?
 
 If anything in this specification is unclear, open an issue at:
 https://github.com/commons-os/patterns/issues

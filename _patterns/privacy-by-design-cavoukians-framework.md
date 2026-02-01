@@ -23,7 +23,7 @@ enables: []
 requires: []
 related: []
 contributors: [higgerix, cloudsters]
-sources: [https://en.wikipedia.org/wiki/Privacy_by_design, https://www.ipc.on.ca/en/media/1826/download?attachment, https://www.onetrust.com/blog/privacy-by-design/, https://carbidesecure.com/resources/the-seven-principles-of-privacy-by-design/, https://www.datagrail.io/blog/data-privacy/privacy-by-design-in-practice/]
+sources: ["https://en.wikipedia.org/wiki/Privacy_by_design", "https://www.ipc.on.ca/en/media/1826/download?attachment", "https://www.onetrust.com/blog/privacy-by-design/", "https://carbidesecure.com/resources/the-seven-principles-of-privacy-by-design/", "https://www.datagrail.io/blog/data-privacy/privacy-by-design-in-practice/"]
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

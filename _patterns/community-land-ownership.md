@@ -1,19 +1,26 @@
 ---
 id: pat_01kg5023y0eh0v55ey9zsnv1c3
-page_url: https://commons-os.github.io/patterns/domain/community-land-ownership/
+page_url: https://commons-os.github.io/patterns/community-land-ownership/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/community-land-ownership.md
 slug: community-land-ownership
 title: Community Land Ownership
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 tags:
   universality: culture
   domain: domain
-  category: [framework, practice]
-  era: [agricultural, industrial, digital, cognitive]
-  origin: ["Civil Rights Movement"]
+  category:
+  - framework
+  - practice
+  era:
+  - agricultural
+  - industrial
+  - digital
+  - cognitive
+  origin:
+  - Civil Rights Movement
   status: draft
   commons_alignment: 5
 commons_domain: business
@@ -22,7 +29,9 @@ specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

@@ -23,7 +23,7 @@ enables: []
 requires: []
 related: []
 contributors: [higgerix, cloudsters]
-sources: [https://en.wikipedia.org/wiki/Dynamic_capabilities, https://open.ncl.ac.uk/theories/19/dynamic-capabilities-theory/, https://www.sciencedirect.com/science/article/pii/S0024630117302868, https://www.davidjteece.com/dynamic-capabilities, https://josephmahoney.web.illinois.edu/BA545_Fall%202022/Teece,%20Pisano%20and%20Shuen%20(1997).pdf]
+sources: ["https://en.wikipedia.org/wiki/Dynamic_capabilities", "https://open.ncl.ac.uk/theories/19/dynamic-capabilities-theory/", "https://www.sciencedirect.com/science/article/pii/S0024630117302868", "https://www.davidjteece.com/dynamic-capabilities", "https://josephmahoney.web.illinois.edu/BA545_Fall%202022/Teece,%20Pisano%20and%20Shuen%20(1997).pdf"]
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -1,25 +1,54 @@
 ---
+id: pat_a7614bcaa9894574a89a5a5476
+page_url: https://commons-os.github.io/patterns/kaizen-continuous-improvement/
+github_url: https://github.com/commons-os/patterns/blob/main/_patterns/kaizen-continuous-improvement.md
 slug: kaizen-continuous-improvement
 title: Kaizen (Continuous Improvement)
-aliases: [Continuous Improvement, Gemba Kaizen]
+aliases:
+- Continuous Improvement
+- Gemba Kaizen
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 tags:
   universality: human-universal
   domain: operations
-  category: [methodology, principle]
-  era: [industrial, digital]
-  origin: [toyota, post-war-japan]
+  category:
+  - methodology
+  - principle
+  era:
+  - industrial
+  - digital
+  origin:
+  - toyota
+  - post-war-japan
   status: draft
   commons_alignment: 4
 commons_domain: business
-generalizes_from: ["pat_01kg5023vmfk9bnr9pzvxb1j3z"]
+generalizes_from:
+- pat_01kg5023vmfk9bnr9pzvxb1j3z
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023z9e988phvxv2ywhcrd", "pat_01kg50240pfa89r4q24ctm0q0w", "pat_01kg502407eyh8wbym4fzzr7et", "pat_01kg5023zae8rthxw686kx5x4k", "pat_01kg5023vyfzhvteh04eykysqz", "pat_01kg5023x6ecsvs4r50r92ggad", "pat_01kg5023vmfk9bnr9pzvxb1j3z", "pat_01kg5023zcf99tjg7qba44c2j7", "pat_01kg5023zbftgswm71sjjf53xx", "pat_01kg5023wbfw1azjwp99gcgcrn", "pat_01kg5023zcf99tjg7qgdbhqfkm", "pat_01kg5023w1f29v6bdxpahq6a1m", "pat_01kg50240bf4ra2qcwx56j5qk8", "pat_01kg5023vke6gsrh5cyb1wbkte", "pat_01kg5023yweb8r88nxjsysr1hq"]
-contributors: [higgerix, cloudsters]
+related:
+- pat_01kg5023z9e988phvxv2ywhcrd
+- pat_01kg50240pfa89r4q24ctm0q0w
+- pat_01kg502407eyh8wbym4fzzr7et
+- pat_01kg5023zae8rthxw686kx5x4k
+- pat_01kg5023vyfzhvteh04eykysqz
+- pat_01kg5023x6ecsvs4r50r92ggad
+- pat_01kg5023vmfk9bnr9pzvxb1j3z
+- pat_01kg5023zcf99tjg7qba44c2j7
+- pat_01kg5023zbftgswm71sjjf53xx
+- pat_01kg5023wbfw1azjwp99gcgcrn
+- pat_01kg5023zcf99tjg7qgdbhqfkm
+- pat_01kg5023w1f29v6bdxpahq6a1m
+- pat_01kg50240bf4ra2qcwx56j5qk8
+- pat_01kg5023vke6gsrh5cyb1wbkte
+- pat_01kg5023yweb8r88nxjsysr1hq
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
