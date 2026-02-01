@@ -1,0 +1,83 @@
+name: Validate Entities
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - '_staging/**'
+      - '_patterns/**'
+      - '_lighthouses/**'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    name: Validate Pattern and Lighthouse Files
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install pyyaml
+      
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v44
+        with:
+          files: |
+            _staging/**/*.md
+            _patterns/**/*.md
+            _lighthouses/**/*.md
+      
+      - name: Validate changed files
+        if: steps.changed-files.outputs.any_changed == 'true'
+        run: |
+          echo "Validating changed entity files..."
+          ERRORS=0
+          
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            echo "Checking: $file"
+            if ! python3 scripts/validate_entity.py "$file"; then
+              ERRORS=$((ERRORS + 1))
+            fi
+          done
+          
+          if [ $ERRORS -gt 0 ]; then
+            echo "❌ Validation failed with $ERRORS file(s) having errors"
+            exit 1
+          else
+            echo "✅ All files validated successfully"
+          fi
+      
+      - name: Post validation summary
+        if: always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const changedFiles = '${{ steps.changed-files.outputs.all_changed_files }}'.split(' ').filter(f => f);
+            
+            let summary = '## Pattern Engine Validation Report\n\n';
+            summary += `**Files checked:** ${changedFiles.length}\n\n`;
+            
+            if (changedFiles.length > 0) {
+              summary += '### Validated Files\n';
+              changedFiles.forEach(f => {
+                summary += `- \`${f}\`\n`;
+              });
+            }
+            
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: summary
+            });
