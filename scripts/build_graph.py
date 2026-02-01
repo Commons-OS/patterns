@@ -36,6 +36,15 @@ def parse_frontmatter(content: str) -> Tuple[Optional[Dict], str]:
         return None, content
 
 
+def to_string(value):
+    """Convert value to string, handling datetime objects."""
+    if value is None:
+        return ''
+    if hasattr(value, 'isoformat'):
+        return value.isoformat()
+    return str(value)
+
+
 def extract_pattern_node(frontmatter: Dict, filepath: str) -> Dict:
     """Extract pattern node data from frontmatter."""
     tags = frontmatter.get('tags', {})
@@ -50,8 +59,8 @@ def extract_pattern_node(frontmatter: Dict, filepath: str) -> Dict:
         'category': tags.get('category', []),
         'era': tags.get('era', []),
         'commons_domain': frontmatter.get('commons_domain', ''),
-        'created': frontmatter.get('created', ''),
-        'modified': frontmatter.get('modified', ''),
+        'created': to_string(frontmatter.get('created', '')),
+        'modified': to_string(frontmatter.get('modified', '')),
         'filepath': filepath
     }
 
@@ -73,8 +82,8 @@ def extract_lighthouse_node(frontmatter: Dict, filepath: str) -> Dict:
         'location': location,
         'website': frontmatter.get('website', ''),
         'founded': frontmatter.get('founded', 0),
-        'created': frontmatter.get('created', ''),
-        'modified': frontmatter.get('modified', ''),
+        'created': to_string(frontmatter.get('created', '')),
+        'modified': to_string(frontmatter.get('modified', '')),
         'filepath': filepath
     }
 
