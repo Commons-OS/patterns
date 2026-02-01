@@ -7,8 +7,8 @@ from pathlib import Path
 
 def main():
     # Load the pattern index
-    pattern_index_path = Path("/home/ubuntu/patterns/_data/pattern_index.json")
-    search_index_path = Path("/home/ubuntu/patterns/search-index.json")
+    pattern_index_path = Path(__file__).parent.parent / "_data" / "pattern_index.json"
+    search_index_path = Path(__file__).parent.parent / "search-index.json"
     
     with open(pattern_index_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
