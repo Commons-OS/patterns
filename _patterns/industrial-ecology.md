@@ -10,7 +10,7 @@ aliases:
 version: 1.1
 created: 2026-01-28 00:00:00+00:00
 modified: 2026-01-28 00:00:00+00:00
-tags:
+classification:
   universality: domain
   domain: sustainability
   category: meta-pattern

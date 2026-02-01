@@ -104,7 +104,7 @@ version: 1.0                       # Semantic version
 created: YYYY-MM-DDTHH:MM:SSZ      # ISO 8601 timestamp
 modified: YYYY-MM-DDTHH:MM:SSZ     # ISO 8601 timestamp
 
-tags:
+classification:
   universality: universal|domain   # universal = applies everywhere, domain = specific context
   domain: governance|operations|finance|technology|culture|security|privacy|sovereignty|startup
   category: [framework|practice|principle|tool|structure|process|anti-pattern]
@@ -144,13 +144,13 @@ repository: https://github.com/commons-os/patterns
 | `version` | string | Yes | Semantic version (e.g., 1.0, 1.1) |
 | `created` | string | Yes | ISO 8601 creation timestamp |
 | `modified` | string | Yes | ISO 8601 last modified timestamp |
-| `tags.universality` | string | Yes | `universal` or `domain` |
-| `tags.domain` | string | Yes | Primary domain category |
-| `tags.category` | array | Yes | Pattern type(s) |
-| `tags.era` | array | Yes | Historical era(s) of applicability |
-| `tags.origin` | array | Yes | Creator(s) of the pattern |
-| `tags.status` | string | Yes | `draft`, `review`, or `published` |
-| `tags.commons_alignment` | integer | Yes | 1-5 score for commons alignment |
+| `classification.universality` | string | Yes | `universal` or `domain` |
+| `classification.domain` | string | Yes | Primary domain category |
+| `classification.category` | array | Yes | Pattern type(s) |
+| `classification.era` | array | Yes | Historical era(s) of applicability |
+| `classification.origin` | array | Yes | Creator(s) of the pattern |
+| `classification.status` | string | Yes | `draft`, `review`, or `published` |
+| `classification.commons_alignment` | integer | Yes | 1-5 score for commons alignment |
 | `commons_domain` | string | Yes | High-level domain classification |
 | `generalizes_from` | array | Yes | TypeIDs of parent patterns |
 | `specializes_to` | array | Yes | TypeIDs of child patterns |
@@ -325,6 +325,7 @@ Patterns are stored as individual Markdown files, but retrieval is supported by 
 |---------|------|---------|
 | 1.0 | 2026-02-01 | Initial specification |
 | 1.1 | 2026-02-01 | Removed sequential numbers from filename format; slug-only naming |
+| 1.2 | 2026-02-02 | Renamed `tags` to `classification` to avoid Jekyll reserved keyword conflict |
 
 ---
 

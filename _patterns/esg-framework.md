@@ -8,7 +8,7 @@ aliases: []
 version: '1.0'
 created: '2026-02-01T22:02:19Z'
 modified: '2026-02-01T22:02:19Z'
-tags:
+classification:
   universality: universal
   domain: operations
   category:

@@ -8,7 +8,7 @@ aliases: []
 version: '1.0'
 created: '2026-02-01T14:55:08Z'
 modified: '2026-02-01T14:55:08Z'
-tags:
+classification:
   universality: universal
   domain: startup
   category:

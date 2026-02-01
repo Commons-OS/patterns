@@ -8,7 +8,7 @@ aliases: [Lease-to-Own, Equipment Leasing, Financial Leasing]
 version: 1.0
 created: 2026-01-28T00:00:00Z
 modified: 2026-01-28T00:00:00Z
-tags:
+classification:
   universality: domain
   domain: operations
   category: [practice]

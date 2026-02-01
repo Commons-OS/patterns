@@ -8,7 +8,7 @@ aliases: []
 version: 1.0
 created: 2026-02-01 12:17:06+00:00
 modified: 2026-02-01 12:17:06+00:00
-tags:
+classification:
   universality: universal
   domain: ai-governance
   category:

@@ -90,9 +90,9 @@ def title_similarity(title1: str, title2: str) -> float:
     return SequenceMatcher(None, norm1, norm2).ratio()
 
 
-def tag_overlap(tags1: Dict, tags2: Dict) -> float:
+def classification_overlap(tags1: Dict, tags2: Dict) -> float:
     """Calculate tag overlap between two entities."""
-    def flatten_tags(tags):
+    def flatten_classification(tags):
         flat = set()
         for key, value in tags.items():
             if isinstance(value, list):
@@ -101,8 +101,8 @@ def tag_overlap(tags1: Dict, tags2: Dict) -> float:
                 flat.add(value.lower())
         return flat
     
-    set1 = flatten_tags(tags1)
-    set2 = flatten_tags(tags2)
+    set1 = flatten_classification(tags1)
+    set2 = flatten_classification(tags2)
     
     if not set1 or not set2:
         return 0.0
@@ -169,12 +169,12 @@ def build_similarity_index(base_dir: Path, client=None) -> Dict:
             
             entity_id = frontmatter['id']
             title = frontmatter.get('title', '')
-            tags = frontmatter.get('tags', {})
+            tags = frontmatter.get('classification', {})
             
             entry = {
                 'title': title,
                 'normalized_title': normalize_title(title),
-                'tags': tags,
+                'classification': tags,
                 'filepath': str(filepath.relative_to(base_dir)),
                 'type': 'pattern' if entity_id.startswith('pat_') else 'lighthouse'
             }
@@ -203,7 +203,7 @@ def check_duplicates(filepath: str, base_dir: Path) -> Dict:
     
     new_id = frontmatter.get('id', 'unknown')
     new_title = frontmatter.get('title', '')
-    new_tags = frontmatter.get('tags', {})
+    new_classification = frontmatter.get('classification', {})
     
     print(f"Checking: {new_title}")
     
@@ -235,7 +235,7 @@ def check_duplicates(filepath: str, base_dir: Path) -> Dict:
         title_sim = title_similarity(new_title, entity_data['title'])
         
         # Tag overlap
-        tag_sim = tag_overlap(new_tags, entity_data.get('tags', {}))
+        classification_sim = classification_overlap(new_classification, entity_data.get('classification', {}))
         
         # Content similarity (if embeddings available)
         content_sim = 0.0
@@ -244,9 +244,9 @@ def check_duplicates(filepath: str, base_dir: Path) -> Dict:
         
         # Combined score (weighted average)
         if new_embedding and 'embedding' in entity_data:
-            combined = (title_sim * 0.3) + (content_sim * 0.5) + (tag_sim * 0.2)
+            combined = (title_sim * 0.3) + (content_sim * 0.5) + (classification_sim * 0.2)
         else:
-            combined = (title_sim * 0.6) + (tag_sim * 0.4)
+            combined = (title_sim * 0.6) + (classification_sim * 0.4)
         
         if combined >= LINK_THRESHOLD:
             candidates.append({
@@ -256,7 +256,7 @@ def check_duplicates(filepath: str, base_dir: Path) -> Dict:
                 'scores': {
                     'title': round(title_sim, 3),
                     'content': round(content_sim, 3),
-                    'tags': round(tag_sim, 3),
+                    'classification': round(classification_sim, 3),
                     'combined': round(combined, 3)
                 }
             })

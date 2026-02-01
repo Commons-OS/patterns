@@ -11,7 +11,7 @@ aliases:
 version: 1.0
 created: 2026-01-28 00:00:00+00:00
 modified: 2026-01-28 00:00:00+00:00
-tags:
+classification:
   universality: human-universal
   domain: technology
   category:

@@ -8,7 +8,7 @@ aliases: [Proprietary Methodologies, Signature Systems, Branded Frameworks]
 version: 1.0
 created: 2026-01-28T00:00:00Z
 modified: 2026-01-28T00:00:00Z
-tags:
+classification:
   universality: implementation
   domain: meta
   category: meta-pattern

@@ -8,7 +8,7 @@ aliases: [Spotify Model, EwL, Experiments with Learning]
 version: 1.0
 created: 2026-01-28T00:00:00Z
 modified: 2026-01-28T00:00:00Z
-tags:
+classification:
   universality: implementation
   domain: meta
   category: [framework, methodology]

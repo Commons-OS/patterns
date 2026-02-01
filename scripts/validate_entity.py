@@ -39,7 +39,7 @@ VALID_REGIONS = ['north-america', 'south-america', 'europe', 'asia', 'africa', '
 # Required fields
 REQUIRED_PATTERN_FIELDS = [
     'id', 'page_url', 'github_url', 'slug', 'title', 'aliases', 'version',
-    'created', 'modified', 'tags', 'commons_domain', 'generalizes_from',
+    'created', 'modified', 'classification', 'commons_domain', 'generalizes_from',
     'specializes_to', 'enables', 'requires', 'related', 'contributors',
     'sources', 'license', 'attribution', 'repository'
 ]
@@ -50,7 +50,7 @@ REQUIRED_PATTERN_TAG_FIELDS = [
 
 REQUIRED_LIGHTHOUSE_FIELDS = [
     'id', 'page_url', 'github_url', 'slug', 'title', 'aliases', 'version',
-    'created', 'modified', 'tags', 'location', 'implements', 'inspired_by',
+    'created', 'modified', 'classification', 'location', 'implements', 'inspired_by',
     'collaborates_with', 'related', 'website', 'founded', 'contributors',
     'sources', 'license', 'attribution', 'repository'
 ]
@@ -138,10 +138,10 @@ def validate_required_fields(frontmatter, entity_type):
         if field not in frontmatter:
             errors.append(ValidationError(f"Missing required field: {field}"))
     
-    if 'tags' in frontmatter and isinstance(frontmatter['tags'], dict):
+    if 'classification' in frontmatter and isinstance(frontmatter['classification'], dict):
         for tag_field in required_tag_fields:
-            if tag_field not in frontmatter['tags']:
-                errors.append(ValidationError(f"Missing required tag field: tags.{tag_field}"))
+            if tag_field not in frontmatter['classification']:
+                errors.append(ValidationError(f"Missing required tag field: classification.{tag_field}"))
     
     return errors
 
@@ -150,24 +150,24 @@ def validate_field_values(frontmatter, entity_type):
     """Validate that field values are correct."""
     errors = []
     
-    if 'tags' in frontmatter and isinstance(frontmatter['tags'], dict):
-        tags = frontmatter['tags']
+    if 'classification' in frontmatter and isinstance(frontmatter['classification'], dict):
+        classification = frontmatter['classification']
         
-        if 'status' in tags and tags['status'] not in VALID_STATUS:
-            errors.append(ValidationError(f"Invalid status: {tags['status']}. Must be one of {VALID_STATUS}"))
+        if 'status' in classification and classification['status'] not in VALID_STATUS:
+            errors.append(ValidationError(f"Invalid status: {classification['status']}. Must be one of {VALID_STATUS}"))
         
-        if 'commons_alignment' in tags:
-            alignment = tags['commons_alignment']
+        if 'commons_alignment' in classification:
+            alignment = classification['commons_alignment']
             if not isinstance(alignment, (int, float)) or alignment < 1 or alignment > 5:
                 errors.append(ValidationError(f"Invalid commons_alignment: {alignment}. Must be between 1 and 5"))
         
         if entity_type == 'pattern':
-            if 'domain' in tags and tags['domain'] not in VALID_PATTERN_DOMAINS:
-                errors.append(ValidationError(f"Invalid domain: {tags['domain']}. Must be one of {VALID_PATTERN_DOMAINS}"))
+            if 'domain' in classification and classification['domain'] not in VALID_PATTERN_DOMAINS:
+                errors.append(ValidationError(f"Invalid domain: {classification['domain']}. Must be one of {VALID_PATTERN_DOMAINS}"))
         
         if entity_type == 'lighthouse':
-            if 'scale' in tags and tags['scale'] not in VALID_SCALES:
-                errors.append(ValidationError(f"Invalid scale: {tags['scale']}. Must be one of {VALID_SCALES}"))
+            if 'scale' in classification and classification['scale'] not in VALID_SCALES:
+                errors.append(ValidationError(f"Invalid scale: {classification['scale']}. Must be one of {VALID_SCALES}"))
     
     if entity_type == 'pattern':
         if 'commons_domain' in frontmatter and frontmatter['commons_domain'] not in VALID_COMMONS_DOMAINS:

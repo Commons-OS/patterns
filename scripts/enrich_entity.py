@@ -207,14 +207,14 @@ Respond in JSON format:
     return json.loads(response.choices[0].message.content)
 
 
-def suggest_tags(client, content: str, frontmatter: Dict, entity_type: str) -> Dict:
+def suggest_classification(client, content: str, frontmatter: Dict, entity_type: str) -> Dict:
     """Use AI to suggest refined tags based on content analysis."""
-    current_tags = frontmatter.get('tags', {})
+    current_classification = frontmatter.get('classification', {})
     
     prompt = f"""Analyze this {entity_type} and suggest appropriate tags.
 
 Title: {frontmatter.get('title', 'Unknown')}
-Current tags: {json.dumps(current_tags, indent=2)}
+Current tags: {json.dumps(current_classification, indent=2)}
 
 Content:
 {content[:4000]}
@@ -227,7 +227,7 @@ Based on the content, suggest tags for:
 
 Respond in JSON format:
 {{
-    "suggested_tags": {{
+    "suggested_classification": {{
         "domain": "<suggested domain>",
         "category": ["<category1>", "<category2>"],
         "era": ["<era>"],
@@ -330,7 +330,7 @@ def enrich_entity(filepath: str, base_dir: Path) -> Dict:
     
     # Suggest tags
     print("  Analyzing tags...")
-    tags = suggest_tags(client, content, frontmatter, entity_type)
+    tags = suggest_classification(client, content, frontmatter, entity_type)
     
     # Suggest relationships
     print("  Discovering relationships...")
@@ -344,7 +344,7 @@ def enrich_entity(filepath: str, base_dir: Path) -> Dict:
         "filepath": str(filepath),
         "timestamp": datetime.utcnow().isoformat() + "Z",
         "quality": quality,
-        "tags": tags,
+        "classification": tags,
         "relationships": relationships,
         "similar_entities": similar
     }
@@ -379,7 +379,7 @@ def print_enrichment_summary(report: Dict):
             print(f"   - {issue}")
     
     # Tags
-    t = report.get('tags', {})
+    t = report.get('classification', {})
     if t.get('tag_changes'):
         print("\n🏷️ TAG SUGGESTIONS:")
         for change in t['tag_changes'][:3]:

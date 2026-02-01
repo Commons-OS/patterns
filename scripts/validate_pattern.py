@@ -19,7 +19,7 @@ from datetime import datetime
 # Required YAML fields
 REQUIRED_FIELDS = [
     'id', 'page_url', 'github_url', 'slug', 'title', 'aliases', 'version',
-    'created', 'modified', 'tags', 'commons_domain', 'generalizes_from',
+    'created', 'modified', 'classification', 'commons_domain', 'generalizes_from',
     'specializes_to', 'enables', 'requires', 'related', 'contributors',
     'sources', 'license', 'attribution', 'repository'
 ]
@@ -28,7 +28,7 @@ REQUIRED_TAG_FIELDS = [
     'universality', 'domain', 'category', 'era', 'origin', 'status', 'commons_alignment'
 ]
 
-VALID_UNIVERSALITY = ['universal', 'domain']
+VALID_UNIVERSALITY = ['universal', 'domain', 'implementation', 'context-specific', 'human-universal', 'design', 'meta', 'culture']
 VALID_DOMAINS = ['governance', 'operations', 'finance', 'technology', 'culture', 
                  'security', 'privacy', 'sovereignty', 'startup']
 VALID_CATEGORIES = ['framework', 'practice', 'principle', 'tool', 'structure', 'process', 'anti-pattern']
@@ -39,8 +39,8 @@ VALID_COMMONS_DOMAINS = ['business', 'security', 'startup', 'urban', 'ecology', 
 # TypeID pattern: pat_ followed by 26 alphanumeric characters
 TYPEID_PATTERN = re.compile(r'^pat_[a-z0-9]{20,30}$')
 
-# Filename pattern: number-slug.md
-FILENAME_PATTERN = re.compile(r'^(\d+)-([a-z0-9-]+)\.md$')
+# Filename pattern: slug.md (lowercase, hyphens, alphanumeric)
+FILENAME_PATTERN = re.compile(r'^[a-z0-9][a-z0-9-]*\.md$')
 
 
 class ValidationError:
@@ -79,7 +79,7 @@ def validate_filename(filepath):
     """Validate filename format."""
     filename = os.path.basename(filepath)
     if not FILENAME_PATTERN.match(filename):
-        return ValidationError(f"Filename '{filename}' does not match format '{{number}}-{{slug}}.md'")
+        return ValidationError(f"Filename '{filename}' does not match format '{{slug}}.md' (lowercase, hyphens, alphanumeric)")
     return None
 
 
@@ -99,10 +99,10 @@ def validate_required_fields(frontmatter):
             errors.append(ValidationError(f"Missing required field: {field}"))
     
     # Check nested tag fields
-    if 'tags' in frontmatter and isinstance(frontmatter['tags'], dict):
+    if 'classification' in frontmatter and isinstance(frontmatter['classification'], dict):
         for tag_field in REQUIRED_TAG_FIELDS:
-            if tag_field not in frontmatter['tags']:
-                errors.append(ValidationError(f"Missing required tag field: tags.{tag_field}"))
+            if tag_field not in frontmatter['classification']:
+                errors.append(ValidationError(f"Missing required tag field: classification.{tag_field}"))
     
     return errors
 
@@ -112,20 +112,20 @@ def validate_field_values(frontmatter):
     errors = []
     
     # Validate tags
-    if 'tags' in frontmatter and isinstance(frontmatter['tags'], dict):
-        tags = frontmatter['tags']
+    if 'classification' in frontmatter and isinstance(frontmatter['classification'], dict):
+        classification = frontmatter['classification']
         
-        if 'universality' in tags and tags['universality'] not in VALID_UNIVERSALITY:
-            errors.append(ValidationError(f"Invalid universality: {tags['universality']}. Must be one of {VALID_UNIVERSALITY}"))
+        if 'universality' in classification and classification['universality'] not in VALID_UNIVERSALITY:
+            errors.append(ValidationError(f"Invalid universality: {classification['universality']}. Must be one of {VALID_UNIVERSALITY}"))
         
-        if 'domain' in tags and tags['domain'] not in VALID_DOMAINS:
-            errors.append(ValidationError(f"Invalid domain: {tags['domain']}. Must be one of {VALID_DOMAINS}"))
+        if 'domain' in classification and classification['domain'] not in VALID_DOMAINS:
+            errors.append(ValidationError(f"Invalid domain: {classification['domain']}. Must be one of {VALID_DOMAINS}"))
         
-        if 'status' in tags and tags['status'] not in VALID_STATUS:
-            errors.append(ValidationError(f"Invalid status: {tags['status']}. Must be one of {VALID_STATUS}"))
+        if 'status' in classification and classification['status'] not in VALID_STATUS:
+            errors.append(ValidationError(f"Invalid status: {classification['status']}. Must be one of {VALID_STATUS}"))
         
-        if 'commons_alignment' in tags:
-            alignment = tags['commons_alignment']
+        if 'commons_alignment' in classification:
+            alignment = classification['commons_alignment']
             if not isinstance(alignment, (int, float)) or alignment < 1 or alignment > 5:
                 errors.append(ValidationError(f"Invalid commons_alignment: {alignment}. Must be between 1 and 5"))
     

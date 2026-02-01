@@ -94,7 +94,7 @@ def build_search_index(patterns: List[Dict]) -> List[Dict]:
         search_item = {
             "title": fm.get('title', ''),
             "url": f"/patterns/{fm.get('slug', pattern['slug'])}/",
-            "tags": fm.get('tags', {}).get('keywords', []) if isinstance(fm.get('tags'), dict) else [],
+            "classification": fm.get('classification', {}).get('keywords', []) if isinstance(fm.get('classification'), dict) else [],
             "description": (fm.get('summary', '') or '')[:200],
             "domain": fm.get('commons_domain', fm.get('domain', 'business')),
             "score": fm.get('confidence_score', 3)
@@ -152,7 +152,7 @@ def build_graph(patterns: List[Dict], lighthouses: List[Dict]) -> Dict:
             'domain': fm.get('commons_domain', fm.get('domain', 'business')),
             'status': fm.get('status', 'draft'),
             'confidence_score': fm.get('confidence_score'),
-            'universality': fm.get('tags', {}).get('universality') if isinstance(fm.get('tags'), dict) else None
+            'universality': fm.get('classification', {}).get('universality') if isinstance(fm.get('classification'), dict) else None
         }
         graph['nodes']['patterns'].append(node)
         

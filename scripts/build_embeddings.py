@@ -85,7 +85,7 @@ def extract_text_for_embedding(filepath: Path) -> Tuple[Optional[str], Optional[
         'id': frontmatter.get('id', ''),
         'slug': frontmatter.get('slug', filepath.stem),
         'title': title,
-        'domain': frontmatter.get('tags', {}).get('domain', '') if isinstance(frontmatter.get('tags'), dict) else '',
+        'domain': frontmatter.get('classification', {}).get('domain', '') if isinstance(frontmatter.get('classification'), dict) else '',
         'filepath': str(filepath.relative_to(REPO_ROOT))
     }
     

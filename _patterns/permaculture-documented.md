@@ -8,7 +8,7 @@ aliases: [Permanent Agriculture, Permanent Culture]
 version: 1.0
 created: 2026-01-28T00:00:00Z
 modified: 2026-01-28T00:00:00Z
-tags:
+classification:
   universality: sustainability
   domain: domain
   category: [meta-pattern, framework, methodology]

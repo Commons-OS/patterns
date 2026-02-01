@@ -204,7 +204,7 @@ version: "1.0"
 created: "{now}"
 modified: "{now}"
 
-tags:
+classification:
   universality: universal
   domain: {domain}
   category: [practice]
