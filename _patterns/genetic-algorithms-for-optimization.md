@@ -160,15 +160,3 @@ This section provides a curated list of resources for further study and applicat
 1.  [GeeksforGeeks: Genetic Algorithms](https://www.geeksforgeeks.org/genetic-algorithms/)
 2.  [Wikipedia: Genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
 3.  [MathWorks: What Is the Genetic Algorithm?](https://www.mathworks.com/help/gads/what-is-the-genetic-algorithm.html)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/genetic-algorithms-for-optimization/](https://commons-os.github.io/patterns/domain/genetic-algorithms-for-optimization/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/genetic-algorithms-for-optimization.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/genetic-algorithms-for-optimization.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

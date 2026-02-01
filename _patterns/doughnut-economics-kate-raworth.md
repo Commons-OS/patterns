@@ -229,15 +229,3 @@ Doughnut Economics provides a complete and comprehensive architecture for resili
     Raworth, K. (2012). *A safe and just space for humanity: can we live within the doughnut?* Oxfam.
 
     Doughnut Economics Action Lab. (2020). *Creating City Portraits: A Methodological Guide from the Doughnut Economics Action Lab*.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/61-doughnut-economics-kate-raworth/](https://commons-os.github.io/patterns/domain/61-doughnut-economics-kate-raworth/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/61-doughnut-economics-kate-raworth.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/61-doughnut-economics-kate-raworth.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

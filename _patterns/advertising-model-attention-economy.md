@@ -197,15 +197,3 @@ The Advertising Model in the Attention Economy has some elements that enable val
     3.  Wu, T. (2018). Blind spot: The attention economy and the law. *Antitrust Law Journal, 82*(3), 771-816.
     4.  Franck, G. (2019). The economy of attention. *Journal of Sociology, 55*(1), 8-19.
     5.  Georgetown Law Center on Privacy & Technology. (2020). *The Attention Economy and the Collapse of Cognitive Autonomy*. Georgetown Law.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/advertising-model-attention-economy/](https://commons-os.github.io/patterns/domain/advertising-model-attention-economy/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/advertising-model-attention-economy.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/advertising-model-attention-economy.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

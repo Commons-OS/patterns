@@ -218,15 +218,3 @@ Driver-Based Planning with Predictive Modeling is a powerful tool for optimizing
 [5] IBM. (n.d.). *What is Predictive Analytics?* Retrieved from https://www.ibm.com/think/topics/predictive-analytics
 
 [6] Association for Financial Professionals. (2016, February 4). *Why Four Companies Use Driver Based Modeling*. Retrieved from https://www.financialprofessionals.org/training-resources/resources/articles/Details/why-four-companies-use-driver-based-modeling
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/driver-based-planning-predictive-modeling/](https://commons-os.github.io/patterns/domain/driver-based-planning-predictive-modeling/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/driver-based-planning-predictive-modeling.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/driver-based-planning-predictive-modeling.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

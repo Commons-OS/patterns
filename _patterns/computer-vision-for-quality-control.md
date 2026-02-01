@@ -157,15 +157,3 @@ The pattern is a powerful enabler of automation and efficiency within a localize
 [4] Forbes Technology Council. (2024, March 12). *What To Know About Implementing Computer Vision For Quality Control*. Forbes. Retrieved from https://www.forbes.com/councils/forbestechcouncil/2024/03/12/what-to-know-about-implementing-computer-vision-for-quality-control/
 
 [5] Ettalibi, A., et al. (2024). *AI and Computer Vision-based Real-time Quality Control*. ScienceDirect. Retrieved from https://www.sciencedirect.com/science/article/pii/S187705092302207X
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/computer-vision-for-quality-control/](https://commons-os.github.io/patterns/domain/computer-vision-for-quality-control/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/computer-vision-for-quality-control.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/computer-vision-for-quality-control.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -148,15 +148,3 @@ The Haudenosaunee pattern is a complete and time-tested architecture for resilie
 3.  The Library of Congress. (2023, September 21). *The Haudenosaunee Confederacy and the Constitution*. Retrieved from https://blogs.loc.gov/law/2023/09/the-haudenosaunee-confederacy-and-the-constitution/
 4.  Wikipedia. (n.d.). *Great Law of Peace*. Retrieved from https://en.wikipedia.org/wiki/Great_Law_of_Peace
 5.  Indigenous Corporate Training Inc. (n.d.). *What is the Seventh Generation Principle?* Retrieved from https://www.ictinc.ca/blog/seventh-generation-principle
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/haudenosaunee-documented/](https://commons-os.github.io/patterns/domain/haudenosaunee-documented/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/haudenosaunee-documented.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/haudenosaunee-documented.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

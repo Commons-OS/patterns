@@ -236,15 +236,3 @@ Porter's Five Forces is a powerful tool for analyzing market dynamics, but it is
 [2] Investopedia. (2023, November 15). *Porter's Five Forces Explained and How to Use the Model*. https://www.investopedia.com/terms/p/porter.asp
 
 [3] Institute for Strategy and Competitiveness. (n.d.). *The Five Forces*. Harvard Business School. https://www.isc.hbs.edu/strategy/business-strategy/Pages/the-five-forces.aspx
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/41-porters-five-forces/](https://commons-os.github.io/patterns/domain/41-porters-five-forces/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/41-porters-five-forces.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/41-porters-five-forces.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

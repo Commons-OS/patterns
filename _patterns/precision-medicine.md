@@ -137,15 +137,3 @@ This assessment analyzes the alignment of the Precision Medicine organizational 
 [7] [Johnson, K. B., et al. (2021). *Precision Medicine, AI, and the Future of Personalized Health Care*. Clinical and Translational Science, 14(1), 86-93.](https://pmc.ncbi.nlm.nih.gov/articles/PMC7877825/)
 
 [8] [Ostrom, E. (2009). *A General Framework for Analyzing Sustainability of Social-Ecological Systems*. Science, 325(5939), 419-422.](https://www.science.org/doi/10.1126/science.1172133)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/precision-medicine/](https://commons-os.github.io/patterns/domain/precision-medicine/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/precision-medicine.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/precision-medicine.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

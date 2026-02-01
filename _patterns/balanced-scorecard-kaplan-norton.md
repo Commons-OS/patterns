@@ -262,15 +262,3 @@ The Balanced Scorecard is a powerful framework for strategic alignment and execu
 [4] ClearPoint Strategy. (2020, February 11). *20 Companies Thriving with Balanced Scorecard*. Retrieved from https://www.clearpointstrategy.com/blog/companies-using-the-balanced-scorecard
 
 [5] Balanced Scorecard Institute. (n.d.). *Nine Steps to Success*. Retrieved from https://balancedscorecard.org/about/nine-steps/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/36-balanced-scorecard-kaplan-norton/](https://commons-os.github.io/patterns/domain/36-balanced-scorecard-kaplan-norton/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/36-balanced-scorecard-kaplan-norton.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/36-balanced-scorecard-kaplan-norton.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

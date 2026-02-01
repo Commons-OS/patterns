@@ -258,15 +258,3 @@ Poka-Yoke is a powerful enabler of resilient value creation by making systems mo
 [4] Tulip. (2021). *Lean Manufacturing in Real Life: 10 Examples of Poka-Yoke in Daily Life*. https://tulip.co/blog/poka-yoke-examples-everyday-life/
 
 [5] Prabowo, R. F., & Aisyah, S. (2020). Poka-Yoke Method Implementation in Industries: A Systematic Literature Review. *IJIEM (Indonesian Journal of Industrial Engineering & Management)*, *1*(1), 12-24.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/29-poka-yoke-error-proofing/](https://commons-os.github.io/patterns/domain/29-poka-yoke-error-proofing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/29-poka-yoke-error-proofing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/29-poka-yoke-error-proofing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

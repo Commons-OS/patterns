@@ -244,15 +244,3 @@ Privacy by Design is a powerful enabler for collective value creation by establi
 [4] Carbide. (2023). *The Seven Principles of Privacy By Design*. Retrieved from https://carbidesecure.com/resources/the-seven-principles-of-privacy-by-design/
 
 [5] DataGrail. (2024). *Privacy By Design in Practice*. Retrieved from https://www.datagrail.io/blog/data-privacy/privacy-by-design-in-practice/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/privacy-by-design-cavoukians-framework/](https://commons-os.github.io/patterns/implementation/privacy-by-design-cavoukians-framework/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/privacy-by-design-cavoukians-framework.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/privacy-by-design-cavoukians-framework.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -136,15 +136,3 @@ Design for Assembly is a powerful enabler of collective value creation, particul
 *   [4] Boothroyd, G., & Dewhurst, P. (1989). *Product Design for Manufacture and Assembly*. Boothroyd Dewhurst, Inc.
 *   [5] Boothroyd, G. (2005). *Assembly Automation and Product Design, 2nd Edition*. Taylor and Francis.
 *   [6] Ostrom, E. (1990). *Governing the Commons: The Evolution of Institutions for Collective Action*. Cambridge University Press.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/design-for-assembly-dfa/](https://commons-os.github.io/patterns/domain/design-for-assembly-dfa/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/design-for-assembly-dfa.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/design-for-assembly-dfa.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

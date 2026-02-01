@@ -226,15 +226,3 @@ Deliberative Polling is a powerful transitional pattern that bridges the gap bet
 *   Fishkin, J. S. (2011). *When the people speak: Deliberative democracy and public consultation*. Oxford University Press.
 *   Fishkin, J. S. (2018). *Democracy when the people are thinking: Revitalizing our politics through public deliberation*. Oxford University Press.
 *   Smith, G. (2009). *Democratic innovations: Designing institutions for citizen participation*. Cambridge University Press.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/deliberative-democracy-fishkins-model/](https://commons-os.github.io/patterns/domain/deliberative-democracy-fishkins-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/deliberative-democracy-fishkins-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/deliberative-democracy-fishkins-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

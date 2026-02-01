@@ -173,15 +173,3 @@ Control Charts are a powerful tool for creating the stability and predictability
 [9] Deming, W. E. (2000). *Out of the Crisis*. The MIT Press.
 
 [10] Benneyan, J. C. (1998). Statistical quality control methods in infection control and hospital epidemiology, Part I: Introduction and basic theory. *Infection Control & Hospital Epidemiology*, 19(3), 194-214.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/control-charts/](https://commons-os.github.io/patterns/domain/control-charts/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/control-charts.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/control-charts.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

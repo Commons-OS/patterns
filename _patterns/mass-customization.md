@@ -278,15 +278,3 @@ Mass Customization is a powerful enabler of collective value creation, moving be
 [3] Fogliatto, F. S., da Silveira, G. J. C., & Borenstein, D. (2012). The mass customization decade: An updated review of the literature. *International Journal of Production Economics*, *138*(1), 14-25.
 [4] Salvador, F., de Holan, P. M., & Piller, F. (2009). Cracking the code of mass customization. *MIT Sloan Management Review*, *50*(3), 70.
 [5] Squire, B., Readman, J., & Brown, S. (2004). Mass customization and customer value. *Production Planning & Control*, *15*(4), 425-435.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/54-mass-customization/](https://commons-os.github.io/patterns/domain/54-mass-customization/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/54-mass-customization.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/54-mass-customization.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

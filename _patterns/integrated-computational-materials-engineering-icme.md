@@ -301,15 +301,3 @@ ICME is a powerful framework for value creation but is primarily focused on indu
 [1] National Research Council. (2008). _Integrated Computational Materials Engineering: A Transformational Discipline for Industry and Society_. The National Academies Press. https://doi.org/10.17226/12199
 
 [2] The Minerals, Metals & Materials Society (TMS). (2013). _Integrated Computational Materials Engineering (ICME): Implementing ICME in the Aerospace, Automotive, and Maritime Industries_. https://www.tms.org/icmestudy
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/integrated-computational-materials-engineering-icme/](https://commons-os.github.io/patterns/domain/integrated-computational-materials-engineering-icme/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/integrated-computational-materials-engineering-icme.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/integrated-computational-materials-engineering-icme.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

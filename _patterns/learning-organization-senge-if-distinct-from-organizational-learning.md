@@ -193,15 +193,3 @@ The shared resource in a Learning Organization is knowledge. The five discipline
 [4] [https://www.siue.edu/~mthomec/LearnOrg-Senge.pdf](https://www.siue.edu/~mthomec/LearnOrg-Senge.pdf)
 
 [5] [https://www.ijassjournal.com/2021/V4I4/4146575833.pdf](https://www.ijassjournal.com/2021/V4I4/4146575833.pdf)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/human-universal/learning-organization-senge-if-distinct-from-organizational-learning/](https://commons-os.github.io/patterns/human-universal/learning-organization-senge-if-distinct-from-organizational-learning/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/learning-organization-senge-if-distinct-from-organizational-learning.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_human-universal/learning-organization-senge-if-distinct-from-organizational-learning.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

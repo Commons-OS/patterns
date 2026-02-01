@@ -218,15 +218,3 @@ The VDI 2221 methodology is a powerful tool for systematic design with several e
     5.  Pahl, G., & Beitz, W. (2013). *Engineering Design: A Systematic Approach*. Springer-Verlag London.
     6.  Wiendahl, H. P. (1981). Erfolgreiche Anwendung der Methodik nach VDI 2222 in einem Unternehmen des Maschinenbaus. *VDI-Z*, *123*(1/2), 1-6.
     7.  Kröpfl, P., Landschützer, C., Hick, H., & Awan, W. H. (2025). A Comparison of Educational Perspectives on VDI 2221 and Axiomatic Design. *Procedia Computer Science*.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/vdi-2221-systematic-approach-to-design/](https://commons-os.github.io/patterns/domain/vdi-2221-systematic-approach-to-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/vdi-2221-systematic-approach-to-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/vdi-2221-systematic-approach-to-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

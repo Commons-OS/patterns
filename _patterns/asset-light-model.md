@@ -227,15 +227,3 @@ The Asset-Light Model is a powerful Value Creation Enabler because its fundament
 [4] Wang, W. K., Lu, W. M., & Ting, I. W. K. (2020). Asset‐light strategy, managerial ability, and corporate performance of the Asian telecommunications industry. *Managerial and Decision Economics*, *41*(7), 1255-1266. https://doi.org/10.1002/mde.3203
 
 [5] Zhang, J. (2019). Why is asset-light strategy necessary? An empirical analysis through the lens of cost stickiness. *Tourism Economics*, *25*(8), 1321-1338. https://doi.org/10.1177/13548166198633363333369295601035
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/asset-light-model/](https://commons-os.github.io/patterns/domain/asset-light-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/asset-light-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/asset-light-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

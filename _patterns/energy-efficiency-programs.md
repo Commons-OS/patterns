@@ -179,15 +179,3 @@ The pattern strongly enables collective value creation by establishing a multi-s
 [4] International Energy Agency. "AI for energy optimisation and innovation." IEA, https://www.iea.org/reports/energy-and-ai/ai-for-energy-optimisation-and-innovation.
 
 [5] MIT News. "How artificial intelligence can help achieve a clean energy future." MIT News, 24 Nov. 2025, https://news.mit.edu/2025/how-ai-can-help-achieve-clean-energy-future-1124.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/energy-efficiency-programs/](https://commons-os.github.io/patterns/domain/energy-efficiency-programs/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/energy-efficiency-programs.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/energy-efficiency-programs.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -171,15 +171,3 @@ Ethnographic Research is a powerful enabler of value creation, though not a comp
 
 4.  Ryan, G. S. (2017). An introduction to the origins, history and principles of ethnography. *Nurse Researcher*, *25*(1), 26-31.
 5.  Reeves, S., Kuper, A., & Hodges, B. D. (2008). Qualitative research methodologies: ethnography. *BMJ*, *337*, a1020.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/ethnographic-research/](https://commons-os.github.io/patterns/domain/ethnographic-research/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/ethnographic-research.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/ethnographic-research.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

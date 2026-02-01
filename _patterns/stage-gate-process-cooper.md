@@ -112,15 +112,3 @@ However, the principles of the Stage-Gate process can be applied in a more open 
 [7] Sommer, A. F., Hedegaard, C., Dukovska-Popovska, I., & Steger-Jensen, K. (2015). Improved product development performance through agile/stage-gate hybrids. *Research-Technology Management*, 58(1), 34-44.
 
 [8] Cooper, R. G., & Sommer, A. F. (2016). The agile–stage-gate hybrid model: a promising new approach and a new research opportunity. *Journal of Product Innovation Management*, 33(5), 513-526.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/stage-gate-process-cooper/](https://commons-os.github.io/patterns/implementation/stage-gate-process-cooper/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/stage-gate-process-cooper.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/stage-gate-process-cooper.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

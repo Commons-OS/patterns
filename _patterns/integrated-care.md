@@ -328,15 +328,3 @@ Integrated care is a highly commons-aligned pattern, as it is based on the princ
 [7] NHS England. (n.d.). *Case studies*. Retrieved from https://www.england.nhs.uk/integratedcare/resources/case-studies/
 
 [8] Bajwa, J., Munir, U., Nori, A., & Williams, B. (2021). Artificial intelligence in healthcare: transforming the practice of medicine. *Future healthcare journal*, *8*(2), e188–e194. https://doi.org/10.7861/fhj.2021-0095
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/61-integrated-care/](https://commons-os.github.io/patterns/domain/61-integrated-care/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/61-integrated-care.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/61-integrated-care.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

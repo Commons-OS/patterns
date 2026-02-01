@@ -227,15 +227,3 @@ Target Costing is a powerful and efficient market-driven pattern for creating ec
 [4] Shank, J. K., & Fisher, J. (1999). Target Costing as a Strategic Tool. *Sloan Management Review*, 41(1), 73-82. Retrieved from https://sloanreview.mit.edu/article/target-costing-as-a-strategic-tool/
 
 [5] Institute of Management Accountants. (n.d.). *IMA*. Retrieved from https://www.imanet.org/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/88-target-costing/](https://commons-os.github.io/patterns/domain/88-target-costing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/88-target-costing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/88-target-costing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

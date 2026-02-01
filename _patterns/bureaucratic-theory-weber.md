@@ -116,15 +116,3 @@ For those interested in a deeper understanding of Bureaucratic Theory, a wealth 
 [4] Weber, M. (1978). *Economy and society: An outline of interpretive sociology*. University of California Press.
 
 [5] Sager, F., & Rosser, C. (2021). Weberian Bureaucracy. In *Oxford Research Encyclopedia of Politics*. Oxford University Press. https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-166
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/bureaucratic-theory-weber/](https://commons-os.github.io/patterns/domain/bureaucratic-theory-weber/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/bureaucratic-theory-weber.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/bureaucratic-theory-weber.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

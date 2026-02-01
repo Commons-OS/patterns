@@ -151,15 +151,3 @@ Overall, co-creation can be seen as a powerful tool for building and sustaining 
 
 *   Prahalad, C. K., & Ramaswamy, V. (2004). *The future of competition: Co-creating unique value with customers*. Harvard Business Press.
 *   Sanders, E. B. N., & Stappers, P. J. (2014). *Convivial toolbox: Generative research for the front end of design*. BIS Publishers.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/co-creation/](https://commons-os.github.io/patterns/domain/co-creation/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/co-creation.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/co-creation.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

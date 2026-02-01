@@ -213,15 +213,3 @@ AS9100 is a powerful and essential framework for ensuring quality and safety in 
 [4] Core Business Solutions. (n.d.). *AS9100 Explained*. Retrieved from https://www.thecoresolution.com/as9100-explained
 
 [5] ASQ. (2008, December). *AS9100 Keeps Bosch Communications Flying High in Aerospace Industry*. Retrieved from https://asq.org/quality-resources/articles/case-studies/as9100-keeps-bosch-communications-flying-high-in-aerospace-industry?id=9d8c7fe88a1e4f2a878542d8b758e81b
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/as9100-quality-management-system/](https://commons-os.github.io/patterns/domain/as9100-quality-management-system/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/as9100-quality-management-system.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/as9100-quality-management-system.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

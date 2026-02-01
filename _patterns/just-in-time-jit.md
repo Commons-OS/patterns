@@ -192,15 +192,3 @@ JIT holds significant potential for enabling collective value creation, particul
 *   Investopedia. (2023). *Just-in-Time (JIT)*.
 *   Planview. (n.d.). *What is Just-in-Time Manufacturing (JIT)?*
 *   Zensimu. (n.d.). *The Principles of Just in Time (JIT)*.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/27-just-in-time-jit/](https://commons-os.github.io/patterns/domain/27-just-in-time-jit/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/27-just-in-time-jit.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/27-just-in-time-jit.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -223,15 +223,3 @@ ARP4754 is a powerful framework for creating safety and resilience value, which 
 [4] SAE International. (2023, December 19). *ARP4754B: Guidelines for Development of Civil Aircraft and Systems*. Retrieved from https://www.sae.org/standards/arp4754b-guidelines-development-civil-aircraft-systems
 
 [5] Federal Aviation Administration. (2011, September 30). *AC 20-174: Development of Civil Aircraft and Systems*. Retrieved from https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_20-174.pdf
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/arp4754-guidelines-for-development-of-civil-aircraft-and-systems/](https://commons-os.github.io/patterns/domain/arp4754-guidelines-for-development-of-civil-aircraft-and-systems/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/arp4754-guidelines-for-development-of-civil-aircraft-and-systems.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/arp4754-guidelines-for-development-of-civil-aircraft-and-systems.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

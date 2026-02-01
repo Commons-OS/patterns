@@ -180,15 +180,3 @@ Cultural Intelligence is a powerful enabler of resilient collective value creati
 [6] Livermore, D. (2024, October 25). *Developing Cultural Intelligence in yourself and others*. https://davidlivermore.com/2024/10/25/developing-cultural-intelligence-in-yourself-and-others/
 
 [7] Tough Convos. (2024, August 16). *Cultural Intelligence (CQ): What Is It and Why Is It Important?* https://www.toughconvos.com/post/cultural-intelligence-cq-what-is-it-and-why-is-it-important
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/cultural-intelligence/](https://commons-os.github.io/patterns/domain/cultural-intelligence/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/cultural-intelligence.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/cultural-intelligence.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

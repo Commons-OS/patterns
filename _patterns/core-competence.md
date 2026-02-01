@@ -207,15 +207,3 @@ The Core Competence pattern is a powerful tool for building firm-centric competi
 A Core Competency is a deep proficiency that enables a company to deliver unique value to customers. It embodies an organization’s collective learning, particularly of how to coordinate diverse production skills and integrate multiple technologies. Such a Core Competency creates sustainable competitive advantage for a company and helps it branch into a wide variety of related markets. Core Competencies also contribute substantially to the benefits a company’s products offer customers. The litmus test for a Core Competency? It’s hard for competitors to copy or procure. Understanding Core Competencies allows companies to invest in the strengths that differentiate them and set strategies that unify their entire organization.
 Core competencies are the unique strengths and capabilities that give a business a competitive advantage. They are difficult for competitors to imitate. The concept was introduced by C.K. Prahalad and Gary Hamel in a 1990 Harvard Business Review article. To be a core competency, an activity must provide superior value to the consumer, be difficult to replicate, and be rare. Examples of core competencies include superior customer service, innovative technology, and efficient supply chain management.
 A core competency is a concept in management theory introduced by C. K. Prahalad and Gary Hamel. It can be defined as "a harmonized combination of multiple resources and skills that distinguish a firm in the marketplace" and therefore is the foundation of companies' competitiveness. Core competencies fulfill three criteria: 1. Provides potential access to a wide variety of markets. 2. Should make a significant contribution to the perceived customer benefits of the end product. 3. Difficult to imitate by competitors.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/core-competence/](https://commons-os.github.io/patterns/domain/core-competence/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/core-competence.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/core-competence.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -155,15 +155,3 @@ The Service DAO pattern is a powerful enabler of collective value creation, esta
 [4] 1kxnetwork. (2022, April 6). *Service DAOs - Landscape, Challenges, and Solutions*. [https://medium.com/1kxnetwork/service-daos-landscape-challenges-and-solutions-b1af1a212ea](https://medium.com/1kxnetwork/service-daos-landscape-challenges-and-solutions-b1af1a212ea)
 
 [5] TheVentureCity. (2022, February 8). *Making sense of the DAO Landscape*. [https://www.theventure.city/article/making-sense-of-the-dao-landscape](https://www.theventure.city/article/making-sense-of-the-dao-landscape)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/service-daos/](https://commons-os.github.io/patterns/domain/service-daos/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/service-daos.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/service-daos.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

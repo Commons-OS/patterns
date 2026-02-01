@@ -185,15 +185,3 @@ Customer Journey Mapping is a powerful tool for understanding and improving user
 
 
 # 9. Resources & References
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/customer-journey-mapping/](https://commons-os.github.io/patterns/domain/customer-journey-mapping/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/customer-journey-mapping.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/customer-journey-mapping.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

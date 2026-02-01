@@ -222,15 +222,3 @@ The Direct Sales Model is a transitional pattern that contains both commons-alig
 [2] Sales Focus Inc. (2023, May 1). *What Is Direct Sales? Types, Pros, & Cons*. Sales Focus Inc. https://www.salesfocusinc.com/direct-sales/
 
 [3] Wikipedia. (2023, October 26). *Direct selling*. In *Wikipedia*. https://en.wikipedia.org/wiki/Direct_selling
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/direct-sales-model/](https://commons-os.github.io/patterns/domain/direct-sales-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/direct-sales-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/direct-sales-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

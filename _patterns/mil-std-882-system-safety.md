@@ -128,15 +128,3 @@ For those seeking to deepen their understanding of MIL-STD-882, essential readin
 [4] Storey, N. (1996). *Safety-Critical Systems: Theory and Practice*. Pearson.
 
 [5] Defense Acquisition University. (n.d.). *System Safety*. Retrieved from https://www.dau.edu/cop/se/resources/system-safety
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/mil-std-882-system-safety/](https://commons-os.github.io/patterns/domain/mil-std-882-system-safety/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/mil-std-882-system-safety.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/mil-std-882-system-safety.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

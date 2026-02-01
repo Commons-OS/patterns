@@ -152,15 +152,3 @@ The Commons Alignment Assessment evaluates how well the Ubuntu pattern aligns wi
 *   Wikipedia. (2026). *Ubuntu philosophy*. [https://en.wikipedia.org/wiki/Ubuntu_philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy)
 *   Frontiers in Psychology. (2025). *Ubuntu in Organizational Settings: Exploring Human-Centric Approaches*. [https://www.frontiersin.org/research-topics/66391/ubuntu-in-organizational-settings-exploring-human-centric-approaches](https://www.frontiersin.org/research-topics/66391/ubuntu-in-organizational-settings-exploring-human-centric-approaches)
 *   Ubuntu Coaches. (2024). *Embracing Ubuntu Philosophy for Effective Organizational Transformation*. [https://www.ubuntucoaches.com/post/embracing-ubuntu-philosophy-for-effective-organizational-transformation](https://www.ubuntucoaches.com/post/embracing-ubuntu-philosophy-for-effective-organizational-transformation)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/ubuntu-documented/](https://commons-os.github.io/patterns/domain/ubuntu-documented/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/ubuntu-documented.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/ubuntu-documented.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

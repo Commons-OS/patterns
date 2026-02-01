@@ -170,15 +170,3 @@ To further explore the principles and practices of Genchi Genbutsu, the followin
 [1] Sutherland, J., & Bennett, B. (2007). The Seven Deadly Wastes of Logistics: Applying Toyota Production System Principles to Create Logistics Value. Retrieved from [https://www.bulsuk.com/2014/04/how-toyota-won-multi-million-dollar.html](https://www.bulsuk.com/2014/04/how-toyota-won-multi-million-dollar.html)
 
 [2] Hinners, N. W. (2009). Management by Wandering Around. Retrieved from [https://www.bulsuk.com/2014/04/how-toyota-won-multi-million-dollar.html](https://www.bulsuk.com/2014/04/how-toyota-won-multi-million-dollar.html)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/genchi-genbutsu-go-and-see/](https://commons-os.github.io/patterns/domain/genchi-genbutsu-go-and-see/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/genchi-genbutsu-go-and-see.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/genchi-genbutsu-go-and-see.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

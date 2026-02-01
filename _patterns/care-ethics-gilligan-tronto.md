@@ -170,15 +170,3 @@ Despite these challenges, Care Ethics offers a powerful and much-needed ethical 
 [5] "Care Ethics." *Internet Encyclopedia of Philosophy*, https://iep.utm.edu/care-ethics/.
 
 [6] "Ethics of care." *Wikipedia*, https://en.wikipedia.org/wiki/Ethics_of_care.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/care-ethics-gilligan-tronto/](https://commons-os.github.io/patterns/domain/care-ethics-gilligan-tronto/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/care-ethics-gilligan-tronto.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/care-ethics-gilligan-tronto.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

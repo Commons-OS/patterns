@@ -291,15 +291,3 @@ The pattern is a powerful enabler for creating resilient, multi-faceted value. I
 [4] Packhelp. (n.d.). *Sustainable Packaging In 2023 And Beyond [Ideas & Examples]*. [https://packhelp.com/sustainable-packaging/](https://packhelp.com/sustainable-packaging/)
 
 [5] Barilla Group. (2021). *Barilla's Principles of Sustainable Packaging*. [https://www.barillagroup.com/media/filer_public/83/1c/831cb358-3202-44fb-8b54-99e5d6858e3f/sustainable_packaging_principles_2021_eng.pdf](https://www.barillagroup.com/media/filer_public/83/1c/831cb358-3202-44fb-8b54-99e5d6858e3f/sustainable_packaging_principles_2021_eng.pdf)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/sustainable-packaging-design/](https://commons-os.github.io/patterns/domain/sustainable-packaging-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/sustainable-packaging-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/sustainable-packaging-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

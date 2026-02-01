@@ -153,15 +153,3 @@ For a deeper understanding of Algorithmic Management, the following resources pr
 [5] AIHR. "Algorithmic Management: Benefits, Challenges, and Best Practices." Accessed January 28, 2026. https://www.aihr.com/blog/algorithmic-management/
 
 [6] Harvard Business Review. (2024). "The Social Cost of Algorithmic Management." *Harvard Business Review*. https://hbr.org/2024/02/the-social-cost-of-algorithmic-management
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/algorithmic-management/](https://commons-os.github.io/patterns/domain/algorithmic-management/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/algorithmic-management.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/algorithmic-management.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

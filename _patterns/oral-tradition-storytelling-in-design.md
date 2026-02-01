@@ -173,15 +173,3 @@ The pattern is a powerful enabler of collective value creation, particularly in 
 [4] Indigenous Foundations. (n.d.). *Oral Traditions*. https://indigenousfoundations.arts.ubc.ca/oral_traditions/
 
 [5] Oreate. (2026, January 15). *The Art of Oral Tradition Storytelling: A Living Legacy*. https://www.oreateai.com/blog/the-art-of-oral-tradition-storytelling-a-living-legacy/6ec340b74333dea9d9472d02f58a8851
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/oral-tradition-storytelling-in-design/](https://commons-os.github.io/patterns/domain/oral-tradition-storytelling-in-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/oral-tradition-storytelling-in-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/oral-tradition-storytelling-in-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

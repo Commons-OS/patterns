@@ -186,15 +186,3 @@ Design for Reliability is a powerful engineering discipline for creating robust 
 [4] Yang, Y., Wang, H., Sangwongwanich, A., & Blaabjerg, F. (2018). *Design for reliability of power electronic systems*. In Power electronics handbook (4th ed.).
 
 [5] Boston Engineering. (2024). *The Strategic Role of Design for Reliability in Product Development*. Retrieved from https://blog.boston-engineering.com/the-strategic-role-of-design-for-reliability-in-product-development
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/design-for-reliability/](https://commons-os.github.io/patterns/domain/design-for-reliability/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/design-for-reliability.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/design-for-reliability.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

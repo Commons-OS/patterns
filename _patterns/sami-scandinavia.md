@@ -141,15 +141,3 @@ The Sami organizational pattern is a complete, time-tested architecture for resi
 3.  [Sami Society - TOTA](https://www.tota.world/article/791/)
 4.  [Local governance among the EU’s only indigenous nation: the Sami people - LGiU](https://lgiu.org/local-governance-among-the-eus-only-indigenous-nation-the-sami-people/)
 5.  [The situation of the Sami people in the Sápmi region of Norway, Sweden and Finland - University of Arizona](https://un.arizona.edu/search-database/situation-sami-people-sapmi-region-norway-sweden-and-finland)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/sami-scandinavia/](https://commons-os.github.io/patterns/domain/sami-scandinavia/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/sami-scandinavia.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/sami-scandinavia.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

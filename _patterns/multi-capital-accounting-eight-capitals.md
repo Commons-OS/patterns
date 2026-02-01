@@ -239,15 +239,3 @@ Multi-capital accounting is a powerful enabler of resilient collective value cre
 [4] [The Role of the Sustainability Finance Team in Driving Impact... - IFAC](https://www.ifac.org/knowledge-gateway/discussion/case-study-role-sustainability-finance-team-driving-impact-olam-agri)
 
 [5] [MultiCapital Scorecard® | Rethinking Organizational ...](https://multicapitalscorecard.com/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/89-multi-capital-accounting-eight-capitals/](https://commons-os.github.io/patterns/domain/89-multi-capital-accounting-eight-capitals/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/89-multi-capital-accounting-eight-capitals.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/89-multi-capital-accounting-eight-capitals.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

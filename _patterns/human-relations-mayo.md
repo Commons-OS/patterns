@@ -172,15 +172,3 @@ The Human Relations theory is a foundational bridge from purely extractive, mech
 3.  Carey, A. (1967). The Hawthorne Studies: A Radical Criticism. *American Sociological Review*, 32(3), 403-416.
 4.  O'Connor, E. S. (1999). The Politics of Management Thought: A Case Study of the Harvard Business School and the Human Relations School. *Academy of Management Review*, 24(1), 117-131.
 5.  Hsueh, Y. (2002). The Hawthorne experiments and the introduction of the human relations school in American public administration. *Public Administration Review*, 62(6), 729-738.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/human-relations-mayo/](https://commons-os.github.io/patterns/domain/human-relations-mayo/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/human-relations-mayo.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/human-relations-mayo.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

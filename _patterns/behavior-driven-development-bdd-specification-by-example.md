@@ -110,15 +110,3 @@ For those looking to delve deeper into Behavior-Driven Development, a wealth of 
 [4] Wikipedia. (n.d.). *Behavior-driven development*. Retrieved from https://en.wikipedia.org/wiki/Behavior-driven_development
 
 [5] BrowserStack. (2024, December 17). *What is BDD? (Behavior-Driven Development)*. Retrieved from https://www.browserstack.com/guide/what-is-bdd
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/behavior-driven-development-bdd-specification-by-example/](https://commons-os.github.io/patterns/context-specific/behavior-driven-development-bdd-specification-by-example/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/behavior-driven-development-bdd-specification-by-example.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/behavior-driven-development-bdd-specification-by-example.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

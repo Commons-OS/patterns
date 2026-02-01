@@ -136,15 +136,3 @@ The Commons Alignment Assessment evaluates how well the Vastu Shastra pattern al
 *   [https://www.magicbricks.com/blog/vastu-tips-for-business/123581.html](https://www.magicbricks.com/blog/vastu-tips-for-business/123581.html)
 *   [https://www.architecturaldigest.in/content/vastu-shastra-25-tips-make-home-radiate-positive-energy/](https://www.architecturaldigest.in/content/vastu-shastra-25-tips-make-home-radiate-positive-energy/)
 *   [https://www.re-thinkingthefuture.com/architectural-community/a11528-relevance-of-vastu-shastra-in-architecture/](https://www.re-thinkingthefuture.com/architectural-community/a11528-relevance-of-vastu-shastra-in-architecture/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/vastu-shastra/](https://commons-os.github.io/patterns/domain/vastu-shastra/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/vastu-shastra.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/vastu-shastra.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -175,15 +175,3 @@ Useful **tools and platforms** for cooperatives include Loomio for decision-maki
 3.  [Institutional adaptation in the evolution of the ‘co-operative principles’](https://www.researchgate.net/publication/354269618_Institutional_adaptation_in_the_evolution_of_the_%27co-operative_principles%27)
 4.  [Co-operative Governance Fit to Build Resilience in the ...](https://ica.coop/sites/default/files/basic-page-attachments/ica-governance-paper-en-2108946839.pdf)
 5.  [The Mondragon System: Cooperation at Work](https://www.ilsr.org/wp-content/uploads/files/images/mondragon.pdf)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/cooperative-governance-models-rochdale-mondragon-variants/](https://commons-os.github.io/patterns/domain/cooperative-governance-models-rochdale-mondragon-variants/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/cooperative-governance-models-rochdale-mondragon-variants.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/cooperative-governance-models-rochdale-mondragon-variants.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

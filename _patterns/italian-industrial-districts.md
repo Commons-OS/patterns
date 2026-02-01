@@ -236,15 +236,3 @@ Pyke, F., Becattini, G., & Sengenberger, W. (Eds.). (1990). *Industrial district
 Schilirò, D. (2017). Italian industrial districts: theories, profiles and competitiveness. *MPRA Paper No. 86729*. Retrieved from https://mpra.ub.uni-muenchen.de/86729/1/MPRA_paper_86729.pdf
 
 Sforzi, F. (2015). The industrial district: A concept that is still evolving. In G. Becattini & F. Sforzi (Eds.), *The post-Marshallian industrial district* (pp. 19-32). Edward Elgar Publishing.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/86-italian-industrial-districts/](https://commons-os.github.io/patterns/domain/86-italian-industrial-districts/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/86-italian-industrial-districts.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/86-italian-industrial-districts.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

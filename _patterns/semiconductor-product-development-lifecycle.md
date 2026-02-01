@@ -183,15 +183,3 @@ The pattern is a highly refined and resilient framework for creating economic va
 [2] "Semiconductor lifecycle management | Siemens Software." [Online]. Available: https://www.sw.siemens.com/en-US/digital-thread/integrated-lifecycle-management/semiconductor/
 
 [3] "Six crucial steps in semiconductor manufacturing – Stories | ASML." [Online]. Available: https://www.asml.com/en/news/stories/2021/semiconductor-manufacturing-process-steps
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/semiconductor-product-development-lifecycle/](https://commons-os.github.io/patterns/domain/semiconductor-product-development-lifecycle/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/semiconductor-product-development-lifecycle.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/semiconductor-product-development-lifecycle.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -154,15 +154,3 @@ The concept of peer-to-peer production is not entirely new. For centuries, commu
 ### P2P Production vs. The Sharing Economy
 
 It is important to distinguish P2P production from the so-called "sharing economy." While both models leverage the power of networks and distributed resources, they have fundamentally different goals and values. The sharing economy, as exemplified by companies like Uber and Airbnb, is often characterized by a for-profit motive, with a central platform capturing a significant share of the value created. In contrast, P2P production is typically non-profit and commons-oriented, with the value created being shared among the participants and the wider community. This distinction is crucial for understanding the transformative potential of P2P production as an alternative to both traditional capitalism and the platform capitalism of the sharing economy.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/peer-to-peer-p2p-production/](https://commons-os.github.io/patterns/domain/peer-to-peer-p2p-production/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/peer-to-peer-p2p-production.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/peer-to-peer-p2p-production.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

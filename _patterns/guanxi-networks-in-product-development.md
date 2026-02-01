@@ -165,15 +165,3 @@ Guanxi Networks are a powerful, pre-existing architecture for collective value c
 [4] World Economic Forum. (2023). What makes China's innovation ecosystem unique?. Retrieved from https://www.weforum.org/stories/2023/06/why-china-innovation-ecosystem-is-unique-amnc-23/
 
 [5] Harvard Program on Negotiation. (2023). The Importance of Relationship Building in China - Guanxi. Retrieved from https://www.pon.harvard.edu/daily/international-negotiation-daily/negotiation-in-china-the-importance-of-guanxi/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/guanxi-networks-in-product-development/](https://commons-os.github.io/patterns/domain/guanxi-networks-in-product-development/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/guanxi-networks-in-product-development.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/guanxi-networks-in-product-development.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

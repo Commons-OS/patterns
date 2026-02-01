@@ -233,15 +233,3 @@ Capital Budgeting is a highly developed practice for financial resource allocati
 [1] Investopedia. (2023). *Capital Budgeting: What It Is and How It Works*. Retrieved from https://www.investopedia.com/articles/financial-theory/11/corporate-project-valuation-methods.asp
 
 [2] Association for Financial Professionals. (n.d.). *Capital Budgeting*. Retrieved from https://www.financialprofessionals.org/topics/fp-a-topics/capital-budgeting
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/capital-budgeting/](https://commons-os.github.io/patterns/domain/capital-budgeting/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/capital-budgeting.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/capital-budgeting.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

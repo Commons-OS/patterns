@@ -267,15 +267,3 @@ This section provides a curated list of resources for those who wish to delve de
 [4] ACCA. (n.d.). *Throughput accounting and the theory of constraints, part 2*. Retrieved from https://www.accaglobal.com/us/en/student/exam-support-resources/fundamentals-exams-study-resources/f5/technical-articles/throughput-constraints2.html
 
 [5] Lean Production. (n.d.). *Theory of Constraints (TOC)*. Retrieved from https://www.leanproduction.com/theory-of-constraints/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/86-throughput-accounting-toc/](https://commons-os.github.io/patterns/domain/86-throughput-accounting-toc/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/86-throughput-accounting-toc.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/86-throughput-accounting-toc.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

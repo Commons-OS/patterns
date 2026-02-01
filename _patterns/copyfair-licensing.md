@@ -157,15 +157,3 @@ Copyfair Licensing is a powerful enabler of collective value creation, providing
 *   Commons Transition Primer. (n.d.). *CopyFair Licenses*. Retrieved from [https://primer.commonstransition.org/archives/glossary/copyfair-licenses](https://primer.commonstransition.org/archives/glossary/copyfair-licenses)
 *   P2P Foundation. (n.d.). *Copyfair*. Retrieved from [https://wiki.p2pfoundation.net/Copyfair](https://wiki.p2pfoundation.net/Copyfair)
 *   Patent Lawyer Magazine. (2026, January 5). *The cognitive era: the next Industrial Revolution is powered by thought, not engines*. Retrieved from [https://patentlawyermagazine.com/the-cognitive-era-the-next-industrial-revolution-is-powered-by-thought-not-engines/](https://patentlawyermagazine.com/the-cognitive-era-the-next-industrial-revolution-is-powered-by-thought-not-engines/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/copyfair-licensing/](https://commons-os.github.io/patterns/domain/copyfair-licensing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/copyfair-licensing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/copyfair-licensing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

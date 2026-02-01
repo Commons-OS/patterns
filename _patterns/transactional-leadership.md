@@ -159,15 +159,3 @@ Transactional leadership's alignment with the principles of a commons-based appr
 3.  [How a Transactional Leadership Style Works](https://www.verywellmind.com/what-is-transactional-leadership-2795317)
 4.  [Transactional Leadership - A Complete Guide](https://www.thomas.co/resources/type/hr-guides/transactional-leadership-complete-guide)
 5.  [A Systematic Review of the Transactional Leadership Literature and Future Outlook](https://www.researchgate.net/publication/371294142_A_Systematic_Review_of_the_Transactional_Leadership_Literature_and_Future_Outlook)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/transactional-leadership/](https://commons-os.github.io/patterns/domain/transactional-leadership/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/transactional-leadership.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/transactional-leadership.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

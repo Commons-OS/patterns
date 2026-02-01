@@ -171,15 +171,3 @@ Retrospectives, as a practice for continuous improvement and team-based learning
 [4] ProjectManagement.com. (2023, September 21). *Using AI for Agile Retrospectives*. Retrieved from https://www.projectmanagement.com/articles/893796/using-ai-for-agile-retrospectives
 
 [5] Derby, E., & Larsen, D. (2006). *Agile Retrospectives: Making Good Teams Great*. Pragmatic Bookshelf.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/retrospectives/](https://commons-os.github.io/patterns/domain/retrospectives/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/retrospectives.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/retrospectives.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

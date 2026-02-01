@@ -243,15 +243,3 @@ The Agency Model has significant potential for commons alignment due to its comp
 [5] Creativebrief. (n.d.). *IKEA 'The Wonderful Everyday' by Mother London*. Retrieved from https://www.creativebrief.com/agency/mother-london/case-studies/ikea-the-wonderful-everyday
 
 [6] Binet, L., & Field, P. (2013). *The Long and the Short of It: Balancing Short and Long-Term Marketing Strategies*. Institute of Practitioners in Advertising.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/agency-model/](https://commons-os.github.io/patterns/domain/agency-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/agency-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/agency-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

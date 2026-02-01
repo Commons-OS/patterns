@@ -191,15 +191,3 @@ SOA is a powerful Value Creation Enabler that provides a robust technical founda
 7.  [The Impact of Service Oriented Architecture Adoption on ...](https://link.springer.com/book/10.1007/978-3-030-12100-6)
 8.  [Impact of Service-Oriented Architecture adoption in ...](https://ieeexplore.ieee.org/document/7437769/)
 9.  [The Impact of Service Oriented Architecture Adoption on ...](https://www.researchgate.net/publication/345035642_The_Impact_of_Service_Oriented_Architecture_Adoption_on_Organizations)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/service-oriented-architecture-soa/](https://commons-os.github.io/patterns/domain/service-oriented-architecture-soa/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/service-oriented-architecture-soa.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/service-oriented-architecture-soa.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

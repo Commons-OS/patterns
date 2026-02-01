@@ -186,15 +186,3 @@ Demand Response is a powerful enabler of collective value creation, particularly
 [5] Voltus, Inc. (n.d.). *What is Demand Response?* https://www.voltus.co/demand-response
 
 [6] The Brattle Group. (2019). *The National Potential for Load Flexibility*. https://www.brattle.com/insights-events/publications/the-national-potential-for-load-flexibility
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/81-demand-response/](https://commons-os.github.io/patterns/domain/81-demand-response/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/81-demand-response.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/81-demand-response.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

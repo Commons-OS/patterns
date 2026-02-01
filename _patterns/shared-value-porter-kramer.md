@@ -234,15 +234,3 @@ Shared Value is a transitional pattern because it represents a significant step 
 [4] Becton, Dickinson and Company. (n.d.). *Sustainability*. Retrieved from https://www.bd.com/en-us/company/sustainability-at-bd
 
 [5] Shared Value Initiative. (n.d.). *About Us*. Retrieved from https://www.sharedvalue.org/about-us/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/3-shared-value-porter-kramer/](https://commons-os.github.io/patterns/domain/3-shared-value-porter-kramer/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/3-shared-value-porter-kramer.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/3-shared-value-porter-kramer.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

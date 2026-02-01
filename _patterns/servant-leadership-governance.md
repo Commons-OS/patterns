@@ -137,15 +137,3 @@ Servant Leadership Governance provides a powerful framework for enabling collect
 [3] Canavesi, A., & Minelli, E. (2021). Servant Leadership: a Systematic Literature Review and Network Analysis. _Employee Responsibilities and Rights Journal_, _34_(3), 267–289. https://doi.org/10.1007/s10672-021-09381-3
 [4] Spears, L. C. (2010). Character and servant leadership: Ten characteristics of effective, caring leaders. _Journal of Virtues & Leadership_, _1_(1), 25-30.
 [5] Eva, N., Robin, M., Sendjaya, S., van Dierendonck, D., & Liden, R. C. (2019). Servant Leadership: A systematic review and call for future research. _The Leadership Quarterly_, _30_(1), 111-132.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/servant-leadership-governance/](https://commons-os.github.io/patterns/domain/servant-leadership-governance/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/servant-leadership-governance.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/servant-leadership-governance.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

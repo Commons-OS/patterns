@@ -144,15 +144,3 @@ Institutional Economics provides an essential analytical toolkit for designing a
 
 [7] Veblen, T. (1899). The Theory of the Leisure Class: An Economic Study of Institutions. Macmillan.
 "))" , "word_count": 2800} afterthought_read_file: /home/ubuntu/institutional-economics.md 1. --- 2. id: pat_9243 3. slug: institutional-economics 4. title: Institutional Economics 5. aliases: ["Old Institutional Economics", "OIE"] 6. version: 1.0 7. created: 2026-01-28T00:00:00Z 8. modified: 2026-01-28T00:00:00Z 9. tags: 10. universality: domain 11. domain: operations 12. category: [framework] 13. era: [industrial, digital] 14. origin: ["Thorstein Veblen", "John R. Commons", "Wesley Mitchell"] 15. status: draft 16. commons_alignment: 3 17. generalizes_from: [] 18. specializes_to: [] 19. enables: [] 20. requires: [] 21. related: ["new-institutional-economics"] 22. contributors: [higgerix, cloudsters] 23. sources: [] 24. license: CC-BY-SA-4.0 25. attribution: Commons OS distributed by cloudsters, https://cloudsters.net 26. repository: https://github.com/commons-os/patterns 27. --- 28. 29. ## 1. Overview 30. 31. Institutional Economics represents a significant departure from mainstream neoclassical economic thought, offering a more holistic and contextually-rich framework for understanding economic phenomena. At its core, this school of thought posits that economic behavior is not merely the aggregate of individual, rational decisions made in a vacuum. Instead, it is profoundly shaped and constrained by a society
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/institutional-economics/](https://commons-os.github.io/patterns/domain/institutional-economics/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/institutional-economics.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/institutional-economics.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

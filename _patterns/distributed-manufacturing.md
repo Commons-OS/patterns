@@ -262,15 +262,3 @@ Distributed manufacturing has a strong potential to be a commons-aligned pattern
     *   [3] Fictiv. (2022, December 21). *The Advantages of Distributed Manufacturing*. Retrieved from https://www.fictiv.com/articles/the-advantages-of-distributed-manufacturing
     *   [4] Nanalyze. (2023, February 3). *Distributed Manufacturing - A Case Study Unfolding*. Retrieved from https://www.nanalyze.com/2023/02/distributed-manufacturing-case-study/
     *   [5] Kühnle, H., & Bitsch, G. (2015). *Foundations & Principles of Distributed Manufacturing*. Springer. Retrieved from https://link.springer.com/book/10.1007/978-3-319-18078-6
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/58-distributed-manufacturing/](https://commons-os.github.io/patterns/context-specific/58-distributed-manufacturing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/58-distributed-manufacturing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/58-distributed-manufacturing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

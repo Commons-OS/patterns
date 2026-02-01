@@ -233,15 +233,3 @@ The Farm-to-Table pattern is a powerful enabler of collective value creation, ef
 *   Barber, D. (2014). *The Third Plate: Field Notes on the Future of Food*. Penguin.
 *   Waters, A. (2017). *Coming to My Senses: The Making of a Counterculture Cook*. Clarkson Potter.
 *   Halweil, B. (2002). *Home Grown: The Case for Local Food in a Global Market*. Worldwatch Institute.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/47-farm-to-table/](https://commons-os.github.io/patterns/domain/47-farm-to-table/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/47-farm-to-table.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/47-farm-to-table.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

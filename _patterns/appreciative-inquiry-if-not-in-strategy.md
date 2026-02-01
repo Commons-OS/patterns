@@ -178,15 +178,3 @@ For those interested in learning more about Appreciative Inquiry, there are a we
 [4] Atwood, S., & Wesp, K. (2009). *Building Capacity for Quality Improvement at Southeast, Inc.* [Appreciative Inquiry Facilitator Training Certification Document]. Center for Appreciative Inquiry.
 
 [5] Glasgow, J. L. (2008). *An Appreciative Inquiry Case Study: Recognizing the Positive Core of Teachers in a Low SES Elementary School that Met Standard of Excellence* [Doctoral dissertation, Wichita State University].
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/appreciative-inquiry-if-not-in-strategy/](https://commons-os.github.io/patterns/domain/appreciative-inquiry-if-not-in-strategy/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/appreciative-inquiry-if-not-in-strategy.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/appreciative-inquiry-if-not-in-strategy.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

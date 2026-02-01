@@ -199,15 +199,3 @@ The GRI Standards are a powerful enabler of collective value creation. While not
 *   Investopedia: Understanding the Global Reporting Initiative (GRI) [https://www.investopedia.com/global-reporting-initiative-7483127](https://www.investopedia.com/global-reporting-initiative-7483127)
 *   Workiva: What are the GRI Standards? [https://www.workiva.com/blog/what-are-gri-standards](https://www.workiva.com/blog/what-are-gri-standards)
 *   Wikipedia: Global Reporting Initiative [https://en.wikipedia.org/wiki/Global_Reporting_Initiative](https://en.wikipedia.org/wiki/Global_Reporting_Initiative)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/92-gri-standards-sustainability-reporting/](https://commons-os.github.io/patterns/domain/92-gri-standards-sustainability-reporting/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/92-gri-standards-sustainability-reporting.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/92-gri-standards-sustainability-reporting.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

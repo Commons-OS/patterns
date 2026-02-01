@@ -141,15 +141,3 @@ The framework provides a powerful and essential engine for adaptation and resili
 *   Teece, D. J. (2018). Business models and dynamic capabilities. *Long Range Planning*, *51*(1), 40-49.
 *   Wikipedia. (2023). *Dynamic capabilities*. https://en.wikipedia.org/wiki/Dynamic_capabilities
 *   Nayernia, H. (2025). *Dynamic Capabilities Theory: A review*. TheoryHub. https://open.ncl.ac.uk/theories/19/dynamic-capabilities-theory/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/dynamic-capabilities/](https://commons-os.github.io/patterns/domain/dynamic-capabilities/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/dynamic-capabilities.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/dynamic-capabilities.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

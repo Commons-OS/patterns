@@ -198,15 +198,3 @@ Community-Based Resource Management provides a robust framework that strongly en
 [8] Wanyonyi, J. K., & Onyango, G. M. (2014). The role of community based water projects in poverty reduction in Kenya: a case of Kwanza constituency, Trans-Nzoia county. *International Journal of Science and Research*, *3*(11), 126-133.
 
 [9] Monterroso, I., & Barry, D. (2012). *Community forestry in Guatemala: The transition from collective action to individual enterprise*. In *Community forestry: Innovations and experiences* (pp. 119-136). Earthscan.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/community-based-resource-management/](https://commons-os.github.io/patterns/domain/community-based-resource-management/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/community-based-resource-management.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/community-based-resource-management.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

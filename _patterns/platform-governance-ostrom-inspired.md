@@ -101,15 +101,3 @@ There are also a number of tools and platforms that can help to implement this p
 4. Colony. (n.d.). *Applying Ostrom's Principles to DAO Governance*. Colony Blog. Retrieved from https://blog.colony.io/applying-ostroms-principles-to-dao-governance
 5. Mozilla Foundation. (2021, December 6). *A Practical Framework for Applying Ostrom’s Principles to Data Commons Governance*. Mozilla Foundation. Retrieved from https://www.mozillafoundation.org/en/blog/a-practical-framework-for-applying-ostroms-principles-to-data-commons-governance/
 6. Silberman, M. S. (2016). Reading Elinor Ostrom in Silicon Valley. In *Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work & Social Computing* (pp. 1463-1472). ACM.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/platform-governance-ostrom-inspired/](https://commons-os.github.io/patterns/domain/platform-governance-ostrom-inspired/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/platform-governance-ostrom-inspired.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/platform-governance-ostrom-inspired.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

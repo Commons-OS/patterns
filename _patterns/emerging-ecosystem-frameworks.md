@@ -138,15 +138,3 @@ For those looking to delve deeper into the world of emerging ecosystem framework
 [5] Pidun, U., Reeves, M., & Zoletnik, B. (2022, March 11). *What Is Your Business Ecosystem Strategy?* BCG. https://www.bcg.com/publications/2022/what-is-your-business-ecosystem-strategy
 
 [6] Puthiyamadam, T. (2023, August 15). *How to create meaningful business ecosystem strategies*. PwC. https://www.pwc.com/us/en/services/consulting/business-transformation/library/business-ecosystem-strategies.html
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/emerging-ecosystem-frameworks/](https://commons-os.github.io/patterns/domain/emerging-ecosystem-frameworks/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/emerging-ecosystem-frameworks.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/emerging-ecosystem-frameworks.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

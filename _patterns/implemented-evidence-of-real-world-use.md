@@ -151,15 +151,3 @@ The pattern is a strong enabler of resilient collective value creation by provid
 [4] Pfeffer, J., & Sutton, R. I. (2006). Evidence-Based Management. *Harvard Business Review*, *84*(1), 62–74. https://hbr.org/2006/01/evidence-based-management
 
 [5] Rousseau, D. M. (2006). Is There Such a Thing as “Evidence-Based Management”? *Academy of Management Review*, *31*(2), 256–269. https://doi.org/10.5465/amr.2006.20208679
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/implemented-evidence-of-real-world-use/](https://commons-os.github.io/patterns/domain/implemented-evidence-of-real-world-use/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/implemented-evidence-of-real-world-use.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/implemented-evidence-of-real-world-use.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

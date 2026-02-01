@@ -153,15 +153,3 @@ Service Innovation is a powerful enabler for collective value creation, providin
 [4] Digital Leadership. (2024, March 20). *Service Innovation Definition, Examples, and Effective Process*. Retrieved from https://digitalleadership.com/glossary/service-innovation/
 
 [5] Wikipedia. (n.d.). *Service innovation*. Retrieved from https://en.wikipedia.org/wiki/Service_innovation
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/service-innovation/](https://commons-os.github.io/patterns/domain/service-innovation/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/service-innovation.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/service-innovation.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

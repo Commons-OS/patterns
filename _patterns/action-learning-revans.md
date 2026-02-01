@@ -142,15 +142,3 @@ In terms of tools and platforms, there are no specific tools that are required f
 [4] Action Learning Associates. (n.d.). *Case Studies*. https://actionlearning.com/case-studies/
 
 [5] Action Learning Associates. (n.d.). *Thomson Reuters*. https://actionlearning.com/case-study/thomson-reuters/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/human-universal/78-action-learning-revans/](https://commons-os.github.io/patterns/human-universal/78-action-learning-revans/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/78-action-learning-revans.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_human-universal/78-action-learning-revans.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

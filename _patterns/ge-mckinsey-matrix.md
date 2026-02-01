@@ -186,15 +186,3 @@ The GE-McKinsey Matrix is a product of the industrial era, designed for a world 
     [3] Boardmix. (n.d.). *5 GE-McKinsey Matrix Examples Explain: Analyze Your Own Business*. https://boardmix.com/analysis/ge-mckinsey-matrix-examples/
     [4] Strategic Management Insight. (2025, June 16). *GE-McKinsey Matrix: The Ultimate Guide*. https://strategicmanagementinsight.com/tools/ge-mckinsey-matrix/
     [5] Management Consulted. (2025, March 26). *GE McKinsey Matrix*. https://managementconsulted.com/ge-mckinsey-matrix/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/45-ge-mckinsey-matrix/](https://commons-os.github.io/patterns/domain/45-ge-mckinsey-matrix/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/45-ge-mckinsey-matrix.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/45-ge-mckinsey-matrix.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

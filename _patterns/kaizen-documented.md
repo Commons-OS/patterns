@@ -178,15 +178,3 @@ While Kaizen is primarily a management philosophy, its implementation is often s
 [3] Womack, J. P., & Jones, D. T. (2003). *Lean Thinking: Banish Waste and Create Wealth in Your Corporation*. Free Press.
 [4] Lean Enterprise Institute. (n.d.). *What is Lean?* Retrieved from https://www.lean.org/whats-lean/
 [5] Kaizen Institute. (n.d.). *What is KAIZEN™?* Retrieved from https://kaizen.com/what-is-kaizen/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/human-universal/kaizen-documented/](https://commons-os.github.io/patterns/human-universal/kaizen-documented/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/kaizen-documented.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_human-universal/kaizen-documented.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

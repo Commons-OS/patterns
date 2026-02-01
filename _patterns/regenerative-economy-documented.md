@@ -319,15 +319,3 @@ The regenerative economy pattern is deeply aligned with the principles of the co
 [5] Southface Institute. (2021, March 23). *Nine Examples That the Transition to a Regenerative Economy is Underway*. Retrieved from https://www.southface.org/nine-examples-that-the-transition-to-a-regenerative-economy-is-underway/
 
 [6] Fath, B. D., Fiscus, D. A., Goerner, S. J., Berea, A., & Ulanowicz, R. E. (2019). Measuring regenerative economics: 10 principles and measures undergirding systemic economic health. *Global Transitions*, *1*, 15–27. https://doi.org/10.1016/j.glt.2019.02.002
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/regenerative-economy-documented/](https://commons-os.github.io/patterns/domain/regenerative-economy-documented/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/regenerative-economy-documented.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/regenerative-economy-documented.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

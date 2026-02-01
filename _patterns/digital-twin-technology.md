@@ -266,15 +266,3 @@ Digital twin technology has the potential to be a powerful tool for creating and
 [4] Grieves, M. (2014). *Digital Twin: Manufacturing Excellence through Virtual Factory Replication*. Space and Time Publishing.
 
 [5] Tuegel, E. J., Ingraffea, A. R., Eason, T. G., & Spottswood, S. M. (2011). Reengineering aircraft structural life prediction using a digital twin. *International Journal of Aerospace Engineering*, *2011*.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/27-digital-twin-technology/](https://commons-os.github.io/patterns/domain/27-digital-twin-technology/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/27-digital-twin-technology.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/27-digital-twin-technology.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

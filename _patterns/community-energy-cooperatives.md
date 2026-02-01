@@ -275,15 +275,3 @@ This section provides a curated list of resources for those interested in learni
 [4] Ruggiero, S., Busch, H., Hansen, T., & Isakovic, A. (2021). Context and agency in urban community energy initiatives: An analysis of six case studies from the Baltic Sea Region. *Energy Policy*, *150*, 112141.
 
 [5] Viardot, E. (2013). The role of cooperatives in overcoming the barriers to adoption of renewable energy. *Energy Policy*, *63*, 756-764.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/80-community-energy-cooperatives/](https://commons-os.github.io/patterns/domain/80-community-energy-cooperatives/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/80-community-energy-cooperatives.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/80-community-energy-cooperatives.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -163,15 +163,3 @@ The Complementary Medicine pattern has a moderate alignment with the principles 
 [4] Ng, J. Y., et al. (2023). *The Brief History of Complementary, Alternative, and Integrative Medicine*. In *Integrative Medicine Research*, 12(4), 100932. https://doi.org/10.1016/j.imr.2023.100932
 
 [5] Raffaelli, R. (2014). *Turnkey or Tailored? Relational Pluralism, Institutional Complexity, and the Organizational Adoption of More or Less Customized Practices*. In *Academy of Management Journal*, 57(5), 1335-1357. https://doi.org/10.5465/amj.2011.1000
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/complementary-medicine/](https://commons-os.github.io/patterns/domain/complementary-medicine/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/complementary-medicine.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/complementary-medicine.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

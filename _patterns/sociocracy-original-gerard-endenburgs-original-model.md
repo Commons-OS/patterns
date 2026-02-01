@@ -121,15 +121,3 @@ Sociocracy is not just a set of principles; it is a practical system of governan
     3.  [Case studies of sociocracy](https://www.sociocracyforall.org/case-studies/)
     4.  [The sociocratic model of organizing](https://www.researchgate.net/publication/228053863_The_sociocratic_model_of_organizing)
     5.  [Comprehensive Sociocracy Books](https://www.sociocracyforall.org/sociocracy-books/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/sociocracy-original-gerard-endenburgs-original-model/](https://commons-os.github.io/patterns/domain/sociocracy-original-gerard-endenburgs-original-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/sociocracy-original-gerard-endenburgs-original-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/sociocracy-original-gerard-endenburgs-original-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

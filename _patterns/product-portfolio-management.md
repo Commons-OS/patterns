@@ -153,15 +153,3 @@ Product Portfolio Management receives a transitional score because it provides a
 [2] "What is Product Portfolio Management? | Planview." *Planview*. Accessed January 28, 2026. https://www.planview.com/resources/articles/what-is-product-portfolio-management/.
 
 [3] "Product Portfolio Management 101 | Productboard." *Productboard*. Accessed January 28, 2026. https://www.productboard.com/blog/product-portfolio-management-101/.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/product-portfolio-management/](https://commons-os.github.io/patterns/domain/product-portfolio-management/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/product-portfolio-management.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/product-portfolio-management.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

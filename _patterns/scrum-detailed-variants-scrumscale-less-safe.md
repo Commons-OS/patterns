@@ -138,15 +138,3 @@ Scrum is a powerful engine for adaptive value creation and learning, making it a
 [4] Atlassian. (n.d.). *The Large-Scale Scrum (LeSS) framework*. Retrieved from https://www.atlassian.com/agile/agile-at-scale/less
 
 [5] Wikipedia. (2023, May 23). *Scaled Agile Framework*. Retrieved from https://en.wikipedia.org/wiki/Scaled_Agile_Framework
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/scrum-detailed-variants-scrumscale-less-safe/](https://commons-os.github.io/patterns/domain/scrum-detailed-variants-scrumscale-less-safe/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/scrum-detailed-variants-scrumscale-less-safe.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/scrum-detailed-variants-scrumscale-less-safe.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

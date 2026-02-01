@@ -226,15 +226,3 @@ Domain-Driven Design is a powerful enabler for creating resilient, adaptable, an
 [4] Fowler, M. (2014). _BoundedContext._ https://martinfowler.com/bliki/BoundedContext.html
 
 [5] Wikipedia. (2023). _Domain-driven design._ https://en.wikipedia.org/wiki/Domain-driven_design
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/29-domain-driven-design-ddd/](https://commons-os.github.io/patterns/domain/29-domain-driven-design-ddd/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/29-domain-driven-design-ddd.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/29-domain-driven-design-ddd.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

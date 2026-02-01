@@ -228,15 +228,3 @@ Organic Certification Systems are a strong enabler of resilient, collective valu
 3.  Reganold, J. P., & Wachter, J. M. (2016). Organic agriculture in the twenty-first century. *Nature Plants*, *2*(2), 1-8.
 4.  Rodale Institute. (n.d.). *Farming Systems Trial*. Retrieved from https://rodaleinstitute.org/science/farming-systems-trial/
 5.  Wikipedia. (2026, January 22). *Organic certification*. Retrieved from https://en.wikipedia.org/wiki/Organic_certification
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/43-organic-certification-systems/](https://commons-os.github.io/patterns/domain/43-organic-certification-systems/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/43-organic-certification-systems.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/43-organic-certification-systems.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

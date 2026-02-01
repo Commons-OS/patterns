@@ -217,15 +217,3 @@ The Verification and Validation (V&V) pattern has a moderate alignment with the 
 [4] "Role of Verification and Validation (V&V) in SDLC." GeeksforGeeks. [https://www.geeksforgeeks.org/software-testing/role-of-verification-and-validation-vv-in-sdlc/](https://www.geeksforgeeks.org/software-testing/role-of-verification-and-validation-vv-in-sdlc/)
 
 [5] "Enhancing Software Quality through Early-Phase of Software Verification and Validation Techniques." ResearchGate. [https://www.researchgate.net/publication/377554934_Enhancing_Software_Quality_through_Early-Phase_of_Software_Verification_and_Validation_Techniques](https://www.researchgate.net/publication/377554934_Enhancing_Software_Quality_through_Early-Phase_of_Software_Verification_and_Validation_Techniques)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/verification-validation-vv/](https://commons-os.github.io/patterns/domain/verification-validation-vv/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/verification-validation-vv.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/verification-validation-vv.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

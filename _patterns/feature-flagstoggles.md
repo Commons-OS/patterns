@@ -153,15 +153,3 @@ Feature Flags are a fundamental enabler of resilient, adaptive, and high-velocit
 [4] Octopus Deploy. (2025, June 15). *The 12 Commandments Of Feature Flags In 2025*. [https://octopus.com/devops/feature-flags/feature-flag-best-practices/](https://octopus.com/devops/feature-flags/feature-flag-best-practices/)
 
 [5] Honeycomb. (2023, September 28). *What Is a Feature Flag? Best Practices and Use Cases*. [https://www.honeycomb.io/blog/what-is-a-feature-flag-best-practices-and-use-cases](https://www.honeycomb.io/blog/what-is-a-feature-flag-best-practices-and-use-cases)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/feature-flagstoggles/](https://commons-os.github.io/patterns/domain/feature-flagstoggles/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/feature-flagstoggles.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/feature-flagstoggles.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

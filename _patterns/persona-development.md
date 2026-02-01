@@ -185,15 +185,3 @@ Persona Development is a powerful enabler of collective value creation by foster
 [4] Ipsos. "Personas in the Age of AI." [https://www.ipsos.com/en-us/personas-age-ai](https://www.ipsos.com/en-us/personas-age-ai)
 
 [5] Boston Digital. "The Death of the Persona: How AI is Rendering Personas Obsolete." [https://www.bostondigital.com/insights/death-persona-how-ai-rendering-personas-obsolete](https://www.bostondigital.com/insights/death-persona-how-ai-rendering-personas-obsolete)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/persona-development/](https://commons-os.github.io/patterns/domain/persona-development/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/persona-development.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/persona-development.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -217,15 +217,3 @@ The Horizontal Integration Model is scored as a Partial Enabler because, while i
 [4] CIO. (2025). *Beyond siloed AI: How vertical and horizontal intelligence create the truly smart enterprise*. Retrieved from https://www.cio.com/article/4046287/beyond-siloed-ai-how-vertical-and-horizontal-intelligence-create-the-truly-smart-enterprise.html
 
 [5] Harvard Business Review. (2016). *The New Rules of Horizontal Integration*. Retrieved from https://hbr.org/2016/05/the-new-rules-of-horizontal-integration
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/horizontal-integration-model/](https://commons-os.github.io/patterns/domain/horizontal-integration-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/horizontal-integration-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/horizontal-integration-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

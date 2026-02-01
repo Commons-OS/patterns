@@ -243,15 +243,3 @@ Working capital management, as it is currently practiced, is largely extractive,
 [9] [How AI Is Redefining the Rules of Working Capital Management](https://www.linkedin.com/pulse/beyond-automation-how-ai-redefining-rules-working-capital-ng2gf)
 [10] [Use AI and Technology to Optimize Working Capital](https://research.isg-one.com/analyst-perspectives/use-ai-and-technology-to-optimize-working-capital)
 [11] [How AI and Automation Are Unlocking Working Capital](https://www.mtb.com/library/article/how-ai-and-automation-are-unlocking-working-capital)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/working-capital-management/](https://commons-os.github.io/patterns/domain/working-capital-management/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/working-capital-management.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/working-capital-management.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

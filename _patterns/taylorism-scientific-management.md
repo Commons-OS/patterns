@@ -153,15 +153,3 @@ Taylorism is a legacy pattern designed for the industrial era, focusing on the m
 [4] Mind Tools. (2024). *Frederick Taylor and Scientific Management*. Retrieved from https://www.mindtools.com/anx8725/frederick-taylor-and-scientific-management/
 
 [5] National Humanities Center. (n.d.). *The Principles of SCIENTIFIC MANAGEMENT 1910*. Retrieved from https://nationalhumanitiescenter.org/pds/gilded/progress/text3/taylor.pdf
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/taylorism-scientific-management/](https://commons-os.github.io/patterns/domain/taylorism-scientific-management/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/taylorism-scientific-management.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/taylorism-scientific-management.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

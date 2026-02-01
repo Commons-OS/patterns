@@ -230,15 +230,3 @@ Flexible Manufacturing is a powerful enabler of resilient value creation due to 
 [4] Flex. (2022, March 29). *The 5 tenets of flexible manufacturing*. Retrieved from https://flex.com/resources/the-5-tenets-of-flexible-manufacturing
 
 [5] Yadav, A., & Jayswal, S. C. (2018). Modelling of flexible manufacturing system: a review. *International Journal of Production Research*, *56*(16), 5435-5456.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/55-flexible-manufacturing/](https://commons-os.github.io/patterns/context-specific/55-flexible-manufacturing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/55-flexible-manufacturing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/55-flexible-manufacturing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

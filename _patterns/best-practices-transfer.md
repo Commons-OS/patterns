@@ -145,15 +145,3 @@ The pattern is a powerful tool for building collective capability but is traditi
 4.  **"How to Make Your Knowledge Transfer Plan a Success" by Bloomfire.** This article offers practical tips and a step-by-step guide to creating a successful knowledge transfer plan. It emphasizes the importance of identifying key knowledge, setting clear goals, and using the right tools.
 
 5.  **"Knowledge Sharing Best Practices" by Atlassian.** This article from Atlassian provides a set of best practices for fostering a culture of knowledge sharing, with a focus on the role of collaboration technology and flexible work arrangements.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/best-practices-transfer/](https://commons-os.github.io/patterns/implementation/best-practices-transfer/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/best-practices-transfer.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/best-practices-transfer.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

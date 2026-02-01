@@ -185,15 +185,3 @@ The pattern provides a powerful and comprehensive framework for shifting from ex
 [10] World Economic Forum. (2020). *New Nature Economy Report II: The Future of Nature and Business*. Retrieved from https://www.weforum.org/reports/new-nature-economy-report-ii-the-future-of-nature-and-business/
 
 [11] McKinsey. (2020). *Five ways that ESG creates value*. Retrieved from https://www.mckinsey.com/business-functions/sustainability/our-insights/five-ways-that-esg-creates-value
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/doughnut-economics-product-application/](https://commons-os.github.io/patterns/domain/doughnut-economics-product-application/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/doughnut-economics-product-application.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/doughnut-economics-product-application.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

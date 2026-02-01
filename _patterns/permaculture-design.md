@@ -250,15 +250,3 @@ Permaculture provides a complete and holistic design framework for creating resi
 *   [3] Porvenir Design. (2021). *The Tropical Permaculture Homestead: a Case Study with Porvenir Design*. Retrieved from https://www.porvenirdesign.com/blog/2021/9/19/the-tropical-permaculture-homestead
 *   [4] Permaculture Association. (n.d.). *Nenya's Garden*. Retrieved from https://www.permaculture.org.uk/nenyas-garden
 *   [5] Treehugger. (2021). *Making a Living From a Permaculture Garden*. Retrieved from https://www.treehugger.com/making-living-permaculture-design-practice-5097391
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/permaculture-design/](https://commons-os.github.io/patterns/domain/permaculture-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/permaculture-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/permaculture-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

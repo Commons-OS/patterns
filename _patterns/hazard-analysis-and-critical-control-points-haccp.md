@@ -187,15 +187,3 @@ HACCP is scored as Transitional because it represents a highly effective, scienc
 [4] U.S. Department of Agriculture. (n.d.). *Hazard Analysis and Critical Control Point (HACCP)*. Retrieved from https://www.fsis.usda.gov/wps/portal/fsis/topics/regulatory-compliance/haccp
 
 [5] Unnevehr, L. J., & Jensen, H. H. (1999). The economic implications of using HACCP as a food safety regulatory standard. *Food policy*, 24(6), 625-635.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/hazard-analysis-and-critical-control-points-haccp/](https://commons-os.github.io/patterns/domain/hazard-analysis-and-critical-control-points-haccp/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/hazard-analysis-and-critical-control-points-haccp.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/hazard-analysis-and-critical-control-points-haccp.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

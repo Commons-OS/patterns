@@ -198,15 +198,3 @@ The Foundational Economy framework has a strong alignment with the principles of
 
 4.  **Foundational Economy Collective.** (2018). *Foundational Economy: The infrastructure of everyday life*. Manchester University Press.
 5.  **Barbera, F., & Jones, I. R.** (2020). *The foundational economy and citizenship: Comparative perspectives on civil repair*. Policy Press.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/foundational-economy-essential-services/](https://commons-os.github.io/patterns/domain/foundational-economy-essential-services/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/foundational-economy-essential-services.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/foundational-economy-essential-services.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

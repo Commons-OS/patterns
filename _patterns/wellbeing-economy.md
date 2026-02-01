@@ -243,15 +243,3 @@ The Wellbeing Economy pattern is a powerful enabler of collective value creation
 [4] Raworth, K. (2017). *Doughnut economics: seven ways to think like a 21st-century economist*. Chelsea Green Publishing.
 
 [5] Lovins, L. H., Wallis, S., Wijkman, A., & Fullerton, J. (2018). *A finer future: Creating an economy in service to life*. New Society Publishers.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/62-wellbeing-economy/](https://commons-os.github.io/patterns/domain/62-wellbeing-economy/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/62-wellbeing-economy.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/62-wellbeing-economy.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

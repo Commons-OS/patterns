@@ -281,15 +281,3 @@ Extreme Programming is a powerful enabler of collective value creation, particul
 [9] Abrahamsson, P., Salo, O., Ronkainen, J., & Warsta, J. (2002). _Agile software development methods: Review and analysis_. VTT Publications.
 
 [10] Beall, J. L. (2024, May 8). _AI-XP Unpacked: Integrating AI with Extreme Programming for Enhanced Agility_. DEV Community. Retrieved from https://dev.to/dev3l/ai-xp-unpacked-integrating-ai-with-extreme-programming-for-enhanced-agility-44ae
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/34-extreme-programming-xp/](https://commons-os.github.io/patterns/domain/34-extreme-programming-xp/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/34-extreme-programming-xp.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/34-extreme-programming-xp.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

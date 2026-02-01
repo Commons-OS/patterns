@@ -296,15 +296,3 @@ This section provides a curated list of resources for those who wish to delve de
 [2] Kaizen Institute. (n.d.). *Gemba and Its Meaning – The Heart of Lean Management*. Retrieved from https://kaizen.com/insights/gemba-meaning-lean-management/
 
 [3] Imai, M. (2012). *Gemba Kaizen: A Commonsense Approach to a Continuous Improvement Strategy* (2nd ed.). McGraw-Hill.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/human-universal/21-gemba-kaizen/](https://commons-os.github.io/patterns/human-universal/21-gemba-kaizen/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/21-gemba-kaizen.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_human-universal/21-gemba-kaizen.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

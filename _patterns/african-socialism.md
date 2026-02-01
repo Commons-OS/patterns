@@ -148,15 +148,3 @@ African Socialism's foundational ideals of communalism, collective well-being, a
 *   [Marxists.org: African Socialism Revisited by Kwame Nkrumah 1967](https://www.marxists.org/subject/africa/nkrumah/1967/african-socialism-revisited.htm)
 *   [AEHN: African Socialism; or the Search for an Indigenous Model of Economic Development](https://www.aehnetwork.org/working-papers/african-socialism-or-the-search-for-an-indigenous-model-of-economic-development/)
 *   [Socialist Register: Varieties of African Socialism](https://socialistregister.com/index.php/srv/article/view/5974)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/african-socialism/](https://commons-os.github.io/patterns/domain/african-socialism/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/african-socialism.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/african-socialism.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

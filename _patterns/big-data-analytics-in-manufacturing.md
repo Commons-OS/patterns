@@ -158,15 +158,3 @@ These resources, among others, provide a rich and diverse body of knowledge for 
 [4] Informatica. (n.d.). *Big Data in Manufacturing*. Retrieved from https://www.informatica.com/resources/articles/manufacturing-big-data-use-cases.html
 
 [5] Belhadi, A., Zkik, K., Cherrafi, A., & Yusof, S. M. (2019). Understanding big data analytics for manufacturing processes: insights from literature review and multiple case studies. *Computers & Industrial Engineering*, *137*, 106099. https://doi.org/10.1016/j.cie.2019.106099
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/big-data-analytics-in-manufacturing/](https://commons-os.github.io/patterns/context-specific/big-data-analytics-in-manufacturing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/big-data-analytics-in-manufacturing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/big-data-analytics-in-manufacturing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

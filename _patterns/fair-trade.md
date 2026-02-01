@@ -239,15 +239,3 @@ Fair Trade is a mature and highly effective framework for enabling collective va
 [4] Fairtrade International. (n.d.). *How Fairtrade works*. Retrieved from https://www.fairtrade.net/en/why-fairtrade/how-we-do-it.html
 
 [5] Fair Trade Certified. (n.d.). *How Does Fair Trade Work?* Retrieved from https://www.fairtradecertified.org/what-we-do/how-we-work/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/44-fair-trade/](https://commons-os.github.io/patterns/domain/44-fair-trade/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/44-fair-trade.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/44-fair-trade.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

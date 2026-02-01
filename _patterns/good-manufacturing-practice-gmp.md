@@ -185,15 +185,3 @@ GMP is a powerful and essential framework for ensuring product quality and safet
 [9] Anyakora, C., Ekwunife, O., Alozie, F., Esuga, M., Ukwuru, J., Onya, S., & Nwokike, J. (2017). Cost benefit of investment on quality in pharmaceutical manufacturing: WHO GMP pre- and post-certification of a Nigerian pharmaceutical manufacturer. *BMC Health Services Research*, *17*(1), 665. https://doi.org/10.1186/s12913-017-2610-8
 
 [10] JAF Consulting. (2024, July 22). *How Digital Transformation is Enhancing GMP Compliance*. Retrieved from https://jafconsulting.com/how-digital-transformation-is-enhancing-gmp-compliance/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/good-manufacturing-practice-gmp/](https://commons-os.github.io/patterns/context-specific/good-manufacturing-practice-gmp/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/good-manufacturing-practice-gmp.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/good-manufacturing-practice-gmp.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

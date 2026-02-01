@@ -188,15 +188,3 @@ Edge Computing is a powerful enabler of resilient, collective value creation. It
 *   [Edge computing - Wikipedia](https://en.wikipedia.org/wiki/Edge_computing)
 *   [What is Edge Computing in Distributed System? - GeeksforGeeks](https://www.geeksforgeeks.org/cloud-computing/what-is-edge-computing-in-distributed-system/)
 *   [What is Edge Computing – Distributed architecture - Cisco](https://www.cisco.com/site/us/en/learn/topics/computing/what-is-edge-computing.html)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/edge-computing-distributed-processing/](https://commons-os.github.io/patterns/implementation/edge-computing-distributed-processing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/edge-computing-distributed-processing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/edge-computing-distributed-processing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

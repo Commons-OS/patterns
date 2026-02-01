@@ -232,15 +232,3 @@ Hybrid Governance Models provide a robust framework for balancing competing need
 [4] Ostrom, E. (1990). *Governing the Commons: The Evolution of Institutions for Collective Action*. Cambridge University Press.
 
 [5] Wilson, J., Adeyemi, T., & Rahman, N. (2025, October). Hybrid Governance Models: Integrating Formal and Informal Institutions for Environmental Sustainability. *ResearchGate*. https://www.researchgate.net/publication/396374100_Hybrid_Governance_Models_Integrating_Formal_and_Informal_Institutions_for_Environmental_Sustainability
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/hybrid-governance-models/](https://commons-os.github.io/patterns/domain/hybrid-governance-models/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/hybrid-governance-models.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/hybrid-governance-models.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

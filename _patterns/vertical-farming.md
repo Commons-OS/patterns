@@ -174,15 +174,3 @@ Vertical farming is an innovative agricultural practice that involves growing cr
     [3] Vertical. (n.d.). *A comprehensive guide to vertical farming*. Retrieved from https://vertical.mt/a-comprehensive-guide-to-vertical-farming/
     [4] Bosman Van Zaal. (n.d.). *The basic principles of Vertical Farming - in 1.000 words*. Retrieved from https://www.bosmanvanzaal.com/fileadmin/whitepapers/The_basic_principles_of_Vertical_Farming_-_in_1.000_words.pdf
     [5] ScienceDirect. (2024). *A cradle-to-customer life cycle assessment case study of lettuce produced in a commercial vertical farm in the UK*. Retrieved from https://www.sciencedirect.com/science/article/pii/S0959652624027732
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/vertical-farming/](https://commons-os.github.io/patterns/domain/vertical-farming/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/vertical-farming.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/vertical-farming.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

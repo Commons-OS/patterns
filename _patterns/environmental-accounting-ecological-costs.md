@@ -171,15 +171,3 @@ Environmental Accounting is a foundational pattern for any commons-based economi
 [12] [Towards Sustainable AI: Green Accounting-Based Model for Measuring the Environmental Cost of Intelligent Systems - ResearchGate](https://www.researchgate.net/publication/397241968_Towards_Sustainable_AI_Green_Accounting-Based_Model_for_Measuring_the_Environmental_Cost_of_Intelligent_Systems)
 
 [13] [AI and Sustainable Accounting: Balancing Innovation and Responsibility - Management World](https://www.managementworld.online/index.php/mw/article/view/1034)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/environmental-accounting-ecological-costs/](https://commons-os.github.io/patterns/domain/environmental-accounting-ecological-costs/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/environmental-accounting-ecological-costs.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/environmental-accounting-ecological-costs.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

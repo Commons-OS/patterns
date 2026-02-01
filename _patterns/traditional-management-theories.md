@@ -162,15 +162,3 @@ In conclusion, while traditional management theories are not a natural fit with 
 3.  History of Management Theory. (n.d.). Lumen Learning. Retrieved from [https://courses.lumenlearning.com/wm-organizationalbehavior/chapter/history-of-management-theory/](https://courses.lumenlearning.com/wm-organizationalbehavior/chapter/history-of-management-theory/)
 4.  The History of Management. (n.d.). Pressbooks. Retrieved from [https://fhsu.pressbooks.pub/management/chapter/the-history-of-management/](https://fhsu.pressbooks.pub/management/chapter/the-history-of-management/)
 5.  Classical management theory. (n.d.). EBSCO. Retrieved from [https://www.ebsco.com/research-starters/business-and-management/classical-management-theory](https://www.ebsco.com/research-starters/business-and-management/classical-management-theory)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/traditional-management-theories/](https://commons-os.github.io/patterns/domain/traditional-management-theories/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/traditional-management-theories.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/traditional-management-theories.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

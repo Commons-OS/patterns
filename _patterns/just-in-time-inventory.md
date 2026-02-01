@@ -151,15 +151,3 @@ Just-in-Time Inventory is a powerful engine for efficiency and waste reduction, 
 [4] Wikipedia. "Lean manufacturing." Accessed January 28, 2026. https://en.wikipedia.org/wiki/Lean_manufacturing
 
 [5] TechTarget. "What is just-in-time manufacturing (JIT manufacturing)?" Accessed January 28, 2026. https://www.techtarget.com/whatis/definition/just-in-time-manufacturing-JIT-manufacturing
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/just-in-time-inventory/](https://commons-os.github.io/patterns/domain/just-in-time-inventory/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/just-in-time-inventory.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/just-in-time-inventory.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

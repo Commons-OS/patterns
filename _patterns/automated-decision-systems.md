@@ -274,15 +274,3 @@ Automated Decision Systems are a powerful tool for efficiency and scale, making 
 [5] The Motley Fool. (2026, January 23). *10 Companies Using AI in Meaningful Ways*. Retrieved from https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/
 
 [6] Wihlborg, E., & Nygren, M. (2016). A Case Study on Automated Decision-Making in Public Administration. *2016 49th Hawaii International Conference on System Sciences (HICSS)*, 2706-2715.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/automated-decision-systems/](https://commons-os.github.io/patterns/domain/automated-decision-systems/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/automated-decision-systems.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/automated-decision-systems.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

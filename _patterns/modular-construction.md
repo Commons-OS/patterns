@@ -155,15 +155,3 @@ Modular Construction is not just a pattern; it is a fundamental architecture for
 [2] McKinsey & Company. "Platforms and modularity: Setup for success." [https://www.mckinsey.com/capabilities/operations/our-insights/platforms-and-modularity-setup-for-success](https://www.mckinsey.com/capabilities/operations/our-insights/platforms-and-modularity-setup-for-success)
 
 [3] Tivazo. "What is a Modular Organization​? Importance, Examples & More." [https://tivazo.com/blogs/what-is-a-modular-organization/](https://tivazo.com/blogs/what-is-a-modular-organization/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/modular-construction/](https://commons-os.github.io/patterns/domain/modular-construction/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/modular-construction.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/modular-construction.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

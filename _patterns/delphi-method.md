@@ -167,15 +167,3 @@ The Delphi Method is a powerful enabler of collective value creation, particular
 3.  [The Delphi Method: An Introduction](https://link.springer.com/chapter/10.1007/978-3-658-38862-1_1)
 4.  [Utilizing and adapting the Delphi method for use in qualitative research](https://journals.sagepub.com/doi/abs/10.1177/1609406915621381)
 5.  [A Practical Guide to Applying the Delphi Technique in Treatment Adaptation](https://pmc.ncbi.nlm.nih.gov/articles/PMC8384080/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/delphi-method/](https://commons-os.github.io/patterns/implementation/delphi-method/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/delphi-method.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/delphi-method.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

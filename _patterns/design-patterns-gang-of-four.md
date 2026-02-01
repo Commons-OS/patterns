@@ -173,15 +173,3 @@ The Gang of Four Design Patterns are a powerful enabler of resilient and adaptab
 *   [DigitalOcean: Gang of 4 Design Patterns Explained](https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns)
 *   [GeeksforGeeks: Gang of Four (GOF) Design Patterns](https://www.geeksforgeeks.org/gang-of-four-gof-design-patterns/)
 *   [Martin Fowler: Gang of Four](https://martinfowler.com/bliki/GangOfFour.html)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/design-patterns-gang-of-four/](https://commons-os.github.io/patterns/domain/design-patterns-gang-of-four/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/design-patterns-gang-of-four.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/design-patterns-gang-of-four.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

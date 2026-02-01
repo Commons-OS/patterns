@@ -234,15 +234,3 @@ Cellular Manufacturing is a strong enabler of collective value creation, particu
 [4] Chen, J. C. (2001). A Kaizen Based Approach for Cellular Manufacturing System Design: A Case Study. *Journal of Technology Studies*, *27*(2). https://doi.org/10.21061/jots.v27i2.a.3
 
 [5] Hyer, N. L., & Wemmerlöv, U. (1984). Group Technology and Productivity. *Harvard Business Review*, *62*(4), 140–149.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/32-cellular-manufacturing/](https://commons-os.github.io/patterns/context-specific/32-cellular-manufacturing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/32-cellular-manufacturing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/32-cellular-manufacturing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

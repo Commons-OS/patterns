@@ -120,15 +120,3 @@ Overall, vernacular architecture provides a powerful model for how we can create
 [4] Rudofsky, B. (1964). *Architecture Without Architects: A Short Introduction to Non-Pedigreed Architecture*. Museum of Modern Art.
 
 [5] Vellinga, M., Oliver, P., & Bridge, A. (Eds.). (2007). *Atlas of Vernacular Architecture of the World*. Routledge.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/vernacular-architecture/](https://commons-os.github.io/patterns/domain/vernacular-architecture/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/vernacular-architecture.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/vernacular-architecture.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

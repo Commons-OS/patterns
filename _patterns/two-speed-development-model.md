@@ -249,15 +249,3 @@ The Two-Speed Development Model is a transitional pattern that can help organiza
 [7] Rüßmann, M., Lorenz, M., Gerbert, P., Waldner, M., Justus, J., Engel, P., & Harnisch, M. (2016). *The End of Two-Speed IT*. Boston Consulting Group. Retrieved from https://www.bcg.com/publications/2016/software-agile-digital-transformation-end-of-two-speed-it
 
 [8] PYMNTS. (2025, November 27). *Agentic AI Adoption Creates a 'Two-Speed' Enterprise Landscape*. PYMNTS.com. Retrieved from https://www.pymnts.com/artificial-intelligence-2/2025/agentic-ai-adoption-creates-a-two-speed-enterprise-landscape/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/two-speed-development-model/](https://commons-os.github.io/patterns/domain/two-speed-development-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/two-speed-development-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/two-speed-development-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

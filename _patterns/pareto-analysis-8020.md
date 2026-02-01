@@ -147,15 +147,3 @@ Pareto Analysis is a powerful and versatile tool for optimizing existing systems
 [4] [QI Macros. (n.d.). *Pareto Analysis | Pareto Chart Example | Pareto Case Study*.](https://www.qimacros.com/pareto-chart-excel/pareto-analysis/)
 
 [5] [ResearchGate. (2022). *A Case Study of Coffee Sachets Production Defect Analysis Using Pareto Analysis, P-Control Chart, and Ishikawa Diagram*.](https://www.researchgate.net/publication/352542878_A_Case_Study_of_Coffee_Sachets_Production_Defect_Analysis_Using_Pareto_Analysis_P-Control_Chart_and_Ishikawa_Diagram)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/pareto-analysis-8020/](https://commons-os.github.io/patterns/domain/pareto-analysis-8020/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/pareto-analysis-8020.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/pareto-analysis-8020.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

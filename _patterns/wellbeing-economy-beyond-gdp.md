@@ -191,15 +191,3 @@ The Wellbeing Economy framework has a strong alignment with the principles of th
 [5] Wellbeing Economy Governments. (n.d.). *About Us*. Retrieved from https://wego.org/
 
 [6] Bellet, C., De Neve, J. E., & Ward, G. (2019). *Does employee happiness have an impact on productivity?* Saïd Business School, University of Oxford.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/wellbeing-economy-beyond-gdp/](https://commons-os.github.io/patterns/domain/wellbeing-economy-beyond-gdp/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/wellbeing-economy-beyond-gdp.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/wellbeing-economy-beyond-gdp.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

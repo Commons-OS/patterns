@@ -237,15 +237,3 @@ The Solidarity Economy is a powerful enabler of resilient collective value creat
 [4] OECD. (n.d.). *Case Studies*.
 
 [5] UNRISD. (2014). *Social and Solidarity Economy: An Opportunity for Sustainable Development*.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/67-solidarity-economy/](https://commons-os.github.io/patterns/domain/67-solidarity-economy/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/67-solidarity-economy.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/67-solidarity-economy.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

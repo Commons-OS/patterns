@@ -195,15 +195,3 @@ Platform Business Models are a pivotal evolution from linear business models, de
 [5] Agostini, M. (2023, November 8). *The Impact of Artificial Intelligence on the Platform Economy*. Martino Agostini.
 
 [6] Platform Cooperativism Consortium. (n.d.). *Platform Cooperativism Consortium*.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/platform-business-models/](https://commons-os.github.io/patterns/domain/platform-business-models/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/platform-business-models.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/platform-business-models.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

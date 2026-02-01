@@ -232,15 +232,3 @@ Communities of Practice are a powerful enabler of collective value creation, ali
 [4] Wenger, E. (2011). *Communities of practice: A brief introduction*. University of Oregon. https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/11736/A%20brief%20introduction%20to%20CoPs.pdf
 
 [5] Gonçalves, L. (2024, January 13). *Communities of Practice Success Stories: How World-Class Companies Run Their CoPs*. ADAPT Methodology®. https://adaptmethodology.com/blog/communities-of-practice-success-stories/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/79-communities-of-practice-wenger/](https://commons-os.github.io/patterns/implementation/79-communities-of-practice-wenger/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/79-communities-of-practice-wenger.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/79-communities-of-practice-wenger.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

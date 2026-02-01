@@ -265,15 +265,3 @@ The Dutch Polder Model is a powerful and proven framework for resilient, collect
 [5] Kurstjens, N. (2015). *The Dutch ‘Polder Model’: Social Pacts. An analysis of the key to success*. [Master Thesis, Radboud University Nijmegen].
 
 [6] CPB Netherlands Bureau for Economic Policy Analysis. (n.d.). *About CPB*. Retrieved from https://www.cpb.nl/en/about-cpb
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/87-dutch-polder-model/](https://commons-os.github.io/patterns/domain/87-dutch-polder-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/87-dutch-polder-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/87-dutch-polder-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

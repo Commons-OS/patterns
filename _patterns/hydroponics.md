@@ -170,15 +170,3 @@ The Hydroponics pattern provides a strong foundation for creating adaptive and i
 [4] Suominen, A., Jussila, J., & Vanharanta, H. (2008). *Hydro Power Plant - Metaphor for Innovation Culture*. In *Proceedings of the AHFEI 2008 Conference*.
 
 [5] World Economic Forum. (2019, February 5). *What is hydroponics - and is it the future of farming?* Retrieved from https://www.weforum.org/stories/2019/02/hydroponics-future-of-farming/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/hydroponics/](https://commons-os.github.io/patterns/domain/hydroponics/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/hydroponics.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/hydroponics.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

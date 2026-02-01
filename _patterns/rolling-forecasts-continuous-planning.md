@@ -131,15 +131,3 @@ The pattern is a powerful tool for building organizational resilience and adapta
 [4] NetSuite. "What Is a Rolling Forecast? Pros, Cons, and Best Practices." NetSuite, 2023, https://www.netsuite.com/portal/resource/articles/financial-management/rolling-forecast.shtml.
 
 [5] Wall Street Prep. "Rolling Forecast Guide | FP&A Best Practices Tutorial." Wall Street Prep, 2024, https://www.wallstreetprep.com/knowledge/rolling-forecast-best-practices-guide-fpa-professionals/.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/rolling-forecasts-continuous-planning/](https://commons-os.github.io/patterns/domain/rolling-forecasts-continuous-planning/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/rolling-forecasts-continuous-planning.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/rolling-forecasts-continuous-planning.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

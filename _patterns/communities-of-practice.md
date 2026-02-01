@@ -180,15 +180,3 @@ Communities of Practice are a powerful enabler of collective value creation, par
 [4] Every Learner Everywhere. (2023). *11 Inspiring Examples of Communities of Practice in Higher Education*. https://www.everylearnereverywhere.org/blog/11-inspiring-examples-of-communities-of-practice-in-higher-education/
 
 [5] Conn, L. (2024, January 18). What Is A Community Of Practice? (And Why You Need One). *Forbes*. https://www.forbes.com/sites/lisaconn/2024/01/18/what-is-a-community-of-practice-and-why-you-need-one/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/communities-of-practice/](https://commons-os.github.io/patterns/implementation/communities-of-practice/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/communities-of-practice.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/communities-of-practice.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -270,15 +270,3 @@ This section provides a curated list of resources for further exploration of Ind
 [6] Kearney. (n.d.). *Industry 4.0: case studies*. Retrieved from https://www.kearney.com/service/operations-performance/industry-4-0-the-future-of-production/case-studies
 
 [7] Hitachi. (n.d.). *How AI is Speeding the Rise of “Industry 4.0”*. Retrieved from https://www.hitachi.com/en-us/insights/articles/ai-for-smart-manufacturing-industry-4-0/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/51-industry-40/](https://commons-os.github.io/patterns/context-specific/51-industry-40/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/51-industry-40.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/51-industry-40.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

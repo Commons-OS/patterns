@@ -156,15 +156,3 @@ The British Cooperative Movement is a powerful and proven enabler of collective 
 *   **Rochdale Pioneers Museum:** The museum is located in the original Rochdale Pioneers shop and tells the story of the birth of the modern co-operative movement. (https://rochdalepioneersmuseum.coop/)
 
 *   **Wikipedia:** The Wikipedia articles on the British co-operative movement and the Rochdale Principles provide a good overview of the topic. (https://en.wikipedia.org/wiki/British_co-operative_movement, https://en.wikipedia.org/wiki/Rochdale_Principles)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/british-cooperative-movement/](https://commons-os.github.io/patterns/domain/british-cooperative-movement/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/british-cooperative-movement.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/british-cooperative-movement.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

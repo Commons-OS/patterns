@@ -235,15 +235,3 @@ The V-Model for Automotive Systems Engineering is a solid and well-established p
 [6] Nicolaescu, S. S., & Palade, H. C. (2017). A new project management approach for R&D software projects in the automotive industry-continuous V-model. International Journal of Web and Grid Services, 13(3), 269-291.
 
 [7] Ullrich, L., Buchholz, M., & Dietmayer, K. (2024). Expanding the classical v-model for the development of complex systems incorporating ai. IEEE Transactions on Intelligent Vehicles.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/v-model-for-automotive-systems-engineering/](https://commons-os.github.io/patterns/domain/v-model-for-automotive-systems-engineering/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/v-model-for-automotive-systems-engineering.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/v-model-for-automotive-systems-engineering.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -154,15 +154,3 @@ Prefabrication is scored as Transitional because while it is a powerful enabler 
 [4] McKinsey & Company. (2019, June 18). *Modular construction: From projects to products*. Retrieved from https://www.mckinsey.com/capabilities/operations/our-insights/modular-construction-from-projects-to-products
 
 [5] Tam, V. W. Y., Tam, C. M., Zeng, S. X., & Ng, W. C. Y. (2007). Towards adoption of prefabrication in construction. *Building and Environment*, *42*(10), 3642–3654. https://doi.org/10.1016/j.buildenv.2006.10.003
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/prefabrication/](https://commons-os.github.io/patterns/domain/prefabrication/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/prefabrication.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/prefabrication.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

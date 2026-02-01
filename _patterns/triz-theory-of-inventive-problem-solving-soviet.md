@@ -194,15 +194,3 @@ This section provides an assessment of the alignment of the TRIZ methodology wit
 *   [TRIZ Journal](https://the-trizjournal.com/)
 *   [European TRIZ Association (ETRIA)](https://etria.eu/)
 *   [Altshuller Institute for TRIZ Studies](https://www.aitriz.org/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/triz-theory-of-inventive-problem-solving-soviet/](https://commons-os.github.io/patterns/domain/triz-theory-of-inventive-problem-solving-soviet/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/triz-theory-of-inventive-problem-solving-soviet.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/triz-theory-of-inventive-problem-solving-soviet.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

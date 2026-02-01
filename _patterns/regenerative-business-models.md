@@ -254,15 +254,3 @@ The pattern provides a complete and holistic framework for designing organizatio
 [7] Sanford, C. (2017). *The Regenerative Business*. Nicholas Brealey Publishing.
 
 [8] Fullerton, J. (2015). *Regenerative Capitalism*. Capital Institute.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/70-regenerative-business-models/](https://commons-os.github.io/patterns/domain/70-regenerative-business-models/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/70-regenerative-business-models.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/70-regenerative-business-models.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

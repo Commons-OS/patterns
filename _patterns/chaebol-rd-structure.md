@@ -165,15 +165,3 @@ The Chaebol R&D Structure is a powerful engine for generating technological and 
 *   Nature. (2020, May 28). *How South Korea made itself a global innovation leader*. Nature Index. Retrieved from https://www.nature.com/nature-index/news/how-south-korea-made-itself-a-global-innovation-leader-research-science
 *   Helman, C. (2025, June 12). How South Korea’s Chaebols Are Pushing The Robotics Revolution. *Forbes*. Retrieved from https://www.forbes.com/sites/christopherhelman/2025/06/12/how-south-koreas-chaebols-are-pushing-the-robotics-revolution/
 *   Samsung Newsroom. (2024, December 9). *[AI Leadership] ③ Samsung’s AI Strategy Centered on Customer Experiences*. Retrieved from https://news.samsung.com/global/ai-leadership-%E2%91%A2-samsungs-ai-strategy-centered-on-customer-experiences
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/chaebol-rd-structure/](https://commons-os.github.io/patterns/domain/chaebol-rd-structure/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/chaebol-rd-structure.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/chaebol-rd-structure.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

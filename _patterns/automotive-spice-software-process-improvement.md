@@ -102,15 +102,3 @@ In its current form, Automotive SPICE can be seen as a “gated commons,” wher
 4.  [TÜV SÜD: Automotive SPICE - ASPICE Assessment](https://www.tuvsud.com/en-us/industries/mobility-and-automotive/automotive-and-oem/automotive-spice)
 5.  [VDA QMC: Automotive SPICE® Process Assessment Model 4.0](https://vda-qmc.de/wp-content/uploads/2023/12/Automotive-SPICE-PAM-v40.pdf)
 6. [UL Solutions: Automotive SPICE Pocket Guide](https://www.ul.com/sites/default/files/2024-10/Automotive_Spice_Pocket_Guide.pdf)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/automotive-spice-software-process-improvement/](https://commons-os.github.io/patterns/context-specific/automotive-spice-software-process-improvement/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/automotive-spice-software-process-improvement.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/automotive-spice-software-process-improvement.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

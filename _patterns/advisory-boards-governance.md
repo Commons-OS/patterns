@@ -187,15 +187,3 @@ By leveraging these resources, organizations can gain a deeper understanding of 
 [4] Ignite Advisory Group. "Successful Customer Advisory Board Examples." [https://www.igniteag.com/resources/successful-customer-advisory-board-examples/](https://www.igniteag.com/resources/successful-customer-advisory-board-examples/)
 
 [5] Forbes. "20 Benefits Of Having An Advisory Board For Your Business." [https://www.forbes.com/councils/forbesbusinesscouncil/2025/06/09/20-benefits-of-having-an-advisory-board-for-your-business/](https://www.forbes.com/councils/forbesbusinesscouncil/2025/06/09/20-benefits-of-having-an-advisory-board-for-your-business/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/advisory-boards-governance/](https://commons-os.github.io/patterns/domain/advisory-boards-governance/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/advisory-boards-governance.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/advisory-boards-governance.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

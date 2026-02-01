@@ -182,15 +182,3 @@ Social Economics is a powerful enabler for designing and assessing value creatio
 *   *Forum for Social Economics*
 *   *International Journal of Social Economics*
 *   *Review of Social Economy*
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/social-economics/](https://commons-os.github.io/patterns/domain/social-economics/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/social-economics.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/social-economics.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

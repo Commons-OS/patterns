@@ -178,15 +178,3 @@ Service blueprinting, as a methodology, can be assessed for its alignment with t
 [4] Bitner, M. J., Ostrom, A. L., & Morgan, F. N. (2008). Service Blueprinting: A Practical Technique for Service Innovation. *California Management Review*, 50(3), 66–94.
 
 [5] Lilian, S. C., & Hsieh, T. S. (2011). A study of the service blueprint for the hotel industry. *Journal of Quality Assurance in Hospitality & Tourism*, 12(3), 201-209.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/service-blueprinting/](https://commons-os.github.io/patterns/domain/service-blueprinting/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/service-blueprinting.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/service-blueprinting.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -231,15 +231,3 @@ The Integrated Reporting Framework is a powerful enabler of collective value cre
 [4] Cheng, M., Green, W., Conradie, P., Konishi, N., & Romi, A. (2014). The international integrated reporting framework: key issues and future research opportunities. *Journal of International Financial Management & Accounting*, *25*(1), 90-119.
 
 [5] Steyn, M. (2014). Organisational benefits and implementation challenges of mandatory integrated reporting: Perspectives of senior executives at South African listed companies. *Sustainability Accounting, Management and Policy Journal*, *5*(4), 476-503.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/91-integrated-reporting-ir-framework/](https://commons-os.github.io/patterns/domain/91-integrated-reporting-ir-framework/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/91-integrated-reporting-ir-framework.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/91-integrated-reporting-ir-framework.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

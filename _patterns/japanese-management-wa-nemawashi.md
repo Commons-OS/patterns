@@ -165,15 +165,3 @@ The pattern demonstrates significant potential for collective value creation, wi
 [4] Pascale, R. T., & Athos, A. G. (1981). *The Art of Japanese Management*. Harvard Business Review.
 
 [5] Wikipedia. (n.d.). *Japanese management culture*. Retrieved from https://en.wikipedia.org/wiki/Japanese_management_culture
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/japanese-management-wa-nemawashi/](https://commons-os.github.io/patterns/domain/japanese-management-wa-nemawashi/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/japanese-management-wa-nemawashi.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/japanese-management-wa-nemawashi.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

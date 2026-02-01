@@ -215,15 +215,3 @@ Degrowth provides a complete and coherent architecture for resilient collective 
 *   **Research & Degrowth:** An academic association dedicated to research, training, and awareness-raising around degrowth. (https://degrowth.org/)
 *   **Degrowth US:** A network of individuals and organizations in the United States who are working to advance the ideas and practices of degrowth. (https://www.degrowus.org/)
 *   **International Degrowth Network:** A global community of individuals, organizations, and degrowth allies committed to creating an equitable and sustainable world for all generations. (https://degrowth.net/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/degrowth-documented/](https://commons-os.github.io/patterns/domain/degrowth-documented/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/degrowth-documented.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/degrowth-documented.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

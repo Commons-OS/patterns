@@ -181,15 +181,3 @@ The pattern is a powerful enabler of collective value creation, providing the es
 [4] Association for Project Management. (n.d.). *10 key principles of stakeholder engagement*. APM. https://apm.org.uk/resources/find-a-resource/stakeholder-engagement/key-principles/
 
 [5] Sedex. (2025, April 24). *Effective stakeholder communication: A guide for supply chain leaders*. Sedex. https://www.sedex.com/blog/effective-stakeholder-communication-a-guide-for-supply-chain-leaders/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/14-supply-chain-management-stakeholder-approach/](https://commons-os.github.io/patterns/domain/14-supply-chain-management-stakeholder-approach/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/14-supply-chain-management-stakeholder-approach.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/14-supply-chain-management-stakeholder-approach.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

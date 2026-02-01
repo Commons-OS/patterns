@@ -186,15 +186,3 @@ While the Toyota Production System has many positive attributes, its primary foc
 [3] [Toyota Production System - Lean Enterprise Institute](https://www.lean.org/lexicon-terms/toyota-production-system/)
 [4] [9 Companies That Use Lean Manufacturing - shoplogix.com](https://shoplogix.com/nine-companies-that-use-lean-manufacturing/)
 [5] [How Toyota is revolutionizing manufacturing with AI - Google Cloud Blog](https://cloud.google.com/blog/topics/hybrid-cloud/toyota-ai-platform-manufacturing-efficiency)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/toyota-production-system-tps/](https://commons-os.github.io/patterns/domain/toyota-production-system-tps/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/toyota-production-system-tps.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/toyota-production-system-tps.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

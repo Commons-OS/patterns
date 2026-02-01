@@ -170,15 +170,3 @@ The Nonaka and Takeuchi model is a powerful enabler of collective value creation
 [4] Farnese, M. L., Barbieri, B., Chirumbolo, A., & Patriotta, G. (2019). Managing Knowledge in Organizations: A Nonaka’s SECI Model Operationalization. *Frontiers in Psychology*, 10, 2730.
 
 [5] Wikipedia. (2023, November 15). *SECI model of knowledge dimensions*. Retrieved from https://en.wikipedia.org/wiki/SECI_model_of_knowledge_dimensions
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/knowledge-management-nonaka-takeuchi/](https://commons-os.github.io/patterns/domain/knowledge-management-nonaka-takeuchi/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/knowledge-management-nonaka-takeuchi.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/knowledge-management-nonaka-takeuchi.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

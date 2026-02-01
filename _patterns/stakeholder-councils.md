@@ -182,15 +182,3 @@ The Stakeholder Councils pattern provides a robust and formal framework that str
 [4] Cynuria Consulting. (n.d.). *Case Study Challenge - Navigating Stakeholder and Decision-making Challenges*. TechFAR Hub. Retrieved from https://techfarhub.usds.gov/resources/case-studies/case-study-challenge-navigating-stakeholder-and-decision-making-challenges/
 
 [5] McDonnell, B. (2024). Stakeholder Governance as Governance by Stakeholders. *Seattle University Law Review*, *47*(3), 511-572. Retrieved from https://digitalcommons.law.seattleu.edu/cgi/viewcontent.cgi?article=2850&context=sulr
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/93-stakeholder-councils/](https://commons-os.github.io/patterns/domain/93-stakeholder-councils/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/93-stakeholder-councils.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/93-stakeholder-councils.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

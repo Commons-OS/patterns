@@ -109,15 +109,3 @@ FMEA is a powerful tool for creating resilience and knowledge value, which are e
 *   [https://quality-one.com/fmea/](https://quality-one.com/fmea/)
 *   [https://www.scrut.io/post/guide-to-an-fmea-analysis](https://www.scrut.io/post/guide-to-an-fmea-analysis)
 *   [https://fmea-training.com/10-steps-process-failure-mode-and-effects-analysis/](https://fmea-training.com/10-steps-process-failure-mode-and-effects-analysis/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/failure-mode-and-effects-analysis-fmea/](https://commons-os.github.io/patterns/domain/failure-mode-and-effects-analysis-fmea/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/failure-mode-and-effects-analysis-fmea.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/failure-mode-and-effects-analysis-fmea.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

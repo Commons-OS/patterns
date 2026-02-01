@@ -195,15 +195,3 @@ This section provides a curated list of resources for further learning and engag
 [3] iSixSigma. (2019, April 8). *Case Study: DMAIC Project Improves Hospital's On-time Completion of Administrative Tasks*. Retrieved from https://www.isixsigma.com/case-studies/case-study-dmaic-project-improves-hospitals-on-time-completion-of-administrative-tasks/
 [4] Monday, L. M., et al. (2022). Define, Measure, Analyze, Improve, Control (DMAIC) Methodology for Process Improvement. *Processes*, 10(6), 1125.
 [5] Kumar, M., & Antony, J. (2008). A systematic review of the literature on the key success factors for the implementation of Six Sigma in the healthcare industry. *International Journal of Quality & Reliability Management*, 25(7), 702-727.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/dmaic-six-sigma/](https://commons-os.github.io/patterns/domain/dmaic-six-sigma/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/dmaic-six-sigma.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/dmaic-six-sigma.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

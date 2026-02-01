@@ -172,15 +172,3 @@ The Gift Economy is a powerful enabler of collective value creation, establishin
 
 *   Wikipedia. (n.d.). *Gift economy*. Retrieved January 28, 2026, from https://en.wikipedia.org/wiki/Gift_economy
 *   MasterClass. (2022, October 11). *Gift Economy: Definition, Characteristics, and Examples*. MasterClass. Retrieved January 28, 2026, from https://www.masterclass.com/articles/gift-economy
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/gift-economy-documented/](https://commons-os.github.io/patterns/domain/gift-economy-documented/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/gift-economy-documented.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/gift-economy-documented.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -285,15 +285,3 @@ Cloud-Native Architecture is rated as **Transitional** because while it embraces
 [4] Forsgren, N., Humble, J., & Kim, G. (2018). *Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations*. IT Revolution Press.
 
 [5] McKinsey & Company. (2018, July). *Modernizing IT for digital reinvention*. Retrieved from https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/modernizing%20it%20for%20digital%20reinvention/modernizing-it-for-digital-reinvention-collection_july-2018.pdf
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/20-cloud-native-architecture/](https://commons-os.github.io/patterns/domain/20-cloud-native-architecture/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/20-cloud-native-architecture.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/20-cloud-native-architecture.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

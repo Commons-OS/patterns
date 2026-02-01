@@ -146,15 +146,3 @@ Spiritual Leadership is a powerful enabler for creating the cultural and motivat
 [3] [Spiritual Leadership on Proactive Workplace Behavior: The Role of Organizational Identification and Psychological Safety - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6540823/)
 
 [4] [Toward a theory of spiritual leadership - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1048984303000547)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/spiritual-leadership/](https://commons-os.github.io/patterns/domain/spiritual-leadership/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/spiritual-leadership.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/spiritual-leadership.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

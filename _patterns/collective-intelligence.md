@@ -240,15 +240,3 @@ Collective Intelligence is a powerful enabler of collective value creation, part
 *   [Nesta Centre for Collective Intelligence Design](https://www.nesta.org.uk/project/centre-collective-intelligence-design/)
 *   [The GovLab](https://thegovlab.org/)
 *   [MIT Center for Collective Intelligence](https://cci.mit.edu/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/collective-intelligence/](https://commons-os.github.io/patterns/domain/collective-intelligence/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/collective-intelligence.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/collective-intelligence.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

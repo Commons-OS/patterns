@@ -197,15 +197,3 @@ Service Design Thinking is a highly commons-aligned pattern. It is a collaborati
 4.  [SDN | Case Studies](https://www.service-design-network.org/case-studies)
 5.  [Optimize Services with Service Design Thinking | triangility](https://triangility.com/service-design-thinking-optimization-of-services/)
 6.  [5 Examples of Design Thinking in Business | HBS Online](https://online.hbs.edu/blog/post/design-thinking-examples)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/service-design-thinking/](https://commons-os.github.io/patterns/domain/service-design-thinking/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/service-design-thinking.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/service-design-thinking.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

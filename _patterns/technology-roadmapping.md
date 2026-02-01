@@ -175,15 +175,3 @@ Technology Roadmapping is a powerful strategic planning tool with significant po
 [5] Garcia, M. L., & Bray, O. H. (1997). *Technology roadmapping: The integration of strategic and technology planning for competitiveness*. Sandia National Laboratories.
 
 [6] Gerdsri, N., & Kocaoglu, D. F. (2007). Applying the analytic hierarchy process (AHP) to build a strategic framework for technology roadmapping. *IEEE Transactions on Engineering Management*, 54(3), 599-614.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/technology-roadmapping/](https://commons-os.github.io/patterns/domain/technology-roadmapping/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/technology-roadmapping.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/technology-roadmapping.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

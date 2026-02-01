@@ -120,15 +120,3 @@ For those seeking to delve deeper into the topic of renewable energy systems, se
 [4] IBM. (n.d.). *Renewable Energy Examples, Applications & Use Cases*. Retrieved from https://www.ibm.com/think/topics/renewable-energy-use-cases
 
 [5] Bauwens, T. (2024). The energy commons: A systematic review, paradoxes, and research agenda. *Energy Research & Social Science*, *108*, 103367. https://doi.org/10.1016/j.erss.2024.103367
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/77-renewable-energy-systems/](https://commons-os.github.io/patterns/domain/77-renewable-energy-systems/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/77-renewable-energy-systems.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/77-renewable-energy-systems.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

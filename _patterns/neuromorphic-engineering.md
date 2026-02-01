@@ -164,15 +164,3 @@ Neuromorphic Engineering is a foundational enabler for a new generation of intel
 [4] Open Neuromorphic. (n.d.). *Neuromorphic Hardware Guide*. Retrieved from https://open-neuromorphic.org/neuromorphic-computing/hardware/
 
 [5] Mead, C. (1990). Neuromorphic electronic systems. *Proceedings of the IEEE*, *78*(10), 1629–1636. https://doi.org/10.1109/5.58356
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/neuromorphic-engineering/](https://commons-os.github.io/patterns/domain/neuromorphic-engineering/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/neuromorphic-engineering.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/neuromorphic-engineering.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

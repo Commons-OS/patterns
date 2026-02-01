@@ -213,15 +213,3 @@ The PDCA cycle is a powerful, general-purpose engine for systematic improvement 
     3.  Lean Enterprise Institute. (n.d.). *Plan, Do, Check, Act (PDCA)*. Retrieved from https://www.lean.org/lexicon-terms/pdca/
     4.  Naughton, E., Moran, R., Kharub, M., Sa, J. C., & McDermott, O. (2024). A structured model for continuous improvement methodology deployment and sustainment: A case study. *Heliyon*, *10*(21), e40034. https://doi.org/10.1016/j.heliyon.2024.e40034
     5.  Realyvásquez-Vargas, A., Arredondo-Soto, K. C., Carrillo-Gutiérrez, T., & Ravelo, G. (2018). Applying the Plan-Do-Check-Act (PDCA) Cycle to Reduce the Defects in the Manufacturing Industry. A Case Study. *Applied Sciences*, *8*(11), 2181. https://doi.org/10.3390/app8112181
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/24-pdca-cycle-deming/](https://commons-os.github.io/patterns/domain/24-pdca-cycle-deming/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/24-pdca-cycle-deming.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/24-pdca-cycle-deming.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

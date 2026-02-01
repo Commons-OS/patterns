@@ -91,15 +91,3 @@ Design for Sustainability is a powerful enabler of resilient, multi-faceted valu
 [4] Ceschin, F., & Gaziulusoy, I. (2016). Design for Sustainability: An Evolutionary Review. *In DRS 2016, Design + Research + Society - Future-Focused Thinking* (pp. 1-25). Design Research Society.
 
 [5] Ameta, G., & Shah, J. J. (2009). Design for Sustainability: Overview and Trends. *In DS 58-8: Proceedings of the 17th International Conference on Engineering Design (ICED 09)* (pp. 281-292). The Design Society.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/design-for-sustainability-dfs/](https://commons-os.github.io/patterns/domain/design-for-sustainability-dfs/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/design-for-sustainability-dfs.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/design-for-sustainability-dfs.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

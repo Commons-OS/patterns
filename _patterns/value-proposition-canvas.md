@@ -243,15 +243,3 @@ In the future, we can expect to see the Value Proposition Canvas become even mor
 [3] Digital Leadership. (n.d.). *Value Proposition Canvas Template and Examples*. Retrieved from https://digitalleadership.com/unite-articles/value-proposition-canvas/
 
 [4] Harvard Business Review. (2025, November 17). *The AI Tools That Are Transforming Market Research*. Retrieved from https://hbr.org/2025/11/the-ai-tools-that-are-transforming-market-research
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/value-proposition-canvas/](https://commons-os.github.io/patterns/domain/value-proposition-canvas/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/value-proposition-canvas.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/value-proposition-canvas.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

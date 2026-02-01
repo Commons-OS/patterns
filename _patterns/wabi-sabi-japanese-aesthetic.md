@@ -160,15 +160,3 @@ Based on this assessment, the Wabi-Sabi pattern demonstrates a strong alignment 
 3.  [The Art of Less: Applying Wabi-Sabi to Business Analysis - IIBA](https://www.iiba.org/business-analysis-blogs/the-art-of-less-applying-wabi-sabi-to-business-analysis/)
 4.  [Embracing Wabi-Sabi Leadership In An Ever-Changing... - B1G1](https://blog.b1g1.com/embracing-wabi-sabi-leadership-nurturing-a-culture-of-good-and-sustainability/)
 5.  [Wabi-Sabi in the Age of AI: Embracing Imperfection in a... - Medium](https://medium.com/@smudnaney/wabi-sabi-in-the-times-of-ai-imperfection-will-be-in-demand-2b2a95faf803)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/wabi-sabi-japanese-aesthetic/](https://commons-os.github.io/patterns/domain/wabi-sabi-japanese-aesthetic/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/wabi-sabi-japanese-aesthetic.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/wabi-sabi-japanese-aesthetic.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

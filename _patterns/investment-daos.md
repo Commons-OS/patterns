@@ -165,15 +165,3 @@ Investment DAOs are a significant step towards democratizing investment and coll
 [4] Colony. (n.d.). *Investment DAOs: Unleashing Decentralized...* Retrieved from https://blog.colony.io/investment-daos-transforming-finance-through-decentralized-collaboration
 
 [5] Tracxn. (2026, January 7). *Top Companies in Investment DAOs*. Retrieved from https://tracxn.com/d/trending-business-models/startups-in-investment-daos/__1LNqWSu4IeIyWseIpZzD3OeaDj0Dbm40qQcVfjvXpRs/companies
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/investment-daos/](https://commons-os.github.io/patterns/domain/investment-daos/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/investment-daos.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/investment-daos.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

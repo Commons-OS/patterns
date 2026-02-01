@@ -187,15 +187,3 @@ The Green Building pattern is a critical transitional framework that successfull
 *   Wikipedia - Green building: https://en.wikipedia.org/wiki/Green_building
 *   Wikipedia - LEED: https://en.wikipedia.org/wiki/Leadership_in_Energy_and_Environmental_Design
 *   Wikipedia - BREEAM: https://en.wikipedia.org/wiki/BREEAM
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/green-building-leed-breeam/](https://commons-os.github.io/patterns/domain/green-building-leed-breeam/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/green-building-leed-breeam.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/green-building-leed-breeam.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

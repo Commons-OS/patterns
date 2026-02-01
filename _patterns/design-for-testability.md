@@ -182,15 +182,3 @@ Several DFT techniques can be applied to address the challenges of testing AI/ML
 *   **On-die monitors:** These are sensors that are embedded in the chip to monitor the performance and behavior of the system in real time.
 
 By embracing DFT principles and techniques, we can ensure that AI/ML systems are reliable, robust, and trustworthy.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/design-for-testability/](https://commons-os.github.io/patterns/domain/design-for-testability/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/design-for-testability.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/design-for-testability.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

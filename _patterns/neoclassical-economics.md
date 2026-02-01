@@ -149,15 +149,3 @@ Neoclassical economics is a legacy framework designed for allocating scarce reso
 [3] "Neoclassical Economics," Econlib, [https://www.econlib.org/library/Enc/NeoclassicalEconomics.html](https://www.econlib.org/library/Enc/NeoclassicalEconomics.html)
 [4] "Neoclassical Economics," Corporate Finance Institute, [https://corporatefinanceinstitute.com/resources/economics/neoclassical-economics/](https://corporatefinanceinstitute.com/resources/economics/neoclassical-economics/)
 [5] "Fundamental Principles Behind Neoclassical Economics," Peak Frameworks, [https://www.peakframeworks.com/post/neoclassical-economics](https://www.peakframeworks.com/post/neoclassical-economics)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/neoclassical-economics/](https://commons-os.github.io/patterns/domain/neoclassical-economics/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/neoclassical-economics.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/neoclassical-economics.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

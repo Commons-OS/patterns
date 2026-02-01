@@ -252,15 +252,3 @@ The Value Proposition Canvas is a pivotal transitional tool, moving from a purel
 [4] B2B International. (n.d.). *What is the Value Proposition Canvas?*. Retrieved from https://www.b2binternational.com/research/methods/faq/what-is-the-value-proposition-canvas/
 
 [5] Strategyzer. (n.d.). *Value Proposition Canvas*. Retrieved from https://www.strategyzer.com/library/the-value-proposition-canvas
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/52-value-proposition-canvas-osterwalder/](https://commons-os.github.io/patterns/implementation/52-value-proposition-canvas-osterwalder/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/52-value-proposition-canvas-osterwalder.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/52-value-proposition-canvas-osterwalder.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

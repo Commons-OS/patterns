@@ -183,15 +183,3 @@ Homeschooling is a powerful enabler of collective value creation, demonstrating 
 [4] Jolly, J. L., & Wilkens, C. (2022). *Homeschooling, perceived social isolation, and life trajectories: An analysis of formerly homeschooled adults*. Journal of School Choice, 16(2), 237-261.
 
 [5] Cogan, M. F. (2010). *Exploring academic outcomes of homeschooled students*. Journal of College Admission, 208, 18-25.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/homeschooling/](https://commons-os.github.io/patterns/domain/homeschooling/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/homeschooling.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/homeschooling.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

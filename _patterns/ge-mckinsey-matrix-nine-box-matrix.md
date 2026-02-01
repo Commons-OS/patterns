@@ -207,15 +207,3 @@ The GE-McKinsey Matrix is a classic industrial-era tool designed for centralized
 [6] "GE-McKinsey Nine-Box Matrix." Parametric Pro, parametricpro.com/blog/ge-mckinsey-nine-box-matrix.
 
 [7] "GE-McKinsey Matrix." MindTools, 17 May 2024, www.mindtools.com/a1lzwol/ge-mckinsey-matrix/.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/ge-mckinsey-matrix-nine-box-matrix/](https://commons-os.github.io/patterns/domain/ge-mckinsey-matrix-nine-box-matrix/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/ge-mckinsey-matrix-nine-box-matrix.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/ge-mckinsey-matrix-nine-box-matrix.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

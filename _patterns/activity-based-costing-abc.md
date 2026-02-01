@@ -249,15 +249,3 @@ Activity-Based Costing is a powerful transitional pattern. While its primary foc
 [4] Wikipedia. (n.d.). *Activity-based costing*. Retrieved from https://en.wikipedia.org/wiki/Activity-based_costing
 
 [5] Forbes. (2024, August 19). *Optimizing AI Investments: How To Leverage Activity-Based Costing*. Retrieved from https://www.forbes.com/councils/forbestechcouncil/2024/08/19/optimizing-ai-investments-how-to-leverage-activity-based-costing/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/83-activity-based-costing-abc/](https://commons-os.github.io/patterns/domain/83-activity-based-costing-abc/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/83-activity-based-costing-abc.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/83-activity-based-costing-abc.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

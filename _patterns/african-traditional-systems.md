@@ -224,15 +224,3 @@ African Traditional Systems provide a sophisticated architecture for creating so
 [4] Exploring Africa. (n.d.). *Activity Two: Pre-Colonial Political Systems*. Michigan State University. Retrieved from http://exploringafrica.matrix.msu.edu/module-ten-activity-two-2/
 
 [5] Think Africa. (2019, April 3). *Africa's 15 Pre-Colonial Political Systems*. Retrieved from https://thinkafrica.net/africas-15-pre-colonial-political-systems/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/african-traditional-systems/](https://commons-os.github.io/patterns/domain/african-traditional-systems/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/african-traditional-systems.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/african-traditional-systems.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

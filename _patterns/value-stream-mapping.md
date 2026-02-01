@@ -192,15 +192,3 @@ Several tools and platforms are available for VSM, including the online collabor
     3.  Rohac, T., & Januska, M. (2015). Value Stream Mapping Demonstration on Real Case Study. *Procedia Engineering*, 100, 520-529.
     4.  Gellad, Z. F., & Sata, N. (2016). What Is Value Stream Mapping, and How Can It Help My Practice?. *Clinical gastroenterology and hepatology*, 14(5), 661-664.
     5.  Lean Enterprise Institute. (n.d.). *Value Stream Mapping*. Retrieved from https://www.lean.org/lexicon-terms/value-stream-mapping/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/26-value-stream-mapping/](https://commons-os.github.io/patterns/domain/26-value-stream-mapping/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/26-value-stream-mapping.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/26-value-stream-mapping.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

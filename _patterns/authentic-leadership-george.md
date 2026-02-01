@@ -227,15 +227,3 @@ Authentic Leadership is a powerful enabler of collective value creation. It esta
 [4] Avolio, B. J., & Gardner, W. L. (2005). Authentic leadership development: Getting to the root of positive forms of leadership. *The Leadership Quarterly*, *16*(3), 315-338.
 
 [5] Emuwa, A. (2013). Authentic Leadership: Commitment to Supervisor, Follower, and Performance. *Regent University Journal of Emerging Leadership Journeys*.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/74-authentic-leadership-george/](https://commons-os.github.io/patterns/domain/74-authentic-leadership-george/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/74-authentic-leadership-george.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/74-authentic-leadership-george.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -152,15 +152,3 @@ The Commons Alignment Assessment is a tool for evaluating the extent to which an
 [4] [Imitation and Innovation: The Transfer of Western Organizational Patterns to Meiji Japan](https://www.cambridge.org/core/journals/business-history-review/article/imitation-and-innovation-the-transfer-of-western-organizational-patterns-to-meiji-japan-by-d-eleanor-westney-cambridge-mass-harvard-university-press-1987-viii-252-pp-charts-tables-notes-and-index-2500/71FAC64AB0BE7F0FEBBF9A17F37FB150)
 
 [5] [The Transfer of Western Organizational Patterns to Meiji Japan. D ...](https://www.journals.uchicago.edu/doi/10.1086/228979)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/transferable-applicable-beyond-single-organization/](https://commons-os.github.io/patterns/domain/transferable-applicable-beyond-single-organization/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/transferable-applicable-beyond-single-organization.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/transferable-applicable-beyond-single-organization.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

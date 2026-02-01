@@ -228,15 +228,3 @@ Harambee is a powerful, proven enabler of resilient collective value creation, a
 [4] Gathuo, A. (2000). Kenyan Women and the Harambee: Community Development or Unpaid Work?. *Trotter Review*, *12*(1), 11.
 
 [5] UNESCO. (2004). *Community schools in Kenya: Case study on community participation in funding and managing schools*. Retrieved from https://unesdoc.unesco.org/ark:/48223/pf0000136278
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/88-harambee-kenya/](https://commons-os.github.io/patterns/domain/88-harambee-kenya/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/88-harambee-kenya.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/88-harambee-kenya.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -143,15 +143,3 @@ DeFi has significant potential and exhibits strong alignment with several pillar
 *   [3] XRPL. (2025). *DeFi Use Cases - Exploring the Potential*. Retrieved from https://xrpl.org/blog/2025/defi-use-cases-exploring-the-potential
 *   [4] Auer, R., & Claessens, S. (2022). *The technology of decentralized finance (DeFi)*. Bank for International Settlements.
 *   [5] Ozili, P. K. (2022). *Decentralized finance research and developments around the world*. Journal of Banking and Financial Technology, 6(2), 1-17.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/defi-decentralized-finance/](https://commons-os.github.io/patterns/context-specific/defi-decentralized-finance/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/defi-decentralized-finance.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/defi-decentralized-finance.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

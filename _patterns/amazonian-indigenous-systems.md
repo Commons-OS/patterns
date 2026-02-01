@@ -266,15 +266,3 @@ This section provides a curated list of resources for further exploration of Ama
 [4] Gebara, M. F., Ramcilovic-Suominen, S., & Schmidlehner, M. F. (2023). Indigenous Knowledge in the Amazon's Bioeconomy: Unveiling Bioepistemicide through the case of Kambo Medicine. *Forest Policy and Economics, 154*, 103012. https://doi.org/10.1016/j.forpol.2023.103012
 
 [5] Sinthumule, N. I. (2023). Traditional ecological knowledge and its role in biodiversity conservation: a systematic review. *Frontiers in Environmental Science, 11*, 1164900. https://doi.org/10.3389/fenvs.2023.1164900
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/amazonian-indigenous-systems/](https://commons-os.github.io/patterns/domain/amazonian-indigenous-systems/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/amazonian-indigenous-systems.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/amazonian-indigenous-systems.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

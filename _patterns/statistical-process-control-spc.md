@@ -179,15 +179,3 @@ Statistical Process Control, in its traditional application, has a low alignment
 [4] Boaventura, L. L., Ferreira, P. H., & Fiaccone, R. L. (2022). On flexible Statistical Process Control with Artificial Intelligence: Classification control charts. *Expert Systems with Applications*, *194*, 116492. https://doi.org/10.1016/j.eswa.2021.116492
 
 [5] ASQ. (n.d.). *History of Quality*. Retrieved from https://asq.org/quality-resources/history-of-quality
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/statistical-process-control-spc/](https://commons-os.github.io/patterns/implementation/statistical-process-control-spc/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/statistical-process-control-spc.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/statistical-process-control-spc.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

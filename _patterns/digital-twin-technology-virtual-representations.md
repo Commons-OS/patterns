@@ -134,15 +134,3 @@ Digital Twin Technology is a powerful enabler of collective value creation, prov
 *   McKinsey. (2024). "What is digital-twin technology?" *McKinsey Featured Insights*.
 *   IBM. (2025). "What Is a Digital Twin?" *IBM Think Topics*.
 *   Simio. (2025). "Master Digital Twin Creation: Practical Guide for Beginners." *Simio Blog*.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/digital-twin-technology-virtual-representations/](https://commons-os.github.io/patterns/domain/digital-twin-technology-virtual-representations/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/digital-twin-technology-virtual-representations.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/digital-twin-technology-virtual-representations.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

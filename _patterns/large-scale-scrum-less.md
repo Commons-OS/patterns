@@ -258,15 +258,3 @@ LeSS is a framework, not a tool. However, there are a number of tools that can b
 [5] Larman, C., & Vodde, B. (2010). *Practices for Scaling Lean & Agile Development*. Addison-Wesley Professional.
 
 [6] Adoption of Large-Scale Scrum Practices through the Use of Management 3.0. (2022). *Journal of Software Engineering and Applications*, *9*(1), 20. https://doi.org/10.3390/jsea9010020
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/large-scale-scrum-less/](https://commons-os.github.io/patterns/domain/large-scale-scrum-less/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/large-scale-scrum-less.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/large-scale-scrum-less.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

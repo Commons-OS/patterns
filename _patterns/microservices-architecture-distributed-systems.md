@@ -228,15 +228,3 @@ Microservices architecture is a powerful enabler of resilient and scalable syste
 [4] Richardson, C. (n.d.). Pattern: Microservice Architecture. https://microservices.io/patterns/microservices.html
 
 [5] NGINX. (2022). An Introduction to Microservices. https://www.nginx.com/blog/introduction-to-microservices/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/microservices-architecture-distributed-systems/](https://commons-os.github.io/patterns/domain/microservices-architecture-distributed-systems/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/microservices-architecture-distributed-systems.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/microservices-architecture-distributed-systems.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -169,15 +169,3 @@ Holacracy Lite is a powerful enabler of collective value creation, providing a r
 [4] Financial Post. (2021). *Bizspeak: Tired of the top-down management approach? Try a holocracy*. Retrieved from https://financialpost.com/fp-work/bizspeak-tired-of-the-top-down-management-approach-try-a-holocracy
 
 [5] Investopedia. (2023). *Holacracy: Governance, Origins, and How It Is Used*. Retrieved from https://www.investopedia.com/terms/h/holacracy.asp
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/holocracy-lite-simplified-versions/](https://commons-os.github.io/patterns/domain/holocracy-lite-simplified-versions/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/holocracy-lite-simplified-versions.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/holocracy-lite-simplified-versions.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

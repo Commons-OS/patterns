@@ -199,15 +199,3 @@ Serverless Architecture is scored as Transitional because it provides powerful c
 [3] McCumskey, G. (2022, May 17). *A Guide to Serverless Architecture*. Serverless.com. Retrieved from https://www.serverless.com/blog/serverless-architecture
 
 [4] Rehemägi, T. (2020, July 16). *Serverless Case Study – Coca-Cola*. Dashbird. Retrieved from https://dashbird.io/blog/serverless-case-study-coca-cola/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/serverless-architecture/](https://commons-os.github.io/patterns/domain/serverless-architecture/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/serverless-architecture.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/serverless-architecture.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

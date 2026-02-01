@@ -178,15 +178,3 @@ Open Design is a powerful enabler of collective value creation, providing a foun
 [4] Creative Commons. (n.d.). *About The Licenses*. Retrieved from https://creativecommons.org/licenses/
 
 [5] Open Source Initiative. (n.d.). *The Open Source Definition*. Retrieved from https://opensource.org/osd
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/open-design/](https://commons-os.github.io/patterns/domain/open-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/open-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/open-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -254,15 +254,3 @@ VRIO is a transitional pattern that can be adapted for a commons-based approach.
 [7] Izara. (2024, May 21). _Are AI, Dynamic Capabilities, And VRIO The Solution For Sustaining Competitive Advantage?_ Retrieved from https://www.izara.com/insights/ai-vrio-dynamic-capabilities/
 
 [8] Fréry, F. (2024). _When Artificial Intelligence Turns Strategic Resources into Liabilities_. ESCP Business School. Retrieved from https://academ.escpeurope.eu/pub/IP2024-48%20Fre%CC%81ry.pdf
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/vrio-framework/](https://commons-os.github.io/patterns/domain/vrio-framework/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/vrio-framework.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/vrio-framework.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

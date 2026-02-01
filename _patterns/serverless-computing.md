@@ -160,15 +160,3 @@ A variety of tools and platforms are available for serverless development. The *
 [3] Dashbird. (2021, June 6). *History Of Serverless Computing: Where It Started*. Retrieved from https://dashbird.io/blog/origin-of-serverless/  
 [4] AntStack. (2024, January 22). *What is a Real-Life Example of Serverless Computing?*. Retrieved from https://www.antstack.com/blog/what-is-a-real-life-example-of-serverless-computing/  
 [5] Amazon Web Services. (n.d.). *Case studies - Optimizing Enterprise Economics with Serverless*. Retrieved from https://docs.aws.amazon.com/whitepapers/latest/optimizing-enterprise-economics-with-serverless/case-studies.html
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/21-serverless-computing/](https://commons-os.github.io/patterns/domain/21-serverless-computing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/21-serverless-computing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/21-serverless-computing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

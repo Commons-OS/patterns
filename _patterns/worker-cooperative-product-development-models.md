@@ -240,15 +240,3 @@ Worker Cooperative Product Development Models are an exemplary model of a common
 [4] U.S. Federation of Worker Cooperatives. (n.d.). *Worker Co-op Structures and Decision-Making Processes*. Retrieved from https://coopguide.org/assets/20241011-structure-and-decision-making.pdf
 
 [5] Project Equity. (2015). *Case Studies: Business Conversions to Worker Cooperatives*. Retrieved from https://institute.coop/sites/default/files/resources/Case-Studies_Business-Conversions-to-Worker-Cooperatives_ProjectEquity.pdf
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/worker-cooperative-product-development-models/](https://commons-os.github.io/patterns/domain/worker-cooperative-product-development-models/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/worker-cooperative-product-development-models.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/worker-cooperative-product-development-models.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

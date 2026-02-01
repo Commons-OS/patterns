@@ -158,15 +158,3 @@ Service Safari is a powerful enabler of user-centric value creation and a critic
 [4] KPMG. (2016). *Embracing the cognitive era*. Retrieved from https://assets.kpmg.com/content/dam/kpmg/pdf/2016/03/embracing-the-cognitive-era.pdf
 
 [5] Wikipedia. (n.d.). *Commons-based peer production*. Retrieved from https://en.wikipedia.org/wiki/Commons-based_peer_production
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/service-safari/](https://commons-os.github.io/patterns/domain/service-safari/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/service-safari.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/service-safari.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

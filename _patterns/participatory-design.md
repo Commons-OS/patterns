@@ -164,15 +164,3 @@ Participatory Design provides a robust framework for involving stakeholders, fos
 [4] Sanders, E. B.-N., & Stappers, P. J. (2008). *Co-creation and the new landscapes of design*. CoDesign, 4(1), 5-18.
 
 [5] Schuler, D., & Namioka, A. (Eds.). (1993). *Participatory design: Principles and practices*. CRC Press.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/participatory-design/](https://commons-os.github.io/patterns/domain/participatory-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/participatory-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/participatory-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

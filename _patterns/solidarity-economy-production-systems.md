@@ -216,15 +216,3 @@ This pattern strongly enables collective value creation and is highly aligned wi
 [4] [Building an Arts Solidarity Economy](https://neweconomy.net/building-an-arts-solidarity-economy/)
 
 [5] [Social and Solidarity Economy: From the Margins to the Mainstream](https://www.oecd-events.org/social-and-solidarity-economy/content/case-studies)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/solidarity-economy-production-systems/](https://commons-os.github.io/patterns/domain/solidarity-economy-production-systems/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/solidarity-economy-production-systems.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/solidarity-economy-production-systems.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

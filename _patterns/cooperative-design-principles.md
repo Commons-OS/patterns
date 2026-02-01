@@ -163,15 +163,3 @@ Cooperative Design Principles provide a comprehensive and foundational architect
 [4] Wikipedia. (n.d.). *Participatory design*. Retrieved from https://en.wikipedia.org/wiki/Participatory_design
 
 [5] Bate, P., & Robert, G. (2006). Experience-based design: from redesigning the system around the patient to co-designing services with the patient. *Quality and Safety in Health Care*, *15*(5), 307–310.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/cooperative-design-principles/](https://commons-os.github.io/patterns/domain/cooperative-design-principles/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/cooperative-design-principles.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/cooperative-design-principles.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -189,15 +189,3 @@ This section provides a curated list of resources for those interested in furthe
     [3] Heckman, J. J., Biroli, P., Del Boca, D., Heckman, L. P., Koh, Y. K., Kuperman, S., ... & Ziff, A. L. (2017). Evaluation of the Reggio Approach to Early Education. *Research in Economics, 72*(1), 1–32. https://pmc.ncbi.nlm.nih.gov/articles/PMC6052802/
     [4] Gandini, L. (2011). The Reggio Emilia Approach: Values and Principles. *Innovations in Early Education: The International Reggio Exchange, 18*(1), 4-9.
     [5] Abdelfattah, M. (2015). Realizing a Progressive Pedagogy: A Comparative Case Study of Two Reggio Emilia Preschools in San Francisco. *Universal Journal of Educational Research, 3*(12), 1074-1086.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/reggio-emilia-approach/](https://commons-os.github.io/patterns/domain/reggio-emilia-approach/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/reggio-emilia-approach.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/reggio-emilia-approach.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

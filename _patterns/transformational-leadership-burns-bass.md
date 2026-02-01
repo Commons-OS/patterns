@@ -142,15 +142,3 @@ Bass, B. M. (1985). *Leadership and performance beyond expectations*. New York: 
 Burns, J. M. (1978). *Leadership*. New York: Harper & Row.
 
 Lowe, K. B., Kroeck, K. G., & Sivasubramaniam, N. (1996). Effectiveness correlates of transformational and transactional leadership: A meta-analytic review of the MLQ literature. *The Leadership Quarterly*, *7*(3), 385-425.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/73-transformational-leadership-burns-bass/](https://commons-os.github.io/patterns/domain/73-transformational-leadership-burns-bass/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/73-transformational-leadership-burns-bass.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/73-transformational-leadership-burns-bass.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

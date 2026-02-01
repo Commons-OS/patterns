@@ -181,15 +181,3 @@ SI/PI Analysis is a critical technical enabler for the physical infrastructure o
 [4] "Signal and Power Integrity Analysis for High-Speed Chip Designs", Synopsys, https://www.synopsys.com/blogs/chip-design/signal-and-power-integrity-tools.html
 
 [5] "The Basics of Signal Integrity Analysis and Simulation in Your PCB", Altium, https://resources.altium.com/p/basics-signal-integrity-analysis-your-pcb
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/signal-integrity-power-integrity-sipi-analysis/](https://commons-os.github.io/patterns/domain/signal-integrity-power-integrity-sipi-analysis/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/signal-integrity-power-integrity-sipi-analysis.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/signal-integrity-power-integrity-sipi-analysis.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

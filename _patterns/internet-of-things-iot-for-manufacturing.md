@@ -177,15 +177,3 @@ The pattern provides a strong foundation for resilient collective value creation
 [9] Automate.org. "The Convergence of AI, IoT, and Robotics in Smart Factories". [https://www.automate.org/news/the-convergence-of-ai-iot-and-robotics-in-smart-factories-130](https://www.automate.org/news/the-convergence-of-ai-iot-and-robotics-in-smart-factories-130)
 
 [10] Forbes. "How Cognitive Manufacturing Is Rewriting The Future Of Work". [https://www.forbes.com/sites/trondarneundheim/2025/08/01/how-cognitive-manufacturing-is-rewriting-the-future-of-work/](https://www.forbes.com/sites/trondarneundheim/2025/08/01/how-cognitive-manufacturing-is-rewriting-the-future-of-work/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/internet-of-things-iot-for-manufacturing/](https://commons-os.github.io/patterns/context-specific/internet-of-things-iot-for-manufacturing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/internet-of-things-iot-for-manufacturing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/internet-of-things-iot-for-manufacturing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

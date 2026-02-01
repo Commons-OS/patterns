@@ -215,15 +215,3 @@ To further explore the concepts and practices of CI/CD, the following resources 
 [4] Amazon Web Services. "What is CI/CD?" https://aws.amazon.com/devops/what-is-cicd/
 
 [5] Redgate. "Demystifying Continuous Integration vs. Continuous Delivery Part 3 - Real World Examples of CI CD." https://www.red-gate.com/simple-talk/devops/demystifying-continuous-integration-vs-continuous-delivery-part-3-real-world-examples-of-ci-cd/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/97-continuous-integrationcontinuous-deployment-cicd/](https://commons-os.github.io/patterns/domain/97-continuous-integrationcontinuous-deployment-cicd/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/97-continuous-integrationcontinuous-deployment-cicd.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/97-continuous-integrationcontinuous-deployment-cicd.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

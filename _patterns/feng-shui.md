@@ -195,15 +195,3 @@ Feng Shui has significant potential to enable collective value creation by focus
 [5] Lin, I. (2017). *A Place for Everything and Everything in Its Place: The Application of Feng Shui to Hotels*. Boston Hospitality Review.
 
 [6] Vorecol. (2024, November 13). *How Does Office Feng Shui Affect Employee Productivity and Wellbeing?*. Retrieved from https://vorecol.com/blogs/blog-how-does-office-feng-shui-affect-employee-productivity-and-wellbeing-208345
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/feng-shui/](https://commons-os.github.io/patterns/domain/feng-shui/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/feng-shui.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/feng-shui.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

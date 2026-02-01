@@ -149,15 +149,3 @@ The X-Matrix is a tool that can be used to support peer-to-peer and distributed 
 2.  [Hoshin Planning & the X Matrix](https://kaizen.com/insights/article-hoshin-planning-the-x-matrix-uk/)
 3.  [X-Matrix for Visualized Strategy Deployment](https://www.kainexus.com/improvement-disciplines/hoshin-kanri/x-matrix/x-matrix-software)
 4.  [Using the Hoshin Kanri Method for Strategic Planning [2025]](https://asana.com/resources/hoshin-kanri)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/x-matrix-hoshin-kanri-tool/](https://commons-os.github.io/patterns/implementation/x-matrix-hoshin-kanri-tool/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/x-matrix-hoshin-kanri-tool.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/x-matrix-hoshin-kanri-tool.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -169,15 +169,3 @@ Key organizations and communities in the field include the Center for AI Safety 
 [4] Google. (n.d.). *Google's Secure AI Framework (SAIF)*. Retrieved from https://safety.google/intl/en_in/safety/saif/
 
 [5] Center for AI Safety. (n.d.). *Center for AI Safety (CAIS)*. Retrieved from https://safe.ai/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/ai-safety-frameworks/](https://commons-os.github.io/patterns/implementation/ai-safety-frameworks/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/ai-safety-frameworks.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/ai-safety-frameworks.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -222,15 +222,3 @@ The framework is deeply rooted in the science of resilience – the capacity of 
 *   Steffen, W., Richardson, K., Rockström, J., Cornell, S. E., Fetzer, I., Bennett, E. M., ... & Sörlin, S. (2015). Planetary boundaries: Guiding human development on a changing planet. *Science*, *347*(6223), 1259855. https://doi.org/10.1126/science.1259855
 *   Richardson, K., Steffen, W., Lucht, W., Bendtsen, J., Cornell, S. E., Donges, J. F., ... & Rockström, J. (2023). Earth beyond six of nine planetary boundaries. *Science Advances*, *9*(37), eadh2458. https://doi.org/10.1126/sciadv.adh2458
 *   Stockholm Resilience Centre. (n.d.). *Planetary boundaries*. Retrieved January 28, 2026, from https://www.stockholmresilience.org/research/planetary-boundaries.html
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/planetary-boundaries-stockholm-resilience-centre/](https://commons-os.github.io/patterns/domain/planetary-boundaries-stockholm-resilience-centre/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/planetary-boundaries-stockholm-resilience-centre.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/planetary-boundaries-stockholm-resilience-centre.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

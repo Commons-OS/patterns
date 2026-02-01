@@ -124,15 +124,3 @@ For organizations looking to implement CMMI for Development in an aerospace cont
 [4] Wood, P. B., & Vickers, D. (2018). Anticipated impact of the capability maturity model integration (CMMI®) V2.0 on aerospace systems safety and security. In *2018 IEEE Aerospace Conference*. IEEE. https://ieeexplore.ieee.org/document/8396579/
 
 [5] wibas.com. (n.d.). *CMMI for Development (CMMI-DEV) v1.3*. Retrieved from https://www.wibas.com/cmmi/cmmi-for-development-cmmi-dev-v13
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/cmmi-for-development-aerospace/](https://commons-os.github.io/patterns/domain/cmmi-for-development-aerospace/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/cmmi-for-development-aerospace.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/cmmi-for-development-aerospace.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

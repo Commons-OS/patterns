@@ -260,15 +260,3 @@ The Resilience Framework provides a complete and holistic architecture for creat
 [14] Resilience Alliance. (n.d.). *About Us*. Retrieved from [https://www.resalliance.org/about-us](https://www.resalliance.org/about-us)
 
 [15] Intergovernmental Panel on Climate Change. (2014). *Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change*. Cambridge University Press.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/33-resilience-frameworks-walker-salt/](https://commons-os.github.io/patterns/implementation/33-resilience-frameworks-walker-salt/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/33-resilience-frameworks-walker-salt.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/33-resilience-frameworks-walker-salt.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

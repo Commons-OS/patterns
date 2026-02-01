@@ -225,15 +225,3 @@ This section provides a curated list of resources for those who wish to delve de
 [4] [https://www.atlassian.com/agile/kanban](https://www.atlassian.com/agile/kanban)
 
 [5] [https://kanban.university/resources/casestudies/](https://kanban.university/resources/casestudies/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/kanban-production/](https://commons-os.github.io/patterns/domain/kanban-production/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/kanban-production.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/kanban-production.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

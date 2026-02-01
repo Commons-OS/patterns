@@ -162,15 +162,3 @@ Local Manufacturing is a powerful enabler of resilient collective value creation
 [4] TUC. (2021). *Green jobs for all*. [https://www.tuc.org.uk/research-analysis/reports/green-jobs-all](https://www.tuc.org.uk/research-analysis/reports/green-jobs-all)
 
 [5] The Guardian. (2020). *How 3D printing is helping to fight coronavirus*. [https://www.theguardian.com/technology/2020/mar/26/how-3d-printing-is-helping-to-fight-coronavirus](https://www.theguardian.com/technology/2020/mar/26/how-3d-printing-is-helping-to-fight-coronavirus)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/local-manufacturing/](https://commons-os.github.io/patterns/context-specific/local-manufacturing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/local-manufacturing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/local-manufacturing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -115,15 +115,3 @@ The following resources provide further information on Cloud-Native Architecture
 4.  [CNCF Case Studies](https://www.cncf.io/case-studies/) - The Cloud Native Computing Foundation (CNCF) website features a collection of case studies from various companies that have adopted cloud-native technologies.
 5.  [Kubernetes and Cloud Native Architecture](https://kubegrade.com/kubernetes-cloud-native-architecture/) - A blog post that provides a high-level overview of cloud-native architecture and the role of Kubernetes.
 6.  [Leading Spanish Bank Launches Robust Microservices Architecture with Kubernetes](https://www.ust.com/en/insights/leading-spanish-bank-launches-robust-microservices-architecture-with-kubernetes) - A case study on how a major bank modernized its architecture with Kubernetes.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/cloud-native-architecture-kubernetes-containers/](https://commons-os.github.io/patterns/domain/cloud-native-architecture-kubernetes-containers/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/cloud-native-architecture-kubernetes-containers.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/cloud-native-architecture-kubernetes-containers.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

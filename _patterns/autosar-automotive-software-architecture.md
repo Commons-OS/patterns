@@ -180,15 +180,3 @@ Finally, **academic papers and research articles** can provide a more theoretica
 [4] AUTOSAR. (2022). *Explanation of Adaptive Platform Software Architecture*. Retrieved from [https://www.autosar.org/fileadmin/standards/R22-11/AP/AUTOSAR_EXP_SWArchitecture.pdf](https://www.autosar.org/fileadmin/standards/R22-11/AP/AUTOSAR_EXP_SWArchitecture.pdf)
 
 [5] MathWorks. (n.d.). *What is AUTOSAR?*. Retrieved from [https://www.mathworks.com/help/autosar/ug/what-is-autosar.html](https://www.mathworks.com/help/autosar/ug/what-is-autosar.html)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/autosar-automotive-software-architecture/](https://commons-os.github.io/patterns/context-specific/autosar-automotive-software-architecture/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/autosar-automotive-software-architecture.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/autosar-automotive-software-architecture.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

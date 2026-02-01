@@ -191,15 +191,3 @@ Parallel Design is a powerful enabler of resilient and collective value creation
 [4] Sobek, D. K., II, Ward, A. C., & Liker, J. K. (1999). Toyota's Principles of Set-Based Concurrent Engineering. *MIT Sloan Management Review*, 40(2), 67-83. Retrieved from https://sloanreview.mit.edu/article/toyotas-principles-of-setbased-concurrent-engineering/
 
 [5] Pennell, J. P., & Winner, R. I. (1989). *Concurrent engineering: practices and prospects*. 1989 Proceedings of the National Aerospace and Electronics Conference. Retrieved from https://ieeexplore.ieee.org/abstract/document/64049/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/parallel-design/](https://commons-os.github.io/patterns/domain/parallel-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/parallel-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/parallel-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

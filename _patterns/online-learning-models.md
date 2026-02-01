@@ -226,15 +226,3 @@ Online Learning Models are a powerful enabler of resilient collective value crea
 [4] Brandon Hall Group. (2017). *Creating a Culture of Continuous Learning*. 
 
 [5] McKinsey & Company. (2020, October 5). *How COVID-19 has pushed companies over the technology tipping point—and transformed business forever*. https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/how-covid-19-has-pushed-companies-over-the-technology-tipping-point-and-transformed-business-forever
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/human-universal/online-learning-models/](https://commons-os.github.io/patterns/human-universal/online-learning-models/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/online-learning-models.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_human-universal/online-learning-models.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

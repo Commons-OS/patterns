@@ -109,15 +109,3 @@ The Ansoff Matrix is a foundational concept in strategic management, and as such
 [5] Smart Insights. "The Ansoff Model [Marketing strategy matrix]." *Smart Insights*, https://www.smartinsights.com/marketing-planning/create-a-marketing-plan/ansoff-model/.
 
 [6] Cascade. "The Ansoff Matrix: 4 Growth Strategies Explained (With Examples)." *Cascade*, https://www.cascade.app/blog/the-ansoff-matrix-helps-organizations-grow.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/ansoff-matrix/](https://commons-os.github.io/patterns/domain/ansoff-matrix/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/ansoff-matrix.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/ansoff-matrix.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

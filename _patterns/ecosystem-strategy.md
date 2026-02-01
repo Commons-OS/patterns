@@ -188,15 +188,3 @@ A variety of tools and platforms can be used to support the implementation of an
 [4] Accenture. (2020). *The Ecosystem Advantage*.
 
 [5] Umbrex. (n.d.). *What is Ecosystem Strategy?*. Retrieved from https://umbrex.com/resources/strategy-concepts/what-is-ecosystem-strategy/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/ecosystem-strategy/](https://commons-os.github.io/patterns/domain/ecosystem-strategy/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/ecosystem-strategy.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/ecosystem-strategy.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

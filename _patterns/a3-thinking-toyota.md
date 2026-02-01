@@ -251,15 +251,3 @@ A3 Thinking is a powerful and proven methodology for building collective capabil
 [4] Gabela, L. T., & Jere, T. (2020). A3 Problem Solving: A Case of Assembly Line Downtime. In *Proceedings of the International Conference on Industrial Engineering and Operations Management* (pp. 1-10).
 
 [5] Thompson, R. F., et al. (2014). A Case Study of the Use of A3 Thinking in Radiation Oncology. *International Journal of Radiation Oncology, Biology, Physics*, *90*(1), S821.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/23-a3-thinking-toyota/](https://commons-os.github.io/patterns/domain/23-a3-thinking-toyota/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/23-a3-thinking-toyota.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/23-a3-thinking-toyota.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

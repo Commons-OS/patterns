@@ -264,15 +264,3 @@ CSR is a crucial step away from pure profit maximization, but it remains a parti
 [6] Nielsen. (2015). *The sustainability imperative: New insights on consumer expectations*. Retrieved from https://www.nielsen.com/us/en/insights/reports/2015/the-sustainability-imperative.html
 
 [7] Cone Communications. (2016). *2016 Millennial Employee Engagement Study*. Retrieved from https://www.conecomm.com/research-blog/2016-millennial-employee-engagement-study
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/6-corporate-social-responsibility-csr/](https://commons-os.github.io/patterns/domain/6-corporate-social-responsibility-csr/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/6-corporate-social-responsibility-csr.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/6-corporate-social-responsibility-csr.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

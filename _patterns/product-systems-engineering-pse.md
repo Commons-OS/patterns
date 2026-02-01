@@ -229,15 +229,3 @@ This section provides a curated list of resources for those looking to deepen th
 [6] NASA. (2016). *NASA Systems Engineering Handbook* (NASA/SP-2016-6105 Rev2).
 
 [7] Valerdi, R. (2008). *The Constructive Systems Engineering Cost Model (COSYSMO)*. VDM Verlag.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/product-systems-engineering-pse/](https://commons-os.github.io/patterns/domain/product-systems-engineering-pse/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/product-systems-engineering-pse.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/product-systems-engineering-pse.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

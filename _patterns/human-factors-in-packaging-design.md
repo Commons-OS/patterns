@@ -164,15 +164,3 @@ The pattern is a powerful enabler of social value and user resilience, with stro
 [4] Kershner, J. (2023). 3 Tips Before Freezing Packaging Design During Human Factors Research. *Packaging Digest*. https://www.packagingdigest.com/medical-packaging/3-tips-to-consider-before-freezing-packaging-design-during-human-factors-research
 
 [5] Van der Stähl Scientific, Inc. (2023). The Crucial Role of Human Factors in Medical Device Packaging. *Van der Stähl Scientific*. https://vanderstahl.com/the-crucial-role-of-human-factors-in-medical-device-packaging/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/human-factors-in-packaging-design/](https://commons-os.github.io/patterns/domain/human-factors-in-packaging-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/human-factors-in-packaging-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/human-factors-in-packaging-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

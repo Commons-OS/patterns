@@ -227,15 +227,3 @@ DeFi strongly enables collective value creation by providing a decentralized, op
 [4] Chen, Y., & Bellavitis, C. (2020). Blockchain disruption and decentralized finance. *Journal of Business Venturing Insights*.
 
 [5] Wharton School. (2021). *DeFi Beyond the Hype*.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/cryptocurrency-finance-defi-models/](https://commons-os.github.io/patterns/context-specific/cryptocurrency-finance-defi-models/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/cryptocurrency-finance-defi-models.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/cryptocurrency-finance-defi-models.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

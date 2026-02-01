@@ -167,15 +167,3 @@ Service Journey Mapping is a powerful enabler for collective value creation, par
 [4] [How to Create a Customer Journey Map in 6 Simple Steps](https://www.atlassian.com/team-playbook/plays/customer-journey-mapping)
 
 [5] [What is a Customer Journey Map?](https://www.ibm.com/think/topics/customer-journey-map)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/service-journey-mapping/](https://commons-os.github.io/patterns/domain/service-journey-mapping/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/service-journey-mapping.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/service-journey-mapping.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

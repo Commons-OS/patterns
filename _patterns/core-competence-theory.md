@@ -185,15 +185,3 @@ Core Competence Theory is rated as Transitional because while it provides a powe
 [4] ScienceDirect. (n.d.). *Core Competency - an overview*. Retrieved January 28, 2026, from [https://www.sciencedirect.com/topics/economics-econometrics-and-finance/core-competency](https://www.sciencedirect.com/topics/economics-econometrics-and-finance/core-competency)
 
 [5] Management Study Guide. (n.d.). *Strategic Management: Core Competency Theory of Strategy*. Retrieved January 28, 2026, from [https://www.managementstudyguide.com/core-competency-theory-of-strategy.htm](https://www.managementstudyguide.com/core-competency-theory-of-strategy.htm)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/core-competence-theory/](https://commons-os.github.io/patterns/domain/core-competence-theory/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/core-competence-theory.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/core-competence-theory.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

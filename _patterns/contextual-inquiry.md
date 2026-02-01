@@ -206,15 +206,3 @@ Contextual Inquiry is a powerful enabler of collective value creation, particula
 [6] UserTesting. (2024, April 18). *Contextual inquiry: A comprehensive guide for UX researchers*. Retrieved from https://www.usertesting.com/blog/contextual-inquiry
 
 [7] Wikipedia. (2023, September 9). *Contextual inquiry*. Retrieved from https://en.wikipedia.org/wiki/Contextual_inquiry
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/contextual-inquiry/](https://commons-os.github.io/patterns/domain/contextual-inquiry/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/contextual-inquiry.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/contextual-inquiry.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -180,15 +180,3 @@ Impact Business Models are a powerful and proven framework for enabling collecti
 *   B Lab. (2023, November 21). *5 things to know about the resilience and financial performance of B Corps*. Retrieved from https://www.bcorporation.net/en-us/news/blog/5-things-to-know-resilience-financial-performance-b-corps/
 *   World Economic Forum. (2024, April 15). *AI for social innovation*. Retrieved from https://www.weforum.org/publications/ai-for-impact-artificial-intelligence-in-social-innovation/
 *   Bringas-Fernández, V., et al. (2024). B-CORP certification and financial performance: A panel data analysis. *Heliyon*, *10*(13).
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/69-impact-business-models/](https://commons-os.github.io/patterns/domain/69-impact-business-models/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/69-impact-business-models.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/69-impact-business-models.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

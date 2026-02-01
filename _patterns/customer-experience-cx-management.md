@@ -144,15 +144,3 @@ Customer Experience Management has significant potential but requires adaptation
 [4] Zendesk. "CXM best practices for every business." Accessed January 28, 2026. https://www.zendesk.com/blog/cxm-best-practices/.
 
 [5] Adobe. "Customer Experience Management." Accessed January 28, 2026. https://business.adobe.com/resources/customer-experience-management.html.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/customer-experience-cx-management/](https://commons-os.github.io/patterns/domain/customer-experience-cx-management/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/customer-experience-cx-management.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/customer-experience-cx-management.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

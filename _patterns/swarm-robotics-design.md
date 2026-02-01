@@ -161,15 +161,3 @@ Swarm Robotics Design is a powerful framework for enabling collective value crea
 3.  [Swarm Robotics: The Future of Collective Intelligence in Automation](https://thinkrobotics.com/blogs/learn/swarm-robotics-the-future-of-collective-intelligence-in-automation)
 4.  [Kilobot Project, Harvard University](https://selforganizing.seas.harvard.edu/projects/kilobot)
 5.  [Designing robot swarms: a puzzle, a problem, and a mess](https://arxiv.org/html/2410.22478v1)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/swarm-robotics-design/](https://commons-os.github.io/patterns/domain/swarm-robotics-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/swarm-robotics-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/swarm-robotics-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

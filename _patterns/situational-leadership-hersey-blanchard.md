@@ -129,15 +129,3 @@ The Commons Alignment Assessment evaluates how well the Situational Leadership®
 [4] Blanchard, K. H., & Hersey, P. (1982). The validity of Hersey and Blanchard's theory of leader effectiveness. *Group & Organization Management*, *7*(2), 225-235.
 
 [5] Thompson, G., & Vecchio, R. P. (2009). Situational leadership theory: A test of three versions. *Leadership & Organization Development Journal*, *30*(8), 731-744. https://doi.org/10.1108/01437730911003899
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/situational-leadership-hersey-blanchard/](https://commons-os.github.io/patterns/domain/situational-leadership-hersey-blanchard/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/situational-leadership-hersey-blanchard.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/situational-leadership-hersey-blanchard.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

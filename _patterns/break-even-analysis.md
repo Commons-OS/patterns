@@ -142,15 +142,3 @@ For those seeking to deepen their understanding of Break-Even Analysis, a wealth
 *   Wikipedia. (n.d.). *Commons-based peer production*. Retrieved from https://en.wikipedia.org/wiki/Commons-based_peer_production
 
 These resources provide a solid foundation for understanding and applying Break-Even Analysis in a variety of contexts. Whether you are a student, an entrepreneur, or a seasoned business professional, these materials will help you to master this essential financial tool.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/break-even-analysis/](https://commons-os.github.io/patterns/domain/break-even-analysis/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/break-even-analysis.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/break-even-analysis.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

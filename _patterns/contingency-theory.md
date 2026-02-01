@@ -180,15 +180,3 @@ Contingency Theory is a crucial transitional pattern that moves beyond the rigid
 7.  [The Contingency Theory of Leadership: A Focus on Fit - Harvard.edu](https://www.pon.harvard.edu/daily/leadership-skills-daily/the-contingency-theory-of-leadership-a-focus-on-fit/)
 8.  [Fiedler’s Contingency Theory: Why Leadership Isn’t Uniform - Asana](https://asana.com/resources/fiedlers-contingency-theory)
 9.  [Contingency Theory - an overview | ScienceDirect Topics](https://www.sciencedirect.com/topics/social-sciences/contingency-theory)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/contingency-theory/](https://commons-os.github.io/patterns/domain/contingency-theory/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/contingency-theory.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/contingency-theory.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

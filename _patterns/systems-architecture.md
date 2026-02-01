@@ -238,15 +238,3 @@ Systems Architecture provides the essential technical grammar for building resil
 [4] vFunction. (2025). *System architecture diagram basics & best practices*. Retrieved from https://vfunction.com/blog/architecture-diagram-guide/
 
 [5] Deloitte. (2020). *Systems architecture design awakens*. Retrieved from https://www2.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2020/systems-architecture-design-awakens.html
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/systems-architecture/](https://commons-os.github.io/patterns/domain/systems-architecture/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/systems-architecture.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/systems-architecture.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

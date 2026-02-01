@@ -148,15 +148,3 @@ Product Roadmapping is a powerful tool for strategic alignment and adaptation wi
 [4] Münch, J., et al. (2019). "Product Roadmap–from Vision to Reality: A Systematic Literature Review." In: 2019 IEEE/ACM 12th International Workshop on Cooperative and Human Aspects of Software Engineering (CHASE). IEEE. https://ieeexplore.ieee.org/document/8792654.
 
 [5] Suomalainen, T., et al. (2011). "Software product roadmapping in a volatile business environment." Journal of Systems and Software, 84(6), 933-945. https://doi.org/10.1016/j.jss.2011.01.023.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/product-roadmapping/](https://commons-os.github.io/patterns/domain/product-roadmapping/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/product-roadmapping.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/product-roadmapping.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

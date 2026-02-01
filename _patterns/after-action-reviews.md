@@ -128,15 +128,3 @@ In the civilian sector, numerous books, articles, and online resources have been
 [4] National Police Foundation. (2020). *How to Conduct an After Action Review*. Washington, DC: Office of Community Oriented Policing Services.
 
 [5] Wikipedia. (n.d.). *After-action review*. https://en.wikipedia.org/wiki/After-action_review
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/after-action-reviews/](https://commons-os.github.io/patterns/domain/after-action-reviews/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/after-action-reviews.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/after-action-reviews.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

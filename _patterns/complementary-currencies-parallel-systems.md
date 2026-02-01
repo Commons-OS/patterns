@@ -242,15 +242,3 @@ The pattern provides a robust framework for creating localized, resilient value 
 [4] Escobar, A. L., Rueda López, R., Solano-Sánchez, M. Á., & García-Moreno García, M. de los B. (2020). The Role of Complementary Monetary System as an Instrument to Innovate the Local Financial System. *Journal of Open Innovation: Technology, Market, and Complexity*, *6*(4), 141. https://doi.org/10.3390/joitmc6040141
 
 [5] Frasser, C., & Lebeau, L. (2023). *Complementary Currencies and Liquidity: The Case of Coca-Base Money* (Working Paper No. 2307). Federal Reserve Bank of Dallas. https://www.dallasfed.org/~/media/documents/research/papers/2023/wp2307.pdf
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/complementary-currencies-parallel-systems/](https://commons-os.github.io/patterns/domain/complementary-currencies-parallel-systems/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/complementary-currencies-parallel-systems.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/complementary-currencies-parallel-systems.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

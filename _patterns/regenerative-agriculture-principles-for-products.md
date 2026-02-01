@@ -153,15 +153,3 @@ The pattern provides a robust and actionable framework for designing products an
 
 4.  [Regenerative design - Wikipedia](https://en.wikipedia.org/wiki/Regenerative_design)
 5.  [What is Circular Design? | IxDF – The Interaction Design Foundation](https://www.interaction-design.org/literature/topics/circular-design)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/regenerative-agriculture-principles-for-products/](https://commons-os.github.io/patterns/domain/regenerative-agriculture-principles-for-products/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/regenerative-agriculture-principles-for-products.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/regenerative-agriculture-principles-for-products.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

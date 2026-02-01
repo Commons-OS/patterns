@@ -237,15 +237,3 @@ While STS is a theoretical framework rather than a specific tool, it is often im
 [4] Ropohl, G. (1999). Philosophy of socio-technical systems. *Society for Philosophy and Technology Quarterly Electronic Journal*, 4(3), 59-74.
 
 [5] Hyer, N. L., Brown, K. A., & Zimmerman, S. (1999). A socio-technical systems approach to cell design: case study and analysis. *Journal of Operations Management*, 17(2), 179-203.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/sociotechnical-systems-tavistock/](https://commons-os.github.io/patterns/domain/sociotechnical-systems-tavistock/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/sociotechnical-systems-tavistock.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/sociotechnical-systems-tavistock.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

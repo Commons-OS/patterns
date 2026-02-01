@@ -181,15 +181,3 @@ Design for Disassembly is a foundational pattern for the circular economy that s
 [9] ScienceDirect. (n.d.). *Design for Disassembly - an overview*. Retrieved from https://www.sciencedirect.com/topics/social-sciences/design-for-disassembly
 
 [10] Sustainability Directory. (n.d.). *What Are the Core Principles of Designing for Disassembly?* Retrieved from https://product.sustainability-directory.com/learn/what-are-the-core-principles-of-designing-for-disassembly/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/design-for-disassembly/](https://commons-os.github.io/patterns/domain/design-for-disassembly/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/design-for-disassembly.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/design-for-disassembly.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -168,15 +168,3 @@ The Mittelstand model is a powerful engine for resilient, collective value creat
 [4] Franch Parella, J., & Carmona Hernández, G. (2018). The German Business Model: The Role of the Mittelstand. *Journal of Management Policies and Practices*, *6*(1), 10–16. https://doi.org/10.15640/jmpp.v6n1a3
 
 [5] Simon, H. (1992). Lessons from Germany’s Midsize Giants. *Harvard Business Review*, *March–April 1992*. Retrieved from https://hbr.org/1992/03/lessons-from-germanys-midsize-giants
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/mittelstand-innovation-practices/](https://commons-os.github.io/patterns/implementation/mittelstand-innovation-practices/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/mittelstand-innovation-practices.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/mittelstand-innovation-practices.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

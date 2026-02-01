@@ -162,15 +162,3 @@ For those interested in learning more about co-housing, there are a wealth of re
 
 [5] Tymoczko, K. (2009). Quoted in *Urban Cohousing Case Studies*. Caddis PC.
 Co-housing has a demonstrable positive impact on the lives of its residents and the wider community. Research and anecdotal evidence from around the world point to a range of social, economic, and environmental benefits. [1] Socially, co-housing combats the isolation and loneliness that are all too common in modern society. The close-knit nature of these communities fosters a strong sense of belonging and mutual support. Residents report higher levels of social interaction, and children benefit from a safe and supportive environment with a wide network of trusted adults. [2] Economically, co-housing can be more affordable than traditional housing. Shared resources, such as tools, cars, and guest rooms, help to reduce the cost of living. The self-management of common facilities also helps to keep maintenance costs down. [3] Environmentally, co-housing communities are often designed with sustainability in mind. They typically have a smaller environmental footprint than conventional developments, with features such as green building materials, energy-efficient homes, and shared gardens. The emphasis on walkability and transit-accessibility also helps to reduce reliance on cars. [4] The impact of co-housing extends beyond the boundaries of the community itself. These communities can serve as a model for a more sustainable and socially connected way of life, inspiring others to rethink the way we design our neighborhoods and our homes. [5]
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/co-housing/](https://commons-os.github.io/patterns/domain/co-housing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/co-housing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/co-housing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

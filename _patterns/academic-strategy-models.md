@@ -268,15 +268,3 @@ Academic strategy models have the potential to be a powerful tool for advancing 
 [4] Watkins, M. D. (2025). The seven dimensions of academic strategy: A systems framework for higher education excellence. *IMD-2727*.
 
 [5] ThoughtExchange. (2025, November 21). *3 Proven Strategic Planning Models for K-12 Education*. https://thoughtexchange.com/blog/3-proven-strategic-planning-models-for-k-12-education/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/academic-strategy-models/](https://commons-os.github.io/patterns/domain/academic-strategy-models/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/academic-strategy-models.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/academic-strategy-models.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

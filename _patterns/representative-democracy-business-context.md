@@ -169,15 +169,3 @@ Representative Democracy is a crucial transitional pattern that moves beyond pur
 [4] [A Conceptual Model for Workplace Democracy | Springer Nature Link](https://link.springer.com/chapter/10.1007/978-3-032-02774-0_2)
 
 [5] [Democracy is good for the economy. Can business defend it? | Brookings](https://www.brookings.edu/articles/democracy-is-good-for-the-economy-can-business-defend-it/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/representative-democracy-business-context/](https://commons-os.github.io/patterns/domain/representative-democracy-business-context/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/representative-democracy-business-context.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/representative-democracy-business-context.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

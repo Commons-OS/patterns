@@ -169,15 +169,3 @@ The Regional Variations pattern is a powerful enabler of resilient, adaptive, an
 [6] Duamentes. (2024, February 15). *6 Case Studies on Effective Expansion Strategies*. Retrieved from https://www.duamentes.com/2024/02/15/6-case-studies-on-effective-expansion-strategies/
 
 [7] The Strategy Institute. (2024, September 20). *Starbucks International Strategy - A Case Study for Global Success*. Retrieved from https://www.thestrategyinstitute.org/insights/starbucks-international-strategy-a-case-study-for-global-success
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/regional-variations/](https://commons-os.github.io/patterns/domain/regional-variations/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/regional-variations.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/regional-variations.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -100,15 +100,3 @@ Marxian Economics is a powerful and essential framework for critiquing the explo
 *   [3] Wikipedia. (2025, December 19). *Criticism of Marxism*. https://en.wikipedia.org/wiki/Criticism_of_Marxism
 *   [4] Marx, K. (1867). *Das Kapital*. 
 *   [5] Marx, K. (1863). *Theories of Surplus Value*.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/marxian-economics/](https://commons-os.github.io/patterns/domain/marxian-economics/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/marxian-economics.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/marxian-economics.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

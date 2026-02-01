@@ -177,15 +177,3 @@ Modular Design is a foundational pattern for building resilient, adaptable, and 
 [11] Modular reconfiguration of flexible production systems using machine learning and system performance estimates based on queuing theory. (2022). *ScienceDirect*. Retrieved from https://www.sciencedirect.com/science/article/pii/S2405896322016962
 
 [12] Tusnin, A. R., Alekseytsev, A. V., & Tusnina, O. (2024). Using Machine Learning Technologies to Design Modular Buildings. *Buildings*, *14*(7), 2213.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/modular-design/](https://commons-os.github.io/patterns/domain/modular-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/modular-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/modular-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

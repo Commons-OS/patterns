@@ -150,15 +150,3 @@ The McKinsey 7S Framework is a powerful tool for achieving internal organization
 *   [3] Pascale, R. T., & Athos, A. G. (1981). The Art of Japanese Management: Applications for American Executives. New York: Simon and Schuster.
 *   [4] "Enduring Ideas: The 7-S Framework". McKinsey & Company. March 1, 2008. https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/enduring-ideas-the-7-s-framework
 *   [5] "McKinsey 7S Framework". Wikipedia. https://en.wikipedia.org/wiki/McKinsey_7S_Framework
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/mckinsey-7s-organizational-alignment/](https://commons-os.github.io/patterns/domain/mckinsey-7s-organizational-alignment/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/mckinsey-7s-organizational-alignment.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/mckinsey-7s-organizational-alignment.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

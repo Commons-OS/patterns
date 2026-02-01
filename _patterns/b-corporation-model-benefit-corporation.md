@@ -205,15 +205,3 @@ The B Corporation model is a powerful Value Creation Enabler that provides a rob
 [4] Wikipedia. (2023, October 22). *Benefit corporation*. Retrieved from https://en.wikipedia.org/wiki/Benefit_corporation
 
 [5] B Lab. (n.d.). *The B Corp Movement*. Retrieved from https://www.bcorporation.net/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/b-corporation-model-benefit-corporation/](https://commons-os.github.io/patterns/domain/b-corporation-model-benefit-corporation/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/b-corporation-model-benefit-corporation.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/b-corporation-model-benefit-corporation.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

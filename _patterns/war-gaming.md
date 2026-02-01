@@ -172,15 +172,3 @@ War Gaming is a valuable tool for strategic planning and organizational learning
 
 4.  [Oriesek, D. F., & Schwarz, J. O. (2016). *Business wargaming: securing corporate value*. Routledge.](https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.4324/9781315570648&type=googlepdf)
 5.  [Kurtz, J. (2003). “Business wargaming”: simulations guide crucial strategy decisions. *Strategy & Leadership*, *31*(4), 12-21.](https://www.emerald.com/insight/content/doi/10.1108/10878570310505550/full/html)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/war-gaming/](https://commons-os.github.io/patterns/domain/war-gaming/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/war-gaming.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/war-gaming.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

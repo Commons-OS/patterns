@@ -135,15 +135,3 @@ The transition to renewable energy has a complex and multifaceted relationship w
 [4] World Economic Forum. (2025, November 18). *How AI can accelerate the energy transition, rather than hinder it*. Retrieved from https://www.weforum.org/stories/2025/11/ai-accelerate-energy-transition/
 
 [5] U.S. Department of Energy. (n.d.). *Artificial Intelligence for Energy*. Retrieved from https://www.energy.gov/topics/artificial-intelligence-energy
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/transition-to-renewables/](https://commons-os.github.io/patterns/domain/transition-to-renewables/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/transition-to-renewables.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/transition-to-renewables.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

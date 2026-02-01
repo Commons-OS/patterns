@@ -168,15 +168,3 @@ Design for Manufacturing (DFM) is a methodology that, while originating in the i
 [5] Harlalka, A., Naiju, C. D., & Janardhanan, M. N. (2016). Redesign of an in-market food processor for manufacturing cost reduction using DFMA methodology. *Production & Manufacturing Research*, *4*(1), 21-38. https://www.tandfonline.com/doi/abs/10.1080/21693277.2016.1261052
 
 [6] Apriori. (2024, April 18). *Design for Manufacturing Examples: Real-Life Case Studies*. Apriori. https://www.apriori.com/blog/design-for-manufacturing-examples-real-life-engineering-case-studies/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/design-for-manufacture-dfm/](https://commons-os.github.io/patterns/domain/design-for-manufacture-dfm/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/design-for-manufacture-dfm.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/design-for-manufacture-dfm.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

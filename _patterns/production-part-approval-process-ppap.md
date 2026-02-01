@@ -194,15 +194,3 @@ PPAP is a powerful industrial-era pattern for ensuring quality and stability in 
 [4] "What is PPAP and why is it important?," 29 March 2021. [Online]. Available: https://www.ideagen.com/thought-leadership/blog/what-is-ppap-and-why-is-it-important.
 
 [5] "PPAP: How to Perform it Effectively | SafetyCulture," 30 June 2025. [Online]. Available: https://safetyculture.com/topics/ppap.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/production-part-approval-process-ppap/](https://commons-os.github.io/patterns/implementation/production-part-approval-process-ppap/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/production-part-approval-process-ppap.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/production-part-approval-process-ppap.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

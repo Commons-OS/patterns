@@ -160,15 +160,3 @@ Strategic foresight, as a practice, can be highly aligned with the principles of
 [14] [UN DESA Policy Brief: Leveraging strategic foresight to mitigate artificial intelligence risks](https://desapublications.un.org/policy-briefs/un-desa-policy-brief-no-174-leveraging-strategic-foresight-mitigate-artificial)
 
 [15] [European Parliament: Augmented foresight: The transformative power of generative AI](https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2025)774665)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/strategic-foresight/](https://commons-os.github.io/patterns/domain/strategic-foresight/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/strategic-foresight.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/strategic-foresight.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

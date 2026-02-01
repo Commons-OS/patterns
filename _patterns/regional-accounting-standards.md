@@ -135,15 +135,3 @@ The pattern is essential for creating market trust and transparency, which is a 
 
 4.  [IFRS compared to US GAAP](https://kpmg.com/kpmg-us/content/dam/kpmg/frv/pdf/2023/ifrs-us-gaap-2023-final.pdf)
 5.  [The Impact of Accounting Standards on Foreign Direct Investment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3373339)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/regional-accounting-standards/](https://commons-os.github.io/patterns/domain/regional-accounting-standards/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/regional-accounting-standards.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/regional-accounting-standards.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

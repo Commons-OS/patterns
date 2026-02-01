@@ -231,15 +231,3 @@ The Manufacturing Model is a powerful engine for production, but it remains fund
 [4] Hayes, R. H., & Upton, D. M. (1998). *Strategic Operations: A Framework for Competitive Advantage*. Free Press.
 
 [5] Goldratt, E. M., & Cox, J. (2016). *The Goal: A Process of Ongoing Improvement*. Routledge.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/manufacturing-model/](https://commons-os.github.io/patterns/context-specific/manufacturing-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/manufacturing-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/manufacturing-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

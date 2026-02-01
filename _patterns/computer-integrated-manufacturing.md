@@ -161,15 +161,3 @@ CIM is a powerful framework for creating efficient, adaptable, and highly automa
 [4] Waldner, J. B. (1992). *CIM: Principles of computer-integrated manufacturing*. John Wiley & Sons.
 
 [5] Harrington, J. (1973). *Computer integrated manufacturing*. Industrial Press.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/computer-integrated-manufacturing/](https://commons-os.github.io/patterns/context-specific/computer-integrated-manufacturing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/computer-integrated-manufacturing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/computer-integrated-manufacturing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

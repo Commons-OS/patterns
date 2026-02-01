@@ -188,15 +188,3 @@ The Smart Factories pattern is a powerful enabler of resilient and adaptive prod
 *   Deloitte. (2019). *2019 Deloitte and MAPI Smart Factory Study*. Retrieved from https://www2.deloitte.com/us/en/insights/industry/manufacturing/smart-factory-study-manufacturers.html
 *   Phuyal, S., Bista, D., & Bista, R. (2020). Challenges, Opportunities and Future Directions of Smart Manufacturing: A State of Art Review. *Procedia Computer Science*, *178*, 675-684.
 *   TMA Solutions. (2023, September 30). *The 5 Biggest Challenges of Smart Factory Implementation (and How to Overcome Them)*. Retrieved from https://www.tmasolutions.com/insights/the-5-biggest-challenges-of-smart-factory-implementation-and-how-to-overcome-them
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/smart-factories/](https://commons-os.github.io/patterns/domain/smart-factories/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/smart-factories.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/smart-factories.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

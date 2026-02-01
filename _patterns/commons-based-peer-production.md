@@ -170,15 +170,3 @@ Commons-Based Peer Production provides a complete and robust architecture for re
 [4] Bauwens, Michel, Vasilis Kostakis, and Alex Pazaitis. Peer to Peer: The Commons Manifesto. University of Westminster Press, 2019.
 
 [5] Tapscott, Don, and Anthony D. Williams. Wikinomics: How Mass Collaboration Changes Everything. Portfolio, 2006.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/commons-based-peer-production/](https://commons-os.github.io/patterns/domain/commons-based-peer-production/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/commons-based-peer-production.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/commons-based-peer-production.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

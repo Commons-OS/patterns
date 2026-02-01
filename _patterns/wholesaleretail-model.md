@@ -185,15 +185,3 @@ The Wholesale/Retail Model, in its traditional form, is a product of the industr
   - Gauri, D. K., et al. (2021). Evolution of retail formats: Past, present, and future. *Journal of Retailing*, 97(1), 42-61.
 
   - Linneman, P. (2017). *The Evolution of Retailing in the United States*. Wharton Real Estate Review.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/wholesaleretail-model/](https://commons-os.github.io/patterns/context-specific/wholesaleretail-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/wholesaleretail-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/wholesaleretail-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

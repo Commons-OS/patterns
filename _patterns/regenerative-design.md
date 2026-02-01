@@ -227,15 +227,3 @@ Regenerative design is a design philosophy that is grounded in a deep sense of c
 [5] Search results on the evidence and impact of regenerative design. (2026). Various sources.
 
 [6] Search results on regenerative design in the cognitive era. (2026). Various sources.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/regenerative-design/](https://commons-os.github.io/patterns/domain/regenerative-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/regenerative-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/regenerative-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

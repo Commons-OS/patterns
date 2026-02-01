@@ -201,15 +201,3 @@ The Membership Model is a powerful enabler of collective value creation, providi
 [4] Penfriend.ai. (2024, July 2). *Subscription Business Case Studies: 25 Examples With Growth Tactics*. https://penfriend.ai/blog/subscription-business-case-studies
 
 [5] Glue Up. (2025, April 25). *AI Membership Models for Modern Associations*. https://www.glueup.com/blog/ai-membership-models
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/membership-model/](https://commons-os.github.io/patterns/domain/membership-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/membership-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/membership-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

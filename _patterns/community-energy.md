@@ -191,15 +191,3 @@ Community Energy is a powerful enabler of collective value creation, with strong
 [4] Commission for Environmental Cooperation. (2010). *Guide to Developing a Community Renewable Energy Project in North America*. Retrieved from https://www.cec.org/files/documents/publications/3610-guide-developing-community-renewable-energy-project-in-north-america-en.pdf
 
 [5] Ashden. (2025). *The Value of Community Energy: a digest of supporting evidence for the Energy Learning Network*. Retrieved from https://ashden.org/wp-content/uploads/2025/03/Digest-of-evidence-about-the-value-of-community-energy_March-25.pdf
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/community-energy/](https://commons-os.github.io/patterns/domain/community-energy/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/community-energy.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/community-energy.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

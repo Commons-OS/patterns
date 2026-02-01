@@ -148,15 +148,3 @@ Postmodern Design provides a powerful philosophical and aesthetic toolkit for de
 [2] Wikipedia. (n.d.). *Postmodern architecture*. Retrieved from https://en.wikipedia.org/wiki/Postmodern_architecture
 
 [3] Victoria and Albert Museum. (2024, April 17). *What is Postmodernism?*. Retrieved from https://www.vam.ac.uk/articles/what-is-postmodernism
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/postmodern-design/](https://commons-os.github.io/patterns/domain/postmodern-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/postmodern-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/postmodern-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

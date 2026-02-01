@@ -127,15 +127,3 @@ The rise of Large Language Models (LLMs) also presents new opportunities and cha
 4.  Beck, K. (2003). *Test-Driven Development: By Example*. Addison-Wesley Professional.
 5.  George, B., & Williams, L. (2003). A feasibility study on the use of test-driven development in a university course. *Proceedings of the 2007 International Conference on Software Engineering*.
 6.  Nachiappan, N., & Nagappan, M. (2008). Realizing Quality Improvement Through Test-Driven Development: Results and Experiences of Four Industrial Teams. *Microsoft Research*.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/test-driven-development-tdd-testing-first/](https://commons-os.github.io/patterns/domain/test-driven-development-tdd-testing-first/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/test-driven-development-tdd-testing-first.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/test-driven-development-tdd-testing-first.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

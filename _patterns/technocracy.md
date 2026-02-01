@@ -127,15 +127,3 @@ Technocracy receives a transitional score because it offers a powerful framework
 3.  [Technocracy | Modern Movement, Social Engineering &... - Britannica](https://www.britannica.com/topic/technocracy)
 4.  [Technocracy and the transformation of organizational control - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/0362331989900542)
 5.  [The Technocratic Society: Evolution from Philosophical... - Medium](https://medium.com/tecnosophia/the-technocratic-society-evolution-from-philosophical-ideals-to-todays-governance-29e5e211d757)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/technocracy/](https://commons-os.github.io/patterns/domain/technocracy/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/technocracy.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/technocracy.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

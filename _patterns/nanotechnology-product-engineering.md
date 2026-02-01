@@ -149,15 +149,3 @@ The pattern is a powerful technological enabler with strong alignment in composa
 [5] National Cancer Institute. (2017). *Nanotechnology in Cancer Treatment*. Retrieved from https://www.cancer.gov/nano/cancer-nanotechnology/treatment
 
 [6] AZoNano. (2025). *The Role of Nanotechnology in Modern Industry*. Retrieved from https://www.azonano.com/article.aspx?ArticleID=6820
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/nanotechnology-product-engineering/](https://commons-os.github.io/patterns/domain/nanotechnology-product-engineering/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/nanotechnology-product-engineering.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/nanotechnology-product-engineering.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -258,15 +258,3 @@ SysML is a powerful enabler of collective value creation by providing a standard
 [3] Friedenthal, S., Moore, A., & Steiner, R. (2014). *A Practical Guide to SysML: The Systems Modeling Language*. Morgan Kaufmann.
 [4] Delligatti, L. (2013). *SysML Distilled: A Brief Guide to the Systems Modeling Language*. Addison-Wesley Professional.
 [5] Holt, J., & Perry, S. (2008). *SysML for Systems Engineering*. The Institution of Engineering and Technology.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/systems-modeling-language-sysml/](https://commons-os.github.io/patterns/domain/systems-modeling-language-sysml/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/systems-modeling-language-sysml.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/systems-modeling-language-sysml.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -164,15 +164,3 @@ The pattern provides a powerful engine for generative exploration and optimizati
 [4] Wang, C., et al. (2025). A guided review of machine learning in the design and synthesis of porous carbon materials. *Materials & Design*, *254*, 114837.
 
 [5] Málaga-Chuquitaype, C. (2022). Machine Learning in Structural Design: An Opinionated Review. *Frontiers in Built Environment*, *8*, 815717.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/human-universal/machine-learning-for-design/](https://commons-os.github.io/patterns/human-universal/machine-learning-for-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/machine-learning-for-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_human-universal/machine-learning-for-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

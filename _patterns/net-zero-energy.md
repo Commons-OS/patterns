@@ -244,15 +244,3 @@ Net Zero Energy is a powerful enabler of value creation, particularly in the eco
 [6] "10 Net Zero Energy Building Examples Worth Emulating." gbd Magazine. https://gbdmagazine.com/net-zero-energy-building-examples/
 
 [7] "Social Equity, Affordable Housing, and the Net-Zero Energy Opportunity." RMI. https://rmi.org/social-equity-affordable-housing-and-the-net-zero-energy-opportunity/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/82-net-zero-energy/](https://commons-os.github.io/patterns/domain/82-net-zero-energy/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/82-net-zero-energy.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/82-net-zero-energy.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

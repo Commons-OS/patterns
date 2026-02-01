@@ -169,15 +169,3 @@ MRP receives a transitional score because it is a powerful and proven system for
 [2] SAP. "What is MRP? The Key to Efficient Manufacturing." [https://www.sap.com/products/erp/what-is-mrp.html](https://www.sap.com/products/erp/what-is-mrp.html)
 
 [3] MRPeasy. "Material Requirements Planning (MRP) - A Simple Guide." [https://www.mrpeasy.com/material-requirements-planning/](https://www.mrpeasy.com/material-requirements-planning/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/material-requirements-planning-mrp/](https://commons-os.github.io/patterns/domain/material-requirements-planning-mrp/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/material-requirements-planning-mrp.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/material-requirements-planning-mrp.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

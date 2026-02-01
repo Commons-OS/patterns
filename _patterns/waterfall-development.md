@@ -153,15 +153,3 @@ The Commons Alignment Assessment evaluates the Waterfall Development methodology
 [4] Larman, C., & Basili, V. R. (2003). Iterative and Incremental Development: A Brief History. *Computer*, 36(6), 47-56.
 
 [5] Project Management Institute. (2017). *A Guide to the Project Management Body of Knowledge (PMBOK® Guide)* (6th ed.). Project Management Institute.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/waterfall-development/](https://commons-os.github.io/patterns/domain/waterfall-development/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/waterfall-development.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/waterfall-development.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -157,15 +157,3 @@ The Commons Alignment Assessment evaluates how well the Value Disciplines model 
 [4] Cascade. (2022). *Value Discipline Model & Your Competitive Advantage*. Retrieved from https://www.cascade.app/blog/value-disciplines
 
 [5] Brand Strategists. (n.d.). *The business strategy of Wiersema and Treacy - Part 1*. Retrieved from https://www.brandstrategists.be/en/inspiration/three-paths-to-market-leadership-the-business-strategy-of-wiersema-and-treacy-part-1
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/value-disciplines-treacy-wiersema/](https://commons-os.github.io/patterns/domain/value-disciplines-treacy-wiersema/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/value-disciplines-treacy-wiersema.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/value-disciplines-treacy-wiersema.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

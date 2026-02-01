@@ -205,15 +205,3 @@ Natural Capitalism provides a robust and practical framework for creating collec
     3.  [https://rmi.org/insight/natural-capitalism-summary-from-apertura-magazine/](https://rmi.org/insight/natural-capitalism-summary-from-apertura-magazine/)
     4.  [https://donellameadows.org/archives/systems-thinking-primer-for-natural-capitalism-the-four-basic-shifts/](https://donellameadows.org/archives/systems-thinking-primer-for-natural-capitalism-the-four-basic-shifts/)
     5.  [https://www.fastcompany.com/1414589/natural-capitalism](https://www.fastcompany.com/1414589/natural-capitalism)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/natural-capitalism-hawken-lovins/](https://commons-os.github.io/patterns/domain/natural-capitalism-hawken-lovins/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/natural-capitalism-hawken-lovins.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/natural-capitalism-hawken-lovins.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

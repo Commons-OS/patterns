@@ -173,15 +173,3 @@ Design for Cost is a legacy pattern focused on optimizing economic efficiency wi
 3.  [What Is Design to Cost? An Overview With Examples - Apriori](https://www.apriori.com/blog/what-is-design-to-cost-an-overview-with-examples/)
 4.  [Design-to-Cost - DAU](https://www.dau.edu/glossary/design-cost)
 5.  [Design to cost; a framework for large industrial products - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2212827121004984)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/design-for-cost/](https://commons-os.github.io/patterns/domain/design-for-cost/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/design-for-cost.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/design-for-cost.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

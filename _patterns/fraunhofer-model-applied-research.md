@@ -200,15 +200,3 @@ The Fraunhofer Model is a powerful and resilient framework for generating techno
     3.  Fraunhofer-Gesellschaft. (n.d.). *Guiding Principles of the Fraunhofer-Gesellschaft*. Fraunhofer-Gesellschaft. Retrieved from https://www.fraunhofer.de/en/about-fraunhofer/sustainability/responsible-corporate-governance/guiding-principles.html
     4.  National Research Council. (2013). *21st Century Manufacturing: The Role of the Manufacturing Extension Partnership Program*. The National Academies Press. https://doi.org/10.17226/18448
     5.  Fraunhofer Innovation Platform for Advanced Manufacturing at the University of Twente. (n.d.). *Case Studies*. Retrieved from https://fip.utwente.nl/knowledge-hub/case-studies/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/fraunhofer-model-applied-research/](https://commons-os.github.io/patterns/domain/fraunhofer-model-applied-research/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/fraunhofer-model-applied-research.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/fraunhofer-model-applied-research.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

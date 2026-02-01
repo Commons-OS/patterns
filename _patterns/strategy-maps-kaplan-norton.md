@@ -256,15 +256,3 @@ Strategy Maps are a powerful tool for executing a predefined strategy and have s
 [4] Kaplan, R. S., & Norton, D. P. (2001). *The strategy-focused organization: How balanced scorecard companies thrive in the new business environment*. Harvard Business Press.
 
 [5] Scholey, C. (2018). *Strategy Mapping: Case Study 2 (Wikigear Inc.)*. CPA Canada. Retrieved from https://www.cpacanada.ca/-/media/site/operational/rg-research-guidance-and-support/docs/mags/01681-rg-strategy-mapping-case-study-2-wikigear-may-2018.pdf
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/37-strategy-maps-kaplan-norton/](https://commons-os.github.io/patterns/domain/37-strategy-maps-kaplan-norton/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/37-strategy-maps-kaplan-norton.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/37-strategy-maps-kaplan-norton.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

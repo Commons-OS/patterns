@@ -111,15 +111,3 @@ Moreover, the rise of artificial intelligence and automation is likely to furthe
 3.  [Asana: 7 Tips to Start Time Blocking Today](https://asana.com/resources/what-is-time-blocking)
 4.  [Cal Newport's Deep Work Time Blocking Method](https://www.neuyear.net/blogs/productivity/cal-newports-deep-work-time-blocking-method)
 5.  [The Pros and Cons of Time Blocking](https://www.habitstrong.com/time-blocking-pros-cons/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/time-blocking/](https://commons-os.github.io/patterns/domain/time-blocking/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/time-blocking.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/time-blocking.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

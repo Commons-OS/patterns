@@ -180,15 +180,3 @@ This section provides a curated list of resources for further learning and engag
     1. Wikipedia. (2026). *Six Sigma*. Retrieved from /home/ubuntu/six-sigma-research/source1_wikipedia.md
     2. Corporate Finance Institute. (n.d.). *Six Sigma*. Retrieved from /home/ubuntu/six-sigma-research/source2_cfi.md
     3. GoLeanSixSigma.com. (n.d.). *Lean Six Sigma Case Studies*. Retrieved from /home/ubuntu/six-sigma-research/source3_golean.md
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/six-sigma-motorolage-quality-system/](https://commons-os.github.io/patterns/domain/six-sigma-motorolage-quality-system/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/six-sigma-motorolage-quality-system.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/six-sigma-motorolage-quality-system.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -187,15 +187,3 @@ _x000D_
     3. Grokipedia. (n.d.). *Value stream costing*. Retrieved from https://grokipedia.com/page/value_stream_costing_x000D_
     4. Yousef, H., Atef, A. E., & Hendy, N. M. (2015). *Measuring the Potential Operational and Financial Improvements of Implementing Lean Manufacturing: Using Lean Accounting Tools-A Case Study*. Paper presented at the 1st Cairo University International Conference on Accounting (CUICA), Cairo, Egypt._x000D_
     5. Marchwinski, C. (2003, June 25). *Creating the Course and Tools for a Lean Accounting System*. Lean Enterprise Institute. Retrieved from https://www.lean.org/the-lean-post/articles/creating-the-course-and-tools-for-a-lean-accounting-system/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/lean-accounting-value-stream-costing/](https://commons-os.github.io/patterns/domain/lean-accounting-value-stream-costing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/lean-accounting-value-stream-costing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/lean-accounting-value-stream-costing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -167,15 +167,3 @@ Quadratic Funding is a powerful engine for collective value creation, strongly a
 [2] Gitcoin. (n.d.). *WTF is Quadratic Funding?* Retrieved from [https://qf.gitcoin.co/](https://qf.gitcoin.co/)
 
 [3] wtfisqf.com. (n.d.). *WTF is Quadratic Funding?* Retrieved from [https://www.wtfisqf.com/](https://www.wtfisqf.com/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/quadratic-funding/](https://commons-os.github.io/patterns/domain/quadratic-funding/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/quadratic-funding.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/quadratic-funding.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

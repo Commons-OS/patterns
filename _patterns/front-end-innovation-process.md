@@ -166,15 +166,3 @@ The Front-End Innovation Process is a powerful framework for navigating the unce
 1.  [Front end innovation](https://en.wikipedia.org/wiki/Front_end_innovation) - Wikipedia
 2.  [Front-end innovation: How to improve and accelerate new product and service development with conversational research](https://www.reach3insights.com/blog/front-end-innovation) - Reach3 Insights
 3.  [What is front end innovation? The path to successful medical device development](https://www.team-consulting.com/insights/front-end-innovation-the-path-to-successful-device-development/) - Team Consulting
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/front-end-innovation-process/](https://commons-os.github.io/patterns/implementation/front-end-innovation-process/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/front-end-innovation-process.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/front-end-innovation-process.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

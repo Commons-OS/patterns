@@ -173,15 +173,3 @@ Urban agriculture aligns with the principles of the commons in several key ways.
 *   "Urban Agriculture Impacts: Social, Health, and Economic: A Literature Review." [https://sarep.ucdavis.edu/sites/g/files/dgvnsk5751/files/inline-files/UALitReview_2013.pdf](https://sarep.ucdavis.edu/sites/g/files/dgvnsk5751/files/inline-files/UALitReview_2013.pdf)
 *   "The Future of Urban Agriculture: A 20-50 Year Outlook - Ian Khan." [https://www.iankhan.com/the-future-of-urban-agriculture-a-20-50-year-outlook/](https://www.iankhan.com/the-future-of-urban-agriculture-a-20-50-year-outlook/)
 *   "(PDF) Urban Agriculture, Commons and Urban Policies: Scaling up Local Innovation." [https://www.researchgate.net/publication/305422585_Urban_Agriculture_Commons_and_Urban_Policies_Scaling_up_Local_Innovation](https://www.researchgate.net/publication/305422585_Urban_Agriculture_Commons_and_Urban_Policies_Scaling_up_Local_Innovation)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/urban-agriculture/](https://commons-os.github.io/patterns/domain/urban-agriculture/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/urban-agriculture.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/urban-agriculture.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

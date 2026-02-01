@@ -161,15 +161,3 @@ The Shaker Design Principles provide a powerful and timeless framework for creat
 [4] Rawsthorn, A. (n.d.). *Simple Economy: A History of Shaker Design*. Maharam. https://www.maharam.com/stories/rawsthorn_simple-economy-a-history-of-shaker-design
 
 [5] Taft, M. (2015). Morphologies and Genealogies: Shaker Furniture and Danish Design. *Design and Culture*, *7*(3), 313-334.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/shaker-design-principles/](https://commons-os.github.io/patterns/domain/shaker-design-principles/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/shaker-design-principles.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/shaker-design-principles.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

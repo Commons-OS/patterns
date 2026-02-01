@@ -176,15 +176,3 @@ IPD receives a transitional score because it provides a strong foundation for co
 3.  [An evaluation of research on integrated product development](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.48.7.938.2818)
 4.  [Factors influencing success in integrated product development (IPD) projects](https://ieeexplore.ieee.org/abstract/document/922476/)
 5.  [The effect of integrated product development on efficiency and innovation](https://www.tandfonline.com/doi/abs/10.1080/00207540500031873)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/integrated-product-development-ipd/](https://commons-os.github.io/patterns/domain/integrated-product-development-ipd/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/integrated-product-development-ipd.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/integrated-product-development-ipd.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

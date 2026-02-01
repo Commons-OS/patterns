@@ -259,15 +259,3 @@ Zero Trust is a powerful enabler of resilient collective value creation by provi
 [4] Google. (n.d.). *BeyondCorp*. Retrieved from https://cloud.google.com/beyondcorp
 
 [5] Microsoft. (2025). *Implementing a Zero Trust security model at Microsoft*. Retrieved from https://www.microsoft.com/insidetrack/blog/implementing-a-zero-trust-security-model-at-microsoft/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/human-universal/23-zero-trust-security/](https://commons-os.github.io/patterns/human-universal/23-zero-trust-security/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/23-zero-trust-security.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_human-universal/23-zero-trust-security.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

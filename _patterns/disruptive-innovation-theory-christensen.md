@@ -227,15 +227,3 @@ The Disruptive Innovation Theory receives a moderate alignment score. While its 
 [4] Christensen, Clayton M., and Michael E. Raynor. *The Innovator's Solution: Creating and Sustaining Successful Growth*. Harvard Business Review Press, 2003.
 
 [5] Wikipedia. "Disruptive innovation." https://en.wikipedia.org/wiki/Disruptive_innovation
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/disruptive-innovation-theory-christensen/](https://commons-os.github.io/patterns/domain/disruptive-innovation-theory-christensen/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/disruptive-innovation-theory-christensen.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/disruptive-innovation-theory-christensen.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

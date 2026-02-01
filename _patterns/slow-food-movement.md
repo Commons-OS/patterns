@@ -228,15 +228,3 @@ The Slow Food Movement strongly enables resilient collective value creation by p
     3.  Slow Food. (n.d.). *Ark of Taste*. Retrieved January 28, 2026, from https://www.slowfood.com/biodiversity-programs/ark-of-taste/
     4.  Slow Food. (n.d.). *Presidia*. Retrieved January 28, 2026, from https://www.slowfood.com/biodiversity-programs/presidia/
     5.  Slow Food. (n.d.). *Our Impact*. Retrieved January 28, 2026, from https://www.slowfood.com/our-impact/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/46-slow-food-movement/](https://commons-os.github.io/patterns/domain/46-slow-food-movement/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/46-slow-food-movement.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/46-slow-food-movement.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

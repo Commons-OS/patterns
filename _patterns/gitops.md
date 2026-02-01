@@ -200,15 +200,3 @@ GitOps is a powerful framework that strongly enables the creation of resilient, 
 [17] Technorizen. "From Git Ops to AIOps: The New DevOps Evolution Explained." https://technorizen.com/from-git-ops-to-aiops-the-new-devops-evolution-explained/
 
 [18] Red Hat. "Do you still need GitOps in the era of gen AI?" https://www.redhat.com/en/blog/do-you-still-need-gitops-era-gen-ai
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/gitops/](https://commons-os.github.io/patterns/domain/gitops/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/gitops.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/gitops.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

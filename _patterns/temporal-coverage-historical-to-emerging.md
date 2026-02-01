@@ -154,15 +154,3 @@ This section provides a list of resources for further reading and the sources ci
 [4] Gherardi, S. (1988). The Temporal Dimension in Organizational Studies. *Organization Studies*, *9*(2), 165–184. https://doi.org/10.1177/017084068800900201
 
 [5] "Most important historical trends." (n.d.). *Effective Thesis*. Retrieved from https://www.effectivethesis.org/articles/most-important-historical-trends
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/temporal-coverage-historical-to-emerging/](https://commons-os.github.io/patterns/domain/temporal-coverage-historical-to-emerging/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/temporal-coverage-historical-to-emerging.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/temporal-coverage-historical-to-emerging.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

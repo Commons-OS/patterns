@@ -177,15 +177,3 @@ The Bauhaus Design Philosophy acts as a powerful enabler of collective value cre
 [7] [Why the Bauhaus movement was important for modern ...](https://medleyhome.com/blogs/gather/why-the-bauhaus-movement-was-so-important-for-modern-design)
 
 [8] [The endless influence of the Bauhaus](https://www.bbc.com/culture/article/20171109-the-endless-influence-of-the-bauhaus)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/bauhaus-design-philosophy/](https://commons-os.github.io/patterns/domain/bauhaus-design-philosophy/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/bauhaus-design-philosophy.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/bauhaus-design-philosophy.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -190,15 +190,3 @@ The traditional hierarchical model is fundamentally extractive, designed to conc
 [4] Burns, T., & Stalker, G. M. (1961). *The Management of Innovation*. Tavistock.
 
 [5] Wikipedia. (2026, January 28). *Hierarchical organization*. Retrieved from https://en.wikipedia.org/wiki/Hierarchical_organization
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/traditional-hierarchical-models/](https://commons-os.github.io/patterns/domain/traditional-hierarchical-models/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/traditional-hierarchical-models.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/traditional-hierarchical-models.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

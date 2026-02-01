@@ -279,15 +279,3 @@ The Strategic Alliance Model is a powerful framework for inter-firm collaboratio
 [2] CFI Team. (n.d.). *Strategic Alliances*. Corporate Finance Institute. https://corporatefinanceinstitute.com/resources/management/strategic-alliances/
 
 [3] Huhn, J. (2025, April 15). *10 Strategic Alliance Examples From Top Brands*. Referral Rock. https://referralrock.com/blog/strategic-alliance-examples/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/strategic-alliance-model/](https://commons-os.github.io/patterns/domain/strategic-alliance-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/strategic-alliance-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/strategic-alliance-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

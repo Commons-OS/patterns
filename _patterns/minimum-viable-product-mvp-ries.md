@@ -157,15 +157,3 @@ The MVP pattern is a powerful tool for building adaptive systems and validating 
 [3] Raj, N. (n.d.). *Minimum viable product (MVP): What is it & how to start*. Atlassian. Retrieved from https://www.atlassian.com/agile/product-management/minimum-viable-product
 
 [4] Emerline. (2024, January 24). *AI-Driven MVP: Architecture, Economics & Scaling Risks*. Retrieved from https://emerline.com/blog/ai-driven-mvp-architecture-guide
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/minimum-viable-product-mvp-ries/](https://commons-os.github.io/patterns/domain/minimum-viable-product-mvp-ries/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/minimum-viable-product-mvp-ries.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/minimum-viable-product-mvp-ries.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

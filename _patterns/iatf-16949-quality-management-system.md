@@ -232,15 +232,3 @@ IATF 16949 is a powerful framework for creating economic value and resilience wi
 [4] Automotive Industry Action Group. (2006). *Production Part Approval Process (PPAP)* (4th ed.). AIAG.
 
 [5] Heras-Saizarbitoria, I., & Boiral, O. (2020). The implementation of IATF 16949 and its impact on organizational performance. *International Journal of Quality & Reliability Management*, *37*(6/7), 857–879. https://doi.org/10.1108/IJQRM-07-2019-0235
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/iatf-16949-quality-management-system/](https://commons-os.github.io/patterns/domain/iatf-16949-quality-management-system/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/iatf-16949-quality-management-system.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/iatf-16949-quality-management-system.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

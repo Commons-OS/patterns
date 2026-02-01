@@ -129,15 +129,3 @@ This section assesses the alignment of the Reverse Engineering pattern with the 
 [3] Samuelson, P., & Scotchmer, S. (2002). The law and economics of reverse engineering. *The Yale Law Journal*, *111*(7), 1575-1663.
 [4] Eilam, E. (2005). *Reversing: secrets of reverse engineering*. John Wiley & Sons.
 [5] Chikofsky, E. J., & Cross, J. H. (1990). Reverse engineering and design recovery: a taxonomy. *IEEE Software*, *7*(1), 13-17.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/reverse-engineering/](https://commons-os.github.io/patterns/domain/reverse-engineering/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/reverse-engineering.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/reverse-engineering.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

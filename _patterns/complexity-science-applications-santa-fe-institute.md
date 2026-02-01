@@ -232,15 +232,3 @@ Complexity Science is a powerful intellectual framework that provides the essent
 [4] Anderson, R. A., Crabtree, B. F., Steele, D. J., & McDaniel, R. R. (2005). Case study research: the view from complexity science. *Qualitative health research*, *15*(5), 669–685. https://doi.org/10.1177/1049732305275238
 
 [5] Eoyang, G. H. (2001). *Conditions for self-organizing in human systems*. Just in Time Press.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/universal/32-complexity-science-applications-santa-fe-institute/](https://commons-os.github.io/patterns/universal/32-complexity-science-applications-santa-fe-institute/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/32-complexity-science-applications-santa-fe-institute.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_universal/32-complexity-science-applications-santa-fe-institute.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

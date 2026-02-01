@@ -211,15 +211,3 @@ Gemba Kaizen is a strong enabler of collective value creation, fostering resilie
     4.  [Gemba Kaizen examples - PEX Network](https://www.processexcellencenetwork.com/continuous-improvement/articles/gemba-kaizen-case-studies)
 
     5.  [Gemba Kaizen: A Commonsense Approach to a Continuous Improvement](https://www.amazon.com/Gemba-Kaizen-Commonsense-Continuous-Improvement/dp/0071790357)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/human-universal/gemba-kaizen-shop-floor-improvement/](https://commons-os.github.io/patterns/human-universal/gemba-kaizen-shop-floor-improvement/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/gemba-kaizen-shop-floor-improvement.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_human-universal/gemba-kaizen-shop-floor-improvement.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

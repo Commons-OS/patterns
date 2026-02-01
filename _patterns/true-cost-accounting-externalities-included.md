@@ -159,15 +159,3 @@ True Cost Accounting has the potential to be a powerful tool for building a comm
 8.  [True Cost Accounting: revealing the real cost of food](https://www.wur.nl/en/research/social-and-economic/true-cost-accounting) - Wageningen University & Research
 9.  [True Cost of Food - Johns Hopkins Center for a Livable Future](https://clf.jhsph.edu/projects/true-cost-food)
 10. [True Cost Assessment Methods for Quantifying the Multi ...](https://www.gainhealth.org/resources/reports-and-publications/true-cost-assessment-methods-quantifying-multi-dimensional) - Global Alliance for Improved Nutrition
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/true-cost-accounting-externalities-included/](https://commons-os.github.io/patterns/domain/true-cost-accounting-externalities-included/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/true-cost-accounting-externalities-included.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/true-cost-accounting-externalities-included.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

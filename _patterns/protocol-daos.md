@@ -119,15 +119,3 @@ Protocol DAOs provide a powerful framework for decentralized governance and coll
 [4] [Regulation of Financial Protocol DAOs. Addressing the problems of decentralization and AI governance.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5023440)
 
 [5] [The Future of DAOs is Powered by AI](https://www.aragon.org/how-to/the-future-of-daos-is-powered-by-ai)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/protocol-daos/](https://commons-os.github.io/patterns/domain/protocol-daos/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/protocol-daos.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/protocol-daos.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

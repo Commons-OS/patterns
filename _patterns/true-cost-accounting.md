@@ -134,15 +134,3 @@ For practical examples and case studies, **FoodPrint.org** offers accessible art
 [5] FoodPrint. "Can True Cost Accounting Tell Us More Than a Price Tag?" https://foodprint.org/blog/true-cost-accounting/
 
 [6] Wikipedia. "True cost accounting." https://en.wikipedia.org/wiki/True_cost_accounting
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/true-cost-accounting/](https://commons-os.github.io/patterns/domain/true-cost-accounting/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/true-cost-accounting.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/true-cost-accounting.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -177,15 +177,3 @@ The pattern strongly enables collective value creation by establishing a robust 
 3.  BlackRock. (n.d.). *BlackRock’s overarching approach to stewardship*. Retrieved from https://www.blackrock.com/corporate/insights/investment-stewardship
 4.  Cunha, M. P. e., Rego, A., Clegg, S., & Jarvis, W. P. (2020). Stewardship as process: A paradox perspective. *European Management Journal*, *39*(2), 247–259. https://doi.org/10.1016/j.emj.2020.09.006
 5.  Wikipedia. (n.d.). *Stewardship theory*. Retrieved from https://en.wikipedia.org/wiki/Stewardship_theory
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/stewardship-governance/](https://commons-os.github.io/patterns/domain/stewardship-governance/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/stewardship-governance.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/stewardship-governance.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

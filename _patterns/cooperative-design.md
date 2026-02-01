@@ -156,15 +156,3 @@ Cooperative Design is not merely a tool but a complete architecture for resilien
 
 *   Wikipedia. (n.d.). *Participatory design.* [https://en.wikipedia.org/wiki/Participatory_design](https://en.wikipedia.org/wiki/Participatory_design)
 *   Colorado University. (2020). *Cooperative Design: How Co-ops Center Their Members to Build Better Products, Faster.* [https://www.colorado.edu/lab/medlab/2020/07/15/cooperative-design-how-co-ops-center-their-members-build-better-products-faster](https://www.colorado.edu/lab/medlab/2020/07/15/cooperative-design-how-co-ops-center-their-members-build-better-products-faster)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/cooperative-design/](https://commons-os.github.io/patterns/domain/cooperative-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/cooperative-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/cooperative-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

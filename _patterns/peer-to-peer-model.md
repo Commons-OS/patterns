@@ -236,15 +236,3 @@ The Peer-to-Peer Model is a powerful enabler of collective value creation, align
 [4] Bauwens, M., Kostakis, V., & Pazaitis, A. (2019). *Peer to Peer: The Commons Manifesto*. University of Westminster Press.
 
 [5] Corporate Rebels. (2020, August 22). Two Large-Scale Holacracy Experiments: Zappos.com vs. Bol.com. Retrieved from https://www.corporate-rebels.com/blog/zappos-versus-bol
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/peer-to-peer-model/](https://commons-os.github.io/patterns/domain/peer-to-peer-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/peer-to-peer-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/peer-to-peer-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

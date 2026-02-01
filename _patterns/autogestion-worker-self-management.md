@@ -135,15 +135,3 @@ The following resources provide further information on the theory and practice o
 *   **The Anarchist Library:** A vast collection of texts on anarchism, many of which discuss the theory and practice of worker self-management.
 *   **Democracy at Work:** An organization founded by economist Richard D. Wolff that advocates for worker cooperatives and economic democracy.
 *   **The U.S. Federation of Worker Cooperatives:** A national membership organization for worker cooperatives and democratic workplaces in the United States.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/autogestion-worker-self-management/](https://commons-os.github.io/patterns/domain/autogestion-worker-self-management/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/autogestion-worker-self-management.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/autogestion-worker-self-management.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

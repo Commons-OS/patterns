@@ -121,15 +121,3 @@ For further reading and to gain a deeper understanding of Islamic finance, the f
 *   **World Bank. (2019). *Case Studies on Islamic Finance for Asset Recycling – Malaysia*.** This case study provides a practical example of how Islamic finance has been used to fund a major infrastructure project in Malaysia.
 *   **Salaam Gateway. (2025). *How AI is powering the future of the Islamic economy*.** This article explores the potential of artificial intelligence to transform the Islamic finance industry.
 *   **Fintech Weekly. (2025). *Islamic DeFi: The Future of Shariah-Compliant Fintech on the Blockchain*.** This article discusses the intersection of Islamic finance, decentralized finance (DeFi), and blockchain technology.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/92-islamic-finance-detailed/](https://commons-os.github.io/patterns/context-specific/92-islamic-finance-detailed/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/92-islamic-finance-detailed.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/92-islamic-finance-detailed.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

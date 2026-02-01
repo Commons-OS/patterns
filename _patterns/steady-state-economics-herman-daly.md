@@ -192,15 +192,3 @@ Steady-State Economics provides a powerful and comprehensive framework that stro
 
 
 In conclusion, the steady-state economy offers a compelling and necessary alternative to the current paradigm of perpetual economic growth. It is a pattern that is grounded in the principles of ecological sustainability, social equity, and qualitative development. While the transition to a steady-state economy will be challenging, it is a transition that we must make if we are to create a just and sustainable future for all.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/63-steady-state-economics-herman-daly/](https://commons-os.github.io/patterns/domain/63-steady-state-economics-herman-daly/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/63-steady-state-economics-herman-daly.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/63-steady-state-economics-herman-daly.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -229,15 +229,3 @@ The Vertical Integration Model, in its traditional form, is a conventional, shar
 [4] Harrigan, K. R. (1985). *Vertical Integration, Outsourcing, and Corporate Strategy*. Beard Books.
 
 [5] Perry, M. K. (1989). Vertical integration: determinants and effects. In *Handbook of industrial organization* (Vol. 1, pp. 183-255). Elsevier.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/vertical-integration-model/](https://commons-os.github.io/patterns/domain/vertical-integration-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/vertical-integration-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/vertical-integration-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

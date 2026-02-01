@@ -161,15 +161,3 @@ The Indian Joint Family Business model scores as Transitional because it contain
 3.  [HUF or Trust – What works and when for Indian families? - Sudit K Parekh](https://suditkparekh.com/insights_post/huf-or-trust-what-works-and-when-for-indian-families/)
 4.  [a critical study on Joint Hindu Family Business - Rajasthali](https://rajasthali.marudharacollege.ac.in/papers/Volume-2/Issue-4/08-25.pdf)
 5.  [Joint Hindu Family Firm: Merits, Limitation and Suitability - Your Article Library](https://www.yourarticlelibrary.com/firm/joint-hindu-family-firm-merits-limitation-and-suitability/5192)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/indian-joint-family-business/](https://commons-os.github.io/patterns/domain/indian-joint-family-business/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/indian-joint-family-business.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/indian-joint-family-business.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -194,15 +194,3 @@ The Technology Adoption Lifecycle model is a product of the industrial era and i
 *   **Geoffrey Moore. *Official Website*.** [https://geoffreyamoore.com/](https://geoffreyamoore.com/)
 
 *   **ResearchGate. *Technology Adoption Lifecycle, " The Chasm " , (Moore, 1991)*.** [https://www.researchgate.net/figure/Technology-Adoption-Lifecycle-The-Chasm-Moore-1991_fig2_281060763](https://www.researchgate.net/figure/Technology-Adoption-Lifecycle-The-Chasm-Moore-1991_fig2_281060763)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/technology-adoption-lifecycle-moore/](https://commons-os.github.io/patterns/domain/technology-adoption-lifecycle-moore/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/technology-adoption-lifecycle-moore.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/technology-adoption-lifecycle-moore.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

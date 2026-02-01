@@ -191,15 +191,3 @@ The Kinematics & Dynamics Analysis pattern is a powerful enabler for creating re
 [4] Senge, P. M. (2006). *The Fifth Discipline: The Art & Practice of The Learning Organization*. Doubleday.
 
 [5] Meadows, D. H. (2008). *Thinking in Systems: A Primer*. Chelsea Green Publishing.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/kinematics-dynamics-analysis/](https://commons-os.github.io/patterns/domain/kinematics-dynamics-analysis/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/kinematics-dynamics-analysis.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/kinematics-dynamics-analysis.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

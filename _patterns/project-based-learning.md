@@ -221,15 +221,3 @@ Project-Based Learning is a strong enabler of collective value creation. Its arc
 [4] Zhang, L. (2023). A study of the impact of project-based learning on student learning outcomes. *PLOS ONE*, *18*(8), e0289681. https://doi.org/10.1371/journal.pone.0289681
 [5] Karacalli, S., & Korur, F. (2014). The effects of project-based learning on students’ academic achievement, attitude, and retention of knowledge: The subject of “electricity in our lives”. *School Science and Mathematics*, *114*(5), 224-235. https://doi.org/10.1111/ssm.12071
 [6] Chen, C. H., & Yang, Y. C. (2019). Revisiting the effects of project-based learning on students’ academic achievement: A meta-analysis investigating moderators. *Educational Research Review*, *26*, 71-81. https://doi.org/10.1016/j.edurev.2018.11.001
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/human-universal/72-project-based-learning/](https://commons-os.github.io/patterns/human-universal/72-project-based-learning/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/72-project-based-learning.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_human-universal/72-project-based-learning.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

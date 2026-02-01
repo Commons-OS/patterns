@@ -315,15 +315,3 @@ The Voice of the Customer pattern aligns with several principles of the Commons 
 3.  [The ROI of Voice of the Customer](https://www.nice.com/resources/aberdeen-roi-of-voice-of-the-customer) - NICE
 4.  [What is Voice of the Customer (VoC)? A Complete Guide](https://www.salesforce.com/service/customer-service-operations/voice-of-customer-program/) - Salesforce
 5.  [What is the Voice of the Customer (VoC)?](https://www.qualtrics.com/articles/customer-experience/what-is-voice-of-customer/) - Qualtrics
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/voice-of-the-customer-voc/](https://commons-os.github.io/patterns/domain/voice-of-the-customer-voc/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/voice-of-the-customer-voc.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/voice-of-the-customer-voc.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

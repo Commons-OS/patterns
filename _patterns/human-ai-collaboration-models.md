@@ -221,15 +221,3 @@ This pattern is a strong enabler of collective value creation by effectively com
 [4] Partnership on AI. (n.d.). Retrieved from https://partnershiponai.org/
 
 [5] AI Now Institute. (n.d.). Retrieved from https://ainowinstitute.org/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/human-universal/human-ai-collaboration-models/](https://commons-os.github.io/patterns/human-universal/human-ai-collaboration-models/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/human-ai-collaboration-models.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_human-universal/human-ai-collaboration-models.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

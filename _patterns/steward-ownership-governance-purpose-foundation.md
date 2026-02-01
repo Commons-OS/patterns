@@ -227,15 +227,3 @@ Steward-Ownership provides a complete and robust legal and operational architect
 [4] De Roos, M. (2024, June 10). *Steward-ownership: the key to sustainable success*. De Roos. Retrieved from https://deroos.eu/thought/steward-ownership-the-key-to-sustainable-success
 
 [5] RoundMap. (2023, October 27). *Exploring the Dynamics of Steward Ownership*. Retrieved from https://roundmap.com/exploring-the-dynamics-of-steward-ownership/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/6-steward-ownership-governance-purpose-foundation/](https://commons-os.github.io/patterns/domain/6-steward-ownership-governance-purpose-foundation/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/6-steward-ownership-governance-purpose-foundation.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/6-steward-ownership-governance-purpose-foundation.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

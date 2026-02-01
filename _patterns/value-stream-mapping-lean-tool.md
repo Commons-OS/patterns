@@ -235,15 +235,3 @@ To become more commons-aligned, VSM practitioners should:
 [4] Kumar, S., & Dhingra, A. (2018). Value Stream Mapping (VSM) – A Case Study in Manufacturing Industry. *International Research Journal of Engineering and Technology (IRJET)*, *5*(11), 1159-1164.
 
 [5] Salwin, M., Wieczorowski, M., & Klos, S. (2021). Using Value Stream Mapping to Eliminate Waste: A Case Study of a Steel Pipe Manufacturer. *Energies*, *14*(12), 3527.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/value-stream-mapping-lean-tool/](https://commons-os.github.io/patterns/domain/value-stream-mapping-lean-tool/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/value-stream-mapping-lean-tool.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/value-stream-mapping-lean-tool.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

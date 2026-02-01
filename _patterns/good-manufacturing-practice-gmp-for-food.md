@@ -188,15 +188,3 @@ GMP is a crucial transitional pattern that creates immense social value by ensur
 *   World Health Organization. (n.d.). *Good manufacturing practices*. [https://www.who.int/teams/health-product-policy-and-standards/standards-and-specifications/norms-and-standards/gmp](https://www.who.int/teams/health-product-policy-and-standards/standards-and-specifications/norms-and-standards/gmp)
 *   FoodDocs. (2025). *Good Manufacturing Practices (GMP): 5 P's, 10 Principles*. [https://www.fooddocs.com/post/gmp-good-manufacturing-practices](https://www.fooddocs.com/post/gmp-good-manufacturing-practices)
 *   Electronic Code of Federal Regulations. (n.d.). *21 CFR Part 117 -- Current Good Manufacturing Practice, Hazard Analysis, and Risk-Based Preventive Controls for Human Food*. [https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-117](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-117)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/good-manufacturing-practice-gmp-for-food/](https://commons-os.github.io/patterns/context-specific/good-manufacturing-practice-gmp-for-food/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/good-manufacturing-practice-gmp-for-food.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/good-manufacturing-practice-gmp-for-food.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

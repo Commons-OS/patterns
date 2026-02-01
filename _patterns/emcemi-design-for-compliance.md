@@ -181,15 +181,3 @@ The pattern is a critical enabler for the technological infrastructure upon whic
 [6] Isari, A. A., Ghaffarkhah, A., Hashemi, S. A., et al. (2024). Structural design for EMI shielding: from underlying mechanisms to common pitfalls. *Advanced Materials*, 2310683.
 
 [7] EDRMedeso. (2025, August 18). *Turn Costs into ROI with EMC Simulation*. Retrieved from https://edrmedeso.com/article/turn-costs-into-roi-with-emc-simulation/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/emcemi-design-for-compliance/](https://commons-os.github.io/patterns/domain/emcemi-design-for-compliance/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/emcemi-design-for-compliance.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/emcemi-design-for-compliance.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -155,15 +155,3 @@ DAOs are a powerful Value Creation Enabler, providing a foundational architectur
 3.  [Are DAOs the business structures of the future?](https://www.weforum.org/stories/2022/06/are-dao-the-business-structures-of-the-future/) - World Economic Forum
 4.  [Decentralized Autonomous Organization (DAO)](https://www.investopedia.com/tech/what-dao/) - Investopedia
 5.  [Introduction to Decentralized Autonomous Organizations (DAOs)](https://www.chainalysis.com/blog/introduction-to-decentralized-autonomous-organizations-daos/) - Chainalysis
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/daos-documented/](https://commons-os.github.io/patterns/domain/daos-documented/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/daos-documented.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/daos-documented.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

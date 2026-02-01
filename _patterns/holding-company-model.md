@@ -202,15 +202,3 @@ The Holding Company Model is a powerful tool for managing complexity and risk in
 4.  Daems, H. (2012). *The holding company and corporate control*. Springer Science & Business Media.
 5.  World Bank. (1992). *The state holding company*. World Bank Discussion Paper.
 6.  Chaganti, R., & Damanpour, F. (1991). Institutional ownership, capital structure, and firm performance. *Strategic Management Journal*, 12(7), 479-491.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/holding-company-model/](https://commons-os.github.io/patterns/context-specific/holding-company-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/holding-company-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/holding-company-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

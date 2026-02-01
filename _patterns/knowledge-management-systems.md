@@ -254,15 +254,3 @@ Knowledge Management Systems are powerful tools for collective learning and have
 [5] easygenerator. (n.d.). *The 9 steps to implement a knowledge management process*. Retrieved from https://www.easygenerator.com/en/blog/knowledge-sharing/how-to-launch-an-impactful-knowledge-management-process/
 
 [6] Enterprise Knowledge. (2023, June 28). *Top Knowledge Management Use Cases (with Real World Examples)*. Retrieved from https://enterprise-knowledge.com/top-knowledge-management-use-cases-with-real-world-examples/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/knowledge-management-systems/](https://commons-os.github.io/patterns/domain/knowledge-management-systems/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/knowledge-management-systems.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/knowledge-management-systems.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

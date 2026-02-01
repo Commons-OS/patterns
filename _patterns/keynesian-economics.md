@@ -156,15 +156,3 @@ Keynesian economics has been subject to numerous criticisms since its inception.
 **Ricardian Equivalence:** The theory of Ricardian equivalence, first proposed by the 19th-century economist David Ricardo and later revived by the new classical economist Robert Barro, suggests that expansionary fiscal policy may have no effect on aggregate demand. The argument is that if the government cuts taxes and finances this by borrowing, rational individuals will understand that taxes will have to be raised in the future to pay off the debt. Therefore, they will save the tax cut rather than spending it, in anticipation of future tax increases. As a result, the tax cut will have no effect on aggregate demand. [4]
 
 **Big Government:** Some critics argue that Keynesian economics encourages the growth of “big government.” The argument is that while governments may increase spending during a recession, they are often reluctant to cut spending during a boom. This can lead to a ratcheting up of government spending over time, which can lead to higher taxes and a larger public sector. Milton Friedman famously said, “Nothing was so permanent as a temporary government programme.” [4]
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/keynesian-economics/](https://commons-os.github.io/patterns/domain/keynesian-economics/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/keynesian-economics.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/keynesian-economics.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

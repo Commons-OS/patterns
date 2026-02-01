@@ -251,15 +251,3 @@ Consent-Based Decision Making is a powerful enabler of collective value creation
 [3] Sociocracy for All. (n.d.). *Case studies of sociocracy*. Retrieved from https://www.sociocracyforall.org/case-studies/
 [4] Sykäri, M. M. (2025). Optimizing the social workplace through consent-based co-creation methods. *Journal of Facilities Management, 23*(1), 1-16. https://doi.org/10.1108/f-03-2024-0046
 [5] Giroux, E. E., et al. (2024). A case study of using community-based consensus methods to develop a community-informed research agenda. *Pilot and Feasibility Studies, 10*(1), 1-12. https://doi.org/10.1186/s40814-024-01458-y
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/human-universal/consent-based-decision-making/](https://commons-os.github.io/patterns/human-universal/consent-based-decision-making/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/consent-based-decision-making.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_human-universal/consent-based-decision-making.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

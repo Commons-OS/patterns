@@ -159,15 +159,3 @@ The Rhenish model is a macroeconomic framework and does not have specific "tools
 [5] Hall, P. A., & Soskice, D. (Eds.). (2001). *Varieties of Capitalism: The Institutional Foundations of Comparative Advantage*. Oxford University Press.
 [6] Albert, M. (1991). *Capitalisme contre capitalisme*. Le Seuil.
 [7] Fichtner, J. (2015). Rhenish capitalism meets activist hedge funds: Blockholders and the impact of impatient capital. *Competition & Change*, *19*(4), 285–302. https://doi.org/10.1177/1024529415586324
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/rhenish-capitalism-germany/](https://commons-os.github.io/patterns/domain/rhenish-capitalism-germany/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/rhenish-capitalism-germany.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/rhenish-capitalism-germany.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

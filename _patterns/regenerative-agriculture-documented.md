@@ -203,15 +203,3 @@ Regenerative Agriculture provides a complete architecture for resilient, collect
 3.  [Regenerative Agriculture 101 - NRDC](https://www.nrdc.org/stories/regenerative-agriculture-101)
 4.  [What Is Regenerative Agriculture? - A Review of Scholar and Practitioner Definitions Based on Processes and Outcomes - Frontiers in Sustainable Food Systems](https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2020.577723/full)
 5.  [The Economics of Regenerative Agriculture - USDA](https://www.ars.usda.gov/oc/utm/the-economics-of-regenerative-agriculture)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/regenerative-agriculture-documented/](https://commons-os.github.io/patterns/domain/regenerative-agriculture-documented/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/regenerative-agriculture-documented.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/regenerative-agriculture-documented.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

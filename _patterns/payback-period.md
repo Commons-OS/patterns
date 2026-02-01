@@ -162,15 +162,3 @@ The advent of the Cognitive Era, characterized by the widespread adoption of art
 [1] [Investopedia. (n.d.). *Payback Period: Definition, Formula, and Calculation*.](https://www.investopedia.com/terms/p/paybackperiod.asp)
 [2] [Corporate Finance Institute. (n.d.). *Payback Period*.](https://corporatefinanceinstitute.com/resources/financial-modeling/payback-period/)
 [3] [LaunchNotes. (n.d.). *Payback Period: Definition, Examples, and Applications*.](https://www.launchnotes.com/glossary/payback-period-in-product-management-and-operations)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/payback-period/](https://commons-os.github.io/patterns/domain/payback-period/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/payback-period.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/payback-period.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

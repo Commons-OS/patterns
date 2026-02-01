@@ -178,15 +178,3 @@ User Story Mapping, as an open and collaborative pattern for organizing work, al
 [4] Rogalsky, S. (2014). *User Story Mapping in Practice*. InfoQ. Retrieved from https://www.infoq.com/presentations/user-story-map/
 
 [5] StoriesOnBoard. (2023, November 22). *The AI User Story Map Generator Is Here*. Retrieved from https://storiesonboard.com/blog/ai-user-story-map-generator
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/user-story-mapping/](https://commons-os.github.io/patterns/domain/user-story-mapping/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/user-story-mapping.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/user-story-mapping.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

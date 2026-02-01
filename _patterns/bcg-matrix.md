@@ -110,15 +110,3 @@ The BCG Matrix is a classic industrial-era tool designed for competitive advanta
 3.  Lumen Learning. (n.d.). *BCG Matrix*. Principles of Marketing. Retrieved from https://courses.lumenlearning.com/suny-marketing-spring2016/chapter/reading-the-bcg-matrix/
 4.  Smart Insights. (2022, January 7). *How to use the BCG Matrix model*. Retrieved from https://www.smartinsights.com/marketing-planning/marketing-models/use-bcg-matrix/
 5.  EdrawMind. (n.d.). *Best 15 Free BCG Matrix Examples for Students*. Retrieved from https://edrawmind.wondershare.com/examples/best-10-bcg-matrix-examples-for-students.html
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/bcg-matrix/](https://commons-os.github.io/patterns/domain/bcg-matrix/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/bcg-matrix.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/bcg-matrix.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -215,15 +215,3 @@ The Mittelstand model is a powerful framework that strongly enables resilient, c
     [3] Simon, H. (1992, March-April). Lessons from Germany’s Midsize Giants. *Harvard Business Review*. Retrieved from https://hbr.org/1992/03/lessons-from-germanys-midsize-giants
     [4] Institut für Mittelstandsforschung (IfM) Bonn. (n.d.). *Definitions*. Retrieved January 28, 2026, from https://www.ifm-bonn.org/en/definitions/overview
     [5] Federation of German Industries (BDI). (n.d.). *German Mittelstand*. Retrieved January 28, 2026, from https://english.bdi.eu/topics/germany/german-mittelstand
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/85-mittelstand-german-sme-model/](https://commons-os.github.io/patterns/domain/85-mittelstand-german-sme-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/85-mittelstand-german-sme-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/85-mittelstand-german-sme-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

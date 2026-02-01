@@ -172,15 +172,3 @@ The Garage Startup Culture has significant potential as a transitional pattern. 
 [4] World Economic Forum. (2016, November 3). *Forget the start-up garage myth. We need golden triangles*. [https://www.weforum.org/stories/2016/11/the-startup-garage-myth/](https://www.weforum.org/stories/2016/11/the-startup-garage-myth/)
 
 [5] Rajan, R. (n.d.). From Garage to Glory- Tracing the Evolution of Startup Culture. *LinkedIn*. [https://www.linkedin.com/pulse/from-garage-glory-tracing-evolution-startup-culture-reshma-rajan-7mpfc](https://www.linkedin.com/pulse/from-garage-glory-tracing-evolution-startup-culture-reshma-rajan-7mpfc)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/garage-startup-culture/](https://commons-os.github.io/patterns/domain/garage-startup-culture/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/garage-startup-culture.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/garage-startup-culture.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

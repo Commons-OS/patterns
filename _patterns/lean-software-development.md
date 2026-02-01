@@ -173,15 +173,3 @@ This section provides resources for further learning about Lean Software Develop
 [4] Poppendieck, M., & Poppendieck, T. (2003). *Lean Software Development: An Agile Toolkit*. Addison-Wesley Professional.
 
 [5] GeeksforGeeks. (2025). *Lean Software Development (LSD)*. Retrieved from https://www.geeksforgeeks.org/software-engineering/lean-software-development-lsd/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/lean-software-development/](https://commons-os.github.io/patterns/domain/lean-software-development/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/lean-software-development.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/lean-software-development.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

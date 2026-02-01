@@ -256,15 +256,3 @@ This section provides a curated list of resources for further learning and appli
 [4] XMind. (2024, April 28). *Ansoff Matrix: Strategies and Practical Examples*. Retrieved from https://xmind.com/blog/ansoff-matrix-strategies-examples
 
 [5] Business Model Analyst. (2025, May 31). *10 Ansoff Matrix Examples from Real Companies*. Retrieved from https://businessmodelanalyst.com/ansoff-matrix-examples/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/46-ansoff-matrix-growth-strategies/](https://commons-os.github.io/patterns/domain/46-ansoff-matrix-growth-strategies/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/46-ansoff-matrix-growth-strategies.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/46-ansoff-matrix-growth-strategies.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

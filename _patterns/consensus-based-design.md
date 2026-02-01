@@ -131,15 +131,3 @@ Consensus-Based Design is a powerful enabler of collective value creation, parti
 [4] Koch, B. (2023). *Building Consensus When Making Subjective Design Decisions*. Medium. https://medium.com/@briannakoch/building-consensus-when-making-subjective-design-decisions-7c4dea360e6b
 
 [5] Decker Design. (2019). *Building Consensus With Evidence-Based Design*. https://deckerdesign.com/2019/09/evidence-based-design-process-strengths/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/consensus-based-design/](https://commons-os.github.io/patterns/domain/consensus-based-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/consensus-based-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/consensus-based-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

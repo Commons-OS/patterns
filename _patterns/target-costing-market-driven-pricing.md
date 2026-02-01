@@ -177,15 +177,3 @@ Target Costing receives a transitional score because it contains significant col
 1.  [Corporate Finance Institute. "Target Costing - Key Features, Advantages and Examples."](https://corporatefinanceinstitute.com/resources/accounting/target-costing/)
 2.  [Wikipedia. "Target costing."](https://en.wikipedia.org/wiki/Target_costing)
 3.  [Competera. "Market-Driven vs. Cost-Plus Pricing: Stay Ahead."](https://competera.ai/resources/articles/market-driven-pricing-vs-cost-plus-pricing)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/target-costing-market-driven-pricing/](https://commons-os.github.io/patterns/domain/target-costing-market-driven-pricing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/target-costing-market-driven-pricing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/target-costing-market-driven-pricing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

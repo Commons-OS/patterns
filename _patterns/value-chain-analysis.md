@@ -155,15 +155,3 @@ Value Chain Analysis, as a strategic management tool, can be assessed for its al
 [8] McKinsey & Company. (2023, April 26). *Exploring opportunities in the generative AI value chain*. Retrieved from https://www.mckinsey.com/capabilities/quantumblack/our-insights/exploring-opportunities-in-the-generative-ai-value-chain
 
 [9] Bloomberg. (2025, November 11). *The AI value chain: Understanding the engines of growth*. Retrieved from https://www.bloomberg.com/professional/insights/artificial-intelligence/the-ai-value-chain-understanding-the-engines-of-growth/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/value-chain-analysis/](https://commons-os.github.io/patterns/domain/value-chain-analysis/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/value-chain-analysis.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/value-chain-analysis.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

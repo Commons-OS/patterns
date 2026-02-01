@@ -219,15 +219,3 @@ The Community Land Trust is a powerful enabler of collective value creation, pro
 [5] Lincoln Institute of Land Policy. (2024). *The Effectiveness of Community Land Trusts*. Retrieved from https://www.lincolninst.edu/publications/working-papers/effectiveness-community-land-trusts/
 
 [6] Urban Institute. (2024). *Do Community Land Trusts Improve Resident Outcomes?* Retrieved from https://housingmatters.urban.org/research-summary/do-community-land-trusts-improve-resident-outcomes
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/human-universal/community-land-trust-clt-development-models/](https://commons-os.github.io/patterns/human-universal/community-land-trust-clt-development-models/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/community-land-trust-clt-development-models.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_human-universal/community-land-trust-clt-development-models.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

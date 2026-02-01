@@ -238,15 +238,3 @@ XP is a powerful enabler of collective value creation, particularly in the domai
 [4] Agile Alliance. (n.d.). *What is Extreme Programming (XP)?* Retrieved from https://agilealliance.org/glossary/xp/
 
 [5] Wikipedia. (n.d.). *Extreme programming*. Retrieved from https://en.wikipedia.org/wiki/Extreme_programming
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/extreme-programming-xp-becks-methodology/](https://commons-os.github.io/patterns/implementation/extreme-programming-xp-becks-methodology/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/extreme-programming-xp-becks-methodology.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/extreme-programming-xp-becks-methodology.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

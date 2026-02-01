@@ -254,15 +254,3 @@ The TOWS Matrix is a powerful tool for developing resilience and adaptability, a
 [5] Digital Leadership. (n.d.). *Tows Matrix Analysis Meaning, Template and Examples*. Retrieved from https://digitalleadership.com/unite-articles/tows-matrix/
 
 [6] Ink My Papers. (n.d.). *Unlocking Business Strategy: How Apple, Starbucks, and More Use TOWS Analysis*. Retrieved from https://inkmypapers.sg/unlocking-business-strategy-how-apple-starbucks-and-more-use-tows-analysis/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/40-tows-matrix/](https://commons-os.github.io/patterns/domain/40-tows-matrix/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/40-tows-matrix.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/40-tows-matrix.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

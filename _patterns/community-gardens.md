@@ -230,15 +230,3 @@ The Community Gardens pattern is a powerful enabler for resilient collective val
 [4] Wenger, E., McDermott, R. A., & Snyder, W. (2002). *Cultivating Communities of Practice: A Guide to Managing Knowledge*. Harvard Business Press.
 
 [5] Center for Scientific Collaboration and Community Engagement. (2024, March 6). *Introducing the garden metaphor for exploring community management*. CSCCE. https://www.cscce.org/2024/03/06/introducing-the-garden-metaphor-for-exploring-community-management/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/49-community-gardens/](https://commons-os.github.io/patterns/domain/49-community-gardens/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/49-community-gardens.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/49-community-gardens.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

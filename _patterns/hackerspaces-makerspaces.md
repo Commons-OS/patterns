@@ -161,15 +161,3 @@ Hackerspaces and Makerspaces are powerful enablers of collective value creation,
 [4] Gera, A. D., & Tormo, B. (2016). *What are Makerspaces, Hackerspaces, and Fab Labs?*. [https://www.researchgate.net/publication/304257650_What_are_Makerspaces_Hackerspaces_and_Fab_Labs](https://www.researchgate.net/publication/304257650_What_are_Makerspaces_Hackerspaces_and_Fab_Labs)
 
 [5] Burke, J. J. (2015). *A Field Guide to Makerspaces*. American Libraries Magazine. [https://americanlibrariesmagazine.org/blogs/the-scoop/a-field-guide-to-makerspaces/](https://americanlibrariesmagazine.org/blogs/the-scoop/a-field-guide-to-makerspaces/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/hackerspaces-makerspaces/](https://commons-os.github.io/patterns/domain/hackerspaces-makerspaces/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/hackerspaces-makerspaces.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/hackerspaces-makerspaces.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

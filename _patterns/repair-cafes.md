@@ -136,15 +136,3 @@ Repair Cafés are a powerful enabler of collective value creation, particularly 
 *   Moalem, R. M., & Mosgaard, M. A. (2021). A Critical Review of the Role of Repair Cafés in a Sustainable Circular Transition. *Sustainability*, *13*(22), 12351.
 *   Charter, M. (2019). Practice reflection piece: repair cafes. *Journal of Production and Process Engineering*, *12*(3).
 *   Luukkonen, R. (2024). Exploring the drivers behind visiting repair cafés. *Journal of Cleaner Production*, *442*.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/repair-cafes/](https://commons-os.github.io/patterns/domain/repair-cafes/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/repair-cafes.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/repair-cafes.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -210,15 +210,3 @@ Data Monetization is a fundamental pattern of the current information economy an
 [2] Snowflake. (n.d.). *What Is Data Monetization? Strategies & Examples*. Retrieved from https://www.snowflake.com/en/fundamentals/data-monitization/
 
 [3] Stackpole, B. (2023). *What everybody should know about data monetization*. MIT Sloan. Retrieved from https://mitsloan.mit.edu/ideas-made-to-matter/what-everybody-should-know-about-data-monetization
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/data-monetization-information-economy/](https://commons-os.github.io/patterns/domain/data-monetization-information-economy/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/data-monetization-information-economy.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/data-monetization-information-economy.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

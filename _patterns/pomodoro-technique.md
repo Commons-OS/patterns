@@ -155,15 +155,3 @@ The Commons Alignment Assessment evaluates the Pomodoro Technique against seven 
 *   [The Pomodoro Technique by Todoist](https://todoist.com/productivity-methods/pomodoro-technique)
 *   [Pomodoro Technique: History, Steps, Benefits, and Drawbacks by Verywell Mind](https://www.verywellmind.com/pomodoro-technique-history-steps-benefits-and-drawbacks-6892111)
 *   Nöteberg, S. (2010). *Pomodoro Technique Illustrated*. Raleigh, N.C: Pragmatic Bookshelf.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/pomodoro-technique/](https://commons-os.github.io/patterns/implementation/pomodoro-technique/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/pomodoro-technique.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/pomodoro-technique.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

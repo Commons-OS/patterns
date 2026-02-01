@@ -201,15 +201,3 @@ Value Chain Coordination is highly aligned with the principles of a commons-base
 [4] Salesforce. (n.d.). *Value Chain: Definition, Benefits, and Examples*. Retrieved from https://www.salesforce.com/sales/value-chain/
 
 [5] Seattle University. (2024, April 19). *Value Chain Examples: Supply Chain Analysis for Competitive Advantage*. Retrieved from https://www.seattleu.edu/business/online/albers/blog/value-chain-examples-supply-chain-analysis-for-competitive-advantage
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/value-chain-coordination/](https://commons-os.github.io/patterns/domain/value-chain-coordination/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/value-chain-coordination.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/value-chain-coordination.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

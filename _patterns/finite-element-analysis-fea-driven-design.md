@@ -199,15 +199,3 @@ FEA Driven Design is a powerful enabler of resilient value creation, particularl
 [4] Epsilon Forge. (2025, February 14). *Best Open-Source Finite Element Analysis Software*. Retrieved from https://www.epsilonforge.com/post/best-open-source-finite-elements/
 
 [5] Zhu, J., Zhou, H., Wang, C., Zhou, L., Yuan, S., & Zhang, W. (2021). A review of topology optimization for additive manufacturing: Status and challenges. *Chinese Journal of Aeronautics*, 34(1), 91-110.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/finite-element-analysis-fea-driven-design/](https://commons-os.github.io/patterns/domain/finite-element-analysis-fea-driven-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/finite-element-analysis-fea-driven-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/finite-element-analysis-fea-driven-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

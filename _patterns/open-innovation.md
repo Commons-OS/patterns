@@ -306,15 +306,3 @@ Open Innovation is a powerful enabler of collective value creation, marking a si
 [4] West, J., & Gallagher, S. (2006). Challenges of open innovation: the paradox of firm investment in open-source software. *R&D Management*, *36*(3), 319-331.
 
 [5] Laursen, K., & Salter, A. (2006). Open for innovation: the role of openness in explaining innovation performance among UK manufacturing firms. *Strategic Management Journal*, *27*(2), 131-150.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/15-open-innovation/](https://commons-os.github.io/patterns/domain/15-open-innovation/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/15-open-innovation.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/15-open-innovation.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -266,15 +266,3 @@ The Commons Alignment Assessment evaluates how well the Requirements Engineering
 [4] IAG Consulting. (2009). *Business Analysis Benchmark*. [https://www.iag.biz/](https://www.iag.biz/)
 
 [5] Wikipedia. (2023). *Requirements engineering*. [https://en.wikipedia.org/wiki/Requirements_engineering](https://en.wikipedia.org/wiki/Requirements_engineering)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/requirements-engineering/](https://commons-os.github.io/patterns/domain/requirements-engineering/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/requirements-engineering.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/requirements-engineering.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

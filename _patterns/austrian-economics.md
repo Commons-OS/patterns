@@ -174,15 +174,3 @@ For those interested in further exploring the Austrian School of Economics, a we
 [4] Caplan, B. (n.d.). *Why I Am Not an Austrian Economist*. Retrieved October 27, 2024, from https://econfaculty.gmu.edu/bcaplan/whyaust.htm
 
 [5] Pettinger, T. (2022, November 18). *Criticism of Austrian Economics*. Economics Help. Retrieved October 27, 2024, from https://www.economicshelp.org/blog/glossary/criticism-austrian-economics/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/austrian-economics/](https://commons-os.github.io/patterns/domain/austrian-economics/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/austrian-economics.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/austrian-economics.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

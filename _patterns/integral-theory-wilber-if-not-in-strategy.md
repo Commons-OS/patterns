@@ -238,15 +238,3 @@ Finally, Integral Theory's emphasis on the development of consciousness and the 
 [4] Wilber, K. (2006). *Integral Spirituality: A Startling New Role for Religion in the Modern and Postmodern World*. Shambhala Publications.
 
 [5] Wilber, K., Patten, T., Leonard, A., & Morelli, M. (2008). *Integral Life Practice: A 21st-Century Blueprint for Physical Health, Emotional Balance, Mental Clarity, and Spiritual Awakening*. Integral Books.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/integral-theory-wilber-if-not-in-strategy/](https://commons-os.github.io/patterns/domain/integral-theory-wilber-if-not-in-strategy/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/integral-theory-wilber-if-not-in-strategy.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/integral-theory-wilber-if-not-in-strategy.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -107,15 +107,3 @@ BCI Design is a powerful enabler of individual autonomy and social value, demons
 [4] Wolpaw, J. R., & Wolpaw, E. W. (Eds.). (2012). *Brain-Computer Interfaces: Principles and Practice*. Oxford University Press. https://academic.oup.com/book/1700
 
 [5] Wolpaw, J. R., Millán, J. R., & Ramsey, N. F. (2020). Brain-computer interfaces: definitions and principles. In *Handbook of clinical neurology* (Vol. 168, pp. 15-23). Elsevier. https://www.sciencedirect.com/science/article/pii/B9780444639349000020
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/brain-computer-interface-bci-design/](https://commons-os.github.io/patterns/domain/brain-computer-interface-bci-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/brain-computer-interface-bci-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/brain-computer-interface-bci-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

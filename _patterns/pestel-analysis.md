@@ -256,15 +256,3 @@ PESTEL analysis is a powerful tool for building organizational resilience and ad
 [4] OnStrategy. (2022, December 9). *PESTLE Analysis Example I 6 Real-World Companies + Free Guide*. Retrieved from https://onstrategyhq.com/resources/pestle-analysis-examples/
 
 [5] Porter, M. E. (1980). *Competitive Strategy: Techniques for Analyzing Industries and Competitors*. New York: Free Press.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/50-pestel-analysis/](https://commons-os.github.io/patterns/domain/50-pestel-analysis/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/50-pestel-analysis.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/50-pestel-analysis.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

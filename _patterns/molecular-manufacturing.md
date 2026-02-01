@@ -203,15 +203,3 @@ Molecular Manufacturing has unparalleled potential to be a Value Creation Archit
 [18] Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
 
 [19] ETC Group. (2003). *The Big Down: Atomtech, Nanotechnology and the Big, Broad, and Bumpy Road to the Post-Human Future*. Retrieved from http://www.etcgroup.org/content/big-down
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/molecular-manufacturing/](https://commons-os.github.io/patterns/context-specific/molecular-manufacturing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/molecular-manufacturing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/molecular-manufacturing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

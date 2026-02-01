@@ -244,15 +244,3 @@ The value-creation logic of 5S is inherently fractal. The core principles of 'So
 
 *   Monnanyana, O., & Gupta, K. (2021). A Case Study on Implementation of 5S in a Manufacturing Plant to Improve Operational Effectiveness. *MATEC Web of Conferences*, *346*, 03109. https://doi.org/10.1051/matecconf/202134603109
 *   Womack, J. P., Jones, D. T., & Roos, D. (1990). *The Machine That Changed the World*. Rawson Associates.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/20-5s-methodology/](https://commons-os.github.io/patterns/implementation/20-5s-methodology/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/20-5s-methodology.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/20-5s-methodology.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

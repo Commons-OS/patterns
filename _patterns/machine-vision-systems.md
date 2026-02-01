@@ -240,15 +240,3 @@ Machine Vision Systems are a powerful enabler of automated value creation and a 
 [4] MarketsandMarkets. (2025, May 19). *Machine Vision Market*. Retrieved from https://www.marketsandmarkets.com/ResearchInsight/industrial-machine-vision-market.asp
 
 [5] Elementary. (2025, July 8). *20 Applications of Machine Vision in Manufacturing*. Retrieved from https://www.elementaryml.com/blog/machine-vision-applications-in-manufacturing-20-real-world-examples
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/machine-vision-systems/](https://commons-os.github.io/patterns/domain/machine-vision-systems/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/machine-vision-systems.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/machine-vision-systems.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

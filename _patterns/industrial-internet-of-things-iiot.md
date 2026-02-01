@@ -168,15 +168,3 @@ IIoT scores as a strong Value Creation Enabler because it provides the foundatio
 [2] Wikipedia. (2023, October 26). *Industrial internet of things*. Retrieved from https://en.wikipedia.org/wiki/Industrial_internet_of_things
 
 [3] SAP. (n.d.). *IIoT: The Future of Manufacturing*. Retrieved from https://www.sap.com/products/scm/industry-4-0/what-is-iiot.html
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/industrial-internet-of-things-iiot/](https://commons-os.github.io/patterns/domain/industrial-internet-of-things-iiot/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/industrial-internet-of-things-iiot.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/industrial-internet-of-things-iiot.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

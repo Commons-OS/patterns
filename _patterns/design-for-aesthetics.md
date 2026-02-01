@@ -139,15 +139,3 @@ The "Design for Aesthetics" pattern is a powerful enabler of collective value cr
 [4] Lidwell, W., Holden, K., & Butler, J. (2003). *Universal Principles of Design*. Rockport Publishers.
 
 [5] Forsey, J. (2013). *The Aesthetics of Design*. Oxford University Press.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/design-for-aesthetics/](https://commons-os.github.io/patterns/domain/design-for-aesthetics/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/design-for-aesthetics.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/design-for-aesthetics.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

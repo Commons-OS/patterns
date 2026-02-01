@@ -158,15 +158,3 @@ The following resources provide further information on AI-Assisted Engineering O
 *   **nTopology:** A specialized software platform for advanced engineering design, with a focus on generative design and topology optimization.
 *   **Siemens NX:** A comprehensive product development solution that integrates generative design with digital twin technology.
 *   **MSC Apex Generative Design:** A tool focused on creating high-precision metal components using generative design.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/ai-assisted-engineering-optimization/](https://commons-os.github.io/patterns/domain/ai-assisted-engineering-optimization/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/ai-assisted-engineering-optimization.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/ai-assisted-engineering-optimization.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

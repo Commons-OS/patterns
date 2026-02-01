@@ -141,15 +141,3 @@ The Spiral Model is a transitional pattern that strongly enables resilience and 
     *   Boehm, B., & Lane, J. A. (2014). *The incremental commitment spiral model: Principles and practices for successful systems and software*. Addison-Wesley Professional.
     *   GeeksforGeeks. (2026, January 19). *Spiral Model in Software Engineering*. GeeksforGeeks. Retrieved January 28, 2026, from https://www.geeksforgeeks.org/software-engineering/software-engineering-spiral-model/
     *   Wikipedia contributors. (2024, November 19). Spiral model. In *Wikipedia, The Free Encyclopedia*. Retrieved January 28, 2026, from https://en.wikipedia.org/wiki/Spiral_model
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/spiral-model/](https://commons-os.github.io/patterns/domain/spiral-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/spiral-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/spiral-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

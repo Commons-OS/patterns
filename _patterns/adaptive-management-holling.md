@@ -132,15 +132,3 @@ The following resources provide further information on Adaptive Management and i
 [4] McLain, R. J., & Lee, R. G. (1996). Adaptive management: promises and pitfalls. *Environmental management, 20*(4), 437-448. Retrieved from https://link.springer.com/article/10.1007/BF01474647
 
 [5] Walters, C. J. (2007). Is adaptive management helping to solve fisheries problems?. *AMBIO: A journal of the human environment, 36*(4), 304-307. Retrieved from https://bioone.org/journals/ambio-a-journal-of-the-human-environment/volume-36/issue-4/0044-7447_2007_36_304_IAMHTS_2.0.CO_2/Is-Adaptive-Management-Helping-to-Solve-Fisheries-Problems/10.1579/0044-7447(2007)36[304:IAMHTS]2.0.CO;2.short
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/adaptive-management-holling/](https://commons-os.github.io/patterns/domain/adaptive-management-holling/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/adaptive-management-holling.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/adaptive-management-holling.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

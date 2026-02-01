@@ -185,15 +185,3 @@ Concurrent Engineering is a powerful enabler of collective value creation, parti
 [22] Lu, S. C. Y. (1990). An evolving challenge in CIM research. *Robotics and Computer-Integrated Manufacturing*, *7*(1-2), 1-12.
 
 [23] Fudzin, A. F., & Fathurohman, A. (2022). Collaborative Design in Concurrent Engineering of Industry 4.0. In *International Conference on Industrial Engineering and Operations Management*.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/concurrent-engineering/](https://commons-os.github.io/patterns/domain/concurrent-engineering/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/concurrent-engineering.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/concurrent-engineering.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

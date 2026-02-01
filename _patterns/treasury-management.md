@@ -200,15 +200,3 @@ A commons-oriented approach to treasury management is guided by a clear sense of
 [4] "What is Treasury Management?" Modern Treasury, accessed January 28, 2026, https://www.moderntreasury.com/learn/treasury-management.
 
 [5] "Treasury management," Wikipedia, accessed January 28, 2026, https://en.wikipedia.org/wiki/Treasury_management.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/treasury-management/](https://commons-os.github.io/patterns/domain/treasury-management/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/treasury-management.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/treasury-management.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

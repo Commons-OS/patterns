@@ -223,15 +223,3 @@ Competency-Based Education strongly enables collective value creation by shiftin
 [4] CAEL. (2017, August 9). *New University of Wisconsin-Extension Case Study Looks at Competency-Based Education Success*. Retrieved from [https://www.cael.org/resouces/pathways-blog/new-university-of-wisconsin-extension-case-study-looks-at-competency-based-education-success](https://www.cael.org/resouces/pathways-blog/new-university-of-wisconsin-extension-case-study-looks-at-competency-based-education-success)
 
 [5] Universities of Wisconsin. (n.d.). *CBE Case Study Archive*. Retrieved from [https://ce.uwex.edu/cbe-case-study/](https://ce.uwex.edu/cbe-case-study/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/74-competency-based-education/](https://commons-os.github.io/patterns/context-specific/74-competency-based-education/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/74-competency-based-education.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/74-competency-based-education.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

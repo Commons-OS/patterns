@@ -204,15 +204,3 @@ The Strategy Diamond is a powerful tool for creating a coherent and focused orga
     3.  Oregon State University. (n.d.). *The Strategy Diamond*. In Strategic Management. Retrieved from https://open.oregonstate.education/strategicmanagement/chapter/6-the-strategy-diamond/
     4.  de Bruin, L. (2016, October 31). *Business Strategy EXPLAINED with EXAMPLES from IKEA*. Business-to-you.com. Retrieved from https://www.business-to-you.com/what-is-strategy/
     5.  Hambrick, D. C., & Fredrickson, J. W. (2005). Are you sure you have a strategy? *Academy of Management Executive, 19*(4), 51-62.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/47-strategy-diamond-hambrick-frederickson/](https://commons-os.github.io/patterns/domain/47-strategy-diamond-hambrick-frederickson/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/47-strategy-diamond-hambrick-frederickson.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/47-strategy-diamond-hambrick-frederickson.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

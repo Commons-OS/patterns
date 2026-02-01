@@ -184,15 +184,3 @@ The Southeast Asian Family Business model is a powerful engine for long-term eco
 [4] PwC. (2023). *Family Business Survey 2023: Southeast Asia*. Retrieved from https://www.pwc.com/sg/en/publications/family-business-survey-2023.html
 
 [5] Deloitte. (2022). *The future of family businesses in Southeast Asia*. Retrieved from https://www2.deloitte.com/content/dam/Deloitte/sg/Documents/deloitte-private/sea-dp-future-of-family-businesses-in-southeast-asia-report-noexp.pdf
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/southeast-asian-family-business/](https://commons-os.github.io/patterns/domain/southeast-asian-family-business/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/southeast-asian-family-business.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/southeast-asian-family-business.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

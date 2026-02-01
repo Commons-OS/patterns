@@ -222,15 +222,3 @@ The DBTL cycle is a powerful and highly effective framework for creating value, 
 1.  [DBTL Approach in Synthetic Biology](https://www.moleculardevices.com/applications/synthetic-biology/dbtl-approach)
 2.  [LDBT instead of DBTL: combining machine learning and rapid cell-free testing](https://www.nature.com/articles/s41467-025-65281-2)
 3.  [Synthetic biology: Learning the way toward high-precision biological design](https://pmc.ncbi.nlm.nih.gov/articles/PMC10231942/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/synthetic-biology-design-build-test-learn-cycle/](https://commons-os.github.io/patterns/domain/synthetic-biology-design-build-test-learn-cycle/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/synthetic-biology-design-build-test-learn-cycle.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/synthetic-biology-design-build-test-learn-cycle.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -163,15 +163,3 @@ Poka-Yoke has a moderate alignment with the principles of a commons-based econom
 [4] [What is Poka-Yoke? Mistake & Error Proofing | ASQ](https://asq.org/quality-resources/mistake-proofing)
 
 [5] [Poka-yoke - Wikipedia](https://en.wikipedia.org/wiki/Poka-yoke)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/poka-yoke-mistake-proofing/](https://commons-os.github.io/patterns/domain/poka-yoke-mistake-proofing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/poka-yoke-mistake-proofing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/poka-yoke-mistake-proofing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

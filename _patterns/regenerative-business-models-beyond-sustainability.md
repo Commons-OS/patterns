@@ -264,15 +264,3 @@ This pattern provides a complete, robust, and holistic architecture for resilien
 [5] Storywork Studio. (2025, July 10). *The 7 First Principles of Regenerative Business*. https://storywork.studio/blog/the-7-first-principles-of-regenerative-business
 
 [6] The Living Core. (2025, March 12). *AI as an Enabler of Regenerative Change*. https://www.thelivingcore.com/en/ai-as-an-enabler-of-regenerative-change/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/regenerative-business-models-beyond-sustainability/](https://commons-os.github.io/patterns/domain/regenerative-business-models-beyond-sustainability/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/regenerative-business-models-beyond-sustainability.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/regenerative-business-models-beyond-sustainability.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

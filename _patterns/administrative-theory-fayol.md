@@ -171,15 +171,3 @@ UKE, C. P. (2015). Henry Fayol’s 14 principles of management: Implications for
 McNamara, D. E. (2009). From Fayol's Mechanistic To Today's Organic Functions Of Management. American Journal of Business Education (AJBE), 2(1).
 
 Bacud, S. A. (2020). Henri fayol's principles of management and its effect to organizational leadership and governance. International Journal of Advanced Engineering, Management and Science, 6(11), 759-765.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/administrative-theory-fayol/](https://commons-os.github.io/patterns/domain/administrative-theory-fayol/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/administrative-theory-fayol.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/administrative-theory-fayol.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

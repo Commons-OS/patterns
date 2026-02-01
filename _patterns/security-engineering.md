@@ -163,15 +163,3 @@ Overall, security engineering has a moderate to high alignment with the principl
 
 [1] "Security engineering - Wikipedia." [Online]. Available: https://en.wikipedia.org/wiki/Security_engineering
 [2] "Principles of security - OWASP Developer Guide." [Online]. Available: https://devguide.owasp.org/en/02-foundations/03-security-principles/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/security-engineering/](https://commons-os.github.io/patterns/domain/security-engineering/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/security-engineering.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/security-engineering.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

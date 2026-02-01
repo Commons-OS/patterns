@@ -163,15 +163,3 @@ For a deeper understanding and practical application of Activity-Based Costing, 
 *   UPMC's use of ABC in healthcare demonstrates the applicability of the methodology beyond manufacturing: [https://www.healthcatalyst.com/learn/success-stories/activity-based-costing-in-healthcare-service-lines-upmc](https://www.healthcatalyst.com/learn/success-stories/activity-based-costing-in-healthcare-service-lines-upmc)
 
 These resources provide a solid starting point for anyone looking to learn more about Activity-Based Costing and its potential to improve organizational performance. They offer a blend of theoretical foundations, practical guidance, and real-world examples that can help to inform and guide the implementation of ABC in a variety of contexts.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/activity-based-costing-abc-cost-allocation/](https://commons-os.github.io/patterns/domain/activity-based-costing-abc-cost-allocation/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/activity-based-costing-abc-cost-allocation.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/activity-based-costing-abc-cost-allocation.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -275,15 +275,3 @@ The DAMA-DMBOK framework is a powerful and essential tool for creating order and
     [4] Ruslan, I. F., Alby, M. F., & Lubis, M. (2022). Applying Data Governance using DAMA-DMBOK 2 Framework: The Case for Human Capital Management Operations. In *2022 The 8th International Conference on Industrial and Business Engineering (ICIBE 2022)*. Association for Computing Machinery. Retrieved from https://dl.acm.org/doi/fullHtml/10.1145/3568834.3568866
 
     [5] OvalEdge. (2025, December 18). *What Is DAMA-DMBOK? A Complete Data Governance Framework Guide*. Retrieved from https://www.ovaledge.com/blog/dama-dmbok-data-governance-framework
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/25-data-governance-frameworks-dama/](https://commons-os.github.io/patterns/implementation/25-data-governance-frameworks-dama/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/25-data-governance-frameworks-dama.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/25-data-governance-frameworks-dama.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

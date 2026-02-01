@@ -133,15 +133,3 @@ For organizations looking to implement or improve their benchmarking practices, 
 [4] Bain & Company. "Management Tools - Benchmarking." Accessed January 28, 2026. https://www.bain.com/insights/management-tools-benchmarking/
 
 [5] Harvard Business Review. "What Is Benchmarking?" Accessed January 28, 2026. https://hbr.org/1992/09/what-is-benchmarking
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/benchmarking/](https://commons-os.github.io/patterns/domain/benchmarking/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/benchmarking.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/benchmarking.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

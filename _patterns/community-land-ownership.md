@@ -154,15 +154,3 @@ Community Land Ownership is a complete and proven architecture for resilient, co
 [1] Center for Community Investment. (2024). *Exploring Community Land Ownership: Executive Summary*. https://centerforcommunityinvestment.org/wp-content/uploads/2024/02/Exploring-Community-Land-Ownership-Executive-Summary.pdf
 
 [2] Loh, T. H., & Love, H. (2021). *The emerging solidarity economy: A primer on community ownership of real estate*. Brookings Institution. https://www.brookings.edu/articles/the-emerging-solidarity-economy-a-primer-on-community-ownership-of-real-estate/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/community-land-ownership/](https://commons-os.github.io/patterns/domain/community-land-ownership/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/community-land-ownership.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/community-land-ownership.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

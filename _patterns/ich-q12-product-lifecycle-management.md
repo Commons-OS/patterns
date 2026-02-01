@@ -166,15 +166,3 @@ ICH Q12 is a powerful framework that strongly enables resilient value creation w
 *   U.S. Food and Drug Administration. (2021). *Q12 Technical and Regulatory Considerations for Pharmaceutical Product Lifecycle Management Guidance for Industry*. [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/q12-technical-and-regulatory-considerations-pharmaceutical-product-lifecycle-management-guidance](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/q12-technical-and-regulatory-considerations-pharmaceutical-product-lifecycle-management-guidance)
 *   ISPE. (2020). *ICH Q12: A Transformational Product Life-Cycle Management*. Pharmaceutical Engineering. [https://ispe.org/pharmaceutical-engineering/may-june-2020/ich-q12-transformational-product-life-cycle-management](https://ispe.org/pharmaceutical-engineering/may-june-2020/ich-q12-transformational-product-life-cycle-management)
 *   Advarra. (2022). *Pharmaceutical Product Lifecycle Management & ICH Q12*. [https://www.advarra.com/blog/pharmaceutical-product-lifecycle-management/](https://www.advarra.com/blog/pharmaceutical-product-lifecycle-management/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/ich-q12-product-lifecycle-management/](https://commons-os.github.io/patterns/domain/ich-q12-product-lifecycle-management/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/ich-q12-product-lifecycle-management.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/ich-q12-product-lifecycle-management.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

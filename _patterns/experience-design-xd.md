@@ -179,15 +179,3 @@ The Commons Alignment Assessment evaluates how well the Experience Design patter
 [4] Forrester Research. (as cited in CreateApe). *The ROI of UX*. [https://www.createape.com/insight/the-roi-of-ux-how-better-designs-create-more-revenue](https://www.createape.com/insight/the-roi-of-ux-how-better-designs-create-more-revenue)
 
 [5] Design Management Institute. (as cited in multiple sources). *Design-driven companies outperform S&P 500 by 219%*.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/experience-design-xd/](https://commons-os.github.io/patterns/domain/experience-design-xd/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/experience-design-xd.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/experience-design-xd.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

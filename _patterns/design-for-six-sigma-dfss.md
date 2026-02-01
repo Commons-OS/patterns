@@ -129,15 +129,3 @@ A wealth of resources is available for those looking to learn more about and imp
 [4] Praxie. (n.d.). *AI: Redefining Design for Six Sigma in Manufacturing*. Retrieved from https://praxie.com/artificial-intelligence-ai-digital-manufacturing-design-for-six-sigma/
 
 [5] Franza, R. M., & Chakravorty, S. S. (2007). Design for Six Sigma (DFSS): A Case Study. *2007 Portland International Conference on Management of Engineering & Technology*, 2394-2400.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/design-for-six-sigma-dfss/](https://commons-os.github.io/patterns/domain/design-for-six-sigma-dfss/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/design-for-six-sigma-dfss.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/design-for-six-sigma-dfss.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

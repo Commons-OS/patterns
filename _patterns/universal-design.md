@@ -198,15 +198,3 @@ The Commons Alignment Assessment evaluates how well the Universal Design pattern
 [4] CAST. (n.d.). *Case Studies*. Retrieved from [https://www.cast.org/our-impact/case-studies/](https://www.cast.org/our-impact/case-studies/)
 
 [5] World Bank. (n.d.). *Disability Inclusion*. Retrieved from [https://www.worldbank.org/en/topic/disability](https://www.worldbank.org/en/topic/disability)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/universal-design/](https://commons-os.github.io/patterns/domain/universal-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/universal-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/universal-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

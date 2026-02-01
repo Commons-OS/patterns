@@ -144,15 +144,3 @@ The Beneficial AI pattern is a powerful enabler for creating collective value by
 [4] Future of Life Institute. "Artificial Intelligence." https://futureoflife.org/focus-area/artificial-intelligence/
 
 [5] Xsolis. "4 Case Studies of Successful Clinical Applications of AI in Healthcare." https://www.xsolis.com/blog/case-studies-of-successful-implementations-of-ai-in-healthcare/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/beneficial-ai/](https://commons-os.github.io/patterns/domain/beneficial-ai/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/beneficial-ai.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/beneficial-ai.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -230,15 +230,3 @@ This section provides a curated list of resources for further exploration of con
     3. Arkley, A. (2024, January 17). *Conflict Resolution Models And How To Use Them At Work*. PurpleCV. https://purplecv.co.uk/blog/conflict-resolution-model
     4. Lacity, M., & Willcocks, L. (2017). Conflict resolution in business services outsourcing relationships. *The Journal of Strategic Information Systems*, *26*(2), 87-109. https://doi.org/10.1016/j.jsis.2017.03.002
     5. CPD Online. (2024, September 25). *Case Study: Successful Conflict Management in Workplace Scenarios*. CPD Online College. https://cpdonline.co.uk/knowledge-base/business/case-study-successful-conflict-management-workplace-scenarios/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/conflict-resolution-models/](https://commons-os.github.io/patterns/domain/conflict-resolution-models/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/conflict-resolution-models.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/conflict-resolution-models.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

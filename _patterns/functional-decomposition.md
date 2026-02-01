@@ -185,15 +185,3 @@ Functional Decomposition receives a transitional score because while it is a pow
 [6] Functions Decomposition in Software Engineering. (2025, July 23). *GeeksforGeeks*. [https://www.geeksforgeeks.org/functions-decomposition-in-software-engineering/](https://www.geeksforgeeks.org/functions-decomposition-in-software-engineering/)
 
 [7] Functional Decomposition: Definition, Diagrams, and Examples. (2023, February 1). *Investopedia*. [https://www.investopedia.com/terms/f/functional-decomposition.asp](https://www.investopedia.com/terms/f/functional-decomposition.asp)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/functional-decomposition/](https://commons-os.github.io/patterns/domain/functional-decomposition/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/functional-decomposition.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/functional-decomposition.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

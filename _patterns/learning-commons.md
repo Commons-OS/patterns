@@ -242,15 +242,3 @@ The Learning Commons is a powerful enabler of collective value creation, with st
 [5] Lo, P., Chan, A. W. K., & Tang, A. W. M. (2018). The impact of the learning commons on the academic performance of university students: A case study. *Journal of Academic Librarianship*, *44*(1), 146-153.
 
 [6] Bennett, S. (2009). Libraries and learning: The third kind of place. *Journal of Library Administration*, *49*(1-2), 1-13.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/human-universal/learning-commons/](https://commons-os.github.io/patterns/human-universal/learning-commons/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/learning-commons.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_human-universal/learning-commons.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

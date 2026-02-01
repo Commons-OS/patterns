@@ -251,15 +251,3 @@ The Planetary Boundaries framework is a powerful enabler of resilient value crea
 [4] Boston Consulting Group. (n.d.). *Planetary Boundaries*. Retrieved from https://www.bcg.com/capabilities/climate-change-sustainability/nature-based-solutions/planetary-boundaries
 
 [5] Stockholm Resilience Centre. (n.d.). *Planetary boundaries*. Retrieved from https://www.stockholmresilience.org/research/planetary-boundaries.html
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/9-planetary-boundaries-stockholm-resilience/](https://commons-os.github.io/patterns/domain/9-planetary-boundaries-stockholm-resilience/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/9-planetary-boundaries-stockholm-resilience.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/9-planetary-boundaries-stockholm-resilience.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

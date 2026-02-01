@@ -233,15 +233,3 @@ Emotional Intelligence is a powerful enabler of collective value creation, parti
 *   Salovey, P., & Mayer, J. D. (1990). Emotional intelligence. *Imagination, Cognition and Personality*, *9*(3), 185-211.
 *   The Consortium for Research on Emotional Intelligence in Organizations. (n.d.). *The Business Case for Emotional Intelligence*. Retrieved from [https://www.eiconsortium.org/reports/business_case_for_ei.html](https://www.eiconsortium.org/reports/business_case_for_ei.html)
 *   TSW. (2025, October 6). *Daniel Goleman's Emotional Intelligence*. TSW Training. Retrieved from [https://www.tsw.co.uk/blog/leadership-and-management/daniel-goleman-emotional-intelligence/](https://www.tsw.co.uk/blog/leadership-and-management/daniel-goleman-emotional-intelligence/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/81-emotional-intelligence-goleman/](https://commons-os.github.io/patterns/domain/81-emotional-intelligence-goleman/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/81-emotional-intelligence-goleman.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/81-emotional-intelligence-goleman.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

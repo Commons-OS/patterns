@@ -262,15 +262,3 @@ SAFe is a transitional pattern with significant potential to enable collective v
 [4] Toptal. (n.d.). *SAFe Case Studies: Transformation Notes From the Field*. Toptal. Retrieved from https://www.toptal.com/project-managers/scaled-agile-framework/safe-case-studies
 
 [5] Scaled Agile, Inc. (n.d.). *Customer Stories*. Scaled Agile. Retrieved from https://scaledagile.com/insights-customer-stories/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/scaled-agile-framework-safe/](https://commons-os.github.io/patterns/domain/scaled-agile-framework-safe/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/scaled-agile-framework-safe.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/scaled-agile-framework-safe.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

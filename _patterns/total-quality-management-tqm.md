@@ -171,15 +171,3 @@ Overall, TQM has a moderate alignment with the principles of a commons-based app
 [4] "The impact of Total Quality Management on organizational ... - IJBSS." [https://ijbss.thebrpi.org/journals/Vol_8_No_1_January_2017/20.pdf](https://ijbss.thebrpi.org/journals/Vol_8_No_1_January_2017/20.pdf)
 
 [5] "TQM in the Digital Age: Technology's Role in Quality ... - Octapull." [https://octapull.com/en/blog/tqm-in-digital-age](https://octapull.com/en/blog/tqm-in-digital-age)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/total-quality-management-tqm/](https://commons-os.github.io/patterns/domain/total-quality-management-tqm/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/total-quality-management-tqm.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/total-quality-management-tqm.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

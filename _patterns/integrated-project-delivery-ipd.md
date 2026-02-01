@@ -159,15 +159,3 @@ IPD is a powerful enabler of collective value creation, particularly in its abil
 [2] Lean Construction Institute. "Integrated Project Delivery (IPD)." Accessed January 28, 2026. https://leanconstruction.org/lean-topics/integrated-project-delivery-ipd/.
 
 [3] Integrated Project Delivery Alliance. "Integrated Project Delivery: Case Studies." Accessed January 28, 2026. https://ipda.ca/site/assets/files/1111/aia-2010-ipd-case-studies.pdf.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/integrated-project-delivery-ipd/](https://commons-os.github.io/patterns/domain/integrated-project-delivery-ipd/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/integrated-project-delivery-ipd.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/integrated-project-delivery-ipd.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

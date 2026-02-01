@@ -198,15 +198,3 @@ The Growth Mindset is a powerful enabler of the psychological conditions necessa
 [4] Farnam Street. (n.d.). *Carol Dweck: A Summary of Growth and Fixed Mindsets*. FS.blog. Retrieved from https://fs.blog/carol-dweck-mindset/
 
 [5] Stanford Teaching Commons. (n.d.). *Growth Mindset and Enhanced Learning*. Retrieved from https://teachingcommons.stanford.edu/teaching-guides/foundations-course-design/learning-activities/growth-mindset-and-enhanced-learning
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/growth-mindset-dweck/](https://commons-os.github.io/patterns/domain/growth-mindset-dweck/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/growth-mindset-dweck.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/growth-mindset-dweck.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

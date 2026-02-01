@@ -239,15 +239,3 @@ Microservices architecture is a powerful enabler of resilient value creation, pa
 [4] Richardson, C. (n.d.). Microservices.io. https://microservices.io/
 
 [5] Cloud Native Computing Foundation. (n.d.). CNCF. https://www.cncf.io/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/100-microservices-architecture/](https://commons-os.github.io/patterns/domain/100-microservices-architecture/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/100-microservices-architecture.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/100-microservices-architecture.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

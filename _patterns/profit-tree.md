@@ -249,15 +249,3 @@ The Profit Tree is a powerful analytical tool for financial optimization within 
 3.  [Profitability Trees: A Visual Tool for Business Growth](https://www.nycadvisors.com/profitability-tree-visual-tool-business-growth/)
 4.  [How to Apply the Profit Tree Framework for Revenue and Costs](https://6sigma.com/the-profit-tree/)
 5.  [Profitability Tree - Kickframe Toolbox](https://kickframetoolbox.com/profitability-tree/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/profit-tree/](https://commons-os.github.io/patterns/domain/profit-tree/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/profit-tree.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/profit-tree.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

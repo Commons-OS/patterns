@@ -168,15 +168,3 @@ Infrastructure as Code is a powerful enabler for creating resilient, adaptable, 
 
 *   [What is Infrastructure as Code (IaC)?](https://www.redhat.com/en/topics/automation/what-is-infrastructure-as-code-iac)
 *   [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/infrastructure-as-code-iac-terraform-etc/](https://commons-os.github.io/patterns/domain/infrastructure-as-code-iac-terraform-etc/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/infrastructure-as-code-iac-terraform-etc.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/infrastructure-as-code-iac-terraform-etc.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

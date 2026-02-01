@@ -158,15 +158,3 @@ The NFT Communities pattern is a powerful enabler of collective value creation, 
 [3] Nexumo. "From JPEGs to Journeys: The Utility Era of NFT Communities." [Online]. Available: https://medium.com/@Nexumo_/from-jpegs-to-journeys-the-utility-era-of-nft-communities-9ef3ae7ff8bb
 
 [4] Web3 University. "How to Build a Successful NFT Project." [Online]. Available: https://www.web3.university/tracks/build-your-first-nft/building-a-successful-nft-project
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/nft-communities/](https://commons-os.github.io/patterns/domain/nft-communities/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/nft-communities.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/nft-communities.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

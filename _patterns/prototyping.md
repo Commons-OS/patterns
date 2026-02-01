@@ -213,15 +213,3 @@ Prototyping is a fundamental practice for iterative, user-centered design, makin
 [4] GeeksforGeeks. "Software Engineering | Prototyping Model." [https://www.geeksforgeeks.org/software-engineering/software-engineering-prototyping-model/](https://www.geeksforgeeks.org/software-engineering/software-engineering-prototyping-model/)
 
 [5] NN/g. "Good from Afar, But Far from Good: AI Prototyping in Real Projects." [https://www.nngroup.com/articles/ai-prototyping/](https://www.nngroup.com/articles/ai-prototyping/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/prototyping/](https://commons-os.github.io/patterns/domain/prototyping/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/prototyping.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/prototyping.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

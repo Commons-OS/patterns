@@ -234,15 +234,3 @@ The Marketplace Model is a powerful engine for creating transactional efficiency
 [4] Sharetribe. (2025). *The complete guide to building a two-sided marketplace*. Retrieved from https://www.sharetribe.com/how-to-build/two-sided-marketplace/
 
 [5] Wikipedia. (n.d.). *Two-sided market*. Retrieved from https://en.wikipedia.org/wiki/Two-sided_market
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/marketplace-model-two-sided-platforms/](https://commons-os.github.io/patterns/domain/marketplace-model-two-sided-platforms/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/marketplace-model-two-sided-platforms.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/marketplace-model-two-sided-platforms.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

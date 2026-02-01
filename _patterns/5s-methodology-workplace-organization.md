@@ -193,15 +193,3 @@ The 5S methodology is a powerful tool for improving workplace organization and e
 [3] Bayo-Moriones, A., Bello-Pintado, A., & Merino-Díaz-de-Cerio, J. (2010). 5S use in manufacturing plants: contextual factors and impact on operating performance. *International Journal of Production Research*, 48(24), 7237-7257.
 
 [4] Shahriar, M. M., & Islam, M. R. (2022). Implementation of 5S in a plastic bag manufacturing industry: A case study. *Cleaner Engineering and Technology*, 8, 100493.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/5s-methodology-workplace-organization/](https://commons-os.github.io/patterns/implementation/5s-methodology-workplace-organization/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/5s-methodology-workplace-organization.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/5s-methodology-workplace-organization.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

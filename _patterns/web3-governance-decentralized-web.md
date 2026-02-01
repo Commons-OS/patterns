@@ -131,15 +131,3 @@ Web3 governance, with its emphasis on decentralization, transparency, and commun
 [4] [Web3 Governance Models: An Introduction to the Decision-Making Process in Web3 Projects.](https://www.hiro.so/blog/web3-governance-models-an-introduction-to-the-decision-making-process-in-web3-projects)
 
 [5] [The web3 governance lab: Using DAOs to study political institutions and behavior at scale.](https://a16zcrypto.com/posts/article/the-web3-governance-lab/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/web3-governance-decentralized-web/](https://commons-os.github.io/patterns/domain/web3-governance-decentralized-web/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/web3-governance-decentralized-web.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/web3-governance-decentralized-web.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

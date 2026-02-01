@@ -179,15 +179,3 @@ The following resources provide further information on AI-Powered Simulation, it
 [4] Sonata Learning. "Case Study: Creating Healthcare Simulation Training with AI." *Sonata Learning Notes*, https://sonatalearning.com/sonata-notes/healthcare-simulation-case-study/.
 
 [5] SimScale. "AI Simulation: Convergence of Emerging Technologies." *SimScale Blog*, https://www.simscale.com/blog/ai-simulation/.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/ai-powered-simulation/](https://commons-os.github.io/patterns/domain/ai-powered-simulation/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/ai-powered-simulation.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/ai-powered-simulation.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

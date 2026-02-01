@@ -166,15 +166,3 @@ MMT is a transitional pattern because it provides a crucial bridge away from the
 [4] Mankiw, N. G. (2020). *A Skeptic's Guide to Modern Monetary Theory*. NBER Working Paper No. 26650.
 
 [5] Tymoigne, E. (2021). *Seven Replies to the Critiques of Modern Money Theory*. Levy Economics Institute, Working Paper Series.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/modern-monetary-theory/](https://commons-os.github.io/patterns/domain/modern-monetary-theory/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/modern-monetary-theory.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/modern-monetary-theory.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

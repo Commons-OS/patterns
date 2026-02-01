@@ -155,15 +155,3 @@ De Stijl offers a powerful, scalable, and autonomy-compatible design language (P
 *   **Janssen, Hans, and Michael White. *The Story of De Stijl*.** Abrams, 2011.
 *   **Overy, Paul. *De Stijl*.** Thames & Hudson, 1991.
 *   **White, Michael. *De Stijl and Dutch Modernism*.** Manchester University Press, 2003.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/de-stijl-movement/](https://commons-os.github.io/patterns/domain/de-stijl-movement/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/de-stijl-movement.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/de-stijl-movement.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -158,15 +158,3 @@ Generative Design is a powerful enabler of collective value creation, demonstrat
 3.  [Design Principles for Generative AI Applications | by Justin Weisz | IBM Design | Medium](https://medium.com/design-ibm/design-principles-for-generative-ai-applications-791d00529d6f)
 4.  [Artificial Intelligence in Generative Design: A Structured Review](https://www.mdpi.com/2411-9660/9/4/79)
 5.  [Generative Design for Engineering Applications: A State-of-the-art Review](https://link.springer.com/article/10.1007/s11831-025-10302-y)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/generative-design/](https://commons-os.github.io/patterns/domain/generative-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/generative-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/generative-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

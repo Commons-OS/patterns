@@ -164,15 +164,3 @@ This section assesses the alignment of the Wiki-Based Collaboration pattern with
 [13] Onslow, M. (2023, June 22). *How AI can keep your project wikis up to date*. LinkedIn. https://www.linkedin.com/posts/mike-onslow-18184b53_do-you-keep-your-wikis-up-to-date-ai-can-activity-7382072188084076544-mKiT
 
 [14] Salesforce. (n.d.). *What Is Knowledge Management AI?*. Retrieved from https://www.salesforce.com/service/ai/what-is-knowledge-management-ai/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/human-universal/wiki-based-collaboration/](https://commons-os.github.io/patterns/human-universal/wiki-based-collaboration/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/wiki-based-collaboration.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_human-universal/wiki-based-collaboration.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

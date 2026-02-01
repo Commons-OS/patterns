@@ -166,15 +166,3 @@ Cooperative Economics provides a foundational and proven model for collective va
 [17] MIT Initiative on the Digital Economy. (2019, January 2). *Data Cooperatives: Digital Empowerment of Citizens and Workers*. Retrieved from https://ide.mit.edu/sites/default/files/publications/Data-Cooperatives-final.pdf
 
 [18] Platform Cooperativism Consortium. (2023, May 12). *Cooperatives Should Embrace the Opportunities of AI*. Retrieved from https://platform.coop/blog/cooperatives-should-embrace-the-opportunities-of-ai/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/cooperative-economics/](https://commons-os.github.io/patterns/domain/cooperative-economics/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/cooperative-economics.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/cooperative-economics.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

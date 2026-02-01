@@ -163,15 +163,3 @@ The NASA SE framework is a powerful enabler of value creation, particularly in t
     *   [3] Stockman, B., Boyle, J., & Bacon, J. (2010). *International Space Station Systems Engineering Case Study*. NASA.
     *   [4] White, B. E., & Jean, P. N. (2011). Case study in system of systems engineering: NASA's Advanced Communications Technology Satellite. In *2011 IEEE International Systems Conference* (pp. 1-8). IEEE.
     *   [5] Gough, K. M., & Phojanamongkolkij, N. (2018). Employing model-based systems engineering (MBSE) on a NASA aeronautic research project: a case study. In *2018 Aviation Technology, Integration, and Operations Conference* (p. 3361).
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/nasa-systems-engineering-npr-71231/](https://commons-os.github.io/patterns/domain/nasa-systems-engineering-npr-71231/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/nasa-systems-engineering-npr-71231.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/nasa-systems-engineering-npr-71231.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

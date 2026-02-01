@@ -160,15 +160,3 @@ _A curated list of external resources, including articles, books, and tools rela
 *   **[3] ProductPlan. "What is the Shape Up Method? | Definition and Overview."** [https://www.productplan.com/glossary/shape-up-method/](https://www.productplan.com/glossary/shape-up-method/)
 *   **[4] Lucidspark. "Shape Up Methodology | Lucidspark."** [https://lucid.co/blog/shape-up-methodology](https://lucid.co/blog/shape-up-methodology)
 *   **[5] Marmelab. "Shape Up: Should You Change Your Agile Methodology?"** [https://marmelab.com/blog/2024/09/26/shape-up.html](https://marmelab.com/blog/2024/09/26/shape-up.html)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/shape-up-basecamp/](https://commons-os.github.io/patterns/domain/shape-up-basecamp/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/shape-up-basecamp.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/shape-up-basecamp.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

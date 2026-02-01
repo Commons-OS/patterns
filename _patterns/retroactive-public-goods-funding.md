@@ -169,15 +169,3 @@ RetroPGF is a powerful enabler of collective value creation that is highly align
 [4] Optimism Collective. (2024). *Lessons learned from two years of Retroactive Public Goods Funding*. [https://gov.optimism.io/t/lessons-learned-from-two-years-of-retroactive-public-goods-funding/9239](https://gov.optimism.io/t/lessons-learned-from-two-years-of-retroactive-public-goods-funding/9239)
 
 [5] Buterin, V. (2021). *Review of Optimism retro funding round 1*. [https://vitalik.eth.limo/general/2021/11/16/retro1.html](https://vitalik.eth.limo/general/2021/11/16/retro1.html)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/retroactive-public-goods-funding/](https://commons-os.github.io/patterns/domain/retroactive-public-goods-funding/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/retroactive-public-goods-funding.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/retroactive-public-goods-funding.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

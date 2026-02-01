@@ -114,15 +114,3 @@ Overall, the alignment of Porter's Generic Strategies with the commons depends o
 [3] Dess, G. G., & Davis, P. S. (1984). Porter's (1980) generic strategies as determinants of strategic group membership and organizational performance. *Academy of Management Journal*, 27(3), 467-488.
 [4] Wikipedia. (n.d.). *Porter's generic strategies*. Retrieved from https://en.wikipedia.org/wiki/Porter%27s_generic_strategies
 [5] Institute for Manufacturing (IfM), University of Cambridge. (n.d.). *Porter's Generic Competitive Strategies (ways of competing)*. Retrieved from https://www.ifm.eng.cam.ac.uk/research/dstools/porters-generic-competitive-strategies/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/porters-generic-strategies-cost-differentiation-focus/](https://commons-os.github.io/patterns/domain/porters-generic-strategies-cost-differentiation-focus/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/porters-generic-strategies-cost-differentiation-focus.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/porters-generic-strategies-cost-differentiation-focus.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

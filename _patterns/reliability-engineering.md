@@ -150,15 +150,3 @@ Reliability engineering, with its focus on creating robust and dependable system
 *   Moubray, J. (1997). *Reliability-centered maintenance*. Industrial Press Inc.
 *   Smith, A. M. (2004). *Reliability-centered maintenance*. McGraw-Hill.
 *   Ebeling, C. E. (2019). *An introduction to reliability and maintainability engineering*. Waveland Press.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/reliability-engineering/](https://commons-os.github.io/patterns/domain/reliability-engineering/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/reliability-engineering.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/reliability-engineering.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -226,15 +226,3 @@ The UN Sustainable Development Goals represent a significant step forward in glo
 [3] Agora. (n.d.). *Sustainable Development Goals Beliefs and Principles*. Retrieved from https://agora-parl.org/resources/aoe/sustainable-development-goals-beliefs-and-principles
 [4] United Nations. (n.d.). *SDG Good Practices*. Department of Economic and Social Affairs. Retrieved from https://sdgs.un.org/sdg-good-practices
 [5] World Economic Forum. (2024, July 30). *Companies can make the UN’s SDGs their own — here’s how*. Retrieved from https://www.weforum.org/stories/2024/07/companies-can-make-the-uns-sdgs-their-own-heres-how/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/un-sustainable-development-goals-sdgs-global-framework/](https://commons-os.github.io/patterns/implementation/un-sustainable-development-goals-sdgs-global-framework/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/un-sustainable-development-goals-sdgs-global-framework.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/un-sustainable-development-goals-sdgs-global-framework.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

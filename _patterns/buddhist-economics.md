@@ -165,15 +165,3 @@ For those interested in further exploring the principles and practices of Buddhi
 *   The *Journal of Buddhist Ethics* and other academic journals regularly publish articles on Buddhist economics and related topics. A search of academic databases such as JSTOR and Google Scholar will yield a wealth of scholarly research on the subject.
 
 This list is by no means exhaustive, but it provides a solid foundation for anyone wishing to delve deeper into the rich and rewarding field of Buddhist economics.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/buddhist-economics/](https://commons-os.github.io/patterns/domain/buddhist-economics/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/buddhist-economics.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/buddhist-economics.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

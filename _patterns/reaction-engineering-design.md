@@ -195,15 +195,3 @@ The Reaction Engineering Design pattern is a powerful transitional framework wit
 [6] Davis, M. E., & Davis, R. J. (2003). *Fundamentals of Chemical Reaction Engineering*. The McGraw-Hill Companies, Inc.
 
 [7] University of Technology, Iraq. (n.d.). *Reactor Design Lectures Notes*. Retrieved from https://www.uotechnology.edu.iq/dep-chem-eng/shar/third/reactior%20design/Reactor%20Lecture%201.pdf
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/reaction-engineering-design/](https://commons-os.github.io/patterns/domain/reaction-engineering-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/reaction-engineering-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/reaction-engineering-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

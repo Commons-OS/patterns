@@ -156,15 +156,3 @@ This pattern is a powerful enabler of resilient collective value creation, provi
 3.  The Oxford Review. (n.d.). *Intergenerational Equity – Definition and Explanation*. Retrieved from [https://oxford-review.com/the-oxford-review-dei-diversity-equity-and-inclusion-dictionary/intergenerational-equity-definition-and-explanation/](https://oxford-review.com/the-oxford-review-dei-diversity-equity-and-inclusion-dictionary/intergenerational-equity-definition-and-explanation/)
 4.  United Nations System Chief Executives Board for Coordination. (2024). *Duties to the future through an intergenerational equity lens: Frequently Asked Questions*. Retrieved from [https://unsceb.org/sites/default/files/2024-01/FAQ%20on%20Duties%20to%20the%20future%20through%20an%20intergenerational%20equity%20lens%20%28HLCP%20core%20group%20on%20duties%20to%20the%20future%29.pdf](https://unsceb.org/sites/default/files/2024-01/FAQ%20on%20Duties%20to%20the%20future%20through%20an%20intergenerational%20equity%20lens%20%28HLCP%20core%20group%20on%20duties%20to%20the%20future%29.pdf)
 5.  Future Generations Commissioner for Wales. (n.d.). *Well-being of Future Generations (Wales) Act 2015*. Retrieved from [https://futuregenerations.wales/discover/about-future-generations-commissioner/future-generations-act-2015/](https://futuregenerations.wales/discover/about-future-generations-commissioner/future-generations-act-2015/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/intergenerational-equity-frameworks/](https://commons-os.github.io/patterns/implementation/intergenerational-equity-frameworks/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/intergenerational-equity-frameworks.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/intergenerational-equity-frameworks.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -275,15 +275,3 @@ Platform Cooperatives**: As more and more work is mediated by digital platforms,
 [28] Hertel-Fernandez, A., Kimball, W., & Kochan, T. A. (2023). How US workers think about workplace democracy: The structure of individual worker preferences for labor representation. *ILR Review*, *76*(1), 30-59.
 
 [29] Nicholson, N. (1998). How hardwired is human behavior? *Harvard Business Review*, *76*(4), 134-147.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/workplace-democracy-formal-models/](https://commons-os.github.io/patterns/domain/workplace-democracy-formal-models/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/workplace-democracy-formal-models.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/workplace-democracy-formal-models.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

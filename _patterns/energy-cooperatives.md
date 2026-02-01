@@ -199,15 +199,3 @@ Energy Cooperatives are a powerful and proven model for enabling collective valu
 *   [Seven pillars of energy cooperation: an energy justice-driven framework for energy communities and energy cooperatives](https://www.tandfonline.com/doi/full/10.1080/02646811.2025.2455853)
 *   [New Report Shows Electric Co-ops’ Significant Economic Impact - America's Electric Cooperatives](https://www.electric.coop/new-report-shows-electric-co-ops-are-powerful-engines-of-economic-development)
 *   [Watts Next: How Electric Co-ops are Using AI & Emerging Technologies – Powerful Web Design for Utilities](https://www.powerfulweb.com/utility-voice/watts-next-how-electric-co-ops-are-using-ai-emerging-technologies/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/energy-cooperatives/](https://commons-os.github.io/patterns/domain/energy-cooperatives/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/energy-cooperatives.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/energy-cooperatives.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

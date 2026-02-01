@@ -186,15 +186,3 @@ The Reinvention Change model is a powerful enabler for building resilient, adapt
 [4] Corporate Rebels. (2025). 10 Questions About Haier's RenDanHeYi Model—Answered. Retrieved from https://www.corporate-rebels.com/blog/10-questions-about-haiers-rendanheyi-model-answered
 
 [5] Tushman, M. L., & O'Reilly, C. A. (1996). Ambidextrous organizations: Managing evolutionary and revolutionary change. California Management Review, 38(4), 8-30.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/change-management-models-beyond-documented/](https://commons-os.github.io/patterns/domain/change-management-models-beyond-documented/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/change-management-models-beyond-documented.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/change-management-models-beyond-documented.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

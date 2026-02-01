@@ -163,15 +163,3 @@ The Nordic Model is a powerful and proven framework for enabling collective valu
 [4] Investopedia. (2026). *Understanding the Nordic Model: Benefits and Drawbacks*. Retrieved from https://www.investopedia.com/articles/investing/100714/nordic-model-pros-and-cons.asp
 
 [5] Council on Foreign Relations. (2023). *Susanna Fellman: The Nordic Model of Capitalism in Historical Perspective*. Retrieved from https://www.cfr.org/articles/susanna-fellman-nordic-model-capitalism-historical-perspective-past-successes-and-future
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/nordic-model-scandinavia/](https://commons-os.github.io/patterns/domain/nordic-model-scandinavia/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/nordic-model-scandinavia.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/nordic-model-scandinavia.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

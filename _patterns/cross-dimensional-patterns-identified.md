@@ -204,15 +204,3 @@ This pattern provides a complete and sophisticated architecture for resilient, c
 [4] Lakhani, K. R., & Tushman, M. L. (in press). Open innovation and organizational boundaries: The impact of task decomposition and knowledge distribution on the locus of innovation. In *The Oxford Handbook of Innovation Management*.
 
 [5] O’Mahony, S., & Lakhani, K. R. (2011). The governance of open source software. In *The Oxford Handbook of Innovation Management*.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/8-cross-dimensional-patterns-identified/](https://commons-os.github.io/patterns/domain/8-cross-dimensional-patterns-identified/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/8-cross-dimensional-patterns-identified.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/8-cross-dimensional-patterns-identified.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

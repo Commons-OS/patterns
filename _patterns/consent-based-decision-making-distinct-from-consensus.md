@@ -177,15 +177,3 @@ This pattern is a powerful enabler of collective value creation, providing a rob
     3.  [Circle Forward. (n.d.). *Consent vs. Consensus – What’s the Difference?*](https://circleforward.us/consent-vs-consensus-whats-the-difference/)
     4.  [Wikipedia. (n.d.). *Sociocracy*.](https://en.wikipedia.org/wiki/Sociocracy)
     5.  [Wikipedia. (n.d.). *Gerard Endenburg*.](https://en.wikipedia.org/wiki/Gerard_Endenburg)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/human-universal/consent-based-decision-making-distinct-from-consensus/](https://commons-os.github.io/patterns/human-universal/consent-based-decision-making-distinct-from-consensus/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/consent-based-decision-making-distinct-from-consensus.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_human-universal/consent-based-decision-making-distinct-from-consensus.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

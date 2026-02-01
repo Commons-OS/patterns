@@ -201,15 +201,3 @@ Edge AI is a powerful technological enabler of collective value creation, provid
 [10] Dell. (2025, November 6). *The Future of AI Is on the Edge*. Retrieved from https://www.dell.com/en-us/blog/the-future-of-ai-is-on-the-edge/
 
 [11] CIO. (2025, September 8). *Neuromorphic computing and the future of edge AI*. Retrieved from https://www.cio.com/article/4052223/neuromorphic-computing-and-the-future-of-edge-ai.html
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/edge-ai/](https://commons-os.github.io/patterns/domain/edge-ai/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/edge-ai.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/edge-ai.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

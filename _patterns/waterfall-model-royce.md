@@ -219,15 +219,3 @@ The Waterfall Model is a transitional pattern that has some elements of a common
 [4] Petersen, K., Wohlin, C., & Baca, D. (2009). The waterfall model in large-scale development. In *International Conference on Product Focused Software Process Improvement* (pp. 386-400). Springer, Berlin, Heidelberg.
 
 [5] McConnell, S. (1996). *Rapid Development: Taming Wild Software Schedules*. Microsoft Press.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/waterfall-model-royce/](https://commons-os.github.io/patterns/domain/waterfall-model-royce/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/waterfall-model-royce.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/waterfall-model-royce.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

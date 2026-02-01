@@ -178,15 +178,3 @@ Futures Thinking is a powerful enabler of collective value creation, providing t
 [4] Dhiman, G. (2024, March 3). *12+ Real World Futures Thinking Examples*. Future Disruptor. [https://futuredisruptor.com/futures-thinking-examples/](https://futuredisruptor.com/futures-thinking-examples/)
 
 [5] World Economic Forum. (2023, June 27). *The world's top companies are using strategic foresight*. [https://www.weforum.org/stories/2023/06/the-world-s-top-companies-are-using-strategic-foresight-you-should-too/](https://www.weforum.org/stories/2023/06/the-world-s-top-companies-are-using-strategic-foresight-you-should-too/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/futures-thinking/](https://commons-os.github.io/patterns/domain/futures-thinking/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/futures-thinking.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/futures-thinking.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

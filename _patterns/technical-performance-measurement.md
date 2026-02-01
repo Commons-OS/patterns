@@ -214,15 +214,3 @@ TPM is a robust and essential practice for ensuring technical systems are built 
 [4] Garrett, Christopher J., et al. "Using Technical Performance Measures." NASA Technical Reports Server, ntrs.nasa.gov/citations/20110014436. Accessed 28 Jan. 2026.
 
 [5] "INCOSE Systems Engineering Handbook: A Guide for System Life Cycle Processes and Activities." 4th ed., John Wiley & Sons, 2015.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/technical-performance-measurement/](https://commons-os.github.io/patterns/domain/technical-performance-measurement/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/technical-performance-measurement.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/technical-performance-measurement.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

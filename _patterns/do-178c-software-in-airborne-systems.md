@@ -178,15 +178,3 @@ DO-178C is a powerful and effective framework for ensuring safety and reliabilit
 [4] Qualitest. (2021, June 7). *Simplify DO-178C Compliance with 10 Best Practices*. Retrieved from https://www.qualitestgroup.com/insights/blog/simplify-do-178c-compliance-with-10-best-practices/
 
 [5] Ansys. (2025, August 27). *Your Guide To Implementing the DO-178C Standard*. Retrieved from https://www.ansys.com/blog/your-guide-to-implementing-do-178c-standard
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/do-178c-software-in-airborne-systems/](https://commons-os.github.io/patterns/context-specific/do-178c-software-in-airborne-systems/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/do-178c-software-in-airborne-systems.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/do-178c-software-in-airborne-systems.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

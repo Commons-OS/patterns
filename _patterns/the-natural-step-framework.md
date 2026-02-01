@@ -240,15 +240,3 @@ The Natural Step Framework is a powerful tool for promoting sustainability, offe
 *   Wikipedia. (2023, October 26). *The Natural Step*. Retrieved from https://en.wikipedia.org/wiki/The_Natural_Step
 *   The Natural Step Canada. (n.d.). *Case Studies*. Retrieved from https://old.naturalstep.ca/case-studies
 *   The Natural Step Germany. (n.d.). *Interface case study*. Retrieved from https://www.thenaturalstep.de/about/interface-case-study/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/the-natural-step-framework/](https://commons-os.github.io/patterns/implementation/the-natural-step-framework/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/the-natural-step-framework.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/the-natural-step-framework.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

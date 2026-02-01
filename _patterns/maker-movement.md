@@ -250,15 +250,3 @@ The Maker Movement is a strong enabler of resilient collective value creation, f
 [4] Voigt, C., & Unterfrauner, E. (2020). The environmental value and impact of the Maker movement—Insights from a cross‐case analysis of European maker initiatives. *Business Strategy and the Environment*, 29(3), 1235-1248.
 
 [5] Singh, S. P. (2018). Lessons from the maker movement. *MIT Sloan Management Review*, 59(4), 1-5.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/59-maker-movement/](https://commons-os.github.io/patterns/domain/59-maker-movement/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/59-maker-movement.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/59-maker-movement.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

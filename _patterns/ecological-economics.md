@@ -159,15 +159,3 @@ Ecological Economics provides a powerful and essential framework for re-aligning
 3.  [Ecological economics into action: Lessons from the Barcelona City doughnut - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0921800925001508)
 4.  [The International Society for Ecological Economics](https://www.isecoeco.org/)
 5.  [Ecological Economics | Journal | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/ecological-economics)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/ecological-economics/](https://commons-os.github.io/patterns/domain/ecological-economics/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/ecological-economics.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/ecological-economics.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

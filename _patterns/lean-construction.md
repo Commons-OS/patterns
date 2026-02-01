@@ -197,15 +197,3 @@ This section provides a curated list of resources for those who wish to learn mo
 [4] Lean Construction Blog. (2022). *A Practitioner’s Reflections on Lean Transformation*. Retrieved from https://leanconstructionblog.com/A-Practitioner%E2%80%99s-Reflections-on-Lean-Transformation.html
 
 [5] lcmd.io. (2023). *5 Real-World Examples of Lean Construction in Action*. Retrieved from https://www.lcmd.io/en/blog/5-real-world-examples-of-lean-construction-in-action
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/lean-construction/](https://commons-os.github.io/patterns/domain/lean-construction/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/lean-construction.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/lean-construction.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

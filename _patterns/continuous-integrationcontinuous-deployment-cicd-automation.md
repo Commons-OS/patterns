@@ -103,15 +103,3 @@ CI/CD provides a robust, automated framework that strongly enables and accelerat
 [4] GitLab. (n.d.). *The Role of AI in DevOps*. Retrieved from https://about.gitlab.com/topics/devops/the-role-of-ai-in-devops/
 [5] Google Cloud. (2024, August 28). *MLOps: Continuous delivery and automation pipelines in machine learning*. Retrieved from https://docs.cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
 [6] GitLab. (2025, January 6). *Ultimate guide to CI/CD: Fundamentals to advanced implementation*. Retrieved from https://about.gitlab.com/blog/ultimate-guide-to-ci-cd-fundamentals-to-advanced-implementation/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/continuous-integrationcontinuous-deployment-cicd-automation/](https://commons-os.github.io/patterns/domain/continuous-integrationcontinuous-deployment-cicd-automation/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/continuous-integrationcontinuous-deployment-cicd-automation.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/continuous-integrationcontinuous-deployment-cicd-automation.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

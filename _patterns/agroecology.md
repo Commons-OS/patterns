@@ -255,15 +255,3 @@ While agroecology is more of a knowledge-intensive approach than a technology-in
 [3] Soil Association. (n.d.). *What is agroecology?* Retrieved from [https://www.soilassociation.org/causes-campaigns/a-ten-year-transition-to-agroecology/what-is-agroecology/](https://www.soilassociation.org/causes-campaigns/a-ten-year-transition-to-agroecology/what-is-agroecology/)
 [4] Agroecology Fund. (n.d.). *What is Agroecology?* Retrieved from [https://agroecologyfund.org/what-is-agroecology/](https://agroecologyfund.org/what-is-agroecology/)
 [5] FAO. (n.d.). *10 Elements*. Agroecology Knowledge Hub. Retrieved from [https://www.fao.org/agroecology/overview/overview10elements/en/](https://www.fao.org/agroecology/overview/overview10elements/en/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/41-agroecology/](https://commons-os.github.io/patterns/domain/41-agroecology/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/41-agroecology.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/41-agroecology.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

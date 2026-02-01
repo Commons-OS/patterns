@@ -137,15 +137,3 @@ These resources offer a range of perspectives on Guanxi, from practical business
 [3] https://www.pon.harvard.edu/daily/international-negotiation-daily/negotiation-in-china-the-importance-of-guanxi/
 [4] https://www.investopedia.com/terms/g/guanxi.asp
 [5] https://www.sciencedirect.com/topics/social-sciences/guanxi
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/chinese-guanxi-networks/](https://commons-os.github.io/patterns/domain/chinese-guanxi-networks/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/chinese-guanxi-networks.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/chinese-guanxi-networks.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

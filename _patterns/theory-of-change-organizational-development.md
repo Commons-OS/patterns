@@ -166,15 +166,3 @@ This section assesses the alignment of the Theory of Change methodology with the
 [6] Beeck Center for Social Impact + Innovation. (2023). *Wielding a Theory of Change for Digital Transformation in Government*. Georgetown University. https://beeckcenter.georgetown.edu/wp-content/uploads/2023/01/ToC2_final.pdf
 
 [7] Mozilla Foundation. (n.d.). *Introduction to the Theory of Change*. https://www.mozillafeministtech.org/whitepaper/path-forward/introduction-theory-change/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/theory-of-change-organizational-development/](https://commons-os.github.io/patterns/domain/theory-of-change-organizational-development/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/theory-of-change-organizational-development.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/theory-of-change-organizational-development.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

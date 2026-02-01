@@ -208,15 +208,3 @@ The Business Model Canvas is a powerful tool for mapping and innovating on value
 [4] Strategyzer. (n.d.). *The Business Model Canvas*. Retrieved from https://www.strategyzer.com/library/the-business-model-canvas
 
 [5] Wikipedia. (n.d.). *Business model canvas*. Retrieved from https://en.wikipedia.org/wiki/Business_model_canvas
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/business-model-canvas-osterwalder/](https://commons-os.github.io/patterns/implementation/business-model-canvas-osterwalder/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/business-model-canvas-osterwalder.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/business-model-canvas-osterwalder.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

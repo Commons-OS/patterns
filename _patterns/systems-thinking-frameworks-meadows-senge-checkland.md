@@ -243,15 +243,3 @@ Meadows, D. H. (2008). *Thinking in systems: A primer*. Chelsea Green Publishing
 Senge, P. M. (2006). *The fifth discipline: The art & practice of the learning organization*. Doubleday.
 
 Senge, P. M., & Sterman, J. D. (1992). Systems thinking and organizational learning: Acting locally and thinking globally in the organization of the future. *European journal of operational research*, *59*(1), 137-158.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/universal/systems-thinking-frameworks-meadows-senge-checkland/](https://commons-os.github.io/patterns/universal/systems-thinking-frameworks-meadows-senge-checkland/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/systems-thinking-frameworks-meadows-senge-checkland.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_universal/systems-thinking-frameworks-meadows-senge-checkland.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

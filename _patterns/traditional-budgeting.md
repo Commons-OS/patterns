@@ -124,15 +124,3 @@ The commons alignment assessment evaluates how well a pattern aligns with the pr
 [3] [Incremental Budgeting - Overview, Advantages, Disadvantages](https://corporatefinanceinstitute.com/resources/fpa/incremental-budgeting/)
 [4] [Zero-Based vs Traditional Budgeting: What Works Best](https://tgg-accounting.com/zero-based-budgeting-vs-traditional/)
 [5] [Traditional Budgeting vs. Next-Gen: What CFOs Need to Know](https://www.jedox.com/en/blog/why-traditional-budgeting-methods-are-failing/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/traditional-budgeting/](https://commons-os.github.io/patterns/domain/traditional-budgeting/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/traditional-budgeting.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/traditional-budgeting.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

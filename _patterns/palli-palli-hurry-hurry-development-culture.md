@@ -141,15 +141,3 @@ The Palli-Palli pattern is a powerful engine for economic and technological valu
 [4] Ramesh, B., Cao, L., Kim, J., & Mohan, K. (2018). Consider Culture When Implementing Agile Practices. MIT Sloan Management Review. Retrieved from https://sloanreview.mit.edu/article/consider-culture-when-implementing-agile-practices/
 
 [5] Park, N. H. (2014). Key success factor in Korean Management. KIMEP University. Retrieved from https://www.kimep.kz/wp-content/uploads/2014/10/DrNeiHeiPark-KeySuccessFactorinKoreanManagement.compressed.pdf
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/palli-palli-hurry-hurry-development-culture/](https://commons-os.github.io/patterns/domain/palli-palli-hurry-hurry-development-culture/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/palli-palli-hurry-hurry-development-culture.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/palli-palli-hurry-hurry-development-culture.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

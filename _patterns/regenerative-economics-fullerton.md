@@ -277,15 +277,3 @@ Regenerative Economics provides a complete and coherent architecture for resilie
 [4] Fath, B. D., Fiscus, D. A., Goerner, S. J., Berea, A., & Ulanowicz, R. E. (2019). Measuring regenerative economics: 10 principles and measures undergirding systemic economic health. *Global Transitions*, 1, 15-28. https://doi.org/10.1016/j.glt.2019.02.001
 
 [5] GDS-Movement. (2024, August 25). *Regenerative Tourism Case Studies 2024*. Retrieved from https://www.gds.earth/blog/regenerative-tourism-case-studies-2024/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/13-regenerative-economics-fullerton/](https://commons-os.github.io/patterns/domain/13-regenerative-economics-fullerton/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/13-regenerative-economics-fullerton.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/13-regenerative-economics-fullerton.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

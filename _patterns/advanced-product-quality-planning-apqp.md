@@ -157,16 +157,3 @@ The following resources provide further information on Advanced Product Quality 
 **5. ResearchGate - Implementation of Advanced Product Quality Planning in Engineering Project:** This research paper provides a case study on the implementation of APQP in an engineering project. It offers valuable insights into the practical application of the framework and the challenges that can be encountered.
 
 These resources, taken together, provide a comprehensive and multi-faceted view of APQP, from its theoretical foundations to its practical application in a variety of industrial contexts.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/advanced-product-quality-planning-apqp/](https://commons-os.github.io/patterns/domain/advanced-product-quality-planning-apqp/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/advanced-product-quality-planning-apqp.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/advanced-product-quality-planning-apqp.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
-

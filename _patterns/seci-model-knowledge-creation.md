@@ -368,15 +368,3 @@ While the SECI model is not primarily about technology, a number of tools and pl
 [4] Gourlay, S. (2006). Conceptualizing Knowledge Creation: A Critique of Nonaka’s Theory. *Journal of Management Studies*, 43(7), 1415-1436.
 
 [5] Nonaka, I., & Von Krogh, G. (2009). Perspective—Tacit knowledge and knowledge conversion: Controversy and advancement in organizational knowledge creation theory. *Organization Science*, 20(3), 635-652.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/seci-model-knowledge-creation/](https://commons-os.github.io/patterns/domain/seci-model-knowledge-creation/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/seci-model-knowledge-creation.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/seci-model-knowledge-creation.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

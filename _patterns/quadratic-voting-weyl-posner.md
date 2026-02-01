@@ -235,15 +235,3 @@ Quadratic Voting is a powerful and well-defined mechanism that strongly enables 
 [4] RadicalxChange. (n.d.). *Quadratic Voting*. Retrieved from [https://www.radicalxchange.org/wiki/quadratic-voting/](https://www.radicalxchange.org/wiki/quadratic-voting/)
 
 [5] Wikipedia. (2023). *Quadratic voting*. Retrieved from [https://en.wikipedia.org/wiki/Quadratic_voting](https://en.wikipedia.org/wiki/Quadratic_voting)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/4-quadratic-voting-weyl-posner/](https://commons-os.github.io/patterns/domain/4-quadratic-voting-weyl-posner/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/4-quadratic-voting-weyl-posner.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/4-quadratic-voting-weyl-posner.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

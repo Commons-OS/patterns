@@ -236,15 +236,3 @@ The Grameen and BRAC models are powerful transitional patterns that bridge tradi
 *   Grameen Bank. (n.d.). *Sixteen Decisions*. Retrieved from https://grameenbank.org.bd/methodology/16-decision
 *   BRAC. (n.d.). *Microfinance*. Retrieved from https://www.brac.net/solutions/development/expanding-financial-inclusion/microfinance-bangaldesh/
 *   Grameen Research. (n.d.). *Grameen Group Lending Model*. Retrieved from http://grameenresearch.org/grameen-group-lending-model/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/95-microfinance-models-grameen-brac/](https://commons-os.github.io/patterns/context-specific/95-microfinance-models-grameen-brac/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/95-microfinance-models-grameen-brac.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/95-microfinance-models-grameen-brac.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

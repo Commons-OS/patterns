@@ -136,15 +136,3 @@ Maintainability Engineering is a powerful enabler of resilient value creation by
 [7] Ebeling, C. E. (2019). *An Introduction to Reliability and Maintainability Engineering* (3rd ed.). Waveland Press.
 
 [8] Patton, J. D. (2005). *Maintainability & Maintenance Management* (4th ed.). Patton Consultants.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/maintainability-engineering/](https://commons-os.github.io/patterns/domain/maintainability-engineering/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/maintainability-engineering.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/maintainability-engineering.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

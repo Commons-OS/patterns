@@ -201,15 +201,3 @@ The "Documented" pattern is a strong enabler of collective value creation, resil
 *   [The Knowledge Management Blog](https://www.knowledge-management-tools.net/)
 *   [KMWorld Magazine](https://www.kmworld.com/)
 *   [APQC Knowledge Management](https://www.apqc.org/what-we-do/knowledge-management)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/documented-published-described-accessible/](https://commons-os.github.io/patterns/domain/documented-published-described-accessible/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/documented-published-described-accessible.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/documented-published-described-accessible.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

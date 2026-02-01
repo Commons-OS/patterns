@@ -213,15 +213,3 @@ The Lean Startup is a powerful engine for innovation and organizational adaptati
 [4] The limitations of Lean Startup: when not to use it. (n.d.). Mosaic Innovation. Retrieved January 28, 2026, from https://www.mosaic-innovation.com/thinking/the-limitations-of-lean-startup-when-not-to-use-it
 
 [5] 3 examples of lean startup in action. (n.d.). Yonder. Retrieved January 28, 2026, from https://yonderconsulting.com/3-examples-of-lean-startup/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/lean-startup-ries/](https://commons-os.github.io/patterns/domain/lean-startup-ries/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/lean-startup-ries.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/lean-startup-ries.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

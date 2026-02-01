@@ -205,15 +205,3 @@ Stakeholder Capitalism is a powerful framework that strongly enables collective 
     3.  [McKinsey](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/from-principle-to-practice-making-stakeholder-capitalism-work)
     4.  [World Economic Forum - Case Studies](https://www.weforum.org/publications/stakeholder-capitalism-metrics-initiative-partner-case-studies-part-2/)
     5.  [Harvard Business Review](https://hbr.org/2024/08/stakeholder-capitalism-still-makes-business-sense)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/2-stakeholder-capitalism-wef/](https://commons-os.github.io/patterns/domain/2-stakeholder-capitalism-wef/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/2-stakeholder-capitalism-wef.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/2-stakeholder-capitalism-wef.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

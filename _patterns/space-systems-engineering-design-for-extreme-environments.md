@@ -147,15 +147,3 @@ In terms of **tools and platforms**, a wide range of **Model-Based Systems Engin
 [2] Delve. (n.d.). *Product Design for Extreme Environments*. Retrieved from https://www.delve.com/insights/product-design-for-extreme-environments
 
 [3] Johns Hopkins University. (n.d.). *Space Systems Engineering*. Retrieved from https://e-catalogue.jhu.edu/engineering/engineering-professionals/space-systems-engineering/space-systems-engineering.pdf
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/space-systems-engineering-design-for-extreme-environments/](https://commons-os.github.io/patterns/domain/space-systems-engineering-design-for-extreme-environments/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/space-systems-engineering-design-for-extreme-environments.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/space-systems-engineering-design-for-extreme-environments.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

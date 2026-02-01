@@ -99,15 +99,3 @@ Human-Centered Design is a powerful enabler of collective value creation, deeply
 *   [4 examples of human-centered design to inspire your team - Mural](https://www.mural.co/blog/human-centered-design-examples)
 *   [In the age of AI, human-centered design is crucial - IDEO](https://www.ideo.com/journal/in-the-age-of-ai-human-centered-design-is-more-crucial-than-ever)
 *   [The Design of Everyday Things by Don Norman](https://www.nngroup.com/books/design-of-everyday-things-revised/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/human-centered-design/](https://commons-os.github.io/patterns/domain/human-centered-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/human-centered-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/human-centered-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

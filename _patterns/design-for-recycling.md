@@ -191,15 +191,3 @@ Design for Recycling is a strong enabler of collective value creation, particula
 [13] World Economic Forum. "New Circular Economy Report: $4.5 Trillion in Economic Benefits by 2030." *World Economic Forum*, 26 June 2020, www.weforum.org/press/2020/06/new-circular-economy-report-4-5-trillion-in-economic-benefits-by-2030/.
 
 [14] Method. "Our Story." *Method*, www.methodproducts.com/our-story/.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/design-for-recycling/](https://commons-os.github.io/patterns/domain/design-for-recycling/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/design-for-recycling.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/design-for-recycling.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

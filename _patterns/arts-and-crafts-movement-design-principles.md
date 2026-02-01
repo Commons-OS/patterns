@@ -141,15 +141,3 @@ Despite these strong alignments, there are also some areas where the Arts and Cr
 [7] The Art Story. "The Arts & Crafts Movement." Accessed January 28, 2026. https://www.theartstory.org/movement/arts-and-crafts/
 
 [8] Britannica. "Arts and Crafts movement." Accessed January 28, 2026. https://www.britannica.com/art/Arts-and-Crafts-movement
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/arts-and-crafts-movement-design-principles/](https://commons-os.github.io/patterns/domain/arts-and-crafts-movement-design-principles/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/arts-and-crafts-movement-design-principles.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/arts-and-crafts-movement-design-principles.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

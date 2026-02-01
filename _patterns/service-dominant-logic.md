@@ -282,15 +282,3 @@ Service-Dominant Logic has a moderate to high alignment with the principles of t
 [7] Ibid.
 
 [8] Xie, K., Wu, Y., Xiao, J., & Hu, Q. (2016). Value co-creation between firms and customers: The role of big data-based platforms. *Information & Management*, 53(8), 1044-1053.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/service-dominant-logic/](https://commons-os.github.io/patterns/domain/service-dominant-logic/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/service-dominant-logic.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/service-dominant-logic.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

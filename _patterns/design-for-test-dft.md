@@ -156,15 +156,3 @@ Design for Test is a powerful enabler of collective value creation, particularly
 4.  [Mastering DFT: A Comprehensive Guide to Design for Test - ALLPCB](https://www.allpcb.com/allelectrohub/mastering-dft-a-comprehensive-guide-to-design-for-test)
 5.  [Design for Test (DFT) - Semiconductor Engineering](https://semiengineering.com/knowledge_centers/eda-design/methodologies-and-flows/design-for-test-dft/)
 6.  [Demystifying Design for Testability in AI Era - ACL Digital](https://www.acldigital.com/blogs/demystifying-design-testability-dft-era-ai-and-machine-learning)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/design-for-test-dft/](https://commons-os.github.io/patterns/domain/design-for-test-dft/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/design-for-test-dft.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/design-for-test-dft.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

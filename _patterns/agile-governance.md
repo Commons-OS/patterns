@@ -250,15 +250,3 @@ Agile Governance is a powerful enabler of collective value creation, providing e
 [4] Smartsheet. (2024, August 26). *Real-Life Agile Project Management & Famous Success Stories*. Retrieved from [https://www.smartsheet.com/content/agile-project-management-examples](https://www.smartsheet.com/content/agile-project-management-examples)
 
 [5] OECD. (2022). *Case studies on agile regulatory governance to harness innovation*. OECD Regulatory Policy Working Papers, No. 18. Retrieved from [https://www.oecd.org/en/publications/case-studies-on-agile-regulatory-governance-to-harness-innovation_0fa5e0e6-en.html](https://www.oecd.org/en/publications/case-studies-on-agile-regulatory-governance-to-harness-innovation_0fa5e0e6-en.html)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/12-agile-governance/](https://commons-os.github.io/patterns/domain/12-agile-governance/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/12-agile-governance.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/12-agile-governance.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

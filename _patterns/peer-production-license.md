@@ -139,15 +139,3 @@ The Peer Production License is a powerful tool for enabling and protecting colle
 [4] Bauwens, M., & Kostakis, V. (2014). *From the communism of capital to capital for the commons: Towards an open co-operativism*. TripleC: Communication, Capitalism & Critique, 12(1), 356-361.
 
 [5] Guerrilla Translation. (n.d.). *Why we chose the Peer Production License (PPL)*. Retrieved January 28, 2026, from https://guerrillatranslation.org/2012/11/29/why-we-chose-the-peer-production-license-ppl/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/peer-production-license/](https://commons-os.github.io/patterns/domain/peer-production-license/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/peer-production-license.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/peer-production-license.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

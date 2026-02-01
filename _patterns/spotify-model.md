@@ -248,15 +248,3 @@ The Spotify Model is a significant evolution from traditional hierarchical model
 [4] Scrum.org. (n.d.). What is Scrum? Retrieved from https://www.scrum.org/overview/what-is-scrum
 
 [5] Atlassian. (n.d.). What is Kanban? Retrieved from https://www.atlassian.com/agile/kanban
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/35-spotify-model/](https://commons-os.github.io/patterns/domain/35-spotify-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/35-spotify-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/35-spotify-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -163,15 +163,3 @@ The Design History File is a powerful industrial-era pattern for creating resili
 *   U.S. Food and Drug Administration. (1997). *Design Control Guidance For Medical Device Manufacturers*. Retrieved from https://www.fda.gov/media/116573/download
 *   Wikipedia. (n.d.). *Design history file*. Retrieved from https://en.wikipedia.org/wiki/Design_history_file
 *   SimplerQMS. (2025, February 3). *Design History File (DHF): Definition and Requirements*. Retrieved from https://simplerqms.com/design-history-file/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/design-history-file-dhf/](https://commons-os.github.io/patterns/domain/design-history-file-dhf/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/design-history-file-dhf.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/design-history-file-dhf.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

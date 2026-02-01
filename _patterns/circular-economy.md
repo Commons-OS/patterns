@@ -201,15 +201,3 @@ The circular economy is a powerful enabler of resilient collective value creatio
 [4] U.S. Environmental Protection Agency. (n.d.). *What is a Circular Economy?* Retrieved from https://www.epa.gov/circulareconomy/what-circular-economy
 
 [5] European Parliament. (2023, May 24). *Circular economy: definition, importance and benefits*. Retrieved from https://www.europarl.europa.eu/topics/en/article/20151201STO05603/circular-economy-definition-importance-and-benefits
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/circular-economy/](https://commons-os.github.io/patterns/domain/circular-economy/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/circular-economy.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/circular-economy.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -233,15 +233,3 @@ Permaculture is a powerful Value Creation Enabler due to its strong emphasis on 
 [5] Ferguson, R. S., & Lovell, S. T. (2014). Permaculture for agroecology: design, movement, practice, and worldview. A review. *Agronomy for sustainable development*, 34(2), 251-274.
 
 [6] Yassein, G. A., & Ebrahiem, S. F. (2024). Urban permaculture as an effective nature-based solution for advancing sustainability in cities: a comprehensive review and analysis. *ERJ. Engineering Research Journal*, 53(1), 1-16.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/permaculture-documented/](https://commons-os.github.io/patterns/domain/permaculture-documented/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/permaculture-documented.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/permaculture-documented.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -184,15 +184,3 @@ PESTLE analysis, as a framework for understanding the external environment, can 
 [4] Atlassian. (n.d.). *What Is a PESTLE Analysis?*. Atlassian. Retrieved from https://www.atlassian.com/work-management/strategic-planning/pestle-analysis
 
 [5] SpiderStrategies. (2025). *PESTEL Analysis: A Complete Guide to Strategic Planning*. SpiderStrategies. Retrieved from https://www.spiderstrategies.com/blog/pestel-analysis/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/pestle-analysis/](https://commons-os.github.io/patterns/domain/pestle-analysis/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/pestle-analysis.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/pestle-analysis.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

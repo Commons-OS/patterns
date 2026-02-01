@@ -135,15 +135,3 @@ Progressive Web Apps receive a high score because they are a powerful enabler of
 [3] [How Progressive Web Apps can drive business success - web.dev](https://web.dev/explore/progressive-web-apps)
 [4] [The Future of Progressive Web Apps (PWAs) - Zeton](https://www.zetaton.com/blogs/the-future-of-progressive-web-apps-pwas)
 [5] [Why Progressive Web Apps Are the Future of Mobile - Medium](https://medium.com/@nehagupta1504/why-progressive-web-apps-are-the-future-of-mobile-5-trends-you-cant-ignore-in-2025-0fc01a274d98)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/progressive-web-apps-pwa/](https://commons-os.github.io/patterns/domain/progressive-web-apps-pwa/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/progressive-web-apps-pwa.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/progressive-web-apps-pwa.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

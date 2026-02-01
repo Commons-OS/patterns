@@ -147,15 +147,3 @@ Helpful tools and platforms include **Loomio**, an open-source tool for collabor
 3.  Laloux, F. (2014). *Reinventing organizations: A guide to creating organizations inspired by the next stage of human consciousness*. Nelson Parker.
 4.  McChrystal, S. A., Collins, T., Silverman, D., & Fussell, C. (2015). *Team of teams: New rules of engagement for a complex world*. Penguin.
 5.  O'Toole, J., Galbraith, J., & Lawler III, E. E. (2002). When two (or more) heads are better than one: The promise and pitfalls of shared leadership. *California management review*, *44*(4), 65-83.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/human-universal/collective-leadership-distributed-authority-models/](https://commons-os.github.io/patterns/human-universal/collective-leadership-distributed-authority-models/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/collective-leadership-distributed-authority-models.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_human-universal/collective-leadership-distributed-authority-models.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

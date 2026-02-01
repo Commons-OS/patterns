@@ -275,15 +275,3 @@ Collective Leadership is a powerful enabler of resilient collective value creati
 *   [1] Wang, D., et al. (2014). A meta-analysis of shared leadership and team effectiveness.
 *   [2] Groysberg, B., & Slind, M. (2012). Leadership is a conversation.
 *   [3] Bar-Yam, Y. (2003). *Dynamics of complex systems*.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/9-collective-leadership/](https://commons-os.github.io/patterns/domain/9-collective-leadership/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/9-collective-leadership.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/9-collective-leadership.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

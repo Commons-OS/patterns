@@ -226,15 +226,3 @@ This section provides a curated list of resources for further exploration of Pla
     3.  Planetary Health Alliance. (2020). *Planetary Health Case Studies: An Anthology of Solutions*. Retrieved from https://planetaryhealthalliance.org/wp-content/uploads/2025/02/Complete-Planetary-Health-Case-Studies-Anthology.pdf
     4.  Planetary Health Alliance. (2022). *Planetary Health Roadmap and Action Plan*. Retrieved from https://planetaryhealthalliance.org/wp-content/uploads/2025/02/Roadmap-to-Planetary-Health-FINAL.pdf
     5.  Chartered Accountants Worldwide. (2024). *Here are the world’s TNFD early adopters*. Retrieved from https://charteredaccountantsworldwide.com/worlds-tnfd-early-adopters/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/planetary-health/](https://commons-os.github.io/patterns/domain/planetary-health/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/planetary-health.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/planetary-health.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

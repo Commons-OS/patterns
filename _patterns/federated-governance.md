@@ -192,15 +192,3 @@ Federated Governance strongly enables resilient, collective value creation by pr
 [4] Boston Consulting Group. (2024, June 1). *Federated Data Governance Model*. [https://media-publications.bcg.com/Federated-Data-Governance-Model.pdf](https://media-publications.bcg.com/Federated-Data-Governance-Model.pdf)
 
 [5] Mesh AI. (2025, October 11). *Data Mesh 101: Why Federated Data Governance Is The Secret Sauce of Data Innovation*. [https://www.mesh-ai.com/case-studies/data-mesh-101-why-federated-data-governance-is-the-secret-sauce-of-data-innovation](https://www.mesh-ai.com/case-studies/data-mesh-101-why-federated-data-governance-is-the-secret-sauce-of-data-innovation)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/95-federated-governance/](https://commons-os.github.io/patterns/domain/95-federated-governance/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/95-federated-governance.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/95-federated-governance.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

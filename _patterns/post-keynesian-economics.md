@@ -125,15 +125,3 @@ This section provides an assessment of the Post-Keynesian Economics pattern agai
 [3] Exploring Economics. (n.d.). Post-Keynesian Economics. Retrieved from https://www.exploring-economics.org/en/orientation/post-keynesian-economics/
 [4] Tcherneva, P. R. (2008). *The Return of Fiscal Policy: Can the New Developments in the New Economic Consensus Be Reconciled with the Post-Keynesian View?* (Working Paper No. 539). Levy Economics Institute. Retrieved from https://www.levyinstitute.org/pubs/wp_539.pdf
 [5] Nayan, S., Kadir, N., Abdullah, M. S., & Ahmad, M. (2013). Post Keynesian Endogeneity of Money Supply: Panel Evidence. *Procedia Economics and Finance*, *7*, 48–54. Retrieved from https://www.sciencedirect.com/science/article/pii/S2212567113002177
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/post-keynesian-economics/](https://commons-os.github.io/patterns/domain/post-keynesian-economics/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/post-keynesian-economics.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/post-keynesian-economics.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

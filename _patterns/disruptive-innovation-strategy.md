@@ -187,15 +187,3 @@ The pattern provides a powerful engine for creating accessibility and challengin
 [4] Innosight. (n.d.). *Disruptive Innovation Strategy: How to Stay Ahead of Market Shifts*. Retrieved from https://www.innosight.com/insight/disruptive-innovation-strategy/
 
 [5] Christensen Institute. (2024, July 15). *AI and Disruptive Innovation*. Retrieved from https://www.christenseninstitute.org/blog/ai-and-disruptive-innovation/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/disruptive-innovation-strategy/](https://commons-os.github.io/patterns/domain/disruptive-innovation-strategy/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/disruptive-innovation-strategy.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/disruptive-innovation-strategy.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

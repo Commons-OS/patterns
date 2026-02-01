@@ -241,15 +241,3 @@ This section provides a curated list of resources for further exploration of Sta
 [4] KPMG. (2022). *Measuring Stakeholder Capitalism: WEF IBC common metrics*. Retrieved from https://assets.kpmg.com/content/dam/kpmg/xx/pdf/2021/03/wef-ibc-common-metrics-measuring-stakeholder-capitalism.pdf
 
 [5] Esty, B. C., & Ciechanover, A. (2021). *Airbnb During the Pandemic: Stakeholder Capitalism Faces a Critical Test*. Harvard Business School. Retrieved from https://www.hbs.edu/faculty/Pages/item.aspx?num=60264
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/stakeholder-capitalism-wef-model/](https://commons-os.github.io/patterns/domain/stakeholder-capitalism-wef-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/stakeholder-capitalism-wef-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/stakeholder-capitalism-wef-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

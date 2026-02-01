@@ -256,15 +256,3 @@ Multi-Stakeholder Governance is a powerful enabler of collective value creation.
 *   Gasser, U., & Schulz, W. (2015). *Multistakeholder as governance groups: Observations from case studies*. Berkman Klein Center for Internet & Society at Harvard University.
 *   Leviten-Reid, C., & Fairbairn, B. (2011). Multi-stakeholder governance in cooperative organizations. *Journal of Co-operative Studies, 44*(2), 4-16.
 *   Schleifer, P. (2019). Varieties of multi-stakeholder governance. *Regulation & Governance, 13*(4), 451-469.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/7-multi-stakeholder-governance/](https://commons-os.github.io/patterns/domain/7-multi-stakeholder-governance/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/7-multi-stakeholder-governance.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/7-multi-stakeholder-governance.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

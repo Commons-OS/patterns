@@ -220,15 +220,3 @@ The Experience Model is a powerful enabler for creating collective value because
 [4] Wikipedia. (2023, October 30). *Experience model*. Retrieved from https://en.wikipedia.org/wiki/Experience_model
 
 [5] ScienceDirect. (n.d.). *Experience Models - an overview*. Retrieved from https://www.sciencedirect.com/topics/computer-science/experience-models
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/experience-model/](https://commons-os.github.io/patterns/domain/experience-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/experience-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/experience-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

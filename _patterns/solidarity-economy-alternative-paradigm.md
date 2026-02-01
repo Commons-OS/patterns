@@ -166,15 +166,3 @@ The Solidarity Economy is not merely a pattern but a comprehensive alternative e
 *   Scholz, T. (2016). _Platform Cooperativism: Challenging the Corporate Sharing Economy_. Rosa Luxemburg Stiftung.
 *   Wikipedia. (2023). _Solidarity economy_. [https://en.wikipedia.org/wiki/Solidarity_economy](https://en.wikipedia.org/wiki/Solidarity_economy)
 *   What Do We Mean By Solidarity Economy? - Solidarity Economy Principles. (n.d.). Retrieved from [https://solidarityeconomyprinciples.org/what-do-we-mean-by-solidarity-economy/](https://solidarityeconomyprinciples.org/what-do-we-mean-by-solidarity-economy/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/solidarity-economy-alternative-paradigm/](https://commons-os.github.io/patterns/domain/solidarity-economy-alternative-paradigm/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/solidarity-economy-alternative-paradigm.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/solidarity-economy-alternative-paradigm.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

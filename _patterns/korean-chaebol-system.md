@@ -237,15 +237,3 @@ While there are no specific tools or platforms for implementing the chaebol syst
 [5] Aghion, P., Guriev, S., & Jo, K. (2021). *Chaebols and Firm Dynamics in Korea*. Centre for Economic Policy Research.
 
 [6] Lee, K., & Lee, J. (2010). The long-term evolution of the firm value and behavior associated with chaebols or diversified business groups in Korea. *Journal of Economic Behavior & Organization*, *75*(2), 249-260.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/korean-chaebol-system/](https://commons-os.github.io/patterns/domain/korean-chaebol-system/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/korean-chaebol-system.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/korean-chaebol-system.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

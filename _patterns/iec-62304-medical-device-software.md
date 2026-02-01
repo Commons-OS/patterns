@@ -113,15 +113,3 @@ IEC 62304 is a critical standard that provides a partial framework for value cre
 [4] Pavlović, A. (2025). Ultimate guide to the IEC 62304 standard. Qualio. [https://www.qualio.com/blog/iec-62304](https://www.qualio.com/blog/iec-62304)
 
 [5] Ketryx. (2024). A Comprehensive Guide to IEC 62304: Navigating the Standard for Medical Device Software. [https://www.ketryx.com/blog/a-comprehensive-guide-to-iec-62304-navigating-the-standard-for-medical-device-software](https://www.ketryx.com/blog/a-comprehensive-guide-to-iec-62304-navigating-the-standard-for-medical-device-software)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/iec-62304-medical-device-software/](https://commons-os.github.io/patterns/context-specific/iec-62304-medical-device-software/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/iec-62304-medical-device-software.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/iec-62304-medical-device-software.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

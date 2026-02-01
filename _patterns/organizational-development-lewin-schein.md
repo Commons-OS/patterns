@@ -187,15 +187,3 @@ The pattern is a powerful enabler for building adaptive capacity, a critical com
 *   **Pennsylvania State University. (2020). *Managing Organizational Change: Lewin & Schein*.** Retrieved from https://sites.psu.edu/global/2020/04/07/managing-organizational-change-lewin-schein/
 
 *   **Hussain, S. T., et al. (2018). Kurt Lewin's change model: A critical review of the role of leadership and employee involvement in organizational change. *Journal of Innovation & Knowledge*, 3(3), 123-127.**
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/organizational-development-lewin-schein/](https://commons-os.github.io/patterns/domain/organizational-development-lewin-schein/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/organizational-development-lewin-schein.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/organizational-development-lewin-schein.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

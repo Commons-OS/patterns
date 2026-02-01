@@ -117,15 +117,3 @@ The Commons Alignment Assessment evaluates how well the Jobs-to-be-Done framewor
 [2] ProductPlan. (n.d.). *Jobs-To-Be-Done Framework | Definition and Overview*. Retrieved from https://www.productplan.com/glossary/jobs-to-be-done-framework/
 
 [3] Strategyn. (n.d.). *Jobs-to-be-Done | A Comprehensive Guide*. Retrieved from https://strategyn.com/jobs-to-be-done/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/jobs-to-be-done-jtbd/](https://commons-os.github.io/patterns/domain/jobs-to-be-done-jtbd/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/jobs-to-be-done-jtbd.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/jobs-to-be-done-jtbd.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

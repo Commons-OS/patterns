@@ -205,15 +205,3 @@ For those interested in learning more about the CIRCLES Method, the following re
 [4] [Sampath, Aditya. “How do you re-design a bed? — A PM interview case study using CIRCLES framework.” Medium, 12 Apr. 2024.](https://medium.com/@adityasampath/how-do-you-design-a-smart-bed-a-pm-interview-case-study-using-circles-framework-1ef9c8d19919)
 
 [5] [Usersnap. “What is the CIRCLES method? Examples and Alternatives.”](https://usersnap.com/blog/circles-method-examples/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/circles-method/](https://commons-os.github.io/patterns/implementation/circles-method/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/circles-method.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/circles-method.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

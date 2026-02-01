@@ -164,15 +164,3 @@ The pattern is a fundamental enabler for building resilient, adaptable, and scal
 *   [Business and IT - Separation of concerns](https://www.flexrule.com/archives/separation-of-concerns/)
 *   [Separation of concerns - Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
 *   [Modular Building Case Studies Archives](https://www.modular.org/category/case-studies/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/separation-process-design/](https://commons-os.github.io/patterns/implementation/separation-process-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/separation-process-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/separation-process-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

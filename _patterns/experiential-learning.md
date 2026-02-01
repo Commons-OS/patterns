@@ -278,15 +278,3 @@ Experiential Learning is a powerful enabler for creating resilient systems and f
 *   Wikipedia. (2023). *Experiential learning*. https://en.wikipedia.org/wiki/Experiential_learning
 *   Association for Experiential Education. (n.d.). *What is experiential education?* https://www.aee.org/what-is-experiential-education
 *   National Society for Experiential Education. (n.d.). *8 principles of good practice for all experiential learning activities*. https://www.nsee.org/8-principles
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/human-universal/73-experiential-learning/](https://commons-os.github.io/patterns/human-universal/73-experiential-learning/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/73-experiential-learning.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_human-universal/73-experiential-learning.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

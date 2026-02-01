@@ -167,15 +167,3 @@ Blue Ocean Strategy is a powerful engine for value creation and organizational r
 [4] "Blue Ocean Strategy: Definition, Features, and Business Examples," Investopedia, accessed January 28, 2026, https://www.investopedia.com/terms/b/blue_ocean.asp.
 
 [5] "Blue Ocean Strategy," Blue Ocean Strategy, accessed January 28, 2026, https://www.blueoceanstrategy.com/.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/red-ocean-vs-blue-ocean/](https://commons-os.github.io/patterns/domain/red-ocean-vs-blue-ocean/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/red-ocean-vs-blue-ocean.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/red-ocean-vs-blue-ocean.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

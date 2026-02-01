@@ -194,15 +194,3 @@ Serverless Computing is a powerful enabler of collective value creation, providi
 [14] [Building serverless architectures for agentic AI on AWS](https://docs.aws.amazon.com/prescriptive-guidance/latest/agentic-ai-serverless/introduction.html)
 
 [15] [Serverless AI: The Complete Guide to Building and Deploying AI Applications without Infrastructure](https://medium.com/aidatatools/serverless-ai-the-complete-guide-to-building-and-deploying-ai-applications-without-infrastructure-9a454cf6c48d)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/serverless-computing-function-as-a-service/](https://commons-os.github.io/patterns/domain/serverless-computing-function-as-a-service/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/serverless-computing-function-as-a-service.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/serverless-computing-function-as-a-service.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

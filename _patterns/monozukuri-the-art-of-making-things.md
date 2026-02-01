@@ -161,15 +161,3 @@ Monozukuri is a powerful enabler of resilient collective value creation, with de
 [4] Pringle, P. (2020, July 17). *Monozukuri - another look at a key Japanese principle*. Japan Intercultural Consulting. Retrieved from https://japanintercultural.com/free-resources/articles/monozukuri-another-look-at-a-key-japanese-principle/
 
 [5] Toyota Motor Corporation. (2023, September 19). *Basic tenets of Toyota's Monozukuri (Founder's philosophy / High level of skills and technologies)*. Retrieved from https://global.toyota/en/newsroom/corporate/39758220.html
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/monozukuri-the-art-of-making-things/](https://commons-os.github.io/patterns/domain/monozukuri-the-art-of-making-things/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/monozukuri-the-art-of-making-things.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/monozukuri-the-art-of-making-things.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -262,15 +262,3 @@ Lean Manufacturing is a powerful engine for optimizing production and creating e
 4.  Ohno, T. (1988). *Toyota Production System: Beyond Large-Scale Production*. Productivity Press.
 5.  Imai, M. (1997). *Gemba Kaizen: A Commonsense, Low-Cost Approach to Management*. McGraw-Hill.
 6.  Shingo, S. (1989). *A Study of the Toyota Production System from an Industrial Engineering Viewpoint*. Productivity Press.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/lean-manufacturing/](https://commons-os.github.io/patterns/domain/lean-manufacturing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/lean-manufacturing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/lean-manufacturing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

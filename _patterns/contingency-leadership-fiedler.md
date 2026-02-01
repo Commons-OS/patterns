@@ -145,15 +145,3 @@ Fiedler's Contingency Model is a product of its time, focused on optimizing lead
 3.  [Fiedler’s Contingency Theory: Why Leadership Isn’t Uniform - Asana](https://asana.com/resources/fiedlers-contingency-theory)
 4.  [An Overview and Discussion of Fred E. Fiedler’s Contingency Model of Leadership Effectiveness - University of North Dakota](https://commons.und.edu/cgi/viewcontent.cgi?article=1012&context=cfl-lp)
 5.  [The Contingency Theory of Leadership: A Focus on Fit - Harvard Law School](https://www.pon.harvard.edu/daily/leadership-skills-daily/the-contingency-theory-of-leadership-a-focus-on-fit/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/contingency-leadership-fiedler/](https://commons-os.github.io/patterns/domain/contingency-leadership-fiedler/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/contingency-leadership-fiedler.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/contingency-leadership-fiedler.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -181,15 +181,3 @@ Inclusive Design is a powerful enabler of collective value creation by ensuring 
 [4] Accenture. (2018). *Getting to Equal: The Disability Inclusion Advantage*. Retrieved from https://www.accenture.com/content/dam/accenture/final/a-com-migration/pdf/pdf-89/accenture-disability-inclusion-research-report.pdf
 
 [5] Business & Human Rights Resource Centre. (2019). *Human rights in the retail sector*. Retrieved from https://www.business-humanrights.org/en/from-us/briefings/human-rights-in-the-retail-sector/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/inclusive-design/](https://commons-os.github.io/patterns/domain/inclusive-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/inclusive-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/inclusive-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

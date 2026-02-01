@@ -222,15 +222,3 @@ Sociotechnical Systems Design is a powerful enabler of collective value creation
 [4] Pasmore, W. A. (1988). *Designing effective organizations: The sociotechnical systems perspective*. John Wiley & Sons.
 
 [5] Appelbaum, S. H. (1997). Socio-technical systems theory: an intervention strategy for organizational development. *Management Decision*, *35*(6), 452-463.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/social-technical-systems-design/](https://commons-os.github.io/patterns/domain/social-technical-systems-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/social-technical-systems-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/social-technical-systems-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -159,15 +159,3 @@ The Gift Economy is a powerful enabler of collective value creation, fostering s
 [5] Appleton, M. (n.d.). *The Gift Economy*. Retrieved from https://maggieappleton.com/gift-economy
 
 [6] Hann, C. (2006). *The Gift and Reciprocity: Perspectives from Economic Anthropology*. ScienceDirect. Retrieved from https://www.sciencedirect.com/science/article/abs/pii/S1574071406010049
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/gift-economy-reciprocity-based/](https://commons-os.github.io/patterns/domain/gift-economy-reciprocity-based/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/gift-economy-reciprocity-based.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/gift-economy-reciprocity-based.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

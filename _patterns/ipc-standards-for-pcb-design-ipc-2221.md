@@ -157,15 +157,3 @@ IPC-2221 is a powerful enabler of collective value creation within the industria
 [3] [Understanding the IPC-2221 Standard: A Foundation for Reliable PCB Design](https://arshon.com/blog/understanding-the-ipc-2221-standard-a-foundation-for-reliable-pcb-design/)
 [4] [IPC-2221 Calculator for PCB Trace Current and Heating](https://resources.altium.com/p/ipc-2221-calculator-pcb-trace-current-and-heating)
 [5] [IPC 2221 Demystified: A Beginner's Guide to PCB Design Standards](https://www.allpcb.com/allelectrohub/ipc-2221-demystified-a-beginners-guide-to-pcb-design-standards)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/ipc-standards-for-pcb-design-ipc-2221/](https://commons-os.github.io/patterns/domain/ipc-standards-for-pcb-design-ipc-2221/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/ipc-standards-for-pcb-design-ipc-2221.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/ipc-standards-for-pcb-design-ipc-2221.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

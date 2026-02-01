@@ -108,15 +108,3 @@ The Commons Alignment Assessment evaluates how well the Usability Engineering fo
 3.  [A Step-by-Step Guide to IEC 62366 and Usability Engineering](https://mdxcro.com/a-step-by-step-guide-to-iec-62366-and-usability-engineering/)
 4.  [The IEC 62366 (Usability) Summary: All You Need To Know](https://openregulatory.com/articles/iec-62366-usability-summary)
 5.  [Applying Human Factors and Usability Engineering to Medical Devices - FDA Guidance](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/applying-human-factors-and-usability-engineering-medical-devices)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/usability-engineering-for-medical-devices-iec-62366/](https://commons-os.github.io/patterns/domain/usability-engineering-for-medical-devices-iec-62366/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/usability-engineering-for-medical-devices-iec-62366.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/usability-engineering-for-medical-devices-iec-62366.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

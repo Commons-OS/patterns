@@ -189,15 +189,3 @@ Pacific Islander Systems are a powerful framework for resilient collective value
     3.  [PacNet: Integrating Traditional Leadership in Pacific Islands Governance](https://pacforum.org/publications/pacnet-35-how-integrating-traditional-leadership-will-impact-pacific-islands-governance-and-diplomacy/)
     4.  [Everyculture: Sio - Sociopolitical Organization](https://www.everyculture.com/Oceania/Sio-Sociopolitical-Organization.html)
     5.  [JSTOR: Traditional Leaders and Modern Pacific Island Governance](https://www.jstor.org/stable/2644187)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/pacific-islander-systems/](https://commons-os.github.io/patterns/domain/pacific-islander-systems/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/pacific-islander-systems.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/pacific-islander-systems.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

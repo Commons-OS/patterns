@@ -203,15 +203,3 @@ Ujamaa is a quintessential transitional pattern. It represents a visionary attem
     3. [Wikipedia contributors. (2024, January 19). *Ujamaa*. Wikipedia.](https://en.wikipedia.org/wiki/Ujamaa)
     4. [Nyerere, J. K. (1962). *Ujamaa: The Basis of African Socialism*.](https://www.juliusnyerere.org/uploads/ujamaa_1962.pdf)
     5. [Le Luel, H. (2024, October 27). *Legacies of Ujamaa*. Retrospect Journal.](https://retrospectjournal.com/2024/10/27/hector-le-luel-legacies-of-ujamaa/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/89-ujamaa-tanzania/](https://commons-os.github.io/patterns/domain/89-ujamaa-tanzania/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/89-ujamaa-tanzania.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/89-ujamaa-tanzania.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

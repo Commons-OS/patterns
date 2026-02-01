@@ -143,15 +143,3 @@ The alignment of the Tool-Specific Methodologies pattern with the principles of 
 
 1.  [Software Development Methodologies: Types and Comparison](https://www.itransition.com/software-development/methodologies)
 2.  [What are the 20 key Lean tools and methodologies](https://www.wevalgo.com/know-how/lean-management/lean-methods-tools)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/tool-specific-methodologies/](https://commons-os.github.io/patterns/implementation/tool-specific-methodologies/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/tool-specific-methodologies.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/tool-specific-methodologies.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

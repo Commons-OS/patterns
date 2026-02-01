@@ -250,15 +250,3 @@ Safety Engineering is a powerful enabler of collective value creation by providi
 [4] Wikipedia. (2023). *Safety engineering*. Retrieved from https://en.wikipedia.org/wiki/Safety_engineering
 
 [5] Wikipedia. (2023). *Safety life cycle*. Retrieved from https://en.wikipedia.org/wiki/Safety_life_cycle
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/safety-engineering/](https://commons-os.github.io/patterns/domain/safety-engineering/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/safety-engineering.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/safety-engineering.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

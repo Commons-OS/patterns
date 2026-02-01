@@ -153,15 +153,3 @@ The pattern is scored as Transitional because while it is a sophisticated tool f
 [4] Meilgaard, M. C., Carr, B. T., & Civille, G. V. (1999). *Sensory evaluation techniques*. CRC press.
 
 [5] Civille, G. V., & Carr, B. T. (2024). *Sensory evaluation techniques*. CRC press.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/sensory-analysis-in-product-development/](https://commons-os.github.io/patterns/domain/sensory-analysis-in-product-development/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/sensory-analysis-in-product-development.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/sensory-analysis-in-product-development.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

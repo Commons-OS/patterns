@@ -167,15 +167,3 @@ The Phase-Gate process is a powerful and proven framework for managing complex p
 [4] "The Stage-Gate Model: An Overview." Stage-Gate International. Accessed January 28, 2026. https://www.stage-gate.com/blog/the-stage-gate-model-an-overview/.
 
 [5] "Are there any case studies that demonstrate the effectiveness of the stage-gate development process in product development?" YouExec. Accessed January 28, 2026. https://youexec.com/questions/are-there-any-case-studies-that-demonstrate-the-effecti-cw1.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/phase-gate-process/](https://commons-os.github.io/patterns/implementation/phase-gate-process/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/phase-gate-process.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/phase-gate-process.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

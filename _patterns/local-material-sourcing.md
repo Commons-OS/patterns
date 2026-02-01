@@ -158,15 +158,3 @@ The pattern is a powerful enabler of resilient, collective value creation by fun
 *   [3] Schwarz, L. (2025, October 6). *Local Sourcing Explained: The Advantages and Disadvantages of Sourcing Locally*. NetSuite. Retrieved from https://www.netsuite.com/portal/resource/articles/erp/local-sourcing.shtml
 *   [4] Supplier.io. (2024). *Economic Impact of Supplier Diversity*. Retrieved from [https://www.supplier.io/](https://www.supplier.io/)
 *   [5] Bain & Company. (2024). *The CEO’s Dilemma: How to Lead in a World of Constant Disruption*. Retrieved from [https://www.bain.com/](https://www.bain.com/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/local-material-sourcing/](https://commons-os.github.io/patterns/domain/local-material-sourcing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/local-material-sourcing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/local-material-sourcing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

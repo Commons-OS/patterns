@@ -127,15 +127,3 @@ The Quechua/Aymara pattern is a powerful framework for resilient, collective val
 3.  [Inca society - Wikipedia](https://en.wikipedia.org/wiki/Inca_society)
 4.  [The Ayllu: The Basic Social Unit of the Aymara People](https://scholarship.stu.edu/cgi/viewcontent.cgi?article=1467&context=stlr)
 5.  [Quechua People: A Living Andean Culture](https://www.peruforless.com/blog/quechua-people/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/quechuaaymara-andes/](https://commons-os.github.io/patterns/domain/quechuaaymara-andes/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/quechuaaymara-andes.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/quechuaaymara-andes.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

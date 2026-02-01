@@ -193,15 +193,3 @@ For those interested in exploring the topic of Community Currencies and Local Ex
 [4] Community Exchange System. (n.d.). *CES Global*. [https://www.community-exchange.org/](https://www.community-exchange.org/)
 
 [5] LetsLink UK. (n.d.). *LETS Link UK*. [https://www.letslinkuk.net/](https://www.letslinkuk.net/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/99-community-currencies-local-exchange/](https://commons-os.github.io/patterns/domain/99-community-currencies-local-exchange/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/99-community-currencies-local-exchange.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/99-community-currencies-local-exchange.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -228,15 +228,3 @@ The Incremental Development Model is a powerful enabler of collective value crea
 [3] Kim, G. (2013). *The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win*. IT Revolution Press.
 [4] Petersen, K., & Wohlin, C. (2009). A comparison of issues and advantages in agile and incremental development between state of the art and an industrial case. *Journal of Systems and Software*, *82*(9), 1479-1490.
 [5] Tate, G., & Verner, J. (1990). Case study of risk management, incremental development, and evolutionary prototyping. *Information and Software Technology*, *32*(3), 207-214.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/incremental-development-model/](https://commons-os.github.io/patterns/domain/incremental-development-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/incremental-development-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/incremental-development-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -184,15 +184,3 @@ Gitcoin Grants is a powerful and proven enabler of collective value creation. It
 3.  [What is Gitcoin? The GTC Crypto Protocol Explained.](https://www.gemini.com/cryptopedia/gtc-crypto-gitcoin-bounties-web3-gtc-token)
 4.  [Gitcoin](https://gitcoin.co/)
 5.  [The Unofficial Guide to Gitcoin Grants](https://unlock-protocol.com/guides/gitcoin-grants/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/gitcoin-grants/](https://commons-os.github.io/patterns/domain/gitcoin-grants/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/gitcoin-grants.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/gitcoin-grants.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

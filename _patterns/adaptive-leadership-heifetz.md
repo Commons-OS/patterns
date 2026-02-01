@@ -187,15 +187,3 @@ While there are no specific software platforms for adaptive leadership, many col
 [4] Harvard Kennedy School. (n.d.). *The Practice of Adaptive Leadership: Tools and Tactics for Changing Your Organization and the World*. https://www.hks.harvard.edu/publications/practice-adaptive-leadership-tools-and-tactics-changing-your-organization-and-world
 
 [5] Smith, T. (2020). *Implementing Change: A Case Study of Adaptive Leadership*. University of Arkansas. https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=5460&context=etd
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/75-adaptive-leadership-heifetz/](https://commons-os.github.io/patterns/domain/75-adaptive-leadership-heifetz/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/75-adaptive-leadership-heifetz.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/75-adaptive-leadership-heifetz.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

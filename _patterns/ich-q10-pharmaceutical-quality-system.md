@@ -151,15 +151,3 @@ VanDuyse, S. A. (2021). ICH Q10 pharmaceutical quality system guidance: understa
 *European Pharmaceutical Review*.
 
 *Journal of Pharmaceutical Innovation*.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/ich-q10-pharmaceutical-quality-system/](https://commons-os.github.io/patterns/domain/ich-q10-pharmaceutical-quality-system/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/ich-q10-pharmaceutical-quality-system.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/ich-q10-pharmaceutical-quality-system.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

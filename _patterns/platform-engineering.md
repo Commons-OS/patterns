@@ -248,15 +248,3 @@ Platform Engineering is a powerful enabler of collective value creation within i
 [11] Forsgren, N., Humble, J., & Kim, G. (2018). *Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations*. IT Revolution Press.
 
 [12] Fournier, C., & Nowland, I. (2023). *Platform Engineering: A Guide for Technical, Product, and People Leaders*. O'Reilly Media.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/19-platform-engineering/](https://commons-os.github.io/patterns/domain/19-platform-engineering/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/19-platform-engineering.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/19-platform-engineering.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

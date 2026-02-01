@@ -175,15 +175,3 @@ IRR is a powerful tool for assessing financial viability but is a partial enable
 [3] GiniMachine. (2023). *Measuring ROI for Artificial Intelligence in Financial Services*. [https://ginimachine.com/blog/the-roi-of-implementing-ai-in-financial-services/](https://ginimachine.com/blog/the-roi-of-implementing-ai-in-financial-services/)
 
 [4] Corporate Finance Institute. (n.d.). *NPV vs IRR*. [https://corporatefinanceinstitute.com/resources/valuation/npv-vs-irr/](https://corporatefinanceinstitute.com/resources/valuation/npv-vs-irr/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/internal-rate-of-return-irr/](https://commons-os.github.io/patterns/domain/internal-rate-of-return-irr/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/internal-rate-of-return-irr.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/internal-rate-of-return-irr.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -226,15 +226,3 @@ The Product Generation Process is a robust and proven framework for developing p
 [4] Maze. (2025, January 8). *7 Stages of the New Product Development Process*. https://maze.co/collections/product-development/new/
 
 [5] Wikipedia. (n.d.). *New product development*. https://en.wikipedia.org/wiki/New_product_development
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/product-generation-process/](https://commons-os.github.io/patterns/implementation/product-generation-process/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/product-generation-process.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/product-generation-process.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

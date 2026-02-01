@@ -263,15 +263,3 @@ AI Governance Models are a powerful enabler of collective value creation by esta
 [6] "AI governance: What it is, why it matters and how to implement it," Diligent, [Online]. Available: https://www.diligent.com/resources/blog/ai-governance
 
 [7] "AI Governance Examples: Successes & Failures," Relyance AI, [Online]. Available: https://www.relyance.ai/blog/ai-governance-examples
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/ai-governance-models/](https://commons-os.github.io/patterns/domain/ai-governance-models/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/ai-governance-models.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/ai-governance-models.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

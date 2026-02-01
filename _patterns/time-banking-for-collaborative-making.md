@@ -134,15 +134,3 @@ Time Banking for Collaborative Making is highly aligned with the principles of t
 3.  Collaborative Finance. (n.d.). *Timebanking*. Retrieved from [https://www.collaborativefinance.org/mutual-credit/timebanking/](https://www.collaborativefinance.org/mutual-credit/timebanking/)
 4.  Nonprofit Quarterly. (2022, June 1). *Time Banking: A Community Path to Addressing Social Exclusion*. Retrieved from [https://nonprofitquarterly.org/time-banking-a-community-path-to-addressing-social-exclusion/](https://nonprofitquarterly.org/time-banking-a-community-path-to-addressing-social-exclusion/)
 5.  Investopedia. (n.d.). *Time Banking: Meaning, Pros and Cons, Example*. Retrieved from [https://www.investopedia.com/terms/t/time-banking.asp](https://www.investopedia.com/terms/t/time-banking.asp)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/time-banking-for-collaborative-making/](https://commons-os.github.io/patterns/domain/time-banking-for-collaborative-making/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/time-banking-for-collaborative-making.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/time-banking-for-collaborative-making.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

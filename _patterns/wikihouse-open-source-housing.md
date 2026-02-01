@@ -144,15 +144,3 @@ The WikiHouse project demonstrates a strong alignment with the principles of the
 *   [3] WikiHouse Design Principles. (https://www.wikihouse.cc/design/principles-of-good-design)
 *   [4] Parvin, A. (2013). Architecture for the people by the people. TED Talk. (https://www.ted.com/talks/alastair_parvin_architecture_for_the_people_by_the_people)
 *   [5] Open Systems Lab. (https://www.opensystemslab.io/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/wikihouse-open-source-housing/](https://commons-os.github.io/patterns/domain/wikihouse-open-source-housing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/wikihouse-open-source-housing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/wikihouse-open-source-housing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

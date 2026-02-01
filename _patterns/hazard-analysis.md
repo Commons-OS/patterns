@@ -237,15 +237,3 @@ The Commons Alignment Assessment evaluates how well the Hazard Analysis pattern 
 [4] Michigan Technological University. (n.d.). *Hazard Analysis Using the Hazard Identification Checklist*. Retrieved from https://www.mtu.edu/ehs/docs/hazard-analysis-instructions.pdf
 
 [5] Federal Aviation Administration. (2023, September 29). *Safety Risk Management Policy (FAA Order 8040.4C)*. Retrieved from https://www.faa.gov/documentLibrary/media/Order/FAA_Order_8040.4C.pdf
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/hazard-analysis/](https://commons-os.github.io/patterns/domain/hazard-analysis/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/hazard-analysis.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/hazard-analysis.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

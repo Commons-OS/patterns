@@ -138,15 +138,3 @@ Unschooling is not a new concept. It has its roots in the work of educational re
 Unschooling is not just about education. It is also a philosophy of parenting. Unschooling parents believe that children should be treated with respect and that their opinions should be valued. They believe that children should be given the freedom to make their own choices and to learn from their own mistakes.
 
 Unschooling is not for everyone. It requires a great deal of trust and a willingness to let go of control. It also requires a commitment to creating a rich and stimulating learning environment for your children. However, for those who are willing to embrace it, unschooling can be a rewarding and transformative experience.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/unschooling/](https://commons-os.github.io/patterns/domain/unschooling/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/unschooling.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/unschooling.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

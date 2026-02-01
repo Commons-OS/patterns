@@ -242,15 +242,3 @@ API-First Design is a powerful enabler of collective value creation by providing
 [4] Beaulieu, N., Dascalu, S. M., & Hand, E. (2022). API-First Design: A Survey of the State of Academia and Industry. In *ITNG 2022 19th International Conference on Information Technology-New Generations* (pp. 103-110). Springer.
 
 [5] Dudjak, M., & Martinović, G. (2020). An API-first methodology for designing a microservice-based Backend as a Service platform. *Information Technology and Control*, *49*(2), 235-253.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/18-api-first-design/](https://commons-os.github.io/patterns/domain/18-api-first-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/18-api-first-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/18-api-first-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

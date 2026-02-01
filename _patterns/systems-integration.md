@@ -232,15 +232,3 @@ Systems Integration is a fundamental enabler for creating complex, distributed v
 [3] [System Integration Principles - Medium](https://medium.com/@i.akbar22/system-integration-principles-571febdd5670)
 [4] [System integration best practices: 6 key steps to follow - Vega IT](https://www.vegaitglobal.com/media-center/business-insights/system-integration-best-practices-6-key-steps-to-follow)
 [5] [Integration case studies - MuleSoft](https://www.mulesoft.com/case-studies)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/systems-integration/](https://commons-os.github.io/patterns/domain/systems-integration/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/systems-integration.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/systems-integration.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

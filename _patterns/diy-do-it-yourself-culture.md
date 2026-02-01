@@ -183,15 +183,3 @@ DIY Culture is a powerful enabler of collective value creation, particularly in 
 [4] Vasilyeva, Z. (2025). *DIY modernity: rethinking socialist experience*. Retrieved from https://www.tandfonline.com/doi/full/10.1080/25739638.2025.2476860
 
 [5] Downes, J., Breeze, M., & Griffin, C. (2013). *Researching DIY Cultures: Towards a Situated Ethical Practice*. Retrieved from http://gjss.org/sites/default/files/issues/chapters/papers/Journal-10-03--05-Downes-Breeze-Griffin_0.pdf
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/diy-do-it-yourself-culture/](https://commons-os.github.io/patterns/domain/diy-do-it-yourself-culture/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/diy-do-it-yourself-culture.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/diy-do-it-yourself-culture.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

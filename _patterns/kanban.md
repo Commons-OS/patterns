@@ -231,15 +231,3 @@ Kanban is a powerful enabler for resilient value creation due to its focus on fl
 [4] Kanban University. (n.d.). *The Official Guide to The Kanban Method*. Kanban University. Retrieved January 28, 2026, from https://kanban.university/kanban-guide/
 
 [5] ProjectManager. (2024, April 25). *Kanban History: Origin & Expansion Across Industries*. ProjectManager. Retrieved January 28, 2026, from https://www.projectmanager.com/blog/kanban-history
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/kanban/](https://commons-os.github.io/patterns/domain/kanban/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/kanban.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/kanban.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

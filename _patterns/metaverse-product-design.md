@@ -268,15 +268,3 @@ The pattern provides a strong foundation for designing user-centric and technolo
 *   [https://program-ace.com/news/metaverse-design/](https://program-ace.com/news/metaverse-design/)
 *   [https://xebia.com/blog/exploring-the-impact-of-metaverse-on-product-innovation/](https://xebia.com/blog/exploring-the-impact-of-metaverse-on-product-innovation/)
 *   [https://www.sciencedirect.com/science/article/pii/S2667241323000198](https://www.sciencedirect.com/science/article/pii/S2667241323000198)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/metaverse-product-design/](https://commons-os.github.io/patterns/domain/metaverse-product-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/metaverse-product-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/metaverse-product-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

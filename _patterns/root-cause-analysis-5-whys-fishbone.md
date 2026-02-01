@@ -193,15 +193,3 @@ Root Cause Analysis is a powerful enabler of resilient value creation. It provid
 [4] CMS.gov. (n.d.). *Guidance for Performing Root Cause Analysis (RCA) with Performance Improvement Projects (PIPs)*. Retrieved from https://www.cms.gov/medicare/provider-enrollment-and-certification/qapi/downloads/guidanceforrca.pdf
 
 [5] ASQ. (n.d.). *What is Root Cause Analysis (RCA)?*. Retrieved from https://asq.org/quality-resources/root-cause-analysis
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/root-cause-analysis-5-whys-fishbone/](https://commons-os.github.io/patterns/domain/root-cause-analysis-5-whys-fishbone/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/root-cause-analysis-5-whys-fishbone.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/root-cause-analysis-5-whys-fishbone.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

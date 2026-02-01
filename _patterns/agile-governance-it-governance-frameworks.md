@@ -235,15 +235,3 @@ Agile Governance is a powerful enabler of collective value creation, demonstrati
 [7] ING. (n.d.). *How ING is transforming into an agile organization*. Retrieved from https://www.ing.com/About-us/Strategy/How-ING-is-transforming-into-an-agile-organization.htm
 
 [8] Kniberg, H., & Ivarsson, A. (2012). *Scaling Agile @ Spotify with Tribes, Squads, Chapters & Guilds*. Retrieved from https://engineering.atspotify.com/2012/11/15/scaling-agile-at-spotify-with-tribes-squads-chapters-guilds/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/agile-governance-it-governance-frameworks/](https://commons-os.github.io/patterns/domain/agile-governance-it-governance-frameworks/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/agile-governance-it-governance-frameworks.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/agile-governance-it-governance-frameworks.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

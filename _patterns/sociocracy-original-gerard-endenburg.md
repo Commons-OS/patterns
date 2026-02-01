@@ -264,15 +264,3 @@ Sociocracy provides a powerful and proven architecture for collective self-gover
 *   Buck, J., & Villines, S. (2007). *We the people: Consenting to a deeper democracy*. Sociocracy.info.
 *   Endenburg, G. (1998). *Sociocracy: The organization of decision-making*. Eburon.
 *   Rau, T. J., & Koch-Gonzalez, J. (2018). *Many voices, one song: Shared power with sociocracy*. Sociocracy for All.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/1-sociocracy-original-gerard-endenburg/](https://commons-os.github.io/patterns/domain/1-sociocracy-original-gerard-endenburg/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/1-sociocracy-original-gerard-endenburg.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/1-sociocracy-original-gerard-endenburg.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

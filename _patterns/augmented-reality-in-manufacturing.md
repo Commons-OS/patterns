@@ -200,16 +200,3 @@ To further explore the topic of Augmented Reality in Manufacturing, the followin
 [4] Boeing. (2018, January). *Augmented Reality is helping Boeing wire its airplanes*. Retrieved from https://www.boeing.com/features/2018/01/ar-glasses-01-18.page
 
 [5] Grand View Research. (n.d.). *Augmented Reality & Virtual Reality In Manufacturing Market Size, Share & Trends Analysis Report*. Retrieved from https://www.grandviewresearch.com/industry-analysis/augmented-reality-virtual-reality-manufacturing-market-report
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/augmented-reality-in-manufacturing/](https://commons-os.github.io/patterns/context-specific/augmented-reality-in-manufacturing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/augmented-reality-in-manufacturing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/augmented-reality-in-manufacturing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
-'''

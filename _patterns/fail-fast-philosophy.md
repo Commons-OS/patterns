@@ -174,15 +174,3 @@ The Fail Fast philosophy is a powerful enabler of resilient value creation, part
 [5] Becker, C. R. (2025). *Failing fast with AI*. UX Collective. [https://uxdesign.cc/failing-fast-with-ai-e30887321ef5](https://uxdesign.cc/failing-fast-with-ai-e30887321ef5)
 
 [6] Candelier, E. (2025). *Fail Fast, Learn Faster: Neal Magee Reflects on AI, Education, and Entrepreneurship*. University of Virginia School of Data Science. [https://datascience.virginia.edu/news/fail-fast-learn-faster-neal-magee-reflects-ai-education-and-entrepreneurship](https://datascience.virginia.edu/news/fail-fast-learn-faster-neal-magee-reflects-ai-education-and-entrepreneurship)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/fail-fast-philosophy/](https://commons-os.github.io/patterns/domain/fail-fast-philosophy/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/fail-fast-philosophy.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/fail-fast-philosophy.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

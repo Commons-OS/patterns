@@ -211,15 +211,3 @@ The origin of platform strategy can be traced back to the early days of the inte
 [2] Umbrex. (n.d.). *What is Platform Strategy?* https://umbrex.com/resources/strategy-concepts/what-is-platform-strategy/
 
 [3] Zhao, Y., von Delft, S., Morgan-Thomas, A., & Buck, T. (2020). The evolution of platform business models: Exploring competitive battles in the world of platforms. *Long Range Planning*, *53*(4), 101892. https://doi.org/10.1016/j.lrp.2019.101892
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/platform-strategy/](https://commons-os.github.io/patterns/domain/platform-strategy/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/platform-strategy.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/platform-strategy.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

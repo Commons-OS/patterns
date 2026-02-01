@@ -182,15 +182,3 @@ For those interested in the academic and research aspects of AI in design, the p
 [3] Choudhury, M. M., Eisenbart, B., & Kuys, B. (2025). Artificial intelligence (AI) in the design process – a review and analysis on generative AI perspectives. *Proceedings of the Design Society*, *5*, 631-640. [https://www.cambridge.org/core/journals/proceedings-of-the-design-society/article/artificial-intelligence-ai-in-the-design-process-a-review-and-analysis-on-generative-ai-perspectives/36E8736EEB55F0B38C2C9AB47EF381FE](https://www.cambridge.org/core/journals/proceedings-of-the-design-society/article/artificial-intelligence-ai-in-the-design-process-a-review-and-analysis-on-generative-ai-perspectives/36E8736EEB55F0B38C2C9AB47EF381FE)
 
 [4] ResearchGate. (2023). *The Impact of Artificial Intelligence on the Graphic Design Industry*. [https://www.researchgate.net/publication/376450686_The_Impact_of_Artificial_Intelligence_on_the_Graphic_Design_Industry](https://www.researchgate.net/publication/376450686_The_Impact_of_Artificial_Intelligence_on_the_Graphic_Design_Industry)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/ai-powered-design-assistants/](https://commons-os.github.io/patterns/domain/ai-powered-design-assistants/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/ai-powered-design-assistants.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/ai-powered-design-assistants.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

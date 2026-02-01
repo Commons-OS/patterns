@@ -138,15 +138,3 @@ Cellular Manufacturing is a powerful enabler of resilient value creation, demons
 *   [3] Strategos, Inc. (n.d.). *How To Design Workcells - Cellular Manufacturing*. Retrieved from https://strategosinc.com/RESOURCES/07-Layout-Facilities/celldesign.htm
 *   [4] Prosit Consulting. (n.d.). *Case Study: Standard Work and Cellular Manufacturing*. Retrieved from https://www.prositconsult.com/case-studies/case-study-standard-work-and-cellular-manufacturing/
 *   [5] Chen, J. C. (2001). A Kaizen Based Approach for Cellular Manufacturing System Design: A Case Study. *Journal of Technology Studies*, *27*(2). Retrieved from https://jotsjournal.org/articles/10.21061/jots.v27i2.a.3
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/cellular-manufacturing-work-cell-design/](https://commons-os.github.io/patterns/context-specific/cellular-manufacturing-work-cell-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/cellular-manufacturing-work-cell-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/cellular-manufacturing-work-cell-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

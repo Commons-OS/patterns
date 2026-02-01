@@ -203,15 +203,3 @@ For those seeking to deepen their understanding of Credit Union Governance, a we
 [4] Filene Research Institute. (2024). *Lessons on Governance from Credit Union CEOs*. [https://www.filene.org/reports/lessons-on-governance-from-credit-union-ceos](https://www.filene.org/reports/lessons-on-governance-from-credit-union-ceos)
 
 [5] CUES. (2024). *Good Governance: A Case Study in Board Diversity & Education*. [https://www.cumanagement.com/articles/2024/03/good-governance-case-study-board-diversity-education](https://www.cumanagement.com/articles/2024/03/good-governance-case-study-board-diversity-education)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/96-credit-union-governance/](https://commons-os.github.io/patterns/domain/96-credit-union-governance/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/96-credit-union-governance.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/96-credit-union-governance.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

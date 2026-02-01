@@ -209,15 +209,3 @@ Buddhist Economics provides a profound philosophical and ethical foundation for 
 
 *   Mondragon Corporation: [https://www.mondragon-corporation.com/en/](https://www.mondragon-corporation.com/en/)
 *   Transition Network: [https://transitionnetwork.org/](https://transitionnetwork.org/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/91-buddhist-economics-schumacher/](https://commons-os.github.io/patterns/domain/91-buddhist-economics-schumacher/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/91-buddhist-economics-schumacher.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/91-buddhist-economics-schumacher.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

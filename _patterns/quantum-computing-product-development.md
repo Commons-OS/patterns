@@ -226,15 +226,3 @@ The pattern is a powerful framework for navigating the transition into a new tec
 [4] Bayerstadler, A., et al. (2021). *Industry quantum computing applications*. EPJ Quantum Technology. https://epjqt.epj.org/articles/epjqt/abs/2021/01/40507_2021_Article_114/40507_2021_Article_114.html
 
 [5] Alberts, G., et al. (2021). *Accelerating quantum computer developments*. EPJ Quantum Technology. https://epjqt.epj.org/articles/epjqt/abs/2021/01/40507_2021_Article_107/40507_2021_Article_107.html
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/quantum-computing-product-development/](https://commons-os.github.io/patterns/domain/quantum-computing-product-development/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/quantum-computing-product-development.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/quantum-computing-product-development.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

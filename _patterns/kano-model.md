@@ -204,15 +204,3 @@ The Kano Model is a powerful tool for understanding customer-perceived value and
 [4] Hörner, E. N. (2022). The ultimate guide to the Kano Model: value through the eyes of your customer. *Medium*. Retrieved from https://medium.com/carepay-stories/value-through-the-eyes-of-your-customer-the-kano-model-applied-f9fd653302a0
 
 [5] TQM & Business Excellence. (2009). *The Kano model: A dynamic approach for classifying and prioritising requirements of airline travellers with three case studies on international airlines*. Retrieved from https://www.tandfonline.com/doi/abs/10.1080/14783360903181867
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/kano-model/](https://commons-os.github.io/patterns/domain/kano-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/kano-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/kano-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

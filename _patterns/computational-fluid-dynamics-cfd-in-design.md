@@ -146,15 +146,3 @@ CFD is a powerful technical enabler for value creation, demonstrating high compa
 [4] Wijesooriya, K., et al. (2023). A technical review of computational fluid dynamics (CFD) on tall buildings and structures. *Results in Engineering*, *17*, 100899. https://doi.org/10.1016/j.rineng.2023.100899
 
 [5] Haider, R., et al. (2024). Review of Computational Fluid Dynamics in the Design and Performance Evaluation of Floating Offshore Wind Turbines. *Energies*, *17*(17), 4269. https://doi.org/10.3390/en17174269
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/computational-fluid-dynamics-cfd-in-design/](https://commons-os.github.io/patterns/domain/computational-fluid-dynamics-cfd-in-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/computational-fluid-dynamics-cfd-in-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/computational-fluid-dynamics-cfd-in-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

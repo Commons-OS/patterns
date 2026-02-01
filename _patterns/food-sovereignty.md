@@ -105,15 +105,3 @@ For those interested in learning more about food sovereignty, there are a number
 [4] US Food Sovereignty Alliance. (n.d.). What is Food Sovereignty? Retrieved from https://usfoodsovereigntyalliance.org/what-is-food-sovereignty/
 
 [5] Climate Justice Alliance. (n.d.). Food Sovereignty. Retrieved from https://climatejusticealliance.org/workgroup/food-sovereignty/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/food-sovereignty/](https://commons-os.github.io/patterns/domain/food-sovereignty/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/food-sovereignty.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/food-sovereignty.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

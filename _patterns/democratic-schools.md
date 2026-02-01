@@ -226,15 +226,3 @@ Democratic Schools are a powerful enabler of collective value creation, embodyin
 [12] MyScol. (n.d.). Retrieved from https://myscol.com/en/democratic-school/
 
 [13] Loomio. (n.d.). Retrieved from https://www.loomio.org/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/democratic-schools/](https://commons-os.github.io/patterns/domain/democratic-schools/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/democratic-schools.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/democratic-schools.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

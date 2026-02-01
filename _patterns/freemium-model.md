@@ -225,15 +225,3 @@ The freemium model is a transitional pattern that has the potential to be aligne
 [2] Kumar, V. (2014). Making “Freemium” Work. *Harvard Business Review*. Retrieved from https://hbr.org/2014/05/making-freemium-work
 
 [3] Shang, Y., Jiang, J., Zhang, Y., Zhang, R., & Liu, P. (2024). When does a freemium business model lead to high performance? — A qualitative comparative analysis based on fuzzy Sets. *Heliyon*, *10*(3), e25149. https://doi.org/10.1016/j.heliyon.2024.e25149
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/54-freemium-model/](https://commons-os.github.io/patterns/domain/54-freemium-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/54-freemium-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/54-freemium-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

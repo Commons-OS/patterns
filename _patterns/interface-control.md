@@ -161,15 +161,3 @@ Interface Control is a powerful enabler of collective value creation by providin
 *   [Interface management--an organization theory approach to project management](https://www.pmi.org/learning/library/interface-management-theory-approach-pm-5729) - Project Management Institute
 *   [Interface Management](https://www.dau.edu/acquipedia-article/interface-management) - Defense Acquisition University
 *   [Exploring the Effect of Interface Management on Project Success in Complex Capital Projects: The Moderating Role of Relational Capital](https://ascelibrary.org/doi/abs/10.1061/JCEMD4.COENG-16350) - ASCE Library
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/interface-control/](https://commons-os.github.io/patterns/domain/interface-control/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/interface-control.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/interface-control.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

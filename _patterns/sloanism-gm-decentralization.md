@@ -141,15 +141,3 @@ Sloanism is a foundational pattern for scaling industrial organizations and cont
 [4] Drucker, Peter F. "The Great GM Mystery." *Harvard Business Review*, September 1964. https://hbr.org/1964/09/the-great-gm-mystery.
 
 [5] "Who Was Alfred P. Sloan Jr.?" Alfred P. Sloan Foundation. https://sloan.org/about/who-was-alfred-p-sloan-jr.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/sloanism-gm-decentralization/](https://commons-os.github.io/patterns/domain/sloanism-gm-decentralization/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/sloanism-gm-decentralization.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/sloanism-gm-decentralization.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

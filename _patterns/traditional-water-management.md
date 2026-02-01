@@ -162,15 +162,3 @@ Traditional Water Management systems, by their very nature, exhibit many charact
 3.  [Historical Water Management Strategies—Case Study of ...](https://www.mdpi.com/2073-445X/11/12/2107)
 4.  [Evaluation of different traditional water management systems in semi-arid regions (case study from Iran).](http://om.ciheam.org/om/pdf/b56_3/00800210.pdf)
 5.  [Traditional irrigation and water management practices in highland Ethiopia: Case study in Dangila woreda.](https://onlinelibrary.wiley.com/doi/abs/10.1002/ird.1748)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/traditional-water-management/](https://commons-os.github.io/patterns/domain/traditional-water-management/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/traditional-water-management.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/traditional-water-management.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

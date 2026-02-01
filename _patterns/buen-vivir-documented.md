@@ -151,15 +151,3 @@ The following resources provide further information on the theory and practice o
 [4] Mahabir, D. F., Shankardass, K., Freiler, A., O’Campo, P., Brisbois, B., & Muntaner, C. (2022). How and why buy-in for health in all policies was facilitated in Ecuador: a realist case study of Plan Nacional para el Buen Vivir. *International Journal for Equity in Health*, 21(1), 108. https://pmc.ncbi.nlm.nih.gov/articles/PMC9377301/
 
 [5] Alcoreza, R. P. (n.d.). *Buen Vivir as a model for state and economy*. Transnational Institute. https://www.tni.org/files/download/beyonddevelopment_buenvivir.pdf
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/buen-vivir-documented/](https://commons-os.github.io/patterns/domain/buen-vivir-documented/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/buen-vivir-documented.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/buen-vivir-documented.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

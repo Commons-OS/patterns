@@ -210,15 +210,3 @@ Systems Theory is a powerful enabler of collective value creation, providing the
 [4] ScienceDirect. (n.d.). *General System Theory*. Retrieved from https://www.sciencedirect.com/topics/computer-science/general-system-theory
 
 [5] Wikipedia. (n.d.). *Ludwig von Bertalanffy*. Retrieved from https://en.wikipedia.org/wiki/Ludwig_von_Bertalanffy
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/systems-theory-von-bertalanffy/](https://commons-os.github.io/patterns/domain/systems-theory-von-bertalanffy/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/systems-theory-von-bertalanffy.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/systems-theory-von-bertalanffy.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

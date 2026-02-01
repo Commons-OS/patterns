@@ -194,15 +194,3 @@ Permaculture-Inspired Design provides a powerful and holistic design philosophy 
 [3] Helbig, K. (n.d.). 29 people using permaculture in business (beyond the garden). Koren Helbig. https://korenhelbig.com/29-people-applying-permaculture-in-business/
 [4] Holmgren, D. (2002). *Permaculture: Principles and Pathways Beyond Sustainability*. Holmgren Design Services.
 [5] Mollison, B. (1988). *Permaculture: A Designers' Manual*. Tagari Publications.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/permaculture-inspired-design/](https://commons-os.github.io/patterns/domain/permaculture-inspired-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/permaculture-inspired-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/permaculture-inspired-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

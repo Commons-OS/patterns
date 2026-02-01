@@ -196,15 +196,3 @@ Complementary Currencies are a strong enabler of collective value creation, prov
     3.  Lietaer, B. (2004). Complementary currencies in Japan today: History, originality and relevance. *International Journal of Community Currency Research, 8*, 1-23.
     4.  Wikipedia. (2023). *Complementary currency*. Retrieved from https://en.wikipedia.org/wiki/Complementary_currency
     5.  Gelleri, C. (n.d.). *The Phenomenon of Complementary Currencies*. Just Money. Retrieved from https://justmoney.org/the-phenomenon-of-complementary-currencies/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/100-complementary-currencies/](https://commons-os.github.io/patterns/domain/100-complementary-currencies/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/100-complementary-currencies.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/100-complementary-currencies.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

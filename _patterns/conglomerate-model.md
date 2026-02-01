@@ -242,15 +242,3 @@ The Conglomerate Model is a legacy industrial-era pattern designed for financial
 [4] Shulman, L., Stalk, G., & Vismans, D. (2017). *How "Premium" Conglomerates Sustain Success*. Boston Consulting Group.
 
 [5] Investopedia. (2023). *Conglomerate: What It Is and How It Works*. Retrieved from https://www.investopedia.com/terms/c/conglomerate.asp
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/conglomerate-model/](https://commons-os.github.io/patterns/domain/conglomerate-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/conglomerate-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/conglomerate-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

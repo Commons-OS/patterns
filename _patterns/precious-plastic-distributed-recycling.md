@@ -153,15 +153,3 @@ Precious Plastic provides a robust and proven framework for decentralized, commu
 *   [3] Precious Plastic. In Wikipedia. Retrieved January 28, 2026, from https://en.wikipedia.org/wiki/Precious_Plastic
 *   [4] Precious Plastic Impact 2024. (n.d.). Retrieved from https://www.preciousplastic.com/impact/2024
 *   [5] One Army. (n.d.). Retrieved from https://www.onearmy.earth/project/precious-plastic
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/precious-plastic-distributed-recycling/](https://commons-os.github.io/patterns/domain/precious-plastic-distributed-recycling/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/precious-plastic-distributed-recycling.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/precious-plastic-distributed-recycling.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

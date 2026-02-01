@@ -104,15 +104,3 @@ AI Alignment Research is a critical enabler for any advanced commons, as it prov
 [4] Anthropic. (2025). "Agentic Misalignment: How LLMs could be insider threats." [https://www.anthropic.com/research/agentic-misalignment](https://www.anthropic.com/research/agentic-misalignment)
 
 [5] DeepMind. "Safety & Ethics." [https://www.deepmind.com/research/safety-and-ethics](https://www.deepmind.com/research/safety-and-ethics)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/ai-alignment-research/](https://commons-os.github.io/patterns/domain/ai-alignment-research/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/ai-alignment-research.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/ai-alignment-research.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

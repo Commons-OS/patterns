@@ -157,15 +157,3 @@ These resources provide a starting point for further exploration and engagement 
 [4] Karaim, R. (2023, November 28). Tech Trends: Co-ops and Artificial Intelligence. *RE Magazine*. [https://www.cooperative.com/remagazine/articles/Pages/Tech-Trends-Co-ops-and-Artificial-Intelligence.aspx](https://www.cooperative.com/remagazine/articles/Pages/Tech-Trends-Co-ops-and-Artificial-Intelligence.aspx)
 
 [5] Platform Cooperativism Consortium. (n.d.). *Platform.coop*. Retrieved January 28, 2026, from [https://platform.coop/](https://platform.coop/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/ai-cooperatives/](https://commons-os.github.io/patterns/domain/ai-cooperatives/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/ai-cooperatives.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/ai-cooperatives.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

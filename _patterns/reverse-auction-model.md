@@ -231,15 +231,3 @@ The Reverse Auction Model is a highly efficient but extractive tool focused on r
 [4] Forbes. (2000, March 6). *Going, Going, Gone... Down*. https://www.forbes.com/2000/03/06/going-going-gone-down/?sh=5e7f6d3e1b8f
 
 [5] Apriori. (2024, March 26). *What’s a Reverse Auction, And When Should You Use One?* https://www.apriori.com/blog/what-is-a-reverse-auction-how-buyers-maximize-strategy/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/reverse-auction-model/](https://commons-os.github.io/patterns/domain/reverse-auction-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/reverse-auction-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/reverse-auction-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -226,15 +226,3 @@ The Joint Venture Model is a robust and well-established pattern for economic co
 *   MillerCoors. (n.d.). *Our History*. Retrieved from https://www.molsoncoors.com/about/our-history
 *   BMW Group. (n.d.). *The BMW Group in China*. Retrieved from https://www.bmwgroup.com/en/company/company-portrait/bmw-group-worldwide/china.html
 *   GlaxoSmithKline. (2016). *GSK and Verily Life Sciences to establish Galvani Bioelectronics - a new company dedicated to the development of bioelectronic medicines*. Retrieved from https://www.gsk.com/en-gb/media/press-releases/gsk-and-verily-life-sciences-to-establish-galvani-bioelectronics-a-new-company-dedicated-to-the-development-of-bioelectronic-medicines/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/joint-venture-model/](https://commons-os.github.io/patterns/domain/joint-venture-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/joint-venture-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/joint-venture-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

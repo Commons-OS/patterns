@@ -248,15 +248,3 @@ This section provides a curated list of resources for further learning about Sit
     - Google. (n.d.). *Part II - Principles*. SRE Book. Retrieved from https://sre.google/sre-book/part-II-principles/
 
     - Google. (n.d.). *Site Reliability Engineering*. Retrieved from https://sre.google/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/site-reliability-engineering-sre-googles-approach/](https://commons-os.github.io/patterns/domain/site-reliability-engineering-sre-googles-approach/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/site-reliability-engineering-sre-googles-approach.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/site-reliability-engineering-sre-googles-approach.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

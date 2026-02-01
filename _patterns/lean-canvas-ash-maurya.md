@@ -213,15 +213,3 @@ The Lean Canvas is a powerful engine for navigating uncertainty and iterating on
 [4] Blank, S. (2013). Why the lean start-up changes everything. *Harvard Business Review*, 91(5), 63-72.
 
 [5] Eisenmann, T. R., Ries, E., & Dillard, S. (2012). Hypothesis-driven entrepreneurship: The lean startup. *Harvard Business School Entrepreneurial Management Case*, (812-095).
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/51-lean-canvas-ash-maurya/](https://commons-os.github.io/patterns/domain/51-lean-canvas-ash-maurya/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/51-lean-canvas-ash-maurya.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/51-lean-canvas-ash-maurya.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

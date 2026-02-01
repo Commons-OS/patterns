@@ -175,15 +175,3 @@ Platform Ecosystems provide a powerful architecture for decentralized value crea
 [4] Gawer, A., & Cusumano, M. A. (2014). The business of platforms: Strategy in the age of digital competition, innovation, and power. *Journal of Product Innovation Management*, *31*(3), 417-431.
 
 [5] Scholz, T. (2016). *Platform cooperativism: Challenging the corporate sharing economy*. Rosa Luxemburg Stiftung.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/platform-ecosystems/](https://commons-os.github.io/patterns/domain/platform-ecosystems/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/platform-ecosystems.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/platform-ecosystems.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

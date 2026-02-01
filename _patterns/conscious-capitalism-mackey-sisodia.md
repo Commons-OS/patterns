@@ -212,15 +212,3 @@ Conscious Capitalism is a powerful enabler of collective value creation, marking
     3.  Investopedia. (2023). *Conscious Capitalism Explained: Principles and Notable Companies*. Retrieved from https://www.investopedia.com/terms/c/conscious-capitalism.asp
     4.  Conscious Capitalism, Inc. (n.d.). *Our Philosophy*. Retrieved from https://www.consciouscapitalism.org/philosophy
     5.  Harvard Business Review. (2013). *Companies that Practice “Conscious Capitalism” Perform 10x Better*. Retrieved from https://hbr.org/2013/04/companies-that-practice-conscious-capitalism-perform
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/71-conscious-capitalism-mackey-sisodia/](https://commons-os.github.io/patterns/domain/71-conscious-capitalism-mackey-sisodia/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/71-conscious-capitalism-mackey-sisodia.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/71-conscious-capitalism-mackey-sisodia.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

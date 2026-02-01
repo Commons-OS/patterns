@@ -145,15 +145,3 @@ For those interested in learning more about the B Impact Assessment and B Corp c
 [4] Silva, V., Lima, V., Sá, J. C., Fonseca, L., & Santos, G. (2022). B Impact Assessment as a Sustainable Tool: Analysis of the Certification Model. *Sustainability*, *14*(9), 5590. https://doi.org/10.3390/su14095590
 
 [5] UnTours Foundation. (2024, March 14). *Our Journey Owning the World’s First B Corp*. https://untoursfoundation.org/our-journey-owning-the-worlds-first-b-corp/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/b-impact-assessment-b-corp-measurement/](https://commons-os.github.io/patterns/domain/b-impact-assessment-b-corp-measurement/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/b-impact-assessment-b-corp-measurement.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/b-impact-assessment-b-corp-measurement.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

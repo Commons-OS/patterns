@@ -239,15 +239,3 @@ The Franchise Model is a powerful and proven system for scaling businesses and r
 [4] "New IFA Report Touts Value of Franchise Model." Franchise Times. https://www.franchisetimes.com/franchise_news/new-ifa-report-touts-value-of-franchise-model/article_5079f52f-51c9-4524-8eef-16f4e6a8cd62.html
 
 [5] "How AI Will Impact Franchising: Pros and Cons for Franchisor." Future of Franchising. https://futureoffranchising.com/tes-insights/ai-impact-on-franchisors/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/57-franchise-model/](https://commons-os.github.io/patterns/domain/57-franchise-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/57-franchise-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/57-franchise-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

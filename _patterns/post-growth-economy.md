@@ -165,15 +165,3 @@ The Post-Growth Economy pattern is a powerful enabler of collective value creati
 * Kallis, G., Hickel, J., O’Neill, D. W., Jackson, T., Victor, P. A., Raworth, K., ... & Ürge-Vorsatz, D. (2025). Post-growth: the science of wellbeing within planetary boundaries. *The Lancet Planetary Health*, *9*(1), e62-e78.
 * Wikipedia contributors. (2024, January 22). Post-growth. In *Wikipedia, The Free Encyclopedia*. Retrieved January 28, 2026, from https://en.wikipedia.org/wiki/Post-growth
 * Post Growth Institute. (n.d.). *Home*. Retrieved January 28, 2026, from https://postgrowth.org/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/post-growth-economy/](https://commons-os.github.io/patterns/domain/post-growth-economy/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/post-growth-economy.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/post-growth-economy.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

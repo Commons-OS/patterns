@@ -197,15 +197,3 @@ ISTA Testing Procedures are a powerful industrial-era framework for ensuring the
 3.  DDL. (n.d.). *ISTA Package Testing*. Retrieved from [https://www.ddltesting.com/package-testing/ista-package-testing/](https://www.ddltesting.com/package-testing/ista-package-testing/)
 4.  UL Solutions. (n.d.). *ISTA Packaging Test and Certification*. Retrieved from [https://www.ul.com/services/ista-packaging-test-and-certification](https://www.ul.com/services/ista-packaging-test-and-certification)
 5.  Eurofins. (n.d.). *A quick guide to ISTA packaging*. Retrieved from [https://www.eurofins.com/textile-leather/articles/a-quick-guide-to-ista-packaging/](https://www.eurofins.com/textile-leather/articles/a-quick-guide-to-ista-packaging/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/ista-testing-procedures/](https://commons-os.github.io/patterns/implementation/ista-testing-procedures/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/ista-testing-procedures.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/ista-testing-procedures.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

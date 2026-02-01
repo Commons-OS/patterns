@@ -243,15 +243,3 @@ Workplace Democracy is a powerful enabler of collective value creation, providin
 [4] Mazumder, S., & Tsur, D. (2024). What Do Americans Want from (Private) Government? Experimental Evidence Demonstrates That Americans Want Workplace Democracy. *American Political Science Review*, 1-16.
 
 [5] Blasi, J. R., Freeman, R. B., & Kruse, D. L. (2013). *The Citizen's Share: Reducing Inequality in the 21st Century*. Yale University Press.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/8-workplace-democracy/](https://commons-os.github.io/patterns/domain/8-workplace-democracy/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/8-workplace-democracy.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/8-workplace-democracy.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

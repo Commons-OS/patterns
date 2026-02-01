@@ -251,15 +251,3 @@ Industrial ecology represents a significant step forward from the traditional li
     3.  [Guide, V. D. R., Harrison, T. P., & Van Wassenhove, L. N. (2003). The Challenge of Closed-Loop Supply Chains.](https://www.mech.kuleuven.be/lce2006/key3.pdf)
     4.  [Simbiosy. (n.d.). *What is industrial symbiosis and why is it key to the circular economy?*](https://simbiosy.com/en/industrial-symbiosis/)
     5.  [National Academy of Engineering. (1994). *The Greening of Industrial Ecosystems*.](https://www.nationalacademies.org/read/4982/chapter/4)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/industrial-ecology-closed-loop-systems/](https://commons-os.github.io/patterns/domain/industrial-ecology-closed-loop-systems/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/industrial-ecology-closed-loop-systems.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/industrial-ecology-closed-loop-systems.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

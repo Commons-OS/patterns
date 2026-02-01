@@ -258,15 +258,3 @@ This section provides a curated list of resources for further learning and explo
 [4] Samanta, A. K., Gurumurthy, A., & G, V. (2023). Implementing lean six sigma in health care: a review of case studies. *International Journal of Lean Six Sigma*, *14*(1), 1-31. https://doi.org/10.1108/ijlss-08-2021-0133
 
 [5] Bhat, S., Antony, J., Gijo, E. V., & Cudney, E. A. (2020). Lean Six Sigma for the healthcare sector: a multiple case study analysis from the Indian context. *International Journal of Quality & Reliability Management*, *37*(6/7), 945-968. https://doi.org/10.1108/ijqrm-07-2018-0193
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/17-lean-six-sigma/](https://commons-os.github.io/patterns/domain/17-lean-six-sigma/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/17-lean-six-sigma.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/17-lean-six-sigma.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -240,15 +240,3 @@ The Scale-Up Methodology is a powerful and proven framework for scaling hierarch
 [4] Scaling Up. (n.d.). Retrieved from https://scalingup.com/
 
 [5] Growth Institute. (n.d.). *11 Questions You Might Have On the Scaling Up Methodology*. Retrieved from https://blog.growthinstitute.com/11-questions-scaling-up-methodology-verne
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/scale-up-methodology/](https://commons-os.github.io/patterns/implementation/scale-up-methodology/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/scale-up-methodology.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/scale-up-methodology.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

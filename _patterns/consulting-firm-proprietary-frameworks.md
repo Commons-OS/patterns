@@ -193,15 +193,3 @@ While fundamentally extractive and proprietary, the pattern's emphasis on struct
     5.  Boston Consulting Group. (n.d.). _The Growth Share Matrix_. Retrieved from https://www.bcg.com/about/overview/our-history/growth-share-matrix
     6.  EdrawMind. (n.d.). _Free Best 15 BCG Matrix Examples for Students_. Retrieved from https://edrawmind.wondershare.com/examples/best-10-bcg-matrix-examples-for-students.html
     7.  Cicero Group. (2024, August 12). _How AI Impacts Each of McKinsey’s 7-S Framework Elements_. Retrieved from https://cicerogroup.com/blog/2024/08/12/how-ai-impacts-each-of-mckinseys-7-s-framework-elements/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/consulting-firm-proprietary-frameworks/](https://commons-os.github.io/patterns/implementation/consulting-firm-proprietary-frameworks/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/consulting-firm-proprietary-frameworks.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/consulting-firm-proprietary-frameworks.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

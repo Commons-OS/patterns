@@ -170,15 +170,3 @@ This pattern represents a complete and time-tested architecture for resilient co
 3.  [Stratification, Social Structure - Northwest Coast Indian](https://www.britannica.com/topic/Northwest-Coast-Indian/Stratification-and-social-structure) - Britannica
 4.  [How to Talk about Native Nations: A Guide](https://nativegov.org/news/how-to-talk-about-native-nations-a-guide/) - Native Governance Center
 5.  [Be Familiar with the Structure of Tribes, Clans, Bands, and Extended Families](https://outreach.ou.edu/Educational-Services/PreK-12-Education/EDUTAS/Comprehensive-Centers-Archive/Knowledgebases/American-Indian-Educaiton-Knowledgebase/Be-Familiar-with-the-Structure-of-Tribes-Clans-Bands-and-Extended-Families) - University of Oklahoma Outreach
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/first-nations-north-america/](https://commons-os.github.io/patterns/domain/first-nations-north-america/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/first-nations-north-america.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/first-nations-north-america.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

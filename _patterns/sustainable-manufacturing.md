@@ -198,15 +198,3 @@ The pattern provides a comprehensive and actionable framework for redesigning ma
 *   **World Economic Forum (WEF):** The WEF has identified sustainable manufacturing as a key driver of the Fourth Industrial Revolution and has published a number of reports and articles on the topic.
 *   **SAP:** As a leading provider of enterprise software, SAP offers a range of solutions and resources to help companies implement sustainable manufacturing practices.
 *   **NIST (National Institute of Standards and Technology):** NIST provides standards, measurements, and research to support sustainable manufacturing in the United States.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/sustainable-manufacturing/](https://commons-os.github.io/patterns/context-specific/sustainable-manufacturing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/sustainable-manufacturing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/sustainable-manufacturing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

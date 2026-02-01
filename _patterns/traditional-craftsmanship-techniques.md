@@ -166,15 +166,3 @@ Traditional craftsmanship, with its emphasis on localized production, community-
 [4] Crawford, M. B. (2009). *Shop Class as Soulcraft: An Inquiry into the Value of Work*. Penguin Books.
 
 [5] Pye, D. (1968). *The Nature and Art of Workmanship*. Cambridge University Press.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/traditional-craftsmanship-techniques/](https://commons-os.github.io/patterns/implementation/traditional-craftsmanship-techniques/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/traditional-craftsmanship-techniques.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/traditional-craftsmanship-techniques.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

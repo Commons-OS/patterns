@@ -166,15 +166,3 @@ The Commons Alignment Assessment evaluates how well the Personal Fabrication pat
 4.  [Fab lab - Wikipedia](https://en.wikipedia.org/wiki/Fab_lab) - The Wikipedia page for Fab Labs, providing a good overview of the concept and its history.
 5.  [Maker culture - Wikipedia](https://en.wikipedia.org/wiki/Maker_culture) - The Wikipedia page for the maker culture, which is closely related to personal fabrication.
 6.  [PERSONAL FABRICATION](https://www.edge.org/conversation/neil_gershenfeld-personal-fabrication) - A conversation with Neil Gershenfeld on the concept of personal fabrication.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/personal-fabrication/](https://commons-os.github.io/patterns/domain/personal-fabrication/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/personal-fabrication.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/personal-fabrication.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

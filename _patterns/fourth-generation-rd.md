@@ -167,15 +167,3 @@ Fourth Generation R&D provides a powerful and systemic framework for collective 
 
 *   Business Innovation Management (businessinnovationmanagement.com)
 *   ResearchGate (researchgate.net) and ScienceDirect (sciencedirect.com)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/fourth-generation-rd/](https://commons-os.github.io/patterns/domain/fourth-generation-rd/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/fourth-generation-rd.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/fourth-generation-rd.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

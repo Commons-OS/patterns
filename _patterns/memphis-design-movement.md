@@ -157,15 +157,3 @@ The Memphis Design Movement is a powerful cultural and aesthetic pattern that ex
 1.  [Memphis Group - Wikipedia](https://en.wikipedia.org/wiki/Memphis_Group)
 2.  [What Is Memphis Design Style And Why It Is Back - Hommes Studio](https://hommes.studio/journal/what-is-memphis-design-style/)
 3.  [What Is Memphis Design? - The Spruce](https.thespruce.com/memphis-design-style-5095944)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/memphis-design-movement/](https://commons-os.github.io/patterns/domain/memphis-design-movement/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/memphis-design-movement.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/memphis-design-movement.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

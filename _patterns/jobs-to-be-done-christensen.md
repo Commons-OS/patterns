@@ -223,15 +223,3 @@ Jobs-to-be-Done is a powerful framework for understanding needs, which is a crit
 [4] Ulwick, A. W. (2016). *Jobs to be Done: Theory to Practice*. Idea Bite Press.
 
 [5] Christensen, C. M., & Raynor, M. E. (2013). *The Innovator's Solution: Creating and Sustaining Successful Growth*. Harvard Business Review Press.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/53-jobs-to-be-done-christensen/](https://commons-os.github.io/patterns/domain/53-jobs-to-be-done-christensen/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/53-jobs-to-be-done-christensen.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/53-jobs-to-be-done-christensen.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

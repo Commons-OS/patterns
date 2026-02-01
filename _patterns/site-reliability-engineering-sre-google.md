@@ -113,15 +113,3 @@ For those interested in learning more about Site Reliability Engineering, there 
 [3]: https://sre.google/sre-book/service-best-practices/
 [4]: https://sre.google/workbook/slo-engineering-case-studies/
 [5]: https://www.devopsinstitute.com/case-studies/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/98-site-reliability-engineering-sre-google/](https://commons-os.github.io/patterns/domain/98-site-reliability-engineering-sre-google/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/98-site-reliability-engineering-sre-google.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/98-site-reliability-engineering-sre-google.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

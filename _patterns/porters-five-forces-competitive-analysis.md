@@ -100,15 +100,3 @@ _x000D_
 3.  Institute For Strategy And Competitiveness. (n.d.). *The Five Forces*. Harvard Business School. Retrieved from [https://www.isc.hbs.edu/strategy/business-strategy/Pages/the-five-forces.aspx](https://www.isc.hbs.edu/strategy/business-strategy/Pages/the-five-forces.aspx)_x000D_
 4.  Isabelle, D. (2020). Is Porter's Five Forces Framework Still Relevant? A study of the framework's usage in the digital age. *Technology Innovation Management Review*._x000D_
 5.  Keen, M. (2023). AI and its effect on Porter's Five Forces Model. *LinkedIn*. Retrieved from [https://www.linkedin.com/pulse/ai-its-effect-porters-five-forces-model-michael-keen](https://www.linkedin.com/pulse/ai-its-effect-porters-five-forces-model-michael-keen)_x000D_
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/porters-five-forces-competitive-analysis/](https://commons-os.github.io/patterns/domain/porters-five-forces-competitive-analysis/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/porters-five-forces-competitive-analysis.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/porters-five-forces-competitive-analysis.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -230,15 +230,3 @@ This section provides a curated list of resources for further exploration of net
 [4] Wikipedia. (2023, October 26). Network effect. In Wikipedia. Retrieved from https://en.wikipedia.org/wiki/Network_effect
 
 [5] Applico Inc. (n.d.). Network Effect: The 5 C's to Building a Successful Platform. Retrieved from https://www.applicoinc.com/blog/network-effects-the-5-cs-to-building-a-succesful-platform/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/universal/network-effects/](https://commons-os.github.io/patterns/universal/network-effects/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/network-effects.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_universal/network-effects.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

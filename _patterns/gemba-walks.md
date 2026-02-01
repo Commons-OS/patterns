@@ -167,15 +167,3 @@ Gemba Walks are a powerful enabler of collective value creation, fostering trans
 
 
 [5] Womack, J. P. (2011). *Gemba Walks*. Lean Enterprise Institute.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/gemba-walks/](https://commons-os.github.io/patterns/domain/gemba-walks/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/gemba-walks.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/gemba-walks.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

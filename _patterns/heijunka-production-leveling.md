@@ -198,15 +198,3 @@ Heijunka is a powerful transitional pattern that moves significantly beyond extr
     3.  Azumuta. (2024, January 2). *Heijunka: Definition, Techniques, and Example*. Azumuta Blog. Retrieved from https://www.azumuta.com/blog/heijunka-definition-techniques-and-example/
     4.  Friddle, J. R. (2024, October 14). Heijunka: The Art of Leveling Production. *iSixSigma*. Retrieved from https://www.isixsigma.com/lean-methodology/heijunka-the-art-of-leveling-production/
     5.  Lean Enterprise Institute. (n.d.). *Heijunka*. Lean Lexicon. Retrieved from https://www.lean.org/lexicon-terms/heijunka/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/31-heijunka-production-leveling/](https://commons-os.github.io/patterns/domain/31-heijunka-production-leveling/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/31-heijunka-production-leveling.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/31-heijunka-production-leveling.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

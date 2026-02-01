@@ -176,15 +176,3 @@ ICH Q8 is a powerful framework for creating resilient value, particularly in kno
 3.  [ICH Q9 Quality Risk Management](https://database.ich.org/sites/default/files/Q9_Guideline.pdf)
 4.  [ICH Q10 Pharmaceutical Quality System](https://database.ich.org/sites/default/files/Q10%20Guideline.pdf)
 5.  [FDA - Q8, Q9, and Q10 Questions and Answers](https://www.fda.gov/drugs/guidances-drugs/q8-q9-q10-questions-and-answers)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/ich-q8-pharmaceutical-development/](https://commons-os.github.io/patterns/domain/ich-q8-pharmaceutical-development/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/ich-q8-pharmaceutical-development.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/ich-q8-pharmaceutical-development.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

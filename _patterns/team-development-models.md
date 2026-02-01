@@ -259,15 +259,3 @@ The model provides a robust framework for developing the collective capability o
 [4] Indeed. (2025, December 11). *11 Team Effectiveness Models (Plus Tips for Choosing One)*. Indeed Career Guide. Retrieved from https://www.indeed.com/career-advice/career-development/team-effectiveness-model
 
 [5] Abudi, G. (2010, May 9). *The Five Stages of Team Development: A Case Study*. Project Smart. Retrieved from https://www.projectsmart.co.uk/team-building/the-five-stages-of-team-development-a-case-study.php
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/team-development-models/](https://commons-os.github.io/patterns/domain/team-development-models/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/team-development-models.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/team-development-models.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

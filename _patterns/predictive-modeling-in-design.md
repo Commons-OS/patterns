@@ -143,15 +143,3 @@ For those interested in learning more about Predictive Modeling in Design, there
 [4] McKinsey & Company. (2018, August 16). *How predictive analytics can boost product development*. Retrieved from https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/how-predictive-analytics-can-boost-product-development
 
 [5] O'Neil, C. (2016). *Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*. Crown.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/predictive-modeling-in-design/](https://commons-os.github.io/patterns/domain/predictive-modeling-in-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/predictive-modeling-in-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/predictive-modeling-in-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

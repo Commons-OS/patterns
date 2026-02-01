@@ -164,15 +164,3 @@ The Eisenhower Matrix is a powerful tool for individual and team-level task prio
 3.  [The Eisenhower Matrix. Columbia University](https://sps.columbia.edu/sites/default/files/2023-08/Eisenhower%20Matrix.pdf)
 4.  [The Eisenhower Matrix: How to Prioritize Your To-Do List. Asana.](https://asana.com/resources/eisenhower-matrix)
 5.  [The Eisenhower Matrix: The Ultimate Guide to Prioritizing Your To-Do List. Todoist.](https://todoist.com/productivity-methods/eisenhower-matrix)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/eisenhower-matrix/](https://commons-os.github.io/patterns/domain/eisenhower-matrix/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/eisenhower-matrix.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/eisenhower-matrix.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

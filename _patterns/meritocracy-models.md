@@ -188,15 +188,3 @@ This section provides a curated list of resources for those who want to learn mo
 [4] Dalio, R. (2017). *Principles: Life and Work*. Simon & Schuster.
 
 [5] Markovits, D. (2019). *The Meritocracy Trap: How America's Foundational Myth Feeds Inequality, Dismantles the Middle Class, and Devours the Elite*. Penguin Press.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/meritocracy-models/](https://commons-os.github.io/patterns/domain/meritocracy-models/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/meritocracy-models.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/meritocracy-models.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

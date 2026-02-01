@@ -162,15 +162,3 @@ For those looking to delve deeper into Behavior-Driven Development, a wealth of 
 [4] [Benefits and Challenges of the Behavior-Driven Development](https://ieeexplore.ieee.org/document/10568281/)
 
 [5] [What is BDD (Behavior Driven Development)? | Agile Alliance](https://agilealliance.org/glossary/bdd/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/behavior-driven-development-bdd/](https://commons-os.github.io/patterns/domain/behavior-driven-development-bdd/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/behavior-driven-development-bdd.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/behavior-driven-development-bdd.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

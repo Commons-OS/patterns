@@ -219,15 +219,3 @@ Neural Architecture Search is a powerful enabler for creating significant knowle
 [4] Elsken, T., Metzen, J. H., & Hutter, F. (2019). Neural Architecture Search: A Survey. *Journal of Machine Learning Research*, *20*(55), 1-21.
 
 [5] White, C., & Yaqub, M. (2023). Neural Architecture Search: Insights from 1000 Papers. *arXiv preprint arXiv:2301.08727*.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/neural-architecture-search/](https://commons-os.github.io/patterns/domain/neural-architecture-search/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/neural-architecture-search.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/neural-architecture-search.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -250,15 +250,3 @@ While the Policy Governance model is a framework for governance, not a specific 
 **References:**
 
 *   Williams, A. C. (2010). A Case Study of Nonprofit Policy Governance. *Nonprofit and Voluntary Sector Quarterly*, *39*(5), 895–912. https://doi.org/10.1177/0899764009345445865865865825865865825
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/board-governance-models-carver-policy-governance/](https://commons-os.github.io/patterns/domain/board-governance-models-carver-policy-governance/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/board-governance-models-carver-policy-governance.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/board-governance-models-carver-policy-governance.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

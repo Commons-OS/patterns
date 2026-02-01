@@ -213,15 +213,3 @@ The Policy Governance model provides a robust framework for accountability and s
 [4] The Governance Coach. (n.d.). *Policy Governance Consultant | Carver Governance Consultants | Policy Governance Models | Implementation*. Retrieved from https://www.governancecoach.com/policy-governance/
 
 [5] Harvard Law School Forum on Corporate Governance. (2025). *AI, Identity-Driven Shareholder Activism, and the Future of Corporate Governance*. Retrieved from https://corpgov.law.harvard.edu/2025/04/16/ai-identity-driven-shareholder-activism-and-the-future-of-corporate-governance/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/14-board-governance-carver-policy-governance/](https://commons-os.github.io/patterns/domain/14-board-governance-carver-policy-governance/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/14-board-governance-carver-policy-governance.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/14-board-governance-carver-policy-governance.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

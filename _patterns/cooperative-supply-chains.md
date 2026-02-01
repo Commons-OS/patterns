@@ -165,15 +165,3 @@ The pattern provides a robust and comprehensive framework for collective value c
 [5] [Cost and inventory benefits of cooperation in multi-period ...](https://www.sciencedirect.com/science/article/pii/S102630981100085X)
 
 [6] [Supply chain collaboration and green ...](https://scielo.org.za/pdf/jtscm/v19/15.pdf)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/cooperative-supply-chains/](https://commons-os.github.io/patterns/domain/cooperative-supply-chains/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/cooperative-supply-chains.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/cooperative-supply-chains.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

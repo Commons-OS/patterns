@@ -242,15 +242,3 @@ Throughput Accounting does not explicitly address the social and ecological well
 [4] Parkhi, S., Tamraparni, M., & Punjabi, L. (2015). Throughput accounting: An overview and framework. *International Journal of Services and Operations Management*, *22*(4), 465-485.
 
 [5] Corbett, T. (2000). Throughput accounting and activity-based costing: The driving factors behind each methodology. *Journal of Cost Management*, (January/February), 37-45.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/throughput-accounting-toc-financial/](https://commons-os.github.io/patterns/domain/throughput-accounting-toc-financial/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/throughput-accounting-toc-financial.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/throughput-accounting-toc-financial.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -185,15 +185,3 @@ Industrial Ecology is a powerful enabler of resilient collective value creation,
 [4] Korhonen, J. (2001). Four ecosystem principles for an industrial ecosystem. *Journal of Cleaner Production*, *9*(3), 253-259.
 
 [5] Ayres, R. U., & Ayres, L. W. (Eds.). (2002). *A Handbook of Industrial Ecology*. Edward Elgar Publishing.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/11-industrial-ecology/](https://commons-os.github.io/patterns/domain/11-industrial-ecology/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/11-industrial-ecology.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/11-industrial-ecology.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

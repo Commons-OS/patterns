@@ -161,15 +161,3 @@ Mutual Society Governance provides a complete and proven architecture for resili
 [5] Edelman. (2023). *2023 Edelman Trust Barometer*. [https://www.edelman.com/trust/2023-trust-barometer](https://www.edelman.com/trust/2023-trust-barometer)
 
 [6] Wikipedia. (2023). *Mutual organization*. [https://en.wikipedia.org/wiki/Mutual_organization](https://en.wikipedia.org/wiki/Mutual_organization)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/mutual-society-governance/](https://commons-os.github.io/patterns/domain/mutual-society-governance/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/mutual-society-governance.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/mutual-society-governance.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

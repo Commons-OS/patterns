@@ -161,15 +161,3 @@ The Maori Design Principles provide a complete and holistic architecture for res
 *   [Exploring Te Aranga Design Principles in Tāmaki](https://www.buildingbetter.nz/wp-content/uploads/2023/08/Paul_2017_exploring_te_aranga_design_principles.pdf)
 *   [Te Aranga Maori design principles - Landscape Architecture Aotearoa](https://www.landscapearchitecture.nz/landscape-architecture-aotearoa/2018/9/16/te-aranga-maori-design-principles)
 *   [In practice: Te Aranga Design Principles - ArchitectureNow](https://architecturenow.co.nz/articles/in-practice-te-aranga-design-principles/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/maori-design-principles/](https://commons-os.github.io/patterns/domain/maori-design-principles/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/maori-design-principles.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/maori-design-principles.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -185,15 +185,3 @@ The pattern provides a robust framework for design and development but is primar
 *   **Meyers. (2024, February 25). *How Does Product Packaging Impact Consumer Buying Behavior?*. Meyers. Retrieved from https://meyers.com/meyers-blog/how-does-packaging-affect-consumer-behavior/**
 *   **Can-Pack. (2023, April 19). *How does packaging design influence consumer choices?*. Can-Pack. Retrieved from https://www.canpack.com/insights/how-does-packaging-design-influence-consumer-choices/**
 *   **Shukla, P. (2022). The influence of creative packaging design on customer attention, and its impact on buying behavior. *Journal of Retailing and Consumer Services*, *67*, 102984.**
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/package-design-and-development-process/](https://commons-os.github.io/patterns/domain/package-design-and-development-process/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/package-design-and-development-process.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/package-design-and-development-process.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

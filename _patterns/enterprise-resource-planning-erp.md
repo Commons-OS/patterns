@@ -161,15 +161,3 @@ ERP is a powerful tool for resource management and process optimization within a
 *   [3] Investopedia. "Enterprise Resource Planning (ERP): Meaning, Components, and Examples." https://www.investopedia.com/terms/e/erp.asp
 *   [4] NetSuite. "The History of ERP." https://www.netsuite.com/portal/resource/articles/erp/erp-history.shtml
 *   [5] Resulting IT. "ERP Fundamentals: Important ERP Principles." https://www.resulting-it.com/erp-insights-blog/erp-principles-mater-data-transactions-workflows
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/enterprise-resource-planning-erp/](https://commons-os.github.io/patterns/domain/enterprise-resource-planning-erp/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/enterprise-resource-planning-erp.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/enterprise-resource-planning-erp.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

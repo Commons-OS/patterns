@@ -254,15 +254,3 @@ The Service Model is a powerful enabler of collective value creation, providing 
 [4] Wikipedia. (n.d.). *Service-oriented architecture*. Retrieved from https://en.wikipedia.org/wiki/Service-oriented_architecture
 
 [5] AWS. (n.d.). *What is SOA? - Service-Oriented Architecture Explained*. Retrieved from https://aws.amazon.com/what-is/service-oriented-architecture/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/service-model/](https://commons-os.github.io/patterns/domain/service-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/service-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/service-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

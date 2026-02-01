@@ -188,15 +188,3 @@ For specific case studies and community perspectives, the websites of regional A
 [4] Gordon, H. S. J., Ross, J. A., Bauer-Armstrong, C., Moreno, M., & Murphy, M. (2023). Integrating Indigenous Traditional Ecological Knowledge of land into land management through Indigenous-academic partnerships. *Land Use Policy*, 125, 106496. https://doi.org/10.1016/j.landusepol.2022.106496
 
 [5] Yibarbuk, D., Whitehead, P. J., Russell-Smith, J., Jackson, D., Godjuwa, C., Fisher, A., ... & Devlin, T. (2001). Fire ecology and Aboriginal land management in central Arnhem Land, northern Australia: a tradition of ecosystem management. *Journal of Biogeography*, 28(3), 325-343. https://doi.org/10.1046/j.1365-2699.2001.00555.x
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/aboriginal-land-management-practices/](https://commons-os.github.io/patterns/implementation/aboriginal-land-management-practices/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/aboriginal-land-management-practices.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/aboriginal-land-management-practices.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

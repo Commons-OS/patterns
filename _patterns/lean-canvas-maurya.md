@@ -210,15 +210,3 @@ The Lean Canvas is a powerful tool for building adaptable, customer-centric busi
 [3] [What is a Lean Canvas? (Examples and Tips)](https://www.canva.com/online-whiteboard/lean-canvas/)
 [4] [5 Lean Canvas Examples of Multi-Billion Startups](https://railsware.com/blog/5-lean-canvas-examples/)
 [5] [What Is a Lean Business Canvas? Origins, Examples, ...](https://airfocus.com/glossary/what-is-lean-business-canvas/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/lean-canvas-maurya/](https://commons-os.github.io/patterns/domain/lean-canvas-maurya/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/lean-canvas-maurya.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/lean-canvas-maurya.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

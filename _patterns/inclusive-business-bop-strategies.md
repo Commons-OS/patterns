@@ -230,15 +230,3 @@ Inclusive Business is a crucial transitional pattern that bridges legacy capital
 [4] World Business Council for Sustainable Development. (2008). *Business for Development: Business Solutions in Support of the Millennium Development Goals*. Retrieved from https://www.wbcsd.org/contentwbc/download/1700/19309/1
 
 [5] Yunus, M. (2007). *Creating a world without poverty: Social business and the future of capitalism*. PublicAffairs.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/4-inclusive-business-bop-strategies/](https://commons-os.github.io/patterns/domain/4-inclusive-business-bop-strategies/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/4-inclusive-business-bop-strategies.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/4-inclusive-business-bop-strategies.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

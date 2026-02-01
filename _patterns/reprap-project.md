@@ -166,15 +166,3 @@ The RepRap project is a powerful enabler of collective value creation, establish
 [22] EOS. (2025, May 5). *The Evolution of AI in 3D Printing*. [https://www.eos.info/content/blog/2025/evolution-of-ai-in-3d-printing](https://www.eos.info/content/blog/2025/evolution-of-ai-in-3d-printing)
 [23] Forbes. (2025, August 1). *How Cognitive Manufacturing Is Rewriting The Future Of Work*. [https://www.forbes.com/sites/trondarneundheim/2025/08/01/how-cognitive-manufacturing-is-rewriting-the-future-of-work/](https://www.forbes.com/sites/trondarneundheim/2025/08/01/how-cognitive-manufacturing-is-rewriting-the-future-of-work/)
 [24] Prusa 3D. (2025, December 22). *About Rep-rap and open-source with Adrian Bowyer*. [https://blog.prusa3d.com/adrian-bowyer_127066/](https://blog.prusa3d.com/adrian-bowyer_127066/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/reprap-project/](https://commons-os.github.io/patterns/domain/reprap-project/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/reprap-project.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/reprap-project.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

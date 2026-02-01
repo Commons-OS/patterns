@@ -157,15 +157,3 @@ Iterative Development is a powerful enabler for collective value creation, parti
 *   [What is iterative development? | Definition from TechTarget](https://www.techtarget.com/searchsoftwarequality/definition/iterative-development)
 *   [What is Iterative Development? | IxDF](https://www.interaction-design.org/literature/topics/iterative-development)
 *   [Iterative and incremental development - Wikipedia](https://en.wikipedia.org/wiki/Iterative_and_incremental_development)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/iterative-development/](https://commons-os.github.io/patterns/domain/iterative-development/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/iterative-development.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/iterative-development.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

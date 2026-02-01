@@ -238,15 +238,3 @@ The Consent Agenda is a powerful enabler of collective value creation, providing
 [2] New York Yearly Meeting. (n.d.). *Consent Agenda Procedure*. Retrieved from https://quaker.org/legacy/15stfriends/consent_agenda_procedure.pdf
 
 [3] Diligent Corporation. (2024). *Consent agenda: What it is & how it saves boards time*. Retrieved from https://www.diligent.com/resources/blog/consent-agenda-template-municipalities
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/human-universal/10-consent-agenda-quaker-based/](https://commons-os.github.io/patterns/human-universal/10-consent-agenda-quaker-based/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/10-consent-agenda-quaker-based.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_human-universal/10-consent-agenda-quaker-based.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

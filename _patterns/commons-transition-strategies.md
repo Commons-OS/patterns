@@ -195,15 +195,3 @@ This pattern provides a complete and comprehensive architecture for building a s
 [2] "A Commons Transition Strategy." University of Westminster Press. Accessed January 28, 2026. https://www.fulcrum.org/concern/file_sets/h989r6139.
 
 [3] "Commons Transition." P2P Foundation Wiki. Accessed January 28, 2026. https://wiki.p2pfoundation.net/Commons_Transition.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/commons-transition-strategies/](https://commons-os.github.io/patterns/domain/commons-transition-strategies/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/commons-transition-strategies.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/commons-transition-strategies.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -175,15 +175,3 @@ The Common Good Balance Sheet is a powerful enabler for transitioning towards a 
 
 *   [Economy for the Common Good on Wikipedia](https://en.wikipedia.org/wiki/Economy_for_the_Common_Good) - A comprehensive overview of the Economy for the Common Good movement.
 *   Felber, C. (2012). *Change Everything: Creating an Economy for the Common Good*. Zed Books.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/94-common-good-balance-sheet-economy-for-common-good/](https://commons-os.github.io/patterns/domain/94-common-good-balance-sheet-economy-for-common-good/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/94-common-good-balance-sheet-economy-for-common-good.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/94-common-good-balance-sheet-economy-for-common-good.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

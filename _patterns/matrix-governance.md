@@ -167,15 +167,3 @@ Matrix Governance is a transitional pattern that marks a significant step away f
 [4] Kesler, G., & Schuster, M. H. (2009). *Design your governance model to make the matrix work*. People and Strategy, 32(3), 48-55.
 
 [5] McPhail, C. J. (2016). *From tall to matrix: Redefining organizational structures*. Change: The Magazine of Higher Learning, 48(4), 46-53.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/matrix-governance/](https://commons-os.github.io/patterns/domain/matrix-governance/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/matrix-governance.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/matrix-governance.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

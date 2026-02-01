@@ -163,15 +163,3 @@ Overall, Continuous Delivery/Deployment receives a **Commons Alignment Score of 
 *   [3] Fowler, M. (2013, May 30). *Continuous Delivery*. Retrieved from https://martinfowler.com/bliki/ContinuousDelivery.html
 *   [4] Humble, J., & Farley, D. (2010). *Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation*. Addison-Wesley Professional.
 *   [5] AWS. (n.d.). *What is Continuous Delivery?*. Retrieved from https://aws.amazon.com/devops/continuous-delivery/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/continuous-deliverydeployment-cd/](https://commons-os.github.io/patterns/domain/continuous-deliverydeployment-cd/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/continuous-deliverydeployment-cd.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/continuous-deliverydeployment-cd.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

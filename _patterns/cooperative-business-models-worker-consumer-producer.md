@@ -274,15 +274,3 @@ The Cooperative Business Model is a powerful and proven enabler of resilient col
 [4] Capital Impact Partners. (2025, April 30). *A Guide to Types of Cooperative Business Models*. Retrieved from https://www.capitalimpact.org/blog/types-of-cooperative-businesses/
 
 [5] World Cooperative Monitor. (2023). *World Cooperative Monitor 2023*. Retrieved from https://monitor.coop/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/cooperative-business-models-worker-consumer-producer/](https://commons-os.github.io/patterns/domain/cooperative-business-models-worker-consumer-producer/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/cooperative-business-models-worker-consumer-producer.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/cooperative-business-models-worker-consumer-producer.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -216,15 +216,3 @@ Tax Optimization Frameworks are a partial enabler at best, as they demonstrate a
 [4] De Simone, L., & Stomberg, B. (2022). A review of the income shifting literature. *Journal of Accounting and Economics*, 74(1), 101478.
 
 [5] LSD.Law. (n.d.). *What is tax optimization?*. https://lsd.law/define/tax-optimization
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/tax-optimization-frameworks/](https://commons-os.github.io/patterns/implementation/tax-optimization-frameworks/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/tax-optimization-frameworks.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/tax-optimization-frameworks.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

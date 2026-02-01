@@ -239,15 +239,3 @@ The Foundational Economy provides a powerful and comprehensive framework for re-
 *   Foundational Economy Collective. (2018). *Foundational Economy: The Infrastructure of Everyday Life*. Manchester University Press.
 *   Getzner, M. (2025). Conceptualizing the Foundational Economy as a Cornerstone of Biodiversity Conservation and Restoration. *Sustainability*, 17(24), 11296.
 *   Riepl, T. (2025). The foundational economy: Focusing on what matters. *Exploring Economics*.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/66-foundational-economy/](https://commons-os.github.io/patterns/domain/66-foundational-economy/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/66-foundational-economy.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/66-foundational-economy.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

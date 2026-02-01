@@ -162,15 +162,3 @@ Concurrent Product Development is a powerful enabler for collective value creati
 *   Sobek, D. K., II, Liker, J. K., & Ward, A. C. (1999). Toyota’s Principles of Set-Based Concurrent Engineering. *MIT Sloan Management Review*, *40*(2), 67–83.
 *   Tencom Ltd. (n.d.). *Concurrent Engineering Model for Manufacturing Engineers*. Tencom Ltd. https://www.tencom.com/blog/concurrent-engineering-model-for-manufacturing-engineers
 *   Wikipedia contributors. (2023, December 27). *Concurrent engineering*. Wikipedia. https://en.wikipedia.org/wiki/Concurrent_engineering
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/concurrent-product-development/](https://commons-os.github.io/patterns/domain/concurrent-product-development/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/concurrent-product-development.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/concurrent-product-development.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

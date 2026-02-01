@@ -173,15 +173,3 @@ Green Engineering is a powerful enabler of collective value creation, particular
 [4] U.S. Green Building Council. (n.d.). *Benefits of green building*. Retrieved from https://www.usgbc.org/press/benefits-of-green-building
 
 [5] Guide Engineering. (2026). *Steps to Build a Sustainable Engineering Future: A Sustainable Future Design Guide*. Retrieved from https://www.guideengineering.ca/post/steps-to-build-a-sustainable-engineering-future-a-sustainable-future-design-guide
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/green-engineering/](https://commons-os.github.io/patterns/domain/green-engineering/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/green-engineering.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/green-engineering.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

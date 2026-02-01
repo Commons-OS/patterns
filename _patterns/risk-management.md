@@ -255,15 +255,3 @@ Risk Management is a foundational pattern for ensuring stability and resilience,
 [4] Qooling. (2023, August 23). *Risk Management Across Different Industries: A Deeper Dive*. [https://blog.qooling.com/risk-management-across-different-industries-a-deeper-dive/](https://blog.qooling.com/risk-management-across-different-industries-a-deeper-dive/)
 
 [5] IFAC. (2019, July 21). *Eight Steps to Establish a Firm Risk Management Program*. [https://www.ifac.org/knowledge-gateway/discussion/eight-steps-establish-firm-risk-management-program](https://www.ifac.org/knowledge-gateway/discussion/eight-steps-establish-firm-risk-management-program)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/risk-management/](https://commons-os.github.io/patterns/domain/risk-management/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/risk-management.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/risk-management.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -236,15 +236,3 @@ Arctic Indigenous Systems are a powerful example of a resilient, long-term value
 [4] WWF. (n.d.). *Arctic communities*. Retrieved from https://www.arcticwwf.org/our-priorities/arctic-communities/
 
 [5] United Nations Framework Convention on Climate Change. (n.d.). *Arctic Indigenous Peoples*. Retrieved from https://lcipp.unfccc.int/sites/default/files/2022-06/Arctic%20Indigenous%20Peoples.pdf
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/arctic-indigenous-systems/](https://commons-os.github.io/patterns/domain/arctic-indigenous-systems/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/arctic-indigenous-systems.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/arctic-indigenous-systems.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -245,15 +245,3 @@ D&I Frameworks are a strong enabler of collective value creation, particularly i
 [4] Great Place to Work. (2024). *9 Best Practices to Improve Diversity, Equity, and Inclusion*. https://www.greatplacetowork.com/resources/blog/9-proven-strategies-to-improve-diversity-equity-inclusion-at-your-workplace
 
 [5] Helios HR. (2025). *5 Companies With Inspiring Examples of Diversity Equity and Inclusion*. https://www.helioshr.com/blog/5-companies-with-inspirational-examples-of-diversity-equity-and-inclusion
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/diversity-inclusion-frameworks/](https://commons-os.github.io/patterns/implementation/diversity-inclusion-frameworks/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/diversity-inclusion-frameworks.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/diversity-inclusion-frameworks.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

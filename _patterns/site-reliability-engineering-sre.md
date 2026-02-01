@@ -259,15 +259,3 @@ SRE is a powerful enabler of collective value creation, particularly in the digi
 [34] Google Cloud. (n.d.). *What is MLOps?*. Retrieved from https://cloud.google.com/mlops
 
 [35] Barr, D. (2021, October 26). *What is Data Reliability Engineering?*. Monte Carlo. Retrieved from https://www.montecarlodata.com/what-is-data-reliability-engineering/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/site-reliability-engineering-sre/](https://commons-os.github.io/patterns/domain/site-reliability-engineering-sre/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/site-reliability-engineering-sre.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/site-reliability-engineering-sre.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

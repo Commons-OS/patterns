@@ -162,15 +162,3 @@ TOC is a powerful framework for improving organizational performance, but its pr
     [3] Miyaoka, Y. (2018). *The Goal in the 21st Century: A Guide to the Theory of Constraints*. Routledge.
     [4] Rahman, S. (1998). Theory of constraints: A review of the philosophy and its applications. *International Journal of Production Research*, *36*(12), 3265-3287.
     [5] Leach, L. P. (2000). Critical chain project management improves project performance. *Project Management Journal*, *31*(2), 39-51.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/theory-of-constraints-goldratts-toc/](https://commons-os.github.io/patterns/domain/theory-of-constraints-goldratts-toc/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/theory-of-constraints-goldratts-toc.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/theory-of-constraints-goldratts-toc.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

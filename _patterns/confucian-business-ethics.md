@@ -168,15 +168,3 @@ The pattern provides a strong ethical foundation for collective value creation, 
 [4] Gu, S., & Liu, H. (2021). Crafting a Confucian Culture in Chinese Corporations: A Case Study of Guangzhou Borche. *Athens Journal of Business & Economics*, *7*(4), 305–320. [https://www.athensjournals.gr/business/2021-7-4-1-Gu.pdf](https://www.athensjournals.gr/business/2021-7-4-1-Gu.pdf)
 
 [5] Woods, P. R., & Lamond, D. (2011). Junzi and Rushang: A Confucian Approach to Business Ethics in a Contemporary Chinese Context. *ANZAM*, 1-17. [https://www.anzam.org/wp-content/uploads/pdf-manager/623_ANZAM2011-434.PDF](https://www.anzam.org/wp-content/uploads/pdf-manager/623_ANZAM2011-434.PDF)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/90-confucian-business-ethics/](https://commons-os.github.io/patterns/domain/90-confucian-business-ethics/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/90-confucian-business-ethics.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/90-confucian-business-ethics.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

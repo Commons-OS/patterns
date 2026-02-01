@@ -154,15 +154,3 @@ The **Tools & Platforms** of the Rhenish model are not software but the legal an
 3.  [Introduction: Rhenish capitalism and business history - Taylor & Francis Online](https://www.tandfonline.com/doi/full/10.1080/00076791.2019.1583211)
 4.  [Codetermination in Germany – a role model for the UK and US? - Bruegel](https://www.bruegel.org/blog-post/codetermination-germany-role-model-uk-and-us)
 5.  [Capitalism vs. Capitalism by Michael Albert - Amazon](https://www.amazon.com/Capitalism-vs-Individual-Achievement-Short-Term/dp/1568580053)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/rhenish-capitalism/](https://commons-os.github.io/patterns/domain/rhenish-capitalism/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/rhenish-capitalism.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/rhenish-capitalism.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -255,15 +255,3 @@ The pattern provides a critical framework for measuring and managing the non-fin
 [4] Social Audit Network. (n.d.). *Case Studies*. Retrieved from [https://www.socialauditnetwork.org.uk/case-studies](https://www.socialauditnetwork.org.uk/case-studies)
 
 [5] ResearchGate. (2026). *Automatizing the Social Accounting Process Using AI*. Retrieved from [https://www.researchgate.net/publication/399765247_Automatizing_the_Social_Accounting_Process_Using_AI_A_First_Approach_from_the_Financial_Area](https://www.researchgate.net/publication/399765247_Automatizing_the_Social_Accounting_Process_Using_AI_A_First_Approach_from_the_Financial_Area)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/social-accounting-stakeholder-impact/](https://commons-os.github.io/patterns/domain/social-accounting-stakeholder-impact/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/social-accounting-stakeholder-impact.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/social-accounting-stakeholder-impact.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

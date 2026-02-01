@@ -156,15 +156,3 @@ Trade-off analysis, as a pattern for decision-making, has a strong alignment wit
 [4] Intuit. "Trade-off vs. opportunity cost | Definition & differences." Accessed January 28, 2026. https://www.intuit.com/enterprise/blog/strategy/trade-off-vs-opportunity-cost/.
 
 [5] 1000minds. "What are trade-offs in decision-making?" Accessed January 28, 2026. https://www.1000minds.com/articles/what-are-trade-offs.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/trade-off-analysis/](https://commons-os.github.io/patterns/domain/trade-off-analysis/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/trade-off-analysis.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/trade-off-analysis.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

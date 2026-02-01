@@ -163,15 +163,3 @@ Nemawashi is a powerful enabler of collective value creation, particularly in ge
 3.  [Nemawashi: A Guide to Japanese Consensus Building - TheLeanSuite](https://www.theleansuite.com/blogs/nemawashi)
 4.  [The Nemawashi Way: The Key To Employee Engagement - Forbes](https://www.forbes.com/sites/micahlogan/2024/02/28/the-nemawashi-way-the-key-to-employee-engagement-and-decision-making/)
 5.  [How Nemawashi Shapes Every Decision in Japan - Globis](https://globis.eu/nemawashi-in-japanese-culture/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/nemawashi-consensus-building/](https://commons-os.github.io/patterns/domain/nemawashi-consensus-building/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/nemawashi-consensus-building.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/nemawashi-consensus-building.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

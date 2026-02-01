@@ -126,15 +126,3 @@ The following resources provide further information on the Adhocracy model and i
 4.  **Birkinshaw, J., & Ridderstråle, J. (2015). Adhocracy for an agile age.** *McKinsey Quarterly*. This article explores the relevance of adhocracy in the modern business environment, particularly in the context of agile methodologies.
 
 5.  **Wikipedia. (n.d.). *Adhocracy*.** Retrieved from https://en.wikipedia.org/wiki/Adhocracy. The Wikipedia article on Adhocracy provides a good general overview of the topic, with links to many other relevant resources.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/adhocracy-mintzberg/](https://commons-os.github.io/patterns/domain/adhocracy-mintzberg/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/adhocracy-mintzberg.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/adhocracy-mintzberg.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

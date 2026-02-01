@@ -119,15 +119,3 @@ For those interested in learning more about personality frameworks, there are a 
 3.  Harrell, E. (2017, March–April). A Brief History of Personality Tests. *Harvard Business Review*.
 4.  Gibby, R. E., & Zickar, M. J. (2008). A history of the early days of personality testing in American industry: an obsession with adjustment. *History of Psychology, 11*(3), 164–184. https://doi.org/10.1037/a0013041
 5.  Kim, D., Lee, D. H., & Hwang, M. K. (2025). A Comprehensive Profiling System Integrating Myers-Briggs Type Indicator (MBTI) and Dominance, Influence, Steadiness, and Conscientiousness (DISC) for Personalized Health Behavior Change Programs: Correlational Analysis and Usability Evaluation. *JMIR Human Factors, 12*(1), e73397. https://doi.org/10.2196/73397
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/personality-frameworks-mbti-disc-etc/](https://commons-os.github.io/patterns/implementation/personality-frameworks-mbti-disc-etc/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/personality-frameworks-mbti-disc-etc.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/personality-frameworks-mbti-disc-etc.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

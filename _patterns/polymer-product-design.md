@@ -178,15 +178,3 @@ The purpose of polymer product design is to create functional and cost-effective
 [6] PlasticsToday. (2025, August 7). *How AI Is Revolutionizing Polymer Development*. PlasticsToday. Retrieved from https://www.plasticstoday.com/materials-research/how-ai-is-revolutionizing-polymer-development
 
 [7] Cao, X., & et al. (2025). Machine learning in polymer science: A new lens for an old field. *Progress in Polymer Science*, *143*, 101685. https://doi.org/10.1016/j.progpolymsci.2025.101685
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/polymer-product-design/](https://commons-os.github.io/patterns/domain/polymer-product-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/polymer-product-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/polymer-product-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

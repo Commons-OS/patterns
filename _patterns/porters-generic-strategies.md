@@ -234,15 +234,3 @@ Porter's Generic Strategies is a legacy framework designed for winning in a comp
 [4] Institute for Manufacturing (IfM), University of Cambridge. *Porter's Generic Competitive Strategies*. https://www.ifm.eng.cam.ac.uk/research/dstools/porters-generic-competitive-strategies/
 
 [5] Business-to-you.com. *Porter's Generic Strategies: Differentiation, Cost Leadership and Focus*. https://www.business-to-you.com/porter-generic-strategies-differentiation-cost-leadership-focus/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/42-porters-generic-strategies/](https://commons-os.github.io/patterns/domain/42-porters-generic-strategies/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/42-porters-generic-strategies.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/42-porters-generic-strategies.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

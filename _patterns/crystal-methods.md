@@ -195,15 +195,3 @@ Crystal Methods are a powerful enabler of collective value creation by establish
 [4] Studocu. (n.d.). *Provide 3 real life success stories of crystal clear methodologies*. Studocu. Retrieved from https://www.studocu.com/en-us/messages/question/3060373/provide-3-real-life-success-stories-of-crystal-clear-methodologies-add-citation-in-apa-7-style
 
 [5] Mann, C. and Maurer, F. (2005). *A Case Study on the Impact of Agile Methods on Project Success*. University of Calgary.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/crystal-methods/](https://commons-os.github.io/patterns/implementation/crystal-methods/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/crystal-methods.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/crystal-methods.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

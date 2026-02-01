@@ -164,15 +164,3 @@ Digital Manufacturing is a powerful enabler of resilient, collective value creat
 [7] [Solving the digital manufacturing disconnect: A case study](https://www.mckinsey.com/capabilities/operations/how-we-help-clients/solving-the-digital-manufacturing-disconnect)
 [8] [How Cognitive Manufacturing Is Rewriting The Future Of Work](https://www.forbes.com/sites/trondarneundheim/2025/08/01/how-cognitive-manufacturing-is-rewriting-the-future-of-work/)
 [9] [Why the future of manufacturing will rely on open source](https://www.redhat.com/en/blog/why-future-manufacturing-will-rely-open-source)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/digital-manufacturing/](https://commons-os.github.io/patterns/context-specific/digital-manufacturing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/digital-manufacturing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/digital-manufacturing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -156,15 +156,3 @@ The Maker Movement Principles are a powerful enabler of resilient, collective va
 [4] Agency by Design. (2015). *Maker-centered learning and the development of self*. Project Zero, Harvard Graduate School of Education.
 
 [5] Browder, R. E., Aldrich, H. E., & Bradley, S. W. (2019). The emergence of the maker movement: Implications for entrepreneurship research. *Journal of Business Venturing*, *34*(3), 459-476. https://doi.org/10.1016/j.jbusvent.2019.01.005
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/maker-movement-principles/](https://commons-os.github.io/patterns/domain/maker-movement-principles/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/maker-movement-principles.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/maker-movement-principles.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

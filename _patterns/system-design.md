@@ -227,15 +227,3 @@ System Design is a powerful enabler of resilient, scalable, and interoperable sy
 [4] Intercom. (2020, November 2). *Six Principles of System Design*. https://www.intercom.com/blog/six-principles-of-system-design/
 
 [5] System Design Handbook. (2025, November 10). *System Design Principles Explained: Key Concepts*. https://www.systemdesignhandbook.com/guides/system-design-principles/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/system-design/](https://commons-os.github.io/patterns/domain/system-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/system-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/system-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

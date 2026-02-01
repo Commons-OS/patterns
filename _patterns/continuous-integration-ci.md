@@ -144,15 +144,3 @@ Continuous Integration is a powerful enabler of resilient, collective value crea
 [4] BrowserStack. (2024, November 15). *15 CI/CD Challenges and its Solutions*. BrowserStack. https://www.browserstack.com/guide/ci-cd-challenges-and-solutions
 
 [5] Jackson, J. (2026, January 27). *QCon chat: Is agentic AI killing continuous integration?* The New Stack. https://thenewstack.io/qcon-chat-is-agentic-ai-killing-continuous-integration/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/continuous-integration-ci/](https://commons-os.github.io/patterns/domain/continuous-integration-ci/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/continuous-integration-ci.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/continuous-integration-ci.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

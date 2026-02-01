@@ -150,15 +150,3 @@ This section assesses the alignment of Real Options Analysis with the principles
 [9] Amram, M., & Kulatilaka, N. (2000). Using real options in strategic decision making. *MBA.Tuck.Dartmouth.edu*.
 
 [10] Triantis, A. J., & Borison, A. (2001). Real Options: State of the Practice. *Journal of Applied Corporate Finance*, 14(2), 8-24.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/real-options-analysis/](https://commons-os.github.io/patterns/domain/real-options-analysis/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/real-options-analysis.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/real-options-analysis.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

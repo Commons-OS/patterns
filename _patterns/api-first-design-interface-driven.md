@@ -201,15 +201,3 @@ API-First Design is a powerful enabler for creating scalable, resilient, and int
 [2] Swagger. (n.d.). *Understanding the API-First Approach to Building Products*. Retrieved from https://swagger.io/resources/articles/adopting-an-api-first-approach/
 
 [3] Nordic APIs. (2024, August 30). *The Rise of API-First Companies: 5 Success Stories*. Retrieved from https://nordicapis.com/the-rise-of-api-first-companies-5-success-stories/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/api-first-design-interface-driven/](https://commons-os.github.io/patterns/domain/api-first-design-interface-driven/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/api-first-design-interface-driven.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/api-first-design-interface-driven.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

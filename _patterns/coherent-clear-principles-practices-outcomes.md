@@ -146,15 +146,3 @@ The pattern is a powerful enabler for creating the cultural and operational cond
 [4] Public Education Leadership Project. "Coherence Framework." Harvard Graduate School of Education, [https://pelp.fas.harvard.edu/coherence-framework](https://pelp.fas.harvard.edu/coherence-framework).
 
 [5] The Ros. "Vision and organizational coherence: the leadership imperative." [https://www.the-ros.com/insights/vision-and-organizational-coherence-the-leadership-imperative/](https://www.the-ros.com/insights/vision-and-organizational-coherence-the-leadership-imperative/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/coherent-clear-principles-practices-outcomes/](https://commons-os.github.io/patterns/implementation/coherent-clear-principles-practices-outcomes/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/coherent-clear-principles-practices-outcomes.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/coherent-clear-principles-practices-outcomes.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

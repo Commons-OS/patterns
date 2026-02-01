@@ -150,15 +150,3 @@ Evolutionary Economics provides a powerful and essential framework for understan
 [4] Dosi, G. (1982). Technological paradigms and technological trajectories: A suggested interpretation of the determinants and directions of technical change. _Research Policy_, 11(3), 147-162.
 
 [5] Schumpeter, J. A. (1934). _The Theory of Economic Development: An Inquiry into Profits, Capital, Credit, Interest, and the Business Cycle_. Harvard University Press.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/evolutionary-economics/](https://commons-os.github.io/patterns/domain/evolutionary-economics/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/evolutionary-economics.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/evolutionary-economics.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -164,15 +164,3 @@ Economia Popular is a powerful framework for enabling collective value creation,
 [4] [Informal economy - Wikipedia](https://en.wikipedia.org/wiki/Informal_economy)
 
 [5] [Microfinance - Wikipedia](https://en.wikipedia.org/wiki/Microfinance)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/economia-popular/](https://commons-os.github.io/patterns/domain/economia-popular/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/economia-popular.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/economia-popular.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

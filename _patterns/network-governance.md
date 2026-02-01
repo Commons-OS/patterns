@@ -216,15 +216,3 @@ Network Governance is a powerful enabler for resilient, collective value creatio
 3.  [What is network governance? - Polity® Blog](https://blog.polity.li/what-is-network-governance)
 4.  [Network Governance of the Commons](https://thecommonsjournal.org/articles/10.18352/ijc.20)
 5.  [The Cognitive Network Age: Networks as the Nervous System of Civilization](https://www.cigionline.org/articles/the-cognitive-network-age-networks-as-the-nervous-system-of-civilization/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/94-network-governance/](https://commons-os.github.io/patterns/domain/94-network-governance/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/94-network-governance.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/94-network-governance.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

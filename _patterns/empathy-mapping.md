@@ -112,15 +112,3 @@ Empathy Mapping is a powerful tool for building the shared understanding that is
 [4] Chen, M. C., & Tsai, M. C. (2024). Applying team-based learning combined with empathy map to improve self-directed learning skills. *BMC nursing*, *23*(1), 355. https://doi.org/10.1186/s12912-024-02355-4
 
 [5] Farias, L. A. S., & Farias, C. C. (2015). Eliciting requirements using personas and empathy map to enhance the user experience. In *2015 10th Computing Colombian Conference (10CCC)* (pp. 466-471). IEEE. https://doi.org/10.1109/ColumbianCC.2015.7333489
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/empathy-mapping/](https://commons-os.github.io/patterns/domain/empathy-mapping/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/empathy-mapping.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/empathy-mapping.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

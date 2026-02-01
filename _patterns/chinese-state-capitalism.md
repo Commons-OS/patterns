@@ -172,15 +172,3 @@ This is a political and economic pattern, and as such, there are no specific sof
 [4] Wikipedia. (2026). State capitalism. In *Wikipedia*. Retrieved January 28, 2026, from https://en.wikipedia.org/wiki/State_capitalism
 
 [5] Pearson, M. (2022, September 2). How Does Party-State Capitalism In China Interact With Global Capitalism? *ProMarket*. Retrieved from https://www.promarket.org/2022/09/02/how-does-party-state-capitalism-in-china-interact-with-global-capitalism/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/chinese-state-capitalism/](https://commons-os.github.io/patterns/domain/chinese-state-capitalism/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/chinese-state-capitalism.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/chinese-state-capitalism.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

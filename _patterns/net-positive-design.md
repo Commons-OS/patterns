@@ -214,15 +214,3 @@ Net-Positive Design is a powerful enabler of collective value creation, particul
 [4] Positive Development. (n.d.). In *Wikipedia*. Retrieved January 28, 2026, from https://en.wikipedia.org/wiki/Positive_Development
 
 [5] U.S. Green Building Council. (2024, July 24). Five key principles in designing regenerative buildings. Retrieved from https://www.usgbc.org/articles/five-key-principles-designing-regenerative-buildings
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/net-positive-design/](https://commons-os.github.io/patterns/domain/net-positive-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/net-positive-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/net-positive-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

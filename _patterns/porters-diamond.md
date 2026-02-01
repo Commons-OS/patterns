@@ -135,15 +135,3 @@ The Commons Alignment Assessment evaluates the Porter's Diamond model based on i
 3.  Business-to-You. (2018). *Porter's Diamond Model EXPLAINED with EXAMPLES*. [https://www.business-to-you.com/porter-diamond-model/](https://www.business-to-you.com/porter-diamond-model/)
 4.  Grant, R. M. (1991). Porter's 'Competitive Advantage of Nations': An Assessment. *Strategic Management Journal*, 12(7), 535-548.
 5.  Smit, A. J. (2010). The Competitive Advantage of Nations: Is Porter’s Diamond Framework a New Theory That Explains the International Competitiveness of Countries? *Southern African Business Review*, 14(1), 1-24.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/porters-diamond/](https://commons-os.github.io/patterns/domain/porters-diamond/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/porters-diamond.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/porters-diamond.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

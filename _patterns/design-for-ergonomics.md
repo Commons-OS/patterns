@@ -175,15 +175,3 @@ Design for Ergonomics is a powerful enabler of collective value creation, direct
 [4] Ergotronix. (2024). *Why Design Ergonomics Is Essential for Modern Workplaces*. Retrieved from https://ergotronix.com/design-ergonomics-for-modern-workplaces/
 
 [5] International Ergonomics Association. (n.d.). *What is Ergonomics (HFE)?*. Retrieved from https://iea.cc/about/what-is-ergonomics/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/design-for-ergonomics/](https://commons-os.github.io/patterns/domain/design-for-ergonomics/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/design-for-ergonomics.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/design-for-ergonomics.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

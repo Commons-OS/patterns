@@ -219,15 +219,3 @@ The Indigenous Design Principles (Seven Generations) pattern provides a complete
 [3] Laverdure, M. (n.d.). *Respecting the Tribe: The 7 principles of Indigenous engagement in the design process*. DSGW Architecture. Retrieved from https://dsgw.com/respecting-the-tribe-the-7-principles-of-indigenous-engagement-in-the-design-process/
 
 [4] Library of Congress. (2023). *The Haudenosaunee Confederacy and the Constitution*. Retrieved from https://blogs.loc.gov/law/2023/09/the-haudenosaunee-confederacy-and-the-constitution/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/indigenous-design-principles-seven-generations/](https://commons-os.github.io/patterns/domain/indigenous-design-principles-seven-generations/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/indigenous-design-principles-seven-generations.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/indigenous-design-principles-seven-generations.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

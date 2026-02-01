@@ -138,15 +138,3 @@ Valuation methodologies are often used for purely financial purposes, with littl
 [4] IESE Business School. "COMPANY VALUATION METHODS. THE MOST COMMON ERRORS IN VALUATIONS." Accessed January 28, 2026. https://www.iese.edu/media/research/pdfs/DI-0449-E.pdf
 
 [5] National Bureau of Economic Research. "Corporate Valuation." Accessed January 28, 2026. https://www.nber.org/system/files/working_papers/w30898/w30898.pdf
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/valuation-methodologies/](https://commons-os.github.io/patterns/implementation/valuation-methodologies/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/valuation-methodologies.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/valuation-methodologies.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

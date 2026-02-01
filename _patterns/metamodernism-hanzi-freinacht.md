@@ -145,15 +145,3 @@ Metamodernism provides a powerful and essential framework for fostering the psyc
 *   [3] Evans, J. (2017, December 26). *On Metamodernism and The Listening Society*. Philosophy for Life. Retrieved from https://www.philosophyforlife.org/blog/on-metamodernism-and-the-listening-society
 *   [4] Freinacht, H. (2017). *The Listening Society: A Metamodern Guide to Politics, Book One*. Metamoderna ApS.
 *   [5] Freinacht, H. (2019). *Nordic Ideology: A Metamodern Guide to Politics, Book Two*. Metamoderna ApS.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/metamodernism-hanzi-freinacht/](https://commons-os.github.io/patterns/domain/metamodernism-hanzi-freinacht/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/metamodernism-hanzi-freinacht.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/metamodernism-hanzi-freinacht.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

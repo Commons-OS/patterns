@@ -117,15 +117,3 @@ The informal economy is a powerful engine of value creation and a critical safet
 [3] International Monetary Fund. (2020). *What is the Informal Economy?* Retrieved from https://www.imf.org/en/publications/fandd/issues/2020/12/what-is-the-informal-economy-basics
 [4] International Labour Organization. (n.d.). *Informal economy*. Retrieved from https://www.ilo.org/global/topics/informal-economy/lang--en/index.htm
 [5] WIEGO. (n.d.). *The Informal Economy*. Retrieved from https://www.wiego.org/informal-economy
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/informal-economy-models/](https://commons-os.github.io/patterns/domain/informal-economy-models/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/informal-economy-models.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/informal-economy-models.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

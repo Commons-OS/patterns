@@ -228,15 +228,3 @@ In conclusion, the Circuit Simulation (SPICE) pattern is a powerful example of a
 
 *   **[All About Circuits Forum](https://forum.allaboutcircuits.com/):** A large and active online community for electronics enthusiasts and professionals, with a dedicated section for SPICE simulation.
 *   **[EEVblog Forum](https://www.eevblog.com/forum/):** Another popular forum for electronics engineers, with frequent discussions and tutorials on SPICE and other EDA tools.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/circuit-simulation-spice/](https://commons-os.github.io/patterns/domain/circuit-simulation-spice/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/circuit-simulation-spice.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/circuit-simulation-spice.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

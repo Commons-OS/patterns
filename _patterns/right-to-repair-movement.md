@@ -210,15 +210,3 @@ The Right to Repair movement is a powerful enabler of collective value creation.
 [46] https://www.all3dp.com/2/right-to-repair-and-3d-printing-the-perfect-match/
 [47] https://www.weforum.org/agenda/2022/01/digital-literacy-skills-future-of-work/
 [48] https://www.brookings.edu/articles/the-future-of-work-in-the-age-of-ai/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/right-to-repair-movement/](https://commons-os.github.io/patterns/domain/right-to-repair-movement/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/right-to-repair-movement.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/right-to-repair-movement.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

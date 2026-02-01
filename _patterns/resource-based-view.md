@@ -180,15 +180,3 @@ The Resource-Based View is a powerful framework for understanding competitive ad
 [6] Newbert, S. L. (2007). Empirical research on the resource-based view of the firm: an assessment and suggestions for future research. Strategic Management Journal, 28(2), 121-146.
 
 [7] Ristyawan, M. R. (2020). An Integrated Artificial Intelligence and Resource Base View Model for Creating Competitive Advantage. GATR Journal of Business and Economics Review, 5(1), 28-37.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/resource-based-view/](https://commons-os.github.io/patterns/domain/resource-based-view/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/resource-based-view.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/resource-based-view.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

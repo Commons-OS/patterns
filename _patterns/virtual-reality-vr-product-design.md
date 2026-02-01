@@ -157,15 +157,3 @@ This section assesses the alignment of the Virtual Reality (VR) Product Design p
 [4] Gebretsadik Teklemariam, H. (2014). *APPLICATION OF VR TECHNOLOGY IN DESIGN EDUCATION*. [https://www.designsociety.org/download-publication/35869/Application+of+VR+Technology+in+Design+Education](https://www.designsociety.org/download-publication/35869/Application+of+VR+Technology+in+Design+Education)
 
 [5] HQSoftware. (2026). *Applications of Virtual Reality (VR) in Manufacturing*. [https://hqsoftwarelab.com/blog/virtual-reality-in-manufacturing/](https://hqsoftwarelab.com/blog/virtual-reality-in-manufacturing/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/virtual-reality-vr-product-design/](https://commons-os.github.io/patterns/domain/virtual-reality-vr-product-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/virtual-reality-vr-product-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/virtual-reality-vr-product-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

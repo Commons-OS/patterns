@@ -217,15 +217,3 @@ The Value Net Model represents a significant step forward from traditional, pure
 3.  Business-to-You. (2018). *The Value Net Model EXPLAINED with EXAMPLES*. Retrieved from https://www.business-to-you.com/value-net/
 4.  Flevy. (2024). *Value Net Model*. Retrieved from https://flevy.com/blog/value-net-model/
 5.  Brandenburger, A. M., & Nalebuff, B. J. (2021). The Rules of Co-opetition. *Harvard Business Review*.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/value-net-model/](https://commons-os.github.io/patterns/domain/value-net-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/value-net-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/value-net-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

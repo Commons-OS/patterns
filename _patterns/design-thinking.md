@@ -175,15 +175,3 @@ This section provides a curated list of resources for those who wish to learn mo
 [3] Interaction Design Foundation. (n.d.). *The History of Design Thinking*. Retrieved from https://www.interaction-design.org/literature/article/design-thinking-get-a-quick-overview-of-the-history
 
 [4] Harvard Business School Online. (2022, February 22). *5 Examples of Design Thinking in Business*. Retrieved from https://online.hbs.edu/blog/post/design-thinking-examples
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/design-thinking/](https://commons-os.github.io/patterns/domain/design-thinking/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/design-thinking.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/design-thinking.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

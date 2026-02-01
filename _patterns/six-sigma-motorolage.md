@@ -307,15 +307,3 @@ Six Sigma is a powerful transitional pattern for optimizing existing systems and
 [4] 6sigma.us. (n.d.). *The Definitive Guide to Six Sigma DMADV*. Retrieved from https://www.6sigma.us/six-sigma-in-focus/dmadv-six-sigma/
 
 [5] Investopedia. (2023). *Six Sigma*. Retrieved from https://www.investopedia.com/terms/s/six-sigma.asp
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/16-six-sigma-motorolage/](https://commons-os.github.io/patterns/domain/16-six-sigma-motorolage/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/16-six-sigma-motorolage.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/16-six-sigma-motorolage.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

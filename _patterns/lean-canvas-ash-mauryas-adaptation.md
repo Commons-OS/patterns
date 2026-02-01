@@ -294,15 +294,3 @@ This section provides a curated list of resources for those who want to learn mo
 [4] Blank, S. (2013). *The Four Steps to the Epiphany: Successful Strategies for Products that Win*. K&S Ranch.
 
 [5] Journal of Business Venturing. (2017). *The impact of the lean startup methodology on new venture performance*.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/lean-canvas-ash-mauryas-adaptation/](https://commons-os.github.io/patterns/domain/lean-canvas-ash-mauryas-adaptation/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/lean-canvas-ash-mauryas-adaptation.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/lean-canvas-ash-mauryas-adaptation.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

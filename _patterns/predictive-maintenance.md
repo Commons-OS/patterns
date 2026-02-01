@@ -154,15 +154,3 @@ Predictive Maintenance (PdM), while often implemented in a proprietary context, 
 [4] Zonta, T., da Costa, C. A., da Rosa Righi, R., de Lima, M. J., da Trindade, E. S., & Li, G. P. (2020). Predictive maintenance in the Industry 4.0: A systematic literature review. *Computers & Industrial Engineering*, *150*, 106889.
 
 [5] Ran, Y., Zhou, X., Lin, P., Wen, Y., & Deng, R. (2019). A survey of predictive maintenance: Systems, purposes and approaches. *arXiv preprint arXiv:1912.07383*.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/predictive-maintenance/](https://commons-os.github.io/patterns/domain/predictive-maintenance/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/predictive-maintenance.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/predictive-maintenance.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

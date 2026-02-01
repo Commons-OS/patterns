@@ -125,15 +125,3 @@ Motivation Theories are a foundational and powerful enabler for value creation, 
 [5] Souders, B. (2023). *20 Most Popular Theories of Motivation in Psychology*. PositivePsychology.com. Retrieved from https://positivepsychology.com/motivation-theories-psychology/
 
 [6] Bandhu, D., Mohan, M. M., Nittala, N. A. P., Jadhav, P., Bhadauria, A., & Saxena, K. K. (2024). Theories of motivation: A comprehensive analysis of human behavior drivers. *Acta Psychologica, 244*, 104177.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/motivation-theories/](https://commons-os.github.io/patterns/domain/motivation-theories/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/motivation-theories.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/motivation-theories.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

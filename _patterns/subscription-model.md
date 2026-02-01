@@ -267,15 +267,3 @@ The Subscription Model is a powerful engine for creating predictable economic va
 [4] McKinsey & Company. (2021). *Subscription businesses are booming, but retention is a challenge*. Retrieved from https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/subscription-businesses-are-booming-but-retention-is-a-challenge
 
 [5] Forbes. (2021). *The Future Of The Subscription Economy*. Retrieved from https://www.forbes.com/sites/forbestechcouncil/2021/10/12/the-future-of-the-subscription-economy/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/55-subscription-model/](https://commons-os.github.io/patterns/domain/55-subscription-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/55-subscription-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/55-subscription-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

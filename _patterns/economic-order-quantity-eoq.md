@@ -115,15 +115,3 @@ The traditional EOQ model's reliance on stable, predictable demand makes it brit
 [3] NetSuite. (2021). *Economic Order Quantity (EOQ) Defined*. [https://www.netsuite.com/portal/resource/articles/inventory-management/economic-order-quantity-eoq.shtml](https://www.netsuite.com/portal/resource/articles/inventory-management/economic-order-quantity-eoq.shtml)
 [4] Harris, F. W. (1913). *How Many Parts to Make at Once*. Factory, The Magazine of Management, 10(2), 135-136.
 [5] Wikipedia. (2023). *Economic order quantity*. [https://en.wikipedia.org/wiki/Economic_order_quantity](https://en.wikipedia.org/wiki/Economic_order_quantity)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/economic-order-quantity-eoq/](https://commons-os.github.io/patterns/domain/economic-order-quantity-eoq/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/economic-order-quantity-eoq.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/economic-order-quantity-eoq.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

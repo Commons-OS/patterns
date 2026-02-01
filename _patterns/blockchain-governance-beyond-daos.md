@@ -116,15 +116,3 @@ The pattern provides a comprehensive toolkit for designing governance systems th
 [4] Kava. (2025). *Blockchain Governance: Efficient Execution Through Foundations*. Retrieved from https://www.kava.io/news/blockchain-governance-efficient-execution-through-foundations
 
 [5] World Economic Forum. (2025). *The digital commons: using blockchain for good governance*. Retrieved from https://www.weforum.org/stories/2025/02/digital-commons-blockchain-governance/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/blockchain-governance-beyond-daos/](https://commons-os.github.io/patterns/domain/blockchain-governance-beyond-daos/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/blockchain-governance-beyond-daos.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/blockchain-governance-beyond-daos.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

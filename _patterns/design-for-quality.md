@@ -180,15 +180,3 @@ The pattern has significant potential to enable resilient collective value creat
 ### Academic Papers
 
 *   Atkinson, J. G., & Goldstone, R. L. (2019). Improving Quality Measurement: Design Principles for Measures That Matter. *Perspectives on Psychological Science*, *14*(5), 725–734. https://doi.org/10.1177/1745691619843232
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/design-for-quality/](https://commons-os.github.io/patterns/domain/design-for-quality/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/design-for-quality.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/design-for-quality.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

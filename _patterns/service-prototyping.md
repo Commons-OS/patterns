@@ -186,15 +186,3 @@ Service Prototyping is a powerful enabler of collective value creation. It provi
 [5] Gibbons, S. (2017, July 16). *Service Design 101*. Nielsen Norman Group. Retrieved from https://www.nngroup.com/articles/service-design-101/
 
 [6] Ostrom, E. (1990). *Governing the Commons: The Evolution of Institutions for Collective Action*. Cambridge University Press.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/service-prototyping/](https://commons-os.github.io/patterns/domain/service-prototyping/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/service-prototyping.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/service-prototyping.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -172,15 +172,3 @@ The pattern is a powerful enabler for collective value creation because it direc
 [4] Ferrari, A., et al. (2021). NLP for Requirements Engineering: Tasks, Techniques, Tools, and Technologies. *2021 IEEE 29th International Requirements Engineering Conference (RE)*, 1-11. https://doi.org/10.1109/RE51729.2021.00010
 
 [5] van Remmen, J. S., et al. (2023). NATURAL LANGUAGE PROCESSING IN REQUIREMENTS ENGINEERING AND ITS CHALLENGES FOR REQUIREMENTS MODELLING IN THE ENGINEERING DESIGN DOMAIN. *Proceedings of the Design Society*, *3*, 2891-2900. https://doi.org/10.1017/pds.2023.29.23.29
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/natural-language-processing-for-requirements/](https://commons-os.github.io/patterns/implementation/natural-language-processing-for-requirements/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/natural-language-processing-for-requirements.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/natural-language-processing-for-requirements.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

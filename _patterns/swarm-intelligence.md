@@ -155,15 +155,3 @@ Swarm Intelligence demonstrates strong alignment with the commons principles of 
 [4] "Swarm Intelligence: Definition, Explanation, and Use Cases." Vation Ventures. https://www.vationventures.com/glossary/swarm-intelligence-definition-explanation-and-use-cases
 
 [5] "How Companies Can Use Swarm Intelligence to Improve Teamwork and Innovation." Swarm Strategy. https://swarmstrategy.com/how-companies-can-use-swarm-intelligence-to-improve-teamwork-and-innovation/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/swarm-intelligence/](https://commons-os.github.io/patterns/domain/swarm-intelligence/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/swarm-intelligence.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/swarm-intelligence.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -223,15 +223,3 @@ This section provides a curated list of resources for further exploration of soc
     3.  Tykkyläinen, S., & Ritala, P. (2021). Business model innovation in social enterprises: An activity system perspective. *Journal of Business Research*, *125*, 684-697.
     4.  Social Enterprise UK. (n.d.). *Social enterprise case studies from across our membership*. Retrieved from https://www.socialenterprise.org.uk/case-studies/
     5.  Yale School of Management. (n.d.). *Social Enterprise Case Studies*. Retrieved from https://som.yale.edu/centers/program-on-social-enterprise-innovation-impact/pse-case-studies
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/60-social-enterprise-models/](https://commons-os.github.io/patterns/domain/60-social-enterprise-models/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/60-social-enterprise-models.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/60-social-enterprise-models.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

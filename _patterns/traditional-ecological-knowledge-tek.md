@@ -189,15 +189,3 @@ While the overall alignment score is high, it is important to recognize that TEK
 [4] Berkes, F. (2012). *Sacred Ecology* (3rd ed.). Routledge.
 
 [5] Kimmerer, R. W. (2013). *Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants*. Milkweed Editions.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/traditional-ecological-knowledge-tek/](https://commons-os.github.io/patterns/domain/traditional-ecological-knowledge-tek/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/traditional-ecological-knowledge-tek.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/traditional-ecological-knowledge-tek.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

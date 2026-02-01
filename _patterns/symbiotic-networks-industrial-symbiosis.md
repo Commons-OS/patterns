@@ -205,15 +205,3 @@ Industrial Symbiosis is a powerful enabler of collective value creation, particu
 *   Lombardi, D. R., & Laybourn, P. (2012). Redefining industrial symbiosis. *Journal of Industrial Ecology, 16*(1), 28-37.
 *   Khan, Z. A., et al. (2023). Analysis of industrial symbiosis case studies and its potential in Saudi Arabia. *Journal of Cleaner Production, 385*, 135536.
 *   Wikipedia. (2026). *Industrial symbiosis*. Retrieved from https://en.wikipedia.org/wiki/Industrial_symbiosis
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/12-symbiotic-networks-industrial-symbiosis/](https://commons-os.github.io/patterns/domain/12-symbiotic-networks-industrial-symbiosis/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/12-symbiotic-networks-industrial-symbiosis.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/12-symbiotic-networks-industrial-symbiosis.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

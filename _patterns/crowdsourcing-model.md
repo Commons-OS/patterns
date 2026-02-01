@@ -254,15 +254,3 @@ The Crowdsourcing Model is a powerful engine for collective action but in its co
 [13] McKinsey & Company. (2018). *The Business Value of Design*.
 [14] World Bank. (2013). *Crowdsourcing for Development: A Practical Guide*.
 [15] Cooper, S., Khatib, F., Treuille, A., Barbero, J., Lee, J., Beenen, M., ... & Popović, Z. (2010). Predicting protein structures with a multiplayer online game. *Nature*, *466*(7307), 756-760.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/crowdsourcing-model/](https://commons-os.github.io/patterns/domain/crowdsourcing-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/crowdsourcing-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/crowdsourcing-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

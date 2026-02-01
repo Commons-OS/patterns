@@ -242,15 +242,3 @@ DAD is a process framework and is not tied to any specific tools. However, a num
 [4] Lines, M., & Ambler, S. W. (2014). *Implementing Disciplined Agile Delivery (DAD) at Panera Bread: A Recipe for Success*. Agile Alliance. Retrieved from https://www.agilealliance.org/resources/experience-reports/implementing-disciplined-agile-delivery-dad-panera-bread-recipe-success/
 
 [5] Project Management Institute. (n.d.). *Success Stories*. Retrieved from https://www.pmi.org/disciplined-agile/resources/disciplined-agile-success-stories
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/disciplined-agile-delivery-dad/](https://commons-os.github.io/patterns/domain/disciplined-agile-delivery-dad/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/disciplined-agile-delivery-dad.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/disciplined-agile-delivery-dad.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

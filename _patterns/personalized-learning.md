@@ -195,15 +195,3 @@ Personalized Learning has significant potential to enable collective value creat
     3.  National Forum on Education Statistics. (2019). *Forum Guide to Personalized Learning Data: Case Studies*. (NCES 2019-144). U.S. Department of Education. Washington, DC: National Center for Education Statistics.
     4.  Herold, B. (2016, October 18). Personalized Learning: What Does the Research Say? *Education Week*. Retrieved from https://www.edweek.org/technology/personalized-learning-what-does-the-research-say/2016/10
     5.  Pane, J. F., Steiner, E. D., Baird, M. D., & Hamilton, L. S. (2015). *Continued progress: Promising evidence on personalized learning*. RAND Corporation. Retrieved from https://www.rand.org/pubs/research_reports/RR2065.html
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/human-universal/personalized-learning/](https://commons-os.github.io/patterns/human-universal/personalized-learning/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/personalized-learning.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_human-universal/personalized-learning.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

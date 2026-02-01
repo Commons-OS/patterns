@@ -184,15 +184,3 @@ This guide from IBM provides a practical, step-by-step approach to implementing 
 **5. MIT Sloan Management Review - "Use these 3 MIT guides when implementing AI in your organization"**
 
 This article from MIT Sloan provides a set of practical guides for implementing AI in an organization. It covers topics such as assessing AI maturity, making decisions about which technologies to use, and managing the organizational changes that are required for a successful AI implementation. This is a valuable resource for leaders who are looking for guidance on how to navigate the challenges of AI adoption.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/ai-augmented-organizations/](https://commons-os.github.io/patterns/domain/ai-augmented-organizations/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/ai-augmented-organizations.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/ai-augmented-organizations.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

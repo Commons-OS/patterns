@@ -164,15 +164,3 @@ The Social License to Operate is a powerful enabler of collective value creation
 [4] Saenz, L., & Ostos, J. (2019). Social license to operate in the mining industry: the case of Peru. *Journal of Environmental Management*, *233*, 1065-1075.
 
 [5] Bebbington, A., & Bury, J. (2018). Earning a social license to operate in mining: A case study from Peru. *Resources Policy*, *59*, 431-440.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/social-license-to-operate-miningextractive/](https://commons-os.github.io/patterns/domain/social-license-to-operate-miningextractive/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/social-license-to-operate-miningextractive.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/social-license-to-operate-miningextractive.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

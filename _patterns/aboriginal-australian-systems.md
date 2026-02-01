@@ -281,15 +281,3 @@ This section provides a starting point for further exploration of Aboriginal Aus
 [3] Australian Indigenous Governance Institute. (n.d.). *Effective Indigenous governance*. Retrieved from https://aigi.org.au/toolkit/effective-indigenous-governance
 
 [4] Australian Indigenous Governance Institute. (n.d.). *OUR PEOPLE, OUR WAY: STORIES OF INDIGENOUS GOVERNANCE SUCCESS*. Retrieved from https://aigi.org.au/news/our-people-our-way-stories-of-indigenous-governance-success/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/aboriginal-australian-systems/](https://commons-os.github.io/patterns/domain/aboriginal-australian-systems/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/aboriginal-australian-systems.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/aboriginal-australian-systems.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

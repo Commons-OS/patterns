@@ -157,15 +157,3 @@ The following resources provide further information on Classical Economics, Adam
 3.  **Investopedia. "Adam Smith: Father of Modern Economics".** [https://www.investopedia.com/updates/adam-smith-economics/](https://www.investopedia.com/updates/adam-smith-economics/)
 4.  **Khan Academy. "Laissez-faire policies in the Gilded Age".** [https://www.khanacademy.org/humanities/ap-us-history/period-6/apush-controversies-over-the-role-of-government-in-the-gilded-age-lesson/a/laissez-faire-policies-in-the-gilded-age](https://www.khanacademy.org/humanities/ap-us-history/period-6/apush-controversies-over-the-role-of-government-in-the-gilded-age-lesson/a/laissez-faire-policies-in-the-gilded-age)
 5.  **Heilbroner, Robert L. *The Worldly Philosophers: The Lives, Times, and Ideas of the Great Economic Thinkers*. 7th ed., Touchstone, 1999.** A highly readable and engaging overview of the history of economic thought, with excellent chapters on Adam Smith and the classical economists.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/classical-economics-smith/](https://commons-os.github.io/patterns/domain/classical-economics-smith/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/classical-economics-smith.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/classical-economics-smith.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

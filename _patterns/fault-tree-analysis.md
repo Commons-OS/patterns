@@ -231,15 +231,3 @@ Fault Tree Analysis aligns with the principles of the Commons by promoting trans
 [4] U.S. Nuclear Regulatory Commission. (1981). *Fault Tree Handbook (NUREG-0492)*.
 
 [5] U.S. Department of Labor, Occupational Safety and Health Administration. (1992). *Process Safety Management of Highly Hazardous Chemicals (29 CFR 1910.119)*.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/fault-tree-analysis/](https://commons-os.github.io/patterns/domain/fault-tree-analysis/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/fault-tree-analysis.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/fault-tree-analysis.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

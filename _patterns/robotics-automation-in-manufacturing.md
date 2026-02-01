@@ -178,15 +178,3 @@ The pattern has significant potential to be a powerful enabler of collective val
 [4] International Federation of Robotics. "Case Studies - Industrial Robots." [https://ifr.org/case-studies/industry-robots-case-studies](https://ifr.org/case-studies/industry-robots-case-studies)
 
 [5] National Institute of Standards and Technology. "Robotics and Manufacturing Automation." [https://www.nist.gov/mep/robotics-and-manufacturing-automation](https://www.nist.gov/mep/robotics-and-manufacturing-automation)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/robotics-automation-in-manufacturing/](https://commons-os.github.io/patterns/context-specific/robotics-automation-in-manufacturing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/robotics-automation-in-manufacturing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/robotics-automation-in-manufacturing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

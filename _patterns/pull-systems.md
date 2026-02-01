@@ -253,15 +253,3 @@ Pull Systems are a powerful enabler of resilient collective value creation. The 
 3.  Lean Enterprise Institute. (n.d.). *Pull Production*. Retrieved from https://www.lean.org/lexicon-terms/pull-production/
 4.  Sarker, B. R., & Fitzsimmons, J. A. (1989). The performance of push and pull systems: a simulation and comparative study. *International Journal of Production Research*, 27(10), 1715-1731.
 5.  Bonney, M. C., Zhang, Z., Head, M. A., & Tien, C. C. (1999). Are push and pull systems really so different?. *International journal of production economics*, 59(1-3), 53-64.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/33-pull-systems/](https://commons-os.github.io/patterns/domain/33-pull-systems/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/33-pull-systems.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/33-pull-systems.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

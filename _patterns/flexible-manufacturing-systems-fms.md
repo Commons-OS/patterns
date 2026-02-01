@@ -219,15 +219,3 @@ FMS is a powerful enabler of resilient value creation, particularly in its capac
 [4] RoboDK. (2023, February 9). *10 Fantastic Examples of Flexible Manufacturing*. Retrieved from https://robodk.com/blog/10-examples-of-flexible-manufacturing/
 
 [5] IBM. (2024, September 3). *How is AI being used in Manufacturing*. Retrieved from https://www.ibm.com/think/topics/ai-in-manufacturing
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/flexible-manufacturing-systems-fms/](https://commons-os.github.io/patterns/context-specific/flexible-manufacturing-systems-fms/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/flexible-manufacturing-systems-fms.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/flexible-manufacturing-systems-fms.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

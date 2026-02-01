@@ -223,15 +223,3 @@ value could be broadened to include social and environmental value, in addition 
 [4] Mafimbi, M. A., & Mutingi, M. (2014). *Theory of constraints: A literature review*. Procedia-Social and Behavioral Sciences, 130, 119-128. [https://www.sciencedirect.com/science/article/pii/S1877042814051532](https://www.sciencedirect.com/science/article/pii/S1877042814051532)
 
 [5] Rahman, S. (1998). *Theory of constraints: a review of the philosophy and its applications*. International journal of operations & production management, 18(9/10), 944-954. [https://www.emerald.com/insight/content/doi/10.1108/01443579810199720/](https://www.emerald.com/insight/content/doi/10.1108/01443579810199720/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/theory-of-constraints-toc/](https://commons-os.github.io/patterns/domain/theory-of-constraints-toc/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/theory-of-constraints-toc.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/theory-of-constraints-toc.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

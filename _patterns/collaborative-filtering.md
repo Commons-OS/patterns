@@ -144,15 +144,3 @@ Collaborative filtering is a powerful engine for collective value creation, part
 [4] GeeksforGeeks. "Collaborative Filtering in Machine Learning." https://www.geeksforgeeks.org/machine-learning/collaborative-filtering-ml/
 
 [5] ScienceDirect. "Collaborative Filtering - an overview | ScienceDirect Topics." https://www.sciencedirect.com/topics/computer-science/collaborative-filtering
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/collaborative-filtering/](https://commons-os.github.io/patterns/domain/collaborative-filtering/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/collaborative-filtering.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/collaborative-filtering.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

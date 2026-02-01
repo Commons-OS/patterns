@@ -143,15 +143,3 @@ Mutual Aid Production Networks provide a complete and robust architecture for re
 *   [Commons Transition Primer: Case Study: Mutual Aid Networks](https://primer.commonstransition.org/4-more/5-elements/case-studies/case-study-mutual-aid-networks)
 *   [Wikipedia: Mutual aid](https://en.wikipedia.org/wiki/Mutual_aid)
 *   [How to create a mutual aid network - American Friends Service Committee](https://afsc.org/news/how-create-mutual-aid-network)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/mutual-aid-production-networks/](https://commons-os.github.io/patterns/domain/mutual-aid-production-networks/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/mutual-aid-production-networks.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/mutual-aid-production-networks.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

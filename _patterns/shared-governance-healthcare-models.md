@@ -195,15 +195,3 @@ Shared governance in healthcare is a significant step away from traditional hier
     3.  Thompson, B., Hateley, P., Molloy, R., Fernandez, S., Madigan, A. L., & Thrower, C. (2004). A Journey, Not an Event – Implementation of Shared Governance in a NHS Trust. *OJIN: The Online Journal of Issues in Nursing*, *9*(1). https://doi.org/10.3912/OJIN.Vol9No01Man03
     4.  Goff, R. (2005, February 15). A primer on the dangers of 'shared governance'. *Massachusetts Nurses Association*. https://www.massnurses.org/2005/02/15/a-primer-on-the-dangers-of-shared-governance/
     5.  Kutney-Lee, A., Germack, H., Hatfield, L., Kelly, S., Maguire, P., Dierkes, A., Del Guidice, M., & Aiken, L. H. (2016). Nurse Engagement in Shared Governance and Patient and Nurse Outcomes. *JONA: The Journal of Nursing Administration*, *46*(11), 605–612. https://doi.org/10.1097/NNA.0000000000000412
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/shared-governance-healthcare-models/](https://commons-os.github.io/patterns/context-specific/shared-governance-healthcare-models/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/shared-governance-healthcare-models.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/shared-governance-healthcare-models.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

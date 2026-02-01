@@ -143,15 +143,3 @@ Cradle-to-Cradle provides a complete, robust, and proven architecture for resili
 [4] uGreen. (2023, April 3). *Cradle to Cradle Design: A Sustainable Revolution on Building*. UGREEN.
 
 [5] Ellen MacArthur Foundation. (n.d.). *Desso*. Retrieved from https://www.ellenmacarthurfoundation.org/case-studies/desso
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/cradle-to-cradle-design/](https://commons-os.github.io/patterns/domain/cradle-to-cradle-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/cradle-to-cradle-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/cradle-to-cradle-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -191,15 +191,3 @@ Systems Thinking is a powerful enabler of resilient collective value creation. I
 [4] Ashby, E., Minicucci, C., Liao, J., Buonsenso, D., González-Dambrauskas, S., Obregón, R., ... & John, C. (2023). Systems Thinking for Public Health: A Case Study Using U.S. Public Education. *NAM Perspectives*, *2023*, 10.31478/202311a.
 
 [5] Donella Meadows Project. (n.d.). *Leverage Points: Places to Intervene in a System*. Retrieved from https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/universal/31-systems-thinking-meadows/](https://commons-os.github.io/patterns/universal/31-systems-thinking-meadows/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/31-systems-thinking-meadows.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_universal/31-systems-thinking-meadows.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

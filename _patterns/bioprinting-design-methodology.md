@@ -218,15 +218,3 @@ The Bioprinting Design Methodology is a powerful enabler of collective value cre
 3.  Datta, P., Barui, A., Wu, Y., Ozbolat, V., Moncal, K. K., & Ozbolat, I. T. (2018). Essential steps in bioprinting: From pre- to post-bioprinting. *Biotechnology advances*, *36*(5), 1481–1504. https://doi.org/10.1016/j.biotechadv.2018.06.003
 4.  Vijayavenkataraman, S., Lu, W. F., & Fuh, J. Y. H. (2023). 3D bioprinting: Challenges in commercialization and clinical translation. *3D Printing in Medicine*, *9*(1), 1-25. https://doi.org/10.2217/3dp-2022-0026
 5.  Zhang, Z., O’Neill, E., & Liu, Y. (2025). AI-driven 3D bioprinting for regenerative medicine. *Materials Today*. https://doi.org/10.1016/j.mattod.2024.05.005
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/bioprinting-design-methodology/](https://commons-os.github.io/patterns/implementation/bioprinting-design-methodology/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/bioprinting-design-methodology.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/bioprinting-design-methodology.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

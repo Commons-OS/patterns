@@ -125,15 +125,3 @@ Participatory Budgeting is a powerful and proven enabler of resilient collective
 [4] Stacy, C. P., et al. (2022). *Best Practices for Inclusive Participatory Budgeting*. Urban Institute. [https://www.urban.org/sites/default/files/2022-09/Best%20Practices%20for%20Inclusive%20Participatory%20Budgeting.pdf](https://www.urban.org/sites/default/files/2022-09/Best%20Practices%20for%20Inclusive%20Participatory%20Budgeting.pdf)
 
 [5] Maptionnaire. (2022). *5 Participatory Budgeting Examples and Their Outcomes*. [https://www.maptionnaire.com/blog/5-participatory-budgeting-examples](https://www.maptionnaire.com/blog/5-participatory-budgeting-examples)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/participatory-budgeting-if-not-in-financial/](https://commons-os.github.io/patterns/domain/participatory-budgeting-if-not-in-financial/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/participatory-budgeting-if-not-in-financial.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/participatory-budgeting-if-not-in-financial.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

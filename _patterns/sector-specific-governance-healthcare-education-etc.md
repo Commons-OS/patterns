@@ -264,15 +264,3 @@ Promoting fairness and equity is a core principle of sector-specific governance.
 
 **7. Free & Open-Source Technology (2/5):**
 The pattern does not have a strong inherent alignment with the use of free and open-source technology (FOSS). While the Cognitive Era considerations highlight the potential for digital platforms to enable networked governance, there is no explicit preference for FOSS. The choice of technology is typically left to the discretion of the implementers. However, the principles of openness and transparency would be strengthened by the adoption of FOSS, as it would allow for greater public scrutiny of the digital infrastructure of governance.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/sector-specific-governance-healthcare-education-etc/](https://commons-os.github.io/patterns/context-specific/sector-specific-governance-healthcare-education-etc/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/sector-specific-governance-healthcare-education-etc.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/sector-specific-governance-healthcare-education-etc.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

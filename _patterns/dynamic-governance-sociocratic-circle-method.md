@@ -213,15 +213,3 @@ This section provides a curated list of resources for those who wish to learn mo
     3.  Sociocracy.info. (2021, March 18). *Hertzler Systems Inc – a case study*. Retrieved from https://www.sociocracy.info/hertzler-systems-inc-a-case-study/
     4.  Sociocracy For All. (n.d.). *Blue Scorcher: A bakery worker cooperative in the US sociocracy case study*. Retrieved from https://www.sociocracyforall.org/sociocracy-case-study-blue-scorcher/
     5.  Beauvillard, P. (2012). Sociocracy will govern tomorrow's projects. Paper presented at PMI® Global Congress 2012—EMEA, Marsailles, France. Newtown Square, PA: Project Management Institute.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/11-dynamic-governance-sociocratic-circle-method/](https://commons-os.github.io/patterns/implementation/11-dynamic-governance-sociocratic-circle-method/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/11-dynamic-governance-sociocratic-circle-method.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/11-dynamic-governance-sociocratic-circle-method.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -205,15 +205,3 @@ The Commons Alignment Assessment evaluates how well the Touchpoint Design patter
 4.  [What are Touchpoints and how to use them in a Customer Journey Map?](https://www.servicedesignshow.com/what-are-touchpoints-and-how-to-use-them-in-a-customer-journey-map/)
 5.  [Customer Journey Touchpoints: How to Optimize in 5 Steps](https://www.sprinklr.com/blog/customer-journey-touchpoints/)
 6.  [Mapping Consumer Touchpoints That Influence Decisions | BCG](https://www.bcg.com/publications/2025/mapping-consumer-touchpoints-that-influence-decisions)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/touchpoint-design/](https://commons-os.github.io/patterns/domain/touchpoint-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/touchpoint-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/touchpoint-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

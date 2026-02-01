@@ -161,15 +161,3 @@ The TOWS Matrix, as a strategic planning tool, can be assessed for its alignment
 [4] Digital Leadership. (n.d.). *Tows Matrix Analysis Meaning, Template and Examples*. Retrieved from https://digitalleadership.com/unite-articles/tows-matrix/
 
 [5] Visual Paradigm. (n.d.). *The Core Difference: SWOT vs. TOWS*. Retrieved from https://ai.visual-paradigm.com/blog/the-core-difference-swot-vs-tows/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/tows-matrix-swot-extension/](https://commons-os.github.io/patterns/domain/tows-matrix-swot-extension/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/tows-matrix-swot-extension.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/tows-matrix-swot-extension.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

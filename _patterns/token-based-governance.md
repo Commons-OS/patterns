@@ -154,15 +154,3 @@ This section assesses the alignment of the Token-Based Governance pattern with t
 [5] "DAOs and Token-based Governance: A Case Study Analysis", Medium, [https://medium.com/@syedhasnaatabbas/daos-and-token-based-governance-a-case-study-analysis-76e439e90c0d](https://medium.com/@syedhasnaatabbas/daos-and-token-based-governance-a-case-study-analysis-76e439e90c0d)
 
 [6] "How to set up on-chain governance", OpenZeppelin, [https://docs.openzeppelin.com/contracts/4.x/governance](https://docs.openzeppelin.com/contracts/4.x/governance)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/token-based-governance/](https://commons-os.github.io/patterns/domain/token-based-governance/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/token-based-governance.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/token-based-governance.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

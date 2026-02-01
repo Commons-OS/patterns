@@ -185,15 +185,3 @@ Configuration Management is a powerful enabler of resilient value creation by pr
 *   [https://www.atlassian.com/microservices/microservices-architecture/configuration-management](https://www.atlassian.com/microservices/microservices-architecture/configuration-management)
 *   [https://www.ibm.com/think/topics/configuration-management](https://www.ibm.com/think/topics/configuration-management)
 *   [https://www.dsp.dla.mil/Portals/26/Documents/Publications/Journal/140101-DSPJ-02.pdf](https://www.dsp.dla.mil/Portals/26/Documents/Publications/Journal/140101-DSPJ-02.pdf)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/configuration-management/](https://commons-os.github.io/patterns/domain/configuration-management/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/configuration-management.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/configuration-management.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

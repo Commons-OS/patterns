@@ -237,15 +237,3 @@ Investment Frameworks provide a robust, systematic, and scalable architecture fo
 [4] Management Consulted. (2026, January 15). *Case Interview Frameworks: Ultimate Guide*. https://managementconsulted.com/case-interview-frameworks/
 
 [5] Markowitz, H. (1952). Portfolio Selection. *The Journal of Finance*, *7*(1), 77–91. https://doi.org/10.2307/2975974
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/investment-frameworks/](https://commons-os.github.io/patterns/domain/investment-frameworks/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/investment-frameworks.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/investment-frameworks.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

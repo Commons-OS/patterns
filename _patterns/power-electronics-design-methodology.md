@@ -241,15 +241,3 @@ PEDM scores as Transitional because it is a powerful enabler of ecological value
 [7] Innovative Power. (n.d.). *Power Electronics Engineering Consulting - Case Studies*. Retrieved from http://www.innovativepower.ca/case-studies.html
 
 [8] Ibrahim, K. A., Luk, P. C.-K., Luo, Z., & Harrison, L. (2025). Revolutionizing power electronics design through large language models: Applications and future directions. *Computers in Electrical Engineering*, *119*, 108191. https://doi.org/10.1016/j.compeleceng.2024.108191
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/power-electronics-design-methodology/](https://commons-os.github.io/patterns/implementation/power-electronics-design-methodology/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/power-electronics-design-methodology.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/power-electronics-design-methodology.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

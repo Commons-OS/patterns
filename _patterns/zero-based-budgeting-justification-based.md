@@ -130,15 +130,3 @@ Zero-Based Budgeting's alignment with the principles of a commons-based approach
 [4] McKinsey & Company. (2014). *Five myths (and realities) about zero-based budgeting*. [https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Strategy%20and%20Corporate%20Finance/Our%20Insights/Five%20myths%20and%20realities%20about%20zero%20based%20budgeting/Five_myths_and_realities_about_zero%20based_budgeting.pdf](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Strategy%20and%20Corporate%20Finance/Our%20Insights/Five%20myths%20and%20realities%20about%20zero%20based%20budgeting/Five_myths_and_realities_about_zero%20based_budgeting.pdf)
 
 [5] Deloitte. (n.d.). *Zero-based budgeting: Zero or hero?*. [https://www.deloitte.com/an/en/services/consulting/perspectives/gx-zero-based-budgeting.html](https://www.deloitte.com/an/en/services/consulting/perspectives/gx-zero-based-budgeting.html)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/zero-based-budgeting-justification-based/](https://commons-os.github.io/patterns/domain/zero-based-budgeting-justification-based/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/zero-based-budgeting-justification-based.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/zero-based-budgeting-justification-based.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

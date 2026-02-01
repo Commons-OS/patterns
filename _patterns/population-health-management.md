@@ -206,15 +206,3 @@ Population Health Management is a powerful enabler of collective value creation,
     3.  American Hospital Association. (n.d.). *Population Health Management*. Retrieved from https://www.aha.org/center/population-health-management
     4.  National Association of Community Health Centers. (2023). *Action Guide: Models of Care*. Retrieved from https://www.nachc.org/wp-content/uploads/2023/07/Action-Guide_Models-of-Care.pdf
     5.  Trogdon, J. G., Weir, L., & Thornton, A. (2011). Financial impact of population health management programs: reevaluating the literature. *Population health management*, *14*(6), 281-287. https://www.liebertpub.com/doi/abs/10.1089/pop.2010.0086
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/64-population-health-management/](https://commons-os.github.io/patterns/domain/64-population-health-management/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/64-population-health-management.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/64-population-health-management.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

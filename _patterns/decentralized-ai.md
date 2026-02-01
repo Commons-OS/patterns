@@ -186,11 +186,3 @@ Decentralized AI is a powerful enabler of collective value creation, providing a
 [3] [What is Decentralized AI Model](https://www.geeksforgeeks.org/blogs/what-is-decentralized-ai-model/)
 [4] [Overview ‹ Decentralized AI](https://www.media.mit.edu/projects/decentralized-ai/overview/)
 [5] [Decentralized AI: Pros and Cons](https://zerocap.com/insights/snippets/decentralized-ai-pros-cons/)
-
----
-## Navigation
-- **Page URL**: [https://commons-os.github.io/patterns/domain/decentralized-ai/](https://commons-os.github.io/patterns/domain/decentralized-ai/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/decentralized-ai.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/decentralized-ai.md)
----
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

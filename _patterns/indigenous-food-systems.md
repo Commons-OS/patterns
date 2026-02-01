@@ -123,15 +123,3 @@ Essential readings include "Braiding Sweetgrass" by Robin Wall Kimmerer, "The Si
 [3] Kuhnlein, H. V., & Chan, H. M. (2000). Environment and contaminants in traditional food systems of northern indigenous peoples. *Annual Review of Nutrition*, 20(1), 595-627.
 [4] Cultural Survival. (2024). *Indigenous Peoples’ Food Systems and Agroecology: Synergies and Convergences*. Retrieved from https://www.culturalsurvival.org/news/indigenous-peoples-food-systems-and-agroecology-synergies-and-convergences
 [5] University of California Agriculture and Natural Resources. (2025). *The Principles of Indigenous Food Sovereignty*. Retrieved from https://ucanr.edu/blog/food-blog/article/principles-indigenous-food-sovereignty/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/indigenous-food-systems/](https://commons-os.github.io/patterns/domain/indigenous-food-systems/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/indigenous-food-systems.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/indigenous-food-systems.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

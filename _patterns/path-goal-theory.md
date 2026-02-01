@@ -175,15 +175,3 @@ Path-Goal Theory provides a strong framework for adaptive leadership and motivat
 *   [5] Dare, P. S., & Saleem, A. (2022). Toward success while tackling the change in a pandemic age: Path-goal theory leadership as a win-win gadget. *Frontiers in Psychology, 13*, 944145.
 *   [6] TSW Training. (2024, October 31). *Robert House's Path-Goal Theory: Optimising Team Satisfaction, Motivation & Performance*. https://www.tsw.co.uk/blog/leadership-and-management/robert-houses-path-goal-theory/
 *   [7] Wikipedia. (2025, November 3). *Path–goal theory*. https://en.wikipedia.org/wiki/Path%E2%80%93goal_theory
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/path-goal-theory/](https://commons-os.github.io/patterns/domain/path-goal-theory/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/path-goal-theory.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/path-goal-theory.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

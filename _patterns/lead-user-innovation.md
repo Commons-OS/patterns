@@ -167,15 +167,3 @@ Lead User Innovation is a powerful enabler of collective value creation, shiftin
 [5] Morrison, P. D., Roberts, J. H., & von Hippel, E. (2000). Determinants of user innovation and innovation sharing in a local market. *Management science*, 46(12), 1513-1527.
 
 [6] Lilien, G. L., Morrison, P. D., Searls, K., Sonnack, M., & von Hippel, E. (2002). Performance assessment of the lead user idea generation process for new product development. *Management science*, 48(8), 1042-1059.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/lead-user-innovation/](https://commons-os.github.io/patterns/domain/lead-user-innovation/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/lead-user-innovation.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/lead-user-innovation.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

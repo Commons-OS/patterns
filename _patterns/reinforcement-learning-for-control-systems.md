@@ -130,15 +130,3 @@ Popular tools and platforms for developing RL control systems include **OpenAI G
 [4] Deng, J., Li, X., & Li, H. (2022). A case study in flatness control in steel industry. *Advanced Engineering Informatics*, *52*, 101545. https://doi.org/10.1016/j.aei.2022.101545
 
 [5] Ernst, D., Glavic, M., & Wehenkel, L. (2004). Power systems stability control: reinforcement learning framework. *IEEE Transactions on Power Systems*, *19*(1), 427-435. https://doi.org/10.1109/TPWRS.2003.821457
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/human-universal/reinforcement-learning-for-control-systems/](https://commons-os.github.io/patterns/human-universal/reinforcement-learning-for-control-systems/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/reinforcement-learning-for-control-systems.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_human-universal/reinforcement-learning-for-control-systems.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

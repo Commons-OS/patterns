@@ -169,15 +169,3 @@ This pattern provides a complete and coherent architecture for resilient collect
 3.  Gould, R. K., et al. (2023). Exploring Indigenous relationality to inform the relational turn in sustainability science. *Ecosystems and People*, *19*(1), 2229452.
 4.  Muller, S., Hemming, S., & Rigney, D. (2019). Indigenous sovereignties: Relational ontologies and environmental management. *Geographical Research*, *57*(4), 399-410.
 5.  Koggel, C. M. (2022). Feminist relational theory. *Philosophy Compass*, *17*(6), e12832.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/relational-ontology-indigenous-feminist/](https://commons-os.github.io/patterns/domain/relational-ontology-indigenous-feminist/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/relational-ontology-indigenous-feminist.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/relational-ontology-indigenous-feminist.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

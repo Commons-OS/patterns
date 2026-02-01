@@ -200,15 +200,3 @@ Discounted Cash Flow is a legacy pattern designed for a purely industrial, capit
 [4] [Investopedia. "Top 3 Pitfalls of Discounted Cash Flow Analysis."](https://www.investopedia.com/investing/pitfalls-of-discounted-cash-flow-analysis/)
 
 [5] [Investopedia. "Best Stock Valuation Methods: DDM, DCF, and Comparables Explained."](https://www.investopedia.com/articles/fundamental-analysis/11/choosing-valuation-methods.asp)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/discounted-cash-flow-dcf/](https://commons-os.github.io/patterns/domain/discounted-cash-flow-dcf/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/discounted-cash-flow-dcf.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/discounted-cash-flow-dcf.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

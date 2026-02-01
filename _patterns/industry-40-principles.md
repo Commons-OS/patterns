@@ -162,15 +162,3 @@ Industry 4.0 is a powerful "Transitional" pattern because it provides the essent
 [6] McKinsey. (2022, August 17). *What are industry 4.0, the fourth industrial revolution, and 4ir?* McKinsey. https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-are-industry-4-0-the-fourth-industrial-revolution-and-4ir
 
 [7] PwC. (2016). *Industry 4.0: Building the digital enterprise*. PwC. https://www.pwc.com/gx/en/industries/industries-4.0/building-digital-enterprise.html
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/industry-40-principles/](https://commons-os.github.io/patterns/context-specific/industry-40-principles/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/industry-40-principles.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/industry-40-principles.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

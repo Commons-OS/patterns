@@ -159,15 +159,3 @@ Edge Computing in Manufacturing is a powerful enabler of collective value creati
 [4] STL Partners. (n.d.). *5 Edge computing manufacturing use cases*. Retrieved from https://stlpartners.com/articles/edge-computing/edge-computing-manufacturing-use-cases/
 
 [5] Kubiak, K., Dec, G., & Stadnicka, D. (2022). Possible applications of edge computing in the manufacturing industry—systematic literature review. *Sensors*, *22*(7), 2445. Retrieved from https://www.mdpi.com/1424-8220/22/7/2445
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/edge-computing-in-manufacturing/](https://commons-os.github.io/patterns/context-specific/edge-computing-in-manufacturing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/edge-computing-in-manufacturing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/edge-computing-in-manufacturing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

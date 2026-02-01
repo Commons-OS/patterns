@@ -183,15 +183,3 @@ CAD/CAM Integration is a powerful engine for efficient and high-quality producti
 **[4] CAMWorks. (n.d.). *Efficient Machining Strategies from CAMWorks with VoluMill Help Tomak Precision Boost its Efficiency and its Bottom Line*. Retrieved from https://cdn.camworks.com/wp-content/uploads/CAMWorks-Tomak-Application-Story.pdf
 
 **[5] Siemens. (2025, May 13). *AI in CAD*. Retrieved from https://blogs.sw.siemens.com/thought-leadership/ai-in-cad/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/cadcam-integration/](https://commons-os.github.io/patterns/domain/cadcam-integration/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/cadcam-integration.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/cadcam-integration.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

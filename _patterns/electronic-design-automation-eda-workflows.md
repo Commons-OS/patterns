@@ -177,15 +177,3 @@ The EDA workflow is a powerful engine for technological value creation and a mas
 [4] Cadence. "AI in Chip Design." Accessed January 28, 2026. https://www.cadence.com/en_US/home/explore/ai-chip-design.html
 
 [5] Synopsys. "AI Chip Design – AI-powered EDA Solutions." Accessed January 28, 2026. https://www.synopsys.com/ai/ai-powered-eda.html
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/electronic-design-automation-eda-workflows/](https://commons-os.github.io/patterns/domain/electronic-design-automation-eda-workflows/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/electronic-design-automation-eda-workflows.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/electronic-design-automation-eda-workflows.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

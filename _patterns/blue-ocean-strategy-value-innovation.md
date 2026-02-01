@@ -130,15 +130,3 @@ For practical examples and case studies, the Blue Ocean Strategy website offers 
 3.  "Blue Ocean Strategy: Definition, Features, and Business Examples." Investopedia, www.investopedia.com/terms/b/blue_ocean.asp.
 4.  "7 Powerful Blue Ocean Strategy Examples That Left the Competition Behind." Blue Ocean Strategy, www.blueoceanstrategy.com/blog/7-powerful-blue-ocean-strategy-examples/.
 5.  "Blue Ocean Strategy: Examples & How to Apply It." ClearPoint Strategy, www.clearpointstrategy.com/blog/blue-ocean-strategy.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/blue-ocean-strategy-value-innovation/](https://commons-os.github.io/patterns/domain/blue-ocean-strategy-value-innovation/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/blue-ocean-strategy-value-innovation.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/blue-ocean-strategy-value-innovation.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

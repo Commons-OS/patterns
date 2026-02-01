@@ -216,15 +216,3 @@ The following resources provide further information on Reputation-Based Governan
 [3] https://firstmonday.org/ojs/index.php/fm/article/view/2010/1885
 [4] https://blog.colony.io/what-is-reputation-based-governance
 [5] https://medium.com/daostack/reputation-vs-tokens-6d7642c7a538
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/98-reputation-based-governance/](https://commons-os.github.io/patterns/domain/98-reputation-based-governance/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/98-reputation-based-governance.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/98-reputation-based-governance.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

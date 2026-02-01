@@ -107,35 +107,3 @@ The Passive House standard exhibits a strong alignment with the principles of th
 3.  [Passive House buildings in different climates - Passipedia](https://passipedia.org/basics/passive_houses_in_different_climates)
 4.  [How Do you Get a Passive House Certification? - Passive House Accelerator](https://passivehouseaccelerator.com/articles/how-do-you-get-a-passive-house-certification-1)
 5.  [Smart Homes & Passive House: Integrating Technology for High-Performance Living - Offsite Dirt](https://www.offsitedirtnetwork.com/post/smart-homes-passive-house-integrating-technology-for-high-performance-living)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/passive-house/](https://commons-os.github.io/patterns/domain/passive-house/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/passive-house.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/passive-house.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
-Rights and Responsibilities are tied to the asset itself, not to a broader ecosystem of value creation. The framework does not inherently challenge conventional ownership models or introduce concepts like stewardship or collective ownership, although it can be combined with such models.
-
-**5. Design for Autonomy:**
-The pattern is highly compatible with autonomous systems. Its performance-based nature and reliance on measurable metrics (airtightness, energy use) make it ideal for management by building automation systems, AI, and sensors. The low energy requirements and high resilience also make Passive House buildings suitable as nodes in distributed energy grids or as autonomous, off-grid habitats, requiring minimal external coordination to function effectively.
-
-**6. Composability & Interoperability:**
-Passive House is a highly composable pattern that serves as a foundational layer for other systems. It can be readily combined with renewable energy generation (solar, geothermal), smart grid technologies, and water conservation systems to create larger, more complex value-creation architectures. Its principles are modular and can be integrated into various building types and architectural styles, demonstrating strong interoperability with other design and construction patterns.
-
-**7. Fractal Value Creation:**
-The core logic of creating a high-performance thermal envelope can be applied at multiple scales, from a single room or apartment (the "Passive Room" concept) to entire buildings and districts (Passive House neighborhoods). The principles of minimizing energy exchange with the environment are fractal, allowing the value-creation logic to scale. However, applying it at larger scales requires significant coordination and planning, as the interdependencies between units become more complex.
-
-**Overall Score: 4 (Value Creation Enabler)**
-
-**Rationale:**
-Passive House is a powerful enabler of ecological, economic, and social value by creating highly resilient, low-impact, and healthy buildings. It strongly aligns with the goal of creating resilient value but falls short of being a complete value creation architecture because its focus remains on the individual building unit. Its stakeholder and ownership architectures are not explicitly designed for collective value creation beyond the immediate owner and environment.
-
-**Opportunities for Improvement:**
-- Develop a framework for integrating Passive House standards into community-owned or cooperative housing models to expand the ownership architecture.
-- Create open data platforms where performance data from Passive House buildings is shared to accelerate collective learning and innovation in the field.
-- Explicitly define the Rights and Responsibilities of automated systems and AI in managing building performance to better align with autonomous futures.

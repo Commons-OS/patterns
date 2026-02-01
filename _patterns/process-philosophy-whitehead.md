@@ -239,15 +239,3 @@ While there are no specific software tools designed exclusively for applying pro
 [4] Mesle, C. R. (2008). *Process-Relational Philosophy: An Introduction to Alfred North Whitehead*. Templeton Foundation Press.
 
 [5] Griffin, D. R. (1998). *Unsnarling the World-Knot: Consciousness, Freedom, and the Mind-Body Problem*. University of California Press.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/37-process-philosophy-whitehead/](https://commons-os.github.io/patterns/implementation/37-process-philosophy-whitehead/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/37-process-philosophy-whitehead.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/37-process-philosophy-whitehead.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

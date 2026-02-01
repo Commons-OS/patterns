@@ -261,15 +261,3 @@ Hoshin Kanri is a powerful methodology for creating alignment and driving strate
 [5] Pavlíčková, M., Mojžišová, A., & Pócsová, J. (2022). Hoshin Kanri Process: A Review and Bibliometric Analysis on the Connection of Theory and Practice. *Processes*, *10*(9), 1854. https://doi.org/10.3390/pr10091854
 
 [6] Witcher, B. J., & Butterworth, R. (1999). Hoshin kanri: how Xerox manages. *Long range planning*, *32*(3), 322-332.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/hoshin-kanri-policy-deployment/](https://commons-os.github.io/patterns/domain/hoshin-kanri-policy-deployment/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/hoshin-kanri-policy-deployment.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/hoshin-kanri-policy-deployment.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

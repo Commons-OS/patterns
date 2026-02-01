@@ -121,15 +121,3 @@ Open Source Ecology is a powerful and practical implementation of a collective v
 *   [3] Jakubowski, M. (2011, April). *Open-sourced blueprints for civilization* [Video]. TED Conferences. [https://www.ted.com/talks/marcin_jakubowski_open_sourced_blueprints_for_civilization](https://www.ted.com/talks/marcin_jakubowski_open_sourced_blueprints_for_civilization)
 *   [4] Open Source Ecology. (n.d.). *About Factor e Farm*. [https://www.opensourceecology.org/about-factor-e-farm/](https://www.opensourceecology.org/about-factor-e-farm/)
 *   [5] Open Source Ecology. (n.d.). *Global Village Construction Set*. [https://www.opensourceecology.org/gvcs/](https://www.opensourceecology.org/gvcs/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/open-source-ecology-ose/](https://commons-os.github.io/patterns/domain/open-source-ecology-ose/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/open-source-ecology-ose.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/open-source-ecology-ose.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -252,15 +252,3 @@ AUP is tool-independent, but some commonly used tools include:
 [4] Ambler, S. W. (2002). *Agile Modeling: Effective Practices for Extreme Programming and the Unified Process*. John Wiley & Sons.
 
 [5] Kruchten, P. (2003). *The Rational Unified Process: An Introduction*. Addison-Wesley Professional.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/agile-unified-process-aup/](https://commons-os.github.io/patterns/domain/agile-unified-process-aup/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/agile-unified-process-aup.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/agile-unified-process-aup.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

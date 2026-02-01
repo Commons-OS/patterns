@@ -275,15 +275,3 @@ A well-managed roadmapping process can help to build a strong sense of community
 7.  [How AI is transforming strategy development](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-ai-is-transforming-strategy-development)
 8.  [Improving Strategic Execution With Machine Learning](https://sloanreview.mit.edu/article/improving-strategic-execution-with-machine-learning/)
 9.  [Using AI for Product Roadmap Prioritization](https://www.productboard.com/blog/using-ai-for-product-roadmap-prioritization/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/roadmapping/](https://commons-os.github.io/patterns/domain/roadmapping/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/roadmapping.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/roadmapping.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

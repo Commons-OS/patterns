@@ -200,15 +200,3 @@ Pair Programming is a powerful enabler of collective value creation, particularl
 *   [5] McDavid, S. (n.d.). *The Pros and Cons of Pair Programming*. Very Technology. Retrieved from https://www.verytechnology.com/insights/the-pros-and-cons-of-pair-programming
 *   [6] Paula. (n.d.). *Pair Programming: Pros and Cons of Collaborative Coding*. Premier Agile. Retrieved from https://premieragile.com/pair-programming-pros-cons/
 *   [7] Master Spring Ter. (2025). *Pair Programming in the Age of AI: A New Era of Collaboration*. Medium. Retrieved from https://master-spring-ter.medium.com/pair-programming-in-the-age-of-ai-a-new-era-of-collaboration-165c9dd13e75?sk=94ef8edbd527207be128dd5c3e2b95e5
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/pair-programming/](https://commons-os.github.io/patterns/domain/pair-programming/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/pair-programming.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/pair-programming.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

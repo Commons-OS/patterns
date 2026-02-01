@@ -202,15 +202,3 @@ For those interested in learning more about Test-Driven Development, there are m
 **Case Studies and Research:**
 
 *   **Realizing Quality Improvement Through Test-Driven Development: Results and Experiences of Four Industrial Teams** by Nachiappan Nagappan, E. Michael Maximilien, Thirumalesh Bhat, and Laurie Williams: This research paper from Microsoft provides a detailed analysis of the impact of TDD on four real-world projects. It is a valuable resource for anyone who is looking for evidence of the benefits of TDD.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/96-test-driven-development-tdd/](https://commons-os.github.io/patterns/domain/96-test-driven-development-tdd/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/96-test-driven-development-tdd.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/96-test-driven-development-tdd.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

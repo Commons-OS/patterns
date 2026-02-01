@@ -285,15 +285,3 @@ This section provides a curated list of resources for those who want to learn mo
 [4] Gartner. (2023). *Gartner Predicts 80% of Software Engineering Organizations Will Establish Platform Teams by 2026*. Gartner.
 
 [5] DevOps Research and Assessment (DORA). (2021). *State of DevOps Report*. Google Cloud.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/platform-engineering-internal-developer-platforms/](https://commons-os.github.io/patterns/domain/platform-engineering-internal-developer-platforms/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/platform-engineering-internal-developer-platforms.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/platform-engineering-internal-developer-platforms.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

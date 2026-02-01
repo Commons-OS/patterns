@@ -157,15 +157,3 @@ Charismatic Leadership is a powerful tool for inspiration and mobilization, but 
 *   [5 Qualities That Define Charismatic Leadership (With Video) | Indeed.com](https://www.indeed.com/career-advice/career-development/charismatic-leadership)
 
 *   [7 Techniques for Charismatic Leadership | Technical Leaders](https://www.technical-leaders.com/post/7-techniques-for-charismatic-leadership)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/charismatic-leadership/](https://commons-os.github.io/patterns/domain/charismatic-leadership/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/charismatic-leadership.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/charismatic-leadership.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

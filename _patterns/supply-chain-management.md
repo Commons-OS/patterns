@@ -217,15 +217,3 @@ This section provides an assessment of the Supply Chain Management pattern again
 *   Investopedia. (2023). *Supply Chain Management (SCM): How It Works, and Why It's Important*. Retrieved from https://www.investopedia.com/terms/s/scm.asp
 *   SAP. (n.d.). *What is supply chain management (SCM)?*. Retrieved from https://www.sap.com/products/scm/what-is-supply-chain-management.html
 *   Council of Supply Chain Management Professionals. (n.d.). *CSCMP's Definitions and Glossary of Terms*. Retrieved from https://cscmp.org/CSCMP/Educate/SCM_Definitions_and_Glossary_of_Terms.aspx
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/supply-chain-management/](https://commons-os.github.io/patterns/domain/supply-chain-management/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/supply-chain-management.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/supply-chain-management.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

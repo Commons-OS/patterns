@@ -176,15 +176,3 @@ The following resources provide further information about the B Impact Assessmen
 [4] B Lab Europe. (n.d.). *Zentek: A Case Study of Successful B Corp Certification Through Internal Engagement*. Retrieved from https://bcorporation.eu/case_study/zentek-b-corp-certification/
 
 [5] B Lab U.S. & Canada. (2023, November 2). *Case Studies Share How Businesses Can Root Climate Action in Justice*. Retrieved from https://usca.bcorporation.net/zbtcz11z23zcase-studies-share-how-businesses-can-root-climate-action-in-justice/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/93-b-impact-assessment/](https://commons-os.github.io/patterns/domain/93-b-impact-assessment/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/93-b-impact-assessment.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/93-b-impact-assessment.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

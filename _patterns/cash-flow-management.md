@@ -126,15 +126,3 @@ For those looking to deepen their understanding of Cash Flow Management, a wealt
 [3] JPMorgan. "Cash Flow Management & Reporting Guide for Businesses." [https://www.jpmorgan.com/insights/treasury/forecasting-planning/cash-flow-management-and-reporting-guide-for-businesses](https://www.jpmorgan.com/insights/treasury/forecasting-planning/cash-flow-management-and-reporting-guide-for-businesses)
 [4] Laghari, F. (2023). "Cash flow management and its effect on firm performance." [https://pmc.ncbi.nlm.nih.gov/articles/PMC10281586/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10281586/)
 [5] Myeni, S. S. (2018). "Cash-Flow Management Strategies in Small and Medium ..." [https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=6386&context=dissertations](https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=6386&context=dissertations)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/cash-flow-management/](https://commons-os.github.io/patterns/domain/cash-flow-management/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/cash-flow-management.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/cash-flow-management.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

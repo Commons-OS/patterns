@@ -179,15 +179,3 @@ The Initial Comprehensive Taxonomy is a strong enabler of resilient collective v
 3.  [Taxonomy Project Case Studies](https://taxonomystrategies.com/about-us/case-studies/)
 4.  [The Business Value of Taxonomy](https://www.earley.com/hubfs/EIS_Assets/EIS-Whitepaper-The-Business-Value-Of-Taxonomy-2021.pdf)
 5.  [Build a Business Taxonomy in Four Steps](https://www.ibm.com/think/insights/build-a-business-taxonomy-in-four-steps)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/initial-comprehensive-taxonomy/](https://commons-os.github.io/patterns/domain/initial-comprehensive-taxonomy/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/initial-comprehensive-taxonomy.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/initial-comprehensive-taxonomy.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

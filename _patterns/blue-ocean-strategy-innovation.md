@@ -202,15 +202,3 @@ The Blue Ocean Strategy website features a wide range of case studies from vario
 *   Salesforce.com
 
 These case studies provide valuable insights into how companies have successfully applied Blue Ocean Strategy to create new market space and achieve high performance.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/blue-ocean-strategy-innovation/](https://commons-os.github.io/patterns/domain/blue-ocean-strategy-innovation/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/blue-ocean-strategy-innovation.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/blue-ocean-strategy-innovation.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

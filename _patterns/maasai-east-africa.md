@@ -155,15 +155,3 @@ The Maasai pattern provides a powerful, time-tested model for resilient value cr
 [7] "Reconstruction of spatial organization in abandoned Maasai settlements: implications for site structure in the Pastoral Neolithic of East Africa." Journal of Archaeological Science. https://www.sciencedirect.com/science/article/pii/S030544030400041X
 
 [8] "Comparison Of Oromo's Gada System With Maasai's Age-Set System." Oromo Studies Association. https://oromostudies.org/wp-content/uploads/simple-file-list/OSA-Conference-Proceedings-of-2007.pdf#page=77
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/maasai-east-africa/](https://commons-os.github.io/patterns/domain/maasai-east-africa/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/maasai-east-africa.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/maasai-east-africa.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

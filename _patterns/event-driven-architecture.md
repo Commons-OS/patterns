@@ -233,15 +233,3 @@ Event-Driven Architecture is a strong enabler of collective value creation. Its 
 [4] Streamkap. (2025, December 27). *10 Real-World Event Driven Architecture Examples Transforming Industries*. Streamkap. Retrieved from https://streamkap.com/resources-and-guides/event-driven-architecture-examples
 
 [5] Ably. (2023, August 23). *4 event-driven architecture use cases (with examples)*. Ably. Retrieved from https://ably.com/topic/event-driven-architecture-use-cases
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/30-event-driven-architecture/](https://commons-os.github.io/patterns/domain/30-event-driven-architecture/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/30-event-driven-architecture.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/30-event-driven-architecture.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

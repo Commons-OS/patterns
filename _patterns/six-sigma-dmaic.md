@@ -227,15 +227,3 @@ DMAIC is a powerful methodology for process improvement, but it has a number of 
 [4] iSixSigma. (2025, February 24). *How AI Can Be Used in the DMAIC Process*. Retrieved from https://www.isixsigma.com/artificial-intelligence/how-ai-can-be-used-in-the-dmaic-process/
 
 [5] Reliable Plant. (n.d.). *DMAIC: A Complete Guide*. Retrieved from https://www.reliableplant.com/dmaic-31720
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/six-sigma-dmaic/](https://commons-os.github.io/patterns/domain/six-sigma-dmaic/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/six-sigma-dmaic.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/six-sigma-dmaic.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

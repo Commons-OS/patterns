@@ -152,15 +152,3 @@ The Commons Alignment Assessment evaluates how well the Social DAO pattern align
 [4] Wikipedia. (2024, October 26). *Decentralized autonomous organization*. In Wikipedia. Retrieved January 28, 2026, from https://en.wikipedia.org/wiki/Decentralized_autonomous_organization
 
 [5] Buterin, V. (2014, September 6). *DAOs, DACs, DAs and More: An Incomplete Terminology Guide*. Ethereum Blog. Retrieved from https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/social-daos/](https://commons-os.github.io/patterns/domain/social-daos/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/social-daos.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/social-daos.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

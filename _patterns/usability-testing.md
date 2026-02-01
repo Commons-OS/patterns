@@ -182,15 +182,3 @@ This section assesses the alignment of the Usability Testing pattern with the pr
 [10] Nielsen Norman Group. (2023, December 8). *Researching the Usability of Early Generative-AI Tools*. [https://www.nngroup.com/articles/early-ai-tools-methodology/](https://www.nngroup.com/articles/early-ai-tools-methodology/)
 
 [11] Ramotion. (2025, December 16). *AI Usability Testing: Importance, Components & Tools*. [https://www.ramotion.com/blog/ai-usability-testing/](https://www.ramotion.com/blog/ai-usability-testing/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/usability-testing/](https://commons-os.github.io/patterns/domain/usability-testing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/usability-testing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/usability-testing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

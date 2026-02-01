@@ -210,15 +210,3 @@ Life Cycle Costing is a powerful tool for promoting long-term thinking and finan
 [3] Whole Building Design Guide. (n.d.). *Life-Cycle Cost Analysis (LCCA)*. Retrieved from https://www.wbdg.org/resources/life-cycle-cost-analysis-lcca
 
 [4] National Institute of Standards and Technology. (2002). *Techniques for Treating Uncertainty and Risk in the Economic Evaluation of Building Investments*. Retrieved from https://www.wbdg.org/FFC/NIST/b92002.pdf
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/life-cycle-costing-total-cost-ownership/](https://commons-os.github.io/patterns/domain/life-cycle-costing-total-cost-ownership/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/life-cycle-costing-total-cost-ownership.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/life-cycle-costing-total-cost-ownership.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

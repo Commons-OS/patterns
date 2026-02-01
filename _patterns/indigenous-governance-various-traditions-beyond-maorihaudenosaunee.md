@@ -199,15 +199,3 @@ This pattern represents a complete and sophisticated architecture for resilient 
 [4] Harvard Project on Indigenous Governance and Development. "Honoring Nations." Accessed January 28, 2026. https://indigenousgov.hks.harvard.edu/honoring-nations.
 
 [5] Jorgensen, M. (Ed.). (2007). *Rebuilding Native Nations: Strategies for Governance and Development*. University of Arizona Press.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/indigenous-governance-various-traditions-beyond-maorihaudenosaunee/](https://commons-os.github.io/patterns/domain/indigenous-governance-various-traditions-beyond-maorihaudenosaunee/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/indigenous-governance-various-traditions-beyond-maorihaudenosaunee.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/indigenous-governance-various-traditions-beyond-maorihaudenosaunee.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

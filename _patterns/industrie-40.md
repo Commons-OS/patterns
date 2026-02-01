@@ -173,15 +173,3 @@ Industrie 4.0 is a powerful engine for automated and efficient production, with 
 3.  [Industry 4.0: The Future of Manufacturing - SAP](https://www.sap.com/canada/products/scm/industry-4-0/what-is-industry-4-0.html)
 4.  [Plattform Industrie 4.0](https://www.plattform-i40.de/IP/Navigation/EN/Home/home.html)
 5.  [Industrie 4.0 - Bundesministerium für Wirtschaft und Klimaschutz](https://www.bmwk.de/Redaktion/EN/Dossier/industrie-40.html)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/industrie-40/](https://commons-os.github.io/patterns/domain/industrie-40/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/industrie-40.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/industrie-40.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

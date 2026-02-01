@@ -200,15 +200,3 @@ AI for Materials Discovery is a powerful Value Creation Enabler. It provides a r
 [4] "Millions of new materials discovered with deep learning." *Google DeepMind*. [https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/](https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/)
 
 [5] "AI materials discovery now needs to move into the real world." *MIT Technology Review*. [https://www.technologyreview.com/2025/12/15/1129210/ai-materials-science-discovery-startups-investment/](https://www.technologyreview.com/2025/12/15/1129210/ai-materials-science-discovery-startups-investment/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/ai-for-materials-discovery/](https://commons-os.github.io/patterns/domain/ai-for-materials-discovery/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/ai-for-materials-discovery.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/ai-for-materials-discovery.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

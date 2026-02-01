@@ -151,15 +151,3 @@ Incremental Development is a powerful enabler of collective value creation, part
 [4] Larman, C., & Basili, V. R. (2003). Iterative and Incremental Development: A Brief History. *Computer*, *36*(6), 47–56. https://doi.org/10.1109/MC.2003.1204375
 
 [5] Priofy. (n.d.). *Incremental Development in Project Management*. Priofy. https://www.priofy.io/ressources/glossary/incremental-development
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/incremental-development/](https://commons-os.github.io/patterns/domain/incremental-development/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/incremental-development.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/incremental-development.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -167,15 +167,3 @@ Community Supported Manufacturing is a powerful enabler of collective value crea
 *   [Community Supported Agriculture (CSA) on Wikipedia](https://en.wikipedia.org/wiki/Community-supported_agriculture)
 *   [The Center for New Economics on Community Supported Industry](https://centerforneweconomics.org/apply/community-supported-industry/)
 *   [National Agricultural Law Center on CSA](https://nationalaglawcenter.org/community-supported-agriculture-introduction/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/community-supported-manufacturing/](https://commons-os.github.io/patterns/context-specific/community-supported-manufacturing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/community-supported-manufacturing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/community-supported-manufacturing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

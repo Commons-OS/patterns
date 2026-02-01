@@ -218,15 +218,3 @@ The pattern provides a robust framework for collective value creation, emphasizi
 [8] Urban Institute. (2021). *Mutual Aid in the COVID-19 Pandemic*. Retrieved from https://www.urban.org/research/publication/mutual-aid-covid-19-pandemic
 
 [9] Nguyen, T., Kaviani, D., & Salehi, N. (2025). *"It Doesn't Actually Feel Very Mutual:" How Technology Impacts the Values of Mutual Aid Groups in Practice*. CHI Conference on Human Factors in Computing Systems (CHI ’25).
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/mutual-aid-networks-solidarity-based/](https://commons-os.github.io/patterns/domain/mutual-aid-networks-solidarity-based/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/mutual-aid-networks-solidarity-based.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/mutual-aid-networks-solidarity-based.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

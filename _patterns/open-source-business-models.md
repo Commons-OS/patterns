@@ -145,15 +145,3 @@ Open Source Business Models are a powerful enabler of resilient, collective valu
 *   [3] Krishnamurthy, S. (2014). *An analysis of open source business models*. Academia.edu. https://www.academia.edu/download/86996108/323fed09192642b87fa4c0a11d516ea57b93.pdf
 *   [4] Duparc, E., Möller, F., Jussen, I., Stachon, M., & Algac, S. (2022). *Archetypes of open-source business models*. Electronic Markets, 32(3), 1365–1385. https://doi.org/10.1007/s12525-022-00557-9
 *   [5] Shahrivar, S., & Si-sheng, Y. (2018). *A business model for commercial open source software: A systematic literature review*. Information and Software Technology, 103, 204-220. https://doi.org/10.1016/j.infsof.2018.06.010
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/58-open-source-business-models/](https://commons-os.github.io/patterns/domain/58-open-source-business-models/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/58-open-source-business-models.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/58-open-source-business-models.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

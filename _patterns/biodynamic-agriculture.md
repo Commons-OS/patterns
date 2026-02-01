@@ -230,15 +230,3 @@ Biodynamic agriculture is a strong enabler of collective value creation, with a 
 [4] Biodynamic Association UK. (2020). _A four Farm Case Study - research into impact and viability of four biodynamic farms of different sizes and ways of working_. https://www.biodynamic.org.uk/4-farm-case-study/
 
 [5] Phillips, J. C. (2006). _An Overview of Biodynamic Agriculture with Case Examples_. AgEcon Search. https://ageconsearch.umn.edu/record/21036/files/sp06ph02.pdf
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/42-biodynamic-agriculture/](https://commons-os.github.io/patterns/domain/42-biodynamic-agriculture/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/42-biodynamic-agriculture.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/42-biodynamic-agriculture.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -230,15 +230,3 @@ Randolph, J. J., & Johnson, J. A. (2023). Montessori education’s impact on aca
 
 Seldin, T. (2006). *How to raise an amazing child the Montessori way*. Dorling Kindersley.
 '''
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/69-montessori-method/](https://commons-os.github.io/patterns/implementation/69-montessori-method/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/69-montessori-method.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/69-montessori-method.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

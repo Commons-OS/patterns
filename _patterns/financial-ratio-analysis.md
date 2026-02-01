@@ -181,15 +181,3 @@ Financial Ratio Analysis is a potent analytical tool that can be adapted for com
 
 *   Investopedia. (2023). *Financial Ratio Analysis: Definition, Types, Examples, and How to Use*. [https://www.investopedia.com/terms/r/ratioanalysis.asp](https://www.investopedia.com/terms/r/ratioanalysis.asp)
 *   Corporate Finance Institute. (2023). *Financial Ratios*. [https://corporatefinanceinstitute.com/resources/accounting/financial-ratios/](https://corporatefinanceinstitute.com/resources/accounting/financial-ratios/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/financial-ratio-analysis/](https://commons-os.github.io/patterns/domain/financial-ratio-analysis/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/financial-ratio-analysis.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/financial-ratio-analysis.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

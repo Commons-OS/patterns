@@ -148,15 +148,3 @@ This section provides a curated list of resources for further learning and engag
 [4] National Center for Biotechnology Information. (n.d.). *The Health Belief Model of Behavior Change*. Retrieved from https://www.ncbi.nlm.nih.gov/books/NBK606120/
 
 [5] Sorensen, G., Emmons, K., Hunt, M. K., & Johnston, D. (1998). Implications of the results of the Working Well Trial. *American Journal of Public Health*, 88(11), 1591-1596.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/public-health-models/](https://commons-os.github.io/patterns/domain/public-health-models/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/public-health-models.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/public-health-models.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -239,15 +239,3 @@ The BCG Matrix is a legacy pattern from an industrial, shareholder-centric parad
 [4] Boston Consulting Group. (n.d.). *What Is the Growth Share Matrix?* https://www.bcg.com/about/overview/our-history/growth-share-matrix
 
 [5] Reeves, M., Moose, S., & Venema, T. (2014, June 4). *BCG Classics Revisited: The Growth Share Matrix*. Boston Consulting Group. https://www.bcg.com/publications/2014/growth-share-matrix-bcg-classics-revisited
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/44-bcg-matrix-boston-consulting-group/](https://commons-os.github.io/patterns/domain/44-bcg-matrix-boston-consulting-group/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/44-bcg-matrix-boston-consulting-group.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/44-bcg-matrix-boston-consulting-group.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

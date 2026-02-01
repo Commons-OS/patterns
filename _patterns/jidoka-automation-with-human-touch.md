@@ -189,15 +189,3 @@ Jidoka is a powerful Value Creation Enabler that provides a robust architecture 
 [4] Gonçalves, T. I., Sousa, P. S. A., & S. A., P. (2019). Does lean practices implementation impact on company performance? A meta-analytical research. *Management and Production Engineering Review*, *10*(3), 114-128.
 
 [5] Lean Enterprise Institute. (n.d.). *Jidoka*. Retrieved from https://www.lean.org/lexicon-terms/jidoka/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/28-jidoka-automation-with-human-touch/](https://commons-os.github.io/patterns/domain/28-jidoka-automation-with-human-touch/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/28-jidoka-automation-with-human-touch.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/28-jidoka-automation-with-human-touch.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

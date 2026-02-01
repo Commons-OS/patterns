@@ -179,15 +179,3 @@ The Moloch framework is a powerful enabler of collective value creation, providi
 [6] DAOhaus, "Moloch v3 is here," *DAOhaus*. [Online]. Available: https://daohaus.club/moloch
 
 [7] MetaCartel, "Lore," *MetaCartel.org*. [Online]. Available: https://www.metacartel.org/lore
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/moloch-daos/](https://commons-os.github.io/patterns/domain/moloch-daos/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/moloch-daos.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/moloch-daos.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

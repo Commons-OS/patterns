@@ -156,15 +156,3 @@ Land Trusts are a powerful and proven framework for collective value creation, p
 [6] Dudley Street Neighborhood Initiative: https://www.dsni.org/
 [7] PropRightsTech Primers: Blockchain and Property Rights: https://www.newamerica.org/future-land-housing/reports/proprightstech-primers/blockchain-and-property-rights/
 [8] Using Blockchain and Digital Land Registries to Enhance Land Rights: https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2070&context=cib-conferences
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/human-universal/land-trusts-documented/](https://commons-os.github.io/patterns/human-universal/land-trusts-documented/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/land-trusts-documented.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_human-universal/land-trusts-documented.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

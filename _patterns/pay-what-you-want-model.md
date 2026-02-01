@@ -162,15 +162,3 @@ The Pay-What-You-Want model is a powerful enabler of collective value creation, 
 [4] Gneezy, A., Gneezy, U., Nelson, L. D., & Brown, A. (2012). Shared social responsibility: A field experiment in pay-what-you-want pricing and charitable giving. *Science*, *337*(6095), 725-728.
 
 [5] Kim, J. Y., Natter, M., & Spann, M. (2009). Pay what you want: A new participative pricing mechanism. *Journal of Marketing*, *73*(1), 44-58.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/pay-what-you-want-model/](https://commons-os.github.io/patterns/domain/pay-what-you-want-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/pay-what-you-want-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/pay-what-you-want-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

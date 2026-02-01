@@ -214,15 +214,3 @@ Kaizen is a powerful engine for enabling collective value creation by providing 
     *   [3] Adobe Business. (2023, January 31). *Kaizen — what it is, how events work, and why it's...* Retrieved from https://business.adobe.com/blog/basics/what-is-kaizen
     *   [4] KaiNexus. (n.d.). *What is Kaizen? Continuous Improvement*. Retrieved from https://www.kainexus.com/improvement-disciplines/kaizen
     *   [5] Lean Enterprise Institute. (n.d.). *Kaizen — A Resource Guide*. Retrieved from https://www.lean.org/lexicon-terms/kaizen/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/human-universal/kaizen-continuous-improvement/](https://commons-os.github.io/patterns/human-universal/kaizen-continuous-improvement/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/kaizen-continuous-improvement.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_human-universal/kaizen-continuous-improvement.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

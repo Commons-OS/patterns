@@ -150,15 +150,3 @@ For those interested in further exploring and implementing blended learning, a w
 [4] Digital Learning Now!, Getting Smart, & The Learning Accelerator. (2013). *Blended Learning Implementation Guide 2.0*. [http://digitallearningnow.com/site/uploads/2013/10/BLIG-2.0-Final-Paper.pdf](http://digitallearningnow.com/site/uploads/2013/10/BLIG-2.0-Final-Paper.pdf)
 
 [5] Blended Learning Universe. (n.d.). *Blended Learning Models*. Retrieved from [https://www.blendedlearning.org/models/](https://www.blendedlearning.org/models/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/human-universal/blended-learning/](https://commons-os.github.io/patterns/human-universal/blended-learning/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/blended-learning.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_human-universal/blended-learning.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

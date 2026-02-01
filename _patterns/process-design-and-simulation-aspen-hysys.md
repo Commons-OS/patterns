@@ -161,15 +161,3 @@ The pattern is a powerful enabler of optimization and resilience, making it a ke
 [4] W. L. Luyben, *Process Modeling, Simulation, and Control for Chemical Engineers*. McGraw-Hill, 1990.
 
 [5] AspenTech. "Control Column Performance Using Aspen HYSYS." Accessed January 28, 2026. https://www.aspentech.com/en/resources/case-studies/control-column-performance-using-aspen-hysys.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/process-design-and-simulation-aspen-hysys/](https://commons-os.github.io/patterns/implementation/process-design-and-simulation-aspen-hysys/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/process-design-and-simulation-aspen-hysys.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/process-design-and-simulation-aspen-hysys.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

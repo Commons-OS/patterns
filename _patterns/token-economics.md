@@ -195,15 +195,3 @@ The Commons Alignment Assessment evaluates how well the pattern of Token Economi
 [32] [The Future of Personalized Incentives - Forbes](https://www.forbes.com/sites/forbestechcouncil/2022/03/23/the-future-of-personalized-incentives/)
 
 [33] [The Dawn of the Cognitive Economy - Wired](https://www.wired.com/insights/2014/11/the-dawn-of-the-cognitive-economy/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/token-economics/](https://commons-os.github.io/patterns/domain/token-economics/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/token-economics.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/token-economics.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

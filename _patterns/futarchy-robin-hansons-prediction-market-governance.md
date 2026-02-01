@@ -155,15 +155,3 @@ Futarchy is a powerful transitional pattern that introduces market-based mechani
 [4] [Futarchy: Vote Values, But Bet Beliefs](https://mason.gmu.edu/~rhanson/futarchy.html)
 
 [5] [Shall We Vote on Values, But Bet on Beliefs?](https://mason.gmu.edu/~rhanson/futarchy2013.pdf)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/futarchy-robin-hansons-prediction-market-governance/](https://commons-os.github.io/patterns/domain/futarchy-robin-hansons-prediction-market-governance/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/futarchy-robin-hansons-prediction-market-governance.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/futarchy-robin-hansons-prediction-market-governance.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -178,15 +178,3 @@ The Social Market Economy is a powerful transitional model that successfully bri
 
 *   Konrad-Adenauer-Stiftung: [https://www.kas.de/en/web/soziale-marktwirtschaft](https://www.kas.de/en/web/soziale-marktwirtschaft)
 *   Federal Ministry for Economic Affairs and Climate Action (Germany): [https://www.bmwk.de/Redaktion/EN/Dossier/social-market-economy.html](https://www.bmwk.de/Redaktion/EN/Dossier/social-market-economy.html)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/social-market-economy/](https://commons-os.github.io/patterns/domain/social-market-economy/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/social-market-economy.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/social-market-economy.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

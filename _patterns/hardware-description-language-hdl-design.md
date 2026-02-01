@@ -116,15 +116,3 @@ Hardware Description Language (HDL) Design is a powerful enabler of collective v
 [14] "AI and Machine Learning in Digital Design," Cadence, [https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/ai-and-machine-learning.html](https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/ai-and-machine-learning.html)
 
 [15] "High-Level Synthesis (HLS)," Semiconductor Engineering, [https://semiengineering.com/knowledge_centers/eda-design/hls-high-level-synthesis/](https://semiengineering.com/knowledge_centers/eda-design/hls-high-level-synthesis/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/hardware-description-language-hdl-design/](https://commons-os.github.io/patterns/domain/hardware-description-language-hdl-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/hardware-description-language-hdl-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/hardware-description-language-hdl-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

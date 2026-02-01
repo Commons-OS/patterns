@@ -164,15 +164,3 @@ The Materials Selection Process is a powerful, systematic tool for technical opt
 *   [3] University of Cambridge. (n.d.). *Material Selection Charts*. Retrieved January 28, 2026, from https://www-materials.eng.cam.ac.uk/mpsite/interactive_charts/
 *   [4] Proxom Engineering. (2020, October 15). *Material Selection Charts*. Retrieved January 28, 2026, from https://proxom.net/material-selection/
 *   [5] Granta Design. (2009). *Material and Process Selection Charts*. Retrieved January 28, 2026, from https://www.researchgate.net/profile/Alain-Celzard/post/Looking_for_Material_with_High_Modulus_and_high_coefficient_of_thermal_expansion/attachment/59d6449379197b807799fd0e/AS%3A449286304473088%401484129610805/download/2_materials-charts-2009.pdf
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/materials-selection-process-ashby-charts/](https://commons-os.github.io/patterns/implementation/materials-selection-process-ashby-charts/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/materials-selection-process-ashby-charts.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/materials-selection-process-ashby-charts.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

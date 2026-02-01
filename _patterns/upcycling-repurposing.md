@@ -160,15 +160,3 @@ The Upcycling & Repurposing pattern demonstrates a strong alignment with the pri
 6. Hiscox. (2025, April 3). *Creative ways to upcycle waste into a revenue stream*. Retrieved from https://www.hiscox.com/blog/creative-ways-to-upcycle-waste-revenue-stream
 7. Common Objective. (2022, December 7). *How to turn upcycling into a successful business*. Retrieved from https://www.commonobjective.co/article/how-to-turn-upcycling-into-a-successful-business
 8. Fillmann, J., Völckner, F., Imschloss, M., & Schulz, M. (2025). Transforming trash into treasure: Why consumers like personalized upcycling. *International Journal of Research in Marketing*. In Press, Corrected Proof. Retrieved from https://www.sciencedirect.com/science/article/pii/S0167811625000862
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/upcycling-repurposing/](https://commons-os.github.io/patterns/domain/upcycling-repurposing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/upcycling-repurposing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/upcycling-repurposing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

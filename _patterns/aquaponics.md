@@ -121,15 +121,3 @@ A wealth of resources is available for those interested in learning more about a
 [4] Food and Agriculture Organization of the United Nations. (n.d.). _Seven rules of thumb to follow in aquaponics_. Retrieved from https://www.fao.org/newsroom/story/Seven-rules-of-thumb-to-follow-in-aquaponics/en
 
 [5] Purdue University. (2020). _Purdue study addresses environmental, economic impacts of hydroponic, aquaponics systems_. Retrieved from https://ag.purdue.edu/news/2020/10/purdue-study-addresses-environmental-economic-impacts-of-hydroponic-aquaponics-systems.html
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/aquaponics/](https://commons-os.github.io/patterns/domain/aquaponics/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/aquaponics.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/aquaponics.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

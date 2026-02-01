@@ -269,15 +269,3 @@ While process capability analysis is not directly focused on equity and inclusio
 [6] The Use of AI in Business Process Management. (2024, May 27). Navvia. Retrieved from https://navvia.com/blog/the-use-of-ai-in-business-process-management
 
 [7] Machine learning can improve the use of process capability data to predict tolerances in blanking and piercing manufacturing processes. (2023). ScienceDirect. Retrieved from https://www.sciencedirect.com/science/article/pii/S2590123023006503
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/process-capability-analysis/](https://commons-os.github.io/patterns/implementation/process-capability-analysis/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/process-capability-analysis.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/process-capability-analysis.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

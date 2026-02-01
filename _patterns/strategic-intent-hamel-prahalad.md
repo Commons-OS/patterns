@@ -215,15 +215,3 @@ Strategic Intent is a powerful framework for mobilizing resources and fostering 
 *   [Hamel and Prahalad's Strategic Intent Summary and Forum](https://www.12manage.com/methods_hamel_prahalad_strategic_intent.html)
 *   [What is Strategic Intent and How it Plays into Business](https://pathwise.io/strategic-intent-a-blueprint-for-business-success/)
 *   [Strategic Intent: Definition, Overview, & Example](https://managementconsulted.com/strategic-intent/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/strategic-intent-hamel-prahalad/](https://commons-os.github.io/patterns/domain/strategic-intent-hamel-prahalad/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/strategic-intent-hamel-prahalad.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/strategic-intent-hamel-prahalad.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

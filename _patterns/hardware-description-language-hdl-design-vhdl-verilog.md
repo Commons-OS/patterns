@@ -176,15 +176,3 @@ Hardware Description Languages are a cornerstone of the digital age, providing a
 3.  [What are the best practices for Hardware Description Languages (Verilog, VHDL etc.) - Stack Overflow](https://stackoverflow.com/questions/326880/what-are-the-best-practices-for-hardware-description-languages-verilog-vhdl-et)
 4.  [The Impacts of Hardware Description Languages and CPLD/FPGA Technologies on Digital Design](https://tiij.org/issues/issues/fall2007/34_Pecen/Pecan-HDL%20and%20CPLD_FPGA.pdf)
 5.  [AI-Assisted HDL Generation: Threat or Opportunity?](https://medium.com/@lanceharvieruntime/ai-assisted-hdl-generation-threat-or-opportunity-0f57a5a49f5b)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/hardware-description-language-hdl-design-vhdl-verilog/](https://commons-os.github.io/patterns/domain/hardware-description-language-hdl-design-vhdl-verilog/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/hardware-description-language-hdl-design-vhdl-verilog.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/hardware-description-language-hdl-design-vhdl-verilog.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

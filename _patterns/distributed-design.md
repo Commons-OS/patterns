@@ -205,15 +205,3 @@ The Commons Alignment Assessment evaluates the Distributed Design pattern agains
 [17] Bassi, E. (2021). Distributed Innovation. In *This is Distributed Design* (pp. 22-27). Distributed Design Platform.
 
 [18] Mehta, T. (2021). Designing an Alternate Political Culture through Citizen Participation. In *This is Distributed Design* (pp. 76-81). Distributed Design Platform.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/distributed-design/](https://commons-os.github.io/patterns/domain/distributed-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/distributed-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/distributed-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

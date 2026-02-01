@@ -165,15 +165,3 @@ The Hybrid Combinations pattern is a powerful enabler of organizational resilien
 [6] Creately. (2025, December 9). *Hybrid Organizational Structure: The Complete Guide with Examples*. https://creately.com/guides/hybrid-organizational-structure/
 
 [7] WalkMe Team. (n.d.). *Hybrid organizational structure: Definition, best practices & examples*. https://www.walkme.com/blog/hybrid-organizational-structure/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/hybrid-combinations/](https://commons-os.github.io/patterns/domain/hybrid-combinations/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/hybrid-combinations.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/hybrid-combinations.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

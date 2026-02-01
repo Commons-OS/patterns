@@ -254,15 +254,3 @@ Value Chain Analysis is a powerful tool for optimizing firm-level efficiency and
 [5] Porter's Value Chain Analysis explained - Toolshero. (n.d.). Retrieved from https://www.toolshero.com/management/value-chain-analysis-porter/
 
 [6] Exploring opportunities in the gen AI value chain | McKinsey. (2023, April 26). Retrieved from https://www.mckinsey.com/capabilities/quantumblack/our-insights/exploring-opportunities-in-the-generative-ai-value-chain
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/43-value-chain-analysis-porter/](https://commons-os.github.io/patterns/domain/43-value-chain-analysis-porter/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/43-value-chain-analysis-porter.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/43-value-chain-analysis-porter.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

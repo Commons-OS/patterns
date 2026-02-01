@@ -194,15 +194,3 @@ The V-Model is a transitional pattern that has some elements of a commons-aligne
 [3] iapm.net. (n.d.). *The V-model explained*. Retrieved from https://www.iapm.net/en/blog/v-model/
 [4] Boehm, B. W. (1988). A spiral model of software development and enhancement. *Computer*, *21*(5), 61-72.
 [5] Royce, W. W. (1970). Managing the development of large software systems. In *Proceedings of IEEE WESCON* (Vol. 26, pp. 1-9).
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/v-model/](https://commons-os.github.io/patterns/domain/v-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/v-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/v-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

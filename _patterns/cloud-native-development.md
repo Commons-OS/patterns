@@ -195,15 +195,3 @@ This section provides a curated list of resources and references for further lea
 *   [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
 *   [CNCF Case Studies](https://www.cncf.io/case-studies/)
 *   [The Cloud Native Trail Map](https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/cloud-native-development/](https://commons-os.github.io/patterns/domain/cloud-native-development/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/cloud-native-development.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/cloud-native-development.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

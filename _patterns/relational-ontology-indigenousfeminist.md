@@ -241,15 +241,3 @@ Resources and citations.
     [5] Government of Canada & Council of the Haida Nation. (2010). *Gwaii Haanas Agreement*.
     [6] Te Awa Tupua (Whanganui River Claims Settlement) Act 2017, New Zealand.
     [7] Martin, P. Y. (1990). *Rethinking Feminist Organizations*. Gender & Society.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/38-relational-ontology-indigenousfeminist/](https://commons-os.github.io/patterns/domain/38-relational-ontology-indigenousfeminist/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/38-relational-ontology-indigenousfeminist.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/38-relational-ontology-indigenousfeminist.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -231,15 +231,3 @@ Crowdsourcing is a powerful transitional pattern that enables collective action 
 [9] Barnett, A. J., et al. (2020). Defining Success in the Commons: Addressing Problem Orientations, Multidimensionality, Norms, and Tradeoffs. *International Journal of the Commons*, *14*(1), 366–387. https://doi.org/10.5334/ijc.994
 
 ## 9. Resources & References
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/crowdsourcing/](https://commons-os.github.io/patterns/domain/crowdsourcing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/crowdsourcing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/crowdsourcing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

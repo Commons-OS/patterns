@@ -219,15 +219,3 @@ The Working Backward method, while originating in a corporate environment, exhib
 3.  [Amazon Mechanisms and the working backwards process - Medium](https://medium.com/@angusnorton/how-amazon-uses-mechanisms-to-hone-efficiency-and-gsd-get-shit-done-5608a3d4f930)
 4.  Bryar, C., & Carr, B. (2021). *Working Backwards: Insights, Stories, and Secrets from Inside Amazon*. St. Martin's Press.
 5.  [What is working backwards (the Amazon method)? - Airfocus](https://airfocus.com/glossary/what-is-working-backwards/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/working-backward-amazon/](https://commons-os.github.io/patterns/domain/working-backward-amazon/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/working-backward-amazon.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/working-backward-amazon.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

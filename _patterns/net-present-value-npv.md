@@ -159,15 +159,3 @@ NPV is a powerful tool for financial optimization but is fundamentally misaligne
 [1] Investopedia. (n.d.). *Net Present Value (NPV): What It Means and Steps to Calculate It*. Retrieved from https://www.investopedia.com/terms/n/npv.asp
 
 [2] Wikipedia. (n.d.). *Net present value*. Retrieved from https://en.wikipedia.org/wiki/Net_present_value
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/net-present-value-npv/](https://commons-os.github.io/patterns/domain/net-present-value-npv/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/net-present-value-npv.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/net-present-value-npv.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

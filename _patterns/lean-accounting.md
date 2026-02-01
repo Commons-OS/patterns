@@ -206,15 +206,3 @@ Lean Accounting is a powerful transitional pattern that moves beyond traditional
 3.  [Applying Lean to the Accounting Process Case Study](http.leanhorizons.com/wp-content/uploads/2011/02/LHC_Lean_Accounting_Case_Study.pdf)
 4.  [AI Is Reshaping Accounting Jobs by Doing the “Boring” Stuff](https://www.gsb.stanford.edu/insights/ai-reshaping-accounting-jobs-doing-boring-stuff)
 5.  [An Accountant's Guide to Understanding Lean Accounting](https://www.lean.org/the-lean-post/articles/an-accountants-guide-to-understanding-lean-accounting/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/lean-accounting/](https://commons-os.github.io/patterns/domain/lean-accounting/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/lean-accounting.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/lean-accounting.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

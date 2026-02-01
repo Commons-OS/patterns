@@ -155,15 +155,3 @@ The pattern demonstrates significant potential as a transitional technology for 
 [4] Martin, D. (2022). Deep Learning Strategies for Industrial Surface Defect Detection. ScholarSpace. https://scholarspace.manoa.hawaii.edu/items/0cff8961-7713-43c4-b2a5-cc218fecff32
 
 [5] Suh, S. (2025). Optimal surface defect detector design based on deep learning. Nature. https://www.nature.com/articles/s41598-025-88112-2
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/human-universal/deep-learning-for-defect-detection/](https://commons-os.github.io/patterns/human-universal/deep-learning-for-defect-detection/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/deep-learning-for-defect-detection.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_human-universal/deep-learning-for-defect-detection.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

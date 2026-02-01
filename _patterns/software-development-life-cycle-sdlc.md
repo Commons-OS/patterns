@@ -206,15 +206,3 @@ The SDLC scores a 3 because it is a powerful and adaptable framework for structu
 [8] Ideas2IT. (n.d.). *AI in Software Development Lifecycle*. Retrieved from https://www.ideas2it.com/blogs/ai-in-software-development-sdlc
 
 [9] Amazon Web Services. (2025, July 31). *AI-Driven Development Life Cycle: Reimagining Software ...*. Retrieved from https://aws.amazon.com/blogs/devops/ai-driven-development-life-cycle/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/software-development-life-cycle-sdlc/](https://commons-os.github.io/patterns/context-specific/software-development-life-cycle-sdlc/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/software-development-life-cycle-sdlc.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/software-development-life-cycle-sdlc.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

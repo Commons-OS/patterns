@@ -197,15 +197,3 @@ Futarchy is a powerful enabler of collective value creation due to its robust me
     3.  Wikipedia. (2025). *Futarchy*. Retrieved from [https://en.wikipedia.org/wiki/Futarchy](https://en.wikipedia.org/wiki/Futarchy)
     4.  Helius. (2024). *Futarchy and Governance: Prediction Markets Meet DAOs on Solana*. Retrieved from [https://www.helius.dev/blog/futarchy-and-governance-prediction-markets-meet-daos-on-solana](https://www.helius.dev/blog/futarchy-and-governance-prediction-markets-meet-daos-on-solana)
     5.  Buterin, V. (2014). *An Introduction to Futarchy*. Ethereum Blog. Retrieved from [https://blog.ethereum.org/2014/08/21/introduction-futarchy](https://blog.ethereum.org/2014/08/21/introduction-futarchy)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/5-futarchy-robin-hanson/](https://commons-os.github.io/patterns/domain/5-futarchy-robin-hanson/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/5-futarchy-robin-hanson.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/5-futarchy-robin-hanson.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

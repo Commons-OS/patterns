@@ -171,15 +171,3 @@ The pattern is a powerful engine for automation and efficiency, making it a key 
 [4] Kearney. (2025, June 5). *A five-step process can structure the implementation of lights-out manufacturing in practice*. https://www.kearney.com/service/operations-performance/article/a-five-step-process-can-structure-the-implementation-of-lights-out-manufacturing-in-practice
 
 [5] Advanced Technology Services. (n.d.). *What is "Lights Out" Dark Manufacturing?* https://www.advancedtech.com/blog/what-is-lights-out-dark-manufacturing/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/context-specific/lights-out-manufacturing/](https://commons-os.github.io/patterns/context-specific/lights-out-manufacturing/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/lights-out-manufacturing.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_context-specific/lights-out-manufacturing.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

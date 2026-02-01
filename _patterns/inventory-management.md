@@ -172,15 +172,3 @@ Inventory Management is a powerful and mature pattern for creating efficiency an
 *   [Investopedia: Inventory Management](https://www.investopedia.com/terms/i/inventory-management.asp)
 *   [NetSuite: What Is Inventory Management?](https://www.netsuite.com/portal/resource/articles/inventory-management/inventory-management.shtml)
 *   [GS1 US: IPC/Subway Inventory Management Case Study](https://www.gs1us.org/industries-and-insights/case-studies/ipc-subway-inventory-management)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/inventory-management/](https://commons-os.github.io/patterns/domain/inventory-management/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/inventory-management.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/inventory-management.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

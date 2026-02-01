@@ -139,15 +139,3 @@ The primary value of RAD lies in its ability to deliver high-quality systems qui
     1.  Beynon-Davies, P., Carne, C., Mackay, H., & Tudhope, D. (1999). Rapid application development (RAD): an empirical review. *European Journal of Information Systems*, 8(3), 211-223.
     2.  Salesforce. (n.d.). *What Is Rapid Application Development (RAD)?* Retrieved from https://www.salesforce.com/platform/enterprise-app-development/rapid-application-development-guide/
     3.  Wikipedia. (n.d.). *Rapid application development*. Retrieved from https://en.wikipedia.org/wiki/Rapid_application_development
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/rapid-application-development-rad/](https://commons-os.github.io/patterns/domain/rapid-application-development-rad/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/rapid-application-development-rad.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/rapid-application-development-rad.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

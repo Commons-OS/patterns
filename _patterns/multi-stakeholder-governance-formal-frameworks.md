@@ -244,15 +244,3 @@ This pattern provides a complete and robust architecture for resilient collectiv
 *   Gleckman, H. (2018). *Multistakeholder governance and democracy: A global challenge*. Routledge.
 *   Mattli, W., & Woods, N. (2009). *The new politics of global regulation*. Princeton University Press.
 *   World Wildlife Fund. (2015). *The benefits of FSC certification*. WWF.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/implementation/multi-stakeholder-governance-formal-frameworks/](https://commons-os.github.io/patterns/implementation/multi-stakeholder-governance-formal-frameworks/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/multi-stakeholder-governance-formal-frameworks.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_implementation/multi-stakeholder-governance-formal-frameworks.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -238,15 +238,3 @@ The Consulting Model is a powerful engine for creating private value for specifi
 [4] Project Management Institute. (n.d.). *Challenges - Managing External and Internal Consultants*. Retrieved from https://www.pmi.org/learning/library/challenges-managing-external-internal-consultants-6670
 
 [5] Harvard Business Review. (2025). *AI Is Changing the Structure of Consulting Firms*. Retrieved from https://hbr.org/2025/09/ai-is-changing-the-structure-of-consulting-firms
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/consulting-model/](https://commons-os.github.io/patterns/domain/consulting-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/consulting-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/consulting-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

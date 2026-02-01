@@ -210,15 +210,3 @@ For those interested in a deeper exploration of the Behavioral Management patter
 *   [PositivePsychology.com: Theory X and Theory Y (& Z): Employee Motivation Explained](https://positivepsychology.com/theory-x-and-theory-y/)
 
 These resources provide a rich and varied perspective on the Behavioral Management pattern, from its historical origins to its contemporary applications. They offer valuable insights for managers, leaders, and anyone interested in understanding the complex interplay between human nature, motivation, and organizational performance.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/behavioral-management-mcgregor-xy/](https://commons-os.github.io/patterns/domain/behavioral-management-mcgregor-xy/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/behavioral-management-mcgregor-xy.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/behavioral-management-mcgregor-xy.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

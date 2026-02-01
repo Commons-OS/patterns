@@ -163,15 +163,3 @@ Feminist Economics provides a complete, alternative architecture for resilient a
 [5] UN Women. (n.d.). *Facts and figures: Economic empowerment*. Retrieved from https://www.unwomen.org/en/what-we-do/economic-empowerment/facts-and-figures
 
 [6] UN Women. (2024). *Explainer: Artificial Intelligence and gender equality*. Retrieved from https://www.unwomen.org/en/articles/explainer/artificial-intelligence-and-gender-equality
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/feminist-economics/](https://commons-os.github.io/patterns/domain/feminist-economics/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/feminist-economics.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/feminist-economics.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

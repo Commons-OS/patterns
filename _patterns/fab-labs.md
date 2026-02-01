@@ -262,15 +262,3 @@ Fab Labs are a transitional model. While they are based on commons principles of
 *   Gershenfeld, N. (2005). *Fab: The Coming Revolution on Your Desktop—from Personal Computers to Personal Fabrication*. Basic Books.
 *   Kohtala, C. (2017). Making “Making” critical: How sustainability is constituted in fab lab ideology. *The Design Journal*, *20*(sup1), S3757-S3768.
 *   Wolf, P., Troxler, P., Kocher, P. Y., Harboe, J., & Mirski, P. J. (2014). Sharing is sparing: open knowledge sharing in Fab Labs. *Journal of Peer Production*, (5).
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/fab-labs/](https://commons-os.github.io/patterns/domain/fab-labs/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/fab-labs.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/fab-labs.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

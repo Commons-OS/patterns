@@ -247,15 +247,3 @@ This section provides a curated list of resources for further learning and explo
 [4] Learning for Sustainability. (n.d.). *Social License to Operate (SLO) - how to build it ... and keep it*. Retrieved from https://learningforsustainability.net/social-license/
 
 [5] Ramboll. (2025, March 10). *Social License to Operate: A way forward*. Retrieved from https://www.ramboll.com/en-us/social-license-to-operate-a-way-forward
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/5-social-license-to-operate/](https://commons-os.github.io/patterns/domain/5-social-license-to-operate/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/5-social-license-to-operate.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/5-social-license-to-operate.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

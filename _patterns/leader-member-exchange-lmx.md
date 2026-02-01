@@ -142,15 +142,3 @@ LMX is a powerful descriptor of relational dynamics in organizations and provide
 [4] Gerstner, C. R., & Day, D. V. (1997). Meta-Analytic review of leader–member exchange theory: Correlates and construct issues. *Journal of Applied Psychology*, *82*(6), 827–844.
 
 [5] Dulebohn, J. H., Bommer, W. H., Liden, R. C., Brouer, R. L., & Ferris, G. R. (2012). A meta-analysis of antecedents and consequences of leader-member exchange: Integrating the past with an eye toward the future. *Journal of Management*, *38*(6), 1715–1759.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/leader-member-exchange-lmx/](https://commons-os.github.io/patterns/domain/leader-member-exchange-lmx/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/leader-member-exchange-lmx.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/leader-member-exchange-lmx.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

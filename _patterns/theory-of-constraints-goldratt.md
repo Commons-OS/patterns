@@ -266,15 +266,3 @@ This section provides a curated list of resources for further learning and engag
 [4] iSixSigma. (2025, June 15). *Case Studies: Real-World Applications of the Theory of Constraints*. https://www.isixsigma.com/theory-of-constraints/case-studies-real-world-applications-of-the-theory-of-constraints/
 
 [5] Bastian Solutions. (2024, October 30). *Applying Theory of Constraints Principles: A Case Study*. https://www.bastiansolutions.com/blog/applying-theory-of-constraints-principles-a-case-study/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/18-theory-of-constraints-goldratt/](https://commons-os.github.io/patterns/domain/18-theory-of-constraints-goldratt/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/18-theory-of-constraints-goldratt.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/18-theory-of-constraints-goldratt.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

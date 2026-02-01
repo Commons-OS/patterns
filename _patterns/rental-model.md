@@ -213,15 +213,3 @@ The Rental Model is scored as Transitional because while it provides a powerful 
 [4] Hackernoon. (2022, November 22). *Airbnb Business Case Study: What Makes Airbnb So Successful*. Hackernoon. https://hackernoon.com/airbnb-business-case-study-what-makes-airbnb-so-successful
 
 [5] Allied Market Research. (2023). *Sharing Economy Market by Model, Type, and End Use: Global Opportunity Analysis and Industry Forecast, 2022-2032*. Allied Market Research. https://www.alliedmarketresearch.com/sharing-economy-market-A230672
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/rental-model/](https://commons-os.github.io/patterns/domain/rental-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/rental-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/rental-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

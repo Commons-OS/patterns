@@ -240,15 +240,3 @@ The Toyota Production System, in its typical corporate application, scores a 3 o
 [4] Womack, J. P., Jones, D. T., & Roos, D. (1990). *The Machine That Changed the World*. Rawson Associates.
 
 [5] Liker, J. K. (2004). *The Toyota Way: 14 Management Principles from the World's Greatest Manufacturer*. McGraw-Hill.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/tps-documented/](https://commons-os.github.io/patterns/domain/tps-documented/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/tps-documented.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/tps-documented.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

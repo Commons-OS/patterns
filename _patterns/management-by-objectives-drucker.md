@@ -167,15 +167,3 @@ MBO is a powerful tool for aligning effort within a hierarchical organization an
 [2] "P.F. Drucker & Peter Drucker Management Theory | MBO & ..." [Online]. Available: https://www.business.com/articles/management-theory-of-peter-drucker/.
 
 [3] "Management by objectives (Drucker) - Communication Theory." [Online]. Available: https://www.communicationtheory.org/management-by-objectives-drucker/.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/management-by-objectives-drucker/](https://commons-os.github.io/patterns/domain/management-by-objectives-drucker/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/management-by-objectives-drucker.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/management-by-objectives-drucker.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

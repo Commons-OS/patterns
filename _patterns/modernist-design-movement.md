@@ -122,15 +122,3 @@ The Modernist Design Movement is rated as Transitional because it offers powerfu
 [3] RIBA. (2023). *Modernism architecture style guide*. Retrieved from https://www.riba.org/explore/riba-collections/architectural-styles/modernism-movement/
 [4] Modern San Diego. (2023). *Modernism: How The Principles Developed - A Brief History*. Retrieved from https://modernsandiego.com/article/modernism-how-the-principles-developed---a-brief-history/
 [5] Architectural Digest. (2023). *Modern Architecture: Everything You Need to Know*. Retrieved from https://www.architecturaldigest.com/story/modern-architecture-101
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/modernist-design-movement/](https://commons-os.github.io/patterns/domain/modernist-design-movement/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/modernist-design-movement.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/modernist-design-movement.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

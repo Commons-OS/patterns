@@ -170,15 +170,3 @@ There are a number of resources available to help you learn more about open inno
     2.  [https://www.viima.com/blog/guide-open-innovation-platforms](https://www.viima.com/blog/guide-open-innovation-platforms)
     3.  [https://www.qmarkets.net/resources/article/open-innovation-tool/](https://www.qmarkets.net/resources/article/open-innovation-tool/)
     4.  [https://www.researchgate.net/publication/349046025_The_role_of_open_innovation_platforms_in_facilitating_user-driven_innovation_in_innovation_ecosystems](https://www.researchgate.net/publication/349046025_The_role_of_open_innovation_platforms_in_facilitating_user-driven_innovation_in_innovation_ecosystems)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/open-innovation-platforms/](https://commons-os.github.io/patterns/domain/open-innovation-platforms/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/open-innovation-platforms.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/open-innovation-platforms.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

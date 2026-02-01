@@ -150,15 +150,3 @@ GD&T is a foundational pattern for industrial commons, providing the shared lang
 *   GD&T Basics (https://www.gdandtbasics.com/)
 *   ASME (https://www.asme.org/)
 *   ISO (https://www.iso.org/)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/geometric-dimensioning-tolerancing-gdt/](https://commons-os.github.io/patterns/domain/geometric-dimensioning-tolerancing-gdt/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/geometric-dimensioning-tolerancing-gdt.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/geometric-dimensioning-tolerancing-gdt.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

@@ -275,15 +275,3 @@ Systems Thinking is a foundational meta-pattern that strongly enables the design
 [6] Hopper, M., & Stave, K. A. (2008, July). Assessing the effectiveness of systems thinking interventions in the classroom. In *Proceedings of the 26th International Conference of the System Dynamics Society* (pp. 1-21).
 
 [7] Camelia, F., Ferris, T. L., & Cropley, D. H. (2019). The effectiveness of a systems engineering course in developing systems thinking. *IEEE Transactions on Education*, *63*(1), 38-46.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/universal/systems-thinking/](https://commons-os.github.io/patterns/universal/systems-thinking/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/systems-thinking.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_universal/systems-thinking.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

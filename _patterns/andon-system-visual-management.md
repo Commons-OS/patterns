@@ -231,15 +231,3 @@ The Andon system is a powerful enabler of resilient value creation. It establish
 [4] Adobe. (2025). *What is Andon in Lean Manufacturing? Definition and Examples*. Retrieved from https://business.adobe.com/blog/basics/what-is-andon-lean-manufacturing
 
 [5] Liker, J. K. (2004). *The Toyota Way: 14 Management Principles from the World's Greatest Manufacturer*. McGraw-Hill.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/30-andon-system-visual-management/](https://commons-os.github.io/patterns/domain/30-andon-system-visual-management/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/30-andon-system-visual-management.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/30-andon-system-visual-management.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

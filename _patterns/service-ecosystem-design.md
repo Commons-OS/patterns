@@ -213,15 +213,3 @@ Vargo, S. L., & Lusch, R. F. (2016). Institutions and axioms: an extension and u
 Vink, J., Koskela-Huotari, K., Tronvoll, B., Edvardsson, B., & Wetter-Edman, K. (2021). Service Ecosystem Design: Propositions, Process Model, and Future Research Agenda. *Journal of Service Research*, 24(2), 168–186.
 
 Lawrence, T. B., & Suddaby, R. (2006). Institutions and institutional work. In S. R. Clegg, C. Hardy, T. B. Lawrence, & W. R. Nord (Eds.), *The SAGE handbook of organization studies* (pp. 215-254). Sage Publications Ltd.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/service-ecosystem-design/](https://commons-os.github.io/patterns/domain/service-ecosystem-design/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/service-ecosystem-design.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/service-ecosystem-design.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

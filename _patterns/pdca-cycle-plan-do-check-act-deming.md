@@ -171,15 +171,3 @@ The PDCA cycle is a powerful and fundamental enabler of resilient value creation
 3.  Deming, W. E. (2000). *Out of the crisis*. MIT press.
 4.  Shewhart, W. A. (1939). *Statistical method from the viewpoint of quality control*. Courier Corporation.
 5.  The W. Edwards Deming Institute. (n.d.). *PDSA Cycle*. Retrieved from https://deming.org/explore/pdsa/
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/pdca-cycle-plan-do-check-act-deming/](https://commons-os.github.io/patterns/domain/pdca-cycle-plan-do-check-act-deming/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/pdca-cycle-plan-do-check-act-deming.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/pdca-cycle-plan-do-check-act-deming.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

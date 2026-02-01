@@ -185,15 +185,3 @@ Design for Safety is a strong enabler of collective value creation by establishi
 19. [Cyber-Physical System. Wikipedia.](https://en.wikipedia.org/wiki/Cyber-physical_system)
 20. [The Future of Work. International Labour Organization.](https://www.ilo.org/global/topics/future-of-work/lang--en/index.htm)
 21. [Ethics of Artificial Intelligence. Wikipedia.](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence)
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/design-for-safety/](https://commons-os.github.io/patterns/domain/design-for-safety/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/design-for-safety.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/design-for-safety.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

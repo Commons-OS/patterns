@@ -270,15 +270,3 @@ This section provides a curated list of resources for further learning about the
 [4] Huson, M., & Nanda, D. (1995). The impact of just-in-time manufacturing on firm performance in the US. *Journal of Operations Management*, *12*(3-4), 297-310.
 
 [5] Fullerton, R. R., & McWatters, C. S. (2001). The production performance benefits from JIT implementation. *Journal of Operations Management*, *19*(1), 81-96.
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/just-in-time-jit-production-system/](https://commons-os.github.io/patterns/domain/just-in-time-jit-production-system/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/just-in-time-jit-production-system.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/just-in-time-jit-production-system.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*

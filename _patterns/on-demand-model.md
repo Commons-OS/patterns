@@ -222,15 +222,3 @@ The On-Demand Model is a partial enabler because it successfully leverages distr
 [4] Colby, C., & Bell, K. (2016, April 14). The On-Demand Economy Is Growing, and Not Just for the Young and Wealthy. *Harvard Business Review*. Retrieved from https://hbr.org/2016/04/the-on-demand-economy-is-growing-and-not-just-for-the-young-and-wealthy
 
 [5] Entrepreneur. (n.d.). *How Does an On-Demand Business Model Work?* Retrieved from https://www.entrepreneur.com/building-a-business/business-model/types-of-business-models/how-does-an-ondemand-business-model-work
-
----
-
-## Navigation
-
-- **Page URL**: [https://commons-os.github.io/patterns/domain/on-demand-model/](https://commons-os.github.io/patterns/domain/on-demand-model/)
-- **Source**: [View on GitHub](https://github.com/commons-os/patterns/blob/main/_patterns/on-demand-model.md)
-- **Edit**: [Edit this pattern](https://github.com/commons-os/patterns/edit/main/_domain/on-demand-model.md)
-
----
-
-*Commons OS Pattern Library - Distributed by [cloudsters](https://cloudsters.net)*
