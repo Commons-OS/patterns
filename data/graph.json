@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-02-01T23:20:32.604613Z",
+  "generated_at": "2026-02-02T01:21:00.203946Z",
   "version": "2.0",
   "nodes": {
     "patterns": [
+      {
+        "id": "pat_d508c16cc7364a36a0fe4316",
+        "title": "360-Degree Feedback",
+        "slug": "360-degree-feedback",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
       {
         "id": "pat_01kg50240tewravhcejs3qnejp",
         "title": "5S Methodology - Workplace Organization",
@@ -22,6 +31,15 @@
         "universality": "implementation"
       },
       {
+        "id": "pat_726b2c781a274413978675f1",
+        "title": "83(b) Election",
+        "slug": "83b-election",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_d30b7c5e9b5c4a29911feab7a3",
         "title": "A3 Thinking - Toyota Problem Solving",
         "slug": "a3-thinking-toyota-problem-solving",
@@ -38,6 +56,15 @@
         "status": "draft",
         "confidence_score": null,
         "universality": "domain"
+      },
+      {
+        "id": "pat_6086505c7c6841ddae0de7d3",
+        "title": "AARRR Framework (Pirate Metrics)",
+        "slug": "aarrr-framework-pirate-metrics",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "universal"
       },
       {
         "id": "pat_01kg5023x6ecsvs4r524v3092n",
@@ -76,6 +103,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_b4c927c4a7c647378fff8182",
+        "title": "Acceleration Clauses",
+        "slug": "acceleration-clauses",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_019c19b234ca7ed6ad8c89394a",
         "title": "Access Control",
         "slug": "access-control",
@@ -85,6 +121,24 @@
         "universality": "universal"
       },
       {
+        "id": "pat_5f149cd614f8497cafc60a69",
+        "title": "Acqui-hire",
+        "slug": "acqui-hire",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_5be530009d544bb09938a4df",
+        "title": "Acquisition (M&A)",
+        "slug": "acquisition-ma",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023vfe319pmms6msc3xr5",
         "title": "Action Learning - Revans",
         "slug": "action-learning-revans",
@@ -92,6 +146,15 @@
         "status": "draft",
         "confidence_score": null,
         "universality": "human-universal"
+      },
+      {
+        "id": "pat_74cd5be08716405b8cbf0ddf",
+        "title": "Activation Milestones",
+        "slug": "activation-milestones",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
       },
       {
         "id": "pat_01kg5023x7eg99hsc7bkatq2jf",
@@ -202,12 +265,39 @@
         "universality": "domain"
       },
       {
+        "id": "pat_e48ee16ec5964c6b80edc28e",
+        "title": "Advice Process",
+        "slug": "advice-process",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_b8ea1a39a0104b98b129fb8c",
+        "title": "Advisory Board",
+        "slug": "advisory-board",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023x8evg9fk7ax23cbrbn",
         "title": "Advisory Boards & Governance",
         "slug": "advisory-boards-governance",
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_cbe5317a1d54426e80ef462b",
+        "title": "Affiliate Marketing",
+        "slug": "affiliate-marketing",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -463,6 +553,24 @@
         "universality": "domain"
       },
       {
+        "id": "pat_ccb1e783604645e0a9c4589a",
+        "title": "All-Hands Meetings",
+        "slug": "all-hands-meetings",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_e447a6d48ea94da593298882",
+        "title": "Alumni Networks",
+        "slug": "alumni-networks",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023xef1s9wh99ya5936c8",
         "title": "Amazonian Indigenous Systems",
         "slug": "amazonian-indigenous-systems",
@@ -490,6 +598,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_36cf45e565124079bf28f995",
+        "title": "Angel Investment",
+        "slug": "angel-investment",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_019c19b234c67ecfa5ff443301",
         "title": "Anonymization",
         "slug": "anonymization",
@@ -514,6 +631,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_dc2b7e06c9e549c29adc00c8",
+        "title": "Anti-Dilution Provisions",
+        "slug": "anti-dilution-provisions",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -589,6 +715,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_16d1048b8c7943d19833c182",
+        "title": "Artificial Virality",
+        "slug": "artificial-virality",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023xge89s6mx3jpxxrr9f",
         "title": "Arts and Crafts Movement Design Principles",
         "slug": "arts-and-crafts-movement-design-principles",
@@ -622,6 +757,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_e9b65bc6cb544a5c912c0803",
+        "title": "Async-First Communication",
+        "slug": "async-first-communication",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -751,6 +895,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_1e1073d839d84632ac805ebc",
+        "title": "B-Corporation",
+        "slug": "b-corporation",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023xjea9ve0dqwkhevjfa",
         "title": "B Impact Assessment - B Corp Measurement",
         "slug": "b-impact-assessment-b-corp-measurement",
@@ -850,6 +1003,15 @@
         "universality": "universal"
       },
       {
+        "id": "pat_c0694e3dfe934e80875bdad6",
+        "title": "Below-Market + Equity",
+        "slug": "below-market-equity",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023xkes99fv5f9jnqceme",
         "title": "Benchmarking",
         "slug": "benchmarking",
@@ -865,6 +1027,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_2fda13ddbc9d48288bb40d61",
+        "title": "Benefits Package",
+        "slug": "benefits-package",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -985,6 +1156,42 @@
         "universality": "domain"
       },
       {
+        "id": "pat_41b638a74f8f45aca1b60be4",
+        "title": "Board Observer Rights",
+        "slug": "board-observer-rights",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_d056827b23ca47cfbb2e4d87",
+        "title": "Bonus Structures",
+        "slug": "bonus-structures",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_9feb689e22fe486492f8599e",
+        "title": "Bootstrapping",
+        "slug": "bootstrapping",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_0531f52dfd56494fa7f399af",
+        "title": "Bottom-Up Adoption",
+        "slug": "bottom-up-adoption",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023xne3gs3g228gy5grks",
         "title": "Brain-Computer Interface (BCI) Design",
         "slug": "brain-computer-interface-bci-design",
@@ -1000,6 +1207,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_983554332e6c42e994e2fbe9",
+        "title": "Bridge Financing",
+        "slug": "bridge-financing",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -1066,6 +1282,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_6dec71e90b004f30b4596bc6",
+        "title": "Burn Rate",
+        "slug": "burn-rate",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg50240vft1bjmxszvc6mybj",
         "title": "Business Model Canvas (Osterwalder)",
         "slug": "business-model-canvas-osterwalder",
@@ -1084,12 +1309,48 @@
         "universality": "implementation"
       },
       {
+        "id": "pat_86d6f33e62074230b2c104be",
+        "title": "C-Corporation",
+        "slug": "c-corporation",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_d821a5bb42934cacabed0017",
+        "title": "CAC (Customer Acquisition Cost)",
+        "slug": "cac-customer-acquisition-cost",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023xqet0abagjmymctnx3",
         "title": "CAD/CAM Integration",
         "slug": "cadcam-integration",
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_b6f58e58881f4163bcc4472f",
+        "title": "Calibration Sessions",
+        "slug": "calibration-sessions",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_bfbcf65e68244320b230464c",
+        "title": "Cap Table Management",
+        "slug": "cap-table-management",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -1117,6 +1378,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_4bea086632594ec4b8303301",
+        "title": "Career Ladders",
+        "slug": "career-ladders",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -1210,6 +1480,24 @@
         "universality": "design"
       },
       {
+        "id": "pat_fb1e6752ec194217a9ce31b4",
+        "title": "Churn Prevention",
+        "slug": "churn-prevention",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_9caad820487e48af823b2918",
+        "title": "Churn Rate",
+        "slug": "churn-rate",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg50240vft1bjmxt1n6xb6js",
         "title": "CIRCLES Method",
         "slug": "circles-method",
@@ -1252,6 +1540,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_2b510f75b2824c23bb3cf74d",
+        "title": "Cliff",
+        "slug": "cliff",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -1300,6 +1597,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_480987de0d0845b6ad1bbaaf",
+        "title": "Co-Founder Selection",
+        "slug": "co-founder-selection",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023xxf79vb2tkk5aabfp5",
         "title": "Co-housing",
         "slug": "co-housing",
@@ -1316,6 +1622,15 @@
         "status": "draft",
         "confidence_score": null,
         "universality": "implementation"
+      },
+      {
+        "id": "pat_017f23032d0141fba7610b3c",
+        "title": "Cold Outreach",
+        "slug": "cold-outreach",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
       },
       {
         "id": "pat_01kg5023xyf2svqa9gxnv15tkt",
@@ -1487,6 +1802,15 @@
         "status": "draft",
         "confidence_score": null,
         "universality": "human-universal"
+      },
+      {
+        "id": "pat_2b8e0d17516b42c4b9bf5e19",
+        "title": "Community-Led Growth",
+        "slug": "community-led-growth",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
       },
       {
         "id": "pat_01kg5023y0eh0v55eybsaby172",
@@ -1678,6 +2002,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_f6bb692a46274340b41bb985",
+        "title": "Consensus Decision Making",
+        "slug": "consensus-decision-making",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023vdecr9aqhgm6vrn97d",
         "title": "Consent Agenda - Quaker-Based",
         "slug": "consent-agenda-quaker-based",
@@ -1714,6 +2047,15 @@
         "universality": "universal"
       },
       {
+        "id": "pat_6983ccef8d244d6a8f8fe1e4",
+        "title": "Consent Rights",
+        "slug": "consent-rights",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg50240vft1bjmxt8tamxcj1",
         "title": "Consulting Firm Proprietary Frameworks",
         "slug": "consulting-firm-proprietary-frameworks",
@@ -1729,6 +2071,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_e999f4130c194a22a03af6ec",
+        "title": "Consumer Cooperative",
+        "slug": "consumer-cooperative",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -1748,6 +2099,15 @@
         "status": "draft",
         "confidence_score": null,
         "universality": "universal"
+      },
+      {
+        "id": "pat_fead526aba89414baedc3cbe",
+        "title": "Content Marketing",
+        "slug": "content-marketing",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
       },
       {
         "id": "pat_01kg5023y3etg8p54xybaem458",
@@ -1822,12 +2182,39 @@
         "universality": "domain"
       },
       {
+        "id": "pat_25917d2f62ba421caddc8832",
+        "title": "Continuous Performance Management",
+        "slug": "continuous-performance-management",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_5d349dd333424095a0f67816",
+        "title": "Contractor to Employee Pipeline",
+        "slug": "contractor-to-employee-pipeline",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023y4e708zavza6kxdg76",
         "title": "Control Charts",
         "slug": "control-charts",
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_c90628030f7c4d2b9de4d6eb",
+        "title": "Convertible Notes",
+        "slug": "convertible-notes",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -1903,12 +2290,39 @@
         "universality": "domain"
       },
       {
+        "id": "pat_41fd3380858d45a0ae7b83d7",
+        "title": "Cooperative",
+        "slug": "cooperative",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023y5fnhb2ej6d5kqf818",
         "title": "Copyfair Licensing",
         "slug": "copyfair-licensing",
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_82b24c1c14e64a949a0f78d4",
+        "title": "Copyleft (GPL)",
+        "slug": "copyleft-gpl",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_1b6c2afcceae46899c1f4867",
+        "title": "Copyrights",
+        "slug": "copyrights",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -1948,12 +2362,30 @@
         "universality": "domain"
       },
       {
+        "id": "pat_7934ceef74784b1d9d82587d",
+        "title": "Corporate Venture Capital",
+        "slug": "corporate-venture-capital",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023y6fxsa08h2c7rpr4y6",
         "title": "Cradle-to-Cradle Design",
         "slug": "cradle-to-cradle-design",
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_e38e27e1b25e49f08091fdd8",
+        "title": "Creative Commons",
+        "slug": "creative-commons",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -1981,6 +2413,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_135ad6a4fa22464f8293cf33",
+        "title": "Crowdfunding (Rewards)",
+        "slug": "crowdfunding-rewards",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -2029,6 +2470,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_49709d4645a5403085a24ea3",
+        "title": "Culture Documentation",
+        "slug": "culture-documentation",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023y7e50rxp3ew60jdasx",
         "title": "Customer Experience (CX) Management",
         "slug": "customer-experience-cx-management",
@@ -2044,6 +2494,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_ada713d28fcf47198e98487a",
+        "title": "Customer Success",
+        "slug": "customer-success",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -2107,6 +2566,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_ae6a8ec22e14457b8ac6a065",
+        "title": "Data Network Effects",
+        "slug": "data-network-effects",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -2200,6 +2668,15 @@
         "universality": "universal"
       },
       {
+        "id": "pat_7e54d0eefec743839e661228",
+        "title": "Defensive Patent Pledge",
+        "slug": "defensive-patent-pledge",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg50240me98tfa0z0stfk708",
         "title": "DeFi (Decentralized Finance)",
         "slug": "defi-decentralized-finance",
@@ -2215,6 +2692,24 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_b3fa4b1634cd411eb4beed4c",
+        "title": "Delaware Incorporation",
+        "slug": "delaware-incorporation",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_710bbd5070e14715b3db11d8",
+        "title": "Delegation Poker",
+        "slug": "delegation-poker",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -2515,6 +3010,33 @@
         "universality": "domain"
       },
       {
+        "id": "pat_8c6c7dea7273429aa93071e0",
+        "title": "Dilution",
+        "slug": "dilution",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_1f602db0e5b040719db01531",
+        "title": "Direct Listing",
+        "slug": "direct-listing",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_946fa321eba0407eb637d1a6",
+        "title": "Direct Network Effects",
+        "slug": "direct-network-effects",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023ydftgramg3n6kpz21r",
         "title": "Direct Sales Model",
         "slug": "direct-sales-model",
@@ -2596,6 +3118,15 @@
         "universality": "context-specific"
       },
       {
+        "id": "pat_bc94acaeea914333b803d929",
+        "title": "Diverse Hiring",
+        "slug": "diverse-hiring",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_e545ac33af5347c3b2d97e441c",
         "title": "Diversity & Inclusion Frameworks",
         "slug": "diversity-inclusion-frameworks",
@@ -2641,6 +3172,15 @@
         "universality": "context-specific"
       },
       {
+        "id": "pat_4b44c7046fc1424fb462f7c7",
+        "title": "Documentation Culture",
+        "slug": "documentation-culture",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023yff49sdcxh4pwn9kb5",
         "title": "Documented: Published, Described, Accessible",
         "slug": "documented-published-described-accessible",
@@ -2668,6 +3208,15 @@
         "universality": "universal"
       },
       {
+        "id": "pat_49af831b0f5049d389dc8ece",
+        "title": "Double-Sided Referrals",
+        "slug": "double-sided-referrals",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023wdeh98phj12medq9n2",
         "title": "Doughnut Economics: Kate Raworth",
         "slug": "doughnut-economics-kate-raworth",
@@ -2683,6 +3232,24 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_e0ab9e62359b48d388b3f805",
+        "title": "Down Round",
+        "slug": "down-round",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_3dec8e4386f14c8ba3e83996",
+        "title": "Drag-Along Rights",
+        "slug": "drag-along-rights",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -2893,6 +3460,33 @@
         "universality": "domain"
       },
       {
+        "id": "pat_34925566ca2743aaac7d17eb",
+        "title": "Employee Buyout",
+        "slug": "employee-buyout",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_1e90a7ab9ddf49fab3f1af1d",
+        "title": "Employee Ownership Trust (EOT)",
+        "slug": "employee-ownership-trust-eot",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_60faa552a4564249b47ac793",
+        "title": "Employment Law Compliance",
+        "slug": "employment-law-compliance",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_019c19b234c970b3bf66ca0d23",
         "title": "Encryption",
         "slug": "encryption",
@@ -2920,6 +3514,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_27d580d3f937470295ef77bd",
+        "title": "Engagement Loops",
+        "slug": "engagement-loops",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023ykf68brbhxesdt6mhe",
         "title": "Enterprise Resource Planning (ERP)",
         "slug": "enterprise-resource-planning-erp",
@@ -2938,6 +3541,24 @@
         "universality": "domain"
       },
       {
+        "id": "pat_2bc678eff9d14c4b94137ee2",
+        "title": "Equity Crowdfunding",
+        "slug": "equity-crowdfunding",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_5aaab378497444aabdc36ab9",
+        "title": "Equity Refresh Grants",
+        "slug": "equity-refresh-grants",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_2864ceac67d447e29ae8331e8f",
         "title": "ESG Framework",
         "slug": "esg-framework",
@@ -2945,6 +3566,15 @@
         "status": "draft",
         "confidence_score": null,
         "universality": "universal"
+      },
+      {
+        "id": "pat_6316242d4c174340a109d613",
+        "title": "ESOP (Employee Stock Ownership Plan)",
+        "slug": "esop-employee-stock-ownership-plan",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
       },
       {
         "id": "pat_01kg5023ykf68brbhxjv51pszr",
@@ -2974,12 +3604,30 @@
         "universality": "domain"
       },
       {
+        "id": "pat_f632b1441e9a49ecb7c38ddd",
+        "title": "Event Marketing",
+        "slug": "event-marketing",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023yneg8rmv11y5ykd2d1",
         "title": "Evolutionary Economics",
         "slug": "evolutionary-economics",
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_e343b3c3465444b4aa258364",
+        "title": "Exit Interviews",
+        "slug": "exit-interviews",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -3055,6 +3703,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_4254d904c4f84141bf29df48",
+        "title": "Extension Round",
+        "slug": "extension-round",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg50240wfjh98jqx34wdddnm",
         "title": "Extreme Programming (XP) - Beck's Methodology",
         "slug": "extreme-programming-xp-becks-methodology",
@@ -3124,6 +3781,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_f84ef43f0dce466588733072",
+        "title": "Family Offices",
+        "slug": "family-offices",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -3208,6 +3874,15 @@
         "universality": "universal"
       },
       {
+        "id": "pat_90789e506bad4014b3791812",
+        "title": "Feedback Culture",
+        "slug": "feedback-culture",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023yrf4gvtspw81x69n2j",
         "title": "Feminist Economics",
         "slug": "feminist-economics",
@@ -3235,6 +3910,15 @@
         "universality": "universal"
       },
       {
+        "id": "pat_1e809137771d4872b7025b29",
+        "title": "Financial Projections",
+        "slug": "financial-projections",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023yrf4gvtspwd44sp7w5",
         "title": "Financial Ratio Analysis",
         "slug": "financial-ratio-analysis",
@@ -3253,12 +3937,39 @@
         "universality": "domain"
       },
       {
+        "id": "pat_9f3cdf76f01149f89fda0762",
+        "title": "First Hire",
+        "slug": "first-hire",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023yrf4gvtspwhvf837y7",
         "title": "First Nations (North America)",
         "slug": "first-nations-north-america",
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_7df10b67720d4bd5b4a63247",
+        "title": "Flat Hierarchy",
+        "slug": "flat-hierarchy",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_f7b8a77e44074165a823ddb6",
+        "title": "Flat Round",
+        "slug": "flat-round",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -3298,6 +4009,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_05857c1ae8474695a0147396",
+        "title": "Foundation",
+        "slug": "foundation",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023ysf99vpns4dg84yvcc",
         "title": "Foundational Economy - Essential Services",
         "slug": "foundational-economy-essential-services",
@@ -3313,6 +4033,87 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_0ce20cb9a18e419084ecd104",
+        "title": "Founder Agreements",
+        "slug": "founder-agreements",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_6004edb3ab534342adbfd5cf",
+        "title": "Founder Burnout",
+        "slug": "founder-burnout",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_0d6b5870a337419ca3aa6d15",
+        "title": "Founder Conflict Resolution",
+        "slug": "founder-conflict-resolution",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_a882efd301df49b69efa9cec",
+        "title": "Founder-Controlled Board",
+        "slug": "founder-controlled-board",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_d8d8c3469a6f4883b6302999",
+        "title": "Founder Dictatorship",
+        "slug": "founder-dictatorship",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_b2b75b25b5034509a09dec07",
+        "title": "Founder Equity Split",
+        "slug": "founder-equity-split",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_fbfff798f5094a98b29129c4",
+        "title": "Founder-Unfriendly Terms",
+        "slug": "founder-unfriendly-terms",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_57485eedd2c24536bef1d03b",
+        "title": "Founder Vesting",
+        "slug": "founder-vesting",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_2da266dc9db34adb9ef5b235",
+        "title": "Four-Day Work Week",
+        "slug": "four-day-work-week",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -3340,6 +4141,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_83b566ccb63f48a58d5f2d1a",
+        "title": "Free Trial",
+        "slug": "free-trial",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -3595,6 +4405,15 @@
         "universality": "universal"
       },
       {
+        "id": "pat_4df5994c4cfa4367a3bbf867",
+        "title": "Golden Share",
+        "slug": "golden-share",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_4tgbfenli5finlkgkyqkdligfi",
         "title": "Good Manufacturing Practice Gmp For Food",
         "slug": "good-manufacturing-practice-gmp-for-food",
@@ -3611,6 +4430,42 @@
         "status": "draft",
         "confidence_score": null,
         "universality": "context-specific"
+      },
+      {
+        "id": "pat_50d555831ba54a858cd43322",
+        "title": "Governance Theater",
+        "slug": "governance-theater",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_93d3afd4c3f44ca3a513d1da",
+        "title": "Government Programs",
+        "slug": "government-programs",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_0628002ceb8b48789ca3a30a",
+        "title": "Graceful Exits",
+        "slug": "graceful-exits",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_a3911dff359e47de9a60001a",
+        "title": "Grants",
+        "slug": "grants",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
       },
       {
         "id": "pat_01kg5023yyfh08wev9cc23bjjk",
@@ -3649,6 +4504,33 @@
         "universality": "domain"
       },
       {
+        "id": "pat_b4cbbd46afa14f51a929a674",
+        "title": "Gross Margin",
+        "slug": "gross-margin",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_b5a973815add48a7981a7963",
+        "title": "Growth at All Costs",
+        "slug": "growth-at-all-costs",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_76c3678c848f4c00b1a0c8d2",
+        "title": "Growth Loops",
+        "slug": "growth-loops",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023yzebrbkxpy8hj4yx0r",
         "title": "Growth Mindset (Dweck)",
         "slug": "growth-mindset-dweck",
@@ -3664,6 +4546,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_7ee831b153d04e1c9c6c76bc",
+        "title": "Habit Formation",
+        "slug": "habit-formation",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -3745,6 +4636,33 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_c560c7a7780c467c9276674e",
+        "title": "Hire for Culture Add",
+        "slug": "hire-for-culture-add",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_6b5b4f05bed64ed485dc1fad",
+        "title": "Hire for Mission Alignment",
+        "slug": "hire-for-mission-alignment",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_31b5eb670a004d7cbc114227",
+        "title": "Hiring Too Fast",
+        "slug": "hiring-too-fast",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -3892,6 +4810,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_d84ca54cf0bd43419b76f72a",
+        "title": "Hybrid Work",
+        "slug": "hybrid-work",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023z3f90bkx13qmrx841n",
         "title": "Hydroponics",
         "slug": "hydroponics",
@@ -3973,6 +4900,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_d0322be46abe43e19d1f7b92",
+        "title": "Impact Investors",
+        "slug": "impact-investors",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023z4ejgvpxs037kvc9jh",
         "title": "Implemented: Evidence of Real-World Use",
         "slug": "implemented-evidence-of-real-world-use",
@@ -4027,6 +4963,15 @@
         "universality": "design"
       },
       {
+        "id": "pat_67d59f5a11e8412ebb91884a",
+        "title": "Independent Board Majority",
+        "slug": "independent-board-majority",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023z5emr9v9twktvcxgnz",
         "title": "Indian Joint Family Business",
         "slug": "indian-joint-family-business",
@@ -4069,6 +5014,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_a267ff2d34db496692815cb1",
+        "title": "Indirect Network Effects",
+        "slug": "indirect-network-effects",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -4126,6 +5080,24 @@
         "universality": "context-specific"
       },
       {
+        "id": "pat_63c5d7ccb78343fe8b35ca9b",
+        "title": "Industry-Specific Compliance",
+        "slug": "industry-specific-compliance",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_4d7d6de542884a3faf9eae95",
+        "title": "Influencer Marketing",
+        "slug": "influencer-marketing",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023z6f40rvkrsv1f5sjjh",
         "title": "Informal Economy Models",
         "slug": "informal-economy-models",
@@ -4162,12 +5134,30 @@
         "universality": "universal"
       },
       {
+        "id": "pat_44ece636b25b47e18682adf3",
+        "title": "Inherent Virality",
+        "slug": "inherent-virality",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023z6f40rvkrsye9hp0md",
         "title": "Initial Comprehensive Taxonomy",
         "slug": "initial-comprehensive-taxonomy",
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_fc70964c7b69422096aefd18",
+        "title": "Initial Public Offering (IPO)",
+        "slug": "initial-public-offering-ipo",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -4261,6 +5251,24 @@
         "universality": "implementation"
       },
       {
+        "id": "pat_2ad2729d7add45bebf10735f",
+        "title": "Internal Knowledge Sharing",
+        "slug": "internal-knowledge-sharing",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_4bcec5ffdcae4f568543373e",
+        "title": "Internal Mobility",
+        "slug": "internal-mobility",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023z8f6h9wk9s2vnvz6gh",
         "title": "Internal Rate of Return (IRR)",
         "slug": "internal-rate-of-return-irr",
@@ -4304,6 +5312,15 @@
         "status": "draft",
         "confidence_score": null,
         "universality": "meta"
+      },
+      {
+        "id": "pat_6c2453d88675462b93d46a0b",
+        "title": "Investor-Controlled Board",
+        "slug": "investor-controlled-board",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
       },
       {
         "id": "pat_01kg5023z8f6h9wk9sbkpepm47",
@@ -4531,6 +5548,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_252cd7903e204e1ca67811fa",
+        "title": "KISS (Keep It Simple Security)",
+        "slug": "kiss-keep-it-simple-security",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023zae8rthxw6g828qhf5",
         "title": "Knowledge Management - Nonaka & Takeuchi",
         "slug": "knowledge-management-nonaka-takeuchi",
@@ -4558,6 +5584,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_1063ea37225a4ff4bbca4a3b",
+        "title": "KPIs (Key Performance Indicators)",
+        "slug": "kpis-key-performance-indicators",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_019c19b234db786b9b657e51a2",
         "title": "L Diversity",
         "slug": "l-diversity",
@@ -4565,6 +5600,15 @@
         "status": "draft",
         "confidence_score": null,
         "universality": "universal"
+      },
+      {
+        "id": "pat_a2b89328f8d6470b901ee687",
+        "title": "Land and Expand",
+        "slug": "land-and-expand",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
       },
       {
         "id": "pat_01kg5023vnfb1bfct0d6g13gv7",
@@ -4600,6 +5644,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_be1b3c70c14142ddbf2be7cc",
+        "title": "Leaky Bucket",
+        "slug": "leaky-bucket",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -4702,6 +5755,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_977dd81cbd024212a57e7b05",
+        "title": "Learning Budget",
+        "slug": "learning-budget",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023vnfb1bfct0ekd6f535",
         "title": "Learning Commons",
         "slug": "learning-commons",
@@ -4765,12 +5827,30 @@
         "universality": "context-specific"
       },
       {
+        "id": "pat_334a43c6411941dbb7357db4",
+        "title": "Liquidation Preferences",
+        "slug": "liquidation-preferences",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023zcf99tjg7qwcnjny4z",
         "title": "Living Building Challenge",
         "slug": "living-building-challenge",
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_edf8da4a64004e2eb9fb9448",
+        "title": "LLC (Limited Liability Company)",
+        "slug": "llc-limited-liability-company",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -4789,6 +5869,33 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_778f2f028641403dba064ffe",
+        "title": "Local Network Effects",
+        "slug": "local-network-effects",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_9eb5b321017a45b78c15e215",
+        "title": "LTV (Lifetime Value)",
+        "slug": "ltv-lifetime-value",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_c185b66870af450b8ef530a5",
+        "title": "LTV/CAC Ratio",
+        "slug": "ltvcac-ratio",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -4855,6 +5962,24 @@
         "universality": "domain"
       },
       {
+        "id": "pat_8fa7b4ca3bb14b899afa6a0a",
+        "title": "Maker Schedule vs Manager Schedule",
+        "slug": "maker-schedule-vs-manager-schedule",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_175e281afd54488fa3048725",
+        "title": "Management Buyout (MBO)",
+        "slug": "management-buyout-mbo",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023zde79btwvkjbzhafq2",
         "title": "Management by Objectives (Drucker)",
         "slug": "management-by-objectives-drucker",
@@ -4888,6 +6013,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_5c29ec4147e74120b8327783",
+        "title": "Market-Rate Compensation",
+        "slug": "market-rate-compensation",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -4972,6 +6106,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_bcc3d36e81cf40858b74cd25",
+        "title": "Meeting Discipline",
+        "slug": "meeting-discipline",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023zee2srh1rrt75t5317",
         "title": "Membership Model",
         "slug": "membership-model",
@@ -4987,6 +6130,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_08146035009d4148a6c29347",
+        "title": "Mentorship Programs",
+        "slug": "mentorship-programs",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -5077,6 +6229,24 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_47feb6370cc640baac11e9c7",
+        "title": "Mission Drift",
+        "slug": "mission-drift",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_909460dd259f4c2fba8652f4",
+        "title": "Mission-Driven Culture",
+        "slug": "mission-driven-culture",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -5233,6 +6403,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_2136c8a26b0441ca8ff5cfab",
+        "title": "MRR/ARR",
+        "slug": "mrrarr",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023wyfeht2yyewxwppn4b",
         "title": "Multi-Capital Accounting - Eight Capitals",
         "slug": "multi-capital-accounting-eight-capitals",
@@ -5267,6 +6446,15 @@
         "status": "draft",
         "confidence_score": null,
         "universality": "universal"
+      },
+      {
+        "id": "pat_fd87840733ef413d864b2e6a",
+        "title": "Multi-Stakeholder Cooperative",
+        "slug": "multi-stakeholder-cooperative",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
       },
       {
         "id": "pat_01kg50240xe19r5fzqq08kmwaq",
@@ -5359,6 +6547,15 @@
         "universality": "implementation"
       },
       {
+        "id": "pat_dbb7b63de6c84645aee2e312",
+        "title": "Negative Network Effects",
+        "slug": "negative-network-effects",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023zgfwgbwk0kpfqpmmzy",
         "title": "Nemawashi (Consensus Building)",
         "slug": "nemawashi-consensus-building",
@@ -5392,6 +6589,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_e39d542a6d944556a5220c2b",
+        "title": "Net Revenue Retention",
+        "slug": "net-revenue-retention",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -5494,12 +6700,48 @@
         "universality": "domain"
       },
       {
+        "id": "pat_48dfee4f0f3b4ffeb702edaa",
+        "title": "No Brilliant Jerks",
+        "slug": "no-brilliant-jerks",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_d6ad3477c47b41b6bfc9ffa3",
+        "title": "Non-Profit Organization",
+        "slug": "non-profit-organization",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023zhf10b0yp1t7zzcq96",
         "title": "Nordic Model - Scandinavia",
         "slug": "nordic-model-scandinavia",
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_0c51ccb309cf47d7bb288c50",
+        "title": "Office-First",
+        "slug": "office-first",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_a0d2600602764cb4b4282d28",
+        "title": "OKRs (Objectives and Key Results)",
+        "slug": "okrs-objectives-and-key-results",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -5530,12 +6772,48 @@
         "universality": "universal"
       },
       {
+        "id": "pat_05769428ae83421e9f88f581",
+        "title": "Onboarding Optimization",
+        "slug": "onboarding-optimization",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_faafc2d644184ee8a5a7b364",
+        "title": "Onboarding Program",
+        "slug": "onboarding-program",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023whehgsjwtbmb2thgxd",
         "title": "One Health Approach",
         "slug": "one-health-approach",
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_e12b13bd4b6d4ac5a019d70a",
+        "title": "One Member, One Vote",
+        "slug": "one-member-one-vote",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_e6b02cf3e102485892e217ec",
+        "title": "One-on-Ones",
+        "slug": "one-on-ones",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -5611,6 +6889,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_8b99805d805245fab30b156e",
+        "title": "Open Source Licensing",
+        "slug": "open-source-licensing",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_0a1840e19a28463ba5e28464",
         "title": "Open Standards Adoption",
         "slug": "open-standards-adoption",
@@ -5629,12 +6916,30 @@
         "universality": "universal"
       },
       {
+        "id": "pat_ad197f8da0b24c7c9d8a7118",
+        "title": "Option Pool",
+        "slug": "option-pool",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023zjes888kggxrxqam9q",
         "title": "Oral Tradition & Storytelling in Design",
         "slug": "oral-tradition-storytelling-in-design",
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_d250a1e3eb774988a507ed6b",
+        "title": "Orderly Wind-Down",
+        "slug": "orderly-wind-down",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -5656,6 +6961,24 @@
         "universality": "domain"
       },
       {
+        "id": "pat_e06c88f6459b4a639ebde84a",
+        "title": "Outbound Sales",
+        "slug": "outbound-sales",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_9a285d9385d64e67bd1e37c2",
+        "title": "Overvaluation",
+        "slug": "overvaluation",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023zjes888kgh0spq3mr6",
         "title": "Pacific Islander Systems",
         "slug": "pacific-islander-systems",
@@ -5672,6 +6995,15 @@
         "status": "draft",
         "confidence_score": null,
         "universality": 3
+      },
+      {
+        "id": "pat_c3b67287b1d54bcc94e65273",
+        "title": "Paid Engine of Growth",
+        "slug": "paid-engine-of-growth",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
       },
       {
         "id": "pat_01kg5023zjes888kgh4tvvybmx",
@@ -5719,6 +7051,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_52edb3c20f3d4883a03c3ce2",
+        "title": "Participation Rights",
+        "slug": "participation-rights",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023zketsrxaxy9cz3m109",
         "title": "Participatory Budgeting (if not in Financial)",
         "slug": "participatory-budgeting-if-not-in-financial",
@@ -5737,12 +7078,39 @@
         "universality": "domain"
       },
       {
+        "id": "pat_d5e0f39f667b4384b3461cda",
+        "title": "Partnership Marketing",
+        "slug": "partnership-marketing",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023zketsrxaxyd2yyadb6",
         "title": "Passive House",
         "slug": "passive-house",
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_0822cfbd06464a8ea3e1b0fa",
+        "title": "Patent Pool",
+        "slug": "patent-pool",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_8d1064916be7425691b5c767",
+        "title": "Patents",
+        "slug": "patents",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -5845,6 +7213,15 @@
         "universality": "universal"
       },
       {
+        "id": "pat_98f7f22424374e88a7f8d131",
+        "title": "Performance Improvement Plans (PIPs)",
+        "slug": "performance-improvement-plans-pips",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023zketsrxaxyx0mwmm0x",
         "title": "Permaculture Design",
         "slug": "permaculture-design",
@@ -5869,6 +7246,24 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_839ea18a4bdb47daac5c0650",
+        "title": "Permissive Licensing (MIT, Apache)",
+        "slug": "permissive-licensing-mit-apache",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_88bb69cc53a3408a91d09e6d",
+        "title": "Perpetual Purpose Trust",
+        "slug": "perpetual-purpose-trust",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -5971,6 +7366,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_76dd8fce42404830b10d3732",
+        "title": "Platform Cooperative",
+        "slug": "platform-cooperative",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_019c19b3544770008bbc50d158",
         "title": "Platform Cooperativism",
         "slug": "platform-cooperativism",
@@ -6013,6 +7417,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_c919e2123a044f78979645f4",
+        "title": "Platform Network Effects",
+        "slug": "platform-network-effects",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -6169,6 +7582,33 @@
         "universality": "implementation"
       },
       {
+        "id": "pat_c5dfc40144d04065b4521e1b",
+        "title": "PR and Media",
+        "slug": "pr-and-media",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_000cdbdad6a54af99fe3e383",
+        "title": "Pre-Launch Email List",
+        "slug": "pre-launch-email-list",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_6dd54de6325a42d1a83118f3",
+        "title": "Pre-Money vs Post-Money Valuation",
+        "slug": "pre-money-vs-post-money-valuation",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_placeholder",
         "title": "Precious Plastic (Distributed Recycling)",
         "slug": "precious-plastic-distributed-recycling",
@@ -6214,12 +7654,39 @@
         "universality": "domain"
       },
       {
+        "id": "pat_a78b9ce022ec44898df5986c",
+        "title": "Premature Fundraising",
+        "slug": "premature-fundraising",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_ee8aedc006e346cca3843d42",
+        "title": "Premature Scaling",
+        "slug": "premature-scaling",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023wgfr18qmwgnj2mh9kr",
         "title": "Preventive Health",
         "slug": "preventive-health",
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_0fcc76aefb5647f8adef6816",
+        "title": "Priced Equity Round",
+        "slug": "priced-equity-round",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -6275,6 +7742,15 @@
         "status": "draft",
         "confidence_score": null,
         "universality": "universal"
+      },
+      {
+        "id": "pat_8be6fde2141243d79455c09f",
+        "title": "Privacy Compliance (GDPR, CCPA)",
+        "slug": "privacy-compliance-gdpr-ccpa",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
       },
       {
         "id": "pat_019c19b234d0738f893365de15",
@@ -6340,6 +7816,15 @@
         "universality": "universal"
       },
       {
+        "id": "pat_c24fa1a6a5464fb4a11ac394",
+        "title": "Pro-Rata Rights",
+        "slug": "pro-rata-rights",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg50240yfb0rpr97qkym67st",
         "title": "Process Capability Analysis",
         "slug": "process-capability-analysis",
@@ -6374,6 +7859,15 @@
         "status": "draft",
         "confidence_score": null,
         "universality": "implementation"
+      },
+      {
+        "id": "pat_4853785a8f4345a7b6dae079",
+        "title": "Product-Led Growth (PLG)",
+        "slug": "product-led-growth-plg",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
       },
       {
         "id": "pat_01kg5023zqfzsrp86crmjftj4y",
@@ -6419,6 +7913,15 @@
         "status": "draft",
         "confidence_score": null,
         "universality": "implementation"
+      },
+      {
+        "id": "pat_00cf8eeb59754479beb344d4",
+        "title": "Profit Sharing",
+        "slug": "profit-sharing",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
       },
       {
         "id": "pat_01kg5023zqfzsrp86d02xbrtcw",
@@ -6493,6 +7996,15 @@
         "universality": "human-universal"
       },
       {
+        "id": "pat_d71bdd7c02704033b7a0d5f5",
+        "title": "Public Benefit Corporation",
+        "slug": "public-benefit-corporation",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023zqfzsrp86dbf9eqg2r",
         "title": "Public Health Models",
         "slug": "public-health-models",
@@ -6520,6 +8032,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_a340ae275bba4b9ba13a8c2d",
+        "title": "Purpose Foundation Model",
+        "slug": "purpose-foundation-model",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_019c19b234d67dff842bf320ca",
         "title": "Purpose Limitation",
         "slug": "purpose-limitation",
@@ -6544,6 +8065,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_24e969f23a234782bd8a902f",
+        "title": "Qualified Small Business Stock (QSBS)",
+        "slug": "qualified-small-business-stock-qsbs",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -6592,6 +8122,15 @@
         "universality": "universal"
       },
       {
+        "id": "pat_513c9811a47f4d15ab5c31b5",
+        "title": "Radical Candor",
+        "slug": "radical-candor",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023zrexhr77rggze9vy2c",
         "title": "Rapid Application Development (RAD)",
         "slug": "rapid-application-development-rad",
@@ -6607,6 +8146,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_0b93bdb6a57a4bd7b1a17cfd",
+        "title": "Re-engagement Campaigns",
+        "slug": "re-engagement-campaigns",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -6634,6 +8182,24 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_08aa11d257cb49cba8c3c415",
+        "title": "Reference Checks",
+        "slug": "reference-checks",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_6c2b089d543545f59519f60a",
+        "title": "Referral Programs",
+        "slug": "referral-programs",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -6745,6 +8311,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_a1ce071c44884c2aac00a52f",
+        "title": "Regulatory Arbitrage",
+        "slug": "regulatory-arbitrage",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023vqf39rban1rdba6bgq",
         "title": "Reinforcement Learning for Control Systems",
         "slug": "reinforcement-learning-for-control-systems",
@@ -6778,6 +8353,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_15dd04eb17ea49b1b232bbdc",
+        "title": "Remote-First",
+        "slug": "remote-first",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -6862,6 +8446,24 @@
         "universality": "domain"
       },
       {
+        "id": "pat_2150bf8500f14ea087aadd05",
+        "title": "Restricted Stock Units (RSUs)",
+        "slug": "restricted-stock-units-rsus",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_0cf802c9d2204eeab180f282",
+        "title": "Results-Only Work Environment (ROWE)",
+        "slug": "results-only-work-environment-rowe",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023ztenhrk74ha5vzz8fs",
         "title": "Retroactive Public Goods Funding",
         "slug": "retroactive-public-goods-funding",
@@ -6877,6 +8479,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_f9308ab3e127439a9a51fdbf",
+        "title": "Revenue-Based Financing",
+        "slug": "revenue-based-financing",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -6898,6 +8509,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_72b03e0d9a564020a501d500",
+        "title": "Reverse Trial",
+        "slug": "reverse-trial",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023zve6sv1r0bh65bkj4n",
         "title": "Rhenish Capitalism - Germany",
         "slug": "rhenish-capitalism-germany",
@@ -6913,6 +8533,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_d0628afac7724274be1620dc",
+        "title": "Right of First Refusal",
+        "slug": "right-of-first-refusal",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -7042,12 +8671,48 @@
         "universality": "universal"
       },
       {
+        "id": "pat_f7ec52e1c6f44661848d03c2",
+        "title": "Runway",
+        "slug": "runway",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_f5fb23b128744b0baa133afc",
+        "title": "S-Corporation",
+        "slug": "s-corporation",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_53de9c4dae9a43648a25cdc3",
+        "title": "SAFE (Simple Agreement for Future Equity)",
+        "slug": "safe-simple-agreement-for-future-equity",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023zve6sv1r0by9vpcbdp",
         "title": "Safety Engineering",
         "slug": "safety-engineering",
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_469e0a397baf4a5180b72585",
+        "title": "Salary Bands",
+        "slug": "salary-bands",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -7195,6 +8860,15 @@
         "universality": "universal"
       },
       {
+        "id": "pat_88fc98d28df94e6986474105",
+        "title": "Securities Compliance",
+        "slug": "securities-compliance",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_019c19b235157adf822f3b9979",
         "title": "Security as Code",
         "slug": "security-as-code",
@@ -7240,6 +8914,15 @@
         "universality": "universal"
       },
       {
+        "id": "pat_d7f4bb0b826b42f2949d93a4",
+        "title": "Seed Funding",
+        "slug": "seed-funding",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_c7f70c986cf743c5921521f9",
         "title": "Self-Sovereign Identity",
         "slug": "self-sovereign-identity",
@@ -7247,6 +8930,15 @@
         "status": "draft",
         "confidence_score": null,
         "universality": "universal"
+      },
+      {
+        "id": "pat_38d2ca5715554b9da2f872a0",
+        "title": "SEM (Search Engine Marketing)",
+        "slug": "sem-search-engine-marketing",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
       },
       {
         "id": "pat_01kg5023zwft8t7k63g9k0796z",
@@ -7267,6 +8959,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_9201d55648604cc3832a7a06",
+        "title": "SEO (Search Engine Optimization)",
+        "slug": "seo-search-engine-optimization",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg50240zfdhtkt151s162x19",
         "title": "Separation Process Design",
         "slug": "separation-process-design",
@@ -7274,6 +8975,15 @@
         "status": "draft",
         "confidence_score": null,
         "universality": "implementation"
+      },
+      {
+        "id": "pat_82ef8b3b72d047dda22a8321",
+        "title": "Series A/B/C",
+        "slug": "series-abc",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
       },
       {
         "id": "pat_01kg5023zxf81byjg36v3g80vk",
@@ -7438,6 +9148,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_302ced04943a43529a68d114",
+        "title": "Severance Packages",
+        "slug": "severance-packages",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023zyebsatbkqwveseny5",
         "title": "Shaker Design Principles",
         "slug": "shaker-design-principles",
@@ -7510,6 +9229,24 @@
         "universality": "domain"
       },
       {
+        "id": "pat_6ed8513d3da943a6ab6dbd9e",
+        "title": "Single Channel Dependency",
+        "slug": "single-channel-dependency",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_0479fed1665c47bfa8f8779a",
+        "title": "Single Point of Failure",
+        "slug": "single-point-of-failure",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023x5fprarvy4w4fqephv",
         "title": "Site Reliability Engineering (SRE) - Google",
         "slug": "site-reliability-engineering-sre-google",
@@ -7570,6 +9307,24 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_5367ea83965441b6ad20a1cc",
+        "title": "Skills-Based Hiring",
+        "slug": "skills-based-hiring",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_d759e69a2aad484e8355a0a0",
+        "title": "Skip-Level Meetings",
+        "slug": "skip-level-meetings",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -7708,6 +9463,24 @@
         "universality": "domain"
       },
       {
+        "id": "pat_38319d1aca754c07bbe2e9f7",
+        "title": "Social Media Marketing",
+        "slug": "social-media-marketing",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_65967e12e666405db15b5cb9",
+        "title": "Social Proof",
+        "slug": "social-proof",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg502401ejststrxtvezrv53",
         "title": "Social-Technical Systems Design",
         "slug": "social-technical-systems-design",
@@ -7798,6 +9571,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_01c70954fc4b4e6bb89c22ad",
+        "title": "Solo Founder",
+        "slug": "solo-founder",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg502401ejststry468cfqq8",
         "title": "Southeast Asian Family Business",
         "slug": "southeast-asian-family-business",
@@ -7814,6 +9596,15 @@
         "status": "draft",
         "confidence_score": null,
         "universality": "universal"
+      },
+      {
+        "id": "pat_62d67cd3de614fecacd78622",
+        "title": "SPAC Merger",
+        "slug": "spac-merger",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
       },
       {
         "id": "pat_01kg502402e8s98e5wbxr72f6m",
@@ -7942,12 +9733,39 @@
         "universality": "universal"
       },
       {
+        "id": "pat_f842eed94e074e1680f924ce",
+        "title": "Steward-Ownership",
+        "slug": "steward-ownership",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg502403e39rjfyp1cz2nt0e",
         "title": "Stewardship Governance",
         "slug": "stewardship-governance",
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_98ff5ee740804903971d3a4a",
+        "title": "Sticky Engine of Growth",
+        "slug": "sticky-engine-of-growth",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_e95427c22c1b445b907a3fcc",
+        "title": "Stock Options (ISO/NSO)",
+        "slug": "stock-options-isonso",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -7978,6 +9796,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_b519fac63080493682924e96",
+        "title": "Strategic Investment",
+        "slug": "strategic-investment",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg5023wae40t6kxjgs1e5bq3",
         "title": "Strategy Diamond - Hambrick & Frederickson",
         "slug": "strategy-diamond-hambrick-frederickson",
@@ -8005,6 +9832,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_b848f281398d4c54b00276c5",
+        "title": "Structured Interviews",
+        "slug": "structured-interviews",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg502403e39rjfypb71w2jqd",
         "title": "Subscription Model - Recurring Revenue",
         "slug": "subscription-model-recurring-revenue",
@@ -8020,6 +9856,24 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_d3a93fa958d94729b1f27e08",
+        "title": "Succession Planning",
+        "slug": "succession-planning",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_6946150e0d3f45d29a81d371",
+        "title": "Supermajority Requirements",
+        "slug": "supermajority-requirements",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -8201,6 +10055,15 @@
         "status": "draft",
         "confidence_score": null,
         "universality": "universal"
+      },
+      {
+        "id": "pat_a1952885a59c4d0389f95a73",
+        "title": "Tag-Along Rights",
+        "slug": "tag-along-rights",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
       },
       {
         "id": "pat_01kg502404e39b225z86mg9eeg",
@@ -8392,6 +10255,15 @@
         "universality": "domain"
       },
       {
+        "id": "pat_1874d673edea4a559e6f72b3",
+        "title": "Tiered Referral Rewards",
+        "slug": "tiered-referral-rewards",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg502406fvs8fk4841150y89",
         "title": "Time Banking for Collaborative Making",
         "slug": "time-banking-for-collaborative-making",
@@ -8497,6 +10369,24 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_3dfb6250f3c443a786fadb9f",
+        "title": "Trade Secrets",
+        "slug": "trade-secrets",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_5b19baed4a0143df9c5b41d6",
+        "title": "Trademarks",
+        "slug": "trademarks",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -8608,12 +10498,30 @@
         "universality": "domain"
       },
       {
+        "id": "pat_46bd2367ebed4db3b916aa87",
+        "title": "Transparent Compensation",
+        "slug": "transparent-compensation",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg502408eg1s5s6d1rz20gx2",
         "title": "Treasury Management",
         "slug": "treasury-management",
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_39871fe19f314936843c884b",
+        "title": "Trial Projects",
+        "slug": "trial-projects",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -8650,6 +10558,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_ddc4fc2fbda24b4181dda11d",
+        "title": "Two-Sided Network Effects",
+        "slug": "two-sided-network-effects",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -8704,6 +10621,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_88be01a3555e4473837cafdc",
+        "title": "Unit Economics",
+        "slug": "unit-economics",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -8768,6 +10694,15 @@
         "status": "draft",
         "confidence_score": null,
         "universality": "universal"
+      },
+      {
+        "id": "pat_15b4d0c266fa4c3f87ad724d",
+        "title": "User-Generated Content",
+        "slug": "user-generated-content",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
       },
       {
         "id": "pat_01kg502409fv0sm380favdzaac",
@@ -8896,6 +10831,33 @@
         "universality": "domain"
       },
       {
+        "id": "pat_dab6631533e64be487143e3f",
+        "title": "Values Definition",
+        "slug": "values-definition",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_488920f3ce544c39911a7ee1",
+        "title": "Vanity Metrics in Finance",
+        "slug": "vanity-metrics-in-finance",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_05780bded4e8449ab7b16c19",
+        "title": "Vanity Metrics",
+        "slug": "vanity-metrics",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_01kg50240bf4ra2qcwzbr0168k",
         "title": "Vastu Shastra",
         "slug": "vastu-shastra",
@@ -8921,6 +10883,15 @@
         "status": "draft",
         "confidence_score": null,
         "universality": "universal"
+      },
+      {
+        "id": "pat_69088c177bc443f987f734bc",
+        "title": "Venture Debt",
+        "slug": "venture-debt",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
       },
       {
         "id": "pat_019c19b235247b639312665ad2",
@@ -8965,6 +10936,51 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_33606777ce4e4a78aeb26a98",
+        "title": "Vesting Schedules",
+        "slug": "vesting-schedules",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_5e18facff4b348e6a50c40a1",
+        "title": "Viral Coefficient (K-Factor)",
+        "slug": "viral-coefficient-k-factor",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_973f85d2e55b44b3a878c6c4",
+        "title": "Viral Cycle Time",
+        "slug": "viral-cycle-time",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_edb39e09e53f44308de5774a",
+        "title": "Viral Engine of Growth",
+        "slug": "viral-engine-of-growth",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_f0002eb8d71c401fad46a2eb",
+        "title": "Viral Loop",
+        "slug": "viral-loop",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -9019,6 +11035,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_ec690213fcf245c6a325ca02",
+        "title": "Waitlist with Virality",
+        "slug": "waitlist-with-virality",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -9121,12 +11146,30 @@
         "universality": "domain"
       },
       {
+        "id": "pat_fefc2c22909b4b2fa3e677a9",
+        "title": "Word-of-Mouth Virality",
+        "slug": "word-of-mouth-virality",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
+        "universality": "domain"
+      },
+      {
         "id": "pat_28f138a4ae734ce4a76ae2611d",
         "title": "Worker Cooperative Product Development Models",
         "slug": "worker-cooperative-product-development-models",
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_f6fe6fd9033740979df80cca",
+        "title": "Worker Cooperative",
+        "slug": "worker-cooperative",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -9145,6 +11188,15 @@
         "domain": "business",
         "status": "draft",
         "confidence_score": null,
+        "universality": "domain"
+      },
+      {
+        "id": "pat_a537f5369f0143a5a29df64e",
+        "title": "Working Groups / Circles",
+        "slug": "working-groups-circles",
+        "domain": "startup",
+        "status": "draft",
+        "confidence_score": 0.7,
         "universality": "domain"
       },
       {
@@ -9242,16 +11294,16 @@
   },
   "edges": [],
   "stats": {
-    "total_patterns": 1026,
+    "total_patterns": 1254,
     "total_lighthouses": 0,
     "total_relationships": 0,
     "patterns_by_status": {
-      "draft": 1026
+      "draft": 1254
     },
     "patterns_by_domain": {
+      "startup": 236,
       "business": 933,
-      "security": 85,
-      "startup": 8
+      "security": 85
     }
   }
 }

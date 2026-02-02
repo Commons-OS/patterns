@@ -1,5 +1,13 @@
 [
   {
+    "title": "360-Degree Feedback",
+    "url": "/patterns/360-degree-feedback/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "5S Methodology - Workplace Organization",
     "url": "/patterns/5s-methodology-workplace-organization/",
     "classification": [],
@@ -16,6 +24,14 @@
     "score": 3
   },
   {
+    "title": "83(b) Election",
+    "url": "/patterns/83b-election/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "A3 Thinking - Toyota Problem Solving",
     "url": "/patterns/a3-thinking-toyota-problem-solving/",
     "classification": [],
@@ -30,6 +46,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "AARRR Framework (Pirate Metrics)",
+    "url": "/patterns/aarrr-framework-pirate-metrics/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "A/B Testing",
@@ -64,6 +88,14 @@
     "score": 3
   },
   {
+    "title": "Acceleration Clauses",
+    "url": "/patterns/acceleration-clauses/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Access Control",
     "url": "/patterns/access-control/",
     "classification": [],
@@ -72,12 +104,36 @@
     "score": 3
   },
   {
+    "title": "Acqui-hire",
+    "url": "/patterns/acqui-hire/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Acquisition (M&A)",
+    "url": "/patterns/acquisition-ma/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Action Learning - Revans",
     "url": "/patterns/action-learning-revans/",
     "classification": [],
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Activation Milestones",
+    "url": "/patterns/activation-milestones/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Activity-Based Costing (ABC) - Cost Allocation",
@@ -176,12 +232,36 @@
     "score": 3
   },
   {
+    "title": "Advice Process",
+    "url": "/patterns/advice-process/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Advisory Board",
+    "url": "/patterns/advisory-board/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Advisory Boards & Governance",
     "url": "/patterns/advisory-boards-governance/",
     "classification": [],
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Affiliate Marketing",
+    "url": "/patterns/affiliate-marketing/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "African Socialism",
@@ -408,6 +488,22 @@
     "score": 3
   },
   {
+    "title": "All-Hands Meetings",
+    "url": "/patterns/all-hands-meetings/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Alumni Networks",
+    "url": "/patterns/alumni-networks/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Amazonian Indigenous Systems",
     "url": "/patterns/amazonian-indigenous-systems/",
     "classification": [],
@@ -432,6 +528,14 @@
     "score": 3
   },
   {
+    "title": "Angel Investment",
+    "url": "/patterns/angel-investment/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Anonymization",
     "url": "/patterns/anonymization/",
     "classification": [],
@@ -454,6 +558,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Anti-Dilution Provisions",
+    "url": "/patterns/anti-dilution-provisions/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "API Abstraction Layer",
@@ -520,6 +632,14 @@
     "score": 3
   },
   {
+    "title": "Artificial Virality",
+    "url": "/patterns/artificial-virality/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Arts and Crafts Movement Design Principles",
     "url": "/patterns/arts-and-crafts-movement-design-principles/",
     "classification": [],
@@ -550,6 +670,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Async-First Communication",
+    "url": "/patterns/async-first-communication/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Attribute-Based Credentials (ABCs)",
@@ -664,6 +792,14 @@
     "score": 3
   },
   {
+    "title": "B-Corporation",
+    "url": "/patterns/b-corporation/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "B Impact Assessment - B Corp Measurement",
     "url": "/patterns/b-impact-assessment-b-corp-measurement/",
     "classification": [],
@@ -752,6 +888,14 @@
     "score": 3
   },
   {
+    "title": "Below-Market + Equity",
+    "url": "/patterns/below-market-equity/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Benchmarking",
     "url": "/patterns/benchmarking/",
     "classification": [],
@@ -766,6 +910,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Benefits Package",
+    "url": "/patterns/benefits-package/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Best Practices Transfer",
@@ -872,6 +1024,38 @@
     "score": 3
   },
   {
+    "title": "Board Observer Rights",
+    "url": "/patterns/board-observer-rights/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Bonus Structures",
+    "url": "/patterns/bonus-structures/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Bootstrapping",
+    "url": "/patterns/bootstrapping/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Bottom-Up Adoption",
+    "url": "/patterns/bottom-up-adoption/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Brain-Computer Interface (BCI) Design",
     "url": "/patterns/brain-computer-interface-bci-design/",
     "classification": [],
@@ -886,6 +1070,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Bridge Financing",
+    "url": "/patterns/bridge-financing/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "British Cooperative Movement",
@@ -944,6 +1136,14 @@
     "score": 3
   },
   {
+    "title": "Burn Rate",
+    "url": "/patterns/burn-rate/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Business Model Canvas (Osterwalder)",
     "url": "/patterns/business-model-canvas-osterwalder/",
     "classification": [],
@@ -960,12 +1160,44 @@
     "score": 3
   },
   {
+    "title": "C-Corporation",
+    "url": "/patterns/c-corporation/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "CAC (Customer Acquisition Cost)",
+    "url": "/patterns/cac-customer-acquisition-cost/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "CAD/CAM Integration",
     "url": "/patterns/cadcam-integration/",
     "classification": [],
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Calibration Sessions",
+    "url": "/patterns/calibration-sessions/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Cap Table Management",
+    "url": "/patterns/cap-table-management/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Capital Budgeting",
@@ -990,6 +1222,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Career Ladders",
+    "url": "/patterns/career-ladders/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Cash Flow Management",
@@ -1072,6 +1312,22 @@
     "score": 3
   },
   {
+    "title": "Churn Prevention",
+    "url": "/patterns/churn-prevention/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Churn Rate",
+    "url": "/patterns/churn-rate/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "CIRCLES Method",
     "url": "/patterns/circles-method/",
     "classification": [],
@@ -1110,6 +1366,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Cliff",
+    "url": "/patterns/cliff/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Cloud Native Architecture Kubernetes Containers",
@@ -1152,6 +1416,14 @@
     "score": 3
   },
   {
+    "title": "Co-Founder Selection",
+    "url": "/patterns/co-founder-selection/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Co-housing",
     "url": "/patterns/co-housing/",
     "classification": [],
@@ -1166,6 +1438,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Cold Outreach",
+    "url": "/patterns/cold-outreach/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Collaborative Filtering",
@@ -1318,6 +1598,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Community-Led Growth",
+    "url": "/patterns/community-led-growth/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Community-Owned Production",
@@ -1488,6 +1776,14 @@
     "score": 3
   },
   {
+    "title": "Consensus Decision Making",
+    "url": "/patterns/consensus-decision-making/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Consent Agenda - Quaker-Based",
     "url": "/patterns/consent-agenda-quaker-based/",
     "classification": [],
@@ -1520,6 +1816,14 @@
     "score": 3
   },
   {
+    "title": "Consent Rights",
+    "url": "/patterns/consent-rights/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Consulting Firm Proprietary Frameworks",
     "url": "/patterns/consulting-firm-proprietary-frameworks/",
     "classification": [],
@@ -1536,6 +1840,14 @@
     "score": 3
   },
   {
+    "title": "Consumer Cooperative",
+    "url": "/patterns/consumer-cooperative/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Container Based Portability",
     "url": "/patterns/container-based-portability/",
     "classification": [],
@@ -1550,6 +1862,14 @@
     "description": "",
     "domain": "security",
     "score": 3
+  },
+  {
+    "title": "Content Marketing",
+    "url": "/patterns/content-marketing/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Contextual Inquiry",
@@ -1616,12 +1936,36 @@
     "score": 3
   },
   {
+    "title": "Continuous Performance Management",
+    "url": "/patterns/continuous-performance-management/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Contractor to Employee Pipeline",
+    "url": "/patterns/contractor-to-employee-pipeline/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Control Charts",
     "url": "/patterns/control-charts/",
     "classification": [],
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Convertible Notes",
+    "url": "/patterns/convertible-notes/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Cooperative Business Models - Detailed",
@@ -1688,12 +2032,36 @@
     "score": 3
   },
   {
+    "title": "Cooperative",
+    "url": "/patterns/cooperative/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Copyfair Licensing",
     "url": "/patterns/copyfair-licensing/",
     "classification": [],
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Copyleft (GPL)",
+    "url": "/patterns/copyleft-gpl/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Copyrights",
+    "url": "/patterns/copyrights/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Core Competence Theory",
@@ -1728,12 +2096,28 @@
     "score": 3
   },
   {
+    "title": "Corporate Venture Capital",
+    "url": "/patterns/corporate-venture-capital/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Cradle-to-Cradle Design",
     "url": "/patterns/cradle-to-cradle-design/",
     "classification": [],
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Creative Commons",
+    "url": "/patterns/creative-commons/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Credit Union Governance",
@@ -1758,6 +2142,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Crowdfunding (Rewards)",
+    "url": "/patterns/crowdfunding-rewards/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Crowdsourcing Model",
@@ -1800,6 +2192,14 @@
     "score": 3
   },
   {
+    "title": "Culture Documentation",
+    "url": "/patterns/culture-documentation/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Customer Experience (CX) Management",
     "url": "/patterns/customer-experience-cx-management/",
     "classification": [],
@@ -1814,6 +2214,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Customer Success",
+    "url": "/patterns/customer-success/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Cyber-Physical Systems (CPS)",
@@ -1870,6 +2278,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Data Network Effects",
+    "url": "/patterns/data-network-effects/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Data Portability",
@@ -1952,6 +2368,14 @@
     "score": 3
   },
   {
+    "title": "Defensive Patent Pledge",
+    "url": "/patterns/defensive-patent-pledge/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "DeFi (Decentralized Finance)",
     "url": "/patterns/defi-decentralized-finance/",
     "classification": [],
@@ -1966,6 +2390,22 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Delaware Incorporation",
+    "url": "/patterns/delaware-incorporation/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Delegation Poker",
+    "url": "/patterns/delegation-poker/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Deliberative Democracy - Fishkin",
@@ -2232,6 +2672,30 @@
     "score": 3
   },
   {
+    "title": "Dilution",
+    "url": "/patterns/dilution/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Direct Listing",
+    "url": "/patterns/direct-listing/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Direct Network Effects",
+    "url": "/patterns/direct-network-effects/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Direct Sales Model",
     "url": "/patterns/direct-sales-model/",
     "classification": [],
@@ -2304,6 +2768,14 @@
     "score": 3
   },
   {
+    "title": "Diverse Hiring",
+    "url": "/patterns/diverse-hiring/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Diversity & Inclusion Frameworks",
     "url": "/patterns/diversity-inclusion-frameworks/",
     "classification": [],
@@ -2344,6 +2816,14 @@
     "score": 3
   },
   {
+    "title": "Documentation Culture",
+    "url": "/patterns/documentation-culture/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Documented: Published, Described, Accessible",
     "url": "/patterns/documented-published-described-accessible/",
     "classification": [],
@@ -2368,6 +2848,14 @@
     "score": 3
   },
   {
+    "title": "Double-Sided Referrals",
+    "url": "/patterns/double-sided-referrals/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Doughnut Economics: Kate Raworth",
     "url": "/patterns/doughnut-economics-kate-raworth/",
     "classification": [],
@@ -2382,6 +2870,22 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Down Round",
+    "url": "/patterns/down-round/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Drag-Along Rights",
+    "url": "/patterns/drag-along-rights/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Driver-Based Planning - Predictive Modeling",
@@ -2568,6 +3072,30 @@
     "score": 3
   },
   {
+    "title": "Employee Buyout",
+    "url": "/patterns/employee-buyout/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Employee Ownership Trust (EOT)",
+    "url": "/patterns/employee-ownership-trust-eot/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Employment Law Compliance",
+    "url": "/patterns/employment-law-compliance/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Encryption",
     "url": "/patterns/encryption/",
     "classification": [],
@@ -2592,6 +3120,14 @@
     "score": 3
   },
   {
+    "title": "Engagement Loops",
+    "url": "/patterns/engagement-loops/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Enterprise Resource Planning (ERP)",
     "url": "/patterns/enterprise-resource-planning-erp/",
     "classification": [],
@@ -2608,12 +3144,36 @@
     "score": 3
   },
   {
+    "title": "Equity Crowdfunding",
+    "url": "/patterns/equity-crowdfunding/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Equity Refresh Grants",
+    "url": "/patterns/equity-refresh-grants/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "ESG Framework",
     "url": "/patterns/esg-framework/",
     "classification": [],
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "ESOP (Employee Stock Ownership Plan)",
+    "url": "/patterns/esop-employee-stock-ownership-plan/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Ethical Leadership",
@@ -2640,12 +3200,28 @@
     "score": 3
   },
   {
+    "title": "Event Marketing",
+    "url": "/patterns/event-marketing/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Evolutionary Economics",
     "url": "/patterns/evolutionary-economics/",
     "classification": [],
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Exit Interviews",
+    "url": "/patterns/exit-interviews/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Experience Design (XD)",
@@ -2712,6 +3288,14 @@
     "score": 3
   },
   {
+    "title": "Extension Round",
+    "url": "/patterns/extension-round/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Extreme Programming (XP) - Beck's Methodology",
     "url": "/patterns/extreme-programming-xp-becks-methodology/",
     "classification": [],
@@ -2774,6 +3358,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Family Offices",
+    "url": "/patterns/family-offices/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Farm-to-Table",
@@ -2848,6 +3440,14 @@
     "score": 3
   },
   {
+    "title": "Feedback Culture",
+    "url": "/patterns/feedback-culture/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Feminist Economics",
     "url": "/patterns/feminist-economics/",
     "classification": [],
@@ -2872,6 +3472,14 @@
     "score": 3
   },
   {
+    "title": "Financial Projections",
+    "url": "/patterns/financial-projections/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Financial Ratio Analysis",
     "url": "/patterns/financial-ratio-analysis/",
     "classification": [],
@@ -2888,12 +3496,36 @@
     "score": 3
   },
   {
+    "title": "First Hire",
+    "url": "/patterns/first-hire/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "First Nations (North America)",
     "url": "/patterns/first-nations-north-america/",
     "classification": [],
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Flat Hierarchy",
+    "url": "/patterns/flat-hierarchy/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Flat Round",
+    "url": "/patterns/flat-round/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Flexible Manufacturing Systems (FMS)",
@@ -2928,6 +3560,14 @@
     "score": 3
   },
   {
+    "title": "Foundation",
+    "url": "/patterns/foundation/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Foundational Economy - Essential Services",
     "url": "/patterns/foundational-economy-essential-services/",
     "classification": [],
@@ -2942,6 +3582,78 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Founder Agreements",
+    "url": "/patterns/founder-agreements/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Founder Burnout",
+    "url": "/patterns/founder-burnout/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Founder Conflict Resolution",
+    "url": "/patterns/founder-conflict-resolution/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Founder-Controlled Board",
+    "url": "/patterns/founder-controlled-board/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Founder Dictatorship",
+    "url": "/patterns/founder-dictatorship/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Founder Equity Split",
+    "url": "/patterns/founder-equity-split/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Founder-Unfriendly Terms",
+    "url": "/patterns/founder-unfriendly-terms/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Founder Vesting",
+    "url": "/patterns/founder-vesting/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Four-Day Work Week",
+    "url": "/patterns/four-day-work-week/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Fourth Generation R&D",
@@ -2966,6 +3678,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Free Trial",
+    "url": "/patterns/free-trial/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Freemium Model",
@@ -3192,6 +3912,14 @@
     "score": 3
   },
   {
+    "title": "Golden Share",
+    "url": "/patterns/golden-share/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Good Manufacturing Practice Gmp For Food",
     "url": "/patterns/good-manufacturing-practice-gmp-for-food/",
     "classification": [],
@@ -3206,6 +3934,38 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Governance Theater",
+    "url": "/patterns/governance-theater/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Government Programs",
+    "url": "/patterns/government-programs/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Graceful Exits",
+    "url": "/patterns/graceful-exits/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Grants",
+    "url": "/patterns/grants/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Green Building (LEED, BREEAM)",
@@ -3240,6 +4000,30 @@
     "score": 3
   },
   {
+    "title": "Gross Margin",
+    "url": "/patterns/gross-margin/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Growth at All Costs",
+    "url": "/patterns/growth-at-all-costs/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Growth Loops",
+    "url": "/patterns/growth-loops/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Growth Mindset (Dweck)",
     "url": "/patterns/growth-mindset-dweck/",
     "classification": [],
@@ -3254,6 +4038,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Habit Formation",
+    "url": "/patterns/habit-formation/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Hackerspaces / Makerspaces",
@@ -3326,6 +4118,30 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Hire for Culture Add",
+    "url": "/patterns/hire-for-culture-add/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Hire for Mission Alignment",
+    "url": "/patterns/hire-for-mission-alignment/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Hiring Too Fast",
+    "url": "/patterns/hiring-too-fast/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Holding Company Model",
@@ -3456,6 +4272,14 @@
     "score": 3
   },
   {
+    "title": "Hybrid Work",
+    "url": "/patterns/hybrid-work/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Hydroponics",
     "url": "/patterns/hydroponics/",
     "classification": [],
@@ -3528,6 +4352,14 @@
     "score": 3
   },
   {
+    "title": "Impact Investors",
+    "url": "/patterns/impact-investors/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Implemented: Evidence of Real-World Use",
     "url": "/patterns/implemented-evidence-of-real-world-use/",
     "classification": [],
@@ -3576,6 +4408,14 @@
     "score": 3
   },
   {
+    "title": "Independent Board Majority",
+    "url": "/patterns/independent-board-majority/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Indian Joint Family Business",
     "url": "/patterns/indian-joint-family-business/",
     "classification": [],
@@ -3614,6 +4454,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Indirect Network Effects",
+    "url": "/patterns/indirect-network-effects/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Industrial Ecology - Closed-Loop Systems",
@@ -3664,6 +4512,22 @@
     "score": 3
   },
   {
+    "title": "Industry-Specific Compliance",
+    "url": "/patterns/industry-specific-compliance/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Influencer Marketing",
+    "url": "/patterns/influencer-marketing/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Informal Economy Models",
     "url": "/patterns/informal-economy-models/",
     "classification": [],
@@ -3696,12 +4560,28 @@
     "score": 3
   },
   {
+    "title": "Inherent Virality",
+    "url": "/patterns/inherent-virality/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Initial Comprehensive Taxonomy",
     "url": "/patterns/initial-comprehensive-taxonomy/",
     "classification": [],
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Initial Public Offering (IPO)",
+    "url": "/patterns/initial-public-offering-ipo/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Input Validation",
@@ -3784,6 +4664,22 @@
     "score": 3
   },
   {
+    "title": "Internal Knowledge Sharing",
+    "url": "/patterns/internal-knowledge-sharing/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Internal Mobility",
+    "url": "/patterns/internal-mobility/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Internal Rate of Return (IRR)",
     "url": "/patterns/internal-rate-of-return-irr/",
     "classification": [],
@@ -3822,6 +4718,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Investor-Controlled Board",
+    "url": "/patterns/investor-controlled-board/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "IPC Standards for PCB Design (IPC-2221)",
@@ -4024,6 +4928,14 @@
     "score": 3
   },
   {
+    "title": "KISS (Keep It Simple Security)",
+    "url": "/patterns/kiss-keep-it-simple-security/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Knowledge Management - Nonaka & Takeuchi",
     "url": "/patterns/knowledge-management-nonaka-takeuchi/",
     "classification": [],
@@ -4048,12 +4960,28 @@
     "score": 3
   },
   {
+    "title": "KPIs (Key Performance Indicators)",
+    "url": "/patterns/kpis-key-performance-indicators/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "L Diversity",
     "url": "/patterns/l-diversity/",
     "classification": [],
     "description": "",
     "domain": "security",
     "score": 3
+  },
+  {
+    "title": "Land and Expand",
+    "url": "/patterns/land-and-expand/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Land Trusts",
@@ -4086,6 +5014,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Leaky Bucket",
+    "url": "/patterns/leaky-bucket/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Lean Accounting - Value Stream Costing",
@@ -4176,6 +5112,14 @@
     "score": 3
   },
   {
+    "title": "Learning Budget",
+    "url": "/patterns/learning-budget/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Learning Commons",
     "url": "/patterns/learning-commons/",
     "classification": [],
@@ -4232,12 +5176,28 @@
     "score": 3
   },
   {
+    "title": "Liquidation Preferences",
+    "url": "/patterns/liquidation-preferences/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Living Building Challenge",
     "url": "/patterns/living-building-challenge/",
     "classification": [],
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "LLC (Limited Liability Company)",
+    "url": "/patterns/llc-limited-liability-company/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Local Manufacturing",
@@ -4254,6 +5214,30 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Local Network Effects",
+    "url": "/patterns/local-network-effects/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "LTV (Lifetime Value)",
+    "url": "/patterns/ltv-lifetime-value/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "LTV/CAC Ratio",
+    "url": "/patterns/ltvcac-ratio/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Maasai (East Africa)",
@@ -4312,6 +5296,22 @@
     "score": 3
   },
   {
+    "title": "Maker Schedule vs Manager Schedule",
+    "url": "/patterns/maker-schedule-vs-manager-schedule/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Management Buyout (MBO)",
+    "url": "/patterns/management-buyout-mbo/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Management by Objectives (Drucker)",
     "url": "/patterns/management-by-objectives-drucker/",
     "classification": [],
@@ -4342,6 +5342,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Market-Rate Compensation",
+    "url": "/patterns/market-rate-compensation/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Marketplace Model - Two-Sided Platforms",
@@ -4416,6 +5424,14 @@
     "score": 3
   },
   {
+    "title": "Meeting Discipline",
+    "url": "/patterns/meeting-discipline/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Membership Model",
     "url": "/patterns/membership-model/",
     "classification": [],
@@ -4430,6 +5446,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Mentorship Programs",
+    "url": "/patterns/mentorship-programs/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Meritocracy Models",
@@ -4510,6 +5534,22 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Mission Drift",
+    "url": "/patterns/mission-drift/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Mission-Driven Culture",
+    "url": "/patterns/mission-driven-culture/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Mittelstand - German SME Model",
@@ -4648,6 +5688,14 @@
     "score": 3
   },
   {
+    "title": "MRR/ARR",
+    "url": "/patterns/mrrarr/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Multi-Capital Accounting - Eight Capitals",
     "url": "/patterns/multi-capital-accounting-eight-capitals/",
     "classification": [],
@@ -4678,6 +5726,14 @@
     "description": "",
     "domain": "security",
     "score": 3
+  },
+  {
+    "title": "Multi-Stakeholder Cooperative",
+    "url": "/patterns/multi-stakeholder-cooperative/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Multi-Stakeholder Governance - Formal Frameworks",
@@ -4760,6 +5816,14 @@
     "score": 3
   },
   {
+    "title": "Negative Network Effects",
+    "url": "/patterns/negative-network-effects/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Nemawashi (Consensus Building)",
     "url": "/patterns/nemawashi-consensus-building/",
     "classification": [],
@@ -4790,6 +5854,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Net Revenue Retention",
+    "url": "/patterns/net-revenue-retention/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Net Zero Energy",
@@ -4880,12 +5952,44 @@
     "score": 3
   },
   {
+    "title": "No Brilliant Jerks",
+    "url": "/patterns/no-brilliant-jerks/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Non-Profit Organization",
+    "url": "/patterns/non-profit-organization/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Nordic Model - Scandinavia",
     "url": "/patterns/nordic-model-scandinavia/",
     "classification": [],
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Office-First",
+    "url": "/patterns/office-first/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "OKRs (Objectives and Key Results)",
+    "url": "/patterns/okrs-objectives-and-key-results/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "On Demand Manufacturing",
@@ -4912,12 +6016,44 @@
     "score": 3
   },
   {
+    "title": "Onboarding Optimization",
+    "url": "/patterns/onboarding-optimization/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Onboarding Program",
+    "url": "/patterns/onboarding-program/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "One Health Approach",
     "url": "/patterns/one-health-approach/",
     "classification": [],
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "One Member, One Vote",
+    "url": "/patterns/one-member-one-vote/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "One-on-Ones",
+    "url": "/patterns/one-on-ones/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Online Learning Models",
@@ -4984,6 +6120,14 @@
     "score": 3
   },
   {
+    "title": "Open Source Licensing",
+    "url": "/patterns/open-source-licensing/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Open Standards Adoption",
     "url": "/patterns/open-standards-adoption/",
     "classification": [],
@@ -5000,12 +6144,28 @@
     "score": 3
   },
   {
+    "title": "Option Pool",
+    "url": "/patterns/option-pool/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Oral Tradition & Storytelling in Design",
     "url": "/patterns/oral-tradition-storytelling-in-design/",
     "classification": [],
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Orderly Wind-Down",
+    "url": "/patterns/orderly-wind-down/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Organic Certification Systems",
@@ -5024,6 +6184,22 @@
     "score": 3
   },
   {
+    "title": "Outbound Sales",
+    "url": "/patterns/outbound-sales/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Overvaluation",
+    "url": "/patterns/overvaluation/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Pacific Islander Systems",
     "url": "/patterns/pacific-islander-systems/",
     "classification": [],
@@ -5038,6 +6214,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Paid Engine of Growth",
+    "url": "/patterns/paid-engine-of-growth/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Pair Programming",
@@ -5080,6 +6264,14 @@
     "score": 3
   },
   {
+    "title": "Participation Rights",
+    "url": "/patterns/participation-rights/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Participatory Budgeting (if not in Financial)",
     "url": "/patterns/participatory-budgeting-if-not-in-financial/",
     "classification": [],
@@ -5096,12 +6288,36 @@
     "score": 3
   },
   {
+    "title": "Partnership Marketing",
+    "url": "/patterns/partnership-marketing/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Passive House",
     "url": "/patterns/passive-house/",
     "classification": [],
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Patent Pool",
+    "url": "/patterns/patent-pool/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Patents",
+    "url": "/patterns/patents/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Path-Goal Theory",
@@ -5192,6 +6408,14 @@
     "score": 3
   },
   {
+    "title": "Performance Improvement Plans (PIPs)",
+    "url": "/patterns/performance-improvement-plans-pips/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Permaculture Design",
     "url": "/patterns/permaculture-design/",
     "classification": [],
@@ -5214,6 +6438,22 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Permissive Licensing (MIT, Apache)",
+    "url": "/patterns/permissive-licensing-mit-apache/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Perpetual Purpose Trust",
+    "url": "/patterns/perpetual-purpose-trust/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Persona Development",
@@ -5304,6 +6544,14 @@
     "score": 3
   },
   {
+    "title": "Platform Cooperative",
+    "url": "/patterns/platform-cooperative/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Platform Cooperativism",
     "url": "/patterns/platform-cooperativism/",
     "classification": [],
@@ -5342,6 +6590,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Platform Network Effects",
+    "url": "/patterns/platform-network-effects/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Platform Strategy",
@@ -5480,6 +6736,30 @@
     "score": 3
   },
   {
+    "title": "PR and Media",
+    "url": "/patterns/pr-and-media/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Pre-Launch Email List",
+    "url": "/patterns/pre-launch-email-list/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Pre-Money vs Post-Money Valuation",
+    "url": "/patterns/pre-money-vs-post-money-valuation/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Precious Plastic (Distributed Recycling)",
     "url": "/patterns/precious-plastic-distributed-recycling/",
     "classification": [],
@@ -5520,12 +6800,36 @@
     "score": 3
   },
   {
+    "title": "Premature Fundraising",
+    "url": "/patterns/premature-fundraising/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Premature Scaling",
+    "url": "/patterns/premature-scaling/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Preventive Health",
     "url": "/patterns/preventive-health/",
     "classification": [],
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Priced Equity Round",
+    "url": "/patterns/priced-equity-round/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Principle of Least Privilege (PoLP)",
@@ -5574,6 +6878,14 @@
     "description": "",
     "domain": "security",
     "score": 3
+  },
+  {
+    "title": "Privacy Compliance (GDPR, CCPA)",
+    "url": "/patterns/privacy-compliance-gdpr-ccpa/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Privacy Dashboard",
@@ -5632,6 +6944,14 @@
     "score": 3
   },
   {
+    "title": "Pro-Rata Rights",
+    "url": "/patterns/pro-rata-rights/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Process Capability Analysis",
     "url": "/patterns/process-capability-analysis/",
     "classification": [],
@@ -5662,6 +6982,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Product-Led Growth (PLG)",
+    "url": "/patterns/product-led-growth-plg/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Product Lifecycle Management (PLM)",
@@ -5702,6 +7030,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Profit Sharing",
+    "url": "/patterns/profit-sharing/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Profit Tree",
@@ -5768,6 +7104,14 @@
     "score": 3
   },
   {
+    "title": "Public Benefit Corporation",
+    "url": "/patterns/public-benefit-corporation/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Public Health Models",
     "url": "/patterns/public-health-models/",
     "classification": [],
@@ -5792,6 +7136,14 @@
     "score": 3
   },
   {
+    "title": "Purpose Foundation Model",
+    "url": "/patterns/purpose-foundation-model/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Purpose Limitation",
     "url": "/patterns/purpose-limitation/",
     "classification": [],
@@ -5814,6 +7166,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Qualified Small Business Stock (QSBS)",
+    "url": "/patterns/qualified-small-business-stock-qsbs/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Quality Function Deployment (QFD)",
@@ -5856,6 +7216,14 @@
     "score": 3
   },
   {
+    "title": "Radical Candor",
+    "url": "/patterns/radical-candor/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Rapid Application Development (RAD)",
     "url": "/patterns/rapid-application-development-rad/",
     "classification": [],
@@ -5870,6 +7238,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Re-engagement Campaigns",
+    "url": "/patterns/re-engagement-campaigns/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Reaction Engineering Design",
@@ -5894,6 +7270,22 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Reference Checks",
+    "url": "/patterns/reference-checks/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Referral Programs",
+    "url": "/patterns/referral-programs/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Regenerative Agriculture",
@@ -5992,6 +7384,14 @@
     "score": 3
   },
   {
+    "title": "Regulatory Arbitrage",
+    "url": "/patterns/regulatory-arbitrage/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Reinforcement Learning for Control Systems",
     "url": "/patterns/reinforcement-learning-for-control-systems/",
     "classification": [],
@@ -6022,6 +7422,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Remote-First",
+    "url": "/patterns/remote-first/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Renewable Energy Systems",
@@ -6096,6 +7504,22 @@
     "score": 3
   },
   {
+    "title": "Restricted Stock Units (RSUs)",
+    "url": "/patterns/restricted-stock-units-rsus/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Results-Only Work Environment (ROWE)",
+    "url": "/patterns/results-only-work-environment-rowe/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Retroactive Public Goods Funding",
     "url": "/patterns/retroactive-public-goods-funding/",
     "classification": [],
@@ -6110,6 +7534,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Revenue-Based Financing",
+    "url": "/patterns/revenue-based-financing/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Reverse Auction Model",
@@ -6128,6 +7560,14 @@
     "score": 3
   },
   {
+    "title": "Reverse Trial",
+    "url": "/patterns/reverse-trial/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Rhenish Capitalism - Germany",
     "url": "/patterns/rhenish-capitalism-germany/",
     "classification": [],
@@ -6142,6 +7582,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Right of First Refusal",
+    "url": "/patterns/right-of-first-refusal/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Right to Erasure ('Right to be Forgotten')",
@@ -6256,12 +7704,44 @@
     "score": 3
   },
   {
+    "title": "Runway",
+    "url": "/patterns/runway/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "S-Corporation",
+    "url": "/patterns/s-corporation/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "SAFE (Simple Agreement for Future Equity)",
+    "url": "/patterns/safe-simple-agreement-for-future-equity/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Safety Engineering",
     "url": "/patterns/safety-engineering/",
     "classification": [],
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Salary Bands",
+    "url": "/patterns/salary-bands/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Sami (Scandinavia)",
@@ -6392,6 +7872,14 @@
     "score": 3
   },
   {
+    "title": "Securities Compliance",
+    "url": "/patterns/securities-compliance/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Security as Code",
     "url": "/patterns/security-as-code/",
     "classification": [],
@@ -6432,12 +7920,28 @@
     "score": 3
   },
   {
+    "title": "Seed Funding",
+    "url": "/patterns/seed-funding/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Self-Sovereign Identity",
     "url": "/patterns/self-sovereign-identity/",
     "classification": [],
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "SEM (Search Engine Marketing)",
+    "url": "/patterns/sem-search-engine-marketing/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Semiconductor Product Development Lifecycle",
@@ -6456,12 +7960,28 @@
     "score": 3
   },
   {
+    "title": "SEO (Search Engine Optimization)",
+    "url": "/patterns/seo-search-engine-optimization/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Separation Process Design",
     "url": "/patterns/separation-process-design/",
     "classification": [],
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Series A/B/C",
+    "url": "/patterns/series-abc/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Servant Leadership Governance",
@@ -6608,6 +8128,14 @@
     "score": 3
   },
   {
+    "title": "Severance Packages",
+    "url": "/patterns/severance-packages/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Shaker Design Principles",
     "url": "/patterns/shaker-design-principles/",
     "classification": [],
@@ -6672,6 +8200,22 @@
     "score": 3
   },
   {
+    "title": "Single Channel Dependency",
+    "url": "/patterns/single-channel-dependency/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Single Point of Failure",
+    "url": "/patterns/single-point-of-failure/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Site Reliability Engineering (SRE) - Google",
     "url": "/patterns/site-reliability-engineering-sre-google/",
     "classification": [],
@@ -6726,6 +8270,22 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Skills-Based Hiring",
+    "url": "/patterns/skills-based-hiring/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Skip-Level Meetings",
+    "url": "/patterns/skip-level-meetings/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Sloanism (GM Decentralization)",
@@ -6848,6 +8408,22 @@
     "score": 3
   },
   {
+    "title": "Social Media Marketing",
+    "url": "/patterns/social-media-marketing/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Social Proof",
+    "url": "/patterns/social-proof/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Social-Technical Systems Design",
     "url": "/patterns/social-technical-systems-design/",
     "classification": [],
@@ -6928,6 +8504,14 @@
     "score": 3
   },
   {
+    "title": "Solo Founder",
+    "url": "/patterns/solo-founder/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Southeast Asian Family Business",
     "url": "/patterns/southeast-asian-family-business/",
     "classification": [],
@@ -6942,6 +8526,14 @@
     "description": "",
     "domain": "security",
     "score": 3
+  },
+  {
+    "title": "SPAC Merger",
+    "url": "/patterns/spac-merger/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Space Systems Engineering (Design for Extreme Environments)",
@@ -7056,12 +8648,36 @@
     "score": 3
   },
   {
+    "title": "Steward-Ownership",
+    "url": "/patterns/steward-ownership/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Stewardship Governance",
     "url": "/patterns/stewardship-governance/",
     "classification": [],
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Sticky Engine of Growth",
+    "url": "/patterns/sticky-engine-of-growth/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Stock Options (ISO/NSO)",
+    "url": "/patterns/stock-options-isonso/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Strategic Alliance Model",
@@ -7088,6 +8704,14 @@
     "score": 3
   },
   {
+    "title": "Strategic Investment",
+    "url": "/patterns/strategic-investment/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Strategy Diamond - Hambrick & Frederickson",
     "url": "/patterns/strategy-diamond-hambrick-frederickson/",
     "classification": [],
@@ -7112,6 +8736,14 @@
     "score": 3
   },
   {
+    "title": "Structured Interviews",
+    "url": "/patterns/structured-interviews/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Subscription Model - Recurring Revenue",
     "url": "/patterns/subscription-model-recurring-revenue/",
     "classification": [],
@@ -7126,6 +8758,22 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Succession Planning",
+    "url": "/patterns/succession-planning/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Supermajority Requirements",
+    "url": "/patterns/supermajority-requirements/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Supply chain Levels for Software Artifacts (SLSA)",
@@ -7286,6 +8934,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Tag-Along Rights",
+    "url": "/patterns/tag-along-rights/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Target Costing - Market-driven Pricing",
@@ -7456,6 +9112,14 @@
     "score": 3
   },
   {
+    "title": "Tiered Referral Rewards",
+    "url": "/patterns/tiered-referral-rewards/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Time Banking for Collaborative Making",
     "url": "/patterns/time-banking-for-collaborative-making/",
     "classification": [],
@@ -7550,6 +9214,22 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Trade Secrets",
+    "url": "/patterns/trade-secrets/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Trademarks",
+    "url": "/patterns/trademarks/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Traditional Budgeting",
@@ -7648,12 +9328,28 @@
     "score": 3
   },
   {
+    "title": "Transparent Compensation",
+    "url": "/patterns/transparent-compensation/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Treasury Management",
     "url": "/patterns/treasury-management/",
     "classification": [],
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Trial Projects",
+    "url": "/patterns/trial-projects/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Triple Bottom Line - Elkington",
@@ -7686,6 +9382,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Two-Sided Network Effects",
+    "url": "/patterns/two-sided-network-effects/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Two-Speed Development Model",
@@ -7734,6 +9438,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Unit Economics",
+    "url": "/patterns/unit-economics/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Universal Design",
@@ -7790,6 +9502,14 @@
     "description": "",
     "domain": "security",
     "score": 3
+  },
+  {
+    "title": "User-Generated Content",
+    "url": "/patterns/user-generated-content/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "User Story Mapping",
@@ -7904,6 +9624,30 @@
     "score": 3
   },
   {
+    "title": "Values Definition",
+    "url": "/patterns/values-definition/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Vanity Metrics in Finance",
+    "url": "/patterns/vanity-metrics-in-finance/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Vanity Metrics",
+    "url": "/patterns/vanity-metrics/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Vastu Shastra",
     "url": "/patterns/vastu-shastra/",
     "classification": [],
@@ -7926,6 +9670,14 @@
     "description": "",
     "domain": "security",
     "score": 3
+  },
+  {
+    "title": "Venture Debt",
+    "url": "/patterns/venture-debt/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Verifiable Credentials",
@@ -7966,6 +9718,46 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Vesting Schedules",
+    "url": "/patterns/vesting-schedules/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Viral Coefficient (K-Factor)",
+    "url": "/patterns/viral-coefficient-k-factor/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Viral Cycle Time",
+    "url": "/patterns/viral-cycle-time/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Viral Engine of Growth",
+    "url": "/patterns/viral-engine-of-growth/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
+    "title": "Viral Loop",
+    "url": "/patterns/viral-loop/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Virtual Reality (VR) Product Design",
@@ -8014,6 +9806,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Waitlist with Virality",
+    "url": "/patterns/waitlist-with-virality/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Waldorf Education",
@@ -8104,12 +9904,28 @@
     "score": 3
   },
   {
+    "title": "Word-of-Mouth Virality",
+    "url": "/patterns/word-of-mouth-virality/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
+  },
+  {
     "title": "Worker Cooperative Product Development Models",
     "url": "/patterns/worker-cooperative-product-development-models/",
     "classification": [],
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Worker Cooperative",
+    "url": "/patterns/worker-cooperative/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Working Backward (Amazon)",
@@ -8126,6 +9942,14 @@
     "description": "",
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Working Groups / Circles",
+    "url": "/patterns/working-groups-circles/",
+    "classification": [],
+    "description": "",
+    "domain": "startup",
+    "score": 0.7
   },
   {
     "title": "Workplace Democracy - Formal Models",
