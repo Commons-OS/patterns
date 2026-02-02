@@ -107,14 +107,36 @@ The `context-engine` repository will house the formal specification and core eng
 
 **Core Data Model**: The graph will consist of multiple node types and richly-typed, weighted edges.
 
+#### The Commons Entity Abstraction
+
+A key insight is that individuals, organizations, cities, ecosystems, and other entities are all **fractal representations of a value-creating commons**. Rather than creating rigid, separate node types for each, we introduce a unified **Commons Entity** abstraction:
+
+> A Commons Entity is any value-creating system that can adopt patterns, exist at a particular scale, and participate in the graph as both consumer and contributor.
+
+This fractal model recognizes that the same structural patterns appear at different scales—a startup team, a cooperative, a city, and an ecological region all face questions of governance, resource allocation, and collective action.
+
 | Node Type | Description | Examples |
 |-----------|-------------|----------|
 | `Pattern` | A documented pattern in the library | Sociocracy, Steward Ownership |
-| `Persona` | A user archetype or actual user | Startup Founder, Enterprise Architect |
+| `CommonsEntity` | Any value-creating system at any scale | Individual, Startup, Cooperative, City, Ecosystem |
 | `Concept` | An abstract idea or principle | Decentralization, Consent-based Decision Making |
 | `Source` | A reference, book, or authority | Eric Ries, Frederic Laloux |
-| `Organization` | A lighthouse or case study | Buurtzorg, Mondragon |
-| `Domain` | A commons domain | Business, Startup, Security, City, Ecology |
+| `Domain` | A commons domain | Business, Startup, Security, City, Ecology, Life |
+
+**Commons Entity Properties**:
+
+| Property | Description | Examples |
+|----------|-------------|----------|
+| `scale` | The fractal level of the entity | individual, team, organization, network, city, region, ecosystem |
+| `type` | The specific entity type | human, ai_agent, startup, cooperative, municipality, watershed |
+| `context` | Current situation, goals, constraints | idea-stage, growth-phase, transition, regeneration |
+| `pattern_adoption` | Patterns this entity has adopted | Links to Pattern nodes with adoption metadata |
+| `relationships` | Connections to other entities | inspired_by, partnered_with, part_of, governs |
+
+This abstraction enables powerful queries:
+- *"Show me patterns adopted by entities similar to mine"* (Lighthouse discovery)
+- *"What patterns work at my scale?"* (Scale-appropriate recommendations)
+- *"How did this city apply patterns originally designed for organizations?"* (Cross-scale learning)
 
 **Edge Properties**: Relationships are first-class citizens with rich metadata:
 
@@ -141,23 +163,34 @@ The `context-engine` repository will house the formal specification and core eng
 - **Persona Context**: User's position influences results
 - **GraphRAG Integration**: Combining structured and semantic retrieval [5]
 
-### 4.2 The Central Role of Personas
+### 4.2 The Central Role of Commons Entities (Including Personas)
 
-Personas are not merely consumers of the graph but **active participants** in its creation, use, and evolution.
+All Commons Entities—whether individuals, organizations, cities, or ecosystems—are **active participants** in the graph's creation, use, and evolution. The traditional concept of "persona" is subsumed into this broader abstraction.
 
-**Human Personas**:
+**Human Entities**:
 - Define their context (role, goals, constraints, history)
 - Their position in the graph determines what's relevant
 - Their feedback drives graph evolution
-- Examples: Startup Founder (Idea Stage), Cooperative Developer, Enterprise Transformation Lead
+- Examples: Startup Founder (Idea Stage), Cooperative Developer, City Planner, Ecosystem Steward
 
-**Digital Personas (AI Agents)**:
-- Operate within the graph on behalf of humans
+**Digital Entities (AI Agents)**:
+- Operate within the graph on behalf of humans or organizations
 - Have defined capabilities and constraints
 - Can propose relationships and flag inconsistencies
 - Examples: Pattern Discovery Agent, Relationship Validator, Context Synthesizer
 
-**Persona as Graph Position**: A persona's "context" is represented as a position or state within the graph—a set of activated nodes and weighted relationships that define what's relevant from their perspective.
+**Organizational Entities (Lighthouses)**:
+- Real-world implementations of patterns
+- Provide evidence of what works in practice
+- Their pattern adoption history informs recommendations
+- Examples: Buurtzorg, Mondragon, Patagonia, Amsterdam (city), Costa Rica (nation)
+
+**Ecological & Regional Entities**:
+- Watersheds, bioregions, urban ecosystems
+- Apply patterns at landscape and systems scale
+- Examples: Chesapeake Bay Program, Barcelona Superblocks, Mondragón Valley
+
+**Entity as Graph Position**: Any entity's "context" is represented as a position or state within the graph—a set of activated nodes and weighted relationships that define what's relevant from their perspective. This enables the same query mechanisms to work across all scales.
 
 ### 4.3 The Commons OS Context
 
@@ -256,6 +289,7 @@ This ADR formally kicks off a **deep research project** to answer the following 
 | **Context Graph** | A knowledge graph extended with operational metadata (lineage, decisions, temporal context) |
 | **Living Ontology** | An ontology that evolves its structure based on persistent explanatory failures |
 | **Rhizomatic Structure** | A non-hierarchical network where any point can connect to any other |
-| **Persona** | A user archetype or actual user, with defined context that influences retrieval |
+| **Commons Entity** | Any value-creating system (individual, organization, city, ecosystem) that can adopt patterns and participate in the graph |
+| **Persona** | A specific type of Commons Entity representing a human user archetype |
 | **GraphRAG** | Graph-based Retrieval Augmented Generation, combining knowledge graphs with LLMs |
 | **MVG** | Minimum Viable Graph, the initial implementation scope |
