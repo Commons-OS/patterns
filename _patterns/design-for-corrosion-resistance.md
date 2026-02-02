@@ -6,27 +6,36 @@ slug: design-for-corrosion-resistance
 title: Design for Corrosion Resistance
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [principle, practice]
-  era: [industrial, digital]
+  category:
+  - principle
+  - practice
+  era:
+  - industrial
+  - digital
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://www.fictiv.com/articles/design-strategies-for-corrosion-resistance
-  - https://corrdesa.com/wp-content/uploads/2024/04/Corrosion-Resistant-Design.pdf
-  - https://www.nature.com/articles/s41529-024-00533-y
+- https://www.fictiv.com/articles/design-strategies-for-corrosion-resistance
+- https://corrdesa.com/wp-content/uploads/2024/04/Corrosion-Resistant-Design.pdf
+- https://www.nature.com/articles/s41529-024-00533-y
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

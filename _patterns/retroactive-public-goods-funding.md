@@ -6,24 +6,39 @@ slug: retroactive-public-goods-funding
 title: Retroactive Public Goods Funding
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, methodology]
-  era: [digital]
-  origin: ["Vitalik Buterin", "Optimism"]
+  category:
+  - framework
+  - methodology
+  era:
+  - digital
+  origin:
+  - Vitalik Buterin
+  - Optimism
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c", "https://unchainedcrypto.com/retroactive-public-goods-funding/", "https://gitcoin.co/blog/wtf-is-retro-funding", "https://gov.optimism.io/t/lessons-learned-from-two-years-of-retroactive-public-goods-funding/9239", "https://vitalik.eth.limo/general/2021/11/16/retro1.html"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c
+- https://unchainedcrypto.com/retroactive-public-goods-funding/
+- https://gitcoin.co/blog/wtf-is-retro-funding
+- https://gov.optimism.io/t/lessons-learned-from-two-years-of-retroactive-public-goods-funding/9239
+- https://vitalik.eth.limo/general/2021/11/16/retro1.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

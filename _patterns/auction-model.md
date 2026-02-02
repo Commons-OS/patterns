@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/auction-model/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/auction-model.md
 slug: auction-model
 title: Auction Model
-aliases: [Dynamic Pricing, Competitive Bidding]
+aliases:
+- Dynamic Pricing
+- Competitive Bidding
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [methodology]
-  era: [digital]
-  origin: [academic, economics]
+  category:
+  - methodology
+  era:
+  - digital
+  origin:
+  - academic
+  - economics
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
-specializes_to: ["pat_01kg5023ztenhrk74hee4p3ffs"]
+specializes_to:
+- pat_01kg5023ztenhrk74hee4p3ffs
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.businessofgovernment.org/sites/default/files/AuctionModel.pdf, https://web.stanford.edu/~jdlevin/Econ%20286/Auctions.pdf, https://en.wikipedia.org/wiki/Auction_theory, https://epicforamerica.org/federal-budget/spectrum-auctions-are-a-hidden-growth-engine/, https://www.jstor.org/stable/1911865]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.businessofgovernment.org/sites/default/files/AuctionModel.pdf
+- https://web.stanford.edu/~jdlevin/Econ%20286/Auctions.pdf
+- https://en.wikipedia.org/wiki/Auction_theory
+- https://epicforamerica.org/federal-budget/spectrum-auctions-are-a-hidden-growth-engine/
+- https://www.jstor.org/stable/1911865
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

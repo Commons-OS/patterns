@@ -4,31 +4,41 @@ page_url: https://commons-os.github.io/patterns/devops/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/devops.md
 slug: devops
 title: DevOps
-aliases: [Developer Operations]
+aliases:
+- Developer Operations
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [methodology]
-  era: [digital]
-  origin: [agile-systems-administration, patrick-debois]
+  category:
+  - methodology
+  era:
+  - digital
+  origin:
+  - agile-systems-administration
+  - patrick-debois
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: 
-  - https://aws.amazon.com/devops/what-is-devops/
-  - https://www.atlassian.com/devops
-  - https://www.ibm.com/think/topics/devops
-  - https://www.invensislearning.com/info/devops-case-studies
-  - https://arxiv.org/abs/1907.10201
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://aws.amazon.com/devops/what-is-devops/
+- https://www.atlassian.com/devops
+- https://www.ibm.com/think/topics/devops
+- https://www.invensislearning.com/info/devops-case-studies
+- https://arxiv.org/abs/1907.10201
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

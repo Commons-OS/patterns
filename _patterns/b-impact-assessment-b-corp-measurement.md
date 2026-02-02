@@ -4,26 +4,57 @@ page_url: https://commons-os.github.io/patterns/b-impact-assessment-b-corp-measu
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/b-impact-assessment-b-corp-measurement.md
 slug: b-impact-assessment-b-corp-measurement
 title: B Impact Assessment - B Corp Measurement
-aliases: [BIA]
+aliases:
+- BIA
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: sustainability
-  category: [tool]
-  era: [digital, cognitive]
-  origin: [B Lab]
+  category:
+  - tool
+  era:
+  - digital
+  - cognitive
+  origin:
+  - B Lab
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg5023x0ed9tvrqaye97r6y1"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023x0ed9tvrqaye97r6y1
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023yzebrbkxpy6w243r3d", "pat_01kg5023wce4htqbxfeemnbwak", "pat_01kg50240rf3s9mqrr284wczhz", "pat_01kg5023xve9saxvbkcrkzc4jy", "pat_01kg50240hf7g93xhgnnqj6kv4", "pat_01kg5023wjfg8tqb1zny1rz16s", "pat_01kg5023zseyh85cxgdc134228", "pat_01kg5023vwe00rptkqw7kkhgah", "pat_01kg5023xve9saxvbke9pt1zne", "pat_01kg5023ygez1924mknd5wrfee", "pat_01kg502403e39rjfypfvwb3ebj", "pat_01kg50240zfdhtkt15ks7vh3qr", "pat_01kg5023zrexhr77rgtmbqtvy9", "pat_01kg5023yyfh08wev9cc23bjjk", "pat_01kg5023wkey887v6x5rk1m7cz"]
-contributors: [higgerix, cloudsters]
-sources: ["https://www.bcorporation.net/programs-and-tools/b-impact/", "https://www.cultivatingcapital.com/completing-b-impact-assessment/", "https://bcorporation.eu/case_study/zentek-b-corp-certification/", "https://www.mdpi.com/2071-1050/14/9/5590", "https://untoursfoundation.org/our-journey-owning-the-worlds-first-b-corp/"]
+related:
+- pat_01kg5023yzebrbkxpy6w243r3d
+- pat_01kg5023wce4htqbxfeemnbwak
+- pat_01kg50240rf3s9mqrr284wczhz
+- pat_01kg5023xve9saxvbkcrkzc4jy
+- pat_01kg50240hf7g93xhgnnqj6kv4
+- pat_01kg5023wjfg8tqb1zny1rz16s
+- pat_01kg5023zseyh85cxgdc134228
+- pat_01kg5023vwe00rptkqw7kkhgah
+- pat_01kg5023xve9saxvbke9pt1zne
+- pat_01kg5023ygez1924mknd5wrfee
+- pat_01kg502403e39rjfypfvwb3ebj
+- pat_01kg50240zfdhtkt15ks7vh3qr
+- pat_01kg5023zrexhr77rgtmbqtvy9
+- pat_01kg5023yyfh08wev9cc23bjjk
+- pat_01kg5023wkey887v6x5rk1m7cz
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.bcorporation.net/programs-and-tools/b-impact/
+- https://www.cultivatingcapital.com/completing-b-impact-assessment/
+- https://bcorporation.eu/case_study/zentek-b-corp-certification/
+- https://www.mdpi.com/2071-1050/14/9/5590
+- https://untoursfoundation.org/our-journey-owning-the-worlds-first-b-corp/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

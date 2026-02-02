@@ -6,23 +6,34 @@ slug: site-reliability-engineering-sre
 title: Site Reliability Engineering (SRE)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [practice, framework]
-  era: [digital]
-  origin: [Google]
+  category:
+  - practice
+  - framework
+  era:
+  - digital
+  origin:
+  - Google
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg5023zseyh85cxgrhc3qpbm"]
-specializes_to: ["pat_01kg5023x5fprarvy4w4fqephv", "pat_01kg5023zzecsb265cfpcw0gmn"]
+  commons_domain:
+  - business
+  - startup
+generalizes_from:
+- pat_01kg5023zseyh85cxgrhc3qpbm
+specializes_to:
+- pat_01kg5023x5fprarvy4w4fqephv
+- pat_01kg5023zzecsb265cfpcw0gmn
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

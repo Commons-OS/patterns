@@ -4,26 +4,42 @@ page_url: https://commons-os.github.io/patterns/best-practices-transfer/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/best-practices-transfer.md
 slug: best-practices-transfer
 title: Best Practices Transfer
-aliases: [Knowledge Transfer, Knowledge Sharing]
+aliases:
+- Knowledge Transfer
+- Knowledge Sharing
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: culture
-  category: practice
-  era: [digital, cognitive]
-  origin: [academic, corporate]
+  category:
+  - practice
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - corporate
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.strategy-business.com/article/20785", "https://www.imd.org/blog/leadership/knowledge-transfer/", "https://www.changeengine.com/articles/creating-an-effective-knowledge-transfer-and-documentation-policy-best-practices-and-strategies-for-hr-teams", "https://bloomfire.com/blog/knowledge-transfer-plan/", "https://www.atlassian.com/work-management/knowledge-sharing/best-practices"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.strategy-business.com/article/20785
+- https://www.imd.org/blog/leadership/knowledge-transfer/
+- https://www.changeengine.com/articles/creating-an-effective-knowledge-transfer-and-documentation-policy-best-practices-and-strategies-for-hr-teams
+- https://bloomfire.com/blog/knowledge-transfer-plan/
+- https://www.atlassian.com/work-management/knowledge-sharing/best-practices
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -4,26 +4,54 @@ page_url: https://commons-os.github.io/patterns/un-sustainable-development-goals
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/un-sustainable-development-goals-sdgs-global-framework.md
 slug: un-sustainable-development-goals-sdgs-global-framework
 title: UN Sustainable Development Goals (SDGs) - Global Framework
-aliases: [The Global Goals]
+aliases:
+- The Global Goals
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: design
-  category: framework
+  category:
+  - framework
   era: cognitive
-  origin: [united-nations]
+  origin:
+  - united-nations
   status: draft
   commons_alignment: 3
-commons_domain: business
-generalizes_from: ["pat_01kg5023wsfng8axd7r46awby9"]
+  commons_domain:
+  - business
+  - startup
+generalizes_from:
+- pat_01kg5023wsfng8axd7r46awby9
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023yzebrbkxpy6w243r3d", "pat_01kg5023wce4htqbxfeemnbwak", "pat_01kg50240rf3s9mqrr284wczhz", "pat_01kg5023xve9saxvbkcrkzc4jy", "pat_01kg50240hf7g93xhgnnqj6kv4", "pat_01kg5023wjfg8tqb1zny1rz16s", "pat_01kg5023zseyh85cxgdc134228", "pat_01kg5023vwe00rptkqw7kkhgah", "pat_01kg5023xve9saxvbke9pt1zne", "pat_01kg5023ygez1924mknd5wrfee", "pat_01kg502403e39rjfypfvwb3ebj", "pat_01kg5023zrexhr77rgtmbqtvy9", "pat_01kg5023yyfh08wev9cc23bjjk", "pat_01kg5023wkey887v6x5rk1m7cz", "pat_01kg50240wfjh98jqwy1kwdw68"]
-contributors: [higgerix, cloudsters]
-sources: [https://sdgs.un.org/goals, https://www.un.org/sustainabledevelopment/sustainable-development-goals/, https://agora-parl.org/resources/aoe/sustainable-development-goals-beliefs-and-principles, https://sdgs.un.org/sdg-good-practices, https://www.weforum.org/stories/2024/07/companies-can-make-the-uns-sdgs-their-own-heres-how/]
+related:
+- pat_01kg5023yzebrbkxpy6w243r3d
+- pat_01kg5023wce4htqbxfeemnbwak
+- pat_01kg50240rf3s9mqrr284wczhz
+- pat_01kg5023xve9saxvbkcrkzc4jy
+- pat_01kg50240hf7g93xhgnnqj6kv4
+- pat_01kg5023wjfg8tqb1zny1rz16s
+- pat_01kg5023zseyh85cxgdc134228
+- pat_01kg5023vwe00rptkqw7kkhgah
+- pat_01kg5023xve9saxvbke9pt1zne
+- pat_01kg5023ygez1924mknd5wrfee
+- pat_01kg502403e39rjfypfvwb3ebj
+- pat_01kg5023zrexhr77rgtmbqtvy9
+- pat_01kg5023yyfh08wev9cc23bjjk
+- pat_01kg5023wkey887v6x5rk1m7cz
+- pat_01kg50240wfjh98jqwy1kwdw68
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://sdgs.un.org/goals
+- https://www.un.org/sustainabledevelopment/sustainable-development-goals/
+- https://agora-parl.org/resources/aoe/sustainable-development-goals-beliefs-and-principles
+- https://sdgs.un.org/sdg-good-practices
+- https://www.weforum.org/stories/2024/07/companies-can-make-the-uns-sdgs-their-own-heres-how/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

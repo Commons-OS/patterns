@@ -6,31 +6,36 @@ slug: fail-fast-philosophy
 title: Fail Fast Philosophy
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: technology
-  category: [principle]
-  era: [digital]
+  category:
+  - principle
+  era:
+  - digital
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [
-    "https://www.techtarget.com/whatis/definition/fail-fast",
-    "https://www.agile-academy.com/en/agile-dictionary/fail-fast/",
-    "https://www.ibm.com/think/insights/failing-fast-traditional-strategy-and-how-they-work-together",
-    "https://blog.masterofproject.com/how-amazons-culture-fuels-project-management-success/",
-    "https://uxdesign.cc/failing-fast-with-ai-e30887321ef5",
-    "https://datascience.virginia.edu/news/fail-fast-learn-faster-neal-magee-reflects-ai-education-and-entrepreneurship"
-  ]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.techtarget.com/whatis/definition/fail-fast
+- https://www.agile-academy.com/en/agile-dictionary/fail-fast/
+- https://www.ibm.com/think/insights/failing-fast-traditional-strategy-and-how-they-work-together
+- https://blog.masterofproject.com/how-amazons-culture-fuels-project-management-success/
+- https://uxdesign.cc/failing-fast-with-ai-e30887321ef5
+- https://datascience.virginia.edu/news/fail-fast-learn-faster-neal-magee-reflects-ai-education-and-entrepreneurship
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

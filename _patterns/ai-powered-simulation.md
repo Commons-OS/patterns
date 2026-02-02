@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/ai-powered-simulation/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/ai-powered-simulation.md
 slug: ai-powered-simulation
 title: AI-Powered Simulation
-aliases: [AI-Augmented Engineering, Generative Engineering, AI and Machine Learning in Simulation]
+aliases:
+- AI-Augmented Engineering
+- Generative Engineering
+- AI and Machine Learning in Simulation
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: technology
-  category: [practice]
-  era: [cognitive]
-  origin: [academic, corporate]
+  category:
+  - practice
+  era:
+  - cognitive
+  origin:
+  - academic
+  - corporate
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://arkance.world/us-en/resources/read/blogs/ai-simulation-digital-engineering, https://www.colabsoftware.com/guides/ai-powered-simulation-tools-smarter-faster-design-validation, https://www.anylogic.com/resources/case-studies/atom-digital-twin-of-siemens-gas-turbine-fleet-operations/, https://sonatalearning.com/sonata-notes/healthcare-simulation-case-study/, https://www.simscale.com/blog/ai-simulation/]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://arkance.world/us-en/resources/read/blogs/ai-simulation-digital-engineering
+- https://www.colabsoftware.com/guides/ai-powered-simulation-tools-smarter-faster-design-validation
+- https://www.anylogic.com/resources/case-studies/atom-digital-twin-of-siemens-gas-turbine-fleet-operations/
+- https://sonatalearning.com/sonata-notes/healthcare-simulation-case-study/
+- https://www.simscale.com/blog/ai-simulation/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -4,26 +4,45 @@ page_url: https://commons-os.github.io/patterns/collective-leadership-distribute
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/collective-leadership-distributed-authority-models.md
 slug: collective-leadership-distributed-authority-models
 title: Collective Leadership - Distributed Authority Models
-aliases: [Distributed Leadership, Shared Leadership, Decentralized Leadership]
+aliases:
+- Distributed Leadership
+- Shared Leadership
+- Decentralized Leadership
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: human-universal
   domain: governance
-  category: principle
-  era: [digital, cognitive]
-  origin: [academic, organizational-theory]
+  category:
+  - principle
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - organizational-theory
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg5023wyfeht2yyf00zh5d5h"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023wyfeht2yyf00zh5d5h
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.mtdtraining.com/blog/distributed-leadership.htm, https://www.forbes.com/sites/stephanieburns/2022/01/17/should-you-move-to-a-decentralized-organizational-structure/, https://voltagecontrol.com/blog/successful-collaborative-leadership-in-action-case-studies-and-real-world-examples/, https://hbr.org/2018/05/the-best-leaders-are-humble-leaders, https://www.leadershipquarterly.com/]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.mtdtraining.com/blog/distributed-leadership.htm
+- https://www.forbes.com/sites/stephanieburns/2022/01/17/should-you-move-to-a-decentralized-organizational-structure/
+- https://voltagecontrol.com/blog/successful-collaborative-leadership-in-action-case-studies-and-real-world-examples/
+- https://hbr.org/2018/05/the-best-leaders-are-humble-leaders
+- https://www.leadershipquarterly.com/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

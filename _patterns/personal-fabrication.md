@@ -6,24 +6,39 @@ slug: personal-fabrication
 title: Personal Fabrication
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [practice, methodology]
-  era: [digital, cognitive]
+  category:
+  - practice
+  - methodology
+  era:
+  - digital
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://dl.acm.org/doi/10.1145/2851581.2856664, https://business.ku.edu/business-advantages-customers-using-personal-fabrication-3d-printing-revealed-new-study, http.idsandbox.blogspot.com/2007/05/personal-fabrication-and-future-of.html, https://en.wikipedia.org/wiki/Fab_lab, https://en.wikipedia.org/wiki/Maker_culture, https://www.edge.org/conversation/neil_gershenfeld-personal-fabrication]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://dl.acm.org/doi/10.1145/2851581.2856664
+- https://business.ku.edu/business-advantages-customers-using-personal-fabrication-3d-printing-revealed-new-study
+- http.idsandbox.blogspot.com/2007/05/personal-fabrication-and-future-of.html
+- https://en.wikipedia.org/wiki/Fab_lab
+- https://en.wikipedia.org/wiki/Maker_culture
+- https://www.edge.org/conversation/neil_gershenfeld-personal-fabrication
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

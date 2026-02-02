@@ -4,26 +4,58 @@ page_url: https://commons-os.github.io/patterns/six-sigma-dmaic/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/six-sigma-dmaic.md
 slug: six-sigma-dmaic
 title: Six Sigma (DMAIC)
-aliases: [DMAIC, Define-Measure-Analyze-Improve-Control]
+aliases:
+- DMAIC
+- Define-Measure-Analyze-Improve-Control
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [methodology]
-  era: [industrial, digital]
-  origin: [motorola]
+  category:
+  - methodology
+  era:
+  - industrial
+  - digital
+  origin:
+  - motorola
   status: draft
   commons_alignment: 3
-commons_domain: business
-generalizes_from: ["pat_01kg5023zzecsb265cp79x0gvh", "pat_01kg5023vyfzhvteh02a487gvh"]
+  commons_domain:
+  - business
+  - startup
+generalizes_from:
+- pat_01kg5023zzecsb265cp79x0gvh
+- pat_01kg5023vyfzhvteh02a487gvh
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023z4ejgvpxs00h779hk7", "pat_01kg5023x8evg9fk7ax23cbrbn", "pat_01kg5023wjfg8tqb1zqbg7dd8h", "pat_01kg5023xge89s6mx3nbjd0mgg", "pat_01kg5023vyfzhvteh04eykysqz", "pat_01kg5023zrexhr77rgbe4f62ew", "pat_01kg5023vjetsaajnc397n2n2m", "pat_01kg5023vyfzhvteh02a487gvh", "pat_01kg5023z8f6h9wk9sdad8sxxd", "pat_01kg5023x8evg9fk7as5cxmnwk", "pat_01kg5023z3f90bkx13t1xprvjz", "pat_01kg5023zcf99tjg7qgdbhqfkm", "pat_01kg5023zzecsb265cp79x0gvh", "pat_01kg5023ybeqhsr5sn20s4jgvn", "pat_01kg5023yaea8sqyn9hkqb477d"]
-contributors: [higgerix, cloudsters]
-sources: [https://asq.org/quality-resources/dmaic, https://goleansixsigma.com/dmaic-five-basic-phases-of-lean-six-sigma/, https://www.6sigma.us/six-sigma-in-focus/six-sigma-dmaic-tools/, https://www.isixsigma.com/artificial-intelligence/how-ai-can-be-used-in-the-dmaic-process/, https://www.reliableplant.com/dmaic-31720]
+related:
+- pat_01kg5023z4ejgvpxs00h779hk7
+- pat_01kg5023x8evg9fk7ax23cbrbn
+- pat_01kg5023wjfg8tqb1zqbg7dd8h
+- pat_01kg5023xge89s6mx3nbjd0mgg
+- pat_01kg5023vyfzhvteh04eykysqz
+- pat_01kg5023zrexhr77rgbe4f62ew
+- pat_01kg5023vjetsaajnc397n2n2m
+- pat_01kg5023vyfzhvteh02a487gvh
+- pat_01kg5023z8f6h9wk9sdad8sxxd
+- pat_01kg5023x8evg9fk7as5cxmnwk
+- pat_01kg5023z3f90bkx13t1xprvjz
+- pat_01kg5023zcf99tjg7qgdbhqfkm
+- pat_01kg5023zzecsb265cp79x0gvh
+- pat_01kg5023ybeqhsr5sn20s4jgvn
+- pat_01kg5023yaea8sqyn9hkqb477d
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://asq.org/quality-resources/dmaic
+- https://goleansixsigma.com/dmaic-five-basic-phases-of-lean-six-sigma/
+- https://www.6sigma.us/six-sigma-in-focus/six-sigma-dmaic-tools/
+- https://www.isixsigma.com/artificial-intelligence/how-ai-can-be-used-in-the-dmaic-process/
+- https://www.reliableplant.com/dmaic-31720
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

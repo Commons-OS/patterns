@@ -6,24 +6,35 @@ slug: jobs-to-be-done-jtbd
 title: Jobs-to-be-Done (JTBD)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, methodology]
-  era: [industrial, digital]
+  category:
+  - framework
+  - methodology
+  era:
+  - industrial
+  - digital
   origin: []
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.christenseninstitute.org/theory/jobs-to-be-done/", "https://www.productplan.com/glossary/jobs-to-be-done-framework/", "https://strategyn.com/jobs-to-be-done/"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.christenseninstitute.org/theory/jobs-to-be-done/
+- https://www.productplan.com/glossary/jobs-to-be-done-framework/
+- https://strategyn.com/jobs-to-be-done/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

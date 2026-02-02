@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/benchmarking/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/benchmarking.md
 slug: benchmarking
 title: Benchmarking
-aliases: ["Competitive Benchmarking", "Process Benchmarking", "Strategic Benchmarking"]
+aliases:
+- Competitive Benchmarking
+- Process Benchmarking
+- Strategic Benchmarking
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [practice]
-  era: [industrial, digital]
-  origin: ["Xerox Corporation"]
+  category:
+  - practice
+  era:
+  - industrial
+  - digital
+  origin:
+  - Xerox Corporation
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://asq.org/quality-resources/benchmarking", "https://www.businessnewsdaily.com/15960-benchmarking-benefits-small-business.html", "https://www.shrm.org/executive-network/insights/benchmarking-future-proofs-talent-strategies-4-case-studies", "https://www.bain.com/insights/management-tools-benchmarking/", "https://hbr.org/1992/09/what-is-benchmarking"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://asq.org/quality-resources/benchmarking
+- https://www.businessnewsdaily.com/15960-benchmarking-benefits-small-business.html
+- https://www.shrm.org/executive-network/insights/benchmarking-future-proofs-talent-strategies-4-case-studies
+- https://www.bain.com/insights/management-tools-benchmarking/
+- https://hbr.org/1992/09/what-is-benchmarking
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

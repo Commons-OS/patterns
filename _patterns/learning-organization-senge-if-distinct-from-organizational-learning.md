@@ -6,23 +6,35 @@ slug: learning-organization-senge-if-distinct-from-organizational-learning
 title: Learning Organization (Senge)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: human-universal
   domain: culture
-  category: [framework]
-  era: [cognitive]
+  category:
+  - framework
+  era:
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023vafgr9ywe30zx8g6bk", "pat_01kg5023vbe4rvttbw0f90gg19", "pat_01kg5023vdecr9aqhgjf4vp12v", "pat_01kg5023vcf5rv73jr3zqvr93y", "pat_01kg5023vbe4rvttbw31ydqm8r", "pat_01kg5023v9fj0a69mjvb68mp32"]
-contributors: [higgerix, cloudsters]
+related:
+- pat_01kg5023vafgr9ywe30zx8g6bk
+- pat_01kg5023vbe4rvttbw0f90gg19
+- pat_01kg5023vdecr9aqhgjf4vp12v
+- pat_01kg5023vcf5rv73jr3zqvr93y
+- pat_01kg5023vbe4rvttbw31ydqm8r
+- pat_01kg5023v9fj0a69mjvb68mp32
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

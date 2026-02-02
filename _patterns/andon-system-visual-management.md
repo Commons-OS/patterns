@@ -13,7 +13,8 @@ modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: practice
+  category:
+  - practice
   era:
   - industrial
   - digital
@@ -22,7 +23,10 @@ classification:
   - lean-manufacturing
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from:
 - pat_01kg5023xef1s9wh9a1qrpw7qf
 specializes_to: []

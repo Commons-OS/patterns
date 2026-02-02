@@ -4,26 +4,55 @@ page_url: https://commons-os.github.io/patterns/blue-ocean-strategy-innovation/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/blue-ocean-strategy-innovation.md
 slug: blue-ocean-strategy-innovation
 title: Blue Ocean Strategy (Innovation)
-aliases: [Value Innovation, Nondisruptive Creation]
+aliases:
+- Value Innovation
+- Nondisruptive Creation
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: framework
+  category:
+  - framework
   era: industrial
-  origin: [academic]
+  origin:
+  - academic
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023xfergseskezjw7vhps", "pat_01kg5023xne3gs3g2247a6tg6m", "pat_01kg5023zzecsb265cca6xrxst", "pat_01kg5023zbftgswm71jpa7pdya", "pat_01kg5023y9f3hr6tv4n4j1h14z", "pat_01kg5023vjetsaajnc397n2n2m", "pat_01kg5023zyebsatbkqyk4ffphj", "pat_01kg5023yeebha23tbpqbvfwb5", "pat_01kg5023zfejs9j7hrnhg9xnns", "pat_01kg5023xjea9ve0dr2yn0ng4v", "pat_01kg5023zyebsatbkqwveseny5", "pat_01kg5023yvehgrw2tgha4z5mxc", "pat_01kg5023vyfzhvteh01za2yrvr", "pat_01kg50240wfjh98jqx4axm2q65", "pat_01kg5023xqet0abagjfk9c2b4m"]
-contributors: [higgerix, cloudsters]
-sources: ["https://www.blueoceanstrategy.com/", "https://www.investopedia.com/terms/b/blue_ocean.asp", "https://hbr.org/2004/10/blue-ocean-strategy", "https://www.blueoceanstrategy.com/blog/7-powerful-blue-ocean-strategy-examples/", "https://www.forbes.com/sites/jeroenkraaijenbrink/2019/09/03/looking-for-a-blue-ocean-strategy-consider-these-three-risks/"]
+related:
+- pat_01kg5023xfergseskezjw7vhps
+- pat_01kg5023xne3gs3g2247a6tg6m
+- pat_01kg5023zzecsb265cca6xrxst
+- pat_01kg5023zbftgswm71jpa7pdya
+- pat_01kg5023y9f3hr6tv4n4j1h14z
+- pat_01kg5023vjetsaajnc397n2n2m
+- pat_01kg5023zyebsatbkqyk4ffphj
+- pat_01kg5023yeebha23tbpqbvfwb5
+- pat_01kg5023zfejs9j7hrnhg9xnns
+- pat_01kg5023xjea9ve0dr2yn0ng4v
+- pat_01kg5023zyebsatbkqwveseny5
+- pat_01kg5023yvehgrw2tgha4z5mxc
+- pat_01kg5023vyfzhvteh01za2yrvr
+- pat_01kg50240wfjh98jqx4axm2q65
+- pat_01kg5023xqet0abagjfk9c2b4m
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.blueoceanstrategy.com/
+- https://www.investopedia.com/terms/b/blue_ocean.asp
+- https://hbr.org/2004/10/blue-ocean-strategy
+- https://www.blueoceanstrategy.com/blog/7-powerful-blue-ocean-strategy-examples/
+- https://www.forbes.com/sites/jeroenkraaijenbrink/2019/09/03/looking-for-a-blue-ocean-strategy-consider-these-three-risks/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

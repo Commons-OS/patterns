@@ -4,26 +4,42 @@ page_url: https://commons-os.github.io/patterns/sociotechnical-systems-tavistock
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/sociotechnical-systems-tavistock.md
 slug: sociotechnical-systems-tavistock
 title: Sociotechnical Systems (Tavistock)
-aliases: [STS, Socio-technical Systems Theory]
+aliases:
+- STS
+- Socio-technical Systems Theory
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: technology
-  category: [framework, meta-pattern]
-  era: [industrial, digital]
-  origin: [tavistock-institute]
+  category:
+  - framework
+  - meta-pattern
+  era:
+  - industrial
+  - digital
+  origin:
+  - tavistock-institute
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://en.wikipedia.org/wiki/Sociotechnical_system", "https://open.ncl.ac.uk/theories/9/socio-technical-theory/", "https://tavinstitute.org/projects/interpretations-of-socio-technical-systems-two-stories-and-the-narrative-of-an-organisation", "https://www.sciencedirect.com/science/article/abs/pii/S0272696398000345", "https://www.researchgate.net/publication/222427778_A_socio-technical_systems_approach_to_cell_design_Case_study_and_analysis"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Sociotechnical_system
+- https://open.ncl.ac.uk/theories/9/socio-technical-theory/
+- https://tavinstitute.org/projects/interpretations-of-socio-technical-systems-two-stories-and-the-narrative-of-an-organisation
+- https://www.sciencedirect.com/science/article/abs/pii/S0272696398000345
+- https://www.researchgate.net/publication/222427778_A_socio-technical_systems_approach_to_cell_design_Case_study_and_analysis
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

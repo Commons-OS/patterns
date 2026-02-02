@@ -4,26 +4,44 @@ page_url: https://commons-os.github.io/patterns/subscription-model-recurring-rev
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/subscription-model-recurring-revenue.md
 slug: subscription-model-recurring-revenue
 title: Subscription Model - Recurring Revenue
-aliases: [Recurring Revenue Model, Subscription-Based Model]
+aliases:
+- Recurring Revenue Model
+- Subscription-Based Model
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: value-creation
-  category: [business-model]
-  era: [digital]
-  origin: [publishers, saas]
+  category:
+  - business-model
+  era:
+  - digital
+  origin:
+  - publishers
+  - saas
   status: draft
   commons_alignment: 3
-commons_domain: business
-generalizes_from: ["pat_01kg5023wce4htqbxf83fa5jew"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023wce4htqbxf83fa5jew
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://en.wikipedia.org/wiki/Subscription_business_model", "https://stripe.com/resources/more/subscription-business-models-101-types-of-models-how-they-work-and-how-to-choose-one", "https://www.zuora.com/glossary/subscription-business-model/", "https://www.juniperresearch.com/press/subscription-economy-to-reach-1tn-by-2030/", "Subscribed: Why the Subscription Model Will Be Your Company's Future—and What to Do About It by Tien Tzuo and Gabe Weisert"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Subscription_business_model
+- https://stripe.com/resources/more/subscription-business-models-101-types-of-models-how-they-work-and-how-to-choose-one
+- https://www.zuora.com/glossary/subscription-business-model/
+- https://www.juniperresearch.com/press/subscription-economy-to-reach-1tn-by-2030/
+- 'Subscribed: Why the Subscription Model Will Be Your Company''s Future—and What
+  to Do About It by Tien Tzuo and Gabe Weisert'
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

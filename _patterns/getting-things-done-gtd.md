@@ -6,24 +6,38 @@ slug: getting-things-done-gtd
 title: Getting Things Done (GTD)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [methodology, framework]
-  era: [digital]
-  origin: ["David Allen"]
+  category:
+  - methodology
+  - framework
+  era:
+  - digital
+  origin:
+  - David Allen
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://gettingthingsdone.com/what-is-gtd/", "https://en.wikipedia.org/wiki/Getting_Things_Done", "https://todoist.com/productivity-methods/getting-things-done", "https://asana.com/resources/getting-things-done-gtd", "https://facilethings.com/blog/en/ultimate-guide-to-gtd"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://gettingthingsdone.com/what-is-gtd/
+- https://en.wikipedia.org/wiki/Getting_Things_Done
+- https://todoist.com/productivity-methods/getting-things-done
+- https://asana.com/resources/getting-things-done-gtd
+- https://facilethings.com/blog/en/ultimate-guide-to-gtd
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

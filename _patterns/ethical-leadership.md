@@ -6,30 +6,38 @@ slug: ethical-leadership
 title: Ethical Leadership
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [principle, framework]
-  era: [digital, cognitive]
+  category:
+  - principle
+  - framework
+  era:
+  - digital
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [
-  "https://hbr.org/2020/09/a-new-model-for-ethical-leadership",
-  "https://managementconsulted.com/ethical-leadership/",
-  "https://www.forbes.com/sites/bruceweinstein/2024/02/21/ai-7-crucial-qualities-of-ethical-leadership/",
-  "https://www.mdpi.com/2071-1050/15/13/10449",
-  "https://professional.dce.harvard.edu/blog/what-is-ethical-leadership-and-why-is-it-important/"
-]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://hbr.org/2020/09/a-new-model-for-ethical-leadership
+- https://managementconsulted.com/ethical-leadership/
+- https://www.forbes.com/sites/bruceweinstein/2024/02/21/ai-7-crucial-qualities-of-ethical-leadership/
+- https://www.mdpi.com/2071-1050/15/13/10449
+- https://professional.dce.harvard.edu/blog/what-is-ethical-leadership-and-why-is-it-important/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

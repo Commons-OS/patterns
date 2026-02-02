@@ -6,24 +6,54 @@ slug: design-for-disassembly
 title: Design for Disassembly
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [practice, principle]
-  era: [digital]
+  category:
+  - practice
+  - principle
+  era:
+  - digital
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023xfergseskezjw7vhps", "pat_01kg5023xne3gs3g2247a6tg6m", "pat_01kg5023zzecsb265cca6xrxst", "pat_01kg5023zbftgswm71jpa7pdya", "pat_01kg5023vjetsaajnc397n2n2m", "pat_01kg5023zyebsatbkqyk4ffphj", "pat_01kg5023yeebha23tbpqbvfwb5", "pat_01kg5023zfejs9j7hrnhg9xnns", "pat_01kg5023xmek8szp5z4979bzb7", "pat_01kg5023xjea9ve0dr2yn0ng4v", "pat_01kg5023zyebsatbkqwveseny5", "pat_01kg5023yvehgrw2tgha4z5mxc", "pat_01kg5023vyfzhvteh01za2yrvr", "pat_01kg50240wfjh98jqx4axm2q65", "pat_01kg5023xqet0abagjfk9c2b4m"]
-contributors: [higgerix, cloudsters]
-sources: [https://www.epa.gov/sites/default/files/2015-11/documents/designfordeconstrmanual.pdf, https://www.fairphone.com/, https://reman.org/, https://www.arup.com/perspectives/publications/research/section/the-circular-economy-in-the-built-environment, https://www.sciencedirect.com/science/article/pii/S235255092400143X, https://www.archdaily.com/943366/a-guide-to-design-for-disassembly, https://www.sciencedirect.com/topics/social-sciences/design-for-disassembly, https://product.sustainability-directory.com/learn/what-are-the-core-principles-of-designing-for-disassembly/]
+related:
+- pat_01kg5023xfergseskezjw7vhps
+- pat_01kg5023xne3gs3g2247a6tg6m
+- pat_01kg5023zzecsb265cca6xrxst
+- pat_01kg5023zbftgswm71jpa7pdya
+- pat_01kg5023vjetsaajnc397n2n2m
+- pat_01kg5023zyebsatbkqyk4ffphj
+- pat_01kg5023yeebha23tbpqbvfwb5
+- pat_01kg5023zfejs9j7hrnhg9xnns
+- pat_01kg5023xmek8szp5z4979bzb7
+- pat_01kg5023xjea9ve0dr2yn0ng4v
+- pat_01kg5023zyebsatbkqwveseny5
+- pat_01kg5023yvehgrw2tgha4z5mxc
+- pat_01kg5023vyfzhvteh01za2yrvr
+- pat_01kg50240wfjh98jqx4axm2q65
+- pat_01kg5023xqet0abagjfk9c2b4m
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.epa.gov/sites/default/files/2015-11/documents/designfordeconstrmanual.pdf
+- https://www.fairphone.com/
+- https://reman.org/
+- https://www.arup.com/perspectives/publications/research/section/the-circular-economy-in-the-built-environment
+- https://www.sciencedirect.com/science/article/pii/S235255092400143X
+- https://www.archdaily.com/943366/a-guide-to-design-for-disassembly
+- https://www.sciencedirect.com/topics/social-sciences/design-for-disassembly
+- https://product.sustainability-directory.com/learn/what-are-the-core-principles-of-designing-for-disassembly/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

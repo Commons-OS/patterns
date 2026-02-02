@@ -4,26 +4,58 @@ page_url: https://commons-os.github.io/patterns/expert-systems-in-design/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/expert-systems-in-design.md
 slug: expert-systems-in-design
 title: Expert Systems in Design
-aliases: [Knowledge-Based Design Systems, Design Expert Systems]
+aliases:
+- Knowledge-Based Design Systems
+- Design Expert Systems
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: practice
-  era: [digital, cognitive]
-  origin: [academic, corporate-r-d]
+  category:
+  - practice
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - corporate-r-d
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023ydftgramg3qp7rjkam", "pat_01kg5023zwft8t7k635h086kyj", "pat_01kg5023ypf08rv1dagnb27bjj", "pat_01kg5023vwe00rptkqr3z6pkd9", "pat_01kg5023y7e50rxp3ew60jdasx", "pat_01kg5023zbftgswm71hgn15e2f", "pat_01kg5023ztenhrk74hc9a8qszj", "pat_01kg5023zwft8t7k639ctqfhce", "pat_01kg5023zwft8t7k63bfadqqwg", "pat_01kg50240wfjh98jqx34wdddnm", "pat_01kg5023xaemr9xsmd0fgaxe86", "pat_01kg5023yneg8rmv1200tvfn3g", "pat_01kg5023yneg8rmv122d6v7bg5", "pat_01kg5023xaemr9xsmcy13gf405", "pat_01kg5023xaemr9xsmcxd0eg8ek"]
-contributors: [higgerix, cloudsters]
-sources: ["https://en.wikipedia.org/wiki/Expert_system", "https://www.sciencedirect.com/science/article/abs/pii/0142694X87900019", "https://www.cs.ru.nl/P.Lucas/proe.pdf", "https://doi.org/10.1016/0004-3702(82)90023-9", "https://link.springer.com/book/10.1007/978-94-011-2019-2"]
+related:
+- pat_01kg5023ydftgramg3qp7rjkam
+- pat_01kg5023zwft8t7k635h086kyj
+- pat_01kg5023ypf08rv1dagnb27bjj
+- pat_01kg5023vwe00rptkqr3z6pkd9
+- pat_01kg5023y7e50rxp3ew60jdasx
+- pat_01kg5023zbftgswm71hgn15e2f
+- pat_01kg5023ztenhrk74hc9a8qszj
+- pat_01kg5023zwft8t7k639ctqfhce
+- pat_01kg5023zwft8t7k63bfadqqwg
+- pat_01kg50240wfjh98jqx34wdddnm
+- pat_01kg5023xaemr9xsmd0fgaxe86
+- pat_01kg5023yneg8rmv1200tvfn3g
+- pat_01kg5023yneg8rmv122d6v7bg5
+- pat_01kg5023xaemr9xsmcy13gf405
+- pat_01kg5023xaemr9xsmcxd0eg8ek
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Expert_system
+- https://www.sciencedirect.com/science/article/abs/pii/0142694X87900019
+- https://www.cs.ru.nl/P.Lucas/proe.pdf
+- https://doi.org/10.1016/0004-3702(82)90023-9
+- https://link.springer.com/book/10.1007/978-94-011-2019-2
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

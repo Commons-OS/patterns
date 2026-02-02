@@ -4,26 +4,47 @@ page_url: https://commons-os.github.io/patterns/andon-system/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/andon-system.md
 slug: andon-system
 title: Andon System
-aliases: [Andon Cord, Jidoka]
+aliases:
+- Andon Cord
+- Jidoka
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [practice]
-  era: [industrial, digital]
-  origin: [toyota]
+  category:
+  - practice
+  era:
+  - industrial
+  - digital
+  origin:
+  - toyota
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
-specializes_to: ["pat_01kg5023w2eshb12c2m56q8825"]
+specializes_to:
+- pat_01kg5023w2eshb12c2m56q8825
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://en.wikipedia.org/wiki/Andon_(manufacturing), https://www.planview.com/resources/guide/what-is-lean-manufacturing/andon-lean-manufacturing/, https://www.vorne.com/learn/key-concepts/andon/, https://www.l2l.com/guide/andon, https://www.rockwellautomation.com/en-us/company/news/case-studies/andon-solution-delivers-better-decision-making-at-toyota.html, https://signalo.us/andon/, https://www.amazon.com/Toyota-Production-System-Beyond-Large-Scale/dp/0915299143, https://www.amazon.com/Toyota-Way-Management-Principles-Manufacturer/dp/0071392319, https://www.lean.org/store/book/learning-to-see/]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Andon_(manufacturing)
+- https://www.planview.com/resources/guide/what-is-lean-manufacturing/andon-lean-manufacturing/
+- https://www.vorne.com/learn/key-concepts/andon/
+- https://www.l2l.com/guide/andon
+- https://www.rockwellautomation.com/en-us/company/news/case-studies/andon-solution-delivers-better-decision-making-at-toyota.html
+- https://signalo.us/andon/
+- https://www.amazon.com/Toyota-Production-System-Beyond-Large-Scale/dp/0915299143
+- https://www.amazon.com/Toyota-Way-Management-Principles-Manufacturer/dp/0071392319
+- https://www.lean.org/store/book/learning-to-see/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

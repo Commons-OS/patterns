@@ -4,26 +4,58 @@ page_url: https://commons-os.github.io/patterns/sociocracy-original-gerard-enden
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/sociocracy-original-gerard-endenburgs-original-model.md
 slug: sociocracy-original-gerard-endenburgs-original-model
 title: Sociocracy (Original) - Gerard Endenburg's Original Model
-aliases: [Sociocratic Circle-Organization Method, SCM]
+aliases:
+- Sociocratic Circle-Organization Method
+- SCM
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: governance
-  category: [framework]
-  era: [industrial, cognitive]
-  origin: [gerard-endenburg, kees-boeke]
+  category:
+  - framework
+  era:
+  - industrial
+  - cognitive
+  origin:
+  - gerard-endenburg
+  - kees-boeke
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg5023vveprts2at71w6e29g"]
+  commons_domain:
+  - business
+  - startup
+generalizes_from:
+- pat_01kg5023vveprts2at71w6e29g
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023xne3gs3g227jcvch6k", "pat_01kg5023x4easr02ymp7vsz81b", "pat_01kg5023y5fnhb2ej6755c58p1", "pat_01kg50240sfm8re6ep2sz2xmy5", "pat_01kg5023vwe00rptkqr3z6pkd9", "pat_01kg5023y4e708zavzfmvmx4yp", "pat_01kg50240fev1snyp2ytvn21xm", "pat_01kg50240rf3s9mqrqw0pp5mwn", "pat_01kg5023x3f8gtc1a31gws6jj3", "pat_01kg5023y4e708zavzcte3n4dd", "pat_01kg5023xmek8szp5z3c5dc977", "pat_01kg5023y8e9ssb52a5snc91pm", "pat_01kg5023xbed1bnd9kg5m8pqq0", "pat_01kg5023vhev9b6swdrszd75z9", "pat_01kg5023whehgsjwtbrb92n8n3"]
-contributors: [higgerix, cloudsters]
-sources: [https://www.sociocracy.info/gerard-endenburg/, https://www.sociocracyforall.org/gerard-endenburg-founder-of-sociocratic-circle-method-and-pioneer-of-self-management/, https://www.sociocracyforall.org/case-studies/, https://www.researchgate.net/publication/228053863_The_sociocratic_model_of_organizing, https://www.sociocracyforall.org/sociocracy-books/]
+related:
+- pat_01kg5023xne3gs3g227jcvch6k
+- pat_01kg5023x4easr02ymp7vsz81b
+- pat_01kg5023y5fnhb2ej6755c58p1
+- pat_01kg50240sfm8re6ep2sz2xmy5
+- pat_01kg5023vwe00rptkqr3z6pkd9
+- pat_01kg5023y4e708zavzfmvmx4yp
+- pat_01kg50240fev1snyp2ytvn21xm
+- pat_01kg50240rf3s9mqrqw0pp5mwn
+- pat_01kg5023x3f8gtc1a31gws6jj3
+- pat_01kg5023y4e708zavzcte3n4dd
+- pat_01kg5023xmek8szp5z3c5dc977
+- pat_01kg5023y8e9ssb52a5snc91pm
+- pat_01kg5023xbed1bnd9kg5m8pqq0
+- pat_01kg5023vhev9b6swdrszd75z9
+- pat_01kg5023whehgsjwtbrb92n8n3
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.sociocracy.info/gerard-endenburg/
+- https://www.sociocracyforall.org/gerard-endenburg-founder-of-sociocratic-circle-method-and-pioneer-of-self-management/
+- https://www.sociocracyforall.org/case-studies/
+- https://www.researchgate.net/publication/228053863_The_sociocratic_model_of_organizing
+- https://www.sociocracyforall.org/sociocracy-books/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

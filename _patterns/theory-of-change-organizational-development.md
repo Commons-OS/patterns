@@ -3,27 +3,44 @@ id: pat_01kg502405es8af4s5zp08vr9z
 page_url: https://commons-os.github.io/patterns/theory-of-change-organizational-development/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/theory-of-change-organizational-development.md
 slug: theory-of-change-organizational-development
-title: "Theory of Change: Organizational Development"
+title: 'Theory of Change: Organizational Development'
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [framework, methodology]
-  era: [cognitive]
-  origin: ["Aspen Institute", "Carol Weiss"]
+  category:
+  - framework
+  - methodology
+  era:
+  - cognitive
+  origin:
+  - Aspen Institute
+  - Carol Weiss
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://implementationscience.biomedcentral.com/articles/10.1186/s13012-016-0422-6", "https://www.theoryofchange.org/pdf/TOC_fac_guide.pdf", "https://analysisfunction.civilservice.gov.uk/policy-store/the-analysis-function-theory-of-change-toolkit/", "https://www.tandfonline.com/doi/abs/10.1080/20430795.2013.776257", "https://journals.sagepub.com/doi/full/10.1177/2053951714528481", "https://beeckcenter.georgetown.edu/wp-content/uploads/2023/01/ToC2_final.pdf", "https://www.mozillafoundation.org/en/insights/trustworthy-ai-whitepaper/path-forward/introduction-theory-change/"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://implementationscience.biomedcentral.com/articles/10.1186/s13012-016-0422-6
+- https://www.theoryofchange.org/pdf/TOC_fac_guide.pdf
+- https://analysisfunction.civilservice.gov.uk/policy-store/the-analysis-function-theory-of-change-toolkit/
+- https://www.tandfonline.com/doi/abs/10.1080/20430795.2013.776257
+- https://journals.sagepub.com/doi/full/10.1177/2053951714528481
+- https://beeckcenter.georgetown.edu/wp-content/uploads/2023/01/ToC2_final.pdf
+- https://www.mozillafoundation.org/en/insights/trustworthy-ai-whitepaper/path-forward/introduction-theory-change/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

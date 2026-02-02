@@ -26,7 +26,9 @@ classification:
   - organizational-theory
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to:
 - pat_01kg5023vgec9bpzpwctk4xpv1

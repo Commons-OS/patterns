@@ -4,31 +4,40 @@ page_url: https://commons-os.github.io/patterns/adaptive-software-development/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/adaptive-software-development.md
 slug: adaptive-software-development
 title: Adaptive Software Development
-aliases: [ASD]
+aliases:
+- ASD
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: context-specific
   domain: design
-  category: methodology
-  era: [digital]
-  origin: [jim-highsmith, sam-bayer]
+  category:
+  - methodology
+  era:
+  - digital
+  origin:
+  - jim-highsmith
+  - sam-bayer
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - "https://www.geeksforgeeks.org/software-engineering/adaptive-software-development-asd/"
-  - "https://en.wikipedia.org/wiki/Adaptive_software_development"
-  - "https://thinkpalm.com/blogs/all-about-adaptive-software-development-asd/"
-  - "https://www.productplan.com/glossary/adaptive-software-development/"
-  - "https://www.amazon.com/Adaptive-Software-Development-Collaborative-Approach/dp/0932633404"
+- https://www.geeksforgeeks.org/software-engineering/adaptive-software-development-asd/
+- https://en.wikipedia.org/wiki/Adaptive_software_development
+- https://thinkpalm.com/blogs/all-about-adaptive-software-development-asd/
+- https://www.productplan.com/glossary/adaptive-software-development/
+- https://www.amazon.com/Adaptive-Software-Development-Collaborative-Approach/dp/0932633404
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -6,23 +6,29 @@ slug: materials-selection-process-ashby-charts
 title: Materials Selection Process (Ashby Charts)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: operations
-  category: [methodology]
-  era: [industrial]
+  category:
+  - methodology
+  era:
+  - industrial
   origin: []
   status: draft
   commons_alignment: 2
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

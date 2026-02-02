@@ -6,24 +6,42 @@ slug: new-product-development-npd-process-booz-allen-hamilton
 title: New Product Development (NPD) Process (Booz, Allen & Hamilton)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: design
-  category: [framework]
-  era: [industrial]
+  category:
+  - framework
+  era:
+  - industrial
   origin: []
   status: draft
   commons_alignment: 2
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["Booz, Allen & Hamilton Inc. (1982). New Products Management for the 1980s. New York: Booz, Allen & Hamilton.", "\"Booz, Allen, and Hamilton's New Product Process.\" Jones & Bartlett Learning. Accessed January 28, 2026. http://samples.jbpub.com/9780763782610/82610_ch02_pass02.pdf.", "\"New product development.\" Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 28 Jan. 2026. Web. 28 Jan. 2026.", "Cooper, R. G. (1990). Stage-gate systems: a new tool for managing new products. Business horizons, 33(3), 44-54.", "Griffin, A. (1997). PDMA research on new product development practices: Updating trends and benchmarking best practices. Journal of product innovation management, 14(6), 429-458."]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- 'Booz, Allen & Hamilton Inc. (1982). New Products Management for the 1980s. New
+  York: Booz, Allen & Hamilton.'
+- '"Booz, Allen, and Hamilton''s New Product Process." Jones & Bartlett Learning.
+  Accessed January 28, 2026. http://samples.jbpub.com/9780763782610/82610_ch02_pass02.pdf.'
+- '"New product development." Wikipedia, The Free Encyclopedia. Wikipedia, The Free
+  Encyclopedia, 28 Jan. 2026. Web. 28 Jan. 2026.'
+- 'Cooper, R. G. (1990). Stage-gate systems: a new tool for managing new products.
+  Business horizons, 33(3), 44-54.'
+- 'Griffin, A. (1997). PDMA research on new product development practices: Updating
+  trends and benchmarking best practices. Journal of product innovation management,
+  14(6), 429-458.'
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

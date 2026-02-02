@@ -4,26 +4,40 @@ page_url: https://commons-os.github.io/patterns/rapid-application-development-ra
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/rapid-application-development-rad.md
 slug: rapid-application-development-rad
 title: Rapid Application Development (RAD)
-aliases: [Rapid Application Building (RAB)]
+aliases:
+- Rapid Application Building (RAB)
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: design
   domain: domain
-  category: [methodology]
-  era: [digital]
-  origin: [james-martin, ibm]
+  category:
+  - methodology
+  era:
+  - digital
+  origin:
+  - james-martin
+  - ibm
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://en.wikipedia.org/wiki/Rapid_application_development", "https://www.salesforce.com/platform/enterprise-app-development/rapid-application-development-guide/", "http://damiantgordon.com/Methodologies/Papers/Rapid%20Application%20Development%20RAD%20An%20Empirical%20Review.pdf", "Martin, J. (1991). Rapid Application Development", "Kerr, J., & Hunter, R. (1993). Inside RAD"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Rapid_application_development
+- https://www.salesforce.com/platform/enterprise-app-development/rapid-application-development-guide/
+- http://damiantgordon.com/Methodologies/Papers/Rapid%20Application%20Development%20RAD%20An%20Empirical%20Review.pdf
+- Martin, J. (1991). Rapid Application Development
+- Kerr, J., & Hunter, R. (1993). Inside RAD
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

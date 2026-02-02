@@ -4,26 +4,42 @@ page_url: https://commons-os.github.io/patterns/ab-testing/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/ab-testing.md
 slug: ab-testing
 title: A/B Testing
-aliases: [split testing, bucket testing, split-run testing]
+aliases:
+- split testing
+- bucket testing
+- split-run testing
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [methodology]
-  era: [digital]
-  origin: [web-development, marketing]
+  category:
+  - methodology
+  era:
+  - digital
+  origin:
+  - web-development
+  - marketing
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://unbounce.com/a-b-testing/examples/", "https://en.wikipedia.org/wiki/A/B_testing", "https://www.optimizely.com/optimization-glossary/ab-testing/", "https://hbr.org/2017/06/a-refresher-on-ab-testing", "https://www.nngroup.com/articles/ab-testing/"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://unbounce.com/a-b-testing/examples/
+- https://en.wikipedia.org/wiki/A/B_testing
+- https://www.optimizely.com/optimization-glossary/ab-testing/
+- https://hbr.org/2017/06/a-refresher-on-ab-testing
+- https://www.nngroup.com/articles/ab-testing/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

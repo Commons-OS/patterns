@@ -6,24 +6,40 @@ slug: foundational-economy-essential-services
 title: Foundational Economy - Essential Services
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, principle]
-  era: [industrial, cognitive]
-  origin: ["Foundational Economy Collective"]
+  category:
+  - framework
+  - principle
+  era:
+  - industrial
+  - cognitive
+  origin:
+  - Foundational Economy Collective
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg5023wgfr18qmwgjnmvv1p8"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023wgfr18qmwgjnmvv1p8
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://foundationaleconomy.com/", "https://www.exploring-economics.org/en/discover/the-foundational-economy/", "https://hummedia.manchester.ac.uk/institutes/cresc/workingpapers/wp131.pdf", "https://www.manchesteruniversitypress.co.uk/9781526164681/", "https://policy.bristoluniversitypress.co.uk/the-foundational-economy-and-citizenship"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://foundationaleconomy.com/
+- https://www.exploring-economics.org/en/discover/the-foundational-economy/
+- https://hummedia.manchester.ac.uk/institutes/cresc/workingpapers/wp131.pdf
+- https://www.manchesteruniversitypress.co.uk/9781526164681/
+- https://policy.bristoluniversitypress.co.uk/the-foundational-economy-and-citizenship
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -15,13 +15,17 @@ modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: sustainability
-  category: framework
+  category:
+  - framework
   era: industrial
   origin:
   - John Elkington
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []

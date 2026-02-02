@@ -4,31 +4,41 @@ page_url: https://commons-os.github.io/patterns/arts-and-crafts-movement-design-
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/arts-and-crafts-movement-design-principles.md
 slug: arts-and-crafts-movement-design-principles
 title: Arts and Crafts Movement Design Principles
-aliases: [Arts and Crafts, Craftsman Style]
+aliases:
+- Arts and Crafts
+- Craftsman Style
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: principle
-  era: [industrial]
-  origin: [william-morris, john-ruskin]
+  category:
+  - principle
+  era:
+  - industrial
+  origin:
+  - william-morris
+  - john-ruskin
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: 
-  - https://www.vam.ac.uk/articles/arts-and-crafts-an-introduction
-  - https://en.wikipedia.org/wiki/Arts_and_Crafts_movement
-  - https://www.metmuseum.org/essays/the-arts-and-crafts-movement-in-america
-  - https://www.theartstory.org/movement/arts-and-crafts/
-  - https://www.britannica.com/art/Arts-and-Crafts-movement
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.vam.ac.uk/articles/arts-and-crafts-an-introduction
+- https://en.wikipedia.org/wiki/Arts_and_Crafts_movement
+- https://www.metmuseum.org/essays/the-arts-and-crafts-movement-in-america
+- https://www.theartstory.org/movement/arts-and-crafts/
+- https://www.britannica.com/art/Arts-and-Crafts-movement
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

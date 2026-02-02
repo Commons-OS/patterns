@@ -6,23 +6,32 @@ slug: true-cost-accounting-externalities-included
 title: True Cost Accounting - Externalities Included
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, methodology]
-  era: [cognitive]
+  category:
+  - framework
+  - methodology
+  era:
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 3
-commons_domain: business
-generalizes_from: ["pat_01kg502408eg1s5s6d64g2rn6t"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg502408eg1s5s6d64g2rn6t
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

@@ -4,26 +4,45 @@ page_url: https://commons-os.github.io/patterns/intergenerational-equity-framewo
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/intergenerational-equity-frameworks.md
 slug: intergenerational-equity-frameworks
 title: Intergenerational Equity Frameworks
-aliases: ["Intergenerational Justice", "Intergenerational Fairness", "Future Generations Framework"]
+aliases:
+- Intergenerational Justice
+- Intergenerational Fairness
+- Future Generations Framework
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: design
-  category: [framework]
-  era: [digital, cognitive]
-  origin: ["academic", "environmentalism", "sustainable-development"]
+  category:
+  - framework
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - environmentalism
+  - sustainable-development
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://en.wikipedia.org/wiki/Intergenerational_equity", "https://foresight.unglobalpulse.net/intergenerational-equity/", "https://oxford-review.com/the-oxford-review-dei-diversity-equity-and-inclusion-dictionary/intergenerational-equity-definition-and-explanation/", "https://unsceb.org/sites/default/files/2024-01/FAQ%20on%20Duties%20to%20the%20future%20through%20an%20intergenerational%20equity%20lens%20%28HLCP%20core%20group%20on%20duties%20to%20the%20future%29.pdf", "https://futuregenerations.wales/discover/about-future-generations-commissioner/future-generations-act-2015/"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Intergenerational_equity
+- https://foresight.unglobalpulse.net/intergenerational-equity/
+- https://oxford-review.com/the-oxford-review-dei-diversity-equity-and-inclusion-dictionary/intergenerational-equity-definition-and-explanation/
+- https://unsceb.org/sites/default/files/2024-01/FAQ%20on%20Duties%20to%20the%20future%20through%20an%20intergenerational%20equity%20lens%20%28HLCP%20core%20group%20on%20duties%20to%20the%20future%29.pdf
+- https://futuregenerations.wales/discover/about-future-generations-commissioner/future-generations-act-2015/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

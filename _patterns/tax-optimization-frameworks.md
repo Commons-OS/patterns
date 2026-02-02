@@ -4,25 +4,36 @@ page_url: https://commons-os.github.io/patterns/tax-optimization-frameworks/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/tax-optimization-frameworks.md
 slug: tax-optimization-frameworks
 title: Tax Optimization Frameworks
-aliases: [Tax Planning, Tax Strategy]
+aliases:
+- Tax Planning
+- Tax Strategy
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: meta
-  category: [framework]
-  era: [digital]
-  origin: [academic, financial-planning]
+  category:
+  - framework
+  era:
+  - digital
+  origin:
+  - academic
+  - financial-planning
   status: draft
   commons_alignment: 2
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

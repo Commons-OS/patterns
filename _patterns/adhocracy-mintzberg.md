@@ -4,26 +4,41 @@ page_url: https://commons-os.github.io/patterns/adhocracy-mintzberg/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/adhocracy-mintzberg.md
 slug: adhocracy-mintzberg
 title: Adhocracy (Mintzberg)
-aliases: [Innovative Organization]
+aliases:
+- Innovative Organization
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [digital, cognitive]
-  origin: [academic]
+  category:
+  - framework
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["Mintzberg, H. (1980). Structure in 5's: A Synthesis of the Research on Organization Design.", "Toffler, A. (1970). Future Shock.", "Waterman, R. H., Jr. (1990). Adhocracy: The power to change.", "Birkinshaw, J., & Ridderstråle, J. (2015). Adhocracy for an agile age.", "Wikipedia. (n.d.). Adhocracy."]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- 'Mintzberg, H. (1980). Structure in 5''s: A Synthesis of the Research on Organization
+  Design.'
+- Toffler, A. (1970). Future Shock.
+- 'Waterman, R. H., Jr. (1990). Adhocracy: The power to change.'
+- Birkinshaw, J., & Ridderstråle, J. (2015). Adhocracy for an agile age.
+- Wikipedia. (n.d.). Adhocracy.
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

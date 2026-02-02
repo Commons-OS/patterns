@@ -4,26 +4,40 @@ page_url: https://commons-os.github.io/patterns/activity-based-costing-abc-cost-
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/activity-based-costing-abc-cost-allocation.md
 slug: activity-based-costing-abc-cost-allocation
 title: Activity-Based Costing (ABC) - Cost Allocation
-aliases: [Activity-Based Management, ABM]
+aliases:
+- Activity-Based Management
+- ABM
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: methodology
+  category:
+  - methodology
   era: industrial
-  origin: [academic]
+  origin:
+  - academic
   status: draft
   commons_alignment: 3
-commons_domain: business
-generalizes_from: ["pat_01kg5023wve518kpr3a3jgf12e"]
+  commons_domain:
+  - business
+  - startup
+generalizes_from:
+- pat_01kg5023wve518kpr3a3jgf12e
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.investopedia.com/terms/a/abc.asp", "https://www.netsuite.com/portal/resource/articles/accounting/activity-based-costing-abc.shtml", "https://thesystemsthinker.com/abc-initiating-large-scale-change-at-chrysler/", "https://www.healthcatalyst.com/learn/success-stories/activity-based-costing-in-healthcare-service-lines-upmc", "https://www.forbes.com/councils/forbestechcouncil/2024/08/19/optimizing-ai-investments-how-to-leverage-activity-based-costing/"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.investopedia.com/terms/a/abc.asp
+- https://www.netsuite.com/portal/resource/articles/accounting/activity-based-costing-abc.shtml
+- https://thesystemsthinker.com/abc-initiating-large-scale-change-at-chrysler/
+- https://www.healthcatalyst.com/learn/success-stories/activity-based-costing-in-healthcare-service-lines-upmc
+- https://www.forbes.com/councils/forbestechcouncil/2024/08/19/optimizing-ai-investments-how-to-leverage-activity-based-costing/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

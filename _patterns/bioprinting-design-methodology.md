@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/bioprinting-design-methodology/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/bioprinting-design-methodology.md
 slug: bioprinting-design-methodology
 title: Bioprinting Design Methodology
-aliases: [3D Bioprinting, Organ Printing, Biofabrication]
+aliases:
+- 3D Bioprinting
+- Organ Printing
+- Biofabrication
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: design
-  category: [methodology]
-  era: [cognitive]
-  origin: [academic, biotechnology]
+  category:
+  - methodology
+  era:
+  - cognitive
+  origin:
+  - academic
+  - biotechnology
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7480731/, https://www.sciencedirect.com/science/article/pii/S2405886619300399, https://www.igb.fraunhofer.de/en/reference-projects/sop-bioprint.html, https://pubmed.ncbi.nlm.nih.gov/29909085/, https://www.sciencedirect.com/science/article/pii/S2452199X2400505X]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC7480731/
+- https://www.sciencedirect.com/science/article/pii/S2405886619300399
+- https://www.igb.fraunhofer.de/en/reference-projects/sop-bioprint.html
+- https://pubmed.ncbi.nlm.nih.gov/29909085/
+- https://www.sciencedirect.com/science/article/pii/S2452199X2400505X
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -3,26 +3,33 @@ id: pat_sqh72b7qkfeolm5dj6b76bsxwu
 page_url: https://commons-os.github.io/patterns/behavior-driven-development-bdd-specification-by-example/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/behavior-driven-development-bdd-specification-by-example.md
 slug: behavior-driven-development-bdd-specification-by-example
-title: "Behavior Driven Development Bdd Specification By Example"
+title: Behavior Driven Development Bdd Specification By Example
 aliases: []
-version: "1.0"
-created: "2026-02-01T21:15:43Z"
-modified: "2026-02-01T21:15:43Z"
+version: '1.0'
+created: '2026-02-01T21:15:43Z'
+modified: '2026-02-01T21:15:43Z'
 classification:
   universality: universal
   domain: operations
-  category: [practice]
-  era: [digital]
-  origin: [Commons OS]
+  category:
+  - practice
+  era:
+  - digital
+  origin:
+  - Commons OS
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [commons-os]
+contributors:
+- commons-os
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

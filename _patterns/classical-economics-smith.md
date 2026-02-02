@@ -4,26 +4,42 @@ page_url: https://commons-os.github.io/patterns/classical-economics-smith/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/classical-economics-smith.md
 slug: classical-economics-smith
 title: Classical Economics (Smith)
-aliases: [Classical Political Economy, Smithian Economics]
+aliases:
+- Classical Political Economy
+- Smithian Economics
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [industrial]
-  origin: [academic]
+  category:
+  - framework
+  era:
+  - industrial
+  origin:
+  - academic
   status: draft
   commons_alignment: 1
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.britannica.com/money/classical-economics", "https://en.wikipedia.org/wiki/Classical_economics", "https://www.investopedia.com/updates/adam-smith-economics/", "https://www.khanacademy.org/humanities/ap-us-history/period-6/apush-controversies-over-the-role-of-government-in-the-gilded-age-lesson/a/laissez-faire-policies-in-the-gilded-age", "Heilbroner, Robert L. The Worldly Philosophers: The Lives, Times, and Ideas of the Great Economic Thinkers. 7th ed., Touchstone, 1999."]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.britannica.com/money/classical-economics
+- https://en.wikipedia.org/wiki/Classical_economics
+- https://www.investopedia.com/updates/adam-smith-economics/
+- https://www.khanacademy.org/humanities/ap-us-history/period-6/apush-controversies-over-the-role-of-government-in-the-gilded-age-lesson/a/laissez-faire-policies-in-the-gilded-age
+- 'Heilbroner, Robert L. The Worldly Philosophers: The Lives, Times, and Ideas of
+  the Great Economic Thinkers. 7th ed., Touchstone, 1999.'
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -4,26 +4,46 @@ page_url: https://commons-os.github.io/patterns/collective-leadership-various-mo
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/collective-leadership-various-models.md
 slug: collective-leadership-various-models
 title: Collective Leadership - Various Models
-aliases: [Shared Leadership, Distributed Leadership, Collaborative Leadership]
+aliases:
+- Shared Leadership
+- Distributed Leadership
+- Collaborative Leadership
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: meta-pattern
-  era: [industrial, digital, cognitive]
-  origin: [academic, organizational-theory]
+  category:
+  - meta-pattern
+  era:
+  - industrial
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - organizational-theory
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg5023wyfeht2yyf00zh5d5h"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023wyfeht2yyf00zh5d5h
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.pon.harvard.edu/daily/leadership-skills-daily/what-is-collective-leadership/, https://nonprofitquarterly.org/five-elements-collective-leadership/, https://www.roundskysolutions.com/key-practices-collaborative-leader/, https://voltagecontrol.com/blog/successful-collaborative-leadership-in-action-case-studies-and-real-world-examples/, https://www.collectiveleadership.de/]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.pon.harvard.edu/daily/leadership-skills-daily/what-is-collective-leadership/
+- https://nonprofitquarterly.org/five-elements-collective-leadership/
+- https://www.roundskysolutions.com/key-practices-collaborative-leader/
+- https://voltagecontrol.com/blog/successful-collaborative-leadership-in-action-case-studies-and-real-world-examples/
+- https://www.collectiveleadership.de/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -13,7 +13,8 @@ modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: sustainability
-  category: meta-pattern
+  category:
+  - meta-pattern
   era:
   - industrial
   - digital
@@ -22,7 +23,9 @@ classification:
   - academic
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to:
 - pat_01kg5023z6f40rvkrsnzmmc3vf

@@ -6,23 +6,33 @@ slug: solidarity-economy-alternative-paradigm
 title: Solidarity Economy - Alternative Paradigm
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, meta-pattern]
-  era: [digital, cognitive]
+  category:
+  - framework
+  - meta-pattern
+  era:
+  - digital
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 5
-commons_domain: business
-generalizes_from: ["pat_01kg5023whehgsjwtbq21f60nk"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023whehgsjwtbq21f60nk
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

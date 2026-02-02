@@ -1,16 +1,21 @@
 ---
 id: pat_6b5b4f05bed64ed485dc1fad
-title: "Hire for Mission Alignment"
+title: Hire for Mission Alignment
 slug: hire-for-mission-alignment
 aliases: []
 classification:
   universality: domain
   domain: startup
-  category: [team]
-  era: [cognitive]
-  origin: [startup-ecosystem]
+  category:
+  - team
+  era:
+  - cognitive
+  origin:
+  - startup-ecosystem
   status: draft
   commons_alignment: 5
+  commons_domain:
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
@@ -20,17 +25,16 @@ confidence_score: 0.7
 sources: []
 version: 1.0.0
 last_updated: 2026-02-01
-page_url: "https://commons-os.github.io/patterns/hire-for-mission-alignment/"
-github_url: "https://github.com/Commons-OS/patterns/blob/main/_patterns/hire-for-mission-alignment.md"
+page_url: https://commons-os.github.io/patterns/hire-for-mission-alignment/
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/hire-for-mission-alignment.md
 created: 2026-02-01
 modified: 2026-02-01
-commons_domain: startup
 contributors:
-  - name: "Commons OS"
-    role: author
-license: "CC-BY-SA-4.0"
-attribution: "Commons OS Pattern Library"
-repository: "https://github.com/Commons-OS/patterns"
+- name: Commons OS
+  role: author
+license: CC-BY-SA-4.0
+attribution: Commons OS Pattern Library
+repository: https://github.com/Commons-OS/patterns
 ---
 
 ## Hire for Mission Alignment

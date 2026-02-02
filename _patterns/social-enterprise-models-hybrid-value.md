@@ -3,30 +3,40 @@ id: pat_01kg502400fggs2ayqnyfrvfrk
 page_url: https://commons-os.github.io/patterns/social-enterprise-models-hybrid-value/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/social-enterprise-models-hybrid-value.md
 slug: social-enterprise-models-hybrid-value
-title: "Social Enterprise Models: Hybrid Value"
-aliases: ["Hybrid Social Enterprise", "Hybrid Value Chain"]
+title: 'Social Enterprise Models: Hybrid Value'
+aliases:
+- Hybrid Social Enterprise
+- Hybrid Value Chain
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: meta-pattern
+  category:
+  - meta-pattern
   era: digital
-  origin: [academic, social-sector]
+  origin:
+  - academic
+  - social-sector
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg5023wdeh98phj10nzxp70t"]
+  commons_domain:
+  - business
+  - startup
+generalizes_from:
+- pat_01kg5023wdeh98phj10nzxp70t
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
-attribution: "Commons OS distributed by cloudsters, https://cloudsters.net"
-repository: "https://github.com/commons-os/patterns"
+attribution: Commons OS distributed by cloudsters, https://cloudsters.net
+repository: https://github.com/commons-os/patterns
 ---
 
 ### 1. Overview (150-300 words)

@@ -6,31 +6,38 @@ slug: resource-based-view
 title: Resource-Based View
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [industrial]
+  category:
+  - framework
+  era:
+  - industrial
   origin: []
   status: draft
   commons_alignment: 2
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://en.wikipedia.org/wiki/Resource-based_view
-  - https://strategicmanagementinsight.com/tools/resource-based-view/
-  - https://www.saviom.com/blog/using-the-resource-based-view-strategy-for-competitive-advantage/
-  - https://umbrex.com/resources/frameworks/strategy-frameworks/resource-based-view/
-  - https://medium.com/@amirghobadi/cracking-the-code-strategy-demystified-through-the-resource-based-view-cac8b33a9014
-  - https://sms.onlinelibrary.wiley.com/doi/abs/10.1002/smj.573
-  - https://www.researchgate.net/publication/339838548_An_Integrated_Artificial_Intelligence_and_Resource_Base_View_Model_for_Creating_Competitive_Advantage
+- https://en.wikipedia.org/wiki/Resource-based_view
+- https://strategicmanagementinsight.com/tools/resource-based-view/
+- https://www.saviom.com/blog/using-the-resource-based-view-strategy-for-competitive-advantage/
+- https://umbrex.com/resources/frameworks/strategy-frameworks/resource-based-view/
+- https://medium.com/@amirghobadi/cracking-the-code-strategy-demystified-through-the-resource-based-view-cac8b33a9014
+- https://sms.onlinelibrary.wiley.com/doi/abs/10.1002/smj.573
+- https://www.researchgate.net/publication/339838548_An_Integrated_Artificial_Intelligence_and_Resource_Base_View_Model_for_Creating_Competitive_Advantage
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

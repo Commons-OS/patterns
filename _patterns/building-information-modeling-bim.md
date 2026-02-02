@@ -14,7 +14,8 @@ modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: methodology
+  category:
+  - methodology
   era:
   - digital
   - cognitive
@@ -23,7 +24,9 @@ classification:
   - autodesk
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []

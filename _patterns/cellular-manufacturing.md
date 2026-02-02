@@ -13,14 +13,17 @@ modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: context-specific
   domain: operations
-  category: methodology
+  category:
+  - methodology
   era: industrial
   origin:
   - group-technology
   - toyota-production-system
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to:
 - pat_01kg50240kf018z02b2h9yk9eq

@@ -4,31 +4,43 @@ page_url: https://commons-os.github.io/patterns/cellular-manufacturing-work-cell
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/cellular-manufacturing-work-cell-design.md
 slug: cellular-manufacturing-work-cell-design
 title: Cellular Manufacturing - Work Cell Design
-aliases: [Work Cells, Cellular Production, Group Technology]
+aliases:
+- Work Cells
+- Cellular Production
+- Group Technology
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: context-specific
   domain: operations
-  category: practice
+  category:
+  - practice
   era: industrial
-  origin: [lean-manufacturing, toyota-production-system]
+  origin:
+  - lean-manufacturing
+  - toyota-production-system
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg50240gfv9r5nq1bakt3ahd"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg50240gfv9r5nq1bakt3ahd
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://www.epa.gov/sustainability/lean-thinking-and-methods-cellular-manufacturing
-  - https://www.investopedia.com/terms/w/work-cell.asp
-  - https://strategosinc.com/RESOURCES/07-Layout-Facilities/celldesign.htm
-  - https://www.prositconsult.com/case-studies/case-study-standard-work-and-cellular-manufacturing/
-  - https://jotsjournal.org/articles/10.21061/jots.v27i2.a.3
+- https://www.epa.gov/sustainability/lean-thinking-and-methods-cellular-manufacturing
+- https://www.investopedia.com/terms/w/work-cell.asp
+- https://strategosinc.com/RESOURCES/07-Layout-Facilities/celldesign.htm
+- https://www.prositconsult.com/case-studies/case-study-standard-work-and-cellular-manufacturing/
+- https://jotsjournal.org/articles/10.21061/jots.v27i2.a.3
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

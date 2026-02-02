@@ -4,31 +4,42 @@ page_url: https://commons-os.github.io/patterns/ai-driven-topology-optimization/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/ai-driven-topology-optimization.md
 slug: ai-driven-topology-optimization
 title: AI-Driven Topology Optimization
-aliases: ["Machine Learning-Based Topology Optimization", "Deep Learning Topology Optimization"]
+aliases:
+- Machine Learning-Based Topology Optimization
+- Deep Learning Topology Optimization
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: technology
-  category: [methodology]
-  era: [cognitive]
-  origin: [academic, industry]
+  category:
+  - methodology
+  era:
+  - cognitive
+  origin:
+  - academic
+  - industry
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://www.sciencedirect.com/science/article/abs/pii/S0045782522003036
-  - https://www.neuralconcept.com/post/topology-optimization-vs-generative-design
-  - https://www.diabatix.com/technology/topology-optimization
-  - https://ieeexplore.ieee.org/document/10974355
-  - https://academic.oup.com/jcde/article/10/4/1736/7223974
+- https://www.sciencedirect.com/science/article/abs/pii/S0045782522003036
+- https://www.neuralconcept.com/post/topology-optimization-vs-generative-design
+- https://www.diabatix.com/technology/topology-optimization
+- https://ieeexplore.ieee.org/document/10974355
+- https://academic.oup.com/jcde/article/10/4/1736/7223974
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

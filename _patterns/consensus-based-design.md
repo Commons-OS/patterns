@@ -6,24 +6,51 @@ slug: consensus-based-design
 title: Consensus-Based Design
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T15:42:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 15:42:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [methodology, practice]
-  era: [cognitive]
+  category:
+  - methodology
+  - practice
+  era:
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023xne3gs3g227jcvch6k", "pat_01kg5023x4easr02ymp7vsz81b", "pat_01kg5023y5fnhb2ej6755c58p1", "pat_01kg50240sfm8re6ep2sz2xmy5", "pat_01kg5023vwe00rptkqr3z6pkd9", "pat_01kg5023y4e708zavzfmvmx4yp", "pat_01kg50240fev1snyp2ytvn21xm", "pat_01kg50240rf3s9mqrqw0pp5mwn", "pat_01kg5023x3f8gtc1a31gws6jj3", "pat_01kg5023y4e708zavzcte3n4dd", "pat_01kg5023xmek8szp5z3c5dc977", "pat_01kg5023y8e9ssb52a5snc91pm", "pat_01kg5023xbed1bnd9kg5m8pqq0", "pat_01kg5023vhev9b6swdrszd75z9", "pat_01kg5023whehgsjwtbrb92n8n3"]
-contributors: [higgerix, cloudsters]
-sources: [https://en.wikipedia.org/wiki/Consensus_decision-making, https://www.tamarackcommunity.ca/hubfs/Resources/Tools/Practical%20Guide%20for%20Consensus-Based%20Decision%20Making.pdf, https://romanpichler.medium.com/making-consensus-based-product-decisions-75babd1cf7ea, https://medium.com/@briannakoch/building-consensus-when-making-subjective-design-decisions-7c4dea360e6b, https://deckerdesign.com/2019/09/evidence-based-design-process-strengths/]
+related:
+- pat_01kg5023xne3gs3g227jcvch6k
+- pat_01kg5023x4easr02ymp7vsz81b
+- pat_01kg5023y5fnhb2ej6755c58p1
+- pat_01kg50240sfm8re6ep2sz2xmy5
+- pat_01kg5023vwe00rptkqr3z6pkd9
+- pat_01kg5023y4e708zavzfmvmx4yp
+- pat_01kg50240fev1snyp2ytvn21xm
+- pat_01kg50240rf3s9mqrqw0pp5mwn
+- pat_01kg5023x3f8gtc1a31gws6jj3
+- pat_01kg5023y4e708zavzcte3n4dd
+- pat_01kg5023xmek8szp5z3c5dc977
+- pat_01kg5023y8e9ssb52a5snc91pm
+- pat_01kg5023xbed1bnd9kg5m8pqq0
+- pat_01kg5023vhev9b6swdrszd75z9
+- pat_01kg5023whehgsjwtbrb92n8n3
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Consensus_decision-making
+- https://www.tamarackcommunity.ca/hubfs/Resources/Tools/Practical%20Guide%20for%20Consensus-Based%20Decision%20Making.pdf
+- https://romanpichler.medium.com/making-consensus-based-product-decisions-75babd1cf7ea
+- https://medium.com/@briannakoch/building-consensus-when-making-subjective-design-decisions-7c4dea360e6b
+- https://deckerdesign.com/2019/09/evidence-based-design-process-strengths/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

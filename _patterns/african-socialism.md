@@ -4,31 +4,42 @@ page_url: https://commons-os.github.io/patterns/african-socialism/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/african-socialism.md
 slug: african-socialism
 title: African Socialism
-aliases: [Afrosocialism]
+aliases:
+- Afrosocialism
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [industrial, cognitive]
-  origin: [academic, political-leaders]
+  category:
+  - framework
+  era:
+  - industrial
+  - cognitive
+  origin:
+  - academic
+  - political-leaders
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://en.wikipedia.org/wiki/African_socialism
-  - https://www.britannica.com/money/African-socialism
-  - https://www.marxists.org/subject/africa/nkrumah/1967/african-socialism-revisited.htm
-  - https://www.aehnetwork.org/working-papers/african-socialism-or-the-search-for-an-indigenous-model-of-economic-development/
-  - https://socialistregister.com/index.php/srv/article/view/5974
+- https://en.wikipedia.org/wiki/African_socialism
+- https://www.britannica.com/money/African-socialism
+- https://www.marxists.org/subject/africa/nkrumah/1967/african-socialism-revisited.htm
+- https://www.aehnetwork.org/working-papers/african-socialism-or-the-search-for-an-indigenous-model-of-economic-development/
+- https://socialistregister.com/index.php/srv/article/view/5974
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

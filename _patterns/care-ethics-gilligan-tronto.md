@@ -4,26 +4,42 @@ page_url: https://commons-os.github.io/patterns/care-ethics-gilligan-tronto/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/care-ethics-gilligan-tronto.md
 slug: care-ethics-gilligan-tronto
 title: Care Ethics (Gilligan, Tronto)
-aliases: [Ethics of Care]
+aliases:
+- Ethics of Care
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [principle]
-  era: [cognitive]
-  origin: [academic]
+  category:
+  - principle
+  era:
+  - cognitive
+  origin:
+  - academic
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://iep.utm.edu/care-ethics/, https://en.wikipedia.org/wiki/Ethics_of_care, https://pages.ucsd.edu/~bgoldfarb/Tronto-Beyond_Gender_Difference_to_a_Theory_of_Care.pdf, https://home.nwciowa.edu/publicdownload/Nursing%20Department/NUR310/Applying%20the%20Ethics%20of%20Care%20to%20Your%20Nursing%20Practice.pdf, https://www.buurtzorg.com/, https://www.iirp.edu/, https://www.bcorporation.net/]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://iep.utm.edu/care-ethics/
+- https://en.wikipedia.org/wiki/Ethics_of_care
+- https://pages.ucsd.edu/~bgoldfarb/Tronto-Beyond_Gender_Difference_to_a_Theory_of_Care.pdf
+- https://home.nwciowa.edu/publicdownload/Nursing%20Department/NUR310/Applying%20the%20Ethics%20of%20Care%20to%20Your%20Nursing%20Practice.pdf
+- https://www.buurtzorg.com/
+- https://www.iirp.edu/
+- https://www.bcorporation.net/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

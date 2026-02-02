@@ -4,31 +4,41 @@ page_url: https://commons-os.github.io/patterns/fraunhofer-model-applied-researc
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/fraunhofer-model-applied-research.md
 slug: fraunhofer-model-applied-research
 title: Fraunhofer Model (Applied Research)
-aliases: [Fraunhofer Model]
+aliases:
+- Fraunhofer Model
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [industrial, digital]
-  origin: [academic, german-government]
+  category:
+  - framework
+  era:
+  - industrial
+  - digital
+  origin:
+  - academic
+  - german-government
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://www.wipo.int/en/web/wipo-magazine/articles/forging-the-future-the-fraunhofer-way-39930
-  - https://www.brazil.fraunhofer.com/en/blog/modelo-fraunhofer-research-companies-science-innovation.html
-  - https://www.fraunhofer.de/en/about-fraunhofer/sustainability/responsible-corporate-governance/guiding-principles.html
-  - https://www.nationalacademies.org/read/18448/chapter/13
-  - https://fip.utwente.nl/knowledge-hub/case-studies/
+- https://www.wipo.int/en/web/wipo-magazine/articles/forging-the-future-the-fraunhofer-way-39930
+- https://www.brazil.fraunhofer.com/en/blog/modelo-fraunhofer-research-companies-science-innovation.html
+- https://www.fraunhofer.de/en/about-fraunhofer/sustainability/responsible-corporate-governance/guiding-principles.html
+- https://www.nationalacademies.org/read/18448/chapter/13
+- https://fip.utwente.nl/knowledge-hub/case-studies/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

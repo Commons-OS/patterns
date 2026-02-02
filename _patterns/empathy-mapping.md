@@ -6,24 +6,33 @@ slug: empathy-mapping
 title: Empathy Mapping
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T16:01:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 16:01:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [methodology]
-  era: [digital]
+  category:
+  - methodology
+  era:
+  - digital
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.nngroup.com/articles/empathy-mapping/, https://www.interaction-design.org/literature/article/empathy-map-why-and-how-to-use-it, https://pmc.ncbi.nlm.nih.gov/articles/PMC11755898/]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.nngroup.com/articles/empathy-mapping/
+- https://www.interaction-design.org/literature/article/empathy-map-why-and-how-to-use-it
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC11755898/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

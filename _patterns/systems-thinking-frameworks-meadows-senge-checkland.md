@@ -4,25 +4,41 @@ page_url: https://commons-os.github.io/patterns/systems-thinking-frameworks-mead
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/systems-thinking-frameworks-meadows-senge-checkland.md
 slug: systems-thinking-frameworks-meadows-senge-checkland
 title: Systems Thinking Frameworks (Meadows, Senge, Checkland)
-aliases: [Systems Thinking]
+aliases:
+- Systems Thinking
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: universal
   domain: meta
-  category: [framework]
-  era: [cognitive]
-  origin: [academic]
+  category:
+  - framework
+  era:
+  - cognitive
+  origin:
+  - academic
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg5023vdecr9aqhgjf4vp12v"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023vdecr9aqhgjf4vp12v
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023vafgr9ywe30zx8g6bk", "pat_01kg5023vbe4rvttbw0f90gg19", "pat_01kg5023vdecr9aqhgjf4vp12v", "pat_01kg5023vbe4rvttbw31ydqm8r", "pat_01kg5023v9fj0a69mjvb68mp32", "pat_01kg5023vnfb1bfct0h3sg3yqf"]
-contributors: [higgerix, cloudsters]
+related:
+- pat_01kg5023vafgr9ywe30zx8g6bk
+- pat_01kg5023vbe4rvttbw0f90gg19
+- pat_01kg5023vdecr9aqhgjf4vp12v
+- pat_01kg5023vbe4rvttbw31ydqm8r
+- pat_01kg5023v9fj0a69mjvb68mp32
+- pat_01kg5023vnfb1bfct0h3sg3yqf
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

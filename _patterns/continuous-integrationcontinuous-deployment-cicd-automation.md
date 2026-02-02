@@ -6,24 +6,39 @@ slug: continuous-integrationcontinuous-deployment-cicd-automation
 title: Continuous Integration/Continuous Deployment (CI/CD) - Automation
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [practice, tool]
-  era: [digital]
+  category:
+  - practice
+  - tool
+  era:
+  - digital
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg5023x4easr02ymnc8edz50"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023x4easr02ymnc8edz50
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.redhat.com/en/topics/devops/what-is-ci-cd, https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment, https://dora.dev/, https://about.gitlab.com/topics/devops/the-role-of-ai-in-devops/, https://docs.cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning, https://about.gitlab.com/blog/ultimate-guide-to-ci-cd-fundamentals-to-advanced-implementation/]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.redhat.com/en/topics/devops/what-is-ci-cd
+- https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment
+- https://dora.dev/
+- https://about.gitlab.com/topics/devops/the-role-of-ai-in-devops/
+- https://docs.cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
+- https://about.gitlab.com/blog/ultimate-guide-to-ci-cd-fundamentals-to-advanced-implementation/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

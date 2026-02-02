@@ -6,32 +6,40 @@ slug: unschooling
 title: Unschooling
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, methodology, practice]
-  era: [cognitive]
-  origin: [John Holt]
+  category:
+  - framework
+  - methodology
+  - practice
+  era:
+  - cognitive
+  origin:
+  - John Holt
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [
-    "https://en.wikipedia.org/wiki/Unschooling",
-    "https://thegreenparent.co.uk/the-principles-of-unschooling/",
-    "https://alifeunschooled.substack.com/p/unschooling-a-beginners-guide",
-    "https://www.usnews.com/education/k12/articles/what-to-know-about-unschooling",
-    "https://www.unschoolingmom2mom.com/how-to-unschool",
-    "https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1514&context=hc_pubs",
-    "https://www.researchgate.net/profile/Gina-Riley-2/publication/305720522_The_Challenges_and_Benefits_of_Unschooling_According_to_232_Families_Who_Have_Chosen_that_Route/links/579b8a8d08ae5d5e1e138042/The-Challenges-and-Benefits-of-Unschooling-According-to-232-Families-Who-Have-Chosen-that-Route.pdf"
-]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Unschooling
+- https://thegreenparent.co.uk/the-principles-of-unschooling/
+- https://alifeunschooled.substack.com/p/unschooling-a-beginners-guide
+- https://www.usnews.com/education/k12/articles/what-to-know-about-unschooling
+- https://www.unschoolingmom2mom.com/how-to-unschool
+- https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1514&context=hc_pubs
+- https://www.researchgate.net/profile/Gina-Riley-2/publication/305720522_The_Challenges_and_Benefits_of_Unschooling_According_to_232_Families_Who_Have_Chosen_that_Route/links/579b8a8d08ae5d5e1e138042/The-Challenges-and-Benefits-of-Unschooling-According-to-232-Families-Who-Have-Chosen-that-Route.pdf
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

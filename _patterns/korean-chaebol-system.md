@@ -4,25 +4,35 @@ page_url: https://commons-os.github.io/patterns/korean-chaebol-system/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/korean-chaebol-system.md
 slug: korean-chaebol-system
 title: Korean Chaebol System
-aliases: [Chaebol]
+aliases:
+- Chaebol
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [meta-pattern]
-  era: [industrial, digital]
-  origin: [south-korea]
+  category:
+  - meta-pattern
+  era:
+  - industrial
+  - digital
+  origin:
+  - south-korea
   status: draft
   commons_alignment: 2
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

@@ -4,26 +4,41 @@ page_url: https://commons-os.github.io/patterns/systems-theory-von-bertalanffy/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/systems-theory-von-bertalanffy.md
 slug: systems-theory-von-bertalanffy
 title: Systems Theory (von Bertalanffy)
-aliases: [General System Theory, GST]
+aliases:
+- General System Theory
+- GST
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: meta
   domain: domain
-  category: [meta-pattern]
-  era: [industrial, digital]
-  origin: [academic]
+  category:
+  - meta-pattern
+  era:
+  - industrial
+  - digital
+  origin:
+  - academic
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.sciencedirect.com/topics/computer-science/general-system-theory", "https://en.wikipedia.org/wiki/Ludwig_von_Bertalanffy", "https://www.ebsco.com/research-starters/history/general-systems-theory", "https://thedecisionlab.com/reference-guide/psychology/systems-theory", "https://global.toyota/en/company/vision-and-philosophy/production-system/index.html"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.sciencedirect.com/topics/computer-science/general-system-theory
+- https://en.wikipedia.org/wiki/Ludwig_von_Bertalanffy
+- https://www.ebsco.com/research-starters/history/general-systems-theory
+- https://thedecisionlab.com/reference-guide/psychology/systems-theory
+- https://global.toyota/en/company/vision-and-philosophy/production-system/index.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

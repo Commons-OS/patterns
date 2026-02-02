@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/product-systems-engineering-pse/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/product-systems-engineering-pse.md
 slug: product-systems-engineering-pse
 title: Product Systems Engineering (PSE)
-aliases: [PSE, Traditional Systems Engineering]
+aliases:
+- PSE
+- Traditional Systems Engineering
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: methodology
-  era: [industrial, digital]
-  origin: [bell-labs, dod]
+  category:
+  - methodology
+  era:
+  - industrial
+  - digital
+  origin:
+  - bell-labs
+  - dod
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://sebokwiki.org/wiki/Product_Systems_Engineering, https://sebokwiki.org/wiki/A_Brief_History_of_Systems_Engineering, https://www.incose.org/systems-engineering-handbook, https://www.nasa.gov/wp-content/uploads/2018/09/nasa_systems_engineering_handbook_0.pdf, https://www.amazon.com/Constructive-Systems-Engineering-Cost-Model/dp/3639087346]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://sebokwiki.org/wiki/Product_Systems_Engineering
+- https://sebokwiki.org/wiki/A_Brief_History_of_Systems_Engineering
+- https://www.incose.org/systems-engineering-handbook
+- https://www.nasa.gov/wp-content/uploads/2018/09/nasa_systems_engineering_handbook_0.pdf
+- https://www.amazon.com/Constructive-Systems-Engineering-Cost-Model/dp/3639087346
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

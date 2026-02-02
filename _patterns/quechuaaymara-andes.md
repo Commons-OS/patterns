@@ -6,30 +6,38 @@ slug: quechuaaymara-andes
 title: Quechua/Aymara (Andes)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [agricultural]
-  origin: [Andes, South America]
+  category:
+  - framework
+  era:
+  - agricultural
+  origin:
+  - Andes
+  - South America
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [
-    "https://chileprecolombino.cl/en/pueblos-originarios/aymara/patron-de-asentamiento/",
-    "https://www.everyculture.com/South-America/Aymara-Sociopolitical-Organization.html",
-    "https://en.wikipedia.org/wiki/Inca_society",
-    "https://scholarship.stu.edu/cgi/viewcontent.cgi?article=1467&context=stlr",
-    "https://www.peruforless.com/blog/quechua-people/"
-  ]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://chileprecolombino.cl/en/pueblos-originarios/aymara/patron-de-asentamiento/
+- https://www.everyculture.com/South-America/Aymara-Sociopolitical-Organization.html
+- https://en.wikipedia.org/wiki/Inca_society
+- https://scholarship.stu.edu/cgi/viewcontent.cgi?article=1467&context=stlr
+- https://www.peruforless.com/blog/quechua-people/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -4,32 +4,45 @@ page_url: https://commons-os.github.io/patterns/appreciative-inquiry-if-not-in-s
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/appreciative-inquiry-if-not-in-strategy.md
 slug: appreciative-inquiry-if-not-in-strategy
 title: Appreciative Inquiry (if not in Strategy)
-aliases: [AI]
+aliases:
+- AI
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [methodology]
-  era: [cognitive]
-  origin: [academic, case-western-reserve-university]
+  category:
+  - methodology
+  era:
+  - cognitive
+  origin:
+  - academic
+  - case-western-reserve-university
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://en.wikipedia.org/wiki/Appreciative_inquiry
-  - https://positivepsychology.com/appreciative-inquiry/
-  - https://centerforappreciativeinquiry.net/resources/success-stories/
-  - https://soar.wichita.edu/server/api/core/bitstreams/7ed85834-4268-4c38-b889-c710e04e619e/content
-  - "Atwood, S., & Wesp, K. (2009). Building Capacity for Quality Improvement at Southeast, Inc. [Appreciative Inquiry Facilitator Training Certification Document]. Center for Appreciative Inquiry."
-  - "Glasgow, J. L. (2008). An Appreciative Inquiry Case Study: Recognizing the Positive Core of Teachers in a Low SES Elementary School that Met Standard of Excellence [Doctoral dissertation, Wichita State University]."
+- https://en.wikipedia.org/wiki/Appreciative_inquiry
+- https://positivepsychology.com/appreciative-inquiry/
+- https://centerforappreciativeinquiry.net/resources/success-stories/
+- https://soar.wichita.edu/server/api/core/bitstreams/7ed85834-4268-4c38-b889-c710e04e619e/content
+- Atwood, S., & Wesp, K. (2009). Building Capacity for Quality Improvement at Southeast,
+  Inc. [Appreciative Inquiry Facilitator Training Certification Document]. Center
+  for Appreciative Inquiry.
+- 'Glasgow, J. L. (2008). An Appreciative Inquiry Case Study: Recognizing the Positive
+  Core of Teachers in a Low SES Elementary School that Met Standard of Excellence
+  [Doctoral dissertation, Wichita State University].'
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

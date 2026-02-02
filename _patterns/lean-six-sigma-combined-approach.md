@@ -4,26 +4,61 @@ page_url: https://commons-os.github.io/patterns/lean-six-sigma-combined-approach
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/lean-six-sigma-combined-approach.md
 slug: lean-six-sigma-combined-approach
 title: Lean Six Sigma - Combined Approach
-aliases: [Lean Six Sigma, LSS]
+aliases:
+- Lean Six Sigma
+- LSS
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: methodology
-  era: [industrial, digital, cognitive]
-  origin: [motorola, toyota]
+  category:
+  - methodology
+  era:
+  - industrial
+  - digital
+  - cognitive
+  origin:
+  - motorola
+  - toyota
   status: draft
   commons_alignment: 3
-commons_domain: business
-generalizes_from: ["pat_01kg5023zzecsb265cp79x0gvh", "pat_01kg5023vyfzhvteh04eykysqz", "pat_01kg5023vyfzhvteh02a487gvh"]
+  commons_domain:
+  - business
+  - startup
+generalizes_from:
+- pat_01kg5023zzecsb265cp79x0gvh
+- pat_01kg5023vyfzhvteh04eykysqz
+- pat_01kg5023vyfzhvteh02a487gvh
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023z4ejgvpxs00h779hk7", "pat_01kg50240pfa89r4q24ctm0q0w", "pat_01kg5023xge89s6mx3nbjd0mgg", "pat_01kg502407eyh8wbym4fzzr7et", "pat_01kg5023vyfzhvteh04eykysqz", "pat_01kg5023x6ecsvs4r50r92ggad", "pat_01kg5023vmfk9bnr9pzvxb1j3z", "pat_01kg5023zcf99tjg7qba44c2j7", "pat_01kg5023vjetsaajnc397n2n2m", "pat_01kg5023x8evg9fk7as5cxmnwk", "pat_01kg5023z8f6h9wk9sdad8sxxd", "pat_01kg5023zzecsb265cp79x0gvh", "pat_01kg50240bf4ra2qcwx56j5qk8", "pat_01kg5023vke6gsrh5cyb1wbkte", "pat_01kg5023yweb8r88nxjsysr1hq"]
-contributors: [higgerix, cloudsters]
-sources: ["https://asq.org/quality-resources/six-sigma", "https://en.wikipedia.org/wiki/Lean_Six_Sigma", "https://search.proquest.com/openview/12b866a8d582c8ab5faff897bd7c414d/1?pq-origsite=gscholar&cbl=34671", "https://www.emerald.com/insight/content/doi/10.1108/ijppm-12-2021-0681/full/html", "https://www.emerald.com/insight/content/doi/10.1108/IJLSS-04-2015-0011/full/html"]
+related:
+- pat_01kg5023z4ejgvpxs00h779hk7
+- pat_01kg50240pfa89r4q24ctm0q0w
+- pat_01kg5023xge89s6mx3nbjd0mgg
+- pat_01kg502407eyh8wbym4fzzr7et
+- pat_01kg5023vyfzhvteh04eykysqz
+- pat_01kg5023x6ecsvs4r50r92ggad
+- pat_01kg5023vmfk9bnr9pzvxb1j3z
+- pat_01kg5023zcf99tjg7qba44c2j7
+- pat_01kg5023vjetsaajnc397n2n2m
+- pat_01kg5023x8evg9fk7as5cxmnwk
+- pat_01kg5023z8f6h9wk9sdad8sxxd
+- pat_01kg5023zzecsb265cp79x0gvh
+- pat_01kg50240bf4ra2qcwx56j5qk8
+- pat_01kg5023vke6gsrh5cyb1wbkte
+- pat_01kg5023yweb8r88nxjsysr1hq
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://asq.org/quality-resources/six-sigma
+- https://en.wikipedia.org/wiki/Lean_Six_Sigma
+- https://search.proquest.com/openview/12b866a8d582c8ab5faff897bd7c414d/1?pq-origsite=gscholar&cbl=34671
+- https://www.emerald.com/insight/content/doi/10.1108/ijppm-12-2021-0681/full/html
+- https://www.emerald.com/insight/content/doi/10.1108/IJLSS-04-2015-0011/full/html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

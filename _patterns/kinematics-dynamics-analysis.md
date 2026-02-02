@@ -6,24 +6,38 @@ slug: kinematics-dynamics-analysis
 title: Kinematics & Dynamics Analysis
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, methodology]
-  era: [cognitive]
-  origin: [systems-thinking, organizational-development]
+  category:
+  - framework
+  - methodology
+  era:
+  - cognitive
+  origin:
+  - systems-thinking
+  - organizational-development
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://physics.stackexchange.com/questions/1135/what-is-the-difference-between-kinematics-and-dynamics", "https://www.organizational-kinetics.com/", "https://systemdynamics.org/what-is-system-dynamics/", "https://www.goodreads.com/book/show/6448732-the-fifth-discipline", "https://www.goodreads.com/book/show/382121.Thinking_in_Systems"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://physics.stackexchange.com/questions/1135/what-is-the-difference-between-kinematics-and-dynamics
+- https://www.organizational-kinetics.com/
+- https://systemdynamics.org/what-is-system-dynamics/
+- https://www.goodreads.com/book/show/6448732-the-fifth-discipline
+- https://www.goodreads.com/book/show/382121.Thinking_in_Systems
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

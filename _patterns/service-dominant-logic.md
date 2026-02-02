@@ -6,24 +6,39 @@ slug: service-dominant-logic
 title: Service-Dominant Logic
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, principle]
-  era: [digital, cognitive]
+  category:
+  - framework
+  - principle
+  era:
+  - digital
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://doi.org/10.1509/jmkg.68.1.1.27782, https://doi.org/10.1007/s11747-007-0069-6, https://doi.org/10.1177/1094670511424287, https://doi.org/10.1017/CBO9781107447873, https://doi.org/10.1108/JSTP-04-2016-0077, https://doi.org/10.1016/j.jretai.2014.10.006, https://doi.org/10.1016/j.im.2016.06.004]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://doi.org/10.1509/jmkg.68.1.1.27782
+- https://doi.org/10.1007/s11747-007-0069-6
+- https://doi.org/10.1177/1094670511424287
+- https://doi.org/10.1017/CBO9781107447873
+- https://doi.org/10.1108/JSTP-04-2016-0077
+- https://doi.org/10.1016/j.jretai.2014.10.006
+- https://doi.org/10.1016/j.im.2016.06.004
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -6,24 +6,33 @@ slug: design-for-serviceability
 title: Design for Serviceability
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [principle]
-  era: [industrial, digital]
+  category:
+  - principle
+  era:
+  - industrial
+  - digital
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.fictiv.com/articles/design-for-serviceability, https://www.fusiondesigninc.com/blog/2023/8/14/designing-for-serviceability-guidelines]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.fictiv.com/articles/design-for-serviceability
+- https://www.fusiondesigninc.com/blog/2023/8/14/designing-for-serviceability-guidelines
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

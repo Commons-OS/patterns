@@ -4,26 +4,42 @@ page_url: https://commons-os.github.io/patterns/change-management-models-beyond-
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/change-management-models-beyond-documented.md
 slug: change-management-models-beyond-documented
 title: Change Management Models (Beyond Documented)
-aliases: [Reinvention Change, Continuous Transformation, Adaptive Change]
+aliases:
+- Reinvention Change
+- Continuous Transformation
+- Adaptive Change
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: meta-pattern
-  era: [cognitive]
-  origin: [mckinsey]
+  category:
+  - meta-pattern
+  era:
+  - cognitive
+  origin:
+  - mckinsey
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/change-is-changing-how-to-meet-the-challenge-of-radical-reinvention, https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-agentic-organization-contours-of-the-next-paradigm-for-the-ai-era, https://cmr.berkeley.edu/2018/11/61-1-management-innovation-made-in-china-haiers-rendanheyi/, https://www.corporate-rebels.com/blog/10-questions-about-haiers-rendanheyi-model-answered, https://hbr.org/2016/01/the-biology-of-corporate-survival]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/change-is-changing-how-to-meet-the-challenge-of-radical-reinvention
+- https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-agentic-organization-contours-of-the-next-paradigm-for-the-ai-era
+- https://cmr.berkeley.edu/2018/11/61-1-management-innovation-made-in-china-haiers-rendanheyi/
+- https://www.corporate-rebels.com/blog/10-questions-about-haiers-rendanheyi-model-answered
+- https://hbr.org/2016/01/the-biology-of-corporate-survival
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

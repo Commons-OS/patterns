@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/leasing-model/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/leasing-model.md
 slug: leasing-model
 title: Leasing Model
-aliases: [Lease-to-Own, Equipment Leasing, Financial Leasing]
+aliases:
+- Lease-to-Own
+- Equipment Leasing
+- Financial Leasing
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [practice]
-  era: [industrial, digital]
-  origin: [financial-services]
+  category:
+  - practice
+  era:
+  - industrial
+  - digital
+  origin:
+  - financial-services
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://learningloop.io/plays/business-model/leasing, https://www.clicklease.com/blog/equipment-leasing-business-model, https://citiesclimatefinance.org/financial-instruments/cases/leasing_model_for_electric_buses_and_charging_infrastructure_in_shenzhen_china, https://www.crestmontcapital.com/blog/the-future-of-equipment-leasing-ai-automation-and-more, https://www.investopedia.com/terms/l/lease.asp]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://learningloop.io/plays/business-model/leasing
+- https://www.clicklease.com/blog/equipment-leasing-business-model
+- https://citiesclimatefinance.org/financial-instruments/cases/leasing_model_for_electric_buses_and_charging_infrastructure_in_shenzhen_china
+- https://www.crestmontcapital.com/blog/the-future-of-equipment-leasing-ai-automation-and-more
+- https://www.investopedia.com/terms/l/lease.asp
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -6,24 +6,54 @@ slug: moloch-daos
 title: Moloch DAOs
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [digital, cognitive]
-  origin: ["Ameen Soleimani", "SpankChain"]
+  category:
+  - framework
+  era:
+  - digital
+  - cognitive
+  origin:
+  - Ameen Soleimani
+  - SpankChain
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023zqfzsrp86d5xkym2y7", "pat_01kg502406fvs8fk48aj53tjrb", "pat_01kg50240ef0s85r2hyncx1fna", "pat_01kg50240me98tfa0z0stfk708", "pat_01kg50240ef0s85r2hx5nbfb92", "pat_01kg5023y7e50rxp3f3j4xbqr5", "pat_01kg5023zxf81byjg3fet1ca9a", "pat_01kg502400fggs2ayqhzxk982m", "pat_01kg50240me98tfa0yyh6z7xv6", "pat_01kg5023xmek8szp5z3c5dc977", "pat_01kg502406fvs8fk4888jghhvf", "pat_01kg5023zhf10b0yp1rpbxc337", "pat_01kg5023z8f6h9wk9s6wph805y"]
-contributors: [higgerix, cloudsters]
-sources: ["https://medium.com/@simondlr/the-moloch-dao-collapsing-the-firm-2a800b3aa2e7", "https://molochdao.com/docs/introduction/wtf-is-moloch/", "https://messari.io/project/molochdao/profile", "https://molochdao.com/docs/moloch-2.0-operating-manual/features-overview/readme/", "https://molochdao.com/project-grants/", "https://daohaus.club/moloch", "https://www.metacartel.org/lore"]
+related:
+- pat_01kg5023zqfzsrp86d5xkym2y7
+- pat_01kg502406fvs8fk48aj53tjrb
+- pat_01kg50240ef0s85r2hyncx1fna
+- pat_01kg50240me98tfa0z0stfk708
+- pat_01kg50240ef0s85r2hx5nbfb92
+- pat_01kg5023y7e50rxp3f3j4xbqr5
+- pat_01kg5023zxf81byjg3fet1ca9a
+- pat_01kg502400fggs2ayqhzxk982m
+- pat_01kg50240me98tfa0yyh6z7xv6
+- pat_01kg5023xmek8szp5z3c5dc977
+- pat_01kg502406fvs8fk4888jghhvf
+- pat_01kg5023zhf10b0yp1rpbxc337
+- pat_01kg5023z8f6h9wk9s6wph805y
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://medium.com/@simondlr/the-moloch-dao-collapsing-the-firm-2a800b3aa2e7
+- https://molochdao.com/docs/introduction/wtf-is-moloch/
+- https://messari.io/project/molochdao/profile
+- https://molochdao.com/docs/moloch-2.0-operating-manual/features-overview/readme/
+- https://molochdao.com/project-grants/
+- https://daohaus.club/moloch
+- https://www.metacartel.org/lore
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

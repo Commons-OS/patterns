@@ -4,26 +4,42 @@ page_url: https://commons-os.github.io/patterns/holding-company-model/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/holding-company-model.md
 slug: holding-company-model
 title: Holding Company Model
-aliases: [Parent Company, Umbrella Company]
+aliases:
+- Parent Company
+- Umbrella Company
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: context-specific
   domain: operations
-  category: framework
-  era: [industrial, digital]
-  origin: [new-jersey-1889]
+  category:
+  - framework
+  era:
+  - industrial
+  - digital
+  origin:
+  - new-jersey-1889
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.investopedia.com/terms/h/holdingcompany.asp, https://www.wolterskluwer.com/en/expert-insights/using-a-holding-company-operating-company-structure-to-help-mitigate-risk, https://en.wikipedia.org/wiki/Holding_company, https://www.jstor.org/stable/1341968, https://www.worldbank.org/en/topic/financialsector/publication/the-state-holding-company]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.investopedia.com/terms/h/holdingcompany.asp
+- https://www.wolterskluwer.com/en/expert-insights/using-a-holding-company-operating-company-structure-to-help-mitigate-risk
+- https://en.wikipedia.org/wiki/Holding_company
+- https://www.jstor.org/stable/1341968
+- https://www.worldbank.org/en/topic/financialsector/publication/the-state-holding-company
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

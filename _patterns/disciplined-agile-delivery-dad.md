@@ -4,25 +4,50 @@ page_url: https://commons-os.github.io/patterns/disciplined-agile-delivery-dad/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/disciplined-agile-delivery-dad.md
 slug: disciplined-agile-delivery-dad
 title: Disciplined Agile Delivery (DAD)
-aliases: [DAD, Disciplined Agile]
+aliases:
+- DAD
+- Disciplined Agile
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: 3
   domain: design
-  category: [framework]
-  era: [digital]
-  origin: [scott-ambler, mark-lines]
+  category:
+  - framework
+  era:
+  - digital
+  origin:
+  - scott-ambler
+  - mark-lines
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023zwft8t7k635h086kyj", "pat_01kg5023y7e50rxp3ew60jdasx", "pat_01kg5023ypf08rv1dagnb27bjj", "pat_01kg5023vwe00rptkqr3z6pkd9", "pat_01kg5023ypf08rv1dafrvtxwdr", "pat_01kg5023zbftgswm71hgn15e2f", "pat_01kg5023ztenhrk74hc9a8qszj", "pat_01kg5023zwft8t7k639ctqfhce", "pat_01kg5023zwft8t7k63bfadqqwg", "pat_01kg50240wfjh98jqx34wdddnm", "pat_01kg5023xaemr9xsmd0fgaxe86", "pat_01kg5023yneg8rmv1200tvfn3g", "pat_01kg5023yneg8rmv122d6v7bg5", "pat_01kg5023xaemr9xsmcy13gf405", "pat_01kg5023xaemr9xsmcxd0eg8ek"]
-contributors: [higgerix, cloudsters]
+related:
+- pat_01kg5023zwft8t7k635h086kyj
+- pat_01kg5023y7e50rxp3ew60jdasx
+- pat_01kg5023ypf08rv1dagnb27bjj
+- pat_01kg5023vwe00rptkqr3z6pkd9
+- pat_01kg5023ypf08rv1dafrvtxwdr
+- pat_01kg5023zbftgswm71hgn15e2f
+- pat_01kg5023ztenhrk74hc9a8qszj
+- pat_01kg5023zwft8t7k639ctqfhce
+- pat_01kg5023zwft8t7k63bfadqqwg
+- pat_01kg50240wfjh98jqx34wdddnm
+- pat_01kg5023xaemr9xsmd0fgaxe86
+- pat_01kg5023yneg8rmv1200tvfn3g
+- pat_01kg5023yneg8rmv122d6v7bg5
+- pat_01kg5023xaemr9xsmcy13gf405
+- pat_01kg5023xaemr9xsmcxd0eg8ek
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

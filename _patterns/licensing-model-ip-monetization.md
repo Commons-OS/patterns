@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/licensing-model-ip-monetization/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/licensing-model-ip-monetization.md
 slug: licensing-model-ip-monetization
 title: Licensing Model - IP Monetization
-aliases: [IP Licensing, Intellectual Property Licensing, IP Monetization]
+aliases:
+- IP Licensing
+- Intellectual Property Licensing
+- IP Monetization
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: value-creation
-  category: [practice]
-  era: [digital, cognitive]
-  origin: [academic, business]
+  category:
+  - practice
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - business
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.dennemeyer.com/ip-blog/news/the-ins-and-outs-of-ip-licensing/", "https://lumenci.com/blogs/effective-ip-monetization-strategies/", "https://www.wipo.int/en/web/ip-advantage/w/stories/mary-engelbreit", "https://licensingconsultinggroup.com/licensing-case-studies/"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.dennemeyer.com/ip-blog/news/the-ins-and-outs-of-ip-licensing/
+- https://lumenci.com/blogs/effective-ip-monetization-strategies/
+- https://www.wipo.int/en/web/ip-advantage/w/stories/mary-engelbreit
+- https://licensingconsultinggroup.com/licensing-case-studies/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

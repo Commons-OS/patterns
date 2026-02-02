@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/complementary-currencies-paralle
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/complementary-currencies-parallel-systems.md
 slug: complementary-currencies-parallel-systems
 title: Complementary Currencies - Parallel Systems
-aliases: [Parallel Currencies, Community Currencies]
+aliases:
+- Parallel Currencies
+- Community Currencies
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [digital]
-  origin: [academic, grassroots]
+  category:
+  - framework
+  era:
+  - digital
+  origin:
+  - academic
+  - grassroots
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg5023vveprts2atbbx8bejr"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023vveprts2atbbx8bejr
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://en.wikipedia.org/wiki/Complementary_currency, https://justmoney.org/the-phenomenon-of-complementary-currencies/, https://www.sciencedirect.com/science/article/pii/S2199853122011167, https://www.dallasfed.org/~/media/documents/research/papers/2023/wp2307.pdf, https://blogs.lse.ac.uk/businessreview/2025/01/10/lessons-from-a-complementary-currency-project-in-kenya/]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Complementary_currency
+- https://justmoney.org/the-phenomenon-of-complementary-currencies/
+- https://www.sciencedirect.com/science/article/pii/S2199853122011167
+- https://www.dallasfed.org/~/media/documents/research/papers/2023/wp2307.pdf
+- https://blogs.lse.ac.uk/businessreview/2025/01/10/lessons-from-a-complementary-currency-project-in-kenya/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

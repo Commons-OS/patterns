@@ -3,26 +3,33 @@ id: pat_tbbwtzgiw5gmnlrykxd3gh7wpa
 page_url: https://commons-os.github.io/patterns/augmented-reality-in-manufacturing/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/augmented-reality-in-manufacturing.md
 slug: augmented-reality-in-manufacturing
-title: "Augmented Reality In Manufacturing"
+title: Augmented Reality In Manufacturing
 aliases: []
-version: "1.0"
-created: "2026-02-01T21:15:43Z"
-modified: "2026-02-01T21:15:43Z"
+version: '1.0'
+created: '2026-02-01T21:15:43Z'
+modified: '2026-02-01T21:15:43Z'
 classification:
   universality: universal
   domain: operations
-  category: [practice]
-  era: [digital]
-  origin: [Commons OS]
+  category:
+  - practice
+  era:
+  - digital
+  origin:
+  - Commons OS
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [commons-os]
+contributors:
+- commons-os
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

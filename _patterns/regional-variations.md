@@ -6,24 +6,40 @@ slug: regional-variations
 title: Regional Variations
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [principle]
-  era: [industrial, digital, cognitive]
+  category:
+  - principle
+  era:
+  - industrial
+  - digital
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.indeed.com/career-advice/career-development/geographical-organizational-structure", "https://courses.lumenlearning.com/suny-principlesmanagement/chapter/common-organizational-structures/", "https://hbr.org/2005/12/regional-strategies-for-global-leadership", "https://www.forbes.com/councils/forbesbusinesscouncil/2026/01/12/19-strategies-to-balance-local-business-growth-and-global-consistency/", "https://www.forbes.com/councils/forbescommunicationscouncil/2024/11/08/cultural-complexities-why-global-companies-must-understand-regional-influences-on-corporate-culture/", "https://www.duamentes.com/2024/02/15/6-case-studies-on-effective-expansion-strategies/", "https://www.thestrategyinstitute.org/insights/starbucks-international-strategy-a-case-study-for-global-success"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.indeed.com/career-advice/career-development/geographical-organizational-structure
+- https://courses.lumenlearning.com/suny-principlesmanagement/chapter/common-organizational-structures/
+- https://hbr.org/2005/12/regional-strategies-for-global-leadership
+- https://www.forbes.com/councils/forbesbusinesscouncil/2026/01/12/19-strategies-to-balance-local-business-growth-and-global-consistency/
+- https://www.forbes.com/councils/forbescommunicationscouncil/2024/11/08/cultural-complexities-why-global-companies-must-understand-regional-influences-on-corporate-culture/
+- https://www.duamentes.com/2024/02/15/6-case-studies-on-effective-expansion-strategies/
+- https://www.thestrategyinstitute.org/insights/starbucks-international-strategy-a-case-study-for-global-success
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

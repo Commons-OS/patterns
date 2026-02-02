@@ -4,26 +4,47 @@ page_url: https://commons-os.github.io/patterns/autogestion-worker-self-manageme
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/autogestion-worker-self-management.md
 slug: autogestion-worker-self-management
 title: Autogestión (Worker Self-Management)
-aliases: [Worker Self-Management, Labor Management, Organizational Self-Management]
+aliases:
+- Worker Self-Management
+- Labor Management
+- Organizational Self-Management
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [principle, meta-pattern]
-  era: [industrial, digital, cognitive]
-  origin: [anarchist, socialist, cooperative-movement]
+  category:
+  - principle
+  - meta-pattern
+  era:
+  - industrial
+  - digital
+  - cognitive
+  origin:
+  - anarchist
+  - socialist
+  - cooperative-movement
   status: draft
   commons_alignment: 5
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://en.wikipedia.org/wiki/Workers%27_self-management", "https://marxistsociology.org/2023/02/autogestion-origins-and-activism-from-algerian-revolution-to-mexico-city-punk/", "https://www.corporate-rebels.com/blog/50-case-studies-of-self-managing-organizations", "https://www.haymarketbooks.org/books/1585-workers-self-management-in-argentina", "https://www.cambridge.org/core/books/governing-the-commons/E127741A6D442C89528D3126F2BD9359"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Workers%27_self-management
+- https://marxistsociology.org/2023/02/autogestion-origins-and-activism-from-algerian-revolution-to-mexico-city-punk/
+- https://www.corporate-rebels.com/blog/50-case-studies-of-self-managing-organizations
+- https://www.haymarketbooks.org/books/1585-workers-self-management-in-argentina
+- https://www.cambridge.org/core/books/governing-the-commons/E127741A6D442C89528D3126F2BD9359
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -4,26 +4,45 @@ page_url: https://commons-os.github.io/patterns/personalized-learning/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/personalized-learning.md
 slug: personalized-learning
 title: Personalized Learning
-aliases: [Individualized Learning, Differentiated Instruction, Student-Centered Learning]
+aliases:
+- Individualized Learning
+- Differentiated Instruction
+- Student-Centered Learning
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: human-universal
   domain: culture
-  category: [methodology, practice]
-  era: [digital, cognitive]
-  origin: [John Dewey, B.F. Skinner, Benjamin Bloom]
+  category:
+  - methodology
+  - practice
+  era:
+  - digital
+  - cognitive
+  origin:
+  - John Dewey
+  - B.F. Skinner
+  - Benjamin Bloom
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.edweek.org/technology/what-is-personalized-learning/2019/11, https://www.understood.org/en/articles/personalized-learning-what-you-need-to-know, https://nces.ed.gov/forum/pdf/Case_Studies_Personalized_Learning.pdf, https://www.edweek.org/technology/personalized-learning-what-does-the-research-say/2016/10, https://www.rand.org/pubs/research_reports/RR2065.html]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.edweek.org/technology/what-is-personalized-learning/2019/11
+- https://www.understood.org/en/articles/personalized-learning-what-you-need-to-know
+- https://nces.ed.gov/forum/pdf/Case_Studies_Personalized_Learning.pdf
+- https://www.edweek.org/technology/personalized-learning-what-does-the-research-say/2016/10
+- https://www.rand.org/pubs/research_reports/RR2065.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

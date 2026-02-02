@@ -4,26 +4,38 @@ page_url: https://commons-os.github.io/patterns/bureaucratic-theory-weber/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/bureaucratic-theory-weber.md
 slug: bureaucratic-theory-weber
 title: Bureaucratic Theory (Weber)
-aliases: [Weberian Bureaucracy, Bureaucratic Management Theory]
+aliases:
+- Weberian Bureaucracy
+- Bureaucratic Management Theory
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: meta
-  category: meta-pattern
-  era: [industrial]
-  origin: [academic]
+  category:
+  - meta-pattern
+  era:
+  - industrial
+  origin:
+  - academic
   status: draft
   commons_alignment: 1
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.simplypsychology.org/bureaucratic-theory-weber.html, https://www.toolshero.com/management/bureaucratic-theory-weber/, https://files.eric.ed.gov/fulltext/EJ1226963.pdf]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.simplypsychology.org/bureaucratic-theory-weber.html
+- https://www.toolshero.com/management/bureaucratic-theory-weber/
+- https://files.eric.ed.gov/fulltext/EJ1226963.pdf
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -4,26 +4,58 @@ page_url: https://commons-os.github.io/patterns/tps-documented/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/tps-documented.md
 slug: tps-documented
 title: Toyota Production System
-aliases: [Lean Manufacturing, Just-in-Time Production]
+aliases:
+- Lean Manufacturing
+- Just-in-Time Production
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, methodology]
-  era: [industrial, digital]
-  origin: [toyota]
+  category:
+  - framework
+  - methodology
+  era:
+  - industrial
+  - digital
+  origin:
+  - toyota
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
-specializes_to: ["pat_01kg502406fvs8fk48jtm6anbc"]
+specializes_to:
+- pat_01kg502406fvs8fk48jtm6anbc
 enables: []
 requires: []
-related: ["pat_01kg5023z9e988phvxv2ywhcrd", "pat_01kg50240pfa89r4q24ctm0q0w", "pat_01kg5023zae8rthxw686kx5x4k", "pat_01kg5023vyfzhvteh04eykysqz", "pat_01kg5023x6ecsvs4r50r92ggad", "pat_01kg5023vmfk9bnr9pzvxb1j3z", "pat_01kg5023zcf99tjg7qba44c2j7", "pat_01kg5023zbftgswm71sjjf53xx", "pat_01kg5023wbfw1azjwp99gcgcrn", "pat_01kg5023zcf99tjg7qgdbhqfkm", "pat_01kg5023w1f29v6bdxpahq6a1m", "pat_01kg5023vdecr9aqhgpf1mh73v", "pat_01kg50240bf4ra2qcwx56j5qk8", "pat_01kg5023vke6gsrh5cyb1wbkte", "pat_01kg5023yweb8r88nxjsysr1hq"]
-contributors: [higgerix, cloudsters]
-sources: [https://global.toyota/en/company/vision-and-philosophy/production-system/, https://en.wikipedia.org/wiki/Toyota_Production_System, http://ijsetr.com/uploads/342516IJSETR17538-104.pdf, https://hbr.org/1999/09/decoding-the-dna-of-the-toyota-production-system, https://www.lean.org/lexicon-terms/toyota-production-system/]
+related:
+- pat_01kg5023z9e988phvxv2ywhcrd
+- pat_01kg50240pfa89r4q24ctm0q0w
+- pat_01kg5023zae8rthxw686kx5x4k
+- pat_01kg5023vyfzhvteh04eykysqz
+- pat_01kg5023x6ecsvs4r50r92ggad
+- pat_01kg5023vmfk9bnr9pzvxb1j3z
+- pat_01kg5023zcf99tjg7qba44c2j7
+- pat_01kg5023zbftgswm71sjjf53xx
+- pat_01kg5023wbfw1azjwp99gcgcrn
+- pat_01kg5023zcf99tjg7qgdbhqfkm
+- pat_01kg5023w1f29v6bdxpahq6a1m
+- pat_01kg5023vdecr9aqhgpf1mh73v
+- pat_01kg50240bf4ra2qcwx56j5qk8
+- pat_01kg5023vke6gsrh5cyb1wbkte
+- pat_01kg5023yweb8r88nxjsysr1hq
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://global.toyota/en/company/vision-and-philosophy/production-system/
+- https://en.wikipedia.org/wiki/Toyota_Production_System
+- http://ijsetr.com/uploads/342516IJSETR17538-104.pdf
+- https://hbr.org/1999/09/decoding-the-dna-of-the-toyota-production-system
+- https://www.lean.org/lexicon-terms/toyota-production-system/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

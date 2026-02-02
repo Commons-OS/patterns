@@ -24,7 +24,10 @@ classification:
   - grass-roots
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to:
 - pat_01kg5023y1e8htjshmc8jxka48

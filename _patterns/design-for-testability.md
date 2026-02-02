@@ -6,27 +6,33 @@ slug: design-for-testability
 title: Design for Testability
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [principle]
-  era: [digital]
+  category:
+  - principle
+  era:
+  - digital
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://en.wikipedia.org/wiki/Design_for_testing
-  - https://www.geeksforgeeks.org/software-testing/design-for-testability-dft-in-software-testing/
-  - https://learn.microsoft.com/en-us/archive/msdn-magazine/2008/december/patterns-in-practice-design-for-testability
+- https://en.wikipedia.org/wiki/Design_for_testing
+- https://www.geeksforgeeks.org/software-testing/design-for-testability-dft-in-software-testing/
+- https://learn.microsoft.com/en-us/archive/msdn-magazine/2008/december/patterns-in-practice-design-for-testability
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

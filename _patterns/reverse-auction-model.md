@@ -4,26 +4,50 @@ page_url: https://commons-os.github.io/patterns/reverse-auction-model/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/reverse-auction-model.md
 slug: reverse-auction-model
 title: Reverse Auction Model
-aliases: [buyer-determined auction, procurement auction, e-auction, sourcing event, e-sourcing, eRA, eRFP, e-RFO, e-procurement, B2B Auction]
+aliases:
+- buyer-determined auction
+- procurement auction
+- e-auction
+- sourcing event
+- e-sourcing
+- eRA
+- eRFP
+- e-RFO
+- e-procurement
+- B2B Auction
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: practice
-  era: [digital]
-  origin: [freemarkets, general-electric]
+  category:
+  - practice
+  era:
+  - digital
+  origin:
+  - freemarkets
+  - general-electric
   status: draft
   commons_alignment: 3
-commons_domain: business
-generalizes_from: ["pat_01kg5023xge89s6mx3vwpszg7s"]
+  commons_domain:
+  - business
+  - startup
+generalizes_from:
+- pat_01kg5023xge89s6mx3vwpszg7s
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.investopedia.com/terms/r/reverse-auction.asp", "https://en.wikipedia.org/wiki/Reverse_auction", "https://marketdojo.com/case-studies/", "https://www.forbes.com/2000/03/06/going-going-gone-down/?sh=5e7f6d3e1b8f", "https://www.apriori.com/blog/what-is-a-reverse-auction-how-buyers-maximize-strategy/"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.investopedia.com/terms/r/reverse-auction.asp
+- https://en.wikipedia.org/wiki/Reverse_auction
+- https://marketdojo.com/case-studies/
+- https://www.forbes.com/2000/03/06/going-going-gone-down/?sh=5e7f6d3e1b8f
+- https://www.apriori.com/blog/what-is-a-reverse-auction-how-buyers-maximize-strategy/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

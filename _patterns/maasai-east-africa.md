@@ -6,24 +6,39 @@ slug: maasai-east-africa
 title: Maasai (East Africa)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: technology
-  category: [principle]
-  era: [agricultural]
+  category:
+  - principle
+  era:
+  - agricultural
   origin: []
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["http://www.bluegecko.org/kenya/tribes/maasai/agesets.htm", "https://en.wikipedia.org/wiki/Maasai_people", "https://www.masaimara.travel/maasai-tribe-facts.php", "https://www.cambridge.org/core/journals/africa/article/maasai-agesets-and-prophetic-leadership-18501910/F6237C9BA695C760D8060E09D83E322C", "https://www.jstor.org/stable/3601509", "https://www.jstor.org/stable/29790262", "https://www.sciencedirect.com/science/article/pii/S030544030400041X", "https://oromostudies.org/wp-content/uploads/simple-file-list/OSA-Conference-Proceedings-of-2007.pdf#page=77"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- http://www.bluegecko.org/kenya/tribes/maasai/agesets.htm
+- https://en.wikipedia.org/wiki/Maasai_people
+- https://www.masaimara.travel/maasai-tribe-facts.php
+- https://www.cambridge.org/core/journals/africa/article/maasai-agesets-and-prophetic-leadership-18501910/F6237C9BA695C760D8060E09D83E322C
+- https://www.jstor.org/stable/3601509
+- https://www.jstor.org/stable/29790262
+- https://www.sciencedirect.com/science/article/pii/S030544030400041X
+- https://oromostudies.org/wp-content/uploads/simple-file-list/OSA-Conference-Proceedings-of-2007.pdf#page=77
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

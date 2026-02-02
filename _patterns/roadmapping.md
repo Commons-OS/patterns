@@ -6,23 +6,32 @@ slug: roadmapping
 title: Roadmapping
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, methodology]
-  era: [digital]
+  category:
+  - framework
+  - methodology
+  era:
+  - digital
   origin: []
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
-specializes_to: ["pat_01kg5023zqfzsrp86cw8naywp2", "pat_01kg502405es8af4s5sdmkgyg0"]
+specializes_to:
+- pat_01kg5023zqfzsrp86cw8naywp2
+- pat_01kg502405es8af4s5sdmkgyg0
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

@@ -4,26 +4,45 @@ page_url: https://commons-os.github.io/patterns/public-health-models/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/public-health-models.md
 slug: public-health-models
 title: Public Health Models
-aliases: [Population Health Models, Community Health Models]
+aliases:
+- Population Health Models
+- Community Health Models
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, meta-pattern]
-  era: [industrial, digital, cognitive]
-  origin: [academic, government]
+  category:
+  - framework
+  - meta-pattern
+  era:
+  - industrial
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - government
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.cdc.gov/violence-prevention/about/about-the-public-health-approach-to-violence-prevention.html, https://online.fit.edu/degrees/graduate/business/mba/healthcare-management/health-promotion-models-and-how-to-apply-them/, https://www.ruralhealthinfo.org/toolkits/health-promotion/2/theories-and-models, https://www.ncbi.nlm.nih.gov/books/NBK606120/, https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.88.11.1591]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.cdc.gov/violence-prevention/about/about-the-public-health-approach-to-violence-prevention.html
+- https://online.fit.edu/degrees/graduate/business/mba/healthcare-management/health-promotion-models-and-how-to-apply-them/
+- https://www.ruralhealthinfo.org/toolkits/health-promotion/2/theories-and-models
+- https://www.ncbi.nlm.nih.gov/books/NBK606120/
+- https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.88.11.1591
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

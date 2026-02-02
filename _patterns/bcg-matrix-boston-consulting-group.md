@@ -22,7 +22,9 @@ classification:
   - boston-consulting-group
   status: draft
   commons_alignment: 2
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from:
 - pat_01kg5023xjea9ve0dr1fhacvrd
 specializes_to: []

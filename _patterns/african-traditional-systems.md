@@ -4,31 +4,57 @@ page_url: https://commons-os.github.io/patterns/african-traditional-systems/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/african-traditional-systems.md
 slug: african-traditional-systems
 title: African Traditional Systems
-aliases: [African Traditional Governance, Indigenous African Governance]
+aliases:
+- African Traditional Governance
+- Indigenous African Governance
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: meta-pattern
-  era: [agricultural, industrial]
-  origin: [indigenous-african-societies]
+  category:
+  - meta-pattern
+  era:
+  - agricultural
+  - industrial
+  origin:
+  - indigenous-african-societies
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023xfergseskex576m9tk", "pat_01kg5023w5f1985waqhj82jszc", "pat_01kg50240zfdhtkt15hvg0w2vc", "pat_01kg5023x6ecsvs4r54p0sty5b", "pat_01kg5023z5emr9v9twr2y289ec", "pat_01kg5023y6fxsa08h2ab6zb90p", "pat_01kg50240tewravhcerwwba8fy", "pat_01kg5023xge89s6mx3paefv92p", "pat_01kg502407eyh8wbymgkna58jr", "pat_01kg5023xef1s9wh99ya5936c8", "pat_01kg5023zseyh85cxgpcswxp4a", "pat_01kg502407eyh8wbymda2yh5xe", "pat_01kg5023xqet0abagjfk9c2b4m", "pat_01kg5023zde79btwvkq4xrqm6c", "pat_01kg5023z6f40rvkrsj7tzpehh"]
-contributors: [higgerix, cloudsters]
+related:
+- pat_01kg5023xfergseskex576m9tk
+- pat_01kg5023w5f1985waqhj82jszc
+- pat_01kg50240zfdhtkt15hvg0w2vc
+- pat_01kg5023x6ecsvs4r54p0sty5b
+- pat_01kg5023z5emr9v9twr2y289ec
+- pat_01kg5023y6fxsa08h2ab6zb90p
+- pat_01kg50240tewravhcerwwba8fy
+- pat_01kg5023xge89s6mx3paefv92p
+- pat_01kg502407eyh8wbymgkna58jr
+- pat_01kg5023xef1s9wh99ya5936c8
+- pat_01kg5023zseyh85cxgpcswxp4a
+- pat_01kg502407eyh8wbymda2yh5xe
+- pat_01kg5023xqet0abagjfk9c2b4m
+- pat_01kg5023zde79btwvkq4xrqm6c
+- pat_01kg5023z6f40rvkrsj7tzpehh
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - "https://oxfordre.com/politics/display/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-1347"
-  - "https://jocap.domuni.eu/jocap/article/download/the-political-legitimacy-of-traditional-african-system-of-govern/13"
-  - "https://www.eisa.org/document/2004-journal-of-african-elections-v3n1-traditional-modern-political-systems-contemporary-governance-africa-eisa/"
-  - "http://exploringafrica.matrix.msu.edu/module-ten-activity-two-2/"
-  - "https://thinkafrica.net/africas-15-pre-colonial-political-systems/"
+- https://oxfordre.com/politics/display/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-1347
+- https://jocap.domuni.eu/jocap/article/download/the-political-legitimacy-of-traditional-african-system-of-govern/13
+- https://www.eisa.org/document/2004-journal-of-african-elections-v3n1-traditional-modern-political-systems-contemporary-governance-africa-eisa/
+- http://exploringafrica.matrix.msu.edu/module-ten-activity-two-2/
+- https://thinkafrica.net/africas-15-pre-colonial-political-systems/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

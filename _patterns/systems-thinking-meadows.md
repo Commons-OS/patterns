@@ -22,7 +22,9 @@ classification:
   - MIT
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from:
 - pat_01kg5023vdecr9aqhgjf4vp12v
 specializes_to: []

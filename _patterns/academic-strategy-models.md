@@ -4,26 +4,44 @@ page_url: https://commons-os.github.io/patterns/academic-strategy-models/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/academic-strategy-models.md
 slug: academic-strategy-models
 title: Academic Strategy Models
-aliases: [Strategic Planning in Higher Education, University Strategy Frameworks]
+aliases:
+- Strategic Planning in Higher Education
+- University Strategy Frameworks
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, methodology]
-  era: [industrial, digital]
-  origin: [academic, business]
+  category:
+  - framework
+  - methodology
+  era:
+  - industrial
+  - digital
+  origin:
+  - academic
+  - business
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.coastalbend.edu/institutional_effectiveness_research/practicalguidetospinhe.pdf", "https://eric.ed.gov/?id=EJ1208199", "https://link.springer.com/article/10.1007/s44217-024-00351-z", "https://www.imd.org/research-knowledge/strategy/case-studies/the-seven-dimensions-of-academic-strategy-a-systems-framework-for-higher-education-excellence/", "https://thoughtexchange.com/blog/3-proven-strategic-planning-models-for-k-12-education/"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.coastalbend.edu/institutional_effectiveness_research/practicalguidetospinhe.pdf
+- https://eric.ed.gov/?id=EJ1208199
+- https://link.springer.com/article/10.1007/s44217-024-00351-z
+- https://www.imd.org/research-knowledge/strategy/case-studies/the-seven-dimensions-of-academic-strategy-a-systems-framework-for-higher-education-excellence/
+- https://thoughtexchange.com/blog/3-proven-strategic-planning-models-for-k-12-education/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

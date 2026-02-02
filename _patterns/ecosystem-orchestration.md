@@ -4,26 +4,42 @@ page_url: https://commons-os.github.io/patterns/ecosystem-orchestration/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/ecosystem-orchestration.md
 slug: ecosystem-orchestration
 title: Ecosystem Orchestration
-aliases: ["Platform Orchestration", "Digital Ecosystem Management"]
+aliases:
+- Platform Orchestration
+- Digital Ecosystem Management
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: framework
-  era: [digital, cognitive]
-  origin: [academic, bcg]
+  category:
+  - framework
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - bcg
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.bcg.com/publications/2020/four-strategies-to-orchestrate-digital-ecosystem", "https://www.strategeos.com/f/ecosystem-orchestration-how-to-lead-networks-you-dont-control", "https://www.sciencedirect.com/science/article/pii/S0148296323008226", "https://sloanreview.mit.edu/article/workforce-ecosystem-orchestration-a-strategic-framework/"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.bcg.com/publications/2020/four-strategies-to-orchestrate-digital-ecosystem
+- https://www.strategeos.com/f/ecosystem-orchestration-how-to-lead-networks-you-dont-control
+- https://www.sciencedirect.com/science/article/pii/S0148296323008226
+- https://sloanreview.mit.edu/article/workforce-ecosystem-orchestration-a-strategic-framework/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

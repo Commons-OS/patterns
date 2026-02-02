@@ -4,26 +4,42 @@ page_url: https://commons-os.github.io/patterns/personality-frameworks-mbti-disc
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/personality-frameworks-mbti-disc-etc.md
 slug: personality-frameworks-mbti-disc-etc
 title: Personality Frameworks (MBTI, DISC, etc.)
-aliases: [Personality Assessments, Psychometric Tools]
+aliases:
+- Personality Assessments
+- Psychometric Tools
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: meta
-  category: [framework]
-  era: [industrial, digital]
-  origin: [academic, military]
+  category:
+  - framework
+  era:
+  - industrial
+  - digital
+  origin:
+  - academic
+  - military
   status: draft
   commons_alignment: 2
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.myersbriggs.org/type-in-my-life/personality-type-and-organizations/, https://www.everythingdisc.com/, https://hbr.org/2017/03/a-brief-history-of-personality-tests, https://pubmed.ncbi.nlm.nih.gov/19048975/, https://pmc.ncbi.nlm.nih.gov/articles/PMC12319163/]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.myersbriggs.org/type-in-my-life/personality-type-and-organizations/
+- https://www.everythingdisc.com/
+- https://hbr.org/2017/03/a-brief-history-of-personality-tests
+- https://pubmed.ncbi.nlm.nih.gov/19048975/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC12319163/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

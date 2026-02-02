@@ -6,29 +6,35 @@ slug: discounted-cash-flow-dcf
 title: Discounted Cash Flow (DCF)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [methodology]
-  era: [industrial]
+  category:
+  - methodology
+  era:
+  - industrial
   origin: []
   status: draft
   commons_alignment: 1
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://www.investopedia.com/terms/d/dcf.asp
-  - https://online.hbs.edu/blog/post/discounted-cash-flow
-  - https://corporatefinanceinstitute.com/resources/valuation/dcf-formula-guide/
-  - https://www.investopedia.com/investing/pitfalls-of-discounted-cash-flow-analysis/
-  - https://www.investopedia.com/articles/fundamental-analysis/11/choosing-valuation-methods.asp
+- https://www.investopedia.com/terms/d/dcf.asp
+- https://online.hbs.edu/blog/post/discounted-cash-flow
+- https://corporatefinanceinstitute.com/resources/valuation/dcf-formula-guide/
+- https://www.investopedia.com/investing/pitfalls-of-discounted-cash-flow-analysis/
+- https://www.investopedia.com/articles/fundamental-analysis/11/choosing-valuation-methods.asp
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

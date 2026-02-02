@@ -13,14 +13,17 @@ modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: technology
-  category: methodology
+  category:
+  - methodology
   era:
   - industrial
   origin:
   - Eliyahu M. Goldratt
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to:
 - pat_01kg502405es8af4s6098h89gc

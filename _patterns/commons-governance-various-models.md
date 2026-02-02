@@ -4,26 +4,60 @@ page_url: https://commons-os.github.io/patterns/commons-governance-various-model
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/commons-governance-various-models.md
 slug: commons-governance-various-models
 title: Commons Governance (Various Models)
-aliases: [Commons-based governance, Common pool resource management]
+aliases:
+- Commons-based governance
+- Common pool resource management
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: governance
-  category: [meta-pattern]
-  era: [agricultural, industrial, digital, cognitive]
-  origin: [academic, traditional-practice]
+  category:
+  - meta-pattern
+  era:
+  - agricultural
+  - industrial
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - traditional-practice
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023xne3gs3g227jcvch6k", "pat_01kg5023x4easr02ymp7vsz81b", "pat_01kg5023y5fnhb2ej6755c58p1", "pat_01kg50240sfm8re6ep2sz2xmy5", "pat_01kg5023vwe00rptkqr3z6pkd9", "pat_01kg5023y4e708zavzfmvmx4yp", "pat_01kg50240fev1snyp2ytvn21xm", "pat_01kg50240rf3s9mqrqw0pp5mwn", "pat_01kg5023x3f8gtc1a31gws6jj3", "pat_01kg5023y4e708zavzcte3n4dd", "pat_01kg5023xmek8szp5z3c5dc977", "pat_01kg5023y8e9ssb52a5snc91pm", "pat_01kg5023xbed1bnd9kg5m8pqq0", "pat_01kg5023vhev9b6swdrszd75z9", "pat_01kg5023whehgsjwtbrb92n8n3"]
-contributors: [higgerix, cloudsters]
-sources: [https://weall.org/resource/governance-of-the-commons, https://www.adalovelaceinstitute.org/blog/common-governance-of-data/, https://www.mospbs.com/uploads/files/2025/08/20250808/3eb364a29140100f6a0647c3ea8ad65d.pdf, https://earthbound.report/2018/01/15/elinor-ostroms-8-rules-for-managing-the-commons/, https://patternsofcommoning.org/uncategorized/eight-design-principles-for-successful-commons/]
+related:
+- pat_01kg5023xne3gs3g227jcvch6k
+- pat_01kg5023x4easr02ymp7vsz81b
+- pat_01kg5023y5fnhb2ej6755c58p1
+- pat_01kg50240sfm8re6ep2sz2xmy5
+- pat_01kg5023vwe00rptkqr3z6pkd9
+- pat_01kg5023y4e708zavzfmvmx4yp
+- pat_01kg50240fev1snyp2ytvn21xm
+- pat_01kg50240rf3s9mqrqw0pp5mwn
+- pat_01kg5023x3f8gtc1a31gws6jj3
+- pat_01kg5023y4e708zavzcte3n4dd
+- pat_01kg5023xmek8szp5z3c5dc977
+- pat_01kg5023y8e9ssb52a5snc91pm
+- pat_01kg5023xbed1bnd9kg5m8pqq0
+- pat_01kg5023vhev9b6swdrszd75z9
+- pat_01kg5023whehgsjwtbrb92n8n3
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://weall.org/resource/governance-of-the-commons
+- https://www.adalovelaceinstitute.org/blog/common-governance-of-data/
+- https://www.mospbs.com/uploads/files/2025/08/20250808/3eb364a29140100f6a0647c3ea8ad65d.pdf
+- https://earthbound.report/2018/01/15/elinor-ostroms-8-rules-for-managing-the-commons/
+- https://patternsofcommoning.org/uncategorized/eight-design-principles-for-successful-commons/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

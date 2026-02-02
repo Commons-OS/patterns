@@ -6,24 +6,63 @@ slug: maori-documented
 title: Maori
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, principle]
-  era: [cognitive]
-  origin: [Maori]
+  category:
+  - framework
+  - principle
+  era:
+  - cognitive
+  origin:
+  - Maori
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
-specializes_to: ["pat_01kg5023zde79btwvkns2hde3c", "pat_01kg5023z6f40rvkrsj7tzpehh"]
+specializes_to:
+- pat_01kg5023zde79btwvkns2hde3c
+- pat_01kg5023z6f40rvkrsj7tzpehh
 enables: []
 requires: []
-related: ["pat_01kg5023xfergseskex576m9tk", "pat_01kg5023w5f1985waqhj82jszc", "pat_01kg50240zfdhtkt15hvg0w2vc", "pat_01kg5023x6ecsvs4r54p0sty5b", "pat_01kg5023z5emr9v9twr2y289ec", "pat_01kg5023y6fxsa08h2ab6zb90p", "pat_01kg50240tewravhcerwwba8fy", "pat_01kg5023xge89s6mx3paefv92p", "pat_01kg502407eyh8wbymgkna58jr", "pat_01kg5023x9fprav2bygmryd6br", "pat_01kg5023xef1s9wh99ya5936c8", "pat_01kg5023zseyh85cxgpcswxp4a", "pat_01kg502407eyh8wbymda2yh5xe", "pat_01kg5023xqet0abagjfk9c2b4m", "pat_01kg5023z6f40rvkrsj7tzpehh"]
-contributors: [higgerix, cloudsters]
-sources: [https://teara.govt.nz/en/1966/maori-social-structure/page-2, https://www.tota.world/article/570/, https://www.maori.info/maori_society.htm, https://www.waihangaararau.nz/maori-concepts-lift-culture/, https://www.mbie.govt.nz/business-and-employment/economic-growth/previous-economic-development-work/just-transition/just-transitions-guide/foundations/principles-from-te-ao-maori-the-maori-worldview, https://www.ttcommercial.nz/blog/5-ways-mori-values-are-shaping-the-future-of-business, https://bmc-law.co.nz/article/embracing-tikanga-maori-in-your-commercial-contracts/, https://static1.squarespace.com/static/587c135515d5db2c4baeab05/t/5c109fd2758d46e15e67fe0b/1544593445337/M%C4%81ori+Culture+and+Tikanga+Practices+for+the+Workplace+-+T%C5%ABtira+Mai+NZ.pdf, https://onlinelibrary.wiley.com/doi/full/10.1002/sres.3156, https://duncancotterill.com/insights/tikanga-at-work-cultural-competence/, https://www.fonterra.com/nz/en/our-co-operative/maori-strategy.html, https://jtknz.substack.com/p/leading-with-both-worlds-rangatiratanga, https://houkura.nz/value-report-rangatiratanga]
+related:
+- pat_01kg5023xfergseskex576m9tk
+- pat_01kg5023w5f1985waqhj82jszc
+- pat_01kg50240zfdhtkt15hvg0w2vc
+- pat_01kg5023x6ecsvs4r54p0sty5b
+- pat_01kg5023z5emr9v9twr2y289ec
+- pat_01kg5023y6fxsa08h2ab6zb90p
+- pat_01kg50240tewravhcerwwba8fy
+- pat_01kg5023xge89s6mx3paefv92p
+- pat_01kg502407eyh8wbymgkna58jr
+- pat_01kg5023x9fprav2bygmryd6br
+- pat_01kg5023xef1s9wh99ya5936c8
+- pat_01kg5023zseyh85cxgpcswxp4a
+- pat_01kg502407eyh8wbymda2yh5xe
+- pat_01kg5023xqet0abagjfk9c2b4m
+- pat_01kg5023z6f40rvkrsj7tzpehh
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://teara.govt.nz/en/1966/maori-social-structure/page-2
+- https://www.tota.world/article/570/
+- https://www.maori.info/maori_society.htm
+- https://www.waihangaararau.nz/maori-concepts-lift-culture/
+- https://www.mbie.govt.nz/business-and-employment/economic-growth/previous-economic-development-work/just-transition/just-transitions-guide/foundations/principles-from-te-ao-maori-the-maori-worldview
+- https://www.ttcommercial.nz/blog/5-ways-mori-values-are-shaping-the-future-of-business
+- https://bmc-law.co.nz/article/embracing-tikanga-maori-in-your-commercial-contracts/
+- https://static1.squarespace.com/static/587c135515d5db2c4baeab05/t/5c109fd2758d46e15e67fe0b/1544593445337/M%C4%81ori+Culture+and+Tikanga+Practices+for+the+Workplace+-+T%C5%ABtira+Mai+NZ.pdf
+- https://onlinelibrary.wiley.com/doi/full/10.1002/sres.3156
+- https://duncancotterill.com/insights/tikanga-at-work-cultural-competence/
+- https://www.fonterra.com/nz/en/our-co-operative/maori-strategy.html
+- https://jtknz.substack.com/p/leading-with-both-worlds-rangatiratanga
+- https://houkura.nz/value-report-rangatiratanga
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

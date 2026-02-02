@@ -4,26 +4,58 @@ page_url: https://commons-os.github.io/patterns/consent-based-decision-making/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/consent-based-decision-making.md
 slug: consent-based-decision-making
 title: Consent-Based Decision Making
-aliases: [Consent Decision Making, Sociocratic Decision Making]
+aliases:
+- Consent Decision Making
+- Sociocratic Decision Making
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: human-universal
   domain: governance
-  category: [practice]
-  era: [digital, cognitive]
-  origin: [sociocracy]
+  category:
+  - practice
+  era:
+  - digital
+  - cognitive
+  origin:
+  - sociocracy
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
-specializes_to: ["pat_01kg5023vhev9b6swdpd3e6zy9"]
+specializes_to:
+- pat_01kg5023vhev9b6swdpd3e6zy9
 enables: []
 requires: []
-related: ["pat_01kg5023xne3gs3g227jcvch6k", "pat_01kg5023x4easr02ymp7vsz81b", "pat_01kg5023y5fnhb2ej6755c58p1", "pat_01kg50240sfm8re6ep2sz2xmy5", "pat_01kg5023vwe00rptkqr3z6pkd9", "pat_01kg5023y4e708zavzfmvmx4yp", "pat_01kg50240fev1snyp2ytvn21xm", "pat_01kg50240rf3s9mqrqw0pp5mwn", "pat_01kg5023x3f8gtc1a31gws6jj3", "pat_01kg5023xmek8szp5z3c5dc977", "pat_01kg5023y8e9ssb52a5snc91pm", "pat_01kg5023xbed1bnd9kg5m8pqq0", "pat_01kg5023whehgsjwtbrb92n8n3", "pat_01kg5023y4e708zavzcte3n4dd", "pat_01kg5023x2fqgbpste3v1ha2b1"]
-contributors: [higgerix, cloudsters]
-sources: ["https://www.sociocracyforall.org/consent-decision-making/", "https://patterns.sociocracy30.org/consent-decision-making.html", "https://www.sociocracyforall.org/case-studies/", "https://www.emerald.com/insight/content/doi/10.1108/f-03-2024-0046/full/html", "https://pmc.ncbi.nlm.nih.gov/articles/PMC10904660/"]
+related:
+- pat_01kg5023xne3gs3g227jcvch6k
+- pat_01kg5023x4easr02ymp7vsz81b
+- pat_01kg5023y5fnhb2ej6755c58p1
+- pat_01kg50240sfm8re6ep2sz2xmy5
+- pat_01kg5023vwe00rptkqr3z6pkd9
+- pat_01kg5023y4e708zavzfmvmx4yp
+- pat_01kg50240fev1snyp2ytvn21xm
+- pat_01kg50240rf3s9mqrqw0pp5mwn
+- pat_01kg5023x3f8gtc1a31gws6jj3
+- pat_01kg5023xmek8szp5z3c5dc977
+- pat_01kg5023y8e9ssb52a5snc91pm
+- pat_01kg5023xbed1bnd9kg5m8pqq0
+- pat_01kg5023whehgsjwtbrb92n8n3
+- pat_01kg5023y4e708zavzcte3n4dd
+- pat_01kg5023x2fqgbpste3v1ha2b1
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.sociocracyforall.org/consent-decision-making/
+- https://patterns.sociocracy30.org/consent-decision-making.html
+- https://www.sociocracyforall.org/case-studies/
+- https://www.emerald.com/insight/content/doi/10.1108/f-03-2024-0046/full/html
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC10904660/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

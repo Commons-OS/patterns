@@ -13,7 +13,8 @@ modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: technology
-  category: meta-pattern
+  category:
+  - meta-pattern
   era:
   - industrial
   - digital
@@ -22,7 +23,10 @@ classification:
   - industrial
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []

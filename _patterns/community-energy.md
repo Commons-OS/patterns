@@ -6,24 +6,37 @@ slug: community-energy
 title: Community Energy
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: culture
-  category: [practice]
-  era: [digital]
+  category:
+  - practice
+  era:
+  - digital
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
-specializes_to: ["pat_01kg5023wsfng8axd7ws6wpwxn"]
+specializes_to:
+- pat_01kg5023wsfng8axd7ws6wpwxn
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.eesi.org/topics/communities/description", "https://communityenergyengland.org/wp-content/uploads/2025/11/1494517990_What-is-Community-Energy.pdf", "https://www.irena.org/Publications/2021/Nov/Community-Energy-Toolkit-Best-practices-for-broadening-the-ownership-of-renewables", "https://www.cec.org/files/documents/publications/3610-guide-developing-community-renewable-energy-project-in-north-america-en.pdf", "https://ashden.org/wp-content/uploads/2025/03/Digest-of-evidence-about-the-value-of-community-energy_March-25.pdf"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.eesi.org/topics/communities/description
+- https://communityenergyengland.org/wp-content/uploads/2025/11/1494517990_What-is-Community-Energy.pdf
+- https://www.irena.org/Publications/2021/Nov/Community-Energy-Toolkit-Best-practices-for-broadening-the-ownership-of-renewables
+- https://www.cec.org/files/documents/publications/3610-guide-developing-community-renewable-energy-project-in-north-america-en.pdf
+- https://ashden.org/wp-content/uploads/2025/03/Digest-of-evidence-about-the-value-of-community-energy_March-25.pdf
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

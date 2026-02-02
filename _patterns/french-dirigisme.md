@@ -6,29 +6,37 @@ slug: french-dirigisme
 title: French Dirigisme
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [industrial]
-  origin: [France]
+  category:
+  - framework
+  era:
+  - industrial
+  origin:
+  - France
   status: draft
   commons_alignment: 2
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: 
-  - https://en.wikipedia.org/wiki/Dirigisme
-  - https://www.britannica.com/money/dirigisme
-  - https://shs.hal.science/halshs-01772893/document
-  - https://www.tandfonline.com/doi/pdf/10.1080/09639489708456372
-  - "Tocqueville’s Revenge: State, Society, and Economy in Contemporary France"
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Dirigisme
+- https://www.britannica.com/money/dirigisme
+- https://shs.hal.science/halshs-01772893/document
+- https://www.tandfonline.com/doi/pdf/10.1080/09639489708456372
+- 'Tocqueville’s Revenge: State, Society, and Economy in Contemporary France'
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

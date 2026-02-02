@@ -4,26 +4,44 @@ page_url: https://commons-os.github.io/patterns/service-model/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/service-model.md
 slug: service-model
 title: Service Model
-aliases: [Service-Oriented Model, As-a-Service Model]
+aliases:
+- Service-Oriented Model
+- As-a-Service Model
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, methodology]
-  era: [digital, cognitive]
-  origin: [it-industry, cloud-computing]
+  category:
+  - framework
+  - methodology
+  era:
+  - digital
+  - cognitive
+  origin:
+  - it-industry
+  - cloud-computing
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.tpximpact.com/knowledge-hub/insights/service-modelling/, https://www.consultancy.eu/news/7350/as-a-service-business-models-what-it-is-and-its-benefits, https://www.sciencedirect.com/topics/computer-science/service-model, https://en.wikipedia.org/wiki/Service-oriented_architecture, https://aws.amazon.com/what-is/service-oriented-architecture/]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.tpximpact.com/knowledge-hub/insights/service-modelling/
+- https://www.consultancy.eu/news/7350/as-a-service-business-models-what-it-is-and-its-benefits
+- https://www.sciencedirect.com/topics/computer-science/service-model
+- https://en.wikipedia.org/wiki/Service-oriented_architecture
+- https://aws.amazon.com/what-is/service-oriented-architecture/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

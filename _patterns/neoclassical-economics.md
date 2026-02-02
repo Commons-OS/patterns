@@ -6,29 +6,35 @@ slug: neoclassical-economics
 title: Neoclassical Economics
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [industrial]
+  category:
+  - framework
+  era:
+  - industrial
   origin: []
   status: draft
   commons_alignment: 1
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://en.wikipedia.org/wiki/Neoclassical_economics
-  - https://www.investopedia.com/terms/n/neoclassical.asp
-  - https://www.econlib.org/library/Enc/NeoclassicalEconomics.html
-  - https://corporatefinanceinstitute.com/resources/economics/neoclassical-economics/
-  - https://www.peakframeworks.com/post/neoclassical-economics
+- https://en.wikipedia.org/wiki/Neoclassical_economics
+- https://www.investopedia.com/terms/n/neoclassical.asp
+- https://www.econlib.org/library/Enc/NeoclassicalEconomics.html
+- https://corporatefinanceinstitute.com/resources/economics/neoclassical-economics/
+- https://www.peakframeworks.com/post/neoclassical-economics
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

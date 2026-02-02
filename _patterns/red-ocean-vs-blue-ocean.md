@@ -6,24 +6,37 @@ slug: red-ocean-vs-blue-ocean
 title: Red Ocean vs Blue Ocean
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, principle]
-  era: [digital, cognitive]
+  category:
+  - framework
+  - principle
+  era:
+  - digital
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ['https://www.blueoceanstrategy.com/what-is-blue-ocean-strategy/', 'https://hbr.org/2004/10/blue-ocean-strategy', 'https://www.blueoceanstrategy.com/blue-ocean-strategy-examples/cirque-du-soleil/', 'https://www.investopedia.com/terms/b/blue_ocean.asp', 'https://www.blueoceanstrategy.com/']
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.blueoceanstrategy.com/what-is-blue-ocean-strategy/
+- https://hbr.org/2004/10/blue-ocean-strategy
+- https://www.blueoceanstrategy.com/blue-ocean-strategy-examples/cirque-du-soleil/
+- https://www.investopedia.com/terms/b/blue_ocean.asp
+- https://www.blueoceanstrategy.com/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

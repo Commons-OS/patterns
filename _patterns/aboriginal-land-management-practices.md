@@ -22,7 +22,10 @@ classification:
   - indigenous-australian
   status: draft
   commons_alignment: 5
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []

@@ -4,26 +4,42 @@ page_url: https://commons-os.github.io/patterns/reggio-emilia-approach/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/reggio-emilia-approach.md
 slug: reggio-emilia-approach
 title: Reggio Emilia Approach
-aliases: ["Reggio Emilia Philosophy"]
+aliases:
+- Reggio Emilia Philosophy
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, principle]
-  era: [industrial, digital]
-  origin: ["Loris Malaguzzi", "Reggio Emilia community"]
+  category:
+  - framework
+  - principle
+  era:
+  - industrial
+  - digital
+  origin:
+  - Loris Malaguzzi
+  - Reggio Emilia community
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.reggiochildren.it/en/reggio-emilia-approach/", "https://en.wikipedia.org/wiki/Reggio_Emilia_approach", "https://pmc.ncbi.nlm.nih.gov/articles/PMC6052802/", "http://learningmaterialswork.com/wp-content/uploads/2016/06/ValuesAndPrinciples.pdf", "https://files.eric.ed.gov/fulltext/EJ1083239.pdf"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.reggiochildren.it/en/reggio-emilia-approach/
+- https://en.wikipedia.org/wiki/Reggio_Emilia_approach
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC6052802/
+- http://learningmaterialswork.com/wp-content/uploads/2016/06/ValuesAndPrinciples.pdf
+- https://files.eric.ed.gov/fulltext/EJ1083239.pdf
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

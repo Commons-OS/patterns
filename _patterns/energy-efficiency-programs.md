@@ -6,24 +6,37 @@ slug: energy-efficiency-programs
 title: Energy Efficiency Programs
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [practice]
-  era: [industrial, digital]
+  category:
+  - practice
+  era:
+  - industrial
+  - digital
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.epa.gov/sites/default/files/2015-08/documents/napee_chap6.pdf", "https://www.aceee.org/topic/energy-efficiency-as-a-resource", "https://www.deloitte.com/global/en/issues/climate/ai-for-energy-systems.html", "https://www.iea.org/reports/energy-and-ai/ai-for-energy-optimisation-and-innovation", "https://news.mit.edu/2025/how-ai-can-help-achieve-clean-energy-future-1124"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.epa.gov/sites/default/files/2015-08/documents/napee_chap6.pdf
+- https://www.aceee.org/topic/energy-efficiency-as-a-resource
+- https://www.deloitte.com/global/en/issues/climate/ai-for-energy-systems.html
+- https://www.iea.org/reports/energy-and-ai/ai-for-energy-optimisation-and-innovation
+- https://news.mit.edu/2025/how-ai-can-help-achieve-clean-energy-future-1124
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

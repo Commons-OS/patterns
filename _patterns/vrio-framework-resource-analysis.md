@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/vrio-framework-resource-analysis
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/vrio-framework-resource-analysis.md
 slug: vrio-framework-resource-analysis
 title: VRIO Framework - Resource Analysis
-aliases: [VRIO Analysis, VRIO Model]
+aliases:
+- VRIO Analysis
+- VRIO Model
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: meta
-  category: [framework]
-  era: [industrial, digital]
-  origin: [academic]
+  category:
+  - framework
+  era:
+  - industrial
+  - digital
+  origin:
+  - academic
   status: draft
   commons_alignment: 3
-commons_domain: business
-generalizes_from: ["pat_01kg50240dfc193dybss52b1af"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg50240dfc193dybss52b1af
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://en.wikipedia.org/wiki/VRIO, https://strategicmanagementinsight.com/tools/vrio/, https://onstrategyhq.com/vrio/analysis-example/, https://www.emerald.com/insight/content/doi/10.1108/MRR-10-2016-0243/full/html, http://www.tmstudies.net/index.php/ectms/article/view/447]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/VRIO
+- https://strategicmanagementinsight.com/tools/vrio/
+- https://onstrategyhq.com/vrio/analysis-example/
+- https://www.emerald.com/insight/content/doi/10.1108/MRR-10-2016-0243/full/html
+- http://www.tmstudies.net/index.php/ectms/article/view/447
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

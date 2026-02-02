@@ -4,26 +4,47 @@ page_url: https://commons-os.github.io/patterns/design-thinking/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/design-thinking.md
 slug: design-thinking
 title: Design Thinking
-aliases: [Human-Centered Design, Solution-Based Thinking]
+aliases:
+- Human-Centered Design
+- Solution-Based Thinking
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: 3
   domain: design
-  category: [methodology]
-  era: [digital, cognitive]
-  origin: [ideo, stanford-d-school]
+  category:
+  - methodology
+  era:
+  - digital
+  - cognitive
+  origin:
+  - ideo
+  - stanford-d-school
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
-specializes_to: ["pat_01kg5023zxf81byjg3hz71nf6p"]
+specializes_to:
+- pat_01kg5023zxf81byjg3hz71nf6p
 enables: []
 requires: []
-related: ["pat_01kg5023zxf81byjg3hz71nf6p", "pat_01kg5023z2fdra8j4sg5vfng9m", "pat_01kg5023zketsrxaxybhtsxefb"]
-contributors: [higgerix, cloudsters]
-sources: [https://online.hbs.edu/blog/post/what-is-design-thinking, https://www.ideou.com/blogs/inspiration/what-is-design-thinking, https://www.interaction-design.org/literature/article/design-thinking-get-a-quick-overview-of-the-history, https://online.hbs.edu/blog/post/design-thinking-examples, https://designatdarden.org/app/uploads/2018/01/Working-paper-Liedtka-Evaluating-the-Impact-of-Design-Thinking.pdf]
+related:
+- pat_01kg5023zxf81byjg3hz71nf6p
+- pat_01kg5023z2fdra8j4sg5vfng9m
+- pat_01kg5023zketsrxaxybhtsxefb
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://online.hbs.edu/blog/post/what-is-design-thinking
+- https://www.ideou.com/blogs/inspiration/what-is-design-thinking
+- https://www.interaction-design.org/literature/article/design-thinking-get-a-quick-overview-of-the-history
+- https://online.hbs.edu/blog/post/design-thinking-examples
+- https://designatdarden.org/app/uploads/2018/01/Working-paper-Liedtka-Evaluating-the-Impact-of-Design-Thinking.pdf
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

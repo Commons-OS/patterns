@@ -4,32 +4,57 @@ page_url: https://commons-os.github.io/patterns/amazonian-indigenous-systems/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/amazonian-indigenous-systems.md
 slug: amazonian-indigenous-systems
 title: Amazonian Indigenous Systems
-aliases: [Traditional Ecological Knowledge (TEK), Indigenous Knowledge Systems]
+aliases:
+- Traditional Ecological Knowledge (TEK)
+- Indigenous Knowledge Systems
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: meta-pattern
-  era: [agricultural, cognitive]
-  origin: [indigenous-amazonian]
+  category:
+  - meta-pattern
+  era:
+  - agricultural
+  - cognitive
+  origin:
+  - indigenous-amazonian
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023xfergseskex576m9tk", "pat_01kg5023w5f1985waqhj82jszc", "pat_01kg50240zfdhtkt15hvg0w2vc", "pat_01kg5023x6ecsvs4r54p0sty5b", "pat_01kg5023z5emr9v9twr2y289ec", "pat_01kg5023y6fxsa08h2ab6zb90p", "pat_01kg50240tewravhcerwwba8fy", "pat_01kg5023xge89s6mx3paefv92p", "pat_01kg502407eyh8wbymgkna58jr", "pat_01kg5023x9fprav2bygmryd6br", "pat_01kg5023zseyh85cxgpcswxp4a", "pat_01kg502407eyh8wbymda2yh5xe", "pat_01kg5023xqet0abagjfk9c2b4m", "pat_01kg5023zde79btwvkq4xrqm6c", "pat_01kg5023z6f40rvkrsj7tzpehh"]
-contributors: [higgerix, cloudsters]
-sources: [
-  "https://rainforestfoundation.org/the-ancestral-forest-how-indigenous-peoples-transformed-the-amazon-into-a-vast-garden/",
-  "https://wwf.panda.org/discover/knowledge_hub/where_we_work/amazon/about_the_amazon/people_amazon/",
-  "https://www.wri.org/insights/brazilian-amazon-indigenous-bioeconomy-takes-root",
-  "https://www.sciencedirect.com/science/article/abs/pii/S1389934123001077",
-  "https://www.frontiersin.org/articles/10.3389/fenvs.2023.1164900/full"
-]
+related:
+- pat_01kg5023xfergseskex576m9tk
+- pat_01kg5023w5f1985waqhj82jszc
+- pat_01kg50240zfdhtkt15hvg0w2vc
+- pat_01kg5023x6ecsvs4r54p0sty5b
+- pat_01kg5023z5emr9v9twr2y289ec
+- pat_01kg5023y6fxsa08h2ab6zb90p
+- pat_01kg50240tewravhcerwwba8fy
+- pat_01kg5023xge89s6mx3paefv92p
+- pat_01kg502407eyh8wbymgkna58jr
+- pat_01kg5023x9fprav2bygmryd6br
+- pat_01kg5023zseyh85cxgpcswxp4a
+- pat_01kg502407eyh8wbymda2yh5xe
+- pat_01kg5023xqet0abagjfk9c2b4m
+- pat_01kg5023zde79btwvkq4xrqm6c
+- pat_01kg5023z6f40rvkrsj7tzpehh
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://rainforestfoundation.org/the-ancestral-forest-how-indigenous-peoples-transformed-the-amazon-into-a-vast-garden/
+- https://wwf.panda.org/discover/knowledge_hub/where_we_work/amazon/about_the_amazon/people_amazon/
+- https://www.wri.org/insights/brazilian-amazon-indigenous-bioeconomy-takes-root
+- https://www.sciencedirect.com/science/article/abs/pii/S1389934123001077
+- https://www.frontiersin.org/articles/10.3389/fenvs.2023.1164900/full
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -4,37 +4,50 @@ page_url: https://commons-os.github.io/patterns/working-capital-management/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/working-capital-management.md
 slug: working-capital-management
 title: Working Capital Management
-aliases: [WCM, Net Working Capital Management]
+aliases:
+- WCM
+- Net Working Capital Management
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [practice]
-  era: [industrial, digital, cognitive]
-  origin: [academic, business-practice]
+  category:
+  - practice
+  era:
+  - industrial
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - business-practice
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://www.investopedia.com/terms/w/workingcapitalmanagement.asp
-  - https://taulia.com/resources/blog/creating-a-more-effective-working-capital-strategy/
-  - https://www.ijisrt.com/working-capital-management-in-different-sector
-  - https://www.highradius.com/resources/Blog/challenges-of-working-capital-management/
-  - https://www.crowe.com/insights/case-studies/working-capital-case-study-reducing-excess-inventory
-  - https://www.sciencedirect.com/science/article/pii/S2214845024000462
-  - https://www.tandfonline.com/doi/full/10.1080/23311975.2025.2473033
-  - https://onlinelibrary.wiley.com/doi/full/10.1002/joom.1244
-  - https://www.linkedin.com/pulse/beyond-automation-how-ai-redefining-rules-working-capital-ng2gf
-  - https://research.isg-one.com/analyst-perspectives/use-ai-and-technology-to-optimize-working-capital
-  - https://www.mtb.com/library/article/how-ai-and-automation-are-unlocking-working-capital
+- https://www.investopedia.com/terms/w/workingcapitalmanagement.asp
+- https://taulia.com/resources/blog/creating-a-more-effective-working-capital-strategy/
+- https://www.ijisrt.com/working-capital-management-in-different-sector
+- https://www.highradius.com/resources/Blog/challenges-of-working-capital-management/
+- https://www.crowe.com/insights/case-studies/working-capital-case-study-reducing-excess-inventory
+- https://www.sciencedirect.com/science/article/pii/S2214845024000462
+- https://www.tandfonline.com/doi/full/10.1080/23311975.2025.2473033
+- https://onlinelibrary.wiley.com/doi/full/10.1002/joom.1244
+- https://www.linkedin.com/pulse/beyond-automation-how-ai-redefining-rules-working-capital-ng2gf
+- https://research.isg-one.com/analyst-perspectives/use-ai-and-technology-to-optimize-working-capital
+- https://www.mtb.com/library/article/how-ai-and-automation-are-unlocking-working-capital
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

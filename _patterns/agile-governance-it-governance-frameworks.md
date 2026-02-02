@@ -4,26 +4,55 @@ page_url: https://commons-os.github.io/patterns/agile-governance-it-governance-f
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/agile-governance-it-governance-frameworks.md
 slug: agile-governance-it-governance-frameworks
 title: Agile Governance - IT Governance Frameworks
-aliases: ["Agile IT Governance", "Lean Governance"]
+aliases:
+- Agile IT Governance
+- Lean Governance
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: governance
-  category: [framework]
-  era: [digital]
-  origin: [agile-manifesto]
+  category:
+  - framework
+  era:
+  - digital
+  origin:
+  - agile-manifesto
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg5023vwe00rptkqr3z6pkd9"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023vwe00rptkqr3z6pkd9
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023xne3gs3g227jcvch6k", "pat_01kg5023x4easr02ymp7vsz81b", "pat_01kg50240sfm8re6ep2sz2xmy5", "pat_01kg5023xzf31b0j5p33g3mb95", "pat_01kg50240rf3s9mqrqzp0c8t14", "pat_01kg5023zwft8t7k635h086kyj", "pat_01kg5023y7e50rxp3ew60jdasx", "pat_01kg50240fev1snyp2ytvn21xm", "pat_01kg502402e8s98e5wnmbwpntc", "pat_01kg50240ef0s85r2hx5nbfb92", "pat_01kg5023vxetrvj5eeq840z709", "pat_01kg5023zseyh85cxgk2pk7nfa", "pat_01kg5023w3fmhsjawrdrgjrrxn", "pat_01kg50240wfjh98jqx0vjzv358", "pat_01kg5023whehgsjwtbrb92n8n3"]
-contributors: [higgerix, cloudsters]
-sources: ["https://www.agilebusiness.org/business-agility/framework-for-business-agility/agile-governance.html", "https://agilemania.com/what-is-agile-governance", "https://www.oecd.org/en/publications/case-studies-on-agile-regulatory-governance-to-harness-innovation_0fa5e0e6-en.html"]
+related:
+- pat_01kg5023xne3gs3g227jcvch6k
+- pat_01kg5023x4easr02ymp7vsz81b
+- pat_01kg50240sfm8re6ep2sz2xmy5
+- pat_01kg5023xzf31b0j5p33g3mb95
+- pat_01kg50240rf3s9mqrqzp0c8t14
+- pat_01kg5023zwft8t7k635h086kyj
+- pat_01kg5023y7e50rxp3ew60jdasx
+- pat_01kg50240fev1snyp2ytvn21xm
+- pat_01kg502402e8s98e5wnmbwpntc
+- pat_01kg50240ef0s85r2hx5nbfb92
+- pat_01kg5023vxetrvj5eeq840z709
+- pat_01kg5023zseyh85cxgk2pk7nfa
+- pat_01kg5023w3fmhsjawrdrgjrrxn
+- pat_01kg50240wfjh98jqx0vjzv358
+- pat_01kg5023whehgsjwtbrb92n8n3
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.agilebusiness.org/business-agility/framework-for-business-agility/agile-governance.html
+- https://agilemania.com/what-is-agile-governance
+- https://www.oecd.org/en/publications/case-studies-on-agile-regulatory-governance-to-harness-innovation_0fa5e0e6-en.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

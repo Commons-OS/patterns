@@ -6,24 +6,35 @@ slug: internal-rate-of-return-irr
 title: Internal Rate of Return (IRR)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [practice]
-  era: [industrial, digital]
+  category:
+  - practice
+  era:
+  - industrial
+  - digital
   origin: []
   status: draft
   commons_alignment: 2
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.investopedia.com/terms/i/irr.asp, https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/a-better-way-to-understand-internal-rate-of-return, https://ginimachine.com/blog/the-roi-of-implementing-ai-in-financial-services/, https://corporatefinanceinstitute.com/resources/valuation/npv-vs-irr/]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.investopedia.com/terms/i/irr.asp
+- https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/a-better-way-to-understand-internal-rate-of-return
+- https://ginimachine.com/blog/the-roi-of-implementing-ai-in-financial-services/
+- https://corporatefinanceinstitute.com/resources/valuation/npv-vs-irr/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

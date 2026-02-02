@@ -6,29 +6,35 @@ slug: coherent-clear-principles-practices-outcomes
 title: 'Coherent: Clear Principles, Practices, Outcomes'
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: culture
-  category: [principle]
-  era: [cognitive]
+  category:
+  - principle
+  era:
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://lsaglobal.com/coherent-business-strategy-2/
-  - https://sonjablignaut.medium.com/the-value-of-sense-of-coherence-in-organisational-contexts-e4f33dcc265
-  - https://agilemanifesto.org/principles.html
-  - https://pelp.fas.harvard.edu/coherence-framework
-  - https://www.the-ros.com/insights/vision-and-organizational-coherence-the-leadership-imperative/
+- https://lsaglobal.com/coherent-business-strategy-2/
+- https://sonjablignaut.medium.com/the-value-of-sense-of-coherence-in-organisational-contexts-e4f33dcc265
+- https://agilemanifesto.org/principles.html
+- https://pelp.fas.harvard.edu/coherence-framework
+- https://www.the-ros.com/insights/vision-and-organizational-coherence-the-leadership-imperative/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

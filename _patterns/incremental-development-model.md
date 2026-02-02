@@ -4,32 +4,40 @@ page_url: https://commons-os.github.io/patterns/incremental-development-model/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/incremental-development-model.md
 slug: incremental-development-model
 title: Incremental Development Model
-aliases: [Incremental Build Model]
+aliases:
+- Incremental Build Model
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [methodology]
-  era: [digital]
-  origin: [software-engineering]
+  category:
+  - methodology
+  era:
+  - digital
+  origin:
+  - software-engineering
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg5023z5emr9v9twhvsf6kzm"]
+  commons_domain:
+  - business
+  - startup
+generalizes_from:
+- pat_01kg5023z5emr9v9twhvsf6kzm
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [
-  "https://www.pmi.org/pmbok-guide-standards/pr-pmbok-7",
-  "https://www.amazon.com/Software-Engineering-Practitioners-Roger-Pressman/dp/0073375977",
-  "https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592",
-  "https://www.sciencedirect.com/science/article/pii/S0164121209000855",
-  "https://www.sciencedirect.com/science/article/pii/095058499090179U"
-]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.pmi.org/pmbok-guide-standards/pr-pmbok-7
+- https://www.amazon.com/Software-Engineering-Practitioners-Roger-Pressman/dp/0073375977
+- https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592
+- https://www.sciencedirect.com/science/article/pii/S0164121209000855
+- https://www.sciencedirect.com/science/article/pii/095058499090179U
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

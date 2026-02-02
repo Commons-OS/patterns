@@ -4,31 +4,46 @@ page_url: https://commons-os.github.io/patterns/industrial-ecology-closed-loop-s
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/industrial-ecology-closed-loop-systems.md
 slug: industrial-ecology-closed-loop-systems
 title: Industrial Ecology - Closed-Loop Systems
-aliases: [Industrial Symbiosis, Circular Economy]
+aliases:
+- Industrial Symbiosis
+- Circular Economy
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: sustainability
-  category: [framework, methodology]
-  era: [industrial, digital]
-  origin: [academic, Robert Frosch, Nicholas E. Gallopoulos]
+  category:
+  - framework
+  - methodology
+  era:
+  - industrial
+  - digital
+  origin:
+  - academic
+  - Robert Frosch
+  - Nicholas E. Gallopoulos
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg5023vveprts2atensmx579"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023vveprts2atensmx579
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://www.csis.org/analysis/industrial-ecology-closing-loop-circularity
-  - https://en.wikipedia.org/wiki/Industrial_ecology
-  - https://www.mech.kuleuven.be/lce2006/key3.pdf
-  - https://simbiosy.com/en/industrial-symbiosis/
-  - https://www.nationalacademies.org/read/4982/chapter/4
+- https://www.csis.org/analysis/industrial-ecology-closing-loop-circularity
+- https://en.wikipedia.org/wiki/Industrial_ecology
+- https://www.mech.kuleuven.be/lce2006/key3.pdf
+- https://simbiosy.com/en/industrial-symbiosis/
+- https://www.nationalacademies.org/read/4982/chapter/4
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

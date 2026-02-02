@@ -4,25 +4,47 @@ page_url: https://commons-os.github.io/patterns/systems-thinking/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/systems-thinking.md
 slug: systems-thinking
 title: Systems Thinking
-aliases: ["Holistic Thinking", "Complex Systems Thinking"]
+aliases:
+- Holistic Thinking
+- Complex Systems Thinking
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: universal
   domain: meta
-  category: ["meta-pattern", "framework", "methodology"]
-  era: ["industrial", "digital", "cognitive"]
-  origin: ["academic", "cybernetics"]
+  category:
+  - meta-pattern
+  - framework
+  - methodology
+  era:
+  - industrial
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - cybernetics
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
-specializes_to: ["pat_01kg5023v9fj0a69mjvb68mp32", "pat_01kg5023vcf5rv73jr3zqvr93y"]
+specializes_to:
+- pat_01kg5023v9fj0a69mjvb68mp32
+- pat_01kg5023vcf5rv73jr3zqvr93y
 enables: []
 requires: []
-related: ["pat_01kg5023vafgr9ywe30zx8g6bk", "pat_01kg5023vbe4rvttbw0f90gg19", "pat_01kg5023vcf5rv73jr3zqvr93y", "pat_01kg5023vbe4rvttbw31ydqm8r", "pat_01kg5023v9fj0a69mjvb68mp32", "pat_01kg5023vnfb1bfct0h3sg3yqf"]
-contributors: [higgerix, cloudsters]
+related:
+- pat_01kg5023vafgr9ywe30zx8g6bk
+- pat_01kg5023vbe4rvttbw0f90gg19
+- pat_01kg5023vcf5rv73jr3zqvr93y
+- pat_01kg5023vbe4rvttbw31ydqm8r
+- pat_01kg5023v9fj0a69mjvb68mp32
+- pat_01kg5023vnfb1bfct0h3sg3yqf
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

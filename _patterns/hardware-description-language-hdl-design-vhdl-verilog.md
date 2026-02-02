@@ -6,23 +6,31 @@ slug: hardware-description-language-hdl-design-vhdl-verilog
 title: Hardware Description Language (HDL) Design (VHDL, Verilog)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [practice]
-  era: [digital]
+  category:
+  - practice
+  era:
+  - digital
   origin: []
   status: draft
   commons_alignment: 3
-commons_domain: business
-generalizes_from: ["pat_01kg5023z0fa0tzybb2cqvbh8y"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023z0fa0tzybb2cqvbh8y
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

@@ -4,25 +4,36 @@ page_url: https://commons-os.github.io/patterns/reinforcement-learning-for-contr
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/reinforcement-learning-for-control-systems.md
 slug: reinforcement-learning-for-control-systems
 title: Reinforcement Learning for Control Systems
-aliases: [RL Control, Optimal Control through RL]
+aliases:
+- RL Control
+- Optimal Control through RL
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: human-universal
   domain: culture
-  category: methodology
-  era: [digital, cognitive]
-  origin: [academic, computer-science]
+  category:
+  - methodology
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - computer-science
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

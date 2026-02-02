@@ -6,30 +6,37 @@ slug: swarm-intelligence
 title: Swarm Intelligence
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, methodology]
-  era: [cognitive]
+  category:
+  - framework
+  - methodology
+  era:
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [
-  "https://en.wikipedia.org/wiki/Swarm_intelligence",
-  "https://innolytics.net/swarm-intelligence/",
-  "https://npli.hsph.harvard.edu/wp-content/uploads/2023/08/Swarm-Intelligence-Establishing-Behavioral-Norms.pdf",
-  "https://www.vationventures.com/glossary/swarm-intelligence-definition-explanation-and-use-cases",
-  "https://swarmstrategy.com/how-companies-can-use-swarm-intelligence-to-improve-teamwork-and-innovation/"
-]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Swarm_intelligence
+- https://innolytics.net/swarm-intelligence/
+- https://npli.hsph.harvard.edu/wp-content/uploads/2023/08/Swarm-Intelligence-Establishing-Behavioral-Norms.pdf
+- https://www.vationventures.com/glossary/swarm-intelligence-definition-explanation-and-use-cases
+- https://swarmstrategy.com/how-companies-can-use-swarm-intelligence-to-improve-teamwork-and-innovation/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

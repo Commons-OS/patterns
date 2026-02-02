@@ -4,31 +4,41 @@ page_url: https://commons-os.github.io/patterns/nasa-systems-engineering-npr-712
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/nasa-systems-engineering-npr-71231.md
 slug: nasa-systems-engineering-npr-71231
 title: NASA Systems Engineering (NPR 7123.1)
-aliases: [NASA SE, NASA Systems Engineering Process]
+aliases:
+- NASA SE
+- NASA Systems Engineering Process
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [framework]
-  era: [industrial, digital]
-  origin: [nasa]
+  category:
+  - framework
+  era:
+  - industrial
+  - digital
+  origin:
+  - nasa
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://nodis3.gsfc.nasa.gov/displayDir.cfm?t=NPR&c=7123&s=1B
-  - https://www.nasa.gov/wp-content/uploads/2018/09/nasa_systems_engineering_handbook_0.pdf
-  - https://www.nasa.gov/wp-content/uploads/2015/05/design_iss_systems_engineering_case_study.pdf
-  - https://ieeexplore.ieee.org/document/5966604/
-  - https://arc.aiaa.org/doi/pdf/10.2514/6.2018-3361
+- https://nodis3.gsfc.nasa.gov/displayDir.cfm?t=NPR&c=7123&s=1B
+- https://www.nasa.gov/wp-content/uploads/2018/09/nasa_systems_engineering_handbook_0.pdf
+- https://www.nasa.gov/wp-content/uploads/2015/05/design_iss_systems_engineering_case_study.pdf
+- https://ieeexplore.ieee.org/document/5966604/
+- https://arc.aiaa.org/doi/pdf/10.2514/6.2018-3361
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/microservices-architecture-distr
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/microservices-architecture-distributed-systems.md
 slug: microservices-architecture-distributed-systems
 title: Microservices Architecture
-aliases: [Microservice Architecture, Micro-service Architecture]
+aliases:
+- Microservice Architecture
+- Micro-service Architecture
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [framework]
-  era: [digital]
-  origin: [ThoughtWorks, Martin Fowler, James Lewis]
+  category:
+  - framework
+  era:
+  - digital
+  origin:
+  - ThoughtWorks
+  - Martin Fowler
+  - James Lewis
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://martinfowler.com/articles/microservices.html, https://www.geeksforgeeks.org/system-design/microservices/, https://aws.amazon.com/microservices/, https://microservices.io/, https://www.nginx.com/blog/introduction-to-microservices/]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://martinfowler.com/articles/microservices.html
+- https://www.geeksforgeeks.org/system-design/microservices/
+- https://aws.amazon.com/microservices/
+- https://microservices.io/
+- https://www.nginx.com/blog/introduction-to-microservices/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

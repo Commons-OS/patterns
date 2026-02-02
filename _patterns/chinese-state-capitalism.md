@@ -4,26 +4,42 @@ page_url: https://commons-os.github.io/patterns/chinese-state-capitalism/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/chinese-state-capitalism.md
 slug: chinese-state-capitalism
 title: Chinese State Capitalism
-aliases: ["Party-State Capitalism", "Socialism with Chinese Characteristics"]
+aliases:
+- Party-State Capitalism
+- Socialism with Chinese Characteristics
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: design
   domain: domain
-  category: [meta-pattern]
-  era: [industrial, digital]
-  origin: [chinese-communist-party]
+  category:
+  - meta-pattern
+  era:
+  - industrial
+  - digital
+  origin:
+  - chinese-communist-party
   status: draft
   commons_alignment: 2
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.csis.org/analysis/chinese-state-capitalism", "https://www.hbs.edu/ris/Publication%20Files/CURH120827_01_Pearson_4ea34a0b-21d5-45af-a51a-c938eeeb6380.pdf", "https://www.stanfordlawreview.org/wp-content/uploads/sites/3/2013/05/Lin__Milhaupt_65_Stan._L._Rev._697.pdf", "https://en.wikipedia.org/wiki/State_capitalism", "https://www.promarket.org/2022/09/02/how-does-party-state-capitalism-in-china-interact-with-global-capitalism/"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.csis.org/analysis/chinese-state-capitalism
+- https://www.hbs.edu/ris/Publication%20Files/CURH120827_01_Pearson_4ea34a0b-21d5-45af-a51a-c938eeeb6380.pdf
+- https://www.stanfordlawreview.org/wp-content/uploads/sites/3/2013/05/Lin__Milhaupt_65_Stan._L._Rev._697.pdf
+- https://en.wikipedia.org/wiki/State_capitalism
+- https://www.promarket.org/2022/09/02/how-does-party-state-capitalism-in-china-interact-with-global-capitalism/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

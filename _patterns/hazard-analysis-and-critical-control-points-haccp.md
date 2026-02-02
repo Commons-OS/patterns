@@ -6,23 +6,34 @@ slug: hazard-analysis-and-critical-control-points-haccp
 title: Hazard Analysis and Critical Control Points (HACCP)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, methodology]
-  era: [industrial]
-  origin: [NASA, Pillsbury]
+  category:
+  - framework
+  - methodology
+  era:
+  - industrial
+  origin:
+  - NASA
+  - Pillsbury
   status: draft
   commons_alignment: 3
-commons_domain: business
-generalizes_from: ["pat_01kg5023z1fns9y8zkab5bbkz1"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023z1fns9y8zkab5bbkz1
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

@@ -4,31 +4,47 @@ page_url: https://commons-os.github.io/patterns/rhenish-capitalism/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/rhenish-capitalism.md
 slug: rhenish-capitalism
 title: Rhenish Capitalism
-aliases: [Social Market Economy, Rhine Capitalism, Rhine-Alpine Capitalism, Rhenish Model, Social Capitalism]
+aliases:
+- Social Market Economy
+- Rhine Capitalism
+- Rhine-Alpine Capitalism
+- Rhenish Model
+- Social Capitalism
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [meta-pattern]
-  era: [industrial, cognitive]
-  origin: [academic, freiburg-school]
+  category:
+  - meta-pattern
+  era:
+  - industrial
+  - cognitive
+  origin:
+  - academic
+  - freiburg-school
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
-specializes_to: ["pat_01kg5023zve6sv1r0bh65bkj4n"]
+specializes_to:
+- pat_01kg5023zve6sv1r0bh65bkj4n
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://en.wikipedia.org/wiki/Social_market_economy
-  - https://mineglobal.medium.com/exploring-rhenish-capitalism-566db8619592
-  - https://www.tandfonline.com/doi/full/10.1080/00076791.2019.1583211
-  - https://www.bruegel.org/blog-post/codetermination-germany-role-model-uk-and-us
-  - https://www.amazon.com/Capitalism-vs-Individual-Achievement-Short-Term/dp/1568580053
+- https://en.wikipedia.org/wiki/Social_market_economy
+- https://mineglobal.medium.com/exploring-rhenish-capitalism-566db8619592
+- https://www.tandfonline.com/doi/full/10.1080/00076791.2019.1583211
+- https://www.bruegel.org/blog-post/codetermination-germany-role-model-uk-and-us
+- https://www.amazon.com/Capitalism-vs-Individual-Achievement-Short-Term/dp/1568580053
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

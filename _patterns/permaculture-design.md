@@ -4,26 +4,44 @@ page_url: https://commons-os.github.io/patterns/permaculture-design/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/permaculture-design.md
 slug: permaculture-design
 title: Permaculture Design
-aliases: ["Permanent Agriculture"]
+aliases:
+- Permanent Agriculture
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: design
   domain: domain
-  category: [framework, methodology]
-  era: [agricultural, cognitive]
-  origin: ["Bill Mollison", "David Holmgren"]
+  category:
+  - framework
+  - methodology
+  era:
+  - agricultural
+  - cognitive
+  origin:
+  - Bill Mollison
+  - David Holmgren
   status: draft
   commons_alignment: 5
-commons_domain: business
-generalizes_from: ["pat_01kg5023zketsrxaxyzegzykkj"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023zketsrxaxyzegzykkj
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://en.wikipedia.org/wiki/Permaculture", "https://permacultureprinciples.com/permaculture-principles/", "https://www.porvenirdesign.com/blog/2021/9/19/the-tropical-permaculture-homestead", "https://www.permaculture.org.uk/nenyas-garden", "https://www.treehugger.com/making-living-permaculture-design-practice-5097391"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Permaculture
+- https://permacultureprinciples.com/permaculture-principles/
+- https://www.porvenirdesign.com/blog/2021/9/19/the-tropical-permaculture-homestead
+- https://www.permaculture.org.uk/nenyas-garden
+- https://www.treehugger.com/making-living-permaculture-design-practice-5097391
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

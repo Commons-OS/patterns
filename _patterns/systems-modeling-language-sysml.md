@@ -4,26 +4,41 @@ page_url: https://commons-os.github.io/patterns/systems-modeling-language-sysml/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/systems-modeling-language-sysml.md
 slug: systems-modeling-language-sysml
 title: Systems Modeling Language (SysML)
-aliases: [SysML]
+aliases:
+- SysML
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [language, modeling]
-  era: [digital]
-  origin: [INCOSE, OMG]
+  category:
+  - language
+  - modeling
+  era:
+  - digital
+  origin:
+  - INCOSE
+  - OMG
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.omg.org/spec/SysML/1.7/", "https://en.wikipedia.org/wiki/Systems_modeling_language", "A Practical Guide to SysML: The Systems Modeling Language", "SysML Distilled: A Brief Guide to the Systems Modeling Language", "SysML for Systems Engineering"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.omg.org/spec/SysML/1.7/
+- https://en.wikipedia.org/wiki/Systems_modeling_language
+- 'A Practical Guide to SysML: The Systems Modeling Language'
+- 'SysML Distilled: A Brief Guide to the Systems Modeling Language'
+- SysML for Systems Engineering
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

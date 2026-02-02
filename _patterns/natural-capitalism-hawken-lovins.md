@@ -4,26 +4,41 @@ page_url: https://commons-os.github.io/patterns/natural-capitalism-hawken-lovins
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/natural-capitalism-hawken-lovins.md
 slug: natural-capitalism-hawken-lovins
 title: Natural Capitalism
-aliases: ["Ecological Capitalism"]
+aliases:
+- Ecological Capitalism
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [framework]
-  era: [industrial, cognitive]
-  origin: [academic]
+  category:
+  - framework
+  era:
+  - industrial
+  - cognitive
+  origin:
+  - academic
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://en.wikipedia.org/wiki/Natural_Capitalism", "https://rmi.org/insight/natural-capitalism-summary-from-apertura-magazine/", "https://library.uniteddiversity.coop/Money_and_Economics/Natural_Capitalism-The_Next_Industrial_Revolution.pdf", "https://donellameadows.org/archives/systems-thinking-primer-for-natural-capitalism-the-four-basic-shifts/", "https://www.fastcompany.com/1414589/natural-capitalism"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Natural_Capitalism
+- https://rmi.org/insight/natural-capitalism-summary-from-apertura-magazine/
+- https://library.uniteddiversity.coop/Money_and_Economics/Natural_Capitalism-The_Next_Industrial_Revolution.pdf
+- https://donellameadows.org/archives/systems-thinking-primer-for-natural-capitalism-the-four-basic-shifts/
+- https://www.fastcompany.com/1414589/natural-capitalism
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/pull-systems-demand-driven-produ
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/pull-systems-demand-driven-production.md
 slug: pull-systems-demand-driven-production
 title: Pull Systems - Demand-Driven Production
-aliases: ["Demand-Driven Production", "Just-in-Time Production"]
+aliases:
+- Demand-Driven Production
+- Just-in-Time Production
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [methodology]
-  era: [industrial, digital]
-  origin: [toyota-production-system]
+  category:
+  - methodology
+  era:
+  - industrial
+  - digital
+  origin:
+  - toyota-production-system
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg5023w3fmhsjawr9a7mja9w"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023w3fmhsjawr9a7mja9w
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://businessmap.io/lean-management/pull/what-is-pull-system", "https://www.lean.org/lexicon-terms/pull-production/", "https://www.demanddriveninstitute.com/case-studies", "https://www.amazon.com/All-About-Pull-Production-Implementing/dp/3963820284", "https://www.lean.org/store/workbooks/creating-level-pull/"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://businessmap.io/lean-management/pull/what-is-pull-system
+- https://www.lean.org/lexicon-terms/pull-production/
+- https://www.demanddriveninstitute.com/case-studies
+- https://www.amazon.com/All-About-Pull-Production-Implementing/dp/3963820284
+- https://www.lean.org/store/workbooks/creating-level-pull/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

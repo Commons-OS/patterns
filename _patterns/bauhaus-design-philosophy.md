@@ -4,26 +4,45 @@ page_url: https://commons-os.github.io/patterns/bauhaus-design-philosophy/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/bauhaus-design-philosophy.md
 slug: bauhaus-design-philosophy
 title: Bauhaus Design Philosophy
-aliases: [Bauhaus, Staatliches Bauhaus]
+aliases:
+- Bauhaus
+- Staatliches Bauhaus
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [principle]
-  era: [industrial]
-  origin: [weimar-republic, walter-gropius]
+  category:
+  - principle
+  era:
+  - industrial
+  origin:
+  - weimar-republic
+  - walter-gropius
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://en.wikipedia.org/wiki/Bauhaus, https://www.metmuseum.org/essays/the-bauhaus-1919-1933, https://blog.depositphotos.com/bauhaus-design.html, https://art.art/blog/10-bauhaus-principles-that-still-apply-today, https://www.linearity.io/blog/bauhaus-design/, https://animato.uk/blogs/news/the-bauhaus-school, https://medleyhome.com/blogs/gather/why-the-bauhaus-movement-was-so-important-for-modern-design, https://www.bbc.com/culture/article/20171109-the-endless-influence-of-the-bauhaus]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Bauhaus
+- https://www.metmuseum.org/essays/the-bauhaus-1919-1933
+- https://blog.depositphotos.com/bauhaus-design.html
+- https://art.art/blog/10-bauhaus-principles-that-still-apply-today
+- https://www.linearity.io/blog/bauhaus-design/
+- https://animato.uk/blogs/news/the-bauhaus-school
+- https://medleyhome.com/blogs/gather/why-the-bauhaus-movement-was-so-important-for-modern-design
+- https://www.bbc.com/culture/article/20171109-the-endless-influence-of-the-bauhaus
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

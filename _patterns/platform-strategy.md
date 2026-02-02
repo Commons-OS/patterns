@@ -4,25 +4,36 @@ page_url: https://commons-os.github.io/patterns/platform-strategy/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/platform-strategy.md
 slug: platform-strategy
 title: Platform Strategy
-aliases: [Platform Business Model, Two-Sided Market, Multi-Sided Platform]
+aliases:
+- Platform Business Model
+- Two-Sided Market
+- Multi-Sided Platform
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: 3
   domain: design
-  category: [framework]
-  era: [digital]
-  origin: [academic]
+  category:
+  - framework
+  era:
+  - digital
+  origin:
+  - academic
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

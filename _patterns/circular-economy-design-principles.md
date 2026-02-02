@@ -21,7 +21,9 @@ classification:
   - ellen-macarthur-foundation
   status: draft
   commons_alignment: 5
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from:
 - pat_01kg5023xve9saxvbke9pt1zne
 specializes_to: []

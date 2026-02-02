@@ -6,24 +6,36 @@ slug: solidarity-economy-production-systems
 title: Solidarity Economy Production Systems
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [digital, cognitive]
-  origin: [academic, activist]
+  category:
+  - framework
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - activist
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg5023whehgsjwtbq21f60nk"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023whehgsjwtbq21f60nk
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://en.wikipedia.org/wiki/Solidarity_economy]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Solidarity_economy
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

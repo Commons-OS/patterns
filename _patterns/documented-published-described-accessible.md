@@ -6,24 +6,36 @@ slug: documented-published-described-accessible
 title: 'Documented: Published, Described, Accessible'
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [practice]
-  era: [digital]
+  category:
+  - practice
+  era:
+  - digital
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.mindtools.com/pages/article/newTMM_78.htm", "https://www.knowledge-management-tools.net/", "https://www.kmworld.com/", "https://www.apqc.org/what-we-do/knowledge-management", "https://hbr.org/1998/03/working-knowledge-how-organizations-manage-what-they-know"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.mindtools.com/pages/article/newTMM_78.htm
+- https://www.knowledge-management-tools.net/
+- https://www.kmworld.com/
+- https://www.apqc.org/what-we-do/knowledge-management
+- https://hbr.org/1998/03/working-knowledge-how-organizations-manage-what-they-know
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

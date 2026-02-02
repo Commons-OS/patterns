@@ -4,26 +4,40 @@ page_url: https://commons-os.github.io/patterns/positive-organizational-scholars
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/positive-organizational-scholarship-cameron-dutton.md
 slug: positive-organizational-scholarship-cameron-dutton
 title: Positive Organizational Scholarship
-aliases: [POS]
+aliases:
+- POS
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: meta-pattern
-  era: [cognitive]
-  origin: [academic]
+  category:
+  - meta-pattern
+  era:
+  - cognitive
+  origin:
+  - academic
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["Cameron, K. S., Dutton, J. E., & Quinn, R. E. (Eds.). (2003). Positive organizational scholarship: Foundations of a new discipline. Berrett-Koehler Publishers.", "Spreitzer, G., & Cameron, K. (Eds.). (2012). The Oxford handbook of positive organizational scholarship. Oxford University Press.", "Center for Positive Organizations, University of Michigan. (n.d.). Teaching Cases. Retrieved from https://positiveorgs.bus.umich.edu/teaching-resources/teaching-cases/"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- 'Cameron, K. S., Dutton, J. E., & Quinn, R. E. (Eds.). (2003). Positive organizational
+  scholarship: Foundations of a new discipline. Berrett-Koehler Publishers.'
+- Spreitzer, G., & Cameron, K. (Eds.). (2012). The Oxford handbook of positive organizational
+  scholarship. Oxford University Press.
+- Center for Positive Organizations, University of Michigan. (n.d.). Teaching Cases.
+  Retrieved from https://positiveorgs.bus.umich.edu/teaching-resources/teaching-cases/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -4,26 +4,56 @@ page_url: https://commons-os.github.io/patterns/advanced-product-quality-plannin
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/advanced-product-quality-planning-apqp.md
 slug: advanced-product-quality-planning-apqp
 title: Advanced Product Quality Planning (APQP)
-aliases: [APQP]
+aliases:
+- APQP
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: framework
-  era: [industrial, digital]
-  origin: [automotive-industry-action-group]
+  category:
+  - framework
+  era:
+  - industrial
+  - digital
+  origin:
+  - automotive-industry-action-group
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023z4ejgvpxs00h779hk7", "pat_01kg5023x8evg9fk7ax23cbrbn", "pat_01kg5023wjfg8tqb1zqbg7dd8h", "pat_01kg5023xge89s6mx3nbjd0mgg", "pat_01kg5023vyfzhvteh04eykysqz", "pat_01kg5023zrexhr77rgbe4f62ew", "pat_01kg5023vjetsaajnc397n2n2m", "pat_01kg5023vyfzhvteh02a487gvh", "pat_01kg5023z8f6h9wk9sdad8sxxd", "pat_01kg5023z3f90bkx13t1xprvjz", "pat_01kg5023ybeqhsr5sn20s4jgvn", "pat_01kg5023zcf99tjg7qgdbhqfkm", "pat_01kg5023zzecsb265cp79x0gvh", "pat_01kg5023ytf2s8rdchqz3eqbg0", "pat_01kg5023yaea8sqyn9hkqb477d"]
-contributors: [higgerix, cloudsters]
-sources: ["https://en.wikipedia.org/wiki/Advanced_product_quality_planning", "https://quality-one.com/apqp/", "https://www.aiag.org/quality/apqp-core-tools", "https://www.6sigma.us/six-sigma-in-focus/advanced-product-quality-planning-apqp/", "https://www.researchgate.net/publication/289685969_Implementation_of_Advanced_Product_Quality_Planning_in_Engineering_Project"]
+related:
+- pat_01kg5023z4ejgvpxs00h779hk7
+- pat_01kg5023x8evg9fk7ax23cbrbn
+- pat_01kg5023wjfg8tqb1zqbg7dd8h
+- pat_01kg5023xge89s6mx3nbjd0mgg
+- pat_01kg5023vyfzhvteh04eykysqz
+- pat_01kg5023zrexhr77rgbe4f62ew
+- pat_01kg5023vjetsaajnc397n2n2m
+- pat_01kg5023vyfzhvteh02a487gvh
+- pat_01kg5023z8f6h9wk9sdad8sxxd
+- pat_01kg5023z3f90bkx13t1xprvjz
+- pat_01kg5023ybeqhsr5sn20s4jgvn
+- pat_01kg5023zcf99tjg7qgdbhqfkm
+- pat_01kg5023zzecsb265cp79x0gvh
+- pat_01kg5023ytf2s8rdchqz3eqbg0
+- pat_01kg5023yaea8sqyn9hkqb477d
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Advanced_product_quality_planning
+- https://quality-one.com/apqp/
+- https://www.aiag.org/quality/apqp-core-tools
+- https://www.6sigma.us/six-sigma-in-focus/advanced-product-quality-planning-apqp/
+- https://www.researchgate.net/publication/289685969_Implementation_of_Advanced_Product_Quality_Planning_in_Engineering_Project
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

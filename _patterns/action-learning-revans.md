@@ -11,14 +11,17 @@ modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: human-universal
   domain: culture
-  category: methodology
+  category:
+  - methodology
   era: industrial
   origin:
   - academic
   - reg-revans
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []

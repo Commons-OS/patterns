@@ -4,32 +4,44 @@ page_url: https://commons-os.github.io/patterns/algorithmic-management/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/algorithmic-management.md
 slug: algorithmic-management
 title: Algorithmic Management
-aliases: [Automated Management, Algorithmic Control]
+aliases:
+- Automated Management
+- Algorithmic Control
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: practice
-  era: [digital, cognitive]
-  origin: [academic, gig-economy]
+  category:
+  - practice
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - gig-economy
   status: draft
   commons_alignment: 2
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://www.ilo.org/algorithmic-management-workplace
-  - https://en.wikipedia.org/wiki/Algorithmic_management
-  - https://sloanreview.mit.edu/article/algorithmic-management-the-role-of-ai-in-managing-workforces/
-  - https://www.oecd.org/en/publications/algorithmic-management-in-the-workplace_287c13c4-en.html
-  - https://www.aihr.com/blog/algorithmic-management/
-  - https://hbr.org/2024/02/the-social-cost-of-algorithmic-management
+- https://www.ilo.org/algorithmic-management-workplace
+- https://en.wikipedia.org/wiki/Algorithmic_management
+- https://sloanreview.mit.edu/article/algorithmic-management-the-role-of-ai-in-managing-workforces/
+- https://www.oecd.org/en/publications/algorithmic-management-in-the-workplace_287c13c4-en.html
+- https://www.aihr.com/blog/algorithmic-management/
+- https://hbr.org/2024/02/the-social-cost-of-algorithmic-management
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

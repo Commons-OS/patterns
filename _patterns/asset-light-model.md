@@ -4,26 +4,42 @@ page_url: https://commons-os.github.io/patterns/asset-light-model/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/asset-light-model.md
 slug: asset-light-model
 title: Asset-Light Model
-aliases: [Asset-Lite, Lean Business Model]
+aliases:
+- Asset-Lite
+- Lean Business Model
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [digital]
-  origin: [academic, corporate]
+  category:
+  - framework
+  era:
+  - digital
+  origin:
+  - academic
+  - corporate
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.ey.com/en_gl/insights/strategy-transactions/how-asset-light-strategies-and-models-can-boost-business-growth", "https://www.bcg.com/publications/2014/business-model-innovation-growth-asset-light-is-right", "https://www.cell.com/heliyon/fulltext/S2405-8440(23)00598-4", "https://onlinelibrary.wiley.com/doi/abs/10.1002/mde.3203", "https://www.sciencedirect.com/science/article/pii/S2211973619301035"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.ey.com/en_gl/insights/strategy-transactions/how-asset-light-strategies-and-models-can-boost-business-growth
+- https://www.bcg.com/publications/2014/business-model-innovation-growth-asset-light-is-right
+- https://www.cell.com/heliyon/fulltext/S2405-8440(23)00598-4
+- https://onlinelibrary.wiley.com/doi/abs/10.1002/mde.3203
+- https://www.sciencedirect.com/science/article/pii/S2211973619301035
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

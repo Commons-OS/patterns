@@ -21,7 +21,10 @@ classification:
   - pivotal
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to:
 - pat_01kg5023xwf518k5w2msa0cgjr

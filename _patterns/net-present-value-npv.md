@@ -6,24 +6,33 @@ slug: net-present-value-npv
 title: Net Present Value (NPV)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [tool]
-  era: [industrial]
+  category:
+  - tool
+  era:
+  - industrial
   origin: []
   status: draft
   commons_alignment: 2
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.investopedia.com/terms/n/npv.asp", "https://en.wikipedia.org/wiki/Net_present_value"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.investopedia.com/terms/n/npv.asp
+- https://en.wikipedia.org/wiki/Net_present_value
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

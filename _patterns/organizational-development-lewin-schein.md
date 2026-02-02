@@ -6,24 +6,42 @@ slug: organizational-development-lewin-schein
 title: Organizational Development (Lewin, Schein)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [framework, methodology]
-  era: [industrial, digital, cognitive]
-  origin: [Kurt Lewin, Edgar Schein]
+  category:
+  - framework
+  - methodology
+  era:
+  - industrial
+  - digital
+  - cognitive
+  origin:
+  - Kurt Lewin
+  - Edgar Schein
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.mindtools.com/ad2hsdw/edgar-schein-on-kurt-lewin/", "https://sites.psu.edu/global/2020/04/07/managing-organizational-change-lewin-schein/", "https://www.sciencedirect.com/science/article/pii/S2444569X16300087", "https://www.entarga.com/orgchange/lewinschein.pdf", "https://www.amazon.com/Organizational-Culture-Leadership-Edgar-Schein/dp/0470190604", "https://spssi.onlinelibrary.wiley.com/doi/10.1111/j.1540-4560.1946.tb02295.x", "https://www.amazon.com/Process-Consultation-Revisited-Building-Relationship/dp/020134596X"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.mindtools.com/ad2hsdw/edgar-schein-on-kurt-lewin/
+- https://sites.psu.edu/global/2020/04/07/managing-organizational-change-lewin-schein/
+- https://www.sciencedirect.com/science/article/pii/S2444569X16300087
+- https://www.entarga.com/orgchange/lewinschein.pdf
+- https://www.amazon.com/Organizational-Culture-Leadership-Edgar-Schein/dp/0470190604
+- https://spssi.onlinelibrary.wiley.com/doi/10.1111/j.1540-4560.1946.tb02295.x
+- https://www.amazon.com/Process-Consultation-Revisited-Building-Relationship/dp/020134596X
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -6,24 +6,36 @@ slug: electronic-design-automation-eda-workflows
 title: Electronic Design Automation (EDA) Workflows
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [methodology]
-  era: [digital]
-  origin: [semiconductor industry]
+  category:
+  - methodology
+  era:
+  - digital
+  origin:
+  - semiconductor industry
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.synopsys.com/glossary/what-is-electronic-design-automation.html", "https://en.wikipedia.org/wiki/Design_flow_(EDA)", "https://eda.sw.siemens.com/en-US/trending-technologies/eda-ai-page/", "https://www.cadence.com/en_US/home/explore/ai-chip-design.html", "https://www.synopsys.com/ai/ai-powered-eda.html"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.synopsys.com/glossary/what-is-electronic-design-automation.html
+- https://en.wikipedia.org/wiki/Design_flow_(EDA)
+- https://eda.sw.siemens.com/en-US/trending-technologies/eda-ai-page/
+- https://www.cadence.com/en_US/home/explore/ai-chip-design.html
+- https://www.synopsys.com/ai/ai-powered-eda.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -4,26 +4,56 @@ page_url: https://commons-os.github.io/patterns/lean-canvas-maurya/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/lean-canvas-maurya.md
 slug: lean-canvas-maurya
 title: Lean Canvas (Maurya)
-aliases: [Lean Canvas]
+aliases:
+- Lean Canvas
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [tool]
-  era: [digital]
-  origin: [Ash Maurya, Lean Startup]
+  category:
+  - tool
+  era:
+  - digital
+  origin:
+  - Ash Maurya
+  - Lean Startup
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023z9e988phvxv2ywhcrd", "pat_01kg50240pfa89r4q24ctm0q0w", "pat_01kg502407eyh8wbym4fzzr7et", "pat_01kg5023zae8rthxw686kx5x4k", "pat_01kg5023vyfzhvteh04eykysqz", "pat_01kg5023x6ecsvs4r50r92ggad", "pat_01kg5023vmfk9bnr9pzvxb1j3z", "pat_01kg5023zbftgswm71sjjf53xx", "pat_01kg5023wbfw1azjwp99gcgcrn", "pat_01kg5023zcf99tjg7qgdbhqfkm", "pat_01kg5023w1f29v6bdxpahq6a1m", "pat_01kg5023vdecr9aqhgpf1mh73v", "pat_01kg50240bf4ra2qcwx56j5qk8", "pat_01kg5023vke6gsrh5cyb1wbkte", "pat_01kg5023yweb8r88nxjsysr1hq"]
-contributors: [higgerix, cloudsters]
-sources: [https://www.leanfoundry.com/tools/lean-canvas, https://medium.com/lean-stack/what-is-the-right-fill-order-for-a-lean-canvas-f8071d0c6c8c, https://www.canva.com/online-whiteboard/lean-canvas/, https://railsware.com/blog/5-lean-canvas-examples/, https://airfocus.com/glossary/what-is-lean-business-canvas/]
+related:
+- pat_01kg5023z9e988phvxv2ywhcrd
+- pat_01kg50240pfa89r4q24ctm0q0w
+- pat_01kg502407eyh8wbym4fzzr7et
+- pat_01kg5023zae8rthxw686kx5x4k
+- pat_01kg5023vyfzhvteh04eykysqz
+- pat_01kg5023x6ecsvs4r50r92ggad
+- pat_01kg5023vmfk9bnr9pzvxb1j3z
+- pat_01kg5023zbftgswm71sjjf53xx
+- pat_01kg5023wbfw1azjwp99gcgcrn
+- pat_01kg5023zcf99tjg7qgdbhqfkm
+- pat_01kg5023w1f29v6bdxpahq6a1m
+- pat_01kg5023vdecr9aqhgpf1mh73v
+- pat_01kg50240bf4ra2qcwx56j5qk8
+- pat_01kg5023vke6gsrh5cyb1wbkte
+- pat_01kg5023yweb8r88nxjsysr1hq
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.leanfoundry.com/tools/lean-canvas
+- https://medium.com/lean-stack/what-is-the-right-fill-order-for-a-lean-canvas-f8071d0c6c8c
+- https://www.canva.com/online-whiteboard/lean-canvas/
+- https://railsware.com/blog/5-lean-canvas-examples/
+- https://airfocus.com/glossary/what-is-lean-business-canvas/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

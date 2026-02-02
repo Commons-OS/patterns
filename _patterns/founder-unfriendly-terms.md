@@ -1,16 +1,21 @@
 ---
 id: pat_fbfff798f5094a98b29129c4
-title: "Founder-Unfriendly Terms"
+title: Founder-Unfriendly Terms
 slug: founder-unfriendly-terms
 aliases: []
 classification:
   universality: domain
   domain: startup
-  category: [funding]
-  era: [cognitive]
-  origin: [startup-ecosystem]
+  category:
+  - funding
+  era:
+  - cognitive
+  origin:
+  - startup-ecosystem
   status: draft
   commons_alignment: 2
+  commons_domain:
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
@@ -20,17 +25,16 @@ confidence_score: 0.7
 sources: []
 version: 1.0.0
 last_updated: 2026-02-01
-page_url: "https://commons-os.github.io/patterns/founder-unfriendly-terms/"
-github_url: "https://github.com/Commons-OS/patterns/blob/main/_patterns/founder-unfriendly-terms.md"
+page_url: https://commons-os.github.io/patterns/founder-unfriendly-terms/
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/founder-unfriendly-terms.md
 created: 2026-02-01
 modified: 2026-02-01
-commons_domain: startup
 contributors:
-  - name: "Commons OS"
-    role: author
-license: "CC-BY-SA-4.0"
-attribution: "Commons OS Pattern Library"
-repository: "https://github.com/Commons-OS/patterns"
+- name: Commons OS
+  role: author
+license: CC-BY-SA-4.0
+attribution: Commons OS Pattern Library
+repository: https://github.com/Commons-OS/patterns
 ---
 
 # FF054: Founder-Unfriendly Terms

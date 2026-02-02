@@ -4,31 +4,43 @@ page_url: https://commons-os.github.io/patterns/ai-assisted-engineering-optimiza
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/ai-assisted-engineering-optimization.md
 slug: ai-assisted-engineering-optimization
 title: AI-Assisted Engineering Optimization
-aliases: [AI-Driven Design, Generative Engineering, AI-Based Design Optimization]
+aliases:
+- AI-Driven Design
+- Generative Engineering
+- AI-Based Design Optimization
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [methodology]
-  era: [cognitive, digital]
-  origin: [academic, corporate-r&d]
+  category:
+  - methodology
+  era:
+  - cognitive
+  - digital
+  origin:
+  - academic
+  - corporate-r&d
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://www.neuralconcept.com/post/transforming-engineering-design-with-ai-a-new-era-of-possibilities
-  - https://www.mdpi.com/1999-4893/19/2/93
-  - https://smartdev.com/ai-in-use-cases-in-engineering/
-  - https://formlabs.com/blog/generative-design/
-  - http://papers.phmsociety.org/index.php/phmap/article/download/4325/phmap_25_4325
+- https://www.neuralconcept.com/post/transforming-engineering-design-with-ai-a-new-era-of-possibilities
+- https://www.mdpi.com/1999-4893/19/2/93
+- https://smartdev.com/ai-in-use-cases-in-engineering/
+- https://formlabs.com/blog/generative-design/
+- http://papers.phmsociety.org/index.php/phmap/article/download/4325/phmap_25_4325
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

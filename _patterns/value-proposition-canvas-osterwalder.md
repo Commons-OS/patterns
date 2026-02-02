@@ -12,14 +12,18 @@ modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: value-creation
-  category: tool
+  category:
+  - tool
   era:
   - digital
   origin:
   - academic
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from:
 - pat_01kg50240afth9zmxppx883fhh
 specializes_to: []

@@ -6,24 +6,40 @@ slug: temporal-coverage-historical-to-emerging
 title: Temporal Coverage (Historical to Emerging)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [principle, meta-pattern]
-  era: [digital, cognitive]
-  origin: [systems-thinking, foresight]
+  category:
+  - principle
+  - meta-pattern
+  era:
+  - digital
+  - cognitive
+  origin:
+  - systems-thinking
+  - foresight
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://documentation.ardc.edu.au/rda/temporal-coverage, https://www.linkedin.com/advice/1/how-can-historical-data-used-predict-future-trends, https://www.sciencedirect.com/science/article/pii/S0959652615000037, https://doi.org/10.1177/017084068800900201, https://www.effectivethesis.org/articles/most-important-historical-trends]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://documentation.ardc.edu.au/rda/temporal-coverage
+- https://www.linkedin.com/advice/1/how-can-historical-data-used-predict-future-trends
+- https://www.sciencedirect.com/science/article/pii/S0959652615000037
+- https://doi.org/10.1177/017084068800900201
+- https://www.effectivethesis.org/articles/most-important-historical-trends
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

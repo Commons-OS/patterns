@@ -4,25 +4,38 @@ page_url: https://commons-os.github.io/patterns/permaculture-inspired-design/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/permaculture-inspired-design.md
 slug: permaculture-inspired-design
 title: Permaculture-Inspired Design
-aliases: [Permaculture Design, Regenerative Design]
+aliases:
+- Permaculture Design
+- Regenerative Design
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [principle, meta-pattern]
-  era: [cognitive]
-  origin: [permaculture, academic]
+  category:
+  - principle
+  - meta-pattern
+  era:
+  - cognitive
+  origin:
+  - permaculture
+  - academic
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg5023zketsrxaxyzegzykkj"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023zketsrxaxyzegzykkj
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

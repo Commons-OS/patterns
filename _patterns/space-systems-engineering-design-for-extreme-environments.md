@@ -4,26 +4,41 @@ page_url: https://commons-os.github.io/patterns/space-systems-engineering-design
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/space-systems-engineering-design-for-extreme-environments.md
 slug: space-systems-engineering-design-for-extreme-environments
 title: Space Systems Engineering (Design for Extreme Environments)
-aliases: [Space Systems Engineering, Design for Extreme Environments]
+aliases:
+- Space Systems Engineering
+- Design for Extreme Environments
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [methodology]
-  era: [digital, cognitive]
-  origin: [academic, nasa]
+  category:
+  - methodology
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - nasa
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.nasa.gov/wp-content/uploads/2018/09/nasa_systems_engineering_handbook_0.pdf, https://www.delve.com/insights/product-design-for-extreme-environments, https://e-catalogue.jhu.edu/engineering/engineering-professionals/space-systems-engineering/space-systems-engineering.pdf]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.nasa.gov/wp-content/uploads/2018/09/nasa_systems_engineering_handbook_0.pdf
+- https://www.delve.com/insights/product-design-for-extreme-environments
+- https://e-catalogue.jhu.edu/engineering/engineering-professionals/space-systems-engineering/space-systems-engineering.pdf
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

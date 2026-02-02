@@ -4,31 +4,60 @@ page_url: https://commons-os.github.io/patterns/deliberative-democracy-fishkin/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/deliberative-democracy-fishkin.md
 slug: deliberative-democracy-fishkin
 title: Deliberative Democracy - Fishkin
-aliases: [Deliberative Polling, Discursive Democracy]
+aliases:
+- Deliberative Polling
+- Discursive Democracy
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: governance
-  category: [methodology, framework]
-  era: [digital, cognitive]
-  origin: [academic, James S. Fishkin, Stanford University]
+  category:
+  - methodology
+  - framework
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - James S. Fishkin
+  - Stanford University
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
-specializes_to: ['pat_01kg5023y8e9ssb52a5snc91pm']
+specializes_to:
+- pat_01kg5023y8e9ssb52a5snc91pm
 enables: []
 requires: []
-related: ['pat_01kg5023xne3gs3g227jcvch6k', 'pat_01kg5023x4easr02ymp7vsz81b', 'pat_01kg5023y5fnhb2ej6755c58p1', 'pat_01kg50240sfm8re6ep2sz2xmy5', 'pat_01kg5023vwe00rptkqr3z6pkd9', 'pat_01kg5023y4e708zavzfmvmx4yp', 'pat_01kg50240fev1snyp2ytvn21xm', 'pat_01kg50240rf3s9mqrqw0pp5mwn', 'pat_01kg5023x3f8gtc1a31gws6jj3', 'pat_01kg5023y4e708zavzcte3n4dd', 'pat_01kg5023xmek8szp5z3c5dc977', 'pat_01kg5023y8e9ssb52a5snc91pm', 'pat_01kg5023xbed1bnd9kg5m8pqq0', 'pat_01kg5023vhev9b6swdrszd75z9', 'pat_01kg5023whehgsjwtbrb92n8n3']
-contributors: [higgerix, cloudsters]
-sources: 
-  - https://en.wikipedia.org/wiki/Deliberative_democracy
-  - https://deliberation.stanford.edu/people/james-fishkin
-  - https://www.amphilsoc.org/sites/default/files/2020-03/attachments/Fishkin.pdf
-  - https://www.govocal.com/blog/what-is-deliberative-democracy-a-comprehensive-guide
-  - https://www.britannica.com/topic/deliberative-democracy
+related:
+- pat_01kg5023xne3gs3g227jcvch6k
+- pat_01kg5023x4easr02ymp7vsz81b
+- pat_01kg5023y5fnhb2ej6755c58p1
+- pat_01kg50240sfm8re6ep2sz2xmy5
+- pat_01kg5023vwe00rptkqr3z6pkd9
+- pat_01kg5023y4e708zavzfmvmx4yp
+- pat_01kg50240fev1snyp2ytvn21xm
+- pat_01kg50240rf3s9mqrqw0pp5mwn
+- pat_01kg5023x3f8gtc1a31gws6jj3
+- pat_01kg5023y4e708zavzcte3n4dd
+- pat_01kg5023xmek8szp5z3c5dc977
+- pat_01kg5023y8e9ssb52a5snc91pm
+- pat_01kg5023xbed1bnd9kg5m8pqq0
+- pat_01kg5023vhev9b6swdrszd75z9
+- pat_01kg5023whehgsjwtbrb92n8n3
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Deliberative_democracy
+- https://deliberation.stanford.edu/people/james-fishkin
+- https://www.amphilsoc.org/sites/default/files/2020-03/attachments/Fishkin.pdf
+- https://www.govocal.com/blog/what-is-deliberative-democracy-a-comprehensive-guide
+- https://www.britannica.com/topic/deliberative-democracy
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

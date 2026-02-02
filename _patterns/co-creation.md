@@ -6,24 +6,38 @@ slug: co-creation
 title: Co-creation
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [practice]
-  era: [digital, cognitive]
-  origin: [academic]
+  category:
+  - practice
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://en.wikipedia.org/wiki/Co-creation, https://www.braineet.com/blog/co-creation, https://www.interaction-design.org/literature/topics/co-creation, https://www.sciencedirect.com/science/article/pii/S0033350625003683, https://hbr.org/2010/10/building-the-co-creative-enterprise]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Co-creation
+- https://www.braineet.com/blog/co-creation
+- https://www.interaction-design.org/literature/topics/co-creation
+- https://www.sciencedirect.com/science/article/pii/S0033350625003683
+- https://hbr.org/2010/10/building-the-co-creative-enterprise
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

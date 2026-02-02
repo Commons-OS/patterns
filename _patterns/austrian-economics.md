@@ -4,26 +4,42 @@ page_url: https://commons-os.github.io/patterns/austrian-economics/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/austrian-economics.md
 slug: austrian-economics
 title: Austrian Economics
-aliases: ["Austrian School of Economics", "Vienna School"]
+aliases:
+- Austrian School of Economics
+- Vienna School
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [meta-pattern]
-  era: [industrial, digital]
-  origin: [academic, vienna-school]
+  category:
+  - meta-pattern
+  era:
+  - industrial
+  - digital
+  origin:
+  - academic
+  - vienna-school
   status: draft
   commons_alignment: 2
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://en.wikipedia.org/wiki/Austrian_school_of_economics", "https://mises.org/what-austrian-economics", "https://cdn.mises.org/aen21_2_1_0.pdf", "https://econfaculty.gmu.edu/bcaplan/whyaust.htm", "https://www.economicshelp.org/blog/glossary/criticism-austrian-economics/"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Austrian_school_of_economics
+- https://mises.org/what-austrian-economics
+- https://cdn.mises.org/aen21_2_1_0.pdf
+- https://econfaculty.gmu.edu/bcaplan/whyaust.htm
+- https://www.economicshelp.org/blog/glossary/criticism-austrian-economics/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

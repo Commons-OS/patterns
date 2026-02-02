@@ -14,13 +14,16 @@ modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: methodology
+  category:
+  - methodology
   era: industrial
   origin:
   - general-electric
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from:
 - pat_01kg5023zzecsb265cp79x0gvh
 - pat_01kg5023vyfzhvteh02a487gvh

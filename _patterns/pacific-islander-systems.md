@@ -4,31 +4,44 @@ page_url: https://commons-os.github.io/patterns/pacific-islander-systems/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/pacific-islander-systems.md
 slug: pacific-islander-systems
 title: Pacific Islander Systems
-aliases: [Oceanic Systems, Pasifika Systems]
+aliases:
+- Oceanic Systems
+- Pasifika Systems
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [meta-pattern]
-  era: [agricultural, industrial, digital, cognitive]
-  origin: [indigenous]
+  category:
+  - meta-pattern
+  era:
+  - agricultural
+  - industrial
+  - digital
+  - cognitive
+  origin:
+  - indigenous
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://www.britannica.com/place/Polynesia/Kinship-and-social-hierarchy
-  - https://culturalatlas.sbs.com.au/samoan-culture/samoan-culture-core-concepts
-  - https://pacforum.org/publications/pacnet-35-how-integrating-traditional-leadership-will-impact-pacific-islands-governance-and-diplomacy/
-  - https://www.everyculture.com/Oceania/Sio-Sociopolitical-Organization.html
-  - https://www.jstor.org/stable/2644187
+- https://www.britannica.com/place/Polynesia/Kinship-and-social-hierarchy
+- https://culturalatlas.sbs.com.au/samoan-culture/samoan-culture-core-concepts
+- https://pacforum.org/publications/pacnet-35-how-integrating-traditional-leadership-will-impact-pacific-islands-governance-and-diplomacy/
+- https://www.everyculture.com/Oceania/Sio-Sociopolitical-Organization.html
+- https://www.jstor.org/stable/2644187
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

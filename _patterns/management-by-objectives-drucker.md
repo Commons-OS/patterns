@@ -4,26 +4,40 @@ page_url: https://commons-os.github.io/patterns/management-by-objectives-drucker
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/management-by-objectives-drucker.md
 slug: management-by-objectives-drucker
 title: Management by Objectives (Drucker)
-aliases: ["MBO", "Management by Objectives"]
+aliases:
+- MBO
+- Management by Objectives
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T16:42:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 16:42:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, methodology]
-  era: [industrial]
-  origin: ["Peter Drucker"]
+  category:
+  - framework
+  - methodology
+  era:
+  - industrial
+  origin:
+  - Peter Drucker
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://en.wikipedia.org/wiki/Management_by_objectives", "https://www.business.com/articles/management-theory-of-peter-drucker/", "https://www.communicationtheory.org/management-by-objectives-drucker/"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Management_by_objectives
+- https://www.business.com/articles/management-theory-of-peter-drucker/
+- https://www.communicationtheory.org/management-by-objectives-drucker/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

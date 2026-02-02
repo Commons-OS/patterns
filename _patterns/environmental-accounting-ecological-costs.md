@@ -6,24 +6,45 @@ slug: environmental-accounting-ecological-costs
 title: Environmental Accounting - Ecological Costs
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: sustainability
-  category: [practice]
-  era: [industrial, digital]
+  category:
+  - practice
+  era:
+  - industrial
+  - digital
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://en.wikipedia.org/wiki/Environmental_full-cost_accounting", "https://news.yale.edu/2023/11/30/growth-reconsidered-accounting-environmental-costs-development", "https://en.wikipedia.org/wiki/Precautionary_principle", "https://en.wikipedia.org/wiki/Polluter_pays_principle", "https://en.wikipedia.org/wiki/Environmental_management_accounting", "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=20000Z80.TXT", "https://www.atlantis-press.com/proceedings/icame-24/126014121", "https://www.inaa.org/benefits-of-embracing-sustainable-accounting/", "https://link.springer.com/chapter/10.1007/978-1-4020-8913-8_13", "https://sfi.stanford.edu/news/ai-game-changers-environmental-accounting-sustainable-finance", "https://www.weforum.org/stories/2025/09/harnessing-ai-for-sustainability-reporting-path-forward/", "https://www.researchgate.net/publication/397241968_Towards_Sustainable_AI_Green_Accounting-Based_Model_for_Measuring_the_Environmental_Cost_of_Intelligent_Systems", "https://www.managementworld.online/index.php/mw/article/view/1034"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Environmental_full-cost_accounting
+- https://news.yale.edu/2023/11/30/growth-reconsidered-accounting-environmental-costs-development
+- https://en.wikipedia.org/wiki/Precautionary_principle
+- https://en.wikipedia.org/wiki/Polluter_pays_principle
+- https://en.wikipedia.org/wiki/Environmental_management_accounting
+- https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=20000Z80.TXT
+- https://www.atlantis-press.com/proceedings/icame-24/126014121
+- https://www.inaa.org/benefits-of-embracing-sustainable-accounting/
+- https://link.springer.com/chapter/10.1007/978-1-4020-8913-8_13
+- https://sfi.stanford.edu/news/ai-game-changers-environmental-accounting-sustainable-finance
+- https://www.weforum.org/stories/2025/09/harnessing-ai-for-sustainability-reporting-path-forward/
+- https://www.researchgate.net/publication/397241968_Towards_Sustainable_AI_Green_Accounting-Based_Model_for_Measuring_the_Environmental_Cost_of_Intelligent_Systems
+- https://www.managementworld.online/index.php/mw/article/view/1034
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

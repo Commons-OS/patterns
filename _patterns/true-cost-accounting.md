@@ -4,25 +4,39 @@ page_url: https://commons-os.github.io/patterns/true-cost-accounting/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/true-cost-accounting.md
 slug: true-cost-accounting
 title: True Cost Accounting
-aliases: [Full Cost Accounting, Multiple Capital Accounting]
+aliases:
+- Full Cost Accounting
+- Multiple Capital Accounting
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: methodology
-  era: [digital, cognitive]
-  origin: [academic, UNEP, TEEBAgriFood]
+  category:
+  - methodology
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - UNEP
+  - TEEBAgriFood
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
-specializes_to: ["pat_01kg502408eg1s5s6d44048n4m"]
+specializes_to:
+- pat_01kg502408eg1s5s6d44048n4m
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

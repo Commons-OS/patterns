@@ -18,7 +18,9 @@ classification:
   - ash-maurya
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from:
 - pat_01kg5023wbfw1azjwp99gcgcrn
 specializes_to: []

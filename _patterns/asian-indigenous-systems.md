@@ -4,26 +4,58 @@ page_url: https://commons-os.github.io/patterns/asian-indigenous-systems/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/asian-indigenous-systems.md
 slug: asian-indigenous-systems
 title: Asian Indigenous Systems
-aliases: [Asian Indigenous Knowledge Systems, Traditional Asian Governance]
+aliases:
+- Asian Indigenous Knowledge Systems
+- Traditional Asian Governance
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: meta-pattern
-  era: [agricultural, cognitive]
-  origin: [indigenous, pre-colonial]
+  category:
+  - meta-pattern
+  era:
+  - agricultural
+  - cognitive
+  origin:
+  - indigenous
+  - pre-colonial
   status: draft
   commons_alignment: 5
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023xfergseskex576m9tk", "pat_01kg5023w5f1985waqhj82jszc", "pat_01kg50240zfdhtkt15hvg0w2vc", "pat_01kg5023x6ecsvs4r54p0sty5b", "pat_01kg5023z5emr9v9twr2y289ec", "pat_01kg5023y6fxsa08h2ab6zb90p", "pat_01kg50240tewravhcerwwba8fy", "pat_01kg502407eyh8wbymgkna58jr", "pat_01kg5023x9fprav2bygmryd6br", "pat_01kg5023xef1s9wh99ya5936c8", "pat_01kg5023zseyh85cxgpcswxp4a", "pat_01kg502407eyh8wbymda2yh5xe", "pat_01kg5023xqet0abagjfk9c2b4m", "pat_01kg5023zde79btwvkq4xrqm6c", "pat_01kg5023z6f40rvkrsj7tzpehh"]
-contributors: [higgerix, cloudsters]
-sources: ["https://link.springer.com/article/10.1057/s42215-018-00010-0", "https://www.ifad.org/documents/48415603/49875212/Findings+of+four+case+studies+conducted+by+indigenous+people+on+IFAD-funded+projects+in+Asia+and+the+Pacific.pdf/d9cdd0ce-bf76-7c61-eddf-2d9e66509a29?t=1726646316135", "https://minorityrights.org/app/uploads/2024/01/download-137-good-governance-and-indigenous-peoples-in-asia.pdf", "https://www.jstor.org/stable/2155763", "https://www.jstor.org/stable/40467417"]
+related:
+- pat_01kg5023xfergseskex576m9tk
+- pat_01kg5023w5f1985waqhj82jszc
+- pat_01kg50240zfdhtkt15hvg0w2vc
+- pat_01kg5023x6ecsvs4r54p0sty5b
+- pat_01kg5023z5emr9v9twr2y289ec
+- pat_01kg5023y6fxsa08h2ab6zb90p
+- pat_01kg50240tewravhcerwwba8fy
+- pat_01kg502407eyh8wbymgkna58jr
+- pat_01kg5023x9fprav2bygmryd6br
+- pat_01kg5023xef1s9wh99ya5936c8
+- pat_01kg5023zseyh85cxgpcswxp4a
+- pat_01kg502407eyh8wbymda2yh5xe
+- pat_01kg5023xqet0abagjfk9c2b4m
+- pat_01kg5023zde79btwvkq4xrqm6c
+- pat_01kg5023z6f40rvkrsj7tzpehh
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://link.springer.com/article/10.1057/s42215-018-00010-0
+- https://www.ifad.org/documents/48415603/49875212/Findings+of+four+case+studies+conducted+by+indigenous+people+on+IFAD-funded+projects+in+Asia+and+the+Pacific.pdf/d9cdd0ce-bf76-7c61-eddf-2d9e66509a29?t=1726646316135
+- https://minorityrights.org/app/uploads/2024/01/download-137-good-governance-and-indigenous-peoples-in-asia.pdf
+- https://www.jstor.org/stable/2155763
+- https://www.jstor.org/stable/40467417
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

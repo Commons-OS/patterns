@@ -4,31 +4,40 @@ page_url: https://commons-os.github.io/patterns/autosar-automotive-software-arch
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/autosar-automotive-software-architecture.md
 slug: autosar-automotive-software-architecture
 title: AUTOSAR (Automotive Open System Architecture)
-aliases: [Automotive Open System Architecture]
+aliases:
+- Automotive Open System Architecture
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: context-specific
   domain: design
-  category: [framework]
-  era: [digital]
-  origin: [automotive-industry-consortium]
+  category:
+  - framework
+  era:
+  - digital
+  origin:
+  - automotive-industry-consortium
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://www.autosar.org/
-  - https://en.wikipedia.org/wiki/AUTOSAR
-  - https://www.saracasolutions.com/success-stories/case-studies/autosar-software-development
-  - https://www.autosar.org/fileadmin/standards/R22-11/AP/AUTOSAR_EXP_SWArchitecture.pdf
-  - https://www.mathworks.com/help/autosar/ug/what-is-autosar.html
+- https://www.autosar.org/
+- https://en.wikipedia.org/wiki/AUTOSAR
+- https://www.saracasolutions.com/success-stories/case-studies/autosar-software-development
+- https://www.autosar.org/fileadmin/standards/R22-11/AP/AUTOSAR_EXP_SWArchitecture.pdf
+- https://www.mathworks.com/help/autosar/ug/what-is-autosar.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

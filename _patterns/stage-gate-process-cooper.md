@@ -6,23 +6,32 @@ slug: stage-gate-process-cooper
 title: Stage-Gate Process (Cooper)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: operations
-  category: [framework, methodology]
-  era: [industrial, cognitive]
-  origin: ["Robert G. Cooper"]
+  category:
+  - framework
+  - methodology
+  era:
+  - industrial
+  - cognitive
+  origin:
+  - Robert G. Cooper
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

@@ -19,7 +19,8 @@ classification:
   - Commons OS
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []

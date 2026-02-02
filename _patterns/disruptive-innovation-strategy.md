@@ -6,23 +6,48 @@ slug: disruptive-innovation-strategy
 title: Disruptive Innovation Strategy
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, methodology]
-  era: [digital, cognitive]
-  origin: [Clayton Christensen]
+  category:
+  - framework
+  - methodology
+  era:
+  - digital
+  - cognitive
+  origin:
+  - Clayton Christensen
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023xfergseskezjw7vhps", "pat_01kg5023xne3gs3g2247a6tg6m", "pat_01kg5023zzecsb265cca6xrxst", "pat_01kg5023zbftgswm71jpa7pdya", "pat_01kg5023y9f3hr6tv4n4j1h14z", "pat_01kg5023vjetsaajnc397n2n2m", "pat_01kg5023zyebsatbkqyk4ffphj", "pat_01kg5023yeebha23tbpqbvfwb5", "pat_01kg5023zfejs9j7hrnhg9xnns", "pat_01kg5023xmek8szp5z4979bzb7", "pat_01kg5023zyebsatbkqwveseny5", "pat_01kg5023yvehgrw2tgha4z5mxc", "pat_01kg5023vyfzhvteh01za2yrvr", "pat_01kg50240wfjh98jqx4axm2q65", "pat_01kg5023xqet0abagjfk9c2b4m"]
-contributors: [higgerix, cloudsters]
+related:
+- pat_01kg5023xfergseskezjw7vhps
+- pat_01kg5023xne3gs3g2247a6tg6m
+- pat_01kg5023zzecsb265cca6xrxst
+- pat_01kg5023zbftgswm71jpa7pdya
+- pat_01kg5023y9f3hr6tv4n4j1h14z
+- pat_01kg5023vjetsaajnc397n2n2m
+- pat_01kg5023zyebsatbkqyk4ffphj
+- pat_01kg5023yeebha23tbpqbvfwb5
+- pat_01kg5023zfejs9j7hrnhg9xnns
+- pat_01kg5023xmek8szp5z4979bzb7
+- pat_01kg5023zyebsatbkqwveseny5
+- pat_01kg5023yvehgrw2tgha4z5mxc
+- pat_01kg5023vyfzhvteh01za2yrvr
+- pat_01kg50240wfjh98jqx4axm2q65
+- pat_01kg5023xqet0abagjfk9c2b4m
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

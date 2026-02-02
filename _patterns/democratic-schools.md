@@ -4,26 +4,44 @@ page_url: https://commons-os.github.io/patterns/democratic-schools/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/democratic-schools.md
 slug: democratic-schools
 title: Democratic Schools
-aliases: ["Free Schools", "Self-Directed Education"]
+aliases:
+- Free Schools
+- Self-Directed Education
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [practice]
-  era: [industrial, digital, cognitive]
-  origin: ["A.S. Neill", "John Dewey", "Leo Tolstoy"]
+  category:
+  - practice
+  era:
+  - industrial
+  - digital
+  - cognitive
+  origin:
+  - A.S. Neill
+  - John Dewey
+  - Leo Tolstoy
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.coe.int/en/web/campaign-free-to-speak-safe-to-learn/definitions", "https://eudec.org/democratic-education/what-is-democratic-education/", "https://en.wikipedia.org/wiki/Democratic_education", "https://www.reviewofeducationalresearch.com/", "https://www.sudburyvalley.org/"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.coe.int/en/web/campaign-free-to-speak-safe-to-learn/definitions
+- https://eudec.org/democratic-education/what-is-democratic-education/
+- https://en.wikipedia.org/wiki/Democratic_education
+- https://www.reviewofeducationalresearch.com/
+- https://www.sudburyvalley.org/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

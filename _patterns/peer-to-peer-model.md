@@ -4,26 +4,44 @@ page_url: https://commons-os.github.io/patterns/peer-to-peer-model/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/peer-to-peer-model.md
 slug: peer-to-peer-model
 title: Peer-to-Peer Model
-aliases: [P2P Model, Decentralized Autonomous Organization, Holacracy]
+aliases:
+- P2P Model
+- Decentralized Autonomous Organization
+- Holacracy
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [digital]
-  origin: [internet, open-source-software]
+  category:
+  - framework
+  era:
+  - digital
+  origin:
+  - internet
+  - open-source-software
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.corporate-rebels.com/blog/guest-blog-peer-to-peer, https://p2pfoundation.net/infrastructure/our-guiding-principles, https://en.wikipedia.org/wiki/Holacracy, https://www.indeed.com/career-advice/career-development/how-to-build-decentralized-organization, https://www.corporate-rebels.com/blog/zappos-versus-bol, https://en.wikipedia.org/wiki/Commons-based_peer_production]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.corporate-rebels.com/blog/guest-blog-peer-to-peer
+- https://p2pfoundation.net/infrastructure/our-guiding-principles
+- https://en.wikipedia.org/wiki/Holacracy
+- https://www.indeed.com/career-advice/career-development/how-to-build-decentralized-organization
+- https://www.corporate-rebels.com/blog/zappos-versus-bol
+- https://en.wikipedia.org/wiki/Commons-based_peer_production
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

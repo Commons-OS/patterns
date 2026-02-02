@@ -6,29 +6,38 @@ slug: industrial-internet-of-things-iiot
 title: Industrial Internet of Things (IIoT)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: technology
-  category: [framework, tool]
-  era: [digital, cognitive]
+  category:
+  - framework
+  - tool
+  era:
+  - digital
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://www.cisco.com/site/us/en/learn/topics/industrial-iot/what-is-industrial-iot.html
-  - https://en.wikipedia.org/wiki/Industrial_internet_of_things
-  - https://www.sap.com/products/scm/industry-4-0/what-is-iiot.html
-  - https://www.iiconsortium.org/pdf/IIC_Global_Standards_Strategy_Whitepaper.pdf
-  - https://www.fortinet.com/resources/cyberglossary/iot-best-practices
+- https://www.cisco.com/site/us/en/learn/topics/industrial-iot/what-is-industrial-iot.html
+- https://en.wikipedia.org/wiki/Industrial_internet_of_things
+- https://www.sap.com/products/scm/industry-4-0/what-is-iiot.html
+- https://www.iiconsortium.org/pdf/IIC_Global_Standards_Strategy_Whitepaper.pdf
+- https://www.fortinet.com/resources/cyberglossary/iot-best-practices
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

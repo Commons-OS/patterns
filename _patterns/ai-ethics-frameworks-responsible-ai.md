@@ -4,29 +4,43 @@ page_url: https://commons-os.github.io/patterns/ai-ethics-frameworks-responsible
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/ai-ethics-frameworks-responsible-ai.md
 slug: ai-ethics-frameworks-responsible-ai
 title: AI Ethics Frameworks - Responsible AI
-aliases: [Responsible AI, Ethical AI]
+aliases:
+- Responsible AI
+- Ethical AI
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: technology
-  category: [framework]
-  era: [digital, cognitive]
-  origin: [academic, industry, government]
+  category:
+  - framework
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - industry
+  - government
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg50240sfm8re6ep4yxwzgg9"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg50240sfm8re6ep4yxwzgg9
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://professional.dce.harvard.edu/blog/building-a-responsible-ai-framework-5-key-principles-for-organizations/
-  - https://www.unesco.org/en/artificial-intelligence/recommendation-ethics
-  - https://hdsr.mitpress.mit.edu/pub/l0jsh9d1
+- https://professional.dce.harvard.edu/blog/building-a-responsible-ai-framework-5-key-principles-for-organizations/
+- https://www.unesco.org/en/artificial-intelligence/recommendation-ethics
+- https://hdsr.mitpress.mit.edu/pub/l0jsh9d1
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

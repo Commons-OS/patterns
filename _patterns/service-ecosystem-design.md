@@ -6,23 +6,32 @@ slug: service-ecosystem-design
 title: Service Ecosystem Design
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [framework]
-  era: [digital, cognitive]
-  origin: [academic]
+  category:
+  - framework
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
   status: draft
   commons_alignment: 5
-commons_domain: business
-generalizes_from: ["pat_01kg502404e39b225yyy0vxchr"]
+  commons_domain:
+  - business
+  - startup
+generalizes_from:
+- pat_01kg502404e39b225yyy0vxchr
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

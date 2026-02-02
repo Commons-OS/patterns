@@ -4,31 +4,56 @@ page_url: https://commons-os.github.io/patterns/value-stream-mapping-lean-tool/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/value-stream-mapping-lean-tool.md
 slug: value-stream-mapping-lean-tool
 title: Value Stream Mapping
-aliases: [VSM, Material and Information Flow Mapping]
+aliases:
+- VSM
+- Material and Information Flow Mapping
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [tool]
-  era: [industrial, digital]
-  origin: [toyota]
+  category:
+  - tool
+  era:
+  - industrial
+  - digital
+  origin:
+  - toyota
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023z9e988phvxv2ywhcrd", "pat_01kg50240pfa89r4q24ctm0q0w", "pat_01kg502407eyh8wbym4fzzr7et", "pat_01kg5023zae8rthxw686kx5x4k", "pat_01kg5023vyfzhvteh04eykysqz", "pat_01kg5023x6ecsvs4r50r92ggad", "pat_01kg5023vmfk9bnr9pzvxb1j3z", "pat_01kg5023zcf99tjg7qba44c2j7", "pat_01kg5023zbftgswm71sjjf53xx", "pat_01kg5023wbfw1azjwp99gcgcrn", "pat_01kg5023zcf99tjg7qgdbhqfkm", "pat_01kg5023w1f29v6bdxpahq6a1m", "pat_01kg5023vdecr9aqhgpf1mh73v", "pat_01kg5023vke6gsrh5cyb1wbkte", "pat_01kg5023yweb8r88nxjsysr1hq"]
-contributors: [higgerix, cloudsters]
+related:
+- pat_01kg5023z9e988phvxv2ywhcrd
+- pat_01kg50240pfa89r4q24ctm0q0w
+- pat_01kg502407eyh8wbym4fzzr7et
+- pat_01kg5023zae8rthxw686kx5x4k
+- pat_01kg5023vyfzhvteh04eykysqz
+- pat_01kg5023x6ecsvs4r50r92ggad
+- pat_01kg5023vmfk9bnr9pzvxb1j3z
+- pat_01kg5023zcf99tjg7qba44c2j7
+- pat_01kg5023zbftgswm71sjjf53xx
+- pat_01kg5023wbfw1azjwp99gcgcrn
+- pat_01kg5023zcf99tjg7qgdbhqfkm
+- pat_01kg5023w1f29v6bdxpahq6a1m
+- pat_01kg5023vdecr9aqhgpf1mh73v
+- pat_01kg5023vke6gsrh5cyb1wbkte
+- pat_01kg5023yweb8r88nxjsysr1hq
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://www.lean.org/lexicon-terms/value-stream-mapping/
-  - https://asq.org/quality-resources/lean/value-stream-mapping
-  - https://www.atlassian.com/continuous-delivery/principles/value-stream-mapping
-  - https://www.irjet.net/archives/V5/i11/IRJET-V5I11138.pdf
-  - https://www.researchgate.net/publication/352386950_Using_Value_Stream_Mapping_to_Eliminate_Waste_A_Case_Study_of_a_Steel_Pipe_Manufacturer
+- https://www.lean.org/lexicon-terms/value-stream-mapping/
+- https://asq.org/quality-resources/lean/value-stream-mapping
+- https://www.atlassian.com/continuous-delivery/principles/value-stream-mapping
+- https://www.irjet.net/archives/V5/i11/IRJET-V5I11138.pdf
+- https://www.researchgate.net/publication/352386950_Using_Value_Stream_Mapping_to_Eliminate_Waste_A_Case_Study_of_a_Steel_Pipe_Manufacturer
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

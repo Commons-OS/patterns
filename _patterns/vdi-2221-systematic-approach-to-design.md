@@ -4,25 +4,35 @@ page_url: https://commons-os.github.io/patterns/vdi-2221-systematic-approach-to-
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/vdi-2221-systematic-approach-to-design.md
 slug: vdi-2221-systematic-approach-to-design
 title: VDI 2221 (Systematic Approach to Design)
-aliases: [VDI Guideline 2221, Systematic Approach to the Design of Technical Systems and Products]
+aliases:
+- VDI Guideline 2221
+- Systematic Approach to the Design of Technical Systems and Products
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [methodology]
-  era: [industrial, digital]
-  origin: [vdi]
+  category:
+  - methodology
+  era:
+  - industrial
+  - digital
+  origin:
+  - vdi
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

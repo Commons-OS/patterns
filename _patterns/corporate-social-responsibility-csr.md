@@ -14,14 +14,18 @@ modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: practice
+  category:
+  - practice
   era: industrial
   origin:
   - academic
   - corporate
   status: draft
   commons_alignment: 2
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to:
 - pat_01kg5023y6fxsa08h2ab6zb90p

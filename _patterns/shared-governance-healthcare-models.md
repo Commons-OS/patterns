@@ -4,31 +4,69 @@ page_url: https://commons-os.github.io/patterns/shared-governance-healthcare-mod
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/shared-governance-healthcare-models.md
 slug: shared-governance-healthcare-models
 title: Shared Governance - Healthcare Models
-aliases: ["Nursing Shared Governance", "Professional Shared Governance"]
+aliases:
+- Nursing Shared Governance
+- Professional Shared Governance
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: context-specific
   domain: governance
-  category: [framework, principle]
-  era: [industrial, cognitive]
-  origin: [academic, healthcare]
+  category:
+  - framework
+  - principle
+  era:
+  - industrial
+  - cognitive
+  origin:
+  - academic
+  - healthcare
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg50240gfv9r5nq18d4pn699"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg50240gfv9r5nq18d4pn699
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023xne3gs3g227jcvch6k", "pat_01kg5023x4easr02ymp7vsz81b", "pat_01kg5023y5fnhb2ej6755c58p1", "pat_01kg50240sfm8re6ep2sz2xmy5", "pat_01kg5023vwe00rptkqr3z6pkd9", "pat_01kg5023y4e708zavzfmvmx4yp", "pat_01kg50240fev1snyp2ytvn21xm", "pat_01kg50240rf3s9mqrqw0pp5mwn", "pat_01kg5023x3f8gtc1a31gws6jj3", "pat_01kg5023y4e708zavzcte3n4dd", "pat_01kg5023xmek8szp5z3c5dc977", "pat_01kg5023y8e9ssb52a5snc91pm", "pat_01kg5023xbed1bnd9kg5m8pqq0", "pat_01kg5023vhev9b6swdrszd75z9", "pat_01kg5023whehgsjwtbrb92n8n3"]
-contributors: [higgerix, cloudsters]
+related:
+- pat_01kg5023xne3gs3g227jcvch6k
+- pat_01kg5023x4easr02ymp7vsz81b
+- pat_01kg5023y5fnhb2ej6755c58p1
+- pat_01kg50240sfm8re6ep2sz2xmy5
+- pat_01kg5023vwe00rptkqr3z6pkd9
+- pat_01kg5023y4e708zavzfmvmx4yp
+- pat_01kg50240fev1snyp2ytvn21xm
+- pat_01kg50240rf3s9mqrqw0pp5mwn
+- pat_01kg5023x3f8gtc1a31gws6jj3
+- pat_01kg5023y4e708zavzcte3n4dd
+- pat_01kg5023xmek8szp5z3c5dc977
+- pat_01kg5023y8e9ssb52a5snc91pm
+- pat_01kg5023xbed1bnd9kg5m8pqq0
+- pat_01kg5023vhev9b6swdrszd75z9
+- pat_01kg5023whehgsjwtbrb92n8n3
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - "McKnight, H., & Moore, S. (2022). Nursing Shared Governance. In StatPearls. StatPearls Publishing."
-  - "Brennan, D., & Wendt, L. (2021). Increasing Quality and Patient Outcomes with Staff Engagement and Shared Governance. OJIN: The Online Journal of Issues in Nursing, 26(2)."
-  - "Thompson, B., Hateley, P., Molloy, R., Fernandez, S., Madigan, A. L., & Thrower, C. (2004). A Journey, Not an Event – Implementation of Shared Governance in a NHS Trust. OJIN: The Online Journal of Issues in Nursing, 9(1)."
-  - "Goff, R. (2005, February 15). A primer on the dangers of 'shared governance'. Massachusetts Nurses Association."
-  - "Kutney-Lee, A., Germack, H., Hatfield, L., Kelly, S., Maguire, P., Dierkes, A., Del Guidice, M., & Aiken, L. H. (2016). Nurse Engagement in Shared Governance and Patient and Nurse Outcomes. JONA: The Journal of Nursing Administration, 46(11), 605–612."
+- McKnight, H., & Moore, S. (2022). Nursing Shared Governance. In StatPearls. StatPearls
+  Publishing.
+- 'Brennan, D., & Wendt, L. (2021). Increasing Quality and Patient Outcomes with Staff
+  Engagement and Shared Governance. OJIN: The Online Journal of Issues in Nursing,
+  26(2).'
+- 'Thompson, B., Hateley, P., Molloy, R., Fernandez, S., Madigan, A. L., & Thrower,
+  C. (2004). A Journey, Not an Event – Implementation of Shared Governance in a NHS
+  Trust. OJIN: The Online Journal of Issues in Nursing, 9(1).'
+- Goff, R. (2005, February 15). A primer on the dangers of 'shared governance'. Massachusetts
+  Nurses Association.
+- 'Kutney-Lee, A., Germack, H., Hatfield, L., Kelly, S., Maguire, P., Dierkes, A.,
+  Del Guidice, M., & Aiken, L. H. (2016). Nurse Engagement in Shared Governance and
+  Patient and Nurse Outcomes. JONA: The Journal of Nursing Administration, 46(11),
+  605–612.'
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

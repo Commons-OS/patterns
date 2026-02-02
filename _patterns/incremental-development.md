@@ -6,24 +6,38 @@ slug: incremental-development
 title: Incremental Development
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: design
   domain: domain
-  category: [methodology, practice]
-  era: [digital]
-  origin: ["software engineering"]
+  category:
+  - methodology
+  - practice
+  era:
+  - digital
+  origin:
+  - software engineering
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
-specializes_to: ["pat_01kg5023z4ejgvpxs07xyk83at"]
+specializes_to:
+- pat_01kg5023z4ejgvpxs07xyk83at
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.geeksforgeeks.org/software-engineering/software-engineering-incremental-process-model/", "https://en.wikipedia.org/wiki/Iterative_and_incremental_development", "https://sebokwiki.org/wiki/Incremental_Development_Approach", "https://doi.org/10.1109/MC.2003.1204375", "https://www.priofy.io/ressources/glossary/incremental-development"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.geeksforgeeks.org/software-engineering/software-engineering-incremental-process-model/
+- https://en.wikipedia.org/wiki/Iterative_and_incremental_development
+- https://sebokwiki.org/wiki/Incremental_Development_Approach
+- https://doi.org/10.1109/MC.2003.1204375
+- https://www.priofy.io/ressources/glossary/incremental-development
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -6,24 +6,36 @@ slug: progressive-web-apps-pwa
 title: Progressive Web Apps (PWA)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [tool]
-  era: [digital]
+  category:
+  - tool
+  era:
+  - digital
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps", "https://web.dev/articles/what-are-pwas", "https://www.zetaton.com/blogs/the-future-of-progressive-web-apps-pwas", "https://medium.com/@nehagupta1504/why-progressive-web-apps-are-the-future-of-mobile-5-trends-you-cant-ignore-in-2025-0fc01a274d98", "https://web.dev/explore/progressive-web-apps"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
+- https://web.dev/articles/what-are-pwas
+- https://www.zetaton.com/blogs/the-future-of-progressive-web-apps-pwas
+- https://medium.com/@nehagupta1504/why-progressive-web-apps-are-the-future-of-mobile-5-trends-you-cant-ignore-in-2025-0fc01a274d98
+- https://web.dev/explore/progressive-web-apps
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

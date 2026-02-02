@@ -4,26 +4,57 @@ page_url: https://commons-os.github.io/patterns/advisory-boards-governance/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/advisory-boards-governance.md
 slug: advisory-boards-governance
 title: Advisory Boards & Governance
-aliases: [Board of Advice, Advisory Council, Steering Committee]
+aliases:
+- Board of Advice
+- Advisory Council
+- Steering Committee
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: governance
-  category: practice
+  category:
+  - practice
   era: industrial
-  origin: [academic, corporate]
+  origin:
+  - academic
+  - corporate
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023xne3gs3g227jcvch6k", "pat_01kg5023x4easr02ymp7vsz81b", "pat_01kg50240sfm8re6ep2sz2xmy5", "pat_01kg5023z4ejgvpxs00h779hk7", "pat_01kg5023xzf31b0j5p33g3mb95", "pat_01kg50240rf3s9mqrqzp0c8t14", "pat_01kg50240fev1snyp2ytvn21xm", "pat_01kg502402e8s98e5wnmbwpntc", "pat_01kg5023zrexhr77rgbe4f62ew", "pat_01kg5023vxetrvj5eeq840z709", "pat_01kg5023zseyh85cxgk2pk7nfa", "pat_01kg5023z8f6h9wk9sdad8sxxd", "pat_01kg5023whehgsjwtbrb92n8n3", "pat_01kg5023zzecsb265cmvvzam6v", "pat_01kg5023yaea8sqyn9hkqb477d"]
-contributors: [higgerix, cloudsters]
-sources: ["https://www.advisoryboardcentre.com/insight/how-to-structure-an-advisory-board/", "https://www.ibabs.com/en/glossary/advisory-board-roles-and-responsibilities/", "https://www.bdc.ca/en/articles-tools/business-strategy-planning/manage-business/pages/advisory-boards-cost-effective-way-get-strategic-advice.aspx", "https://www.igniteag.com/resources/successful-customer-advisory-board-examples/", "https://www.forbes.com/councils/forbesbusinesscouncil/2025/06/09/20-benefits-of-having-an-advisory-board-for-your-business/"]
+related:
+- pat_01kg5023xne3gs3g227jcvch6k
+- pat_01kg5023x4easr02ymp7vsz81b
+- pat_01kg50240sfm8re6ep2sz2xmy5
+- pat_01kg5023z4ejgvpxs00h779hk7
+- pat_01kg5023xzf31b0j5p33g3mb95
+- pat_01kg50240rf3s9mqrqzp0c8t14
+- pat_01kg50240fev1snyp2ytvn21xm
+- pat_01kg502402e8s98e5wnmbwpntc
+- pat_01kg5023zrexhr77rgbe4f62ew
+- pat_01kg5023vxetrvj5eeq840z709
+- pat_01kg5023zseyh85cxgk2pk7nfa
+- pat_01kg5023z8f6h9wk9sdad8sxxd
+- pat_01kg5023whehgsjwtbrb92n8n3
+- pat_01kg5023zzecsb265cmvvzam6v
+- pat_01kg5023yaea8sqyn9hkqb477d
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.advisoryboardcentre.com/insight/how-to-structure-an-advisory-board/
+- https://www.ibabs.com/en/glossary/advisory-board-roles-and-responsibilities/
+- https://www.bdc.ca/en/articles-tools/business-strategy-planning/manage-business/pages/advisory-boards-cost-effective-way-get-strategic-advice.aspx
+- https://www.igniteag.com/resources/successful-customer-advisory-board-examples/
+- https://www.forbes.com/councils/forbesbusinesscouncil/2025/06/09/20-benefits-of-having-an-advisory-board-for-your-business/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

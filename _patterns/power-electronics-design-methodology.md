@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/power-electronics-design-methodo
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/power-electronics-design-methodology.md
 slug: power-electronics-design-methodology
 title: Power Electronics Design Methodology
-aliases: ["PEDM"]
+aliases:
+- PEDM
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: design
-  category: [methodology]
-  era: [digital]
-  origin: [academic, industry]
+  category:
+  - methodology
+  era:
+  - digital
+  origin:
+  - academic
+  - industry
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.researchgate.net/publication/377791633_An_Introduction_to_Power_Electronics_Design_Methodology", "https://hackaday.io/page/20130", "https://www.omron.com/global/en/technology/omrontechnics/vol54/014.html", "https://www.converdan.com/custom-design/case-studies/", "https://pcbmust.com/innovative-approaches-to-power-electronics-design-case-studies-and-success-stories/", "https://www.monolithicpower.com/en/learning/mpscholar/analog-vs-digital-control/fundamentals-of-analog-control/case-studies", "http://www.innovativepower.ca/case-studies.html", "https://www.sciencedirect.com/science/article/pii/S0045790625001910"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.researchgate.net/publication/377791633_An_Introduction_to_Power_Electronics_Design_Methodology
+- https://hackaday.io/page/20130
+- https://www.omron.com/global/en/technology/omrontechnics/vol54/014.html
+- https://www.converdan.com/custom-design/case-studies/
+- https://pcbmust.com/innovative-approaches-to-power-electronics-design-case-studies-and-success-stories/
+- https://www.monolithicpower.com/en/learning/mpscholar/analog-vs-digital-control/fundamentals-of-analog-control/case-studies
+- http://www.innovativepower.ca/case-studies.html
+- https://www.sciencedirect.com/science/article/pii/S0045790625001910
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -4,25 +4,53 @@ page_url: https://commons-os.github.io/patterns/corporate-social-responsibility-
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/corporate-social-responsibility-csr-traditional-model.md
 slug: corporate-social-responsibility-csr-traditional-model
 title: 'Corporate Social Responsibility (CSR): Traditional Model'
-aliases: [Corporate Philanthropy, Corporate Citizenship]
+aliases:
+- Corporate Philanthropy
+- Corporate Citizenship
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: principle
-  era: [industrial, digital]
-  origin: [academic, corporate]
+  category:
+  - principle
+  era:
+  - industrial
+  - digital
+  origin:
+  - academic
+  - corporate
   status: draft
   commons_alignment: 2
-commons_domain: business
-generalizes_from: ["pat_01kg5023wdeh98phj0xj0gajsn"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023wdeh98phj0xj0gajsn
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023xfergseskex576m9tk", "pat_01kg5023w5f1985waqhj82jszc", "pat_01kg50240zfdhtkt15hvg0w2vc", "pat_01kg5023x6ecsvs4r54p0sty5b", "pat_01kg5023z5emr9v9twr2y289ec", "pat_01kg50240tewravhcerwwba8fy", "pat_01kg5023xge89s6mx3paefv92p", "pat_01kg502407eyh8wbymgkna58jr", "pat_01kg5023x9fprav2bygmryd6br", "pat_01kg5023xef1s9wh99ya5936c8", "pat_01kg5023zseyh85cxgpcswxp4a", "pat_01kg502407eyh8wbymda2yh5xe", "pat_01kg5023xqet0abagjfk9c2b4m", "pat_01kg5023zde79btwvkq4xrqm6c", "pat_01kg5023z6f40rvkrsj7tzpehh"]
-contributors: [higgerix, cloudsters]
+related:
+- pat_01kg5023xfergseskex576m9tk
+- pat_01kg5023w5f1985waqhj82jszc
+- pat_01kg50240zfdhtkt15hvg0w2vc
+- pat_01kg5023x6ecsvs4r54p0sty5b
+- pat_01kg5023z5emr9v9twr2y289ec
+- pat_01kg50240tewravhcerwwba8fy
+- pat_01kg5023xge89s6mx3paefv92p
+- pat_01kg502407eyh8wbymgkna58jr
+- pat_01kg5023x9fprav2bygmryd6br
+- pat_01kg5023xef1s9wh99ya5936c8
+- pat_01kg5023zseyh85cxgpcswxp4a
+- pat_01kg502407eyh8wbymda2yh5xe
+- pat_01kg5023xqet0abagjfk9c2b4m
+- pat_01kg5023zde79btwvkq4xrqm6c
+- pat_01kg5023z6f40rvkrsj7tzpehh
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

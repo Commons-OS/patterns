@@ -4,26 +4,45 @@ page_url: https://commons-os.github.io/patterns/direct-sales-model/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/direct-sales-model.md
 slug: direct-sales-model
 title: Direct Sales Model
-aliases: [Person-to-Person Sales, Direct Selling]
+aliases:
+- Person-to-Person Sales
+- Direct Selling
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: value-creation
-  category: [framework]
-  era: [industrial, digital]
-  origin: [peddlers, door-to-door, avon, tupperware]
+  category:
+  - framework
+  era:
+  - industrial
+  - digital
+  origin:
+  - peddlers
+  - door-to-door
+  - avon
+  - tupperware
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.zendesk.com/blog/direct-selling/, https://www.salesfocusinc.com/direct-sales/, https://en.wikipedia.org/wiki/Direct_selling, https://www.researchgate.net/publication/366589636_Direct_Selling_A_Controversial_Business_Model_Recent_Development_and_Future_Research_Agenda, https://www.edgewortheconomics.com/media/publication/304_JDSR-January-2025.pdf]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.zendesk.com/blog/direct-selling/
+- https://www.salesfocusinc.com/direct-sales/
+- https://en.wikipedia.org/wiki/Direct_selling
+- https://www.researchgate.net/publication/366589636_Direct_Selling_A_Controversial_Business_Model_Recent_Development_and_Future_Research_Agenda
+- https://www.edgewortheconomics.com/media/publication/304_JDSR-January-2025.pdf
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

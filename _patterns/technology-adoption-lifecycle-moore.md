@@ -6,24 +6,38 @@ slug: technology-adoption-lifecycle-moore
 title: Technology Adoption Lifecycle (Moore)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: technology
-  category: [framework]
-  era: [digital]
+  category:
+  - framework
+  era:
+  - digital
   origin: []
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.business-to-you.com/crossing-the-chasm-technology-adoption-life-cycle/", "https://en.wikipedia.org/wiki/Technology_adoption_life_cycle", "https://geoffreyamoore.com/", "https://www.researchgate.net/figure/Technology-Adoption-Lifecycle-The-Chasm-Moore-1991_fig2_281060763", "Moore, G. A. (2014). Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers. Harper Business.", "Rogers, E. M. (2003). Diffusion of Innovations. Free Press."]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.business-to-you.com/crossing-the-chasm-technology-adoption-life-cycle/
+- https://en.wikipedia.org/wiki/Technology_adoption_life_cycle
+- https://geoffreyamoore.com/
+- https://www.researchgate.net/figure/Technology-Adoption-Lifecycle-The-Chasm-Moore-1991_fig2_281060763
+- 'Moore, G. A. (2014). Crossing the Chasm: Marketing and Selling Disruptive Products
+  to Mainstream Customers. Harper Business.'
+- Rogers, E. M. (2003). Diffusion of Innovations. Free Press.
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

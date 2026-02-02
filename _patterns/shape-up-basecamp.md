@@ -6,30 +6,37 @@ slug: shape-up-basecamp
 title: Shape Up (Basecamp)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, methodology]
-  era: [digital]
-  origin: [Basecamp]
+  category:
+  - framework
+  - methodology
+  era:
+  - digital
+  origin:
+  - Basecamp
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [
-    'https://basecamp.com/shapeup',
-    'https://www.curiouslab.io/blog/what-is-basecamps-shape-up-method-a-complete-overview',
-    'https://www.productplan.com/glossary/shape-up-method/',
-    'https://lucid.co/blog/shape-up-methodology',
-    'https://marmelab.com/blog/2024/09/26/shape-up.html'
-  ]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://basecamp.com/shapeup
+- https://www.curiouslab.io/blog/what-is-basecamps-shape-up-method-a-complete-overview
+- https://www.productplan.com/glossary/shape-up-method/
+- https://lucid.co/blog/shape-up-methodology
+- https://marmelab.com/blog/2024/09/26/shape-up.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

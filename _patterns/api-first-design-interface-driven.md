@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/api-first-design-interface-drive
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/api-first-design-interface-driven.md
 slug: api-first-design-interface-driven
 title: API-First Design - Interface-Driven
-aliases: [API-First, API-First Approach, Interface-Driven Design]
+aliases:
+- API-First
+- API-First Approach
+- Interface-Driven Design
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [principle, methodology]
-  era: [digital]
-  origin: [software-engineering, web-development]
+  category:
+  - principle
+  - methodology
+  era:
+  - digital
+  origin:
+  - software-engineering
+  - web-development
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg5023vyfzhvteh09vngf3mp"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023vyfzhvteh09vngf3mp
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.postman.com/api-first/, https://swagger.io/resources/articles/adopting-an-api-first-approach/, https://nordicapis.com/the-rise-of-api-first-companies-5-success-stories/]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.postman.com/api-first/
+- https://swagger.io/resources/articles/adopting-an-api-first-approach/
+- https://nordicapis.com/the-rise-of-api-first-companies-5-success-stories/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

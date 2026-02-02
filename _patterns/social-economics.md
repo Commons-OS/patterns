@@ -4,29 +4,39 @@ page_url: https://commons-os.github.io/patterns/social-economics/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/social-economics.md
 slug: social-economics
 title: Social Economics
-aliases: [Socioeconomics]
+aliases:
+- Socioeconomics
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [principle, meta-pattern]
-  era: [industrial, digital, cognitive]
+  category:
+  - principle
+  - meta-pattern
+  era:
+  - industrial
+  - digital
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [
-  "https://www.investopedia.com/terms/s/social-economics.asp",
-  "https://corporatefinanceinstitute.com/resources/economics/social-economics/"
-]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.investopedia.com/terms/s/social-economics.asp
+- https://corporatefinanceinstitute.com/resources/economics/social-economics/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

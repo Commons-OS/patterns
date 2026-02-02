@@ -4,26 +4,44 @@ page_url: https://commons-os.github.io/patterns/platform-business-models/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/platform-business-models.md
 slug: platform-business-models
 title: Platform Business Models
-aliases: [Two-Sided Markets, Multi-Sided Platforms]
+aliases:
+- Two-Sided Markets
+- Multi-Sided Platforms
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: value-creation
-  category: framework
-  era: [digital, cognitive]
-  origin: [academic, tech-industry]
+  category:
+  - framework
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - tech-industry
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://online.hbs.edu/blog/post/platform-based-business-models, https://www.deloitte.com/ch/en/services/consulting/perspectives/platform-business-model-explained.html, https://www.applicoinc.com/blog/what-is-a-platform-business-model/, https://bernardmarr.com/the-10-best-platform-business-model-examples/, https://martinoagostini.com/the-impact-of-artificial-intelligence-on-the-platform-economy/, https://platform.coop/]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://online.hbs.edu/blog/post/platform-based-business-models
+- https://www.deloitte.com/ch/en/services/consulting/perspectives/platform-business-model-explained.html
+- https://www.applicoinc.com/blog/what-is-a-platform-business-model/
+- https://bernardmarr.com/the-10-best-platform-business-model-examples/
+- https://martinoagostini.com/the-impact-of-artificial-intelligence-on-the-platform-economy/
+- https://platform.coop/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

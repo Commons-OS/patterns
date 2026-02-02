@@ -4,26 +4,60 @@ page_url: https://commons-os.github.io/patterns/buen-vivir-documented/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/buen-vivir-documented.md
 slug: buen-vivir-documented
 title: Buen Vivir
-aliases: [Sumak Kawsay, Suma Qamaña, Good Living, Collective Well-being]
+aliases:
+- Sumak Kawsay
+- Suma Qamaña
+- Good Living
+- Collective Well-being
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [principle, meta-pattern]
-  era: [cognitive]
-  origin: [indigenous, academic]
+  category:
+  - principle
+  - meta-pattern
+  era:
+  - cognitive
+  origin:
+  - indigenous
+  - academic
   status: draft
   commons_alignment: 5
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023xfergseskezjw7vhps", "pat_01kg5023xfergseskex576m9tk", "pat_01kg50240zfdhtkt15hvg0w2vc", "pat_01kg5023zzecsb265cca6xrxst", "pat_01kg5023zbftgswm71jpa7pdya", "pat_01kg5023z5emr9v9twr2y289ec", "pat_01kg5023yvehgrw2tgha4z5mxc", "pat_01kg5023vjetsaajnc397n2n2m", "pat_01kg5023yeebha23tbpqbvfwb5", "pat_01kg5023zfejs9j7hrnhg9xnns", "pat_01kg5023x9fprav2bygmryd6br", "pat_01kg5023zseyh85cxgpcswxp4a", "pat_01kg502407eyh8wbymda2yh5xe", "pat_01kg5023y9f3hr6tv4n4j1h14z", "pat_01kg5023vyfzhvteh01za2yrvr"]
-contributors: [higgerix, cloudsters]
-sources: [https://www.theguardian.com/sustainable-business/blog/buen-vivir-philosophy-south-america-eduardo-gudynas, https://populationmatters.org/news/2024/09/buen-vivir-the-good-life-for-people-and-planet-part-one/, https://degrowth.info/library/buen-vivir, https://pmc.ncbi.nlm.nih.gov/articles/PMC9377301/, https://www.tni.org/files/download/beyonddevelopment_buenvivir.pdf]
+related:
+- pat_01kg5023xfergseskezjw7vhps
+- pat_01kg5023xfergseskex576m9tk
+- pat_01kg50240zfdhtkt15hvg0w2vc
+- pat_01kg5023zzecsb265cca6xrxst
+- pat_01kg5023zbftgswm71jpa7pdya
+- pat_01kg5023z5emr9v9twr2y289ec
+- pat_01kg5023yvehgrw2tgha4z5mxc
+- pat_01kg5023vjetsaajnc397n2n2m
+- pat_01kg5023yeebha23tbpqbvfwb5
+- pat_01kg5023zfejs9j7hrnhg9xnns
+- pat_01kg5023x9fprav2bygmryd6br
+- pat_01kg5023zseyh85cxgpcswxp4a
+- pat_01kg502407eyh8wbymda2yh5xe
+- pat_01kg5023y9f3hr6tv4n4j1h14z
+- pat_01kg5023vyfzhvteh01za2yrvr
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.theguardian.com/sustainable-business/blog/buen-vivir-philosophy-south-america-eduardo-gudynas
+- https://populationmatters.org/news/2024/09/buen-vivir-the-good-life-for-people-and-planet-part-one/
+- https://degrowth.info/library/buen-vivir
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC9377301/
+- https://www.tni.org/files/download/beyonddevelopment_buenvivir.pdf
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

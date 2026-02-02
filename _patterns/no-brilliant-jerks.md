@@ -1,16 +1,22 @@
 ---
 id: pat_48dfee4f0f3b4ffeb702edaa
-title: "No Brilliant Jerks"
+title: No Brilliant Jerks
 slug: no-brilliant-jerks
 aliases: []
 classification:
   universality: domain
   domain: startup
-  category: [team]
-  era: [cognitive]
-  origin: [startup-ecosystem]
+  category:
+  - team
+  era:
+  - cognitive
+  origin:
+  - startup-ecosystem
   status: draft
   commons_alignment: 4
+  commons_domain:
+  - startup
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
@@ -20,17 +26,16 @@ confidence_score: 0.7
 sources: []
 version: 1.0.0
 last_updated: 2026-02-01
-page_url: "https://commons-os.github.io/patterns/no-brilliant-jerks/"
-github_url: "https://github.com/Commons-OS/patterns/blob/main/_patterns/no-brilliant-jerks.md"
+page_url: https://commons-os.github.io/patterns/no-brilliant-jerks/
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/no-brilliant-jerks.md
 created: 2026-02-01
 modified: 2026-02-01
-commons_domain: startup
 contributors:
-  - name: "Commons OS"
-    role: author
-license: "CC-BY-SA-4.0"
-attribution: "Commons OS Pattern Library"
-repository: "https://github.com/Commons-OS/patterns"
+- name: Commons OS
+  role: author
+license: CC-BY-SA-4.0
+attribution: Commons OS Pattern Library
+repository: https://github.com/Commons-OS/patterns
 ---
 
 # TC036: No Brilliant Jerks

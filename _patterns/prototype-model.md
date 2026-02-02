@@ -4,26 +4,39 @@ page_url: https://commons-os.github.io/patterns/prototype-model/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/prototype-model.md
 slug: prototype-model
 title: Prototype Model
-aliases: [Prototyping, Evolutionary Prototyping, Throwaway Prototyping]
+aliases:
+- Prototyping
+- Evolutionary Prototyping
+- Throwaway Prototyping
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: methodology
-  era: [digital]
-  origin: [software-engineering]
+  category:
+  - methodology
+  era:
+  - digital
+  origin:
+  - software-engineering
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.geeksforgeeks.org/software-engineering/software-engineering-prototyping-model/, https://reliasoftware.com/blog/prototype-model-in-software-engineering, https://m.fayrix.com/blog/examples-of-prototyping-for-your-startup]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.geeksforgeeks.org/software-engineering/software-engineering-prototyping-model/
+- https://reliasoftware.com/blog/prototype-model-in-software-engineering
+- https://m.fayrix.com/blog/examples-of-prototyping-for-your-startup
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

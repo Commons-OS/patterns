@@ -4,26 +4,60 @@ page_url: https://commons-os.github.io/patterns/ich-q10-pharmaceutical-quality-s
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/ich-q10-pharmaceutical-quality-system.md
 slug: ich-q10-pharmaceutical-quality-system
 title: ICH Q10 (Pharmaceutical Quality System)
-aliases: [ICH Q10, PQS]
+aliases:
+- ICH Q10
+- PQS
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: framework
-  era: [industrial, digital]
-  origin: [ICH]
+  category:
+  - framework
+  era:
+  - industrial
+  - digital
+  origin:
+  - ICH
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023z4ejgvpxs00h779hk7", "pat_01kg5023x8evg9fk7ax23cbrbn", "pat_01kg5023wjfg8tqb1zqbg7dd8h", "pat_01kg5023xge89s6mx3nbjd0mgg", "pat_01kg5023vyfzhvteh04eykysqz", "pat_01kg5023zrexhr77rgbe4f62ew", "pat_01kg5023vjetsaajnc397n2n2m", "pat_01kg5023vyfzhvteh02a487gvh", "pat_01kg5023z8f6h9wk9sdad8sxxd", "pat_01kg5023x8evg9fk7as5cxmnwk", "pat_01kg5023ybeqhsr5sn20s4jgvn", "pat_01kg5023zcf99tjg7qgdbhqfkm", "pat_01kg5023zzecsb265cp79x0gvh", "pat_01kg5023ytf2s8rdchqz3eqbg0", "pat_01kg5023yaea8sqyn9hkqb477d"]
-contributors: [higgerix, cloudsters]
-sources: ["https://database.ich.org/sites/default/files/Q10%20Guideline.pdf", "https://www.fda.gov/media/71553/download", "https://www.ema.europa.eu/en/ich-q10-pharmaceutical-quality-system-scientific-guideline", "https://simplerqms.com/ich-q10-pharmaceutical-quality-system/", "https://www.qualio.com/blog/ich10-pharmaceutical-quality-system", "https://www.cognidox.com/blog/what-are-ich-q10-pharmaceutical-quality-system-guidelines", "https://pmc.ncbi.nlm.nih.gov/articles/PMC8689590/", "https://ispe.org/training/online-learning/ICH_Q10"]
+related:
+- pat_01kg5023z4ejgvpxs00h779hk7
+- pat_01kg5023x8evg9fk7ax23cbrbn
+- pat_01kg5023wjfg8tqb1zqbg7dd8h
+- pat_01kg5023xge89s6mx3nbjd0mgg
+- pat_01kg5023vyfzhvteh04eykysqz
+- pat_01kg5023zrexhr77rgbe4f62ew
+- pat_01kg5023vjetsaajnc397n2n2m
+- pat_01kg5023vyfzhvteh02a487gvh
+- pat_01kg5023z8f6h9wk9sdad8sxxd
+- pat_01kg5023x8evg9fk7as5cxmnwk
+- pat_01kg5023ybeqhsr5sn20s4jgvn
+- pat_01kg5023zcf99tjg7qgdbhqfkm
+- pat_01kg5023zzecsb265cp79x0gvh
+- pat_01kg5023ytf2s8rdchqz3eqbg0
+- pat_01kg5023yaea8sqyn9hkqb477d
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://database.ich.org/sites/default/files/Q10%20Guideline.pdf
+- https://www.fda.gov/media/71553/download
+- https://www.ema.europa.eu/en/ich-q10-pharmaceutical-quality-system-scientific-guideline
+- https://simplerqms.com/ich-q10-pharmaceutical-quality-system/
+- https://www.qualio.com/blog/ich10-pharmaceutical-quality-system
+- https://www.cognidox.com/blog/what-are-ich-q10-pharmaceutical-quality-system-guidelines
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC8689590/
+- https://ispe.org/training/online-learning/ICH_Q10
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

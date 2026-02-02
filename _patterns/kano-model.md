@@ -4,25 +4,36 @@ page_url: https://commons-os.github.io/patterns/kano-model/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/kano-model.md
 slug: kano-model
 title: Kano Model
-aliases: [Kano analysis, Kano's model]
+aliases:
+- Kano analysis
+- Kano's model
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: methodology
-  era: [industrial, digital]
-  origin: [academic, noriaki-kano]
+  category:
+  - methodology
+  era:
+  - industrial
+  - digital
+  origin:
+  - academic
+  - noriaki-kano
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

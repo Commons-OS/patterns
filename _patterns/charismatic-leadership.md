@@ -6,24 +6,34 @@ slug: charismatic-leadership
 title: Charismatic Leadership
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: 
+  category: null
   era: []
   origin: []
   status: draft
   commons_alignment: 2
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.wgu.edu/blog/charismatic-leadership2103.html", "https://www.pon.harvard.edu/daily/leadership-skills-daily/charismatic-leadership-weighing-the-pros-and-cons/", "https://www.indeed.com/career-advice/career-development/charismatic-leadership", "https://www.technical-leaders.com/post/7-techniques-for-charismatic-leadership", "https://en.wikipedia.org/wiki/Charismatic_authority"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.wgu.edu/blog/charismatic-leadership2103.html
+- https://www.pon.harvard.edu/daily/leadership-skills-daily/charismatic-leadership-weighing-the-pros-and-cons/
+- https://www.indeed.com/career-advice/career-development/charismatic-leadership
+- https://www.technical-leaders.com/post/7-techniques-for-charismatic-leadership
+- https://en.wikipedia.org/wiki/Charismatic_authority
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -6,29 +6,37 @@ slug: design-for-reliability
 title: Design for Reliability
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [principle, practice]
-  era: [digital]
+  category:
+  - principle
+  - practice
+  era:
+  - digital
   origin: []
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://www.ansys.com/blog/the-what-why-when-who-and-how-of-design-for-reliability
-  - https://www.fictiv.com/articles/dfr-design-for-reliability
-  - https://www.sciencedirect.com/topics/engineering/design-for-reliability
-  - https://www.sciencedirect.com/science/article/pii/B9780128114070000519
-  - https://blog.boston-engineering.com/the-strategic-role-of-design-for-reliability-in-product-development
+- https://www.ansys.com/blog/the-what-why-when-who-and-how-of-design-for-reliability
+- https://www.fictiv.com/articles/dfr-design-for-reliability
+- https://www.sciencedirect.com/topics/engineering/design-for-reliability
+- https://www.sciencedirect.com/science/article/pii/B9780128114070000519
+- https://blog.boston-engineering.com/the-strategic-role-of-design-for-reliability-in-product-development
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

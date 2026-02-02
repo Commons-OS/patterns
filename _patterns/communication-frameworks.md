@@ -6,24 +6,38 @@ slug: communication-frameworks
 title: Communication Frameworks
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: culture
-  category: [framework]
-  era: [digital, cognitive]
-  origin: [academic]
+  category:
+  - framework
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.launchnotes.com/glossary/communication-framework-in-product-management-and-operations", "https://atlantisschoolofcommunication.org/communications-foundations/history-of-communication-models/", "https://www.towerswatson.com/en/Insights/IC-Types/Survey-Research-Results/2013/07/2013-change-and-communication-roi-study", "https://www.gallup.com/workplace/236366/right-culture-not-employee-satisfaction.aspx", "https://www.pmi.org/pulse-of-the-profession"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.launchnotes.com/glossary/communication-framework-in-product-management-and-operations
+- https://atlantisschoolofcommunication.org/communications-foundations/history-of-communication-models/
+- https://www.towerswatson.com/en/Insights/IC-Types/Survey-Research-Results/2013/07/2013-change-and-communication-roi-study
+- https://www.gallup.com/workplace/236366/right-culture-not-employee-satisfaction.aspx
+- https://www.pmi.org/pulse-of-the-profession
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

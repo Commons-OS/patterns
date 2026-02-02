@@ -6,30 +6,35 @@ slug: open-source-hardware-oshwa
 title: Open Source Hardware (OSHWA)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: technology
-  category: [practice]
-  era: [digital]
+  category:
+  - practice
+  era:
+  - digital
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [
-  'https://oshwa.org/resources/open-source-hardware-definition/',
-  'https://oshwa.org/resources/sharing-best-practices/',
-  'https://www.sciencedirect.com/science/article/pii/S221282712400756X',
-  'https://en.wikipedia.org/wiki/Open-source_hardware',
-  'https://opensource.com/resources/what-open-hardware'
-]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://oshwa.org/resources/open-source-hardware-definition/
+- https://oshwa.org/resources/sharing-best-practices/
+- https://www.sciencedirect.com/science/article/pii/S221282712400756X
+- https://en.wikipedia.org/wiki/Open-source_hardware
+- https://opensource.com/resources/what-open-hardware
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

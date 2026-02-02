@@ -4,26 +4,45 @@ page_url: https://commons-os.github.io/patterns/informal-economy-models/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/informal-economy-models.md
 slug: informal-economy-models
 title: Informal Economy Models
-aliases: [Informal Sector, Grey Economy, Shadow Economy, Underground Economy]
+aliases:
+- Informal Sector
+- Grey Economy
+- Shadow Economy
+- Underground Economy
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [meta-pattern]
-  era: [industrial, digital, cognitive]
-  origin: [academic, development-economics]
+  category:
+  - meta-pattern
+  era:
+  - industrial
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - development-economics
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://en.wikipedia.org/wiki/Informal_economy, https://www.worldbank.org/en/research/brief/informal-economy-database, https://www.imf.org/en/publications/fandd/issues/2020/12/what-is-the-informal-economy-basics, https://www.ilo.org/global/topics/informal-economy/lang--en/index.htm, https://www.wiego.org/informal-economy]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Informal_economy
+- https://www.worldbank.org/en/research/brief/informal-economy-database
+- https://www.imf.org/en/publications/fandd/issues/2020/12/what-is-the-informal-economy-basics
+- https://www.ilo.org/global/topics/informal-economy/lang--en/index.htm
+- https://www.wiego.org/informal-economy
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

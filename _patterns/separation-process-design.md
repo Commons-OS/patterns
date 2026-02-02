@@ -6,23 +6,31 @@ slug: separation-process-design
 title: Separation Process Design
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: design
-  category: [principle, methodology]
-  era: [digital]
-  origin: [software engineering]
+  category:
+  - principle
+  - methodology
+  era:
+  - digital
+  origin:
+  - software engineering
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
 - https://www.blueprintsys.com/blog/process-decomposition-why-its-so-important
 - https://medium.com/@carlo.marcoli/a-holistic-approach-to-business-process-modelling-b8f6d7fe0da0

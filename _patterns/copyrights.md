@@ -1,16 +1,21 @@
 ---
 id: pat_1b6c2afcceae46899c1f4867
-title: "Copyrights"
+title: Copyrights
 slug: copyrights
 aliases: []
 classification:
   universality: domain
   domain: startup
-  category: [governance]
-  era: [cognitive]
-  origin: [startup-ecosystem]
+  category:
+  - governance
+  era:
+  - cognitive
+  origin:
+  - startup-ecosystem
   status: draft
   commons_alignment: 4
+  commons_domain:
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
@@ -20,17 +25,16 @@ confidence_score: 0.7
 sources: []
 version: 1.0.0
 last_updated: 2026-02-01
-page_url: "https://commons-os.github.io/patterns/copyrights/"
-github_url: "https://github.com/Commons-OS/patterns/blob/main/_patterns/copyrights.md"
+page_url: https://commons-os.github.io/patterns/copyrights/
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/copyrights.md
 created: 2026-02-01
 modified: 2026-02-01
-commons_domain: startup
 contributors:
-  - name: "Commons OS"
-    role: author
-license: "CC-BY-SA-4.0"
-attribution: "Commons OS Pattern Library"
-repository: "https://github.com/Commons-OS/patterns"
+- name: Commons OS
+  role: author
+license: CC-BY-SA-4.0
+attribution: Commons OS Pattern Library
+repository: https://github.com/Commons-OS/patterns
 ---
 
 ### 1. Overview

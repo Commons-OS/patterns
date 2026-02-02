@@ -6,24 +6,38 @@ slug: emerging-ecosystem-frameworks
 title: Emerging Ecosystem Frameworks
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: meta
   domain: implementation
-  category: [framework]
-  era: [cognitive]
-  origin: [academic, business]
+  category:
+  - framework
+  era:
+  - cognitive
+  origin:
+  - academic
+  - business
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.sciencedirect.com/science/article/pii/S0040162524001793, https://paul4innovating.com/2025/05/, https://paul4innovating.com/2025/05/12/building-the-comprehensive-world-of-interconnected-business-ecosystems/, https://medium.com/@Paul4innovating/building-the-design-of-the-integrated-interconnected-business-ecosystem-7aae52c886c3, https://www.bcg.com/publications/2022/what-is-your-business-ecosystem-strategy, https://www.pwc.com/us/en/services/consulting/business-transformation/library/business-ecosystem-strategies.html]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.sciencedirect.com/science/article/pii/S0040162524001793
+- https://paul4innovating.com/2025/05/
+- https://paul4innovating.com/2025/05/12/building-the-comprehensive-world-of-interconnected-business-ecosystems/
+- https://medium.com/@Paul4innovating/building-the-design-of-the-integrated-interconnected-business-ecosystem-7aae52c886c3
+- https://www.bcg.com/publications/2022/what-is-your-business-ecosystem-strategy
+- https://www.pwc.com/us/en/services/consulting/business-transformation/library/business-ecosystem-strategies.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

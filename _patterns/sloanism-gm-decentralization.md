@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/sloanism-gm-decentralization/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/sloanism-gm-decentralization.md
 slug: sloanism-gm-decentralization
 title: Sloanism (GM Decentralization)
-aliases: ["Coordinated Decentralization", "The GM Way"]
+aliases:
+- Coordinated Decentralization
+- The GM Way
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, methodology]
-  era: [industrial]
-  origin: ["General Motors", "Alfred P. Sloan Jr."]
+  category:
+  - framework
+  - methodology
+  era:
+  - industrial
+  origin:
+  - General Motors
+  - Alfred P. Sloan Jr.
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.discerningreaders.com/blog/general-motors-alfred-p-sloan-jr-on-coordinated-decentralization", "https://blas.com/wp-content/uploads/2019/06/My-Years-With-General-Motors-by-Alfred-P.-Sloan.pdf", "https://www.leadersthepodcast.com/blog/the-management-maestro-how-alfred-sloan-created-the-modern-corporation/", "https://hbr.org/1964/09/the-great-gm-mystery", "https://sloan.org/about/who-was-alfred-p-sloan-jr"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.discerningreaders.com/blog/general-motors-alfred-p-sloan-jr-on-coordinated-decentralization
+- https://blas.com/wp-content/uploads/2019/06/My-Years-With-General-Motors-by-Alfred-P.-Sloan.pdf
+- https://www.leadersthepodcast.com/blog/the-management-maestro-how-alfred-sloan-created-the-modern-corporation/
+- https://hbr.org/1964/09/the-great-gm-mystery
+- https://sloan.org/about/who-was-alfred-p-sloan-jr
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

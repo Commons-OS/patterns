@@ -4,26 +4,42 @@ page_url: https://commons-os.github.io/patterns/ansoff-matrix/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/ansoff-matrix.md
 slug: ansoff-matrix
 title: Ansoff Matrix
-aliases: [Product/Market Expansion Grid]
+aliases:
+- Product/Market Expansion Grid
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [industrial]
-  origin: [academic]
+  category:
+  - framework
+  era:
+  - industrial
+  origin:
+  - academic
   status: draft
   commons_alignment: 2
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
-specializes_to: ["pat_01kg5023w9f70agabwrtkk0gbv"]
+specializes_to:
+- pat_01kg5023w9f70agabwrtkk0gbv
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://en.wikipedia.org/wiki/Ansoff_matrix, https://corporatefinanceinstitute.com/resources/management/ansoff-matrix/, https://www.thestrategyinstitute.org/insights/the-ansoff-matrix-a-powerful-tool-for-business-strategy-and-growth, https://www.smartinsights.com/marketing-planning/create-a-marketing-plan/ansoff-model/, https://www.cascade.app/blog/the-ansoff-matrix-helps-organizations-grow, https://hbr.org/1957/09/strategies-for-diversification]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Ansoff_matrix
+- https://corporatefinanceinstitute.com/resources/management/ansoff-matrix/
+- https://www.thestrategyinstitute.org/insights/the-ansoff-matrix-a-powerful-tool-for-business-strategy-and-growth
+- https://www.smartinsights.com/marketing-planning/create-a-marketing-plan/ansoff-model/
+- https://www.cascade.app/blog/the-ansoff-matrix-helps-organizations-grow
+- https://hbr.org/1957/09/strategies-for-diversification
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

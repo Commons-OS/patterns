@@ -4,26 +4,44 @@ page_url: https://commons-os.github.io/patterns/crowdsourcing-model/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/crowdsourcing-model.md
 slug: crowdsourcing-model
 title: Crowdsourcing Model
-aliases: [Crowd-sourcing, Crowd Sourcing, Collective Intelligence, Community Sourcing]
+aliases:
+- Crowd-sourcing
+- Crowd Sourcing
+- Collective Intelligence
+- Community Sourcing
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [methodology]
-  era: [digital]
-  origin: [academic, media]
+  category:
+  - methodology
+  era:
+  - digital
+  origin:
+  - academic
+  - media
   status: draft
   commons_alignment: 3
-commons_domain: business
-generalizes_from: ["pat_01kg5023y6fxsa08h2gnagmbdr"]
+  commons_domain:
+  - business
+  - startup
+generalizes_from:
+- pat_01kg5023y6fxsa08h2gnagmbdr
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.investopedia.com/terms/c/crowdsourcing.asp, https://www.herox.com/blog/1100-crowdsourcing-business-models-to-get-inspired-by, https://www.wired.com/2006/06/crowds/, https://www.amazon.com/Crowdsourcing-Power-Driving-Future-Business/dp/0307396215, https://www.forbes.com/sites/forbestechcouncils/2025/12/30/the-human-engine-behind-artificial-intelligence-how-crowdsourcing-is-powering-the-next-ai-revolution/]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.investopedia.com/terms/c/crowdsourcing.asp
+- https://www.herox.com/blog/1100-crowdsourcing-business-models-to-get-inspired-by
+- https://www.wired.com/2006/06/crowds/
+- https://www.amazon.com/Crowdsourcing-Power-Driving-Future-Business/dp/0307396215
+- https://www.forbes.com/sites/forbestechcouncils/2025/12/30/the-human-engine-behind-artificial-intelligence-how-crowdsourcing-is-powering-the-next-ai-revolution/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

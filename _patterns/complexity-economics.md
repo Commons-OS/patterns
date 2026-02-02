@@ -6,24 +6,46 @@ slug: complexity-economics
 title: Complexity Economics
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: universal
   domain: meta
-  category: [framework, methodology, principle, meta-pattern]
-  era: [cognitive]
+  category:
+  - framework
+  - methodology
+  - principle
+  - meta-pattern
+  era:
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023vafgr9ywe30zx8g6bk", "pat_01kg5023vdecr9aqhgjf4vp12v", "pat_01kg5023vcf5rv73jr3zqvr93y", "pat_01kg5023vbe4rvttbw31ydqm8r", "pat_01kg5023v9fj0a69mjvb68mp32", "pat_01kg5023vnfb1bfct0h3sg3yqf"]
-contributors: [higgerix, cloudsters]
-sources: [https://www.science.org/doi/10.1126/science.284.5411.107, https://www.nature.com/articles/s42254-020-00273-3, https://www.pnas.org/doi/10.1073/pnas.0900943106, https://andreatallarita.medium.com/5-key-principles-of-complexity-economics-a51bbd1030d7, https://en.wikipedia.org/wiki/Complexity_economics, https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-2370.2005.00124.x, https://www.nature.com/articles/s42254-020-00275-1]
+related:
+- pat_01kg5023vafgr9ywe30zx8g6bk
+- pat_01kg5023vdecr9aqhgjf4vp12v
+- pat_01kg5023vcf5rv73jr3zqvr93y
+- pat_01kg5023vbe4rvttbw31ydqm8r
+- pat_01kg5023v9fj0a69mjvb68mp32
+- pat_01kg5023vnfb1bfct0h3sg3yqf
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.science.org/doi/10.1126/science.284.5411.107
+- https://www.nature.com/articles/s42254-020-00273-3
+- https://www.pnas.org/doi/10.1073/pnas.0900943106
+- https://andreatallarita.medium.com/5-key-principles-of-complexity-economics-a51bbd1030d7
+- https://en.wikipedia.org/wiki/Complexity_economics
+- https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-2370.2005.00124.x
+- https://www.nature.com/articles/s42254-020-00275-1
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

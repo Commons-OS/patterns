@@ -4,25 +4,42 @@ page_url: https://commons-os.github.io/patterns/permaculture-documented/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/permaculture-documented.md
 slug: permaculture-documented
 title: Permaculture
-aliases: [Permanent Agriculture, Permanent Culture]
+aliases:
+- Permanent Agriculture
+- Permanent Culture
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: sustainability
   domain: domain
-  category: [meta-pattern, framework, methodology]
-  era: [agricultural, cognitive]
-  origin: [academic, bill-mollison, david-holmgren]
+  category:
+  - meta-pattern
+  - framework
+  - methodology
+  era:
+  - agricultural
+  - cognitive
+  origin:
+  - academic
+  - bill-mollison
+  - david-holmgren
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
-specializes_to: ["pat_01kg5023zme99s1z08pwp5kr2f", "pat_01kg5023zketsrxaxyx0mwmm0x"]
+specializes_to:
+- pat_01kg5023zme99s1z08pwp5kr2f
+- pat_01kg5023zketsrxaxyx0mwmm0x
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

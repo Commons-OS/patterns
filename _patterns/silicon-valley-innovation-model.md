@@ -4,32 +4,58 @@ page_url: https://commons-os.github.io/patterns/silicon-valley-innovation-model/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/silicon-valley-innovation-model.md
 slug: silicon-valley-innovation-model
 title: Silicon Valley Innovation Model
-aliases: [Silicon Valley Model]
+aliases:
+- Silicon Valley Model
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [meta-pattern]
-  era: [digital, cognitive]
-  origin: [stanford-university, fairchild-semiconductor, darpa]
+  category:
+  - meta-pattern
+  era:
+  - digital
+  - cognitive
+  origin:
+  - stanford-university
+  - fairchild-semiconductor
+  - darpa
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023xfergseskezjw7vhps", "pat_01kg5023xne3gs3g2247a6tg6m", "pat_01kg5023zbftgswm71jpa7pdya", "pat_01kg5023y9f3hr6tv4n4j1h14z", "pat_01kg5023vjetsaajnc397n2n2m", "pat_01kg5023zyebsatbkqyk4ffphj", "pat_01kg5023yeebha23tbpqbvfwb5", "pat_01kg5023zfejs9j7hrnhg9xnns", "pat_01kg5023xmek8szp5z4979bzb7", "pat_01kg5023xjea9ve0dr2yn0ng4v", "pat_01kg5023zyebsatbkqwveseny5", "pat_01kg5023yvehgrw2tgha4z5mxc", "pat_01kg5023vyfzhvteh01za2yrvr", "pat_01kg50240wfjh98jqx4axm2q65", "pat_01kg5023xqet0abagjfk9c2b4m"]
-contributors: [higgerix, cloudsters]
+related:
+- pat_01kg5023xfergseskezjw7vhps
+- pat_01kg5023xne3gs3g2247a6tg6m
+- pat_01kg5023zbftgswm71jpa7pdya
+- pat_01kg5023y9f3hr6tv4n4j1h14z
+- pat_01kg5023vjetsaajnc397n2n2m
+- pat_01kg5023zyebsatbkqyk4ffphj
+- pat_01kg5023yeebha23tbpqbvfwb5
+- pat_01kg5023zfejs9j7hrnhg9xnns
+- pat_01kg5023xmek8szp5z4979bzb7
+- pat_01kg5023xjea9ve0dr2yn0ng4v
+- pat_01kg5023zyebsatbkqwveseny5
+- pat_01kg5023yvehgrw2tgha4z5mxc
+- pat_01kg5023vyfzhvteh01za2yrvr
+- pat_01kg50240wfjh98jqx4axm2q65
+- pat_01kg5023xqet0abagjfk9c2b4m
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://carnegieendowment.org/research/2024/01/the-silicon-valley-model-and-technological-trajectories-in-context
-  - https://www.forbes.com/sites/jimeuchner/2025/02/25/rethinking-innovation-the-contrasting-ecosystems-of-silicon-valley-and-shenzhen/
-  - https://news.pcim.mesago.com/the-story-of-silicon-valley-how-it-began-how-it-boomed-and-where-its-headed-a-9836fd8f0adf6d3535810e709d99fec3/
-  - https://www.investopedia.com/terms/s/siliconvalley.asp
-  - https://computerhistory.org/blog/silicon-valley-a-century-of-entrepreneurial-innovation/
-  - https://americancompass.org/silicon-valleys-public-garages/
+- https://carnegieendowment.org/research/2024/01/the-silicon-valley-model-and-technological-trajectories-in-context
+- https://www.forbes.com/sites/jimeuchner/2025/02/25/rethinking-innovation-the-contrasting-ecosystems-of-silicon-valley-and-shenzhen/
+- https://news.pcim.mesago.com/the-story-of-silicon-valley-how-it-began-how-it-boomed-and-where-its-headed-a-9836fd8f0adf6d3535810e709d99fec3/
+- https://www.investopedia.com/terms/s/siliconvalley.asp
+- https://computerhistory.org/blog/silicon-valley-a-century-of-entrepreneurial-innovation/
+- https://americancompass.org/silicon-valleys-public-garages/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

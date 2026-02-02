@@ -4,32 +4,58 @@ page_url: https://commons-os.github.io/patterns/large-scale-scrum-less/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/large-scale-scrum-less.md
 slug: large-scale-scrum-less
 title: Large-Scale Scrum (LeSS)
-aliases: [LeSS]
+aliases:
+- LeSS
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [framework]
-  era: [digital]
-  origin: [agile-manifesto, craig-larman, bas-vodde]
+  category:
+  - framework
+  era:
+  - digital
+  origin:
+  - agile-manifesto
+  - craig-larman
+  - bas-vodde
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg5023zwft8t7k63bfadqqwg"]
+  commons_domain:
+  - business
+  - startup
+generalizes_from:
+- pat_01kg5023zwft8t7k63bfadqqwg
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023ydftgramg3qp7rjkam", "pat_01kg5023zwft8t7k635h086kyj", "pat_01kg5023ypf08rv1dagnb27bjj", "pat_01kg5023vwe00rptkqr3z6pkd9", "pat_01kg5023ypf08rv1dafrvtxwdr", "pat_01kg5023y7e50rxp3ew60jdasx", "pat_01kg5023ztenhrk74hc9a8qszj", "pat_01kg5023zwft8t7k639ctqfhce", "pat_01kg5023zwft8t7k63bfadqqwg", "pat_01kg50240wfjh98jqx34wdddnm", "pat_01kg5023xaemr9xsmd0fgaxe86", "pat_01kg5023yneg8rmv1200tvfn3g", "pat_01kg5023yneg8rmv122d6v7bg5", "pat_01kg5023xaemr9xsmcy13gf405", "pat_01kg5023xaemr9xsmcxd0eg8ek"]
-contributors: [higgerix, cloudsters]
-sources: 
-  - https://less.works/
-  - https://www.atlassian.com/agile/agile-at-scale/less
-  - https://less.works/case-studies/john-deere
-  - https://www.amazon.com/Large-Scale-Scrum-More-Addison-Wesley-Signature/dp/0321985710
-  - https://www.amazon.com/Practices-Scaling-Lean-Agile-Development/dp/0321636406
-  - https://www.mdpi.com/2227-9709/9/1/20
+related:
+- pat_01kg5023ydftgramg3qp7rjkam
+- pat_01kg5023zwft8t7k635h086kyj
+- pat_01kg5023ypf08rv1dagnb27bjj
+- pat_01kg5023vwe00rptkqr3z6pkd9
+- pat_01kg5023ypf08rv1dafrvtxwdr
+- pat_01kg5023y7e50rxp3ew60jdasx
+- pat_01kg5023ztenhrk74hc9a8qszj
+- pat_01kg5023zwft8t7k639ctqfhce
+- pat_01kg5023zwft8t7k63bfadqqwg
+- pat_01kg50240wfjh98jqx34wdddnm
+- pat_01kg5023xaemr9xsmd0fgaxe86
+- pat_01kg5023yneg8rmv1200tvfn3g
+- pat_01kg5023yneg8rmv122d6v7bg5
+- pat_01kg5023xaemr9xsmcy13gf405
+- pat_01kg5023xaemr9xsmcxd0eg8ek
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://less.works/
+- https://www.atlassian.com/agile/agile-at-scale/less
+- https://less.works/case-studies/john-deere
+- https://www.amazon.com/Large-Scale-Scrum-More-Addison-Wesley-Signature/dp/0321985710
+- https://www.amazon.com/Practices-Scaling-Lean-Agile-Development/dp/0321636406
+- https://www.mdpi.com/2227-9709/9/1/20
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

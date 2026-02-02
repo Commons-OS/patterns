@@ -11,7 +11,8 @@ modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: operations
-  category: methodology
+  category:
+  - methodology
   era:
   - industrial
   - cognitive
@@ -19,7 +20,10 @@ classification:
   - academic
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []

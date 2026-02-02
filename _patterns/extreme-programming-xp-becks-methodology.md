@@ -4,25 +4,50 @@ page_url: https://commons-os.github.io/patterns/extreme-programming-xp-becks-met
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/extreme-programming-xp-becks-methodology.md
 slug: extreme-programming-xp-becks-methodology
 title: Extreme Programming (XP) - Beck's Methodology
-aliases: [XP]
+aliases:
+- XP
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: meta
-  category: [methodology]
-  era: [digital]
-  origin: [kent-beck, chrysler-c3-project]
+  category:
+  - methodology
+  era:
+  - digital
+  origin:
+  - kent-beck
+  - chrysler-c3-project
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg5023w3fmhsjawrdrgjrrxn"]
+  commons_domain:
+  - business
+  - startup
+generalizes_from:
+- pat_01kg5023w3fmhsjawrdrgjrrxn
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023ydftgramg3qp7rjkam", "pat_01kg5023zwft8t7k635h086kyj", "pat_01kg5023ypf08rv1dagnb27bjj", "pat_01kg5023vwe00rptkqr3z6pkd9", "pat_01kg5023ypf08rv1dafrvtxwdr", "pat_01kg5023zbftgswm71hgn15e2f", "pat_01kg5023y7e50rxp3ew60jdasx", "pat_01kg5023ztenhrk74hc9a8qszj", "pat_01kg5023zwft8t7k639ctqfhce", "pat_01kg5023zwft8t7k63bfadqqwg", "pat_01kg5023xaemr9xsmd0fgaxe86", "pat_01kg5023yneg8rmv1200tvfn3g", "pat_01kg5023yneg8rmv122d6v7bg5", "pat_01kg5023xaemr9xsmcy13gf405", "pat_01kg5023xaemr9xsmcxd0eg8ek"]
-contributors: [higgerix, cloudsters]
+related:
+- pat_01kg5023ydftgramg3qp7rjkam
+- pat_01kg5023zwft8t7k635h086kyj
+- pat_01kg5023ypf08rv1dagnb27bjj
+- pat_01kg5023vwe00rptkqr3z6pkd9
+- pat_01kg5023ypf08rv1dafrvtxwdr
+- pat_01kg5023zbftgswm71hgn15e2f
+- pat_01kg5023y7e50rxp3ew60jdasx
+- pat_01kg5023ztenhrk74hc9a8qszj
+- pat_01kg5023zwft8t7k639ctqfhce
+- pat_01kg5023zwft8t7k63bfadqqwg
+- pat_01kg5023xaemr9xsmd0fgaxe86
+- pat_01kg5023yneg8rmv1200tvfn3g
+- pat_01kg5023yneg8rmv122d6v7bg5
+- pat_01kg5023xaemr9xsmcy13gf405
+- pat_01kg5023xaemr9xsmcxd0eg8ek
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

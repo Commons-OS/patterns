@@ -6,29 +6,39 @@ slug: keynesian-economics
 title: Keynesian Economics
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, principle]
-  era: [industrial, cognitive]
-  origin: ["John Maynard Keynes"]
+  category:
+  - framework
+  - principle
+  era:
+  - industrial
+  - cognitive
+  origin:
+  - John Maynard Keynes
   status: draft
   commons_alignment: 2
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
-specializes_to: ["pat_01kg5023zpf9s89sx1vq3rcpc2"]
+specializes_to:
+- pat_01kg5023zpf9s89sx1vq3rcpc2
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://www.imf.org/external/pubs/ft/fandd/2014/09/basics.htm
-  - https://www.investopedia.com/terms/k/keynesianeconomics.asp
-  - https://en.wikipedia.org/wiki/Keynesian_economics
-  - https://www.economicshelp.org/blog/glossary/criticism-keynesianism/
-  - https://www.econstor.eu/bitstream/10419/206675/1/1040822916.pdf
+- https://www.imf.org/external/pubs/ft/fandd/2014/09/basics.htm
+- https://www.investopedia.com/terms/k/keynesianeconomics.asp
+- https://en.wikipedia.org/wiki/Keynesian_economics
+- https://www.economicshelp.org/blog/glossary/criticism-keynesianism/
+- https://www.econstor.eu/bitstream/10419/206675/1/1040822916.pdf
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

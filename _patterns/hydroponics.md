@@ -6,29 +6,36 @@ slug: hydroponics
 title: Hydroponics
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, methodology]
-  era: [cognitive]
+  category:
+  - framework
+  - methodology
+  era:
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/innovation-in-a-crisis-why-it-is-more-critical-than-ever
-  - https://www.lean.org/whats-lean/
-  - https://www.stateofagile.com/
-  - https://www.researchgate.net/publication/200001359_Hydro_Power_Plant_-_Metaphor_for_Innovation_Culture
-  - https://www.weforum.org/stories/2019/02/hydroponics-future-of-farming/
+- https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/innovation-in-a-crisis-why-it-is-more-critical-than-ever
+- https://www.lean.org/whats-lean/
+- https://www.stateofagile.com/
+- https://www.researchgate.net/publication/200001359_Hydro_Power_Plant_-_Metaphor_for_Innovation_Culture
+- https://www.weforum.org/stories/2019/02/hydroponics-future-of-farming/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

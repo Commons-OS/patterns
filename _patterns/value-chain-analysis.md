@@ -6,33 +6,39 @@ slug: value-chain-analysis
 title: Value Chain Analysis
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: technology
-  category: [framework]
-  era: [digital]
+  category:
+  - framework
+  era:
+  - digital
   origin: []
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
-specializes_to: ["pat_01kg5023w9f70agabwh58wpeba"]
+specializes_to:
+- pat_01kg5023w9f70agabwh58wpeba
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [
-  "https://online.hbs.edu/blog/post/what-is-value-chain-analysis",
-  "https://quantive.com/resources/articles/value-chain-analysis",
-  "https://www.investopedia.com/terms/v/valuechain.asp",
-  "https://www.ifm.eng.cam.ac.uk/research/dstools/value-chain-/",
-  "https://www.gsb.stanford.edu/faculty-research/publications/value-chain-innovation-promise-ai",
-  "https://kpmg.com/kpmg-us/content/dam/kpmg/pdf/2025/how-will-generative-ai-affect-value-chains-and-transfer-pricing-111725.pdf",
-  "https://www.mckinsey.com/capabilities/quantumblack/our-insights/exploring-opportunities-in-the-generative-ai-value-chain",
-  "https://www.bloomberg.com/professional/insights/artificial-intelligence/the-ai-value-chain-understanding-the-engines-of-growth/"
-]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://online.hbs.edu/blog/post/what-is-value-chain-analysis
+- https://quantive.com/resources/articles/value-chain-analysis
+- https://www.investopedia.com/terms/v/valuechain.asp
+- https://www.ifm.eng.cam.ac.uk/research/dstools/value-chain-/
+- https://www.gsb.stanford.edu/faculty-research/publications/value-chain-innovation-promise-ai
+- https://kpmg.com/kpmg-us/content/dam/kpmg/pdf/2025/how-will-generative-ai-affect-value-chains-and-transfer-pricing-111725.pdf
+- https://www.mckinsey.com/capabilities/quantumblack/our-insights/exploring-opportunities-in-the-generative-ai-value-chain
+- https://www.bloomberg.com/professional/insights/artificial-intelligence/the-ai-value-chain-understanding-the-engines-of-growth/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

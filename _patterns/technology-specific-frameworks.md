@@ -6,24 +6,37 @@ slug: technology-specific-frameworks
 title: Technology-Specific Frameworks
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: technology
-  category: [framework]
-  era: [digital]
-  origin: [software-engineering]
+  category:
+  - framework
+  era:
+  - digital
+  origin:
+  - software-engineering
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.toptal.com/developers/ruby-on-rails/after-two-decades-of-programming-i-use-rails, https://en.wikipedia.org/wiki/Software_framework, https://www.tmasolutions.com/insights/software-development-frameworks, https://refactoring.guru/design-patterns/book, https://www.3pillarglobal.com/insights/blog/key-decision-criteria-for-selecting-a-development-framework/]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.toptal.com/developers/ruby-on-rails/after-two-decades-of-programming-i-use-rails
+- https://en.wikipedia.org/wiki/Software_framework
+- https://www.tmasolutions.com/insights/software-development-frameworks
+- https://refactoring.guru/design-patterns/book
+- https://www.3pillarglobal.com/insights/blog/key-decision-criteria-for-selecting-a-development-framework/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

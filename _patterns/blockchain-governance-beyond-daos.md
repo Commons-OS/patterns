@@ -4,31 +4,59 @@ page_url: https://commons-os.github.io/patterns/blockchain-governance-beyond-dao
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/blockchain-governance-beyond-daos.md
 slug: blockchain-governance-beyond-daos
 title: Blockchain Governance (Beyond Daos)
-aliases: ["Decentralized Governance", "Hybrid Governance Models", "Post-DAO Governance"]
+aliases:
+- Decentralized Governance
+- Hybrid Governance Models
+- Post-DAO Governance
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: technology
-  category: meta-pattern
-  era: [digital, cognitive]
-  origin: [academic, practitioner]
+  category:
+  - meta-pattern
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - practitioner
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023xne3gs3g227jcvch6k", "pat_01kg5023x4easr02ymp7vsz81b", "pat_01kg5023y5fnhb2ej6755c58p1", "pat_01kg50240sfm8re6ep2sz2xmy5", "pat_01kg502406fvs8fk48aj53tjrb", "pat_01kg5023vwe00rptkqr3z6pkd9", "pat_01kg5023y4e708zavzfmvmx4yp", "pat_01kg50240fev1snyp2ytvn21xm", "pat_01kg50240rf3s9mqrqw0pp5mwn", "pat_01kg5023x3f8gtc1a31gws6jj3", "pat_01kg5023y7e50rxp3f3j4xbqr5", "pat_01kg5023zxf81byjg3fet1ca9a", "pat_01kg502400fggs2ayqhzxk982m", "pat_01kg50240me98tfa0yyh6z7xv6", "pat_01kg5023y8e9ssb52a5snc91pm"]
-contributors: [higgerix, cloudsters]
+related:
+- pat_01kg5023xne3gs3g227jcvch6k
+- pat_01kg5023x4easr02ymp7vsz81b
+- pat_01kg5023y5fnhb2ej6755c58p1
+- pat_01kg50240sfm8re6ep2sz2xmy5
+- pat_01kg502406fvs8fk48aj53tjrb
+- pat_01kg5023vwe00rptkqr3z6pkd9
+- pat_01kg5023y4e708zavzfmvmx4yp
+- pat_01kg50240fev1snyp2ytvn21xm
+- pat_01kg50240rf3s9mqrqw0pp5mwn
+- pat_01kg5023x3f8gtc1a31gws6jj3
+- pat_01kg5023y7e50rxp3f3j4xbqr5
+- pat_01kg5023zxf81byjg3fet1ca9a
+- pat_01kg502400fggs2ayqhzxk982m
+- pat_01kg50240me98tfa0yyh6z7xv6
+- pat_01kg5023y8e9ssb52a5snc91pm
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://www.hypercycle.ai/articles-beyond-daos-ai-powered-governance-models-for-a-decentralized-future
-  - https://www.investopedia.com/terms/o/onchain-governance.asp
-  - https://arxiv.org/pdf/2110.13374.pdf
-  - https://www.kava.io/news/blockchain-governance-efficient-execution-through-foundations
-  - https://www.weforum.org/stories/2025/02/digital-commons-blockchain-governance/
+- https://www.hypercycle.ai/articles-beyond-daos-ai-powered-governance-models-for-a-decentralized-future
+- https://www.investopedia.com/terms/o/onchain-governance.asp
+- https://arxiv.org/pdf/2110.13374.pdf
+- https://www.kava.io/news/blockchain-governance-efficient-execution-through-foundations
+- https://www.weforum.org/stories/2025/02/digital-commons-blockchain-governance/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

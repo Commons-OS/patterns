@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/site-reliability-engineering-sre
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/site-reliability-engineering-sre-googles-approach.md
 slug: site-reliability-engineering-sre-googles-approach
 title: Site Reliability Engineering (SRE) - Google's Approach
-aliases: [Site Reliability Management]
+aliases:
+- Site Reliability Management
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: methodology
-  era: [digital]
-  origin: [google]
+  category:
+  - methodology
+  era:
+  - digital
+  origin:
+  - google
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg5023x5fprarvy4w4fqephv", "pat_01kg5023zzecsb265cgdd20fs7", "pat_01kg5023zseyh85cxgrhc3qpbm"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023x5fprarvy4w4fqephv
+- pat_01kg5023zzecsb265cgdd20fs7
+- pat_01kg5023zseyh85cxgrhc3qpbm
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://sre.google/, https://sre.google/sre-book/part-II-principles/, https://www.oreilly.com/library/view/site-reliability-engineering/9781491929117/, https://firehydrant.com/blog/sre-principles/, https://www.atlassian.com/incident-management/kpis/sre-metrics]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://sre.google/
+- https://sre.google/sre-book/part-II-principles/
+- https://www.oreilly.com/library/view/site-reliability-engineering/9781491929117/
+- https://firehydrant.com/blog/sre-principles/
+- https://www.atlassian.com/incident-management/kpis/sre-metrics
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/ai-alignment-research/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/ai-alignment-research.md
 slug: ai-alignment-research
 title: AI Alignment Research
-aliases: [AI Safety, AI Control]
+aliases:
+- AI Safety
+- AI Control
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: technology
-  category: [meta-pattern, principle]
-  era: [cognitive]
-  origin: [academic, industry]
+  category:
+  - meta-pattern
+  - principle
+  era:
+  - cognitive
+  origin:
+  - academic
+  - industry
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.ibm.com/think/topics/ai-alignment, https://en.wikipedia.org/wiki/AI_alignment, https://arxiv.org/abs/2310.19852, https://www.anthropic.com/research/agentic-misalignment, https://www.deepmind.com/research/safety-and-ethics]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.ibm.com/think/topics/ai-alignment
+- https://en.wikipedia.org/wiki/AI_alignment
+- https://arxiv.org/abs/2310.19852
+- https://www.anthropic.com/research/agentic-misalignment
+- https://www.deepmind.com/research/safety-and-ethics
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

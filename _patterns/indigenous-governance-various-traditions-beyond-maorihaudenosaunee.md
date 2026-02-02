@@ -6,23 +6,47 @@ slug: indigenous-governance-various-traditions-beyond-maorihaudenosaunee
 title: Indigenous Governance (various traditions beyond Maori/Haudenosaunee)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: governance
-  category: [framework, principle]
-  era: [cognitive]
+  category:
+  - framework
+  - principle
+  era:
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 5
-commons_domain: business
-generalizes_from: ["pat_01kg5023zde79btwvkq4xrqm6c"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023zde79btwvkq4xrqm6c
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023xne3gs3g227jcvch6k", "pat_01kg5023x4easr02ymp7vsz81b", "pat_01kg50240sfm8re6ep2sz2xmy5", "pat_01kg5023xzf31b0j5p33g3mb95", "pat_01kg50240rf3s9mqrqzp0c8t14", "pat_01kg50240ef0s85r2hx5nbfb92", "pat_01kg50240fev1snyp2ytvn21xm", "pat_01kg502402e8s98e5wnmbwpntc", "pat_01kg5023vxetrvj5eeq840z709", "pat_01kg5023zseyh85cxgk2pk7nfa", "pat_01kg5023x9fprav2bygmryd6br", "pat_01kg5023xef1s9wh99ya5936c8", "pat_01kg5023whehgsjwtbrb92n8n3", "pat_01kg5023xqet0abagjfk9c2b4m", "pat_01kg5023zde79btwvkq4xrqm6c"]
-contributors: [higgerix, cloudsters]
+related:
+- pat_01kg5023xne3gs3g227jcvch6k
+- pat_01kg5023x4easr02ymp7vsz81b
+- pat_01kg50240sfm8re6ep2sz2xmy5
+- pat_01kg5023xzf31b0j5p33g3mb95
+- pat_01kg50240rf3s9mqrqzp0c8t14
+- pat_01kg50240ef0s85r2hx5nbfb92
+- pat_01kg50240fev1snyp2ytvn21xm
+- pat_01kg502402e8s98e5wnmbwpntc
+- pat_01kg5023vxetrvj5eeq840z709
+- pat_01kg5023zseyh85cxgk2pk7nfa
+- pat_01kg5023x9fprav2bygmryd6br
+- pat_01kg5023xef1s9wh99ya5936c8
+- pat_01kg5023whehgsjwtbrb92n8n3
+- pat_01kg5023xqet0abagjfk9c2b4m
+- pat_01kg5023zde79btwvkq4xrqm6c
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

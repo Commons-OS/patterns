@@ -4,26 +4,41 @@ page_url: https://commons-os.github.io/patterns/food-sovereignty/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/food-sovereignty.md
 slug: food-sovereignty
 title: Food Sovereignty
-aliases: ["Peoples' Food Sovereignty"]
+aliases:
+- Peoples' Food Sovereignty
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [agricultural, cognitive]
-  origin: ["La Vía Campesina"]
+  category:
+  - framework
+  era:
+  - agricultural
+  - cognitive
+  origin:
+  - La Vía Campesina
   status: draft
   commons_alignment: 5
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.sciencedirect.com/science/article/pii/S2590332223001975", "https://en.wikipedia.org/wiki/Food_sovereignty", "https://nyeleni.org/spip.php?article290", "https://usfoodsovereigntyalliance.org/what-is-food-sovereignty/", "https://climatejusticealliance.org/workgroup/food-sovereignty/"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.sciencedirect.com/science/article/pii/S2590332223001975
+- https://en.wikipedia.org/wiki/Food_sovereignty
+- https://nyeleni.org/spip.php?article290
+- https://usfoodsovereigntyalliance.org/what-is-food-sovereignty/
+- https://climatejusticealliance.org/workgroup/food-sovereignty/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

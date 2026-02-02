@@ -1,16 +1,22 @@
 ---
 id: pat_c560c7a7780c467c9276674e
-title: "Hire for Culture Add"
+title: Hire for Culture Add
 slug: hire-for-culture-add
 aliases: []
 classification:
   universality: domain
   domain: startup
-  category: [team]
-  era: [cognitive]
-  origin: [startup-ecosystem]
+  category:
+  - team
+  era:
+  - cognitive
+  origin:
+  - startup-ecosystem
   status: draft
   commons_alignment: 4
+  commons_domain:
+  - startup
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
@@ -20,17 +26,16 @@ confidence_score: 0.7
 sources: []
 version: 1.0.0
 last_updated: 2026-02-01
-page_url: "https://commons-os.github.io/patterns/hire-for-culture-add/"
-github_url: "https://github.com/Commons-OS/patterns/blob/main/_patterns/hire-for-culture-add.md"
+page_url: https://commons-os.github.io/patterns/hire-for-culture-add/
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/hire-for-culture-add.md
 created: 2026-02-01
 modified: 2026-02-01
-commons_domain: startup
 contributors:
-  - name: "Commons OS"
-    role: author
-license: "CC-BY-SA-4.0"
-attribution: "Commons OS Pattern Library"
-repository: "https://github.com/Commons-OS/patterns"
+- name: Commons OS
+  role: author
+license: CC-BY-SA-4.0
+attribution: Commons OS Pattern Library
+repository: https://github.com/Commons-OS/patterns
 ---
 
 ### 1. Overview

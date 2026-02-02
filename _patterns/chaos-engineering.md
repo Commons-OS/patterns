@@ -4,26 +4,40 @@ page_url: https://commons-os.github.io/patterns/chaos-engineering/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/chaos-engineering.md
 slug: chaos-engineering
 title: Chaos Engineering
-aliases: [Resilience Engineering, Failure Injection Testing]
+aliases:
+- Resilience Engineering
+- Failure Injection Testing
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [practice]
-  era: [digital]
-  origin: [netflix]
+  category:
+  - practice
+  era:
+  - digital
+  origin:
+  - netflix
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.ibm.com/think/topics/chaos-engineering, https://en.wikipedia.org/wiki/Chaos_engineering, https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice, https://steadybit.com/case-studies/, https://aws.amazon.com/blogs/publicsector/chaos-engineering-made-clear-generate-aws-fis-experiments-using-natural-language-through-amazon-bedrock/]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.ibm.com/think/topics/chaos-engineering
+- https://en.wikipedia.org/wiki/Chaos_engineering
+- https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice
+- https://steadybit.com/case-studies/
+- https://aws.amazon.com/blogs/publicsector/chaos-engineering-made-clear-generate-aws-fis-experiments-using-natural-language-through-amazon-bedrock/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

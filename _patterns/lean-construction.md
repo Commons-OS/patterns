@@ -4,31 +4,57 @@ page_url: https://commons-os.github.io/patterns/lean-construction/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/lean-construction.md
 slug: lean-construction
 title: Lean Construction
-aliases: [Lean Project Delivery]
+aliases:
+- Lean Project Delivery
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [methodology, framework]
-  era: [industrial, digital]
-  origin: [toyota, academic]
+  category:
+  - methodology
+  - framework
+  era:
+  - industrial
+  - digital
+  origin:
+  - toyota
+  - academic
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023z9e988phvxv2ywhcrd", "pat_01kg50240pfa89r4q24ctm0q0w", "pat_01kg502407eyh8wbym4fzzr7et", "pat_01kg5023zae8rthxw686kx5x4k", "pat_01kg5023vyfzhvteh04eykysqz", "pat_01kg5023x6ecsvs4r50r92ggad", "pat_01kg5023vmfk9bnr9pzvxb1j3z", "pat_01kg5023zcf99tjg7qba44c2j7", "pat_01kg5023zbftgswm71sjjf53xx", "pat_01kg5023wbfw1azjwp99gcgcrn", "pat_01kg5023zcf99tjg7qgdbhqfkm", "pat_01kg5023w1f29v6bdxpahq6a1m", "pat_01kg50240bf4ra2qcwx56j5qk8", "pat_01kg5023vke6gsrh5cyb1wbkte", "pat_01kg5023yweb8r88nxjsysr1hq"]
-contributors: [higgerix, cloudsters]
-sources: 
-  - https://en.wikipedia.org/wiki/Lean_construction
-  - https://leanconstruction.org/lean-topics/lean-construction/
-  - https://www.procore.com/library/lean-construction
-  - https://leanconstructionblog.com/A-Practitioner%E2%80%99s-Reflections-on-Lean-Transformation.html
-  - https://www.arch.tamu.edu/news/2025/06/17/the-principles-of-lean-construction-enhancing-productivity-and-quality/
+related:
+- pat_01kg5023z9e988phvxv2ywhcrd
+- pat_01kg50240pfa89r4q24ctm0q0w
+- pat_01kg502407eyh8wbym4fzzr7et
+- pat_01kg5023zae8rthxw686kx5x4k
+- pat_01kg5023vyfzhvteh04eykysqz
+- pat_01kg5023x6ecsvs4r50r92ggad
+- pat_01kg5023vmfk9bnr9pzvxb1j3z
+- pat_01kg5023zcf99tjg7qba44c2j7
+- pat_01kg5023zbftgswm71sjjf53xx
+- pat_01kg5023wbfw1azjwp99gcgcrn
+- pat_01kg5023zcf99tjg7qgdbhqfkm
+- pat_01kg5023w1f29v6bdxpahq6a1m
+- pat_01kg50240bf4ra2qcwx56j5qk8
+- pat_01kg5023vke6gsrh5cyb1wbkte
+- pat_01kg5023yweb8r88nxjsysr1hq
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Lean_construction
+- https://leanconstruction.org/lean-topics/lean-construction/
+- https://www.procore.com/library/lean-construction
+- https://leanconstructionblog.com/A-Practitioner%E2%80%99s-Reflections-on-Lean-Transformation.html
+- https://www.arch.tamu.edu/news/2025/06/17/the-principles-of-lean-construction-enhancing-productivity-and-quality/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

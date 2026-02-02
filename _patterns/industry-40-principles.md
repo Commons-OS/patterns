@@ -6,23 +6,33 @@ slug: industry-40-principles
 title: Industry 4.0 Principles
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: context-specific
   domain: meta
-  category: [principle, meta-pattern]
-  era: [digital, cognitive]
+  category:
+  - principle
+  - meta-pattern
+  era:
+  - digital
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 3
-commons_domain: business
-generalizes_from: ["pat_01kg50240gfv9r5nq1df7rt5e3"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg50240gfv9r5nq1df7rt5e3
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

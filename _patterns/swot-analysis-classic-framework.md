@@ -4,26 +4,42 @@ page_url: https://commons-os.github.io/patterns/swot-analysis-classic-framework/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/swot-analysis-classic-framework.md
 slug: swot-analysis-classic-framework
 title: SWOT Analysis - Classic Framework
-aliases: [SOFT Analysis]
+aliases:
+- SOFT Analysis
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: meta
-  category: [framework]
-  era: [industrial, digital]
-  origin: [Stanford Research Institute]
+  category:
+  - framework
+  era:
+  - industrial
+  - digital
+  origin:
+  - Stanford Research Institute
   status: draft
   commons_alignment: 2
-commons_domain: business
-generalizes_from: ["pat_01kg5023w7f0htcqtrv6h89qa8"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023w7f0htcqtrv6h89qa8
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.investopedia.com/terms/s/swot.asp", "https://www.sciencedirect.com/science/article/pii/S0024630123000110", "https://bschool.pepperdine.edu/personal-growth/article/best-practices-for-successful-swot-analysis.htm", "https://asana.com/resources/swot-analysis", "https://online.visual-paradigm.com/knowledge/swot-analysis/swot-analysis-case-studies/"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.investopedia.com/terms/s/swot.asp
+- https://www.sciencedirect.com/science/article/pii/S0024630123000110
+- https://bschool.pepperdine.edu/personal-growth/article/best-practices-for-successful-swot-analysis.htm
+- https://asana.com/resources/swot-analysis
+- https://online.visual-paradigm.com/knowledge/swot-analysis/swot-analysis-case-studies/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

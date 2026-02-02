@@ -4,26 +4,41 @@ page_url: https://commons-os.github.io/patterns/scale-up-methodology/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/scale-up-methodology.md
 slug: scale-up-methodology
 title: Scale-Up Methodology
-aliases: [Scaling Up]
+aliases:
+- Scaling Up
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: meta
-  category: [methodology]
-  era: [digital]
-  origin: [Verne Harnish]
+  category:
+  - methodology
+  era:
+  - digital
+  origin:
+  - Verne Harnish
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://scalingup.com/", "https://scaleupmethodology.com/", "https://blog.growthinstitute.com/11-questions-scaling-up-methodology-verne", "Harnish, V. (2014). Scaling Up: How a Few Companies Make It...and Why the Rest Don't (Rockefeller Habits 2.0). Gazelles Inc.", "Harnish, V. (2002). Mastering the Rockefeller Habits: What You Must Do to Increase the Value of Your Fast-Growth Firm. Gazelles Inc."]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://scalingup.com/
+- https://scaleupmethodology.com/
+- https://blog.growthinstitute.com/11-questions-scaling-up-methodology-verne
+- 'Harnish, V. (2014). Scaling Up: How a Few Companies Make It...and Why the Rest
+  Don''t (Rockefeller Habits 2.0). Gazelles Inc.'
+- 'Harnish, V. (2002). Mastering the Rockefeller Habits: What You Must Do to Increase
+  the Value of Your Fast-Growth Firm. Gazelles Inc.'
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

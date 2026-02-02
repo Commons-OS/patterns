@@ -22,7 +22,9 @@ classification:
   - toyota-production-system
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from:
 - pat_01kg5023zzecsb265cp79x0gvh
 - pat_01kg5023vyfzhvteh02a487gvh

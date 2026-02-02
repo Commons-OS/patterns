@@ -4,25 +4,38 @@ page_url: https://commons-os.github.io/patterns/platform-engineering-internal-de
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/platform-engineering-internal-developer-platforms.md
 slug: platform-engineering-internal-developer-platforms
 title: Platform Engineering - Internal Developer Platforms
-aliases: [Internal Developer Platform, IDP]
+aliases:
+- Internal Developer Platform
+- IDP
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [practice]
-  era: [digital]
-  origin: [google, spotify, netflix]
+  category:
+  - practice
+  era:
+  - digital
+  origin:
+  - google
+  - spotify
+  - netflix
   status: draft
   commons_alignment: 3
-commons_domain: business
-generalizes_from: ["pat_01kg5023vzfs093ryk8ek6spvb"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023vzfs093ryk8ek6spvb
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

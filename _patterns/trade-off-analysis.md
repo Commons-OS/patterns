@@ -6,24 +6,37 @@ slug: trade-off-analysis
 title: Trade-Off Analysis
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [methodology, practice]
-  era: [industrial, digital]
+  category:
+  - methodology
+  - practice
+  era:
+  - industrial
+  - digital
   origin: []
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.dau.edu/acquipedia-article/trade-analysis", "https://www.sciencedirect.com/topics/computer-science/tradeoff-analysis", "https://www.alooba.com/skills/cognitive-abilities/roadmapping-and-prioritization-474/trade-off-analysis/", "https://www.intuit.com/enterprise/blog/strategy/trade-off-vs-opportunity-cost/", "https://www.1000minds.com/articles/what-are-trade-offs"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.dau.edu/acquipedia-article/trade-analysis
+- https://www.sciencedirect.com/topics/computer-science/tradeoff-analysis
+- https://www.alooba.com/skills/cognitive-abilities/roadmapping-and-prioritization-474/trade-off-analysis/
+- https://www.intuit.com/enterprise/blog/strategy/trade-off-vs-opportunity-cost/
+- https://www.1000minds.com/articles/what-are-trade-offs
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -11,7 +11,8 @@ modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: meta-pattern
+  category:
+  - meta-pattern
   era:
   - industrial
   - digital
@@ -19,7 +20,9 @@ classification:
   - south-korea
   status: draft
   commons_alignment: 2
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []

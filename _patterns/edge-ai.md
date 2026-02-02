@@ -6,24 +6,45 @@ slug: edge-ai
 title: Edge AI
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: technology
-  category: [framework, methodology, practice]
-  era: [digital, cognitive]
+  category:
+  - framework
+  - methodology
+  - practice
+  era:
+  - digital
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.ibm.com/think/topics/edge-ai", "https://blogs.nvidia.com/blog/what-is-edge-ai/", "https://www.wevolver.com/article/what-is-edge-ai", "https://dac.digital/edge-ai-best-practices/", "https://developer.nvidia.com/blog/steps-to-getting-started-with-edge-ai/", "https://www.fortunebusinessinsights.com/edge-ai-market-107023", "https://www.precedenceresearch.com/edge-ai-market", "https://blog.purestorage.com/purely-educational/how-edge-ai-can-revolutionize-industries-with-on-device-intelligence/", "https://arxiv.org/abs/2501.03265", "https://www.dell.com/en-us/blog/the-future-of-ai-is-on-the-edge/", "https://www.cio.com/article/4052223/neuromorphic-computing-and-the-future-of-edge-ai.html"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.ibm.com/think/topics/edge-ai
+- https://blogs.nvidia.com/blog/what-is-edge-ai/
+- https://www.wevolver.com/article/what-is-edge-ai
+- https://dac.digital/edge-ai-best-practices/
+- https://developer.nvidia.com/blog/steps-to-getting-started-with-edge-ai/
+- https://www.fortunebusinessinsights.com/edge-ai-market-107023
+- https://www.precedenceresearch.com/edge-ai-market
+- https://blog.purestorage.com/purely-educational/how-edge-ai-can-revolutionize-industries-with-on-device-intelligence/
+- https://arxiv.org/abs/2501.03265
+- https://www.dell.com/en-us/blog/the-future-of-ai-is-on-the-edge/
+- https://www.cio.com/article/4052223/neuromorphic-computing-and-the-future-of-edge-ai.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

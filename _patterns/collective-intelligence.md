@@ -6,35 +6,47 @@ slug: collective-intelligence
 title: Collective Intelligence
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, methodology, practice]
-  era: [digital, cognitive]
-  origin: [academia, business]
+  category:
+  - framework
+  - methodology
+  - practice
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academia
+  - business
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://en.wikipedia.org/wiki/Collective_intelligence
-  - https://sloanreview.mit.edu/article/five-principles-for-organizing-collective-intelligence/
-  - https://smarter-together.org/theory-key-principles-collective-intelligence-democracy/
-  - https://www.science.org/doi/10.1126/science.1193147
-  - https://www.goodreads.com/book/show/692.The_Wisdom_of_Crowds
-  - https://www.goodreads.com/book/show/34467365-big-mind
-  - https://www.goodreads.com/book/show/1359.Collective_Intelligence
-  - https://www.goodreads.com/book/show/102322.Wikinomics
-  - https://www.nesta.org.uk/project/centre-collective-intelligence-design/
-  - https://thegovlab.org/
-  - https://cci.mit.edu/
+- https://en.wikipedia.org/wiki/Collective_intelligence
+- https://sloanreview.mit.edu/article/five-principles-for-organizing-collective-intelligence/
+- https://smarter-together.org/theory-key-principles-collective-intelligence-democracy/
+- https://www.science.org/doi/10.1126/science.1193147
+- https://www.goodreads.com/book/show/692.The_Wisdom_of_Crowds
+- https://www.goodreads.com/book/show/34467365-big-mind
+- https://www.goodreads.com/book/show/1359.Collective_Intelligence
+- https://www.goodreads.com/book/show/102322.Wikinomics
+- https://www.nesta.org.uk/project/centre-collective-intelligence-design/
+- https://thegovlab.org/
+- https://cci.mit.edu/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

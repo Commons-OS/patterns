@@ -4,26 +4,45 @@ page_url: https://commons-os.github.io/patterns/service-design-thinking/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/service-design-thinking.md
 slug: service-design-thinking
 title: Service Design Thinking
-aliases: [Service Design]
+aliases:
+- Service Design
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [methodology]
-  era: [digital]
-  origin: [academic, design-practice]
+  category:
+  - methodology
+  era:
+  - digital
+  origin:
+  - academic
+  - design-practice
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg5023ycep88v76yzaxenmq1"]
+  commons_domain:
+  - business
+  - startup
+generalizes_from:
+- pat_01kg5023ycep88v76yzaxenmq1
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023ycep88v76yzaxenmq1", "pat_01kg5023z2fdra8j4sg5vfng9m", "pat_01kg5023zketsrxaxybhtsxefb"]
-contributors: [higgerix, cloudsters]
-sources: [https://www.interaction-design.org/literature/article/the-principles-of-service-design-thinking-building-better-services, https://www.renascence.io/journal/the-history-of-service-design-evolution-and-impact-on-modern-business, https://www.thisisservicedesigndoing.com/methods, https://www.service-design-network.org/case-studies, https://triangility.com/service-design-thinking-optimization-of-services/, https://online.hbs.edu/blog/post/design-thinking-examples]
+related:
+- pat_01kg5023ycep88v76yzaxenmq1
+- pat_01kg5023z2fdra8j4sg5vfng9m
+- pat_01kg5023zketsrxaxybhtsxefb
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.interaction-design.org/literature/article/the-principles-of-service-design-thinking-building-better-services
+- https://www.renascence.io/journal/the-history-of-service-design-evolution-and-impact-on-modern-business
+- https://www.thisisservicedesigndoing.com/methods
+- https://www.service-design-network.org/case-studies
+- https://triangility.com/service-design-thinking-optimization-of-services/
+- https://online.hbs.edu/blog/post/design-thinking-examples
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -4,26 +4,40 @@ page_url: https://commons-os.github.io/patterns/cash-flow-management/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/cash-flow-management.md
 slug: cash-flow-management
 title: Cash Flow Management
-aliases: ["Financial Resilience", "Liquidity Management"]
+aliases:
+- Financial Resilience
+- Liquidity Management
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: practice
+  category:
+  - practice
   era: industrial
-  origin: ["academic", "business"]
+  origin:
+  - academic
+  - business
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.dryrun.com/blog/cash-flow-case-study-poppy-barley", "https://www.netsuite.com/portal/resource/articles/accounting/cash-flow-management.shtml", "https://www.jpmorgan.com/insights/treasury/forecasting-planning/cash-flow-management-and-reporting-guide-for-businesses", "https://pmc.ncbi.nlm.nih.gov/articles/PMC10281586/", "https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=6386&context=dissertations"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.dryrun.com/blog/cash-flow-case-study-poppy-barley
+- https://www.netsuite.com/portal/resource/articles/accounting/cash-flow-management.shtml
+- https://www.jpmorgan.com/insights/treasury/forecasting-planning/cash-flow-management-and-reporting-guide-for-businesses
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC10281586/
+- https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=6386&context=dissertations
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

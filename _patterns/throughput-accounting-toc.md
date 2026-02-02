@@ -22,7 +22,9 @@ classification:
   - Eliyahu M. Goldratt
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to:
 - pat_01kg502406fvs8fk482858k8j7

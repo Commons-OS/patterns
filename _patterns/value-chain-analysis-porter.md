@@ -12,13 +12,16 @@ modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: technology
-  category: framework
+  category:
+  - framework
   era: industrial
   origin:
   - academic
   status: draft
   commons_alignment: 2
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from:
 - pat_01kg50240afth9zmxpfdyc2d4h
 specializes_to: []

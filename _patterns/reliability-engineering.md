@@ -6,23 +6,33 @@ slug: reliability-engineering
 title: Reliability Engineering
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [practice]
-  era: [digital]
+  category:
+  - practice
+  era:
+  - digital
   origin: []
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
-specializes_to: ["pat_01kg5023x5fprarvy4w4fqephv", "pat_01kg5023zzecsb265cgdd20fs7", "pat_01kg5023zzecsb265cfpcw0gmn"]
+specializes_to:
+- pat_01kg5023x5fprarvy4w4fqephv
+- pat_01kg5023zzecsb265cgdd20fs7
+- pat_01kg5023zzecsb265cfpcw0gmn
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/fablab-network-model/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/fablab-network-model.md
 slug: fablab-network-model
 title: FabLab Network Model
-aliases: ["Fab Lab Network", "Fabrication Laboratory Network"]
+aliases:
+- Fab Lab Network
+- Fabrication Laboratory Network
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework, meta-pattern]
-  era: [digital, cognitive]
-  origin: [mit, academic]
+  category:
+  - framework
+  - meta-pattern
+  era:
+  - digital
+  - cognitive
+  origin:
+  - mit
+  - academic
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://fabfoundation.org/global-community/", "https://gsnetworks.org/wp-content/uploads/GSN-The-Fab-Lab-Network-Lighthouse-Case-Study.pdf", "https://news.mit.edu/2023/how-mits-fab-labs-scaled-around-world-0605", "https://www.fablabs.io/", "https://www.researchgate.net/publication/305092105_Fab_Lab_Business_Model"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://fabfoundation.org/global-community/
+- https://gsnetworks.org/wp-content/uploads/GSN-The-Fab-Lab-Network-Lighthouse-Case-Study.pdf
+- https://news.mit.edu/2023/how-mits-fab-labs-scaled-around-world-0605
+- https://www.fablabs.io/
+- https://www.researchgate.net/publication/305092105_Fab_Lab_Business_Model
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

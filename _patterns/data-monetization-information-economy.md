@@ -6,24 +6,35 @@ slug: data-monetization-information-economy
 title: Data Monetization - Information Economy
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: value-creation
-  category: [framework]
-  era: [digital, cognitive]
+  category:
+  - framework
+  era:
+  - digital
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://cisr.mit.edu/publication/2023_0801_DataMonetization_WixomBeathOwens, https://www.snowflake.com/en/fundamentals/data-monitization/, https://mitsloan.mit.edu/ideas-made-to-matter/what-everybody-should-know-about-data-monetization]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://cisr.mit.edu/publication/2023_0801_DataMonetization_WixomBeathOwens
+- https://www.snowflake.com/en/fundamentals/data-monitization/
+- https://mitsloan.mit.edu/ideas-made-to-matter/what-everybody-should-know-about-data-monetization
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

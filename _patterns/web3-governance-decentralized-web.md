@@ -3,26 +3,51 @@ id: pat_01kg50240ef0s85r2hx5nbfb92
 page_url: https://commons-os.github.io/patterns/web3-governance-decentralized-web/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/web3-governance-decentralized-web.md
 slug: web3-governance-decentralized-web
-title: "Web3 Governance: Decentralized Web"
+title: 'Web3 Governance: Decentralized Web'
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: governance
-  category: [framework, methodology]
-  era: [digital, cognitive]
+  category:
+  - framework
+  - methodology
+  era:
+  - digital
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg50240ef0s85r2hyncx1fna"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg50240ef0s85r2hyncx1fna
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023xne3gs3g227jcvch6k", "pat_01kg5023x4easr02ymp7vsz81b", "pat_01kg5023y5fnhb2ej6755c58p1", "pat_01kg50240sfm8re6ep2sz2xmy5", "pat_01kg502406fvs8fk48aj53tjrb", "pat_01kg5023vwe00rptkqr3z6pkd9", "pat_01kg5023y4e708zavzfmvmx4yp", "pat_01kg50240fev1snyp2ytvn21xm", "pat_01kg50240rf3s9mqrqw0pp5mwn", "pat_01kg5023x3f8gtc1a31gws6jj3", "pat_01kg5023y7e50rxp3f3j4xbqr5", "pat_01kg5023zxf81byjg3fet1ca9a", "pat_01kg502400fggs2ayqhzxk982m", "pat_01kg50240me98tfa0yyh6z7xv6", "pat_01kg5023xmek8szp5z3c5dc977"]
-contributors: [higgerix, cloudsters]
+related:
+- pat_01kg5023xne3gs3g227jcvch6k
+- pat_01kg5023x4easr02ymp7vsz81b
+- pat_01kg5023y5fnhb2ej6755c58p1
+- pat_01kg50240sfm8re6ep2sz2xmy5
+- pat_01kg502406fvs8fk48aj53tjrb
+- pat_01kg5023vwe00rptkqr3z6pkd9
+- pat_01kg5023y4e708zavzfmvmx4yp
+- pat_01kg50240fev1snyp2ytvn21xm
+- pat_01kg50240rf3s9mqrqw0pp5mwn
+- pat_01kg5023x3f8gtc1a31gws6jj3
+- pat_01kg5023y7e50rxp3f3j4xbqr5
+- pat_01kg5023zxf81byjg3fet1ca9a
+- pat_01kg502400fggs2ayqhzxk982m
+- pat_01kg50240me98tfa0yyh6z7xv6
+- pat_01kg5023xmek8szp5z3c5dc977
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

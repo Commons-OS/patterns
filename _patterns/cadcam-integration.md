@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/cadcam-integration/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/cadcam-integration.md
 slug: cadcam-integration
 title: CAD/CAM Integration
-aliases: [Integrated CAD/CAM, CAD-CAM Integration]
+aliases:
+- Integrated CAD/CAM
+- CAD-CAM Integration
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [methodology]
-  era: [industrial, digital]
-  origin: [academic, corporate]
+  category:
+  - methodology
+  era:
+  - industrial
+  - digital
+  origin:
+  - academic
+  - corporate
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://camworks.com/what-is-integrated-cad-cam-software/", "https://www.autodesk.com/solutions/cad-cam", "https://encycam.com/articles/cad-cam-explained-a-guide-to-modern-manufacturing-solutions/", "https://cdn.camworks.com/wp-content/uploads/CAMWorks-Tomak-Application-Story.pdf", "https://blogs.sw.siemens.com/thought-leadership/ai-in-cad/"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://camworks.com/what-is-integrated-cad-cam-software/
+- https://www.autodesk.com/solutions/cad-cam
+- https://encycam.com/articles/cad-cam-explained-a-guide-to-modern-manufacturing-solutions/
+- https://cdn.camworks.com/wp-content/uploads/CAMWorks-Tomak-Application-Story.pdf
+- https://blogs.sw.siemens.com/thought-leadership/ai-in-cad/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

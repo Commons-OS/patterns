@@ -6,23 +6,33 @@ slug: human-centered-design
 title: Human-Centered Design
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [methodology, principle]
-  era: [digital]
+  category:
+  - methodology
+  - principle
+  era:
+  - digital
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023ycep88v76yzaxenmq1", "pat_01kg5023zxf81byjg3hz71nf6p", "pat_01kg5023zketsrxaxybhtsxefb"]
-contributors: [higgerix, cloudsters]
+related:
+- pat_01kg5023ycep88v76yzaxenmq1
+- pat_01kg5023zxf81byjg3hz71nf6p
+- pat_01kg5023zketsrxaxybhtsxefb
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

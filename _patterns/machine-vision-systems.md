@@ -13,7 +13,8 @@ modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: culture
-  category: tool
+  category:
+  - tool
   era:
   - industrial
   - digital
@@ -23,7 +24,10 @@ classification:
   - mit
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []

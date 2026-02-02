@@ -6,24 +6,52 @@ slug: regenerative-agriculture-principles-for-products
 title: Regenerative Agriculture Principles for Products
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: sustainability
-  category: [principle]
-  era: [cognitive]
+  category:
+  - principle
+  era:
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg5023zrexhr77rgtmbqtvy9"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023zrexhr77rgtmbqtvy9
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023yzebrbkxpy6w243r3d", "pat_01kg5023wce4htqbxfeemnbwak", "pat_01kg50240rf3s9mqrr284wczhz", "pat_01kg5023xve9saxvbkcrkzc4jy", "pat_01kg50240hf7g93xhgnnqj6kv4", "pat_01kg5023wjfg8tqb1zny1rz16s", "pat_01kg5023zseyh85cxgdc134228", "pat_01kg5023vwe00rptkqw7kkhgah", "pat_01kg5023xve9saxvbke9pt1zne", "pat_01kg5023ygez1924mknd5wrfee", "pat_01kg502403e39rjfypfvwb3ebj", "pat_01kg50240zfdhtkt15ks7vh3qr", "pat_01kg5023zrexhr77rgtmbqtvy9", "pat_01kg5023yyfh08wev9cc23bjjk", "pat_01kg5023wkey887v6x5rk1m7cz"]
-contributors: [higgerix, cloudsters]
-sources: [https://rodaleinstitute.org/blog/original-principles-of-regenerative-agriculture/, https://www.noble.org/regenerative-agriculture/soil/the-fundamental-principles-of-regenerative-agriculture-and-soil-health/, https://medium.com/@alexhoward/building-regenerative-products-bdf3e5a631b9, https://en.wikipedia.org/wiki/Regenerative_design, https://www.interaction-design.org/literature/topics/circular-design]
+related:
+- pat_01kg5023yzebrbkxpy6w243r3d
+- pat_01kg5023wce4htqbxfeemnbwak
+- pat_01kg50240rf3s9mqrr284wczhz
+- pat_01kg5023xve9saxvbkcrkzc4jy
+- pat_01kg50240hf7g93xhgnnqj6kv4
+- pat_01kg5023wjfg8tqb1zny1rz16s
+- pat_01kg5023zseyh85cxgdc134228
+- pat_01kg5023vwe00rptkqw7kkhgah
+- pat_01kg5023xve9saxvbke9pt1zne
+- pat_01kg5023ygez1924mknd5wrfee
+- pat_01kg502403e39rjfypfvwb3ebj
+- pat_01kg50240zfdhtkt15ks7vh3qr
+- pat_01kg5023zrexhr77rgtmbqtvy9
+- pat_01kg5023yyfh08wev9cc23bjjk
+- pat_01kg5023wkey887v6x5rk1m7cz
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://rodaleinstitute.org/blog/original-principles-of-regenerative-agriculture/
+- https://www.noble.org/regenerative-agriculture/soil/the-fundamental-principles-of-regenerative-agriculture-and-soil-health/
+- https://medium.com/@alexhoward/building-regenerative-products-bdf3e5a631b9
+- https://en.wikipedia.org/wiki/Regenerative_design
+- https://www.interaction-design.org/literature/topics/circular-design
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

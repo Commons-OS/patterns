@@ -6,24 +6,36 @@ slug: persona-development
 title: Persona Development
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [methodology]
-  era: [digital]
-  origin: ["Alan Cooper"]
+  category:
+  - methodology
+  era:
+  - digital
+  origin:
+  - Alan Cooper
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them", "https://www.nngroup.com/articles/persona/", "https://www.frontend.com/thinking/using-personas-in-product-design/", "https://www.ipsos.com/en-us/personas-age-ai", "https://www.bostondigital.com/insights/death-persona-how-ai-rendering-personas-obsolete"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them
+- https://www.nngroup.com/articles/persona/
+- https://www.frontend.com/thinking/using-personas-in-product-design/
+- https://www.ipsos.com/en-us/personas-age-ai
+- https://www.bostondigital.com/insights/death-persona-how-ai-rendering-personas-obsolete
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

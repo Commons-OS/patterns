@@ -20,7 +20,10 @@ classification:
   - academic
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from:
 - pat_01kg5023xpf5gvhpapnmwbdmq9
 specializes_to: []

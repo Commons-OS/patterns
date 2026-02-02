@@ -4,25 +4,35 @@ page_url: https://commons-os.github.io/patterns/neural-networks-for-system-ident
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/neural-networks-for-system-identification.md
 slug: neural-networks-for-system-identification
 title: Neural Networks for System Identification
-aliases: [NN for System ID, Black-box modeling with NNs]
+aliases:
+- NN for System ID
+- Black-box modeling with NNs
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: methodology
-  era: [digital, cognitive]
-  origin: [academic]
+  category:
+  - methodology
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

@@ -4,26 +4,44 @@ page_url: https://commons-os.github.io/patterns/system-design/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/system-design.md
 slug: system-design
 title: System Design
-aliases: [Software Design, System Architecture]
+aliases:
+- Software Design
+- System Architecture
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: design
   domain: domain
-  category: framework
-  era: [digital, cognitive]
-  origin: [academic, software-engineering]
+  category:
+  - framework
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - software-engineering
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
-specializes_to: ["pat_01kg5023zxf81byjg3nv4ze0q5"]
+specializes_to:
+- pat_01kg5023zxf81byjg3nv4ze0q5
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.geeksforgeeks.org/system-design/getting-started-with-system-design/, https://swimm.io/learn/system-design/system-design-complete-guide-with-patterns-examples-and-techniques, https://www.geeksforgeeks.org/system-design/design-principles-in-system-design/, https://www.intercom.com/blog/six-principles-of-system-design/, https://www.systemdesignhandbook.com/guides/system-design-principles/]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.geeksforgeeks.org/system-design/getting-started-with-system-design/
+- https://swimm.io/learn/system-design/system-design-complete-guide-with-patterns-examples-and-techniques
+- https://www.geeksforgeeks.org/system-design/design-principles-in-system-design/
+- https://www.intercom.com/blog/six-principles-of-system-design/
+- https://www.systemdesignhandbook.com/guides/system-design-principles/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -13,7 +13,8 @@ modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: culture
-  category: practice
+  category:
+  - practice
   era:
   - industrial
   - digital
@@ -22,7 +23,9 @@ classification:
   - Modern Renewable Energy Movement
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from:
 - pat_01kg5023yje10ty2877frnpbaj
 - pat_01kg5023y0eh0v55ey69tvz0zw

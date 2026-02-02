@@ -6,24 +6,38 @@ slug: predictive-maintenance
 title: Predictive Maintenance
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: technology
-  category: [practice, methodology]
-  era: [digital, cognitive]
+  category:
+  - practice
+  - methodology
+  era:
+  - digital
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www1.eere.energy.gov/femp/pdfs/om_5.pdf, https://www2.deloitte.com/us/en/insights/industry/manufacturing-industrial-products/industry-4-0/using-predictive-technologies-for-asset-maintenance.html, https://www.sciencedirect.com/science/article/pii/S0360835219304838, https://www.sciencedirect.com/science/article/pii/S0360835220305787, https://arxiv.org/abs/1912.07383]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www1.eere.energy.gov/femp/pdfs/om_5.pdf
+- https://www2.deloitte.com/us/en/insights/industry/manufacturing-industrial-products/industry-4-0/using-predictive-technologies-for-asset-maintenance.html
+- https://www.sciencedirect.com/science/article/pii/S0360835219304838
+- https://www.sciencedirect.com/science/article/pii/S0360835220305787
+- https://arxiv.org/abs/1912.07383
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

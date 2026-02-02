@@ -6,29 +6,52 @@ slug: functional-safety-iso-26262
 title: Functional Safety (ISO 26262)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [industrial, digital]
+  category:
+  - framework
+  era:
+  - industrial
+  - digital
   origin: []
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023z4ejgvpxs00h779hk7", "pat_01kg5023x8evg9fk7ax23cbrbn", "pat_01kg5023wjfg8tqb1zqbg7dd8h", "pat_01kg5023xge89s6mx3nbjd0mgg", "pat_01kg5023vyfzhvteh04eykysqz", "pat_01kg5023zrexhr77rgbe4f62ew", "pat_01kg5023vjetsaajnc397n2n2m", "pat_01kg5023vyfzhvteh02a487gvh", "pat_01kg5023z8f6h9wk9sdad8sxxd", "pat_01kg5023x8evg9fk7as5cxmnwk", "pat_01kg5023z3f90bkx13t1xprvjz", "pat_01kg5023zcf99tjg7qgdbhqfkm", "pat_01kg5023zzecsb265cp79x0gvh", "pat_01kg5023ybeqhsr5sn20s4jgvn", "pat_01kg5023yaea8sqyn9hkqb477d"]
-contributors: [higgerix, cloudsters]
+related:
+- pat_01kg5023z4ejgvpxs00h779hk7
+- pat_01kg5023x8evg9fk7ax23cbrbn
+- pat_01kg5023wjfg8tqb1zqbg7dd8h
+- pat_01kg5023xge89s6mx3nbjd0mgg
+- pat_01kg5023vyfzhvteh04eykysqz
+- pat_01kg5023zrexhr77rgbe4f62ew
+- pat_01kg5023vjetsaajnc397n2n2m
+- pat_01kg5023vyfzhvteh02a487gvh
+- pat_01kg5023z8f6h9wk9sdad8sxxd
+- pat_01kg5023x8evg9fk7as5cxmnwk
+- pat_01kg5023z3f90bkx13t1xprvjz
+- pat_01kg5023zcf99tjg7qgdbhqfkm
+- pat_01kg5023zzecsb265cp79x0gvh
+- pat_01kg5023ybeqhsr5sn20s4jgvn
+- pat_01kg5023yaea8sqyn9hkqb477d
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://www.synopsys.com/glossary/what-is-iso-26262.html
-  - https://www.ansys.com/simulation-topics/what-is-iso-26262
-  - https://www.perforce.com/blog/qac/what-is-iso-26262
-  - https://www.iso.org/standard/68385.html
-  - https://www.jamasoftware.com/blog/2019/12/03/the-importance-of-iso-26262-in-automotive-development/
+- https://www.synopsys.com/glossary/what-is-iso-26262.html
+- https://www.ansys.com/simulation-topics/what-is-iso-26262
+- https://www.perforce.com/blog/qac/what-is-iso-26262
+- https://www.iso.org/standard/68385.html
+- https://www.jamasoftware.com/blog/2019/12/03/the-importance-of-iso-26262-in-automotive-development/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

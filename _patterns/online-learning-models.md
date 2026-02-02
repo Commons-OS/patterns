@@ -6,24 +6,40 @@ slug: online-learning-models
 title: Online Learning Models
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: human-universal
   domain: culture
-  category: practice
-  era: [digital, cognitive]
-  origin: [e-learning, machine-learning, corporate-training]
+  category:
+  - practice
+  era:
+  - digital
+  - cognitive
+  origin:
+  - e-learning
+  - machine-learning
+  - corporate-training
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.forbes.com/sites/forbestechcouncil/2022/08/23/the-future-of-corporate-learning-is-online-and-personalized/, https://learning.linkedin.com/elearning-case-studies/siemens, https://novoed.com/2023/02/digital-learning-transformation-how-organizations-evolve-through-online-learning/, https://en.wikipedia.org/wiki/Online_machine_learning, https://www.researchgate.net/publication/361609783_An_Organizational_Model_of_Online_Learning_in_the_Pandemic_Period_Comparison_with_Traditional_Face-to-Face_Learning]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.forbes.com/sites/forbestechcouncil/2022/08/23/the-future-of-corporate-learning-is-online-and-personalized/
+- https://learning.linkedin.com/elearning-case-studies/siemens
+- https://novoed.com/2023/02/digital-learning-transformation-how-organizations-evolve-through-online-learning/
+- https://en.wikipedia.org/wiki/Online_machine_learning
+- https://www.researchgate.net/publication/361609783_An_Organizational_Model_of_Online_Learning_in_the_Pandemic_Period_Comparison_with_Traditional_Face-to-Face_Learning
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

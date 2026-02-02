@@ -8,6 +8,8 @@ This single script generates all required index files from the source patterns:
 - registry.json: TypeID to pattern mapping (used by Jekyll templates)
 
 Run: python3 scripts/build_indexes.py
+
+Updated: 2026-02-02 - Support for multi-value commons_domain arrays (ADR-012)
 """
 
 import json
@@ -61,11 +63,65 @@ def json_serializer(obj: Any) -> Any:
     raise TypeError(f"Object of type {type(obj)} is not JSON serializable")
 
 
+def get_commons_domain(fm: Dict) -> List[str]:
+    """
+    Extract commons_domain from frontmatter.
+    Supports both old format (root-level string) and new format (classification array).
+    Always returns a list.
+    """
+    # New format: inside classification block
+    classification = fm.get('classification', {})
+    if isinstance(classification, dict):
+        domain = classification.get('commons_domain')
+        if domain:
+            if isinstance(domain, list):
+                return domain
+            return [domain]
+    
+    # Old format: root-level
+    domain = fm.get('commons_domain')
+    if domain:
+        if isinstance(domain, list):
+            return domain
+        return [domain]
+    
+    # Fallback
+    return ['business']
+
+
+def get_category(fm: Dict) -> List[str]:
+    """
+    Extract category from frontmatter.
+    Always returns a list.
+    """
+    classification = fm.get('classification', {})
+    if isinstance(classification, dict):
+        cat = classification.get('category')
+        if cat:
+            if isinstance(cat, list):
+                return cat
+            return [cat]
+    return []
+
+
 def extract_relationships(frontmatter: Dict, entity_id: str) -> List[Dict]:
     """Extract relationships from frontmatter."""
     relationships = []
     
-    # Pattern relationships
+    # Direct relationship fields at root level
+    rel_fields = ['generalizes_from', 'specializes_to', 'enables', 'requires', 'related']
+    for rel_type in rel_fields:
+        targets = frontmatter.get(rel_type, [])
+        if isinstance(targets, list):
+            for target in targets:
+                if target and isinstance(target, str) and target.startswith('pat_'):
+                    relationships.append({
+                        'source': entity_id,
+                        'target': target,
+                        'type': rel_type
+                    })
+    
+    # Legacy relationships dict
     rels = frontmatter.get('relationships', {})
     
     # Lighthouse relationships  
@@ -75,7 +131,7 @@ def extract_relationships(frontmatter: Dict, entity_id: str) -> List[Dict]:
     for rel_type, targets in rels.items():
         if isinstance(targets, list):
             for target in targets:
-                if target and isinstance(target, str):
+                if target and isinstance(target, str) and target.startswith('pat_'):
                     relationships.append({
                         'source': entity_id,
                         'target': target,
@@ -91,13 +147,17 @@ def build_search_index(patterns: List[Dict]) -> List[Dict]:
     
     for pattern in patterns:
         fm = pattern['frontmatter']
+        domains = get_commons_domain(fm)
+        categories = get_category(fm)
+        
         search_item = {
             "title": fm.get('title', ''),
             "url": f"/patterns/{fm.get('slug', pattern['slug'])}/",
-            "classification": fm.get('classification', {}).get('keywords', []) if isinstance(fm.get('classification'), dict) else [],
+            "classification": categories,
             "description": (fm.get('summary', '') or '')[:200],
-            "domain": fm.get('commons_domain', fm.get('domain', 'business')),
-            "score": fm.get('confidence_score', 3)
+            "domains": domains,  # Array of domains
+            "domain": domains[0] if domains else 'business',  # Primary domain for backward compatibility
+            "score": fm.get('confidence_score', fm.get('classification', {}).get('commons_alignment', 3))
         }
         search_index.append(search_item)
     
@@ -110,12 +170,15 @@ def build_registry(patterns: List[Dict]) -> List[Dict]:
     
     for pattern in patterns:
         fm = pattern['frontmatter']
+        domains = get_commons_domain(fm)
+        
         registry_item = {
             "id": fm.get('id', ''),
             "title": fm.get('title', ''),
             "slug": fm.get('slug', pattern['slug']),
-            "domain": fm.get('commons_domain', fm.get('domain', 'business')),
-            "status": fm.get('status', 'draft')
+            "domains": domains,  # Array of domains
+            "domain": domains[0] if domains else 'business',  # Primary domain for backward compatibility
+            "status": fm.get('status', fm.get('classification', {}).get('status', 'draft'))
         }
         registry.append(registry_item)
     
@@ -126,7 +189,7 @@ def build_graph(patterns: List[Dict], lighthouses: List[Dict]) -> Dict:
     """Build the knowledge graph with nodes and edges."""
     graph = {
         'generated_at': datetime.utcnow().isoformat() + 'Z',
-        'version': '2.0',
+        'version': '3.0',  # Bumped for multi-domain support
         'nodes': {
             'patterns': [],
             'lighthouses': []
@@ -137,22 +200,27 @@ def build_graph(patterns: List[Dict], lighthouses: List[Dict]) -> Dict:
             'total_lighthouses': 0,
             'total_relationships': 0,
             'patterns_by_status': {},
-            'patterns_by_domain': {}
+            'patterns_by_domain': {},
+            'multi_domain_patterns': 0
         }
     }
     
     # Process patterns
     for pattern in patterns:
         fm = pattern['frontmatter']
+        domains = get_commons_domain(fm)
+        categories = get_category(fm)
+        classification = fm.get('classification', {})
         
         node = {
             'id': fm.get('id', ''),
             'title': fm.get('title', ''),
             'slug': fm.get('slug', pattern['slug']),
-            'domain': fm.get('commons_domain', fm.get('domain', 'business')),
-            'status': fm.get('status', 'draft'),
-            'confidence_score': fm.get('confidence_score'),
-            'universality': fm.get('classification', {}).get('universality') if isinstance(fm.get('classification'), dict) else None
+            'domains': domains,  # Array of domains
+            'categories': categories,  # Array of categories
+            'status': classification.get('status', fm.get('status', 'draft')),
+            'commons_alignment': classification.get('commons_alignment'),
+            'universality': classification.get('universality')
         }
         graph['nodes']['patterns'].append(node)
         
@@ -162,10 +230,16 @@ def build_graph(patterns: List[Dict], lighthouses: List[Dict]) -> Dict:
             graph['edges'].extend(rels)
         
         # Update stats
-        status = fm.get('status', 'draft')
-        domain = fm.get('commons_domain', fm.get('domain', 'unknown'))
+        status = node['status']
         graph['stats']['patterns_by_status'][status] = graph['stats']['patterns_by_status'].get(status, 0) + 1
-        graph['stats']['patterns_by_domain'][domain] = graph['stats']['patterns_by_domain'].get(domain, 0) + 1
+        
+        # Count each domain the pattern belongs to
+        for domain in domains:
+            graph['stats']['patterns_by_domain'][domain] = graph['stats']['patterns_by_domain'].get(domain, 0) + 1
+        
+        # Count multi-domain patterns
+        if len(domains) > 1:
+            graph['stats']['multi_domain_patterns'] += 1
     
     # Process lighthouses
     for lighthouse in lighthouses:
@@ -216,7 +290,8 @@ def load_entities(directory: Path) -> List[Dict]:
 
 def main():
     print("=" * 60)
-    print("COMMONS OS INDEX BUILDER")
+    print("COMMONS OS INDEX BUILDER v3.0")
+    print("(Multi-domain support per ADR-012)")
     print("=" * 60)
     
     # Ensure output directories exist
@@ -260,10 +335,11 @@ def main():
     print("\n" + "=" * 60)
     print("BUILD COMPLETE")
     print("=" * 60)
-    print(f"Patterns:      {graph['stats']['total_patterns']}")
-    print(f"Lighthouses:   {graph['stats']['total_lighthouses']}")
-    print(f"Relationships: {graph['stats']['total_relationships']}")
-    print("\nDomains:")
+    print(f"Patterns:           {graph['stats']['total_patterns']}")
+    print(f"Multi-domain:       {graph['stats']['multi_domain_patterns']}")
+    print(f"Lighthouses:        {graph['stats']['total_lighthouses']}")
+    print(f"Relationships:      {graph['stats']['total_relationships']}")
+    print("\nDomain Distribution (patterns can appear in multiple):")
     for domain, count in sorted(graph['stats']['patterns_by_domain'].items(), key=lambda x: -x[1]):
         print(f"  {domain}: {count}")
     print("=" * 60)

@@ -6,27 +6,36 @@ slug: design-for-manufacture-dfm
 title: Design for Manufacture (DFM)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [framework, methodology, practice]
-  era: [industrial, digital]
+  category:
+  - framework
+  - methodology
+  - practice
+  era:
+  - industrial
+  - digital
   origin: []
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://www.6sigma.us/six-sigma-in-focus/design-for-manufacturing-dfm/
-  - https://www.disher.com/blog/design-for-manufacturing/
-  - https://fractory.com/design-for-manufacturing-dfm/
+- https://www.6sigma.us/six-sigma-in-focus/design-for-manufacturing-dfm/
+- https://www.disher.com/blog/design-for-manufacturing/
+- https://fractory.com/design-for-manufacturing-dfm/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

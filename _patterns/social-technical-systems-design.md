@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/social-technical-systems-design/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/social-technical-systems-design.md
 slug: social-technical-systems-design
 title: Social-Technical Systems Design
-aliases: [Sociotechnical Systems Theory, STS]
+aliases:
+- Sociotechnical Systems Theory
+- STS
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [meta-pattern]
-  era: [industrial, digital]
-  origin: [tavistock-institute]
+  category:
+  - meta-pattern
+  era:
+  - industrial
+  - digital
+  origin:
+  - tavistock-institute
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://en.wikipedia.org/wiki/Sociotechnical_system, https://www.interaction-design.org/literature/book/the-social-design-of-technical-systems-building-technologies-for-communities/socio-technical-design, https://www.tandfonline.com/doi/full/10.1080/14697017.2018.1553761, https://www.sciencedirect.com/science/article/pii/B9780444516671500264, https://www.sciencedirect.com/science/article/abs/pii/S0272696398000345, https://link.springer.com/article/10.1007/s11023-024-09680-2]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Sociotechnical_system
+- https://www.interaction-design.org/literature/book/the-social-design-of-technical-systems-building-technologies-for-communities/socio-technical-design
+- https://www.tandfonline.com/doi/full/10.1080/14697017.2018.1553761
+- https://www.sciencedirect.com/science/article/pii/B9780444516671500264
+- https://www.sciencedirect.com/science/article/abs/pii/S0272696398000345
+- https://link.springer.com/article/10.1007/s11023-024-09680-2
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

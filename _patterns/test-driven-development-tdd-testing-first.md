@@ -6,24 +6,38 @@ slug: test-driven-development-tdd-testing-first
 title: Test-Driven Development (TDD) - Testing First
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [methodology, practice]
-  era: [digital]
-  origin: ["Kent Beck", "Extreme Programming"]
+  category:
+  - methodology
+  - practice
+  era:
+  - digital
+  origin:
+  - Kent Beck
+  - Extreme Programming
   status: draft
   commons_alignment: 3
-commons_domain: business
-generalizes_from: ["pat_01kg5023x3f8gtc1a35akjqc6t"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023x3f8gtc1a35akjqc6t
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://en.wikipedia.org/wiki/Test-driven_development", "https://martinfowler.com/bliki/TestDrivenDevelopment.html", "https://agilealliance.org/glossary/tdd/"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Test-driven_development
+- https://martinfowler.com/bliki/TestDrivenDevelopment.html
+- https://agilealliance.org/glossary/tdd/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

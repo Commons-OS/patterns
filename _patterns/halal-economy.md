@@ -6,24 +6,36 @@ slug: halal-economy
 title: Halal Economy
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [cognitive]
+  category:
+  - framework
+  era:
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://afrief.org/halal-economy-initiative/", "https://store.frost.com/the-rise-of-the-global-halal-economy-2030-trends-and-growth-opportunities.html", "https://finance.yahoo.com/news/rise-global-halal-economy-mainstream-133800225.html", "https://www.isahalal.com/news-events/blog/global-halal-economy-update-facts-figures", "https://chahalacademy.com/halal-economy"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://afrief.org/halal-economy-initiative/
+- https://store.frost.com/the-rise-of-the-global-halal-economy-2030-trends-and-growth-opportunities.html
+- https://finance.yahoo.com/news/rise-global-halal-economy-mainstream-133800225.html
+- https://www.isahalal.com/news-events/blog/global-halal-economy-update-facts-figures
+- https://chahalacademy.com/halal-economy
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

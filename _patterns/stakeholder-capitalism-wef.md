@@ -13,14 +13,17 @@ modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: principle
+  category:
+  - principle
   era: cognitive
   origin:
   - academic
   - wef
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to:
 - pat_01kg502402e8s98e5wh453cf4r

@@ -6,23 +6,32 @@ slug: service-oriented-architecture-soa-enterprise-integration
 title: 'Service-Oriented Architecture (SOA): Enterprise Integration'
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [framework, methodology]
-  era: [digital]
+  category:
+  - framework
+  - methodology
+  era:
+  - digital
   origin: []
   status: draft
   commons_alignment: 3
-commons_domain: business
-generalizes_from: ["pat_01kg5023vyfzhvteh07qt2bcp5", "pat_01kg5023zyebsatbkqp5kc4jnz"]
+  commons_domain:
+  - business
+  - startup
+generalizes_from:
+- pat_01kg5023vyfzhvteh07qt2bcp5
+- pat_01kg5023zyebsatbkqp5kc4jnz
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

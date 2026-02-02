@@ -4,26 +4,42 @@ page_url: https://commons-os.github.io/patterns/on-demand-model/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/on-demand-model.md
 slug: on-demand-model
 title: On-Demand Model
-aliases: [Accessibility on Demand, On-Demand Economy]
+aliases:
+- Accessibility on Demand
+- On-Demand Economy
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [practice]
-  era: [digital]
-  origin: [uber, airbnb]
+  category:
+  - practice
+  era:
+  - digital
+  origin:
+  - uber
+  - airbnb
   status: draft
   commons_alignment: 2
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.pwc.com/us/en/technology/publications/assets/pwc-consumer-intelligence-series-the-sharing-economy.pdf, https://www.nber.org/papers/w22627, https://www.jpmorganchase.com/institute/research/labor-markets/report-paychecks-paydays-and-the-online-platform-economy, https://hbr.org/2016/04/the-on-demand-economy-is-growing-and-not-just-for-the-young-and-wealthy, https://www.entrepreneur.com/building-a-business/business-model/types-of-business-models/how-does-an-ondemand-business-model-work]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.pwc.com/us/en/technology/publications/assets/pwc-consumer-intelligence-series-the-sharing-economy.pdf
+- https://www.nber.org/papers/w22627
+- https://www.jpmorganchase.com/institute/research/labor-markets/report-paychecks-paydays-and-the-online-platform-economy
+- https://hbr.org/2016/04/the-on-demand-economy-is-growing-and-not-just-for-the-young-and-wealthy
+- https://www.entrepreneur.com/building-a-business/business-model/types-of-business-models/how-does-an-ondemand-business-model-work
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

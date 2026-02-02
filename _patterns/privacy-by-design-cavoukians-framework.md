@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/privacy-by-design-cavoukians-fra
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/privacy-by-design-cavoukians-framework.md
 slug: privacy-by-design-cavoukians-framework
 title: Privacy by Design - Cavoukian's Framework
-aliases: [PbD, Privacy by Design]
+aliases:
+- PbD
+- Privacy by Design
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: design
-  category: [framework]
-  era: [digital]
-  origin: [academic, government]
+  category:
+  - framework
+  era:
+  - digital
+  origin:
+  - academic
+  - government
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg5023w0e00tpg8amtfcb2t7"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023w0e00tpg8amtfcb2t7
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://en.wikipedia.org/wiki/Privacy_by_design", "https://www.ipc.on.ca/en/media/1826/download?attachment", "https://www.onetrust.com/blog/privacy-by-design/", "https://carbidesecure.com/resources/the-seven-principles-of-privacy-by-design/", "https://www.datagrail.io/blog/data-privacy/privacy-by-design-in-practice/"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Privacy_by_design
+- https://www.ipc.on.ca/en/media/1826/download?attachment
+- https://www.onetrust.com/blog/privacy-by-design/
+- https://carbidesecure.com/resources/the-seven-principles-of-privacy-by-design/
+- https://www.datagrail.io/blog/data-privacy/privacy-by-design-in-practice/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

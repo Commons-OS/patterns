@@ -4,26 +4,42 @@ page_url: https://commons-os.github.io/patterns/bcg-matrix/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/bcg-matrix.md
 slug: bcg-matrix
 title: BCG Matrix
-aliases: [Growth-Share Matrix, Boston Box, Portfolio Matrix]
+aliases:
+- Growth-Share Matrix
+- Boston Box
+- Portfolio Matrix
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [industrial]
-  origin: [boston-consulting-group]
+  category:
+  - framework
+  era:
+  - industrial
+  origin:
+  - boston-consulting-group
   status: draft
   commons_alignment: 2
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
-specializes_to: ["pat_01kg5023w9f70agabwj0fkwdgp"]
+specializes_to:
+- pat_01kg5023w9f70agabwj0fkwdgp
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.bcg.com/about/overview/our-history/growth-share-matrix, https://www.investopedia.com/terms/b/bcg.asp, https://courses.lumenlearning.com/suny-marketing-spring2016/chapter/reading-the-bcg-matrix/, https://www.smartinsights.com/marketing-planning/marketing-models/use-bcg-matrix/, https://edrawmind.wondershare.com/examples/best-10-bcg-matrix-examples-for-students.html]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.bcg.com/about/overview/our-history/growth-share-matrix
+- https://www.investopedia.com/terms/b/bcg.asp
+- https://courses.lumenlearning.com/suny-marketing-spring2016/chapter/reading-the-bcg-matrix/
+- https://www.smartinsights.com/marketing-planning/marketing-models/use-bcg-matrix/
+- https://edrawmind.wondershare.com/examples/best-10-bcg-matrix-examples-for-students.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

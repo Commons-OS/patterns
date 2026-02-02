@@ -4,31 +4,43 @@ page_url: https://commons-os.github.io/patterns/ai-for-social-good/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/ai-for-social-good.md
 slug: ai-for-social-good
 title: AI for Social Good
-aliases: [AI4SG, Artificial Intelligence for Social Good]
+aliases:
+- AI4SG
+- Artificial Intelligence for Social Good
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: technology
-  category: [principle, meta-pattern]
-  era: [cognitive]
-  origin: [academic, industry]
+  category:
+  - principle
+  - meta-pattern
+  era:
+  - cognitive
+  origin:
+  - academic
+  - industry
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://www.mckinsey.com/capabilities/quantumblack/our-insights/ai-for-social-good
-  - https://pmc.ncbi.nlm.nih.gov/articles/PMC7286860/
-  - https://aiforgood.itu.int/how-can-we-create-social-good-through-ai-here-are-some-examples/
-  - https://www.nature.com/articles/s41467-020-15871-z
-  - https://ai.google/societal-impact/
+- https://www.mckinsey.com/capabilities/quantumblack/our-insights/ai-for-social-good
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC7286860/
+- https://aiforgood.itu.int/how-can-we-create-social-good-through-ai-here-are-some-examples/
+- https://www.nature.com/articles/s41467-020-15871-z
+- https://ai.google/societal-impact/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -4,26 +4,38 @@ page_url: https://commons-os.github.io/patterns/joint-venture-model/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/joint-venture-model.md
 slug: joint-venture-model
 title: Joint Venture Model
-aliases: [JV]
+aliases:
+- JV
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [industrial, digital]
-  origin: [academic, corporate]
+  category:
+  - framework
+  era:
+  - industrial
+  - digital
+  origin:
+  - academic
+  - corporate
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.investopedia.com/terms/j/jointventure.asp]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.investopedia.com/terms/j/jointventure.asp
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -6,24 +6,38 @@ slug: computational-fluid-dynamics-cfd-in-design
 title: Computational Fluid Dynamics (CFD) in Design
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [tool, practice]
-  era: [digital, cognitive]
+  category:
+  - tool
+  - practice
+  era:
+  - digital
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.ansys.com/simulation-topics/what-is-computational-fluid-dynamics", "https://www.simscale.com/blog/optimize-designs-via-cfd-online/", "https://www.sciencedirect.com/science/article/abs/pii/S0959652616313154", "https://www.sciencedirect.com/science/article/pii/S2352710223010070", "https://www.mdpi.com/1996-1073/17/17/4269"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.ansys.com/simulation-topics/what-is-computational-fluid-dynamics
+- https://www.simscale.com/blog/optimize-designs-via-cfd-online/
+- https://www.sciencedirect.com/science/article/abs/pii/S0959652616313154
+- https://www.sciencedirect.com/science/article/pii/S2352710223010070
+- https://www.mdpi.com/1996-1073/17/17/4269
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

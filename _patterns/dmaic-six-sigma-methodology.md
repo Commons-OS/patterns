@@ -6,23 +6,48 @@ slug: dmaic-six-sigma-methodology
 title: DMAIC - Six Sigma Methodology
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [methodology]
-  era: [industrial]
-  origin: [motorola]
+  category:
+  - methodology
+  era:
+  - industrial
+  origin:
+  - motorola
   status: draft
   commons_alignment: 2
-commons_domain: business
-generalizes_from: ["pat_01kg5023yff49sdcxh3j5m7fyt", "pat_01kg5023zzecsb265cp79x0gvh", "pat_01kg5023vyfzhvteh02a487gvh"]
+  commons_domain:
+  - business
+  - startup
+generalizes_from:
+- pat_01kg5023yff49sdcxh3j5m7fyt
+- pat_01kg5023zzecsb265cp79x0gvh
+- pat_01kg5023vyfzhvteh02a487gvh
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023z4ejgvpxs00h779hk7", "pat_01kg5023x8evg9fk7ax23cbrbn", "pat_01kg5023wjfg8tqb1zqbg7dd8h", "pat_01kg5023xge89s6mx3nbjd0mgg", "pat_01kg5023vyfzhvteh04eykysqz", "pat_01kg5023zrexhr77rgbe4f62ew", "pat_01kg5023vjetsaajnc397n2n2m", "pat_01kg5023vyfzhvteh02a487gvh", "pat_01kg5023z8f6h9wk9sdad8sxxd", "pat_01kg5023x8evg9fk7as5cxmnwk", "pat_01kg5023z3f90bkx13t1xprvjz", "pat_01kg5023zcf99tjg7qgdbhqfkm", "pat_01kg5023zzecsb265cp79x0gvh", "pat_01kg5023ybeqhsr5sn20s4jgvn", "pat_01kg5023yaea8sqyn9hkqb477d"]
-contributors: [higgerix, cloudsters]
+related:
+- pat_01kg5023z4ejgvpxs00h779hk7
+- pat_01kg5023x8evg9fk7ax23cbrbn
+- pat_01kg5023wjfg8tqb1zqbg7dd8h
+- pat_01kg5023xge89s6mx3nbjd0mgg
+- pat_01kg5023vyfzhvteh04eykysqz
+- pat_01kg5023zrexhr77rgbe4f62ew
+- pat_01kg5023vjetsaajnc397n2n2m
+- pat_01kg5023vyfzhvteh02a487gvh
+- pat_01kg5023z8f6h9wk9sdad8sxxd
+- pat_01kg5023x8evg9fk7as5cxmnwk
+- pat_01kg5023z3f90bkx13t1xprvjz
+- pat_01kg5023zcf99tjg7qgdbhqfkm
+- pat_01kg5023zzecsb265cp79x0gvh
+- pat_01kg5023ybeqhsr5sn20s4jgvn
+- pat_01kg5023yaea8sqyn9hkqb477d
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

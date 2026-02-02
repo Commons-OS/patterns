@@ -6,24 +6,41 @@ slug: upcycling-repurposing
 title: Upcycling & Repurposing
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [practice, methodology]
-  era: [digital, cognitive]
+  category:
+  - practice
+  - methodology
+  era:
+  - digital
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.clutterkeeper.com/upcycling-repurposing-complete-guide/", "https://medium.com/@RickCheadle/understanding-repurpose-recycle-upcycle-and-reclaimed-4736ad128063", "https://hbr.org/2021/07/the-circular-business-model", "https://www.weforum.org/stories/2022/01/5-circular-economy-business-models-competitive-advantage/", "https://www.boardofinnovation.com/circular-economy-business-models-explained/", "https://www.hiscox.com/blog/creative-ways-to-upcycle-waste-revenue-stream", "https://www.commonobjective.co/article/how-to-turn-upcycling-into-a-successful-business", "https://www.sciencedirect.com/science/article/pii/S0167811625000862"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.clutterkeeper.com/upcycling-repurposing-complete-guide/
+- https://medium.com/@RickCheadle/understanding-repurpose-recycle-upcycle-and-reclaimed-4736ad128063
+- https://hbr.org/2021/07/the-circular-business-model
+- https://www.weforum.org/stories/2022/01/5-circular-economy-business-models-competitive-advantage/
+- https://www.boardofinnovation.com/circular-economy-business-models-explained/
+- https://www.hiscox.com/blog/creative-ways-to-upcycle-waste-revenue-stream
+- https://www.commonobjective.co/article/how-to-turn-upcycling-into-a-successful-business
+- https://www.sciencedirect.com/science/article/pii/S0167811625000862
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

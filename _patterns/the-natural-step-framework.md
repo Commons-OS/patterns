@@ -4,31 +4,43 @@ page_url: https://commons-os.github.io/patterns/the-natural-step-framework/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/the-natural-step-framework.md
 slug: the-natural-step-framework
 title: The Natural Step Framework
-aliases: [TNS, TNSF]
+aliases:
+- TNS
+- TNSF
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: meta
-  category: [framework]
-  era: [industrial, digital]
-  origin: [karl-henrik-robert, sweden]
+  category:
+  - framework
+  era:
+  - industrial
+  - digital
+  origin:
+  - karl-henrik-robert
+  - sweden
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: 
-  - https://thenaturalstep.org/approach/
-  - https://web.stanford.edu/class/me221/readings/NaturalStepOverview.pdf
-  - https://en.wikipedia.org/wiki/The_Natural_Step
-  - https://old.naturalstep.ca/case-studies
-  - https://www.thenaturalstep.de/about/interface-case-study/
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://thenaturalstep.org/approach/
+- https://web.stanford.edu/class/me221/readings/NaturalStepOverview.pdf
+- https://en.wikipedia.org/wiki/The_Natural_Step
+- https://old.naturalstep.ca/case-studies
+- https://www.thenaturalstep.de/about/interface-case-study/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

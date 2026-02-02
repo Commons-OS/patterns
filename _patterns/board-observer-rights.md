@@ -1,16 +1,22 @@
 ---
 id: pat_41b638a74f8f45aca1b60be4
-title: "Board Observer Rights"
+title: Board Observer Rights
 slug: board-observer-rights
 aliases: []
 classification:
   universality: domain
   domain: startup
-  category: [governance]
-  era: [cognitive]
-  origin: [startup-ecosystem]
+  category:
+  - governance
+  era:
+  - cognitive
+  origin:
+  - startup-ecosystem
   status: draft
   commons_alignment: 4
+  commons_domain:
+  - startup
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
@@ -20,17 +26,16 @@ confidence_score: 0.7
 sources: []
 version: 1.0.0
 last_updated: 2026-02-01
-page_url: "https://commons-os.github.io/patterns/board-observer-rights/"
-github_url: "https://github.com/Commons-OS/patterns/blob/main/_patterns/board-observer-rights.md"
+page_url: https://commons-os.github.io/patterns/board-observer-rights/
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/board-observer-rights.md
 created: 2026-02-01
 modified: 2026-02-01
-commons_domain: startup
 contributors:
-  - name: "Commons OS"
-    role: author
-license: "CC-BY-SA-4.0"
-attribution: "Commons OS Pattern Library"
-repository: "https://github.com/Commons-OS/patterns"
+- name: Commons OS
+  role: author
+license: CC-BY-SA-4.0
+attribution: Commons OS Pattern Library
+repository: https://github.com/Commons-OS/patterns
 ---
 
 # Board Observer Rights

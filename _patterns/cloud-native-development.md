@@ -4,26 +4,42 @@ page_url: https://commons-os.github.io/patterns/cloud-native-development/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/cloud-native-development.md
 slug: cloud-native-development
 title: Cloud-Native Development
-aliases: [Cloud-Native]
+aliases:
+- Cloud-Native
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [methodology]
-  era: [digital]
-  origin: [cloud-computing, cncf]
+  category:
+  - methodology
+  era:
+  - digital
+  origin:
+  - cloud-computing
+  - cncf
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.cncf.io/blog/2026/01/13/the-symbiotic-revolution-ai-and-cloud-native-technologies-transforming-the-digital-landscape/", "https://cloud.google.com/learn/what-is-cloud-native", "https://www.computer.org/publications/tech-news/trends/cloud-native-architecture-principles-to-know", "https://3cloudsolutions.com/resources/best-practices-for-cloud-native-application-development/", "https://www.oracle.com/ca-en/cloud/cloud-native/what-is-cloud-native/", "https://www.cncf.io/case-studies/"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.cncf.io/blog/2026/01/13/the-symbiotic-revolution-ai-and-cloud-native-technologies-transforming-the-digital-landscape/
+- https://cloud.google.com/learn/what-is-cloud-native
+- https://www.computer.org/publications/tech-news/trends/cloud-native-architecture-principles-to-know
+- https://3cloudsolutions.com/resources/best-practices-for-cloud-native-application-development/
+- https://www.oracle.com/ca-en/cloud/cloud-native/what-is-cloud-native/
+- https://www.cncf.io/case-studies/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

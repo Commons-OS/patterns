@@ -4,26 +4,56 @@ page_url: https://commons-os.github.io/patterns/lean-startup-ries/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/lean-startup-ries.md
 slug: lean-startup-ries
 title: Lean Startup (Ries)
-aliases: [Lean Startup Methodology]
+aliases:
+- Lean Startup Methodology
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [methodology]
-  era: [digital]
-  origin: [Eric Ries, Steve Blank, lean-manufacturing]
+  category:
+  - methodology
+  era:
+  - digital
+  origin:
+  - Eric Ries
+  - Steve Blank
+  - lean-manufacturing
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023xfergseskezjw7vhps", "pat_01kg50240pfa89r4q24ctm0q0w", "pat_01kg5023zbftgswm71jpa7pdya", "pat_01kg502407eyh8wbym4fzzr7et", "pat_01kg5023vyfzhvteh04eykysqz", "pat_01kg5023x6ecsvs4r50r92ggad", "pat_01kg5023vmfk9bnr9pzvxb1j3z", "pat_01kg5023zcf99tjg7qba44c2j7", "pat_01kg5023vjetsaajnc397n2n2m", "pat_01kg5023yeebha23tbpqbvfwb5", "pat_01kg5023zfejs9j7hrnhg9xnns", "pat_01kg5023yvehgrw2tgha4z5mxc", "pat_01kg5023y9f3hr6tv4n4j1h14z", "pat_01kg5023vyfzhvteh01za2yrvr", "pat_01kg5023vke6gsrh5cyb1wbkte"]
-contributors: [higgerix, cloudsters]
-sources: [https://en.wikipedia.org/wiki/Lean_startup, https://theleanstartup.com/principles, https://leanstartup.co/resources/articles/when-to-apply-lean-startup/, https://www.mosaic-innovation.com/thinking/the-limitations-of-lean-startup-when-not-to-use-it, https://yonderconsulting.com/3-examples-of-lean-startup/]
+related:
+- pat_01kg5023xfergseskezjw7vhps
+- pat_01kg50240pfa89r4q24ctm0q0w
+- pat_01kg5023zbftgswm71jpa7pdya
+- pat_01kg502407eyh8wbym4fzzr7et
+- pat_01kg5023vyfzhvteh04eykysqz
+- pat_01kg5023x6ecsvs4r50r92ggad
+- pat_01kg5023vmfk9bnr9pzvxb1j3z
+- pat_01kg5023zcf99tjg7qba44c2j7
+- pat_01kg5023vjetsaajnc397n2n2m
+- pat_01kg5023yeebha23tbpqbvfwb5
+- pat_01kg5023zfejs9j7hrnhg9xnns
+- pat_01kg5023yvehgrw2tgha4z5mxc
+- pat_01kg5023y9f3hr6tv4n4j1h14z
+- pat_01kg5023vyfzhvteh01za2yrvr
+- pat_01kg5023vke6gsrh5cyb1wbkte
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Lean_startup
+- https://theleanstartup.com/principles
+- https://leanstartup.co/resources/articles/when-to-apply-lean-startup/
+- https://www.mosaic-innovation.com/thinking/the-limitations-of-lean-startup-when-not-to-use-it
+- https://yonderconsulting.com/3-examples-of-lean-startup/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

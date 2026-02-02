@@ -6,24 +6,39 @@ slug: core-competence-theory
 title: Core Competence Theory
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: meta
-  category: [framework]
-  era: [industrial]
-  origin: [C.K. Prahalad, Gary Hamel]
+  category:
+  - framework
+  era:
+  - industrial
+  origin:
+  - C.K. Prahalad
+  - Gary Hamel
   status: draft
   commons_alignment: 3
-commons_domain: business
-generalizes_from: ["pat_01kg5023y5fnhb2ej6ganthvm3"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023y5fnhb2ej6ganthvm3
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://hbr.org/1990/05/the-core-competence-of-the-corporation, https://en.wikipedia.org/wiki/Core_competency, https://www.toolshero.com/strategy/core-competence-model/, https://www.sciencedirect.com/topics/economics-econometrics-and-finance/core-competency, https://www.managementstudyguide.com/core-competency-theory-of-strategy.htm]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://hbr.org/1990/05/the-core-competence-of-the-corporation
+- https://en.wikipedia.org/wiki/Core_competency
+- https://www.toolshero.com/strategy/core-competence-model/
+- https://www.sciencedirect.com/topics/economics-econometrics-and-finance/core-competency
+- https://www.managementstudyguide.com/core-competency-theory-of-strategy.htm
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

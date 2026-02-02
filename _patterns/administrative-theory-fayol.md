@@ -4,26 +4,42 @@ page_url: https://commons-os.github.io/patterns/administrative-theory-fayol/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/administrative-theory-fayol.md
 slug: administrative-theory-fayol
 title: Administrative Theory (Fayol)
-aliases: [Fayolism, Administrative Management Theory, Process Theory, Structural Theory]
+aliases:
+- Fayolism
+- Administrative Management Theory
+- Process Theory
+- Structural Theory
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: meta
-  category: principle
+  category:
+  - principle
   era: industrial
-  origin: [academic]
+  origin:
+  - academic
   status: draft
   commons_alignment: 2
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.business.com/articles/management-theory-of-henri-fayol/", "https://en.wikipedia.org/wiki/Fayolism", "https://www.mindtools.com/asjiu77/henri-fayols-principles-of-management/", "https.www.researchgate.net/publication/346523110_Henri_fayol's_principles_of_management_and_its_effect_to_organizational_leadership_and_governance", "https://www.iosrjournals.org/iosr-jbm/papers/Vol19-issue10/Version-4/K1910047885.pdf"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.business.com/articles/management-theory-of-henri-fayol/
+- https://en.wikipedia.org/wiki/Fayolism
+- https://www.mindtools.com/asjiu77/henri-fayols-principles-of-management/
+- https.www.researchgate.net/publication/346523110_Henri_fayol's_principles_of_management_and_its_effect_to_organizational_leadership_and_governance
+- https://www.iosrjournals.org/iosr-jbm/papers/Vol19-issue10/Version-4/K1910047885.pdf
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

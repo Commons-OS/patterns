@@ -4,31 +4,40 @@ page_url: https://commons-os.github.io/patterns/circles-method/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/circles-method.md
 slug: circles-method
 title: CIRCLES Method
-aliases: [CIRCLES Framework]
+aliases:
+- CIRCLES Framework
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: operations
-  category: [methodology]
-  era: [digital]
-  origin: [lewis-lin]
+  category:
+  - methodology
+  era:
+  - digital
+  origin:
+  - lewis-lin
   status: draft
   commons_alignment: 2
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://www.productplan.com/glossary/circles-method/
-  - https://productschool.com/blog/skills/circles-framework-guide
-  - https://www.impactinterview.com/2016/06/circles-method-product-design-framework/
-  - https://medium.com/@adityasampath/how-do-you-design-a-smart-bed-a-pm-interview-case-study-using-circles-framework-1ef9c8d19919
-  - https://usersnap.com/blog/circles-method-examples/
+- https://www.productplan.com/glossary/circles-method/
+- https://productschool.com/blog/skills/circles-framework-guide
+- https://www.impactinterview.com/2016/06/circles-method-product-design-framework/
+- https://medium.com/@adityasampath/how-do-you-design-a-smart-bed-a-pm-interview-case-study-using-circles-framework-1ef9c8d19919
+- https://usersnap.com/blog/circles-method-examples/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

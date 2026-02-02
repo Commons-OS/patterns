@@ -4,25 +4,39 @@ page_url: https://commons-os.github.io/patterns/v-model/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/v-model.md
 slug: v-model
 title: V-Model
-aliases: [V-Cycle, V-Modell]
+aliases:
+- V-Cycle
+- V-Modell
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: operations
   domain: domain
-  category: methodology
-  era: [industrial, digital]
-  origin: [barry-boehm, german-government, us-government]
+  category:
+  - methodology
+  era:
+  - industrial
+  - digital
+  origin:
+  - barry-boehm
+  - german-government
+  - us-government
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
-specializes_to: ["pat_01kg502409fv0sm380gapf8kf2"]
+specializes_to:
+- pat_01kg502409fv0sm380gapf8kf2
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

@@ -4,26 +4,41 @@ page_url: https://commons-os.github.io/patterns/consulting-firm-proprietary-fram
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/consulting-firm-proprietary-frameworks.md
 slug: consulting-firm-proprietary-frameworks
 title: Consulting Firm Proprietary Frameworks
-aliases: [Proprietary Methodologies, Signature Systems, Branded Frameworks]
+aliases:
+- Proprietary Methodologies
+- Signature Systems
+- Branded Frameworks
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: meta
-  category: meta-pattern
-  era: [industrial, digital]
-  origin: [consulting-firms]
+  category:
+  - meta-pattern
+  era:
+  - industrial
+  - digital
+  origin:
+  - consulting-firms
   status: draft
   commons_alignment: 2
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://strategyu.co/consulting-frameworks/, https://managementconsulted.com/case-interview-frameworks/, https://www.quora.com/What-are-the-limitations-of-frameworks-used-by-management-consultants]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://strategyu.co/consulting-frameworks/
+- https://managementconsulted.com/case-interview-frameworks/
+- https://www.quora.com/What-are-the-limitations-of-frameworks-used-by-management-consultants
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

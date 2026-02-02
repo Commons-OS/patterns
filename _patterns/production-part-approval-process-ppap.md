@@ -6,24 +6,37 @@ slug: production-part-approval-process-ppap
 title: Production Part Approval Process (PPAP)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: operations
-  category: [framework, methodology]
-  era: [industrial]
-  origin: ["Automotive Industry Action Group"]
+  category:
+  - framework
+  - methodology
+  era:
+  - industrial
+  origin:
+  - Automotive Industry Action Group
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://en.wikipedia.org/wiki/Production_part_approval_process", "https://quality-one.com/ppap/", "https://www.1factory.com/quality-academy/guide-ppap.html", "https://www.ideagen.com/thought-leadership/blog/what-is-ppap-and-why-is-it-important"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Production_part_approval_process
+- https://quality-one.com/ppap/
+- https://www.1factory.com/quality-academy/guide-ppap.html
+- https://www.ideagen.com/thought-leadership/blog/what-is-ppap-and-why-is-it-important
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/nordic-model-scandinavia/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/nordic-model-scandinavia.md
 slug: nordic-model-scandinavia
 title: Nordic Model - Scandinavia
-aliases: [Scandinavian Model, Nordic Capitalism]
+aliases:
+- Scandinavian Model
+- Nordic Capitalism
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [industrial, digital]
-  origin: [academic, social-democrats]
+  category:
+  - framework
+  era:
+  - industrial
+  - digital
+  origin:
+  - academic
+  - social-democrats
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://en.wikipedia.org/wiki/Nordic_model, https://nordics.info/themes/the-nordic-model, https://www.norden.org/en/information/social-policy-and-welfare, https://www.investopedia.com/articles/investing/100714/nordic-model-pros-and-cons.asp, https://www.cfr.org/articles/susanna-fellman-nordic-model-capitalism-historical-perspective-past-successes-and-future]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Nordic_model
+- https://nordics.info/themes/the-nordic-model
+- https://www.norden.org/en/information/social-policy-and-welfare
+- https://www.investopedia.com/articles/investing/100714/nordic-model-pros-and-cons.asp
+- https://www.cfr.org/articles/susanna-fellman-nordic-model-capitalism-historical-perspective-past-successes-and-future
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

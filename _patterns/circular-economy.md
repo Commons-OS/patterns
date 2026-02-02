@@ -4,26 +4,62 @@ page_url: https://commons-os.github.io/patterns/circular-economy/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/circular-economy.md
 slug: circular-economy
 title: Circular Economy
-aliases: [circularity, closed-loop economy, regenerative economy, cradle-to-cradle]
+aliases:
+- circularity
+- closed-loop economy
+- regenerative economy
+- cradle-to-cradle
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: sustainability
-  category: [framework]
-  era: [industrial, digital, cognitive]
-  origin: [academic, business]
+  category:
+  - framework
+  era:
+  - industrial
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - business
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
-specializes_to: ["pat_01kg5023xve9saxvbkcrkzc4jy"]
+specializes_to:
+- pat_01kg5023xve9saxvbkcrkzc4jy
 enables: []
 requires: []
-related: ["pat_01kg5023yzebrbkxpy6w243r3d", "pat_01kg5023wce4htqbxfeemnbwak", "pat_01kg50240rf3s9mqrr284wczhz", "pat_01kg5023xve9saxvbkcrkzc4jy", "pat_01kg50240hf7g93xhgnnqj6kv4", "pat_01kg5023wjfg8tqb1zny1rz16s", "pat_01kg5023zseyh85cxgdc134228", "pat_01kg5023vwe00rptkqw7kkhgah", "pat_01kg5023ygez1924mknd5wrfee", "pat_01kg502403e39rjfypfvwb3ebj", "pat_01kg50240zfdhtkt15ks7vh3qr", "pat_01kg5023zrexhr77rgtmbqtvy9", "pat_01kg5023yyfh08wev9cc23bjjk", "pat_01kg5023wkey887v6x5rk1m7cz", "pat_01kg50240wfjh98jqwy1kwdw68"]
-contributors: [higgerix, cloudsters]
-sources: ["https://www.ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview", "https://www.ellenmacarthurfoundation.org/schools-of-thought-that-inspired-the-circular-economy", "https://en.wikipedia.org/wiki/Circular_economy", "https://www.epa.gov/circulareconomy/what-circular-economy", "https://www.europarl.europa.eu/topics/en/article/20151201STO05603/circular-economy-definition-importance-and-benefits"]
+related:
+- pat_01kg5023yzebrbkxpy6w243r3d
+- pat_01kg5023wce4htqbxfeemnbwak
+- pat_01kg50240rf3s9mqrr284wczhz
+- pat_01kg5023xve9saxvbkcrkzc4jy
+- pat_01kg50240hf7g93xhgnnqj6kv4
+- pat_01kg5023wjfg8tqb1zny1rz16s
+- pat_01kg5023zseyh85cxgdc134228
+- pat_01kg5023vwe00rptkqw7kkhgah
+- pat_01kg5023ygez1924mknd5wrfee
+- pat_01kg502403e39rjfypfvwb3ebj
+- pat_01kg50240zfdhtkt15ks7vh3qr
+- pat_01kg5023zrexhr77rgtmbqtvy9
+- pat_01kg5023yyfh08wev9cc23bjjk
+- pat_01kg5023wkey887v6x5rk1m7cz
+- pat_01kg50240wfjh98jqwy1kwdw68
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview
+- https://www.ellenmacarthurfoundation.org/schools-of-thought-that-inspired-the-circular-economy
+- https://en.wikipedia.org/wiki/Circular_economy
+- https://www.epa.gov/circulareconomy/what-circular-economy
+- https://www.europarl.europa.eu/topics/en/article/20151201STO05603/circular-economy-definition-importance-and-benefits
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

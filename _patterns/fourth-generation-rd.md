@@ -6,29 +6,40 @@ slug: fourth-generation-rd
 title: Fourth Generation R&D
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [digital]
+  category:
+  - framework
+  era:
+  - digital
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - "Miller, W. L., & Morris, L. (1999). Fourth Generation R&D: Managing Knowledge, Technology, and Innovation. John Wiley & Sons."
-  - "Rothwell, R. (1994). Towards the Fifth-generation Innovation Process. International Marketing Review, 11(1), 7–31."
-  - "Park, Y., & Kim, S. (2006). Knowledge management system for fourth generation R&D: KNOWVATION. Technovation, 26(5-6), 595-602."
-  - "Roussel, P. A., Saad, K. N., & Erickson, T. J. (1991). Third-generation R&D: Managing the link to corporate strategy. Harvard Business School Press."
-  - "Chesbrough, H. W. (2003). Open Innovation: The New Imperative for Creating and Profiting from Technology. Harvard Business School Press."
+- 'Miller, W. L., & Morris, L. (1999). Fourth Generation R&D: Managing Knowledge,
+  Technology, and Innovation. John Wiley & Sons.'
+- Rothwell, R. (1994). Towards the Fifth-generation Innovation Process. International
+  Marketing Review, 11(1), 7–31.
+- 'Park, Y., & Kim, S. (2006). Knowledge management system for fourth generation R&D:
+  KNOWVATION. Technovation, 26(5-6), 595-602.'
+- 'Roussel, P. A., Saad, K. N., & Erickson, T. J. (1991). Third-generation R&D: Managing
+  the link to corporate strategy. Harvard Business School Press.'
+- 'Chesbrough, H. W. (2003). Open Innovation: The New Imperative for Creating and
+  Profiting from Technology. Harvard Business School Press.'
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

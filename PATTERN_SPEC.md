@@ -107,13 +107,12 @@ modified: YYYY-MM-DDTHH:MM:SSZ     # ISO 8601 timestamp
 classification:
   universality: universal|domain   # universal = applies everywhere, domain = specific context
   domain: governance|operations|finance|technology|culture|security|privacy|sovereignty|startup
-  category: [framework|practice|principle|tool|structure|process|anti-pattern]
+  category: [framework|practice|principle|tool|structure|process|anti-pattern]  # ARRAY - can have multiple
   era: [pre-industrial|industrial|cognitive]
   origin: [originator-name]        # Person or organization that created it
   status: draft|review|published
   commons_alignment: 1-5           # 1=low, 5=very high alignment with commons principles
-
-commons_domain: business|security|startup|urban|ecology|life
+  commons_domain: [business, startup, security, urban, ecology, life]  # ARRAY - patterns can belong to multiple domains
 
 # Pattern Relationships (use TypeIDs, can be empty [])
 generalizes_from: []               # This pattern is a more general form of...
@@ -151,7 +150,7 @@ repository: https://github.com/commons-os/patterns
 | `classification.origin` | array | Yes | Creator(s) of the pattern |
 | `classification.status` | string | Yes | `draft`, `review`, or `published` |
 | `classification.commons_alignment` | integer | Yes | 1-5 score for commons alignment |
-| `commons_domain` | string | Yes | High-level domain classification |
+| `classification.commons_domain` | array | Yes | High-level domain(s) - patterns can belong to multiple (e.g., `[business, startup]`) |
 | `generalizes_from` | array | Yes | TypeIDs of parent patterns |
 | `specializes_to` | array | Yes | TypeIDs of child patterns |
 | `enables` | array | Yes | TypeIDs of enabled patterns |
@@ -323,6 +322,7 @@ Patterns are stored as individual Markdown files, but retrieval is supported by 
 
 | Version | Date | Changes |
 |---------|------|---------|
+| 1.3 | 2026-02-02 | Changed `commons_domain` and `category` to multi-value arrays per ADR-012 |
 | 1.0 | 2026-02-01 | Initial specification |
 | 1.1 | 2026-02-01 | Removed sequential numbers from filename format; slug-only naming |
 | 1.2 | 2026-02-02 | Renamed `tags` to `classification` to avoid Jekyll reserved keyword conflict |

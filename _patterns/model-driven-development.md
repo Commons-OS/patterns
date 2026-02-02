@@ -4,25 +4,38 @@ page_url: https://commons-os.github.io/patterns/model-driven-development/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/model-driven-development.md
 slug: model-driven-development
 title: Model-Driven Development
-aliases: [Model-Driven Engineering, MDE, Model-Driven Software Development, MDSD]
+aliases:
+- Model-Driven Engineering
+- MDE
+- Model-Driven Software Development
+- MDSD
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: 3
   domain: design
-  category: [methodology]
-  era: [digital]
-  origin: [academic, omg]
+  category:
+  - methodology
+  era:
+  - digital
+  origin:
+  - academic
+  - omg
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

@@ -4,37 +4,47 @@ page_url: https://commons-os.github.io/patterns/good-manufacturing-practice-gmp/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/good-manufacturing-practice-gmp.md
 slug: good-manufacturing-practice-gmp
 title: Good Manufacturing Practice (GMP)
-aliases: [cGMP, Current Good Manufacturing Practice]
+aliases:
+- cGMP
+- Current Good Manufacturing Practice
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: context-specific
   domain: operations
-  category: [practice]
-  era: [industrial]
-  origin: [USA]
+  category:
+  - practice
+  era:
+  - industrial
+  origin:
+  - USA
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
-specializes_to: ["pat_01kg50240nfz989qp37vnjfkzz"]
+specializes_to:
+- pat_01kg50240nfz989qp37vnjfkzz
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [
-  "https://www.who.int/teams/health-product-policy-and-standards/standards-and-specifications/norms-and-standards/gmp",
-  "https://safetyculture.com/topics/gmp",
-  "https://biomanufacturing.org/uploads/files/305429596362804820-brief-history-of-gmps.pdf",
-  "https://www.pharmout.net/pharmout-wiki/what-are-the-10-principles-of-gmp/",
-  "https://safetyculture.com/topics/gmp-in-food-industry",
-  "https://www.qualityze.com/blogs/gmp-medical-devices",
-  "https://www.registrarcorp.com/blog/cosmetics/iso-22716/gmp-for-cosmetics/",
-  "https://jafconsulting.com/key-components-of-gmp-a-practical-implementation-guide/",
-  "https://pmc.ncbi.nlm.nih.gov/articles/PMC5604295/",
-  "https://jafconsulting.com/how-digital-transformation-is-enhancing-gmp-compliance/"
-]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.who.int/teams/health-product-policy-and-standards/standards-and-specifications/norms-and-standards/gmp
+- https://safetyculture.com/topics/gmp
+- https://biomanufacturing.org/uploads/files/305429596362804820-brief-history-of-gmps.pdf
+- https://www.pharmout.net/pharmout-wiki/what-are-the-10-principles-of-gmp/
+- https://safetyculture.com/topics/gmp-in-food-industry
+- https://www.qualityze.com/blogs/gmp-medical-devices
+- https://www.registrarcorp.com/blog/cosmetics/iso-22716/gmp-for-cosmetics/
+- https://jafconsulting.com/key-components-of-gmp-a-practical-implementation-guide/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC5604295/
+- https://jafconsulting.com/how-digital-transformation-is-enhancing-gmp-compliance/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

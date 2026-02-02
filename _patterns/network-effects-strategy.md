@@ -4,25 +4,35 @@ page_url: https://commons-os.github.io/patterns/network-effects-strategy/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/network-effects-strategy.md
 slug: network-effects-strategy
 title: Network Effects Strategy
-aliases: [Network Externalities, Demand-Side Economies of Scale]
+aliases:
+- Network Externalities
+- Demand-Side Economies of Scale
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: universal
   domain: meta
-  category: [principle]
-  era: [digital]
-  origin: [academic]
+  category:
+  - principle
+  era:
+  - digital
+  origin:
+  - academic
   status: draft
   commons_alignment: 3
-commons_domain: business
-generalizes_from: ["pat_01kg5023vcf5rv73jr0g6v6qnq"]
+  commons_domain:
+  - business
+  - startup
+generalizes_from:
+- pat_01kg5023vcf5rv73jr0g6v6qnq
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

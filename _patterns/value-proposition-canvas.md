@@ -4,25 +4,35 @@ page_url: https://commons-os.github.io/patterns/value-proposition-canvas/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/value-proposition-canvas.md
 slug: value-proposition-canvas
 title: Value Proposition Canvas
-aliases: [VPC]
+aliases:
+- VPC
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: 3
   domain: value-creation
-  category: [tool]
-  era: [digital]
-  origin: [alexander-osterwalder, strategyzer]
+  category:
+  - tool
+  era:
+  - digital
+  origin:
+  - alexander-osterwalder
+  - strategyzer
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
-specializes_to: ["pat_01kg50240sfm8re6epa0wyd5k3"]
+specializes_to:
+- pat_01kg50240sfm8re6epa0wyd5k3
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

@@ -3,26 +3,33 @@ id: pat_gjf75xviibbpbmfxgd65y7m5lm
 page_url: https://commons-os.github.io/patterns/cooperative-business-models-worker-consumer-producer/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/cooperative-business-models-worker-consumer-producer.md
 slug: cooperative-business-models-worker-consumer-producer
-title: "Cooperative Business Models Worker Consumer Producer"
+title: Cooperative Business Models Worker Consumer Producer
 aliases: []
-version: "1.0"
-created: "2026-02-01T21:15:43Z"
-modified: "2026-02-01T21:15:43Z"
+version: '1.0'
+created: '2026-02-01T21:15:43Z'
+modified: '2026-02-01T21:15:43Z'
 classification:
   universality: universal
   domain: operations
-  category: [practice]
-  era: [digital]
-  origin: [Commons OS]
+  category:
+  - practice
+  era:
+  - digital
+  origin:
+  - Commons OS
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [commons-os]
+contributors:
+- commons-os
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

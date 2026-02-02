@@ -4,26 +4,42 @@ page_url: https://commons-os.github.io/patterns/adaptive-management-holling/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/adaptive-management-holling.md
 slug: adaptive-management-holling
 title: Adaptive Management (Holling)
-aliases: ["Adaptive Environmental Assessment and Management"]
+aliases:
+- Adaptive Environmental Assessment and Management
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [industrial, digital]
-  origin: [academic, "c.s. holling"]
+  category:
+  - framework
+  era:
+  - industrial
+  - digital
+  origin:
+  - academic
+  - c.s. holling
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg5023w3fmhsjawranmejk1a"]
+  commons_domain:
+  - business
+  - startup
+generalizes_from:
+- pat_01kg5023w3fmhsjawranmejk1a
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://ecologyandsociety.org/vol3/iss2/art8/", "https://www.resalliance.org/adaptive-cycle", "https://www.georgetownclimate.org/files/report/GCC-4_Gulf_GlenCanyonDam_FINAL.pdf", "https://link.springer.com/article/10.1007/BF01474647", "https://bioone.org/journals/ambio-a-journal-of-the-human-environment/volume-36/issue-4/0044-7447_2007_36_304_IAMHTS_2.0.CO_2/Is-Adaptive-Management-Helping-to-Solve-Fisheries-Problems/10.1579/0044-7447(2007)36[304:IAMHTS]2.0.CO;2.short"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://ecologyandsociety.org/vol3/iss2/art8/
+- https://www.resalliance.org/adaptive-cycle
+- https://www.georgetownclimate.org/files/report/GCC-4_Gulf_GlenCanyonDam_FINAL.pdf
+- https://link.springer.com/article/10.1007/BF01474647
+- https://bioone.org/journals/ambio-a-journal-of-the-human-environment/volume-36/issue-4/0044-7447_2007_36_304_IAMHTS_2.0.CO_2/Is-Adaptive-Management-Helping-to-Solve-Fisheries-Problems/10.1579/0044-7447(2007)36[304:IAMHTS]2.0.CO;2.short
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

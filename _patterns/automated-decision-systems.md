@@ -4,26 +4,44 @@ page_url: https://commons-os.github.io/patterns/automated-decision-systems/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/automated-decision-systems.md
 slug: automated-decision-systems
 title: Automated Decision Systems
-aliases: [Automated Decision-Making, Algorithmic Decision-Making]
+aliases:
+- Automated Decision-Making
+- Algorithmic Decision-Making
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: practice
-  era: [digital, cognitive]
-  origin: [academic, government]
+  category:
+  - practice
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - government
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592", "https://gleematic.com/7-examples-of-automated-decision-making-processes-you-can-implement/", "https://digitalgovernmenthub.org/wp-content/uploads/2023/08/Defining-and-Demystifying-Automated-Decision-Systems.pdf", "https://inrule.com/blog/examples-of-decision-automation/", "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/", "https://ieeexplore.ieee.org/document/7427547/"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592
+- https://gleematic.com/7-examples-of-automated-decision-making-processes-you-can-implement/
+- https://digitalgovernmenthub.org/wp-content/uploads/2023/08/Defining-and-Demystifying-Automated-Decision-Systems.pdf
+- https://inrule.com/blog/examples-of-decision-automation/
+- https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/
+- https://ieeexplore.ieee.org/document/7427547/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

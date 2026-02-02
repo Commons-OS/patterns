@@ -1,16 +1,21 @@
 ---
 id: pat_15b4d0c266fa4c3f87ad724d
-title: "User-Generated Content"
+title: User-Generated Content
 slug: user-generated-content
 aliases: []
 classification:
   universality: domain
   domain: startup
-  category: [growth]
-  era: [cognitive]
-  origin: [startup-ecosystem]
+  category:
+  - growth
+  era:
+  - cognitive
+  origin:
+  - startup-ecosystem
   status: draft
   commons_alignment: 4
+  commons_domain:
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
@@ -20,17 +25,16 @@ confidence_score: 0.7
 sources: []
 version: 1.0.0
 last_updated: 2026-02-01
-page_url: "https://commons-os.github.io/patterns/user-generated-content/"
-github_url: "https://github.com/Commons-OS/patterns/blob/main/_patterns/user-generated-content.md"
+page_url: https://commons-os.github.io/patterns/user-generated-content/
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/user-generated-content.md
 created: 2026-02-01
 modified: 2026-02-01
-commons_domain: startup
 contributors:
-  - name: "Commons OS"
-    role: author
-license: "CC-BY-SA-4.0"
-attribution: "Commons OS Pattern Library"
-repository: "https://github.com/Commons-OS/patterns"
+- name: Commons OS
+  role: author
+license: CC-BY-SA-4.0
+attribution: Commons OS Pattern Library
+repository: https://github.com/Commons-OS/patterns
 ---
 
 # User-Generated Content (UGC)

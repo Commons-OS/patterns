@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/network-effects/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/network-effects.md
 slug: network-effects
 title: Network Effects
-aliases: [Demand-Side Economies of Scale, Network Externalities]
+aliases:
+- Demand-Side Economies of Scale
+- Network Externalities
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: universal
   domain: meta
-  category: [meta-pattern]
-  era: [digital, cognitive]
-  origin: [academic, bell-telephone]
+  category:
+  - meta-pattern
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - bell-telephone
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
-specializes_to: ["pat_01kg5023vcf5rv73jqy7rt0422"]
+specializes_to:
+- pat_01kg5023vcf5rv73jqy7rt0422
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://online.hbs.edu/blog/post/what-are-network-effects, https://en.wikipedia.org/wiki/Network_effect, https://www.nfx.com/post/network-effects-manual, https://www.applicoinc.com/blog/network-effects-the-5-cs-to-building-a-succesful-platform/, https://thevcfactory.com/network-effects/]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://online.hbs.edu/blog/post/what-are-network-effects
+- https://en.wikipedia.org/wiki/Network_effect
+- https://www.nfx.com/post/network-effects-manual
+- https://www.applicoinc.com/blog/network-effects-the-5-cs-to-building-a-succesful-platform/
+- https://thevcfactory.com/network-effects/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

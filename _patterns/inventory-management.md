@@ -6,24 +6,38 @@ slug: inventory-management
 title: Inventory Management
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [practice]
-  era: [industrial, digital]
-  origin: [Toyota]
+  category:
+  - practice
+  era:
+  - industrial
+  - digital
+  origin:
+  - Toyota
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.investopedia.com/terms/i/inventory-management.asp, https://www.netsuite.com/portal/resource/articles/inventory-management/inventory-management.shtml, https://www.gs1us.org/industries-and-insights/case-studies/ipc-subway-inventory-management, https://doi.org/10.1080/23311975.2018.1503219, https://doi.org/10.1108/17410400810881827]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.investopedia.com/terms/i/inventory-management.asp
+- https://www.netsuite.com/portal/resource/articles/inventory-management/inventory-management.shtml
+- https://www.gs1us.org/industries-and-insights/case-studies/ipc-subway-inventory-management
+- https://doi.org/10.1080/23311975.2018.1503219
+- https://doi.org/10.1108/17410400810881827
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

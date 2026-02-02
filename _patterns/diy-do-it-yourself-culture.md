@@ -6,29 +6,40 @@ slug: diy-do-it-yourself-culture
 title: DIY (Do-It-Yourself) Culture
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: culture
-  category: [practice, principle]
-  era: [industrial, digital]
-  origin: ["19th-century self-help movement", "Post-war consumerism"]
+  category:
+  - practice
+  - principle
+  era:
+  - industrial
+  - digital
+  origin:
+  - 19th-century self-help movement
+  - Post-war consumerism
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: 
-  - "https://en.wikipedia.org/wiki/Do_it_yourself"
-  - "https://www.sciencemuseum.org.uk/objects-and-stories/everyday-wonders/brief-history-diy"
-  - "https://www.researchgate.net/publication/296373107_The_DiY_'Do_it_yourself'_Ethos_A_participatory_culture_of_material_engagement"
-  - "https://www.tandfonline.com/doi/full/10.1080/25739638.2025.2476860"
-  - "http://gjss.org/sites/default/files/issues/chapters/papers/Journal-10-03--05-Downes-Breeze-Griffin_0.pdf"
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Do_it_yourself
+- https://www.sciencemuseum.org.uk/objects-and-stories/everyday-wonders/brief-history-diy
+- https://www.researchgate.net/publication/296373107_The_DiY_'Do_it_yourself'_Ethos_A_participatory_culture_of_material_engagement
+- https://www.tandfonline.com/doi/full/10.1080/25739638.2025.2476860
+- http://gjss.org/sites/default/files/issues/chapters/papers/Journal-10-03--05-Downes-Breeze-Griffin_0.pdf
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

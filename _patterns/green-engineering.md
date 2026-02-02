@@ -6,29 +6,53 @@ slug: green-engineering
 title: Green Engineering
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [principle, methodology]
-  era: [digital, cognitive]
+  category:
+  - principle
+  - methodology
+  era:
+  - digital
+  - cognitive
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023vwe00rptkqw7kkhgah", "pat_01kg5023wce4htqbxfeemnbwak", "pat_01kg50240rf3s9mqrr284wczhz", "pat_01kg5023xve9saxvbkcrkzc4jy", "pat_01kg50240hf7g93xhgnnqj6kv4", "pat_01kg5023wjfg8tqb1zny1rz16s", "pat_01kg5023zseyh85cxgdc134228", "pat_01kg5023xve9saxvbke9pt1zne", "pat_01kg5023ygez1924mknd5wrfee", "pat_01kg502403e39rjfypfvwb3ebj", "pat_01kg50240zfdhtkt15ks7vh3qr", "pat_01kg5023zrexhr77rgtmbqtvy9", "pat_01kg5023yyfh08wev9cc23bjjk", "pat_01kg5023wkey887v6x5rk1m7cz", "pat_01kg50240wfjh98jqwy1kwdw68"]
-contributors: [higgerix, cloudsters]
+related:
+- pat_01kg5023vwe00rptkqw7kkhgah
+- pat_01kg5023wce4htqbxfeemnbwak
+- pat_01kg50240rf3s9mqrr284wczhz
+- pat_01kg5023xve9saxvbkcrkzc4jy
+- pat_01kg50240hf7g93xhgnnqj6kv4
+- pat_01kg5023wjfg8tqb1zny1rz16s
+- pat_01kg5023zseyh85cxgdc134228
+- pat_01kg5023xve9saxvbke9pt1zne
+- pat_01kg5023ygez1924mknd5wrfee
+- pat_01kg502403e39rjfypfvwb3ebj
+- pat_01kg50240zfdhtkt15ks7vh3qr
+- pat_01kg5023zrexhr77rgtmbqtvy9
+- pat_01kg5023yyfh08wev9cc23bjjk
+- pat_01kg5023wkey887v6x5rk1m7cz
+- pat_01kg50240wfjh98jqwy1kwdw68
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://www.epa.gov/green-engineering/about-green-engineering
-  - https://www.acs.org/green-chemistry-sustainability/principles/12-design-principles-of-green-engineering.html
-  - https://www.epa.gov/green-engineering/case-studies-use-green-engineering-design-and-operation-industrial-processes
-  - https://www.guideengineering.ca/post/steps-to-build-a-sustainable-engineering-future-a-sustainable-future-design-guide
-  - https://www.usgbc.org/press/benefits-of-green-building
+- https://www.epa.gov/green-engineering/about-green-engineering
+- https://www.acs.org/green-chemistry-sustainability/principles/12-design-principles-of-green-engineering.html
+- https://www.epa.gov/green-engineering/case-studies-use-green-engineering-design-and-operation-industrial-processes
+- https://www.guideengineering.ca/post/steps-to-build-a-sustainable-engineering-future-a-sustainable-future-design-guide
+- https://www.usgbc.org/press/benefits-of-green-building
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

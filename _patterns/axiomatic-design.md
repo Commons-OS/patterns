@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/axiomatic-design/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/axiomatic-design.md
 slug: axiomatic-design
 title: Axiomatic Design
-aliases: [Suh's Axiomatic Design]
+aliases:
+- Suh's Axiomatic Design
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: methodology
-  era: [industrial, digital]
-  origin: [academic, mit]
+  category:
+  - methodology
+  era:
+  - industrial
+  - digital
+  origin:
+  - academic
+  - mit
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["Suh, N. P. (1990). The Principles of Design. Oxford University Press.", "Suh, N. P. (2001). Axiomatic Design: Advances and Applications. Oxford University Press.", "https://en.wikipedia.org/wiki/Axiomatic_design", "https://www.axiomaticdesign.com/", "Kulak, O., Cebi, S., & Kahraman, C. (2010). Applications of axiomatic design principles: A literature review. Expert systems with applications, 37(9), 6705-6717."]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- Suh, N. P. (1990). The Principles of Design. Oxford University Press.
+- 'Suh, N. P. (2001). Axiomatic Design: Advances and Applications. Oxford University
+  Press.'
+- https://en.wikipedia.org/wiki/Axiomatic_design
+- https://www.axiomaticdesign.com/
+- 'Kulak, O., Cebi, S., & Kahraman, C. (2010). Applications of axiomatic design principles:
+  A literature review. Expert systems with applications, 37(9), 6705-6717.'
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

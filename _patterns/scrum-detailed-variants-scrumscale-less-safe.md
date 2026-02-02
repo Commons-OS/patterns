@@ -3,26 +3,32 @@ id: pat_3goflysgg5c6jngrmjqw6lqizu
 page_url: https://commons-os.github.io/patterns/scrum-detailed-variants-scrumscale-less-safe/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/scrum-detailed-variants-scrumscale-less-safe.md
 slug: scrum-detailed-variants-scrumscale-less-safe
-title: "Scrum Detailed Variants Scrumscale Less Safe"
+title: Scrum Detailed Variants Scrumscale Less Safe
 aliases: []
-version: "1.0"
-created: "2026-02-01T21:15:43Z"
-modified: "2026-02-01T21:15:43Z"
+version: '1.0'
+created: '2026-02-01T21:15:43Z'
+modified: '2026-02-01T21:15:43Z'
 classification:
   universality: universal
   domain: operations
-  category: [practice]
-  era: [digital]
-  origin: [Commons OS]
+  category:
+  - practice
+  era:
+  - digital
+  origin:
+  - Commons OS
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [commons-os]
+contributors:
+- commons-os
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

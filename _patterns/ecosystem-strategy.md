@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/ecosystem-strategy/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/ecosystem-strategy.md
 slug: ecosystem-strategy
 title: Ecosystem Strategy
-aliases: [Business Ecosystem, Platform Ecosystem]
+aliases:
+- Business Ecosystem
+- Platform Ecosystem
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [digital]
-  origin: [academic, mckinsey, bcg]
+  category:
+  - framework
+  era:
+  - digital
+  origin:
+  - academic
+  - mckinsey
+  - bcg
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/how-we-help-clients/portfolio-strategy/ecosystem-strategy, https://www.bcg.com/publications/2022/what-is-your-business-ecosystem-strategy, https://umbrex.com/resources/strategy-concepts/what-is-ecosystem-strategy/, https://www.investopedia.com/terms/b/business-ecosystem.asp, https://www.ey.com/en_id/ecosystems/the-ceo-imperative-are-you-mastering-your-ecosystem-strategy]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/how-we-help-clients/portfolio-strategy/ecosystem-strategy
+- https://www.bcg.com/publications/2022/what-is-your-business-ecosystem-strategy
+- https://umbrex.com/resources/strategy-concepts/what-is-ecosystem-strategy/
+- https://www.investopedia.com/terms/b/business-ecosystem.asp
+- https://www.ey.com/en_id/ecosystems/the-ceo-imperative-are-you-mastering-your-ecosystem-strategy
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

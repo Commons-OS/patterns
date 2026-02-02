@@ -4,31 +4,43 @@ page_url: https://commons-os.github.io/patterns/ai-augmented-organizations/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/ai-augmented-organizations.md
 slug: ai-augmented-organizations
 title: AI-Augmented Organizations
-aliases: [Agentic Organizations, AI-Driven Organizations]
+aliases:
+- Agentic Organizations
+- AI-Driven Organizations
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: technology
-  category: [framework]
-  era: [cognitive]
-  origin: [academic, mckinsey, thoughtworks]
+  category:
+  - framework
+  era:
+  - cognitive
+  origin:
+  - academic
+  - mckinsey
+  - thoughtworks
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-agentic-organization-contours-of-the-next-paradigm-for-the-ai-era
-  - https://www.thoughtworks.com/en-us/insights/articles/ai-augmented-solving-organizations-most-difficult-problem
-  - https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders
-  - https://www.ibm.com/think/insights/artificial-intelligence-implementation
-  - https://mitsloan.mit.edu/ideas-made-to-matter/use-these-3-mit-guides-when-implementing-ai-your-organization
+- https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-agentic-organization-contours-of-the-next-paradigm-for-the-ai-era
+- https://www.thoughtworks.com/en-us/insights/articles/ai-augmented-solving-organizations-most-difficult-problem
+- https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders
+- https://www.ibm.com/think/insights/artificial-intelligence-implementation
+- https://mitsloan.mit.edu/ideas-made-to-matter/use-these-3-mit-guides-when-implementing-ai-your-organization
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

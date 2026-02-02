@@ -4,25 +4,36 @@ page_url: https://commons-os.github.io/patterns/big-data-analytics-in-manufactur
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/big-data-analytics-in-manufacturing.md
 slug: big-data-analytics-in-manufacturing
 title: Big Data Analytics in Manufacturing
-aliases: [Manufacturing Analytics, Smart Manufacturing]
+aliases:
+- Manufacturing Analytics
+- Smart Manufacturing
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: context-specific
   domain: technology
-  category: [practice]
-  era: [digital, cognitive]
-  origin: [academic, industry]
+  category:
+  - practice
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - industry
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

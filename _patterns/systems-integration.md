@@ -4,31 +4,43 @@ page_url: https://commons-os.github.io/patterns/systems-integration/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/systems-integration.md
 slug: systems-integration
 title: Systems Integration
-aliases: ["IT Integration", "Software Integration"]
+aliases:
+- IT Integration
+- Software Integration
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [practice]
-  era: [digital, cognitive]
-  origin: [academic, toyota]
+  category:
+  - practice
+  era:
+  - digital
+  - cognitive
+  origin:
+  - academic
+  - toyota
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources:
-  - https://en.wikipedia.org/wiki/System_integration
-  - https://www.altexsoft.com/blog/system-integration/
-  - https://medium.com/@i.akbar22/system-integration-principles-571febdd5670
-  - https://www.vegaitglobal.com/media-center/business-insights/system-integration-best-practices-6-key-steps-to-follow
-  - https://www.mulesoft.com/case-studies
+- https://en.wikipedia.org/wiki/System_integration
+- https://www.altexsoft.com/blog/system-integration/
+- https://medium.com/@i.akbar22/system-integration-principles-571febdd5670
+- https://www.vegaitglobal.com/media-center/business-insights/system-integration-best-practices-6-key-steps-to-follow
+- https://www.mulesoft.com/case-studies
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

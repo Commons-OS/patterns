@@ -6,23 +6,32 @@ slug: statistical-process-control-spc
 title: Statistical Process Control (SPC)
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: implementation
   domain: operations
-  category: [methodology, practice]
-  era: [industrial, cognitive]
-  origin: ["Walter Shewhart"]
+  category:
+  - methodology
+  - practice
+  era:
+  - industrial
+  - cognitive
+  origin:
+  - Walter Shewhart
   status: draft
   commons_alignment: 1
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

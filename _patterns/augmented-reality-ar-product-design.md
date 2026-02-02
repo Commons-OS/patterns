@@ -4,26 +4,43 @@ page_url: https://commons-os.github.io/patterns/augmented-reality-ar-product-des
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/augmented-reality-ar-product-design.md
 slug: augmented-reality-ar-product-design
 title: Augmented Reality (AR) Product Design
-aliases: [AR Product Design, Augmented Reality Design]
+aliases:
+- AR Product Design
+- Augmented Reality Design
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [practice]
-  era: [digital]
-  origin: [academic, industry]
+  category:
+  - practice
+  era:
+  - digital
+  origin:
+  - academic
+  - industry
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://smarttek.solutions/blog/ar-in-product-design-modeling-and-prototyping/", "https://www.interaction-design.org/literature/topics/augmented-reality", "https://www.radiant.digital/ux-design-principles-for-augmented-reality", "https://medium.com/@HausJiang/ux-case-study-ikea-place-a66319510023", "Schmalstieg, D., & Hollerer, T. (2016). Augmented Reality: Principles and Practice. Addison-Wesley Professional."]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://smarttek.solutions/blog/ar-in-product-design-modeling-and-prototyping/
+- https://www.interaction-design.org/literature/topics/augmented-reality
+- https://www.radiant.digital/ux-design-principles-for-augmented-reality
+- https://medium.com/@HausJiang/ux-case-study-ikea-place-a66319510023
+- 'Schmalstieg, D., & Hollerer, T. (2016). Augmented Reality: Principles and Practice.
+  Addison-Wesley Professional.'
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

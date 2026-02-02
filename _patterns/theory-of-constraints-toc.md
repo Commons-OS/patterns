@@ -4,26 +4,40 @@ page_url: https://commons-os.github.io/patterns/theory-of-constraints-toc/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/theory-of-constraints-toc.md
 slug: theory-of-constraints-toc
 title: Theory of Constraints (TOC)
-aliases: [TOC]
+aliases:
+- TOC
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: technology
-  category: [methodology]
-  era: [industrial, digital]
-  origin: [Eliyahu M. Goldratt]
+  category:
+  - methodology
+  era:
+  - industrial
+  - digital
+  origin:
+  - Eliyahu M. Goldratt
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://en.wikipedia.org/wiki/Theory_of_constraints, https://www.leanproduction.com/theory-of-constraints/, https://www.isixsigma.com/theory-of-constraints/case-studies-real-world-applications-of-the-theory-of-constraints/, https://www.sciencedirect.com/science/article/pii/S1877042814051532, https://www.emerald.com/insight/content/doi/10.1108/01443579810199720/]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Theory_of_constraints
+- https://www.leanproduction.com/theory-of-constraints/
+- https://www.isixsigma.com/theory-of-constraints/case-studies-real-world-applications-of-the-theory-of-constraints/
+- https://www.sciencedirect.com/science/article/pii/S1877042814051532
+- https://www.emerald.com/insight/content/doi/10.1108/01443579810199720/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

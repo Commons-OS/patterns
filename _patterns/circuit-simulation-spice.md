@@ -4,27 +4,41 @@ page_url: https://commons-os.github.io/patterns/circuit-simulation-spice/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/circuit-simulation-spice.md
 slug: circuit-simulation-spice
 title: Circuit Simulation (SPICE)
-aliases: [SPICE]
+aliases:
+- SPICE
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [tool, methodology]
-  era: [digital]
-  origin: [academic, uc-berkeley]
+  category:
+  - tool
+  - methodology
+  era:
+  - digital
+  origin:
+  - academic
+  - uc-berkeley
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://en.wikipedia.org/wiki/SPICE, https://www.cadence.com/en_US/home/explore/spice-simulation.html, https://resources.altium.com/p/what-spice-simulation-electronics-design, https://developer.nvidia.com/blog/using-generative-ai-models-in-circuit-design/, https://silvaco.com/blog/spice-model-generation-by-machine-learning/]
-
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/SPICE
+- https://www.cadence.com/en_US/home/explore/spice-simulation.html
+- https://resources.altium.com/p/what-spice-simulation-electronics-design
+- https://developer.nvidia.com/blog/using-generative-ai-models-in-circuit-design/
+- https://silvaco.com/blog/spice-model-generation-by-machine-learning/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

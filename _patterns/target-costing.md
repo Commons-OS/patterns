@@ -21,7 +21,9 @@ classification:
   - toyota
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
 generalizes_from: []
 specializes_to:
 - pat_01kg502404e39b225z86mg9eeg

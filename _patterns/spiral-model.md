@@ -4,26 +4,40 @@ page_url: https://commons-os.github.io/patterns/spiral-model/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/spiral-model.md
 slug: spiral-model
 title: Spiral Model
-aliases: [Boehm's Spiral Model]
+aliases:
+- Boehm's Spiral Model
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [methodology]
-  era: [digital]
-  origin: [academic]
+  category:
+  - methodology
+  era:
+  - digital
+  origin:
+  - academic
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: ["https://en.wikipedia.org/wiki/Spiral_model", "https://www.geeksforgeeks.org/software-engineering/software-engineering-spiral-model/", "https://www.cse.msu.edu/~cse435/Homework/HW3/boehm.pdf", "https://ntrs.nasa.gov/citations/19990064487", "https://www.sei.cmu.edu/documents/5439/2000_003_001_13655.pdf"]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://en.wikipedia.org/wiki/Spiral_model
+- https://www.geeksforgeeks.org/software-engineering/software-engineering-spiral-model/
+- https://www.cse.msu.edu/~cse435/Homework/HW3/boehm.pdf
+- https://ntrs.nasa.gov/citations/19990064487
+- https://www.sei.cmu.edu/documents/5439/2000_003_001_13655.pdf
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

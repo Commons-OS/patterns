@@ -6,23 +6,35 @@ slug: participatory-design
 title: Participatory Design
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [methodology, framework]
-  era: [industrial, digital]
+  category:
+  - methodology
+  - framework
+  era:
+  - industrial
+  - digital
   origin: []
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related: ["pat_01kg5023ycep88v76yzaxenmq1", "pat_01kg5023zxf81byjg3hz71nf6p", "pat_01kg5023z2fdra8j4sg5vfng9m"]
-contributors: [higgerix, cloudsters]
+related:
+- pat_01kg5023ycep88v76yzaxenmq1
+- pat_01kg5023zxf81byjg3hz71nf6p
+- pat_01kg5023z2fdra8j4sg5vfng9m
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

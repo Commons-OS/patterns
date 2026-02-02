@@ -4,26 +4,42 @@ page_url: https://commons-os.github.io/patterns/beneficial-ai/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/beneficial-ai.md
 slug: beneficial-ai
 title: Beneficial AI
-aliases: [AI for Good, Positive AI]
+aliases:
+- AI for Good
+- Positive AI
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: technology
-  category: [principle]
-  era: [cognitive]
-  origin: [academic, industry]
+  category:
+  - principle
+  era:
+  - cognitive
+  origin:
+  - academic
+  - industry
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [https://ai.google/principles/, https://www.oecd.org/en/topics/sub-issues/ai-principles.html, https://www.colaberry.com/8-powerful-examples-of-ai-for-good/, https://futureoflife.org/focus-area/artificial-intelligence/, https://www.xsolis.com/blog/case-studies-of-successful-implementations-of-ai-in-healthcare/]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://ai.google/principles/
+- https://www.oecd.org/en/topics/sub-issues/ai-principles.html
+- https://www.colaberry.com/8-powerful-examples-of-ai-for-good/
+- https://futureoflife.org/focus-area/artificial-intelligence/
+- https://www.xsolis.com/blog/case-studies-of-successful-implementations-of-ai-in-healthcare/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

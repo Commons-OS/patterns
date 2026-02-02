@@ -3,26 +3,33 @@ id: pat_llaxohouqjc5hkbkyko6ml636u
 page_url: https://commons-os.github.io/patterns/predictive-modeling-in-design/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/predictive-modeling-in-design.md
 slug: predictive-modeling-in-design
-title: "Predictive Modeling In Design"
+title: Predictive Modeling In Design
 aliases: []
-version: "1.0"
-created: "2026-02-01T21:15:43Z"
-modified: "2026-02-01T21:15:43Z"
+version: '1.0'
+created: '2026-02-01T21:15:43Z'
+modified: '2026-02-01T21:15:43Z'
 classification:
   universality: universal
   domain: operations
-  category: [practice]
-  era: [digital]
-  origin: [Commons OS]
+  category:
+  - practice
+  era:
+  - digital
+  origin:
+  - Commons OS
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [commons-os]
+contributors:
+- commons-os
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

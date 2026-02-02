@@ -4,32 +4,42 @@ page_url: https://commons-os.github.io/patterns/ai-powered-design-assistants/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/ai-powered-design-assistants.md
 slug: ai-powered-design-assistants
 title: AI-Powered Design Assistants
-aliases: [AI Design Assistants, AI-Aided Design]
+aliases:
+- AI Design Assistants
+- AI-Aided Design
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [practice]
-  era: [cognitive]
-  origin: [academic, corporate]
+  category:
+  - practice
+  era:
+  - cognitive
+  origin:
+  - academic
+  - corporate
   status: draft
   commons_alignment: 4
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: [
-  "https://novedge.com/blogs/design-news/ai-powered-design-assistants-revolutionizing-creativity-efficiency-and-precision-in-modern-design?srsltid=AfmBOoojyOG4FF3qPMTdd6zdVjSmKmvvcG6nxj98EQpdXtRZtkXQNxDb",
-  "https://www.ideou.com/blogs/inspiration/ai-and-design-thinking?srsltid=AfmBOorTX62_IdnYVI0EayHPXo-IaRE34bE_tNAPfWp93ypcqZ2_nUwD",
-  "https://www.cambridge.org/core/journals/proceedings-of-the-design-society/article/artificial-intelligence-ai-in-the-design-process-a-review-and-analysis-on-generative-ai-perspectives/36E8736EEB55F0B38C2C9AB47EF381FE",
-  "https://www.researchgate.net/publication/376450686_The_Impact_of_Artificial_Intelligence_on_the_Graphic_Design_Industry",
-  "https://www.autodesk.com/products/fusion-360/blog/ai-for-product-design-advantages/"
-]
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://novedge.com/blogs/design-news/ai-powered-design-assistants-revolutionizing-creativity-efficiency-and-precision-in-modern-design?srsltid=AfmBOoojyOG4FF3qPMTdd6zdVjSmKmvvcG6nxj98EQpdXtRZtkXQNxDb
+- https://www.ideou.com/blogs/inspiration/ai-and-design-thinking?srsltid=AfmBOorTX62_IdnYVI0EayHPXo-IaRE34bE_tNAPfWp93ypcqZ2_nUwD
+- https://www.cambridge.org/core/journals/proceedings-of-the-design-society/article/artificial-intelligence-ai-in-the-design-process-a-review-and-analysis-on-generative-ai-perspectives/36E8736EEB55F0B38C2C9AB47EF381FE
+- https://www.researchgate.net/publication/376450686_The_Impact_of_Artificial_Intelligence_on_the_Graphic_Design_Industry
+- https://www.autodesk.com/products/fusion-360/blog/ai-for-product-design-advantages/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

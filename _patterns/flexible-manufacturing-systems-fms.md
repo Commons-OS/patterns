@@ -4,25 +4,37 @@ page_url: https://commons-os.github.io/patterns/flexible-manufacturing-systems-f
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/flexible-manufacturing-systems-fms.md
 slug: flexible-manufacturing-systems-fms
 title: Flexible Manufacturing Systems (FMS)
-aliases: [Flexible Manufacturing Cell, FMS]
+aliases:
+- Flexible Manufacturing Cell
+- FMS
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: context-specific
   domain: operations
-  category: methodology
-  era: [industrial, digital]
-  origin: [academic, industrial]
+  category:
+  - methodology
+  era:
+  - industrial
+  - digital
+  origin:
+  - academic
+  - industrial
   status: draft
   commons_alignment: 4
-commons_domain: business
-generalizes_from: ["pat_01kg50240hf7g93xhgjz7fp64g"]
+  commons_domain:
+  - business
+  - startup
+generalizes_from:
+- pat_01kg50240hf7g93xhgjz7fp64g
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

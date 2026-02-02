@@ -4,30 +4,41 @@ page_url: https://commons-os.github.io/patterns/do-178c-software-in-airborne-sys
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/do-178c-software-in-airborne-systems.md
 slug: do-178c-software-in-airborne-systems
 title: DO-178C (Software in Airborne Systems)
-aliases: [ED-12C, RTCA DO-178C]
+aliases:
+- ED-12C
+- RTCA DO-178C
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: context-specific
   domain: technology
-  category: [framework]
-  era: [digital]
-  origin: [RTCA, EUROCAE]
+  category:
+  - framework
+  era:
+  - digital
+  origin:
+  - RTCA
+  - EUROCAE
   status: draft
   commons_alignment: 3
-commons_domain: business
+  commons_domain:
+  - business
+  - startup
+  - security
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
-sources: 
-  - https://www.windriver.com/solutions/learning/do-178c
-  - https://en.wikipedia.org/wiki/DO-178C
-  - https://www.modernrequirements.com/blogs/do-178c/
-  - https://www.qualitestgroup.com/insights/blog/simplify-do-178c-compliance-with-10-best-practices/
+contributors:
+- higgerix
+- cloudsters
+sources:
+- https://www.windriver.com/solutions/learning/do-178c
+- https://en.wikipedia.org/wiki/DO-178C
+- https://www.modernrequirements.com/blogs/do-178c/
+- https://www.qualitestgroup.com/insights/blog/simplify-do-178c-compliance-with-10-best-practices/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns

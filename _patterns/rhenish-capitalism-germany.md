@@ -4,25 +4,39 @@ page_url: https://commons-os.github.io/patterns/rhenish-capitalism-germany/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/rhenish-capitalism-germany.md
 slug: rhenish-capitalism-germany
 title: Rhenish Capitalism - Germany
-aliases: ["Rhineland Capitalism", "Social Market Economy", "German Model"]
+aliases:
+- Rhineland Capitalism
+- Social Market Economy
+- German Model
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: design
-  category: [framework]
-  era: [industrial, cognitive]
-  origin: [academic, post-war-germany]
+  category:
+  - framework
+  era:
+  - industrial
+  - cognitive
+  origin:
+  - academic
+  - post-war-germany
   status: draft
   commons_alignment: 3
-commons_domain: business
-generalizes_from: ["pat_01kg5023zve6sv1r0bjen2aqqs"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023zve6sv1r0bjen2aqqs
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

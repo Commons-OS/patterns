@@ -3,26 +3,39 @@ id: pat_01kg502405es8af4s6098h89gc
 page_url: https://commons-os.github.io/patterns/theory-of-constraints-goldratts-toc/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/theory-of-constraints-goldratts-toc.md
 slug: theory-of-constraints-goldratts-toc
-title: "Theory of Constraints - Goldratt's TOC"
-aliases: ["TOC", "Goldratt's Theory of Constraints"]
+title: Theory of Constraints - Goldratt's TOC
+aliases:
+- TOC
+- Goldratt's Theory of Constraints
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: technology
-  category: [framework, methodology]
-  era: [industrial, cognitive]
-  origin: ["Eliyahu M. Goldratt"]
+  category:
+  - framework
+  - methodology
+  era:
+  - industrial
+  - cognitive
+  origin:
+  - Eliyahu M. Goldratt
   status: draft
   commons_alignment: 3
-commons_domain: business
-generalizes_from: ["pat_01kg5023vzfs093ryk6qdqkj1v"]
+  commons_domain:
+  - business
+  - startup
+  - security
+generalizes_from:
+- pat_01kg5023vzfs093ryk6qdqkj1v
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net

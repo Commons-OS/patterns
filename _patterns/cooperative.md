@@ -1,16 +1,21 @@
 ---
 id: pat_41fd3380858d45a0ae7b83d7
-title: "Cooperative"
+title: Cooperative
 slug: cooperative
 aliases: []
 classification:
   universality: domain
   domain: startup
-  category: [governance]
-  era: [cognitive]
-  origin: [startup-ecosystem]
+  category:
+  - governance
+  era:
+  - cognitive
+  origin:
+  - startup-ecosystem
   status: draft
   commons_alignment: 5
+  commons_domain:
+  - startup
 generalizes_from: []
 specializes_to: []
 enables: []
@@ -20,17 +25,16 @@ confidence_score: 0.7
 sources: []
 version: 1.0.0
 last_updated: 2026-02-01
-page_url: "https://commons-os.github.io/patterns/cooperative/"
-github_url: "https://github.com/Commons-OS/patterns/blob/main/_patterns/cooperative.md"
+page_url: https://commons-os.github.io/patterns/cooperative/
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/cooperative.md
 created: 2026-02-01
 modified: 2026-02-01
-commons_domain: startup
 contributors:
-  - name: "Commons OS"
-    role: author
-license: "CC-BY-SA-4.0"
-attribution: "Commons OS Pattern Library"
-repository: "https://github.com/Commons-OS/patterns"
+- name: Commons OS
+  role: author
+license: CC-BY-SA-4.0
+attribution: Commons OS Pattern Library
+repository: https://github.com/Commons-OS/patterns
 ---
 
 # Cooperative

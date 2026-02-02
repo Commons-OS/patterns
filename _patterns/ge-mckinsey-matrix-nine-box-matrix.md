@@ -6,23 +6,32 @@ slug: ge-mckinsey-matrix-nine-box-matrix
 title: GE-McKinsey Matrix - Nine-box matrix
 aliases: []
 version: 1.0
-created: 2026-01-28T00:00:00Z
-modified: 2026-01-28T00:00:00Z
+created: 2026-01-28 00:00:00+00:00
+modified: 2026-01-28 00:00:00+00:00
 classification:
   universality: domain
   domain: operations
-  category: [framework]
-  era: [industrial]
-  origin: ["General Electric", "McKinsey & Company"]
+  category:
+  - framework
+  era:
+  - industrial
+  origin:
+  - General Electric
+  - McKinsey & Company
   status: draft
   commons_alignment: 2
-commons_domain: business
-generalizes_from: ["pat_01kg5023w9f70agabwqbp52gwq"]
+  commons_domain:
+  - business
+  - startup
+generalizes_from:
+- pat_01kg5023w9f70agabwqbp52gwq
 specializes_to: []
 enables: []
 requires: []
 related: []
-contributors: [higgerix, cloudsters]
+contributors:
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
