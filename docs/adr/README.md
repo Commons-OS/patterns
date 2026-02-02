@@ -11,6 +11,9 @@ For **system-wide ADRs** that apply across all Commons OS engines, see: [commons
 | [0001](0001-slug-only-filenames.md) | Slug-Only Filenames Without Sequential Numbers | Accepted | 2026-02-02 |
 | [0002](0002-rename-tags-to-classification.md) | Rename 'tags' to 'classification' in YAML Frontmatter | Accepted | 2026-02-02 |
 | [0003](0003-consolidated-index-generation.md) | Consolidated Index Generation Script | Accepted | 2026-02-02 |
+| [0004](0004-seven-pillars-assessment.md) | 7 Pillars Commons Alignment Assessment Framework | Accepted | 2026-01-15 |
+| [0005](0005-relationship-types.md) | Pattern Relationship Types | Accepted | 2026-01-15 |
+| [0006](0006-staging-promotion-workflow.md) | Staging to Patterns Promotion Workflow | Accepted | 2026-02-01 |
 
 ## Creating a New ADR
 
