@@ -141,12 +141,47 @@ def extract_relationships(frontmatter: Dict, entity_id: str) -> List[Dict]:
     return relationships
 
 
+def extract_description(frontmatter: Dict, body: str) -> str:
+    """Extract a description from frontmatter summary or body content.
+    
+    Prefers the 'summary' frontmatter field. Falls back to extracting
+    the first meaningful paragraph from the body text, skipping
+    markdown headers, tables, and horizontal rules.
+    """
+    # Prefer explicit summary
+    summary = frontmatter.get('summary', '') or ''
+    if summary.strip():
+        return summary.strip()[:200]
+    
+    # Fall back to body content
+    if not body:
+        return ''
+    
+    lines = body.strip().split('\n')
+    text_parts = []
+    for line in lines:
+        stripped = line.strip()
+        # Skip empty lines, headers, tables, horizontal rules, and HTML
+        if (not stripped or stripped.startswith('#') or stripped.startswith('|')
+                or stripped.startswith('---') or stripped.startswith('<')):
+            # If we already collected some text, stop at the next break
+            if text_parts:
+                break
+            continue
+        text_parts.append(stripped)
+        if len(' '.join(text_parts)) >= 200:
+            break
+    
+    return ' '.join(text_parts)[:200]
+
+
 def build_search_index(patterns: List[Dict]) -> List[Dict]:
     """Build the search index for frontend search."""
     search_index = []
     
     for pattern in patterns:
         fm = pattern['frontmatter']
+        body = pattern.get('body', '')
         domains = get_commons_domain(fm)
         categories = get_category(fm)
         
@@ -154,7 +189,7 @@ def build_search_index(patterns: List[Dict]) -> List[Dict]:
             "title": fm.get('title', ''),
             "url": f"/patterns/{fm.get('slug', pattern['slug'])}/",
             "classification": categories,
-            "description": (fm.get('summary', '') or '')[:200],
+            "description": extract_description(fm, body),
             "domains": domains,  # Array of domains
             "domain": domains[0] if domains else 'business',  # Primary domain for backward compatibility
             "score": fm.get('confidence_score', fm.get('classification', {}).get('commons_alignment', 3))
