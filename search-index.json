@@ -5153,7 +5153,7 @@
     "score": 4
   },
   {
-    "title": "78 Distributed Energy",
+    "title": "Distributed Energy",
     "url": "/patterns/distributed-energy/",
     "classification": [
       "practice"
@@ -5443,7 +5443,7 @@
     "score": 3
   },
   {
-    "title": "87 Dutch Polder Model",
+    "title": "Dutch Polder Model",
     "url": "/patterns/dutch-polder-model/",
     "classification": [
       "practice"
@@ -7103,7 +7103,7 @@
     "score": 4
   },
   {
-    "title": "21 Gemba Kaizen",
+    "title": "Gemba Kaizen",
     "url": "/patterns/gemba-kaizen/",
     "classification": [
       "practice"
@@ -10090,7 +10090,7 @@
     "score": 1
   },
   {
-    "title": "54 Mass Customization",
+    "title": "Mass Customization",
     "url": "/patterns/mass-customization/",
     "classification": [
       "practice"
@@ -10784,7 +10784,7 @@
     "score": 5
   },
   {
-    "title": "7 Multi Stakeholder Governance",
+    "title": "Multi-Stakeholder Governance",
     "url": "/patterns/multi-stakeholder-governance/",
     "classification": [
       "practice"
@@ -15310,7 +15310,7 @@
     "score": 4
   },
   {
-    "title": "3 Shared Value Porter Kramer",
+    "title": "Shared Value (Porter & Kramer)",
     "url": "/patterns/shared-value-porter-kramer/",
     "classification": [
       "practice"
@@ -15573,12 +15573,12 @@
     "score": 3
   },
   {
-    "title": "52 Smart Manufacturing",
+    "title": "Smart Manufacturing",
     "url": "/patterns/smart-manufacturing/",
     "classification": [
       "practice"
     ],
-    "description": "",
+    "description": "Smart Manufacturing is a broad category of manufacturing that employs computer-integrated manufacturing, high levels of adaptability and rapid design changes, digital information technology, and a mor",
     "domains": [
       "business"
     ],
@@ -16171,7 +16171,7 @@
     "score": 5
   },
   {
-    "title": "6 Steward Ownership Governance Purpose Foundation",
+    "title": "Steward-Ownership Governance - Purpose Foundation Model",
     "url": "/patterns/steward-ownership-governance-purpose-foundation/",
     "classification": [
       "practice"

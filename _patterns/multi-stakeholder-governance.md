@@ -3,7 +3,7 @@ id: pat_pqowmvmrjzdxnh7yo5u6hlt2lu
 page_url: https://commons-os.github.io/patterns/multi-stakeholder-governance/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/multi-stakeholder-governance.md
 slug: multi-stakeholder-governance
-title: 7 Multi Stakeholder Governance
+title: Multi-Stakeholder Governance
 aliases: []
 version: '1.0'
 created: '2026-02-01T21:15:43Z'

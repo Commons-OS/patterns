@@ -3,7 +3,7 @@ id: pat_gnobbbcd55hodgf5yo5hs7oqxi
 page_url: https://commons-os.github.io/patterns/mass-customization/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/mass-customization.md
 slug: mass-customization
-title: 54 Mass Customization
+title: Mass Customization
 aliases: []
 version: '1.0'
 created: '2026-02-01T21:15:43Z'

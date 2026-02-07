@@ -3,7 +3,7 @@ id: pat_eziqztwvdzchljkmbhwzcgztay
 page_url: https://commons-os.github.io/patterns/steward-ownership-governance-purpose-foundation/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/steward-ownership-governance-purpose-foundation.md
 slug: steward-ownership-governance-purpose-foundation
-title: 6 Steward Ownership Governance Purpose Foundation
+title: Steward-Ownership Governance - Purpose Foundation Model
 aliases: []
 version: '1.0'
 created: '2026-02-01T21:15:43Z'

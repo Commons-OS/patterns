@@ -3,7 +3,7 @@ id: pat_t2m7pju4pvhp3mhqphlz6hccva
 page_url: https://commons-os.github.io/patterns/distributed-energy/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/distributed-energy.md
 slug: distributed-energy
-title: 78 Distributed Energy
+title: Distributed Energy
 aliases: []
 version: '1.0'
 created: '2026-02-01T21:15:43Z'

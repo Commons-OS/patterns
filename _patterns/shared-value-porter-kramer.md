@@ -3,7 +3,7 @@ id: pat_vjo6byrnjrdlvp63nz4bdclpm4
 page_url: https://commons-os.github.io/patterns/shared-value-porter-kramer/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/shared-value-porter-kramer.md
 slug: shared-value-porter-kramer
-title: 3 Shared Value Porter Kramer
+title: Shared Value (Porter & Kramer)
 aliases: []
 version: '1.0'
 created: '2026-02-01T21:15:43Z'

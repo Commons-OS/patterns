@@ -3,7 +3,7 @@ id: pat_o3nyklhai5asvdluw74y3fovaa
 page_url: https://commons-os.github.io/patterns/dutch-polder-model/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/dutch-polder-model.md
 slug: dutch-polder-model
-title: 87 Dutch Polder Model
+title: Dutch Polder Model
 aliases: []
 version: '1.0'
 created: '2026-02-01T21:15:43Z'

@@ -3,7 +3,7 @@ id: pat_m7et6y6hlvaffewxe2zos7ncrq
 page_url: https://commons-os.github.io/patterns/gemba-kaizen/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/gemba-kaizen.md
 slug: gemba-kaizen
-title: 21 Gemba Kaizen
+title: Gemba Kaizen
 aliases: []
 version: '1.0'
 created: '2026-02-01T21:15:43Z'
