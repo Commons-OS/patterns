@@ -35,6 +35,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add search-index.json _data/registry.json data/graph.json
+          git add search-index.json _data/registry.json _data/pattern_index_lite.json data/graph.json
           git diff --staged --quiet || git commit -m "Auto-update indexes [skip ci]"
           git push
