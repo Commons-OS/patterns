@@ -1,5 +1,4 @@
 name: Build Indexes
-
 on:
   push:
     branches: [main]
