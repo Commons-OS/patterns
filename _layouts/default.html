@@ -534,10 +534,11 @@
     <div class="footer-subscribe-container">
       <h3>Design for resilience</h3>
       <p>Get new patterns, case studies, and insights for Commons Engineers building value creation systems that last.</p>
-      <form class="footer-subscribe-form" action="https://commonsos.substack.com/subscribe" method="post" target="_blank">
-        <input type="email" name="email" placeholder="Enter your email" required>
-        <button type="submit">Subscribe</button>
+      <form class="footer-subscribe-form" id="substack-subscribe-form">
+        <input type="email" name="email" id="substack-email" placeholder="Enter your email" required>
+        <button type="submit" id="substack-submit-btn">Subscribe</button>
       </form>
+      <p id="substack-status" style="margin-top: 12px; font-size: 0.9em; display: none;"></p>
     </div>
   </div>
   
@@ -723,6 +724,62 @@
         searchResults.classList.remove('active');
       }
     });
+  </script>
+
+  <script>
+    // Substack Newsletter Subscribe
+    // Uses Substack's API endpoint with fetch, falls back to opening Substack page
+    (function() {
+      const form = document.getElementById('substack-subscribe-form');
+      if (!form) return;
+      
+      const emailInput = document.getElementById('substack-email');
+      const submitBtn = document.getElementById('substack-submit-btn');
+      const statusEl = document.getElementById('substack-status');
+      
+      function showStatus(message, isError) {
+        statusEl.textContent = message;
+        statusEl.style.display = 'block';
+        statusEl.style.color = isError ? '#f87171' : '#4ade80';
+      }
+      
+      form.addEventListener('submit', async function(e) {
+        e.preventDefault();
+        const email = emailInput.value.trim();
+        if (!email) return;
+        
+        submitBtn.disabled = true;
+        submitBtn.textContent = 'Subscribing...';
+        statusEl.style.display = 'none';
+        
+        try {
+          const response = await fetch('https://commonsos.substack.com/api/v1/free', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              email: email,
+              first_url: 'https://commonsos.substack.com',
+              current_url: window.location.href
+            })
+          });
+          
+          if (response.ok) {
+            showStatus('Thank you! Please check your email to confirm your subscription.', false);
+            emailInput.value = '';
+          } else {
+            // API might be blocked by Cloudflare - fall back to opening Substack
+            throw new Error('API returned ' + response.status);
+          }
+        } catch (err) {
+          // Fallback: open Substack in a new tab
+          window.open('https://commonsos.substack.com', '_blank');
+          showStatus('Opening Substack in a new tab. Please subscribe there.', false);
+        }
+        
+        submitBtn.disabled = false;
+        submitBtn.textContent = 'Subscribe';
+      });
+    })();
   </script>
 </body>
 </html>
