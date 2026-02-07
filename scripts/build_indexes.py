@@ -6,6 +6,7 @@ This single script generates all required index files from the source patterns:
 - search-index.json: Frontend search functionality
 - graph.json: Knowledge graph with relationships
 - registry.json: TypeID to pattern mapping (used by Jekyll templates)
+- _data/pattern_index_lite.json: Compact index for ChatGPT GPT Actions API
 
 Run: python3 scripts/build_indexes.py
 
@@ -27,6 +28,7 @@ LIGHTHOUSES_DIR = REPO_ROOT / "_lighthouses"
 OUTPUT_DIR = REPO_ROOT / "data"
 SEARCH_INDEX_PATH = REPO_ROOT / "search-index.json"
 REGISTRY_PATH = REPO_ROOT / "_data" / "registry.json"
+LITE_INDEX_PATH = REPO_ROOT / "_data" / "pattern_index_lite.json"
 
 
 def parse_frontmatter(filepath: Path) -> Tuple[Optional[Dict], str]:
@@ -199,6 +201,40 @@ def build_search_index(patterns: List[Dict]) -> List[Dict]:
     return search_index
 
 
+def build_lite_index(patterns: List[Dict]) -> Dict:
+    """Build the compact pattern index for ChatGPT GPT Actions.
+
+    This file is consumed by the Commons Suit Lite GPT via its OpenAPI
+    action schema. Format: {total, scores, patterns: [[title, filename, score], ...]}
+
+    IMPORTANT: Do not remove or rename this file without updating the
+    GPT's OpenAPI schema at the same time. External consumers depend on
+    the exact path _data/pattern_index_lite.json.
+    """
+    score_counts: Dict[str, int] = {}
+    pattern_list = []
+
+    for pattern in patterns:
+        fm = pattern['frontmatter']
+        title = fm.get('title', '')
+        filename = pattern['slug'] + '.md'
+        # Use commons_alignment (integer 1-5) as the score.
+        # Do NOT use confidence_score (float 0-1) — that's a different metric.
+        score = fm.get('classification', {}).get('commons_alignment', 3)
+        score = int(score) if score is not None else 3
+
+        pattern_list.append([title, filename, score])
+
+        score_key = str(score)
+        score_counts[score_key] = score_counts.get(score_key, 0) + 1
+
+    return {
+        'total': len(pattern_list),
+        'scores': score_counts,
+        'patterns': sorted(pattern_list, key=lambda p: p[0])  # alphabetical
+    }
+
+
 def build_registry(patterns: List[Dict]) -> List[Dict]:
     """Build the registry mapping TypeIDs to patterns."""
     registry = []
@@ -358,6 +394,15 @@ def main():
     print(f"  Saved: {REGISTRY_PATH}")
     print(f"  Entries: {len(registry)}")
     
+    # Build compact GPT Actions index
+    print("\nBuilding GPT Actions lite index...")
+    lite_index = build_lite_index(patterns)
+    with open(LITE_INDEX_PATH, 'w', encoding='utf-8') as f:
+        json.dump(lite_index, f, separators=(',', ':'))
+    print(f"  Saved: {LITE_INDEX_PATH}")
+    print(f"  Entries: {lite_index['total']}")
+    print(f"  Size: {LITE_INDEX_PATH.stat().st_size:,} bytes")
+
     # Build knowledge graph
     print("\nBuilding knowledge graph...")
     graph = build_graph(patterns, lighthouses)
