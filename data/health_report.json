@@ -1,0 +1,24 @@
+{
+  "timestamp": "2026-02-08T04:32:33.250187Z",
+  "issues": [],
+  "warnings": [
+    "283 relationships point to non-existent entities",
+    "921 patterns have no relationships",
+    "1254 patterns still in draft status"
+  ],
+  "stats": {
+    "total_patterns": 1282,
+    "total_lighthouses": 0,
+    "total_relationships": 3309,
+    "patterns_by_status": {
+      "draft": 1254,
+      "published": 28
+    },
+    "patterns_by_domain": {
+      "startup": 1176,
+      "business": 1227,
+      "security": 721
+    },
+    "multi_domain_patterns": 1225
+  }
+}
