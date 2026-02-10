@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f5000677409353745e4c
+page_url: https://commons-os.github.io/patterns/publisher-subscriber-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/publisher-subscriber-pattern.md
 slug: publisher-subscriber-pattern
 title: Publisher-Subscriber Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/publisher-subscriber
 - https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern
@@ -41,18 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/publisher-subscriber-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Publisher-Subscriber (or Pub/Sub) pattern is a messaging pattern where senders of messages, called publishers, do not program the messages to be sent directly to specific receivers, called subscribers. Instead, publishers categorize published messages into classes, without knowledge of which subscribers, if any, there may be. Similarly, subscribers express interest in one or more classes and only receive messages that are of interest, without knowledge of which publishers, if any, there are. This decoupling of publishers and subscribers can allow for greater scalability and a more dynamic network topology. The pattern's origins can be traced back to early distributed systems and has become a cornerstone of modern cloud-native and microservices architectures.

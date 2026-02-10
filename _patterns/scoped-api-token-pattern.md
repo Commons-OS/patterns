@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f500667ca2b343e8255d
+page_url: https://commons-os.github.io/patterns/scoped-api-token-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/scoped-api-token-pattern.md
 slug: scoped-api-token-pattern
 title: Scoped API Token Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/nuget/nuget-org/scoped-api-keys
 - https://curity.io/resources/learn/scope-best-practices/
@@ -41,18 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/scoped-api-token-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Scoped API Token pattern is a security mechanism used to control access to APIs by creating tokens with fine-grained permissions. Instead of using a single, all-powerful API key, this pattern advocates for generating multiple tokens, each with a specific scope of access. This approach enhances security by limiting the potential damage if a token is compromised and provides better control over API usage.

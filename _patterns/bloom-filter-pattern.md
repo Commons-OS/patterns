@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4fd367bbfbc2d5f75c4
+page_url: https://commons-os.github.io/patterns/bloom-filter-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/bloom-filter-pattern.md
 slug: bloom-filter-pattern
 title: Bloom Filter Pattern
@@ -21,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +30,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://en.wikipedia.org/wiki/Bloom_filter
 - https://www.geeksforgeeks.org/system-design/bloom-filters-in-system-design/
@@ -40,18 +39,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/bloom-filter-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Bloom Filter pattern is a space-efficient probabilistic data structure that is used to test whether an element is a member of a set. It was conceived by Burton Howard Bloom in 1970. The trade-off for its efficiency is that it is probabilistic: it may return a false positive (indicating an element is in the set when it is not), but it will never return a false negative (indicating an element is not in the set when it is). This characteristic makes it particularly useful in scenarios where memory is a concern and a small rate of false positives is acceptable.

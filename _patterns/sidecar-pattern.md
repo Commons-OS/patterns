@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f500ab7db8bc3592f261
+page_url: https://commons-os.github.io/patterns/sidecar-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/sidecar-pattern.md
 slug: sidecar-pattern
 title: Sidecar Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,29 +31,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/sidecar
 - https://microservices.io/patterns/deployment/sidecar.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f500ab7db8bc3592f261
-page_url: https://commons-os.github.io/patterns/sidecar-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Sidecar pattern is a design pattern used in software architecture, particularly in microservices environments. It involves deploying a secondary component, the "sidecar," alongside a primary application to provide supporting features. The sidecar shares the same lifecycle as the parent application, being created and retired alongside it. This pattern is also known as the Sidekick pattern and is a decomposition pattern [1]. The name comes from the analogy of a sidecar attached to a motorcycle, where the sidecar is attached to one motorcycle, and each motorcycle can have its own sidecar.

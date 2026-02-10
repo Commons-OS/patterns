@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4fd3c7181827a94adf3
+page_url: https://commons-os.github.io/patterns/blue-green-deployment-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/blue-green-deployment-pattern.md
 slug: blue-green-deployment-pattern
 title: Blue-Green Deployment Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://en.wikipedia.org/wiki/Blue%E2%80%93green_deployment
 - https://martinfowler.com/bliki/BlueGreenDeployment.html
@@ -41,18 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/blue-green-deployment-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Blue-Green Deployment pattern is a software release strategy that reduces downtime and risk by running two identical production environments, referred to as "Blue" and "Green" [1]. At any given time, only one of the environments is live and serving production traffic. The other environment is idle and can be used to deploy and test a new version of the application. Once the new version is tested and verified, traffic is switched from the live environment to the updated environment. This switch is typically done using a router or a load balancer, allowing for a near-instantaneous transition with no downtime [2]. The previous live environment is kept on standby as a backup, enabling a quick rollback in case of any issues with the new version.

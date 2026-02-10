@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f500d871d38765f283cc
+page_url: https://commons-os.github.io/patterns/subdomain-based-tenant-routing/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/subdomain-based-tenant-routing.md
 slug: subdomain-based-tenant-routing
 title: Subdomain-Based Tenant Routing
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/domain-names
 - https://aws.amazon.com/blogs/networking-and-content-delivery/tenant-routing-strategies-for-saas-applications-on-aws/
@@ -41,18 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/subdomain-based-tenant-routing/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Subdomain-Based Tenant Routing pattern is a widely adopted architectural approach for multi-tenant applications, particularly in the Software-as-a-Service (SaaS) domain. This pattern assigns a unique subdomain to each tenant, allowing for clear separation and routing of traffic at the domain name system (DNS) level. For instance, a tenant named "acme" would access the service via `acme.service.com`, while another tenant "globex" would use `globex.service.com`. This approach provides a distinct and branded experience for each tenant, while still allowing the provider to manage a single, unified application codebase and infrastructure. The historical origins of this pattern are closely tied to the rise of cloud computing and SaaS, where the need for scalable, isolated, and customizable multi-tenant architectures became paramount.

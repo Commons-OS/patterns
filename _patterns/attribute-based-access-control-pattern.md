@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4fd0b7f81b99c8583e6
+page_url: https://commons-os.github.io/patterns/attribute-based-access-control-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/attribute-based-access-control-pattern.md
 slug: attribute-based-access-control-pattern
 title: Attribute-Based Access Control Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://www.okta.com/en-gb/blog/identity-security/attribute-based-access-control-abac/
 - https://en.wikipedia.org/wiki/Attribute-based_access_control
@@ -43,18 +42,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/attribute-based-access-control-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 Attribute-Based Access Control (ABAC) is a model for access control where authorization to perform a set of operations is determined by evaluating attributes associated with the subject, object, action, and environment. Unlike traditional models like Role-Based Access Control (RBAC), which grant permissions based on static roles, ABAC provides a more dynamic and fine-grained approach to managing access in complex systems [1]. The significance of ABAC lies in its ability to handle the intricate access control requirements of modern, distributed, and data-rich environments. Its origins can be traced back to the early 2000s as researchers and practitioners sought more flexible and scalable alternatives to the rigid structures of existing access control models [2].

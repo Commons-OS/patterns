@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4ff3473cfbc769f7e72
+page_url: https://commons-os.github.io/patterns/kappa-architecture-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/kappa-architecture-pattern.md
 slug: kappa-architecture-pattern
 title: Kappa Architecture Pattern
@@ -20,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -28,28 +30,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://hazelcast.com/foundations/software-architecture/kappa-architecture/
 - https://medium.com/@lenonrodrigues/kappa-architecture-an-efficient-model-for-real-time-processing-767c623d04ad
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4ff3473cfbc769f7e72
-page_url: https://commons-os.github.io/patterns/kappa-architecture-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Kappa Architecture is a software architecture pattern for processing streaming data. It simplifies traditional data processing pipelines by using a single technology stack for both real-time and batch processing. The core idea is to treat all data as an immutable stream of events, which are processed in real-time. This approach eliminates the need for a separate batch layer, which is a key component of the Lambda Architecture, its predecessor. By leveraging a unified stream-processing engine, the Kappa Architecture provides a more streamlined and efficient way to handle large-scale data analytics. [1]

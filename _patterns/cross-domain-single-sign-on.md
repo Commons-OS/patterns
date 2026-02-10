@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fdf4749ea8d2339756
+page_url: https://commons-os.github.io/patterns/cross-domain-single-sign-on/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/cross-domain-single-sign-on.md
 slug: cross-domain-single-sign-on
 title: Cross-Domain Single Sign-On
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://docs.pingidentity.com/web-agents/2025.11/user-guide/cdsso.html
 - https://docs.oracle.com/cd/E19316-01/820-3746/gipjl/index.html
@@ -41,19 +41,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fdf4749ea8d2339756
-page_url: https://commons-os.github.io/patterns/cross-domain-single-sign-on/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 Cross-Domain Single Sign-On (CDSSO) is an authentication pattern that enables a user to access multiple applications or services hosted on different internet domains after logging in only once [1]. It extends the concept of traditional Single Sign-On (SSO), which is typically restricted to a single domain, to create a seamless user experience across a distributed landscape of web properties. In today's internet, where organizations often manage a portfolio of services spread across various domains (e.g., `company.com`, `company.net`, `product.io`), CDSSO is crucial for providing unified and secure access. The historical origins of this pattern are tied to the growth of enterprise service portfolios and the need to integrate disparate systems without burdening users with multiple login prompts.

@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4fd957e6cb3bc0473fd
+page_url: https://commons-os.github.io/patterns/community-health-metrics-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/community-health-metrics-pattern.md
 slug: community-health-metrics-pattern
 title: Community Health Metrics Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,26 +31,14 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://commons.engineering
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/community-health-metrics-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 # Community Health Metrics Pattern
 
 **Type:** Platform Pattern

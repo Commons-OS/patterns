@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4fe96720893e13b90d0
+page_url: https://commons-os.github.io/patterns/faceted-search-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/faceted-search-pattern.md
 slug: faceted-search-pattern
 title: Faceted Search Pattern
@@ -23,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -31,10 +32,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://en.wikipedia.org/wiki/Faceted_search
 - https://www.nngroup.com/articles/mobile-faceted-search/
@@ -43,18 +42,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/faceted-search-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Faceted Search pattern, also known as faceted navigation or faceted browsing, is a technique for accessing information organized according to a faceted classification system, allowing users to explore a collection of information by applying multiple filters. It is a common feature in e-commerce websites and other applications that deal with large amounts of data. The pattern is significant for its ability to improve user experience by providing a structured and intuitive way to navigate and refine search results. Its historical origins can be traced back to library science and the work of S. R. Ranganathan on faceted classification in the 1930s [1].

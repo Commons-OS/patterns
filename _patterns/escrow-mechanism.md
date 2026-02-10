@@ -1,5 +1,6 @@
 ---
 id: pat_0eb8365d9b1a88657cae0da6
+page_url: https://commons-os.github.io/patterns/escrow-mechanism/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/escrow-mechanism.md
 slug: escrow-mechanism
 title: Escrow Mechanism
@@ -24,8 +25,7 @@ classification:
   - legal-tech
   status: draft
   commons_alignment: 4
-  commons_domain: &id001
-  - business
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -33,10 +33,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: higgerix
-  role: author
-- name: cloudsters
-  role: author
+- higgerix
+- cloudsters
 sources:
 - https://www.investopedia.com/terms/i/in-escrow.asp
 - https://www.escrowlawyers.ae/uncategorized/the-origin-of-escrow-services-and-their-evolution/
@@ -46,18 +44,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/escrow-mechanism/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Escrow Mechanism is a financial and legal arrangement wherein a trusted third party holds and regulates payment of the funds required for two parties involved in a given transaction. It helps make transactions more secure by keeping the payment in a secure escrow account which is only released when all of the terms of an agreement are met as overseen by the escrow company. The mechanism is designed to mitigate counterparty risk, the risk that one party in a transaction will not fulfill its contractual obligation. By introducing a neutral intermediary, the Escrow Mechanism ensures that assets, typically money, are held securely until predefined conditions are met by both the buyer and the seller. This contingent holding of assets builds trust in environments where parties may not know each other, enabling a wide range of economic activities that would otherwise be too risky to undertake. The core function of an escrow is to create a temporary, secure repository for value, contingent upon the successful completion of a transaction, thereby protecting all participants from fraud, default, or misrepresentation.

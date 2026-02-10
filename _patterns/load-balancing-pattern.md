@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4ff727980a51e1e52c9
+page_url: https://commons-os.github.io/patterns/load-balancing-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/load-balancing-pattern.md
 slug: load-balancing-pattern
 title: Load Balancing Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://levelup.gitconnected.com/load-balancing-design-pattern-2e3307e26407
 - https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview
@@ -41,19 +41,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4ff727980a51e1e52c9
-page_url: https://commons-os.github.io/patterns/load-balancing-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Load Balancing pattern is a fundamental design pattern in software architecture that focuses on distributing incoming network traffic across multiple backend servers or resources. The primary goal of this pattern is to optimize resource utilization, maximize throughput, minimize response time, and avoid overloading any single resource [1]. By distributing the workload, load balancing significantly enhances the scalability and reliability of applications. The concept of load balancing has been a cornerstone of distributed systems since their inception, evolving from simple hardware appliances to sophisticated software-based and cloud-native solutions that can dynamically adapt to changing traffic patterns.

@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4fd7475e1b8ca972489
+page_url: https://commons-os.github.io/patterns/circuit-breaker-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/circuit-breaker-pattern.md
 slug: circuit-breaker-pattern
 title: Circuit Breaker Pattern
@@ -21,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +30,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker
 - https://martinfowler.com/bliki/CircuitBreaker.html
@@ -41,18 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/circuit-breaker-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Circuit Breaker pattern is a critical design pattern used in modern software architecture to enhance the resilience and stability of distributed systems. It is primarily used to handle faults that may arise when communicating with remote services or resources, especially in microservices architectures where applications are composed of multiple, independently deployable services. The pattern prevents an application from repeatedly trying to execute an operation that is likely to fail, thereby avoiding the consumption of critical resources and allowing the failing service time to recover. This approach is analogous to an electrical circuit breaker that trips to prevent damage to a circuit during an overload or short circuit [1]. The concept was first popularized by Michael Nygard in his book "Release It!" and has since become a fundamental pattern for building fault-tolerant systems [2].

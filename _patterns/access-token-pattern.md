@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fcc77705b008fa8d23
+page_url: https://commons-os.github.io/patterns/access-token-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/access-token-pattern.md
 slug: access-token-pattern
 title: Access Token Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,29 +31,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://microservices.io/patterns/security/access-token.html
 - https://auth0.com/docs/secure/tokens/access-tokens
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fcc77705b008fa8d23
-page_url: https://commons-os.github.io/patterns/access-token-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Access Token pattern is a fundamental security mechanism in modern software architecture, particularly in distributed systems and microservices. It provides a standardized way for a client application to access protected resources on behalf of a user. The pattern involves an authentication server issuing a token to a client after successful authentication. This token, known as an access token, is then included in subsequent requests to the resource server, which validates the token to authorize the request. The historical origins of this pattern are rooted in the evolution of web security, moving from stateful session-based authentication to stateless token-based authentication, with standards like OAuth 2.0 playing a pivotal role in its widespread adoption [1].

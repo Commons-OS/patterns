@@ -1,5 +1,6 @@
 ---
 id: pat_3a6f4d8e9c2b7a1d8f0e3c5a
+page_url: https://commons-os.github.io/patterns/headless-platform/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/headless-platform.md
 slug: headless-platform
 title: Headless Platform
@@ -23,8 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
-  - business
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -32,10 +32,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: higgerix
-  role: author
-- name: cloudsters
-  role: author
+- higgerix
+- cloudsters
 sources:
 - https://www.salesforce.com/commerce/headless/guide/
 - https://www.contentful.com/blog/headless-architecture-seven-things-to-know/
@@ -45,18 +43,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/headless-platform/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 A Headless Platform is an architectural pattern where the backend (the "body") of a platform is decoupled from the frontend (the "head"). In this model, the backend is responsible for data storage, business logic, and providing a comprehensive set of APIs. The frontend, which can be a website, a mobile app, a wearable device, or any other user interface, consumes these APIs to deliver the user experience. This separation of concerns allows for greater flexibility and adaptability, as multiple frontends can be developed and updated independently of the backend. The core idea is to treat the backend as a content and service hub, accessible to any and all frontends through a standardized set of APIs. This approach contrasts with traditional monolithic architectures, where the frontend and backend are tightly coupled, making it difficult to adapt to new technologies and user expectations.

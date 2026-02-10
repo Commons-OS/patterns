@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fe8f7e328e86d0bf51
+page_url: https://commons-os.github.io/patterns/external-configuration-store/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/external-configuration-store.md
 slug: external-configuration-store
 title: External Configuration Store
@@ -22,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,29 +32,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/external-configuration-store
 - https://microservices.io/patterns/externalized-configuration.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fe8f7e328e86d0bf51
-page_url: https://commons-os.github.io/patterns/external-configuration-store/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The External Configuration Store pattern is a design approach that involves separating application configuration from the application code and storing it in a centralized, external location. This allows for easier management and control of configuration data, and enables sharing of configuration settings across multiple applications and application instances. The historical origins of this pattern can be traced back to the need to manage increasingly complex and distributed systems, where managing configuration files for each individual service became a significant operational burden. The evolution of microservices architectures and cloud computing has further amplified the importance of this pattern, as it provides a robust solution for managing configuration in dynamic and scalable environments [1].

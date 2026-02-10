@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f500cc71e2a799457dea
+page_url: https://commons-os.github.io/patterns/stream-processing-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/stream-processing-pattern.md
 slug: stream-processing-pattern
 title: Stream Processing Pattern
@@ -22,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +32,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://www.redpanda.com/blog/popular-stream-processing-patterns
 - https://developer.confluent.io/patterns/
@@ -41,19 +41,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f500cc71e2a799457dea
-page_url: https://commons-os.github.io/patterns/stream-processing-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Stream Processing pattern is a software architecture paradigm for processing data in real-time as it is generated. Unlike traditional batch processing, which processes data in large, static blocks, stream processing deals with continuous, unbounded data streams. This allows for the immediate analysis and reaction to events as they occur, enabling a wide range of real-time applications. The significance of this pattern has grown with the proliferation of IoT devices, social media, and other sources of high-velocity data. Its origins can be traced back to early work in event-driven architectures and complex event processing (CEP).

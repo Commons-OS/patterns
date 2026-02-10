@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f500397196900f6c8237
+page_url: https://commons-os.github.io/patterns/reverse-proxy-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/reverse-proxy-pattern.md
 slug: reverse-proxy-pattern
 title: Reverse Proxy Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/
 - https://www.fortinet.com/resources/cyberglossary/reverse-proxy
@@ -41,18 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/reverse-proxy-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Reverse Proxy pattern is a fundamental architectural pattern used in modern web applications and distributed systems. It involves placing an intermediary server, the reverse proxy, between clients and one or more backend servers. Unlike a forward proxy, which acts on behalf of clients, a reverse proxy acts on behalf of the servers, intercepting all incoming requests and forwarding them to the appropriate backend server [1]. This pattern is significant for its ability to enhance security, improve performance, and simplify the management of backend services. The origins of the reverse proxy can be traced back to the early days of the internet, where it emerged as a solution to manage and protect backend servers from direct exposure to the public network.

@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fd2b7ae5a29af26ca0
+page_url: https://commons-os.github.io/patterns/batch-processing-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/batch-processing-pattern.md
 slug: batch-processing-pattern
 title: Batch Processing Pattern
@@ -22,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +32,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://aws.amazon.com/what-is/batch-processing/
 - https://learn.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/batch-processing
@@ -41,19 +41,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fd2b7ae5a29af26ca0
-page_url: https://commons-os.github.io/patterns/batch-processing-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Batch Processing pattern is a method of executing a series of jobs or tasks non-interactively in a sequence. This pattern is designed to handle large volumes of data, where processing can be deferred to a later time, often during off-peak hours when computing resources are more readily available. The historical origins of batch processing date back to the early days of computing, where tasks were submitted on punch cards and run in batches by a mainframe computer. Its significance lies in its ability to process vast amounts of data efficiently and cost-effectively, making it a cornerstone of data-intensive applications.

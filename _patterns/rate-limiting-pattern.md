@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f500197aa6ad6f8023bf
+page_url: https://commons-os.github.io/patterns/rate-limiting-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/rate-limiting-pattern.md
 slug: rate-limiting-pattern
 title: Rate Limiting Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 4
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/rate-limiting-pattern
 - https://www.geeksforgeeks.org/system-design/rate-limiting-in-system-design/
@@ -40,19 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f500197aa6ad6f8023bf
-page_url: https://commons-os.github.io/patterns/rate-limiting-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Rate Limiting Pattern is a crucial mechanism in distributed systems designed to control the amount of traffic a service can handle. It restricts the number of requests a user or client can make to an API or a service within a specific time window. This pattern is essential for maintaining system stability, ensuring fair resource allocation, preventing denial-of-service (DoS) attacks, and managing operational costs. By enforcing limits, the pattern protects backend services from being overwhelmed by excessive requests, thereby improving reliability and availability [1][2].

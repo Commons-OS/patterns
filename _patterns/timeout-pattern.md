@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f5010470f1b37e99a802
+page_url: https://commons-os.github.io/patterns/timeout-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/timeout-pattern.md
 slug: timeout-pattern
 title: Timeout Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,29 +31,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://www.infoq.com/presentations/distributed-systems-resiliency/
 - https://microservices.io/patterns/reliability/circuit-breaker.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f5010470f1b37e99a802
-page_url: https://commons-os.github.io/patterns/timeout-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Timeout pattern is a fundamental design principle for building resilient and reliable distributed systems. It involves setting a predetermined time limit for a response when one service communicates with another. If a response is not received within this timeframe, the calling service ceases to wait, thereby preventing its resources from being indefinitely consumed by an unresponsive or slow downstream service. This simple yet powerful mechanism is crucial for maintaining system stability and preventing cascading failures, where the failure of a single component can ripple through the entire system, causing widespread outages [1].

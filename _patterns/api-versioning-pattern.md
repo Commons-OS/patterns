@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4fcf0742f98f51c2d68
+page_url: https://commons-os.github.io/patterns/api-versioning-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/api-versioning-pattern.md
 slug: api-versioning-pattern
 title: API Versioning Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 4
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://www.xmatters.com/blog/api-versioning-strategies
 - https://www.postman.com/api-platform/api-versioning/
@@ -41,17 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/api-versioning-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 _The API Versioning pattern addresses the challenge of evolving an API over time while maintaining compatibility for existing clients. It provides a systematic approach to introducing changes, whether they are new features, modifications, or deprecations, without disrupting the services that rely on the API._
 
 ### 1. Overview

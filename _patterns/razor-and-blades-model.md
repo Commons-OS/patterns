@@ -1,5 +1,6 @@
 ---
 id: pat_ad85e155afee49934b465b33
+page_url: https://commons-os.github.io/patterns/razor-and-blades-model/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/razor-and-blades-model.md
 slug: razor-and-blades-model
 title: Razor-and-Blades Model
@@ -23,8 +24,7 @@ classification:
   - industrial-economics
   status: draft
   commons_alignment: 1
-  commons_domain: &id001
-  - business
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -32,10 +32,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: higgerix
-  role: author
-- name: cloudsters
-  role: author
+- higgerix
+- cloudsters
 sources:
 - https://en.wikipedia.org/wiki/Razor_and_blades_model
 - https://www.investopedia.com/terms/r/razor-razorblademodel.asp
@@ -45,17 +43,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/razor-and-blades-model/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Razor-and-Blades model, also known as the bait and hook model, is a business strategy that involves selling a durable product (the "razor") at a low price, or even at a loss, to drive sales of a complementary, consumable product (the "blades") that is sold at a high-profit margin. This creates a recurring revenue stream for the company, as customers who have purchased the durable product are locked into buying the consumables to continue using it. The model's success hinges on creating a strong tie between the two products, often through proprietary designs, patents, or other forms of vendor lock-in that make it difficult for customers to use third-party consumables. This strategy is widely used across various industries, from consumer electronics to healthcare, and has been a cornerstone of many successful businesses for over a century.

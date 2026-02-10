@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f500c67f2db5859b75ed
+page_url: https://commons-os.github.io/patterns/strangler-fig-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/strangler-fig-pattern.md
 slug: strangler-fig-pattern
 title: Strangler Fig Pattern
@@ -22,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,29 +32,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://martinfowler.com/bliki/StranglerFigApplication.html
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/strangler-fig
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f500c67f2db5859b75ed
-page_url: https://commons-os.github.io/patterns/strangler-fig-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Strangler Fig Pattern is an architectural pattern for incrementally migrating a legacy system by gradually replacing specific pieces of functionality with new applications and services. The term was coined by Martin Fowler, who was inspired by the strangler fig trees he saw in Australia. These trees grow by wrapping themselves around an existing tree, eventually replacing it entirely. In the same way, a new system is built around the legacy system, gradually taking over its functions until the legacy system can be decommissioned [1].

@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f5002671a48f6019b111
+page_url: https://commons-os.github.io/patterns/replicated-log-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/replicated-log-pattern.md
 slug: replicated-log-pattern
 title: Replicated Log Pattern
@@ -22,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +32,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://martinfowler.com/articles/patterns-of-distributed-systems/replicated-log.html
 - https://medium.com/@rohitgarg2523/replication-logs-in-distributed-data-systems-9442f5c5fab1
@@ -41,18 +41,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f5002671a48f6019b111
-page_url: https://commons-os.github.io/patterns/replicated-log-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 _The Replicated Log is a foundational pattern in distributed systems that ensures data consistency and fault tolerance across multiple nodes. It achieves this by maintaining an ordered, append-only log of operations that is replicated to all participating nodes. This pattern is fundamental to the construction of many other distributed systems patterns and is a key building block for reliable and scalable services._
 
 ### 1. Overview

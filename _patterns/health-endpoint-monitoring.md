@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4ff027003b65accac49
+page_url: https://commons-os.github.io/patterns/health-endpoint-monitoring/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/health-endpoint-monitoring.md
 slug: health-endpoint-monitoring
 title: Health Endpoint Monitoring
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/health-endpoint-monitoring
 - https://microservices.io/patterns/observability/health-check-api.html
@@ -40,19 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4ff027003b65accac49
-page_url: https://commons-os.github.io/patterns/health-endpoint-monitoring/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Health Endpoint Monitoring pattern is a fundamental design pattern in modern software architecture, particularly in distributed systems and microservices. It involves exposing a specific endpoint (a URL) from an application or service that returns an indication of its health status. This allows external monitoring tools, load balancers, and orchestration platforms to automatically check if the application is running and functioning correctly. The origins of this pattern can be traced back to the early days of distributed computing and the need to manage the state of network services. Over time, it has evolved into a standardized practice, essential for building resilient and self-healing systems [1].

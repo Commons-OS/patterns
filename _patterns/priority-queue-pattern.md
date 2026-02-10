@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fff47d2880ddc6d110
+page_url: https://commons-os.github.io/patterns/priority-queue-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/priority-queue-pattern.md
 slug: priority-queue-pattern
 title: Priority Queue Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,29 +31,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/priority-queue
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/PriorityQueue.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fff47d2880ddc6d110
-page_url: https://commons-os.github.io/patterns/priority-queue-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Priority Queue pattern is a messaging pattern that enables the processing of high-priority messages before lower-priority ones. In distributed systems, services often communicate asynchronously using queues. While a standard queue operates on a First-In, First-Out (FIFO) basis, a priority queue reorders messages based on a pre-assigned priority level. This ensures that urgent or critical tasks are handled with minimal delay, improving the system's overall responsiveness and performance for key operations.

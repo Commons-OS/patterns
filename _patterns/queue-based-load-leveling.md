@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f500127e97aa75a3a069
+page_url: https://commons-os.github.io/patterns/queue-based-load-leveling/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/queue-based-load-leveling.md
 slug: queue-based-load-leveling
 title: Queue-Based Load Leveling
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/queue-based-load-leveling
 - https://www.geeksforgeeks.org/system-design/queue-based-load-leveling-pattern-system-design/
@@ -40,19 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f500127e97aa75a3a069
-page_url: https://commons-os.github.io/patterns/queue-based-load-leveling/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Queue-Based Load Leveling pattern is a foundational design principle in distributed systems and microservices architecture. It introduces a message queue as an intermediary buffer between a service and the tasks that invoke it. This decouples the task producers from the service consumers, allowing them to operate at different rates without direct interaction. The primary purpose of this pattern is to smooth out intermittent, heavy loads that could otherwise overwhelm a service, leading to failures or increased latency. By queuing incoming requests, the service can process them at its own pace, ensuring stability and responsiveness. The origins of this pattern can be traced back to early messaging systems and enterprise integration patterns, where the need to manage asynchronous communication between disparate systems was paramount [1].

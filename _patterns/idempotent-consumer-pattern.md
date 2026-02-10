@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4ff16795e9290b8b252
+page_url: https://commons-os.github.io/patterns/idempotent-consumer-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/idempotent-consumer-pattern.md
 slug: idempotent-consumer-pattern
 title: Idempotent Consumer Pattern
@@ -20,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -28,29 +30,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://microservices.io/patterns/communication-style/idempotent-consumer.html
 - https://www.milanjovanovic.tech/blog/idempotent-consumer-handling-duplicate-messages
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4ff16795e9290b8b252
-page_url: https://commons-os.github.io/patterns/idempotent-consumer-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Idempotent Consumer is a design pattern used in distributed systems to ensure that processing a message multiple times produces the same result as processing it once. This pattern is essential for building resilient and reliable systems, particularly in message-driven architectures where at-least-once message delivery is common. The concept of idempotency has its roots in mathematics and computer science, where an operation is considered idempotent if applying it multiple times has the same effect as applying it once. In the context of software, this pattern has become increasingly important with the rise of microservices and other distributed architectures.

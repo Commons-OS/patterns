@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4ff6672548629a08983
+page_url: https://commons-os.github.io/patterns/linked-data-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/linked-data-pattern.md
 slug: linked-data-pattern
 title: Linked Data Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://patterns.dataincubator.org/book/linked-data-patterns.pdf
 - https://www.w3.org/wiki/LinkedData
@@ -41,17 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/linked-data-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 _The Linked Data pattern provides a set of best practices for publishing and connecting structured data on the Web, enabling the creation of a global data graph._
 
 ### 1. Overview

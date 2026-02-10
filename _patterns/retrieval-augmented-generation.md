@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f5002c70848988f2ebf3
+page_url: https://commons-os.github.io/patterns/retrieval-augmented-generation/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/retrieval-augmented-generation.md
 slug: retrieval-augmented-generation
 title: Retrieval-Augmented Generation Pattern
@@ -23,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -31,26 +32,14 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://commons.engineering
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/retrieval-augmented-generation/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 # Retrieval-Augmented Generation Pattern
 
 ### 1. Intent

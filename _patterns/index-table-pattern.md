@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4ff2271c4b01d7084c9
+page_url: https://commons-os.github.io/patterns/index-table-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/index-table-pattern.md
 slug: index-table-pattern
 title: Index Table Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,28 +31,14 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/index-table
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4ff2271c4b01d7084c9
-page_url: https://commons-os.github.io/patterns/index-table-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Index Table pattern is a design pattern used to improve query performance in data stores by creating indexes over fields that are frequently referenced by queries. This allows applications to more quickly locate the data to retrieve from a data store, especially in NoSQL databases where secondary indexes are not always available [1]. The significance of this pattern lies in its ability to provide efficient data retrieval on non-primary key fields, which is a common requirement for modern applications. The historical origins of this pattern can be traced back to the concept of secondary indexes in relational database systems, which has been adapted for the distributed and scalable nature of cloud-based data stores.

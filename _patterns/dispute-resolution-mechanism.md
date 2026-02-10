@@ -1,5 +1,6 @@
 ---
 id: pat_288f36f858148fbc0cca15e5
+page_url: https://commons-os.github.io/patterns/dispute-resolution-mechanism/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/dispute-resolution-mechanism.md
 slug: dispute-resolution-mechanism
 title: Dispute Resolution Mechanism
@@ -24,8 +25,7 @@ classification:
   - e-commerce
   status: draft
   commons_alignment: 4
-  commons_domain: &id001
-  - business
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -33,10 +33,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: higgerix
-  role: author
-- name: cloudsters
-  role: author
+- higgerix
+- cloudsters
 sources:
 - https://www.ncsc.org/resources-courts/how-online-dispute-resolution-works-everyone
 - https://en.wikipedia.org/wiki/Online_dispute_resolution
@@ -46,18 +44,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/dispute-resolution-mechanism/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 A Dispute Resolution Mechanism is a structured process or system designed to facilitate the resolution of conflicts and disagreements between users on a digital platform. This mechanism provides a formal, transparent, and often automated pathway for addressing grievances, from minor misunderstandings to significant contractual breaches. The primary purpose of such a system is to maintain trust, ensure fairness, and uphold the integrity of the platform's ecosystem. By offering a reliable means of recourse, platforms can reduce the friction inherent in online interactions, encourage safer transactions, and foster a more stable and predictable environment for all participants. The importance of a robust dispute resolution mechanism cannot be overstated; it is a cornerstone of effective platform governance, directly impacting user retention, satisfaction, and the overall health of the digital community. Without it, platforms risk devolving into chaotic, untrustworthy spaces where conflicts escalate, bad actors thrive, and legitimate users are left without protection.

@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fe837ed1a227f33241
+page_url: https://commons-os.github.io/patterns/exception-tracking-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/exception-tracking-pattern.md
 slug: exception-tracking-pattern
 title: Exception Tracking Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://microservices.io/patterns/observability/exception-tracking.html
 - https://www.oreilly.com/library/view/architectural-patterns/9781787287495/f37eb982-8bd1-4cd2-b57b-28cd1c9a4780.xhtml
@@ -41,19 +41,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fe837ed1a227f33241
-page_url: https://commons-os.github.io/patterns/exception-tracking-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Exception Tracking pattern is a crucial component of modern software observability, providing a systematic approach to capturing, aggregating, and analyzing exceptions that occur within an application. In distributed systems, where applications are composed of numerous services running across multiple machines, identifying and resolving errors can be a complex and time-consuming task. This pattern addresses this challenge by centralizing exception data, enabling development teams to gain insights into the health of their applications, prioritize bug fixes, and ultimately improve software quality and user experience. The practice of tracking exceptions has evolved alongside the increasing complexity of software systems, from simple log file analysis to sophisticated, real-time monitoring platforms.

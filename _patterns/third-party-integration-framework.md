@@ -1,5 +1,6 @@
 ---
 id: pat_c7670c4de95b5464b783e06a
+page_url: https://commons-os.github.io/patterns/third-party-integration-framework/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/third-party-integration-framework.md
 slug: third-party-integration-framework
 title: Third-Party Integration Framework
@@ -24,8 +25,7 @@ classification:
   - network-theory
   status: draft
   commons_alignment: 4
-  commons_domain: &id001
-  - business
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -33,10 +33,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: higgerix
-  role: author
-- name: cloudsters
-  role: author
+- higgerix
+- cloudsters
 sources:
 - https://www.merge.dev/blog/3rd-party-integration
 - https://www.educause.edu/content/2024/third-party-integrations-governance-and-process-guide
@@ -46,18 +44,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/third-party-integration-framework/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 A Third-Party Integration Framework is a structured approach that enables a platform to seamlessly connect with external applications and services developed by other companies. This pattern is not merely about providing an Application Programming Interface (API); it encompasses a comprehensive set of tools, documentation, policies, and support systems that collectively create a robust and scalable ecosystem. By establishing a standardized method for third-party developers to build and manage integrations, a platform can significantly expand its capabilities and value proposition without bearing the entire development burden. This fosters a dynamic environment where the core platform acts as a hub, and a multitude of specialized services can be plugged in, creating a richer and more versatile experience for the end-users. The framework essentially transforms a standalone product into a powerful, interconnected platform.

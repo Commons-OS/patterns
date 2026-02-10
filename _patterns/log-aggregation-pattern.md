@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4ff78737198922d8b68
+page_url: https://commons-os.github.io/patterns/log-aggregation-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/log-aggregation-pattern.md
 slug: log-aggregation-pattern
 title: Log Aggregation Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://microservices.io/patterns/observability/application-logging.html
 - https://java-design-patterns.com/patterns/microservices-log-aggregation/
@@ -48,18 +47,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/log-aggregation-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Log Aggregation pattern is a fundamental component of modern, distributed software architectures. It involves centralizing log data from various services and components into a single, unified location for storage, analysis, and monitoring [1]. In the era of microservices and distributed systems, where applications are composed of numerous independently deployable services, understanding the overall system behavior can be challenging. Each service generates its own logs, and without a centralized mechanism, developers and operators would need to manually collect and inspect logs from each service instance, which is both inefficient and error-prone [2]. The historical origins of log aggregation are tied to the evolution of system administration and the need for centralized monitoring in increasingly complex IT environments. Initially, system administrators relied on tools like `syslog` to collect logs from different servers in a network. With the advent of web-scale applications and distributed systems, more sophisticated solutions emerged to handle the volume, velocity, and variety of log data [3].

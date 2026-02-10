@@ -1,5 +1,6 @@
 ---
 id: pat_1279829919c019f17a1c7a21
+page_url: https://commons-os.github.io/patterns/platform-interoperability/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/platform-interoperability.md
 slug: platform-interoperability
 title: Platform Interoperability
@@ -24,8 +25,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 4
-  commons_domain: &id001
-  - business
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -33,10 +33,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: higgerix
-  role: author
-- name: cloudsters
-  role: author
+- higgerix
+- cloudsters
 sources:
 - https://www.ibm.com/think/topics/interoperability
 - https://www.acceldata.io/blog/data-interoperability-key-principles-challenges-and-best-practices
@@ -46,18 +44,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/platform-interoperability/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 Platform interoperability is the ability of different digital platforms, systems, and applications to connect and communicate with each other, enabling the seamless exchange of data and functionality. This characteristic allows for the creation of complex, interconnected ecosystems where diverse services can work together, regardless of their underlying technology or the organization that created them. At its core, interoperability is about breaking down the digital silos that often exist between different software products and services. Instead of being isolated, interoperable platforms can share resources, trigger actions in one another, and create composite services that offer more value than any single platform could alone. This is achieved through the use of common standards, protocols, and application programming interfaces (APIs) that define a shared language for communication and data exchange. The result is a more integrated and flexible digital environment where users can move their data freely, and developers can build new and innovative services by combining the capabilities of existing platforms.

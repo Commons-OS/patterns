@@ -1,5 +1,6 @@
 ---
 id: pat_3b9b4b4b4b4b4b4b4b4b4b4b
+page_url: https://commons-os.github.io/patterns/app-store-model/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/app-store-model.md
 slug: app-store-model
 title: App Store Model
@@ -24,8 +25,7 @@ classification:
   - business-strategy
   status: draft
   commons_alignment: 2
-  commons_domain: &id001
-  - business
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -33,10 +33,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: higgerix
-  role: author
-- name: cloudsters
-  role: author
+- higgerix
+- cloudsters
 sources:
 - https://www.investopedia.com/terms/a/apple-app-store.asp
 - https://en.wikipedia.org/wiki/App_store
@@ -46,18 +44,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/app-store-model/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The App Store Model is a digital distribution platform that serves as a centralized marketplace for discovering, downloading, and managing software applications. This model, most famously embodied by Apple's App Store and Google's Play Store, has fundamentally reshaped the software industry by creating a two-sided market that connects developers with a global user base. The platform owner typically provides the infrastructure, payment processing, and a curated environment, while taking a commission on sales. This creates a powerful ecosystem effect, where a large user base attracts more developers, and a wider variety of apps, in turn, attracts more users. The model simplifies the distribution process for developers, who no longer need to manage their own sales channels, and provides users with a trusted and convenient source for software.

@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fdc7705faa844d9ed4
+page_url: https://commons-os.github.io/patterns/content-based-router-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/content-based-router-pattern.md
 slug: content-based-router-pattern
 title: Content-Based Router Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/ContentBasedRouter.html
 - https://microservices.io/patterns/apigateway.html
@@ -40,18 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fdc7705faa844d9ed4
-page_url: https://commons-os.github.io/patterns/content-based-router-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 _The Content-Based Router is a fundamental messaging pattern that enables the flexible and dynamic routing of messages based on their content. This pattern is a key component in building decoupled and scalable systems, allowing for intelligent message distribution without requiring the sender to have knowledge of the recipient(s)._
 
 ### 1. Overview

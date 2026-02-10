@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f5012e73e4b906d91b26
+page_url: https://commons-os.github.io/patterns/wire-tap-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/wire-tap-pattern.md
 slug: wire-tap-pattern
 title: Wire Tap Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/WireTap.html
 - https://www.baeldung.com/wiretap-pattern
@@ -40,18 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f5012e73e4b906d91b26
-page_url: https://commons-os.github.io/patterns/wire-tap-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 _The "Wire Tap" pattern, a foundational concept in enterprise integration, provides a mechanism for inspecting messages as they travel through a system without altering the message flow. This pattern is instrumental in achieving transparency and observability in distributed systems, where understanding the interactions between components is crucial for debugging, monitoring, and auditing._
 
 ### 1. Overview

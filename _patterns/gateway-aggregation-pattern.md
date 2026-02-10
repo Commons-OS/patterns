@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4feac717cad041632d9
+page_url: https://commons-os.github.io/patterns/gateway-aggregation-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/gateway-aggregation-pattern.md
 slug: gateway-aggregation-pattern
 title: Gateway Aggregation Pattern
@@ -20,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -28,10 +30,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/gateway-aggregation
 - https://medium.com/design-microservices-architecture-with-patterns/gateway-aggregation-pattern-9ff92e1771d0
@@ -39,19 +39,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4feac717cad041632d9
-page_url: https://commons-os.github.io/patterns/gateway-aggregation-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Gateway Aggregation pattern is a design pattern used in software architecture to simplify communication between a client and multiple backend services. It involves using a single entry point, an API Gateway, to receive a client request and then dispatch multiple requests to various downstream services. The gateway then aggregates the responses from these services and returns a single, consolidated response to the client [1]. This pattern is particularly beneficial in microservices architectures where a single client operation may require data from several individual services. By consolidating multiple calls into one, the Gateway Aggregation pattern reduces the chattiness between the client and the backend, which can significantly improve application performance and user experience, especially over high-latency networks [2].

@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4fd8f7bea8b1830df92
+page_url: https://commons-os.github.io/patterns/commons-resource-allocation/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/commons-resource-allocation.md
 slug: commons-resource-allocation
 title: Commons Resource Allocation
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,26 +31,14 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://commons.engineering
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/commons-resource-allocation/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 # Commons Resource Allocation
 
 ### 1. Introduction

@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fd4e7af384e38348ec
+page_url: https://commons-os.github.io/patterns/canary-deployment-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/canary-deployment-pattern.md
 slug: canary-deployment-pattern
 title: Canary Deployment Pattern
@@ -22,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,29 +32,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://martinfowler.com/bliki/CanaryRelease.html
 - https://docs.cloud.google.com/deploy/docs/deployment-strategies/canary
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fd4e7af384e38348ec
-page_url: https://commons-os.github.io/patterns/canary-deployment-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Canary Deployment pattern is a strategy for releasing new software versions into a production environment in a controlled and gradual manner. The core idea is to route a small subset of users to the new version while the rest of the users continue to use the current version. This approach allows for the early detection of potential problems with the new release before it is fully deployed to the entire user base, thereby minimizing the impact of any issues. The name of the pattern is derived from the historical practice of coal miners who would carry canaries into the mines to detect toxic gases; if the canary became ill or died, it served as an early warning for the miners to evacuate. Similarly, the "canary" in a software deployment is the small group of users who are the first to experience the new version, and their experience serves as an indicator of the new version's health. [1]

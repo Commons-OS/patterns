@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4ffbc72319082bc9b58
+page_url: https://commons-os.github.io/patterns/oauth2-authorization-framework/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/oauth2-authorization-framework.md
 slug: oauth2-authorization-framework
 title: OAuth2 Authorization Framework
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,28 +31,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://datatracker.ietf.org/doc/html/rfc6749
 - https://auth0.com/docs/authenticate/protocols/oauth
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/oauth2-authorization-framework/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The OAuth 2.0 Authorization Framework is an open standard for access delegation, commonly used as a way for internet users to grant websites or applications access to their information on other websites but without giving them the passwords. It provides client applications a 'secure delegated access' to server resources on behalf of a resource owner. It specifies a process for resource owners to authorize third-party access to their server resources without sharing their credentials. The standard is defined in RFC 6749 [1].

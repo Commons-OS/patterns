@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4ff7f7da9ae2d9c7777
+page_url: https://commons-os.github.io/patterns/long-polling-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/long-polling-pattern.md
 slug: long-polling-pattern
 title: Long Polling Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://www.pubnub.com/guides/long-polling/
 - https://javascript.info/long-polling
@@ -40,19 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4ff7f7da9ae2d9c7777
-page_url: https://commons-os.github.io/patterns/long-polling-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 Long Polling is a design pattern that enables a server to push information to a client in a way that emulates a persistent connection over HTTP. It is a variation of the traditional polling technique and is used to provide more responsive and efficient real-time communication between a client and a server. The pattern is particularly useful in web applications where the server needs to send updates to the client as soon as new data is available, without the client having to repeatedly request it.

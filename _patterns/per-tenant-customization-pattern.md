@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4ffd6793db8eb459a91
+page_url: https://commons-os.github.io/patterns/per-tenant-customization-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/per-tenant-customization-pattern.md
 slug: per-tenant-customization-pattern
 title: Per-Tenant Customization Pattern
@@ -22,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 2
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,29 +32,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/multi-tenant-saas
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4ffd6793db8eb459a91
-page_url: https://commons-os.github.io/patterns/per-tenant-customization-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Per-Tenant Customization pattern addresses the need to provide tailored experiences for different tenants within a multi-tenant software architecture. In a multi-tenant system, where a single instance of the software serves multiple customers (tenants), the challenge is to offer individualized functionality, branding, and data schemas without sacrificing the scalability and cost-effectiveness of the shared infrastructure. This pattern has its roots in the evolution of Software-as-a-Service (SaaS), where the ability to cater to diverse customer needs became a key competitive differentiator. It allows service providers to move beyond a one-size-fits-all approach and offer a more personalized and valuable service to each tenant.

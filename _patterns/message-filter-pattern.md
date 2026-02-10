@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4ff8a7355b4c7df3b4e
+page_url: https://commons-os.github.io/patterns/message-filter-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/message-filter-pattern.md
 slug: message-filter-pattern
 title: Message Filter Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,28 +31,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/Filter.html
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/pipes-and-filters
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/message-filter-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Message Filter pattern is a fundamental design pattern in messaging and integration architectures. It provides a mechanism to control the flow of messages by selectively processing or discarding them based on predefined criteria. The pattern is a specialization of the Message Router, designed to eliminate irrelevant messages from a message stream, ensuring that downstream components only receive data that is pertinent to their function. This selective consumption optimizes resource utilization, reduces processing overhead, and enhances the overall efficiency of a distributed system. The origins of this pattern are deeply rooted in the principles of enterprise integration and can be traced back to early messaging systems where the need to decouple message producers from consumers became apparent. The formalization of the Message Filter pattern is most notably captured in Gregor Hohpe and Bobby Woolf's seminal work, "Enterprise Integration Patterns" [1].

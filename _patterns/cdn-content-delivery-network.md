@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fd617f40bac5db1f43
+page_url: https://commons-os.github.io/patterns/cdn-content-delivery-network/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/cdn-content-delivery-network.md
 slug: cdn-content-delivery-network
 title: CDN Content Delivery Network
@@ -20,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -28,10 +30,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
 - https://www.akamai.com/glossary/what-is-a-cdn
@@ -39,19 +39,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fd617f40bac5db1f43
-page_url: https://commons-os.github.io/patterns/cdn-content-delivery-network/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 A Content Delivery Network (CDN) is a geographically distributed network of proxy servers and their data centers. The goal is to provide high availability and performance by distributing the service spatially relative to end-users. CDNs came into existence in the late 1990s as a means to alleviate the performance bottlenecks of the internet as it was beginning to scale. Akamai Technologies was one of the first companies to provide a large-scale CDN service [2]. Today, CDNs are an integral part of the internet, serving a large portion of web content, including text, graphics, scripts, media files, and software downloads.

@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f500e47d6e8cd7edecf7
+page_url: https://commons-os.github.io/patterns/tenant-aware-data-partitioning/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/tenant-aware-data-partitioning.md
 slug: tenant-aware-data-partitioning
 title: Tenant-Aware Data Partitioning
@@ -22,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +32,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/tenancy-models
 - https://bix-tech.com/multi-tenant-architecture-the-complete-guide-for-modern-saas-and-analytics-platforms-2/
@@ -41,19 +41,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f500e47d6e8cd7edecf7
-page_url: https://commons-os.github.io/patterns/tenant-aware-data-partitioning/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 **Tenant-Aware Data Partitioning** is a fundamental architectural pattern for multi-tenant systems, particularly in the context of Software-as-a-Service (SaaS) platforms. It provides a structured approach to logically and physically separate the data of different tenants within a shared infrastructure. The primary goal of this pattern is to ensure data isolation, security, and manageability while balancing performance, cost, and scalability. The historical origins of this pattern are deeply rooted in the evolution of application service providers (ASPs) and the subsequent rise of cloud computing, which made multi-tenancy a cornerstone of modern software delivery [1].

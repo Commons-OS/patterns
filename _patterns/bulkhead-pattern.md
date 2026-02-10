@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fd427406b92741d564
+page_url: https://commons-os.github.io/patterns/bulkhead-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/bulkhead-pattern.md
 slug: bulkhead-pattern
 title: Bulkhead Pattern
@@ -20,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -28,10 +30,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/bulkhead
 - https://www.geeksforgeeks.org/system-design/bulkhead-pattern/
@@ -39,19 +39,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fd427406b92741d564
-page_url: https://commons-os.github.io/patterns/bulkhead-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Bulkhead pattern is a design principle for creating fault-tolerant applications that isolate resources to prevent cascading failures. The term originates from the maritime industry, where a ship's hull is divided into compartments called bulkheads. If one compartment is damaged and floods, the bulkheads contain the water, preventing the entire ship from sinking [1]. In software architecture, this translates to partitioning an application's resources—such as connection pools, thread pools, or even entire services—into isolated pools. This ensures that a failure in one part of the system does not exhaust all available resources and bring down the entire application.

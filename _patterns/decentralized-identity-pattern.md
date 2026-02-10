@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fe137f0196bf9cae69
+page_url: https://commons-os.github.io/patterns/decentralized-identity-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/decentralized-identity-pattern.md
 slug: decentralized-identity-pattern
 title: Decentralized Identity Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 4
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://techcommunity.microsoft.com/blog/microsoft-security-blog/decentralized-identity-the-basics-of-decentralized-identity/3071980
 - https://www.w3.org/TR/did-core/
@@ -40,19 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fe137f0196bf9cae69
-page_url: https://commons-os.github.io/patterns/decentralized-identity-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Decentralized Identity pattern, often associated with the concept of Self-Sovereign Identity (SSI), represents a fundamental shift in how digital identity is managed. Instead of relying on centralized authorities like corporations or governments to issue and control digital identities, this pattern empowers individuals to create, own, and manage their own identities in a secure and verifiable manner. The historical origins of this pattern can be traced back to the limitations of traditional, federated identity models and the rise of distributed ledger technologies (DLT), such as blockchain, which provide the necessary infrastructure for decentralized trust.

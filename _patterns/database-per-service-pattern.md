@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fe067f0bb5db1243c0
+page_url: https://commons-os.github.io/patterns/database-per-service-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/database-per-service-pattern.md
 slug: database-per-service-pattern
 title: Database-Per-Service Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://microservices.io/patterns/data/database-per-service.html
 - https://docs.aws.amazon.com/prescriptive-guidance/latest/modernization-data-persistence/database-per-service.html
@@ -40,19 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fe067f0bb5db1243c0
-page_url: https://commons-os.github.io/patterns/database-per-service-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The **Database-per-Service** pattern is a fundamental architectural principle in the design of microservices-based systems. It dictates that each microservice should have its own private database, accessible only by that service [1]. This stands in contrast to the traditional monolithic approach where multiple services share a single, large database. The historical origins of this pattern are tightly coupled with the rise of microservices architecture, which emerged as a solution to the scalability and maintenance challenges of monolithic applications. By decentralizing data ownership, the Database-per-Service pattern enables the core tenets of microservices: loose coupling, independent deployment, and technological diversity.

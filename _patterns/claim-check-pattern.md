@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4fd7b7fdd9fec058378
+page_url: https://commons-os.github.io/patterns/claim-check-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/claim-check-pattern.md
 slug: claim-check-pattern
 title: Claim-Check Pattern
@@ -21,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,28 +30,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/claim-check
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/StoreInLibrary.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/claim-check-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Claim-Check pattern is a design pattern used in messaging architectures to handle large messages efficiently. Instead of sending a large data payload directly through a messaging system, the pattern advocates for storing the payload in an external data store and sending a much smaller reference, or "claim check," within the message itself. The receiving component can then use this claim check to retrieve the full payload from the data store when needed. This approach prevents large messages from overwhelming the messaging infrastructure, which is typically optimized for high volumes of small messages [1].

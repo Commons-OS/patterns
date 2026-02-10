@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fde773eda01753f027
+page_url: https://commons-os.github.io/patterns/correlation-identifier-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/correlation-identifier-pattern.md
 slug: correlation-identifier-pattern
 title: Correlation Identifier Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/CorrelationIdentifier.html
 - https://microsoft.github.io/code-with-engineering-playbook/observability/correlation-id/
@@ -40,19 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fde773eda01753f027
-page_url: https://commons-os.github.io/patterns/correlation-identifier-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Correlation Identifier pattern is a fundamental concept in distributed systems and messaging architectures. It provides a mechanism to track a request or a message as it traverses through multiple services or components. The core idea is to assign a unique identifier to an initial request and propagate this identifier across all subsequent downstream requests and responses. This allows for a unified view of a transaction, making it easier to trace, debug, and monitor the entire workflow. The historical origins of this pattern can be traced back to early messaging systems and enterprise application integration (EAI), where the need to correlate requests and replies in asynchronous communication was paramount [1].

@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fe00723ab478e2f55f
+page_url: https://commons-os.github.io/patterns/data-replication-strategies/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/data-replication-strategies.md
 slug: data-replication-strategies
 title: Data Replication Strategies
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,29 +31,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://www.striim.com/blog/the-7-data-replication-strategies-you-need-to-know/
 - https://www.geeksforgeeks.org/system-design/data-replication-strategies-in-system-design/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fe00723ab478e2f55f
-page_url: https://commons-os.github.io/patterns/data-replication-strategies/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 Data replication is the process of creating and maintaining multiple copies of data on different servers or in different locations. This ensures that the data is always available, even if one of the servers or locations fails. Data replication is a fundamental concept in distributed systems, and it is essential for building reliable and scalable applications. The historical origins of data replication can be traced back to the early days of computing, when researchers and engineers were first grappling with the challenges of building distributed systems. As systems became more complex and the amount of data they needed to store and process grew, the need for robust data replication strategies became increasingly apparent.

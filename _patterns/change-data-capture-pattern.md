@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fd677a40b7f8c90826
+page_url: https://commons-os.github.io/patterns/change-data-capture-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/change-data-capture-pattern.md
 slug: change-data-capture-pattern
 title: Change Data Capture Pattern
@@ -22,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,29 +32,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://www.confluent.io/blog/how-change-data-capture-works-patterns-solutions-implementation/
 - https://en.wikipedia.org/wiki/Change_data_capture
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fd677a40b7f8c90826
-page_url: https://commons-os.github.io/patterns/change-data-capture-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 Change Data Capture (CDC) is a set of software design patterns used to determine and track changes in data so that action can be taken based on those changes. In essence, CDC turns a database from a passive repository of information into an active, real-time source of event streams. This pattern is significant because it enables data to be liberated from the confines of a single database, allowing for a wide range of use cases, including real-time analytics, data replication, and microservices integration. The historical origins of CDC can be traced back to the concept of "active databases," an area of research that explored how to make databases react to events and state changes automatically [2].

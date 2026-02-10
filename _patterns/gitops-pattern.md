@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4fecb7faf840191e1b7
+page_url: https://commons-os.github.io/patterns/gitops-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/gitops-pattern.md
 slug: gitops-pattern
 title: GitOps Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,27 +31,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://www.redhat.com/en/topics/devops/what-is-gitops
 - https://www.atlassian.com/git/tutorials/gitops
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/gitops-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 # GitOps Pattern
 
 ### 1. Overview

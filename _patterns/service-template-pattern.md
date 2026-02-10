@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f5009174b38e320a942d
+page_url: https://commons-os.github.io/patterns/service-template-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/service-template-pattern.md
 slug: service-template-pattern
 title: Service Template Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,29 +31,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://microservices.io/patterns/service-template.html
 - https://www.geeksforgeeks.org/system-design/service-template-pattern-in-microservices/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f5009174b38e320a942d
-page_url: https://commons-os.github.io/patterns/service-template-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Service Template Pattern is a design approach used to accelerate the development of new services, particularly within a microservices architecture. The fundamental idea is to create a standardized, reusable blueprint—a template—that encapsulates common functionalities and cross-cutting concerns required by most services in a system. This allows development teams to bypass the repetitive and time-consuming setup process for each new service, enabling them to focus directly on implementing unique business logic. By providing a pre-configured foundation that includes build logic, deployment scripts, and essential modules for concerns like logging, metrics, and security, the pattern promotes consistency, enforces best practices, and significantly improves developer productivity [1].

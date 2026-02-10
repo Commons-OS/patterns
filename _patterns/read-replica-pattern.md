@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f5001f71d09a37fffdaa
+page_url: https://commons-os.github.io/patterns/read-replica-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/read-replica-pattern.md
 slug: read-replica-pattern
 title: Read Replica Pattern
@@ -20,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -28,10 +30,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://blog.bytebytego.com/p/read-replica-pattern
 - https://learn.microsoft.com/en-us/azure/postgresql/read-replica/concepts-read-replicas
@@ -39,19 +39,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f5001f71d09a37fffdaa
-page_url: https://commons-os.github.io/patterns/read-replica-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Read Replica pattern is a fundamental database architecture strategy for scaling read-intensive applications. It involves creating one or more read-only copies, or replicas, of a primary database. Write operations (such as inserts, updates, and deletes) are directed to the primary database, while read operations (queries) are distributed across the read replicas. This separation of workloads improves application performance, scalability, and availability. The primary database asynchronously replicates its data to the read replicas, ensuring that they remain eventually consistent with the primary. This pattern has its roots in the need to scale relational databases, which have traditionally been a bottleneck in many applications. As web applications grew in complexity and user traffic, the need for a simple and effective way to scale database reads became paramount, leading to the widespread adoption of the read replica pattern.

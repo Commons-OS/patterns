@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fefc7aacb1388cfa4d
+page_url: https://commons-os.github.io/patterns/health-check-api-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/health-check-api-pattern.md
 slug: health-check-api-pattern
 title: Health Check API Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://microservices.io/patterns/observability/health-check-api.html
 - https://www.geeksforgeeks.org/system-design/health-endpoint-monitoring-pattern/
@@ -40,19 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fefc7aacb1388cfa4d
-page_url: https://commons-os.github.io/patterns/health-check-api-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Health Check API pattern is a fundamental design pattern for building resilient and observable distributed systems. It involves exposing an endpoint from a service that external tools can query to determine the service's health. This pattern is crucial in microservices architectures, where applications are composed of numerous interacting services, making it essential to have a standardized way to monitor their status [1]. The concept of health checks has been a long-standing practice in system administration and network monitoring, evolving from simple ICMP "ping" requests to more sophisticated application-level checks.

@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4ff407b0c8535b4d098
+page_url: https://commons-os.github.io/patterns/knowledge-graph-federation-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/knowledge-graph-federation-pattern.md
 slug: knowledge-graph-federation-pattern
 title: Knowledge Graph Federation Pattern
@@ -22,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +32,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://seddryck.wordpress.com/2025/07/12/beyond-the-monolith-why-federated-knowledge-graphs-matter/
 - https://medium.com/@ThinkingLoop/data-as-infrastructure-1030b3de4990
@@ -48,19 +48,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4ff407b0c8535b4d098
-page_url: https://commons-os.github.io/patterns/knowledge-graph-federation-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Knowledge Graph Federation pattern addresses the challenge of integrating and querying data from multiple, distributed knowledge graphs without creating a single, monolithic repository. This pattern enables organizations to maintain a unified view of their data landscape while preserving the autonomy and domain-specificity of individual data sources [1]. The significance of this pattern has grown with the increasing decentralization of data and the need for holistic insights across disparate business units or research domains. The origins of this pattern can be traced back to the principles of federated databases and the evolution of semantic web technologies, which sought to create a web of linked data [2].

@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fd8270d1ab5b1e2a83
+page_url: https://commons-os.github.io/patterns/client-side-discovery-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/client-side-discovery-pattern.md
 slug: client-side-discovery-pattern
 title: Client-Side Discovery Pattern
@@ -20,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -28,10 +30,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://microservices.io/patterns/client-side-discovery.html
 - https://www.geeksforgeeks.org/java/client-side-service-discovery-in-microservices/
@@ -40,19 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fd8270d1ab5b1e2a83
-page_url: https://commons-os.github.io/patterns/client-side-discovery-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Client-Side Discovery pattern is a foundational approach within microservices architectures for managing how a consumer service finds and communicates with a provider service. In a distributed environment, service instances are ephemeral, with network locations that change dynamically due to scaling, updates, or failures [1]. This pattern addresses the challenge of dynamic service location by delegating the responsibility of discovery to the client.

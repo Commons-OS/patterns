@@ -20,7 +20,7 @@ classification:
   - academic
   status: draft
   commons_alignment: 4
-  commons_domain: &id001
+  commons_domain:
   - business
   - startup
   - security
@@ -30,25 +30,13 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: higgerix
-  role: author
-- name: cloudsters
-  role: author
+- higgerix
+- cloudsters
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Montessori Method is a child-centered educational approach developed by Dr. Maria Montessori in the early 20th century. It is founded on the belief that children are naturally eager to learn and possess an innate ability to initiate their own learning in a prepared environment. This method emphasizes independence, freedom within limits, and respect for a child's natural psychological, physical, and social development. The core problem it solves is the passivity and lack of engagement often found in traditional educational settings by fostering a love of learning and developing self-directed, confident individuals. Dr. Montessori, an Italian physician and educator, opened the first Montessori school, the Casa dei Bambini (Children's House), in Rome in 1907. Her work was based on scientific observations of children from diverse backgrounds, and she designed a unique learning environment with specialized materials to support their natural development. The method quickly gained international recognition and has since been implemented in schools worldwide, adapting to various cultural and social contexts.

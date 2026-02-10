@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4ff3a7a4dbeef81d7fc
+page_url: https://commons-os.github.io/patterns/knowledge-graph-construction-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/knowledge-graph-construction-pattern.md
 slug: knowledge-graph-construction-pattern
 title: Knowledge Graph Construction Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,28 +31,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://neo4j.com/blog/knowledge-graph/how-to-build-knowledge-graph/
 - https://www.falkordb.com/blog/how-to-build-a-knowledge-graph/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/knowledge-graph-construction-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Knowledge Graph Construction Pattern is a design pattern that outlines a systematic approach to building knowledge graphs. A knowledge graph is a structured representation of knowledge that connects real-world entities and their relationships. This pattern has gained significance with the rise of big data and artificial intelligence, as it provides a powerful way to represent and reason over complex, interconnected data. The historical origins of this pattern can be traced back to the Semantic Web and the concept of linked data.

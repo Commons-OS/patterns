@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f5009e78c2ac6471905a
+page_url: https://commons-os.github.io/patterns/shared-database-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/shared-database-pattern.md
 slug: shared-database-pattern
 title: Shared Database Pattern
@@ -22,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 1
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,29 +32,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://microservices.io/patterns/data/shared-database.html
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f5009e78c2ac6471905a
-page_url: https://commons-os.github.io/patterns/shared-database-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Shared Database pattern is a data management strategy where multiple services share a single database. This approach is common in monolithic applications and is often carried over, sometimes as an anti-pattern, into microservices architectures. In this model, each service has direct access to the entire database, allowing it to query and modify data owned by other services. While this simplifies data access and ensures transactional consistency through ACID (Atomicity, Consistency, Isolation, Durability) properties, it also introduces tight coupling between services, making them harder to develop, deploy, and scale independently [1]. The pattern's origins can be traced back to the early days of client-server and n-tier architectures, where a central database was the standard for data persistence.

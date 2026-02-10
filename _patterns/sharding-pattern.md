@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f500977925bc591eb1c2
+page_url: https://commons-os.github.io/patterns/sharding-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/sharding-pattern.md
 slug: sharding-pattern
 title: Sharding Pattern
@@ -22,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,29 +32,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/sharding
 - https://www.geeksforgeeks.org/system-design/database-sharding-a-system-design-concept/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f500977925bc591eb1c2
-page_url: https://commons-os.github.io/patterns/sharding-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Sharding pattern is a database architecture pattern that horizontally partitions a large dataset into smaller, more manageable chunks called shards [1]. Each shard has the same schema as the original database but contains a different subset of the data. This pattern is crucial for achieving horizontal scalability, as it allows for the distribution of data and query load across multiple servers, thereby improving performance and resilience [2]. The concept of sharding has its roots in distributed databases and has become increasingly popular with the rise of large-scale, data-intensive applications and microservices architectures.

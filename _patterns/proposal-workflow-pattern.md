@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f500007b5683631e6b2e
+page_url: https://commons-os.github.io/patterns/proposal-workflow-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/proposal-workflow-pattern.md
 slug: proposal-workflow-pattern
 title: Proposal Workflow Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,26 +31,14 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://commons.engineering
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/proposal-workflow-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 _**Pattern Name**_: Proposal Workflow Pattern
 
 _**Use Case**_: When a user wants to create a proposal, get feedback, and then submit it for approval.

@@ -1,5 +1,6 @@
 ---
 id: pat_cfe2ad3507f183529881ff7e
+page_url: https://commons-os.github.io/patterns/let-the-best-emerge/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/let-the-best-emerge.md
 slug: let-the-best-emerge
 title: Let the Best Emerge
@@ -24,8 +25,7 @@ classification:
   - software-engineering
   status: draft
   commons_alignment: 4
-  commons_domain: &id001
-  - business
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -33,10 +33,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: higgerix
-  role: author
-- name: cloudsters
-  role: author
+- higgerix
+- cloudsters
 sources:
 - https://stories.platformdesigntoolkit.com/a-platform-design-example-explained-34e08f9dd4b3
 - https://www.pmi.org/disciplined-agile/a-primer-on-emergent-design
@@ -46,17 +44,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/let-the-best-emerge/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 "Let the Best Emerge" is a platform design pattern that prioritizes the creation of systems and processes that allow for the most valuable contributions, ideas, and participants to naturally rise to the top. Rather than pre-determining a rigid structure or dictating a top-down approach, this pattern focuses on fostering an environment of open competition and collaboration, where the best solutions and contributors are identified and rewarded based on merit. This approach is grounded in the principles of emergent design, which suggests that the most effective and resilient systems are not designed in their entirety from the outset, but rather evolve and adapt over time in response to their environment. The core idea is to create a level playing field where all participants have the opportunity to contribute and be recognized, and where the platform itself acts as a facilitator, rather than a gatekeeper.

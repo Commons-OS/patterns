@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f500ea7b649301f1d297
+page_url: https://commons-os.github.io/patterns/tenant-isolation-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/tenant-isolation-pattern.md
 slug: tenant-isolation-pattern
 title: Tenant Isolation Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://docs.aws.amazon.com/whitepapers/latest/saas-architecture-fundamentals/tenant-isolation.html
 - https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/tenancy-models
@@ -42,17 +41,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/tenant-isolation-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 _The Tenant Isolation Pattern is a foundational architectural principle in multi-tenant systems, ensuring that each tenant's data and resources are kept separate and secure from other tenants, even when sharing the same underlying infrastructure. This pattern is critical for building robust, scalable, and secure SaaS applications._
 
 ### 1. Overview

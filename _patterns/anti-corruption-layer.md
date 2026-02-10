@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fce37db2a16938101b
+page_url: https://commons-os.github.io/patterns/anti-corruption-layer/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/anti-corruption-layer.md
 slug: anti-corruption-layer
 title: Anti-Corruption Layer
@@ -20,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -28,10 +30,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer
 - https://microservices.io/patterns/refactoring/anti-corruption-layer.html
@@ -39,19 +39,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fce37db2a16938101b
-page_url: https://commons-os.github.io/patterns/anti-corruption-layer/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Anti-Corruption Layer (ACL) is a design pattern used in software architecture to isolate a system from the complexities and potential "corruption" of external or legacy systems. It acts as a translation layer, mediating between the domain model of the core system and the data models or APIs of external systems. This pattern was first introduced by Eric Evans in his book, "Domain-Driven Design: Tackling Complexity in the Heart of Software" [1]. The primary significance of the ACL is to protect the integrity and consistency of the core domain model, allowing it to evolve independently without being constrained by the design decisions of other systems.

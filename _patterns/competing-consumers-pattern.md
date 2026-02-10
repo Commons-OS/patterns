@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fda279d4a6dea8644a
+page_url: https://commons-os.github.io/patterns/competing-consumers-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/competing-consumers-pattern.md
 slug: competing-consumers-pattern
 title: Competing Consumers Pattern
@@ -20,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 4
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -28,10 +30,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/competing-consumers
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/CompetingConsumers.html
@@ -39,19 +39,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fda279d4a6dea8644a
-page_url: https://commons-os.github.io/patterns/competing-consumers-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Competing Consumers pattern is a fundamental design pattern in distributed systems and messaging architectures. It enables multiple concurrent consumers to process messages received on the same messaging channel, effectively distributing the workload and improving the overall throughput and scalability of the system. This pattern is particularly significant in modern cloud-native applications and microservices architectures, where asynchronous communication and parallel processing are essential for achieving high performance and resilience. The origins of this pattern can be traced back to the principles of enterprise integration and messaging systems, where the need to decouple message producers from consumers and to balance the load of message processing was first identified [2].

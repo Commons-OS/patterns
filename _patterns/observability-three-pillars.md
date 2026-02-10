@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4ffc27cea8f715ec231
+page_url: https://commons-os.github.io/patterns/observability-three-pillars/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/observability-three-pillars.md
 slug: observability-three-pillars
 title: Observability Three Pillars
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://www.ibm.com/think/insights/observability-pillars
 - https://www.oreilly.com/library/view/distributed-systems-observability/9781492033431/ch04.html
@@ -41,18 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/observability-three-pillars/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Observability Three Pillars pattern is a foundational concept in modern software engineering and system monitoring. It posits that a comprehensive understanding of a system's internal state can be achieved by collecting and analyzing three distinct types of telemetry data: **logs**, **metrics**, and **traces** [1]. This pattern has become increasingly critical with the rise of complex, distributed systems, such as microservices architectures, where traditional monitoring approaches often fall short. The term "observability" itself, borrowed from control theory, refers to the ability to infer the internal state of a system from its external outputs. While the concepts of logging and metrics have been around for decades, the formalization of the "three pillars" and the emphasis on distributed tracing are more recent developments, driven by the need for deeper insights into the behavior of distributed applications.

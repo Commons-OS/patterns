@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f5005f7c739721d4c6b8
+page_url: https://commons-os.github.io/patterns/scheduler-agent-supervisor/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/scheduler-agent-supervisor.md
 slug: scheduler-agent-supervisor
 title: Scheduler Agent Supervisor
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/scheduler-agent-supervisor
 - https://www.geeksforgeeks.org/system-design/scheduling-agent-supervisor-pattern-system-design/
@@ -41,17 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/scheduler-agent-supervisor/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 _The Scheduler-Agent-Supervisor pattern, a foundational concept in distributed systems, orchestrates and manages tasks across a network of services and resources. This pattern is instrumental in achieving resilient and scalable solutions for complex, long-running, or distributed workflows. Its origins can be traced back to early distributed computing and enterprise integration patterns, where the need for reliable task execution and coordination became paramount. The pattern has evolved significantly with the advent of microservices architectures and cloud computing, which have amplified the challenges of managing distributed processes._
 
 ### 1. Overview

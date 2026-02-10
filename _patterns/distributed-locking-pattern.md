@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4fe2c77ffb7d6ee8e82
+page_url: https://commons-os.github.io/patterns/distributed-locking-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/distributed-locking-pattern.md
 slug: distributed-locking-pattern
 title: Distributed Locking Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 2
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://redis.io/docs/latest/develop/clients/patterns/distributed-locks/
 - https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html
@@ -42,18 +41,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/distributed-locking-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Distributed Locking pattern is a fundamental mechanism in distributed computing for ensuring mutually exclusive access to a shared resource across multiple processes or nodes. In a distributed system, where processes operate concurrently on different machines, coordinating access to shared resources is critical to prevent data inconsistencies, race conditions, and corruption. This pattern provides a way to synchronize actions, ensuring that only one process can enter a critical section at any given time. The origins of locking mechanisms are in multi-threaded programming on a single machine, but the concept has been extended to distributed environments to handle the complexities of network latency, partitions, and node failures [2].

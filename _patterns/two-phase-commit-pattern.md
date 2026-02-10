@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f501177174905fdf85a8
+page_url: https://commons-os.github.io/patterns/two-phase-commit-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/two-phase-commit-pattern.md
 slug: two-phase-commit-pattern
 title: Two-Phase Commit Pattern
@@ -22,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 2
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +32,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://en.wikipedia.org/wiki/Two-phase_commit_protocol
 - https://martinfowler.com/articles/patterns-of-distributed-systems/two-phase-commit.html
@@ -41,19 +41,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f501177174905fdf85a8
-page_url: https://commons-os.github.io/patterns/two-phase-commit-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Two-Phase Commit (2PC) pattern is a distributed algorithm that ensures atomicity for transactions across multiple participating services or databases. In a distributed system, a transaction may consist of several operations on different nodes. The 2PC pattern coordinates all the processes that participate in a distributed atomic transaction to either commit or abort the transaction. This ensures that all participating nodes are in a consistent state, either all completing the transaction or all rolling it back. Its historical origins are rooted in the need for reliable transaction processing in distributed database systems, dating back to the 1980s [1].

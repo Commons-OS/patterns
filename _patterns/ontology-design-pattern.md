@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4ffc978c39dd76fbb03
+page_url: https://commons-os.github.io/patterns/ontology-design-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/ontology-design-pattern.md
 slug: ontology-design-pattern
 title: Ontology Design Pattern
@@ -23,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -31,10 +32,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - http://ontologydesignpatterns.org/index.php/Ontology_Design_Patterns_._org_(ODP)
 - https://www.researchgate.net/publication/227215903_Ontology_Design_Patterns
@@ -42,18 +41,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/ontology-design-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Ontology Design Pattern (ODP) is a reusable solution to a recurrent modeling problem in the context of ontology engineering. Ontologies, in information science, are formal, explicit specifications of a shared conceptualization. They provide a common vocabulary and a set of axioms that define the relationships between terms, enabling a shared understanding of a domain. ODPs provide a way to capture and reuse good modeling practices, much like software design patterns do for software development. They are crucial for building robust, scalable, and interoperable knowledge-based systems.

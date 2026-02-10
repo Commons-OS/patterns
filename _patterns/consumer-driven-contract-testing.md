@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fdba7cf3ad7b661bf7
+page_url: https://commons-os.github.io/patterns/consumer-driven-contract-testing/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/consumer-driven-contract-testing.md
 slug: consumer-driven-contract-testing
 title: Consumer-Driven Contract Testing
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,29 +31,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://martinfowler.com/articles/consumerDrivenContracts.html
 - https://microservices.io/patterns/testing/service-integration-contract-test.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fdba7cf3ad7b661bf7
-page_url: https://commons-os.github.io/patterns/consumer-driven-contract-testing/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 Consumer-Driven Contract Testing (CDCT) is a software testing methodology that ensures seamless communication and compatibility between different components of a distributed system, particularly in microservices architectures. The core principle of CDCT is to empower the *consumer* of a service to define the *contract*—the expected structure and format of requests and responses—that the *provider* of the service must adhere to. This approach inverts the traditional model where the provider dictates the API and consumers must adapt, often leading to integration challenges and tightly coupled systems [1].

@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4ff1c7e2f8aacae05ce
+page_url: https://commons-os.github.io/patterns/immutable-infrastructure-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/immutable-infrastructure-pattern.md
 slug: immutable-infrastructure-pattern
 title: Immutable Infrastructure Pattern
@@ -23,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -31,28 +32,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://www.digitalocean.com/community/tutorials/what-is-immutable-infrastructure
 - https://www.geeksforgeeks.org/system-design/immutable-architecture-pattern-system-design/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/immutable-infrastructure-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Immutable Infrastructure pattern is a transformative approach to managing services and software deployments. In this model, infrastructure components like servers, containers, or virtual machines are never modified after deployment. Instead of applying updates or patches to a running instance, a new instance is provisioned from a master image with the desired changes. The updated instance is then deployed, and the old one is decommissioned. This paradigm contrasts with traditional, mutable infrastructure, where servers are updated in-place, leading to potential inconsistencies and configuration drift over time [1].

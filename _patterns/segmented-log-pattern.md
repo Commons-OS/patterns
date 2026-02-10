@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f5006c73c98c0ca760da
+page_url: https://commons-os.github.io/patterns/segmented-log-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/segmented-log-pattern.md
 slug: segmented-log-pattern
 title: Segmented Log Pattern
@@ -23,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -31,10 +32,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://martinfowler.com/articles/patterns-of-distributed-systems/segmented-log.html
 - https://www.oreilly.com/library/view/patterns-of-distributed/9780138222246/ch04.xhtml
@@ -42,18 +41,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/segmented-log-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Segmented Log pattern is a fundamental concept in distributed systems and data engineering that addresses the challenges of managing large, ever-growing log files. Instead of maintaining a single, monolithic log file, this pattern advocates for breaking the log into smaller, more manageable segments or chunks. This approach is crucial for building reliable, scalable, and efficient systems that rely on logging for data durability, replication, and recovery. The origins of this pattern can be traced back to the design of early database and file systems, where managing large files has always been a concern. However, its prominence has grown significantly with the rise of distributed systems, big data platforms, and event-driven architectures, where logs are the backbone for data flow and system state.

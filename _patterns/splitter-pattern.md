@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f500b170a98eb18962af
+page_url: https://commons-os.github.io/patterns/splitter-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/splitter-pattern.md
 slug: splitter-pattern
 title: Splitter Pattern
@@ -20,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -28,29 +30,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/Splitter.html
 - https://microservices.io/patterns/decomposition/decompose-by-subdomain.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f500b170a98eb18962af
-page_url: https://commons-os.github.io/patterns/splitter-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Splitter pattern is a fundamental messaging pattern used in enterprise integration and distributed systems to break down a composite message into a series of individual messages. Each of these smaller messages can then be processed independently by downstream components. This pattern is particularly valuable in scenarios where a single, large message contains multiple distinct records or items that need to be handled by different systems, processed in parallel, or routed to various destinations. The conceptual origin of the Splitter pattern is most famously articulated in the seminal book "Enterprise Integration Patterns" by Gregor Hohpe and Bobby Woolf, which codified many of the common patterns for asynchronous messaging-based architectures [1].

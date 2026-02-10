@@ -1,5 +1,6 @@
 ---
 id: pat_f69f26479e9fd00848dc48e7
+page_url: https://commons-os.github.io/patterns/switching-cost-design/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/switching-cost-design.md
 slug: switching-cost-design
 title: Switching Cost Design
@@ -24,14 +25,15 @@ classification:
   - software-engineering
   status: draft
   commons_alignment: 2
-  commons_domain: &id001
-  - business
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
+contributors:
+- manus-ai
 sources:
 - https://www.investopedia.com/terms/s/switchingcosts.asp
 - https://www.businessmodelhacking.com/switching-costs-example-lock-ins/
@@ -41,21 +43,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/switching-cost-design/
-commons_domain: *id001
-contributors:
-- name: Manus AI
-  role: author
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 Switching Cost Design is a strategic approach employed by businesses to create barriers that make it difficult or expensive for customers to change from one product, service, or platform to another. These costs are not always monetary; they can also be psychological, effort-based, or time-based. The core idea is to foster a level of dependency that "locks in" customers, thereby ensuring their continued loyalty and patronage. This strategy is particularly prevalent in the platform economy, where network effects often amplify the power of switching costs. By intentionally designing for high switching costs, companies can secure a more stable customer base, reduce churn, and gain a significant competitive advantage. This, in turn, allows them to exercise greater control over pricing and market dynamics. The deliberate creation of these barriers can range from subtle design choices that increase user investment in a platform to explicit contractual obligations and proprietary technologies that are incompatible with competitors' offerings.

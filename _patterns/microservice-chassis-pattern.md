@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4ff9771e7a54b290f32
+page_url: https://commons-os.github.io/patterns/microservice-chassis-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/microservice-chassis-pattern.md
 slug: microservice-chassis-pattern
 title: Microservice Chassis Pattern
@@ -23,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -31,10 +32,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://microservices.io/patterns/microservice-chassis.html
 - https://dev.to/lazypro/microservices-start-here-chassis-pattern-272j
@@ -42,18 +41,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/microservice-chassis-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Microservice Chassis pattern is a foundational design pattern in microservices architecture. It addresses the need to standardize and centralize common cross-cutting concerns that are essential for any production-grade service. Much like the chassis of a vehicle provides a fundamental structure for the engine, wheels, and other components, a microservice chassis offers a framework that encapsulates shared functionalities such as logging, configuration management, health checks, metrics, and security. By providing these capabilities out-of-the-box, the pattern allows development teams to focus on implementing business logic rather than repeatedly solving the same infrastructure-related problems [1].

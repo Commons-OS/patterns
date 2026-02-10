@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f500bf705b817cef25ba
+page_url: https://commons-os.github.io/patterns/static-content-hosting/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/static-content-hosting.md
 slug: static-content-hosting
 title: Static Content Hosting
@@ -22,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +32,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/static-content-hosting
 - https://www.geeksforgeeks.org/system-design/static-content-hosting-pattern-system-design/
@@ -41,19 +41,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f500bf705b817cef25ba
-page_url: https://commons-os.github.io/patterns/static-content-hosting/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Static Content Hosting pattern is a fundamental architectural approach for delivering web content that does not change based on user interaction. This pattern involves deploying static assets—such as HTML, CSS, JavaScript files, images, and videos—to a cloud-based storage service that can serve them directly to the end-user's client, typically a web browser [1]. The significance of this pattern lies in its ability to dramatically improve performance, scalability, and cost-efficiency by offloading the delivery of static files from dynamic application servers. Historically, web servers were responsible for serving both dynamic and static content, a model that becomes a bottleneck as traffic grows. The Static Content Hosting pattern decouples these concerns, allowing each to be optimized independently.

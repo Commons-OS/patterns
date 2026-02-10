@@ -1,5 +1,6 @@
 ---
 id: pat_5a2b3c4d5e6f7a8b9c0d1e2f
+page_url: https://commons-os.github.io/patterns/platform-enshittification/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/platform-enshittification.md
 slug: platform-enshittification
 title: Platform Enshittification
@@ -24,8 +25,7 @@ classification:
   - media-studies
   status: draft
   commons_alignment: 1
-  commons_domain: &id001
-  - business
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -33,10 +33,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: higgerix
-  role: author
-- name: cloudsters
-  role: author
+- higgerix
+- cloudsters
 sources:
 - https://www.wired.com/story/tiktok-platforms-cory-doctorow/
 - https://en.wikipedia.org/wiki/Enshittification
@@ -46,17 +44,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/platform-enshittification/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 Platform Enshittification is a critical anti-pattern that describes the predictable, cyclical degradation of quality on online platforms. Coined by author and activist Cory Doctorow, the term captures the process whereby a platform, once beneficial and attractive to its users, gradually shifts its focus towards extracting value for its shareholders at the expense of the user experience, and ultimately, the platform's own long-term viability. This process is not a random decline but a deliberate, multi-stage strategy driven by the logic of platform capitalism. It represents a fundamental betrayal of the initial promise made to users and business customers, a shift from a symbiotic relationship to a parasitic one. The pattern is a powerful lens through which to understand the life cycle of many of the dominant digital platforms that shape our lives, from social media and e-commerce to the gig economy.

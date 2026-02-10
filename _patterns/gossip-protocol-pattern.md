@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fed17a878db48b7217
+page_url: https://commons-os.github.io/patterns/gossip-protocol-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/gossip-protocol-pattern.md
 slug: gossip-protocol-pattern
 title: Gossip Protocol Pattern
@@ -20,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -28,10 +30,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://en.wikipedia.org/wiki/Gossip_protocol
 - https://highscalability.com/gossip-protocol-explained/
@@ -39,19 +39,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fed17a878db48b7217
-page_url: https://commons-os.github.io/patterns/gossip-protocol-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Gossip Protocol, also known as the Epidemic Protocol, is a decentralized, peer-to-peer communication mechanism for distributing information in large-scale distributed systems. The protocol's design is inspired by the way rumors and epidemics spread through a population. In a gossip-based system, individual nodes periodically exchange information with a small, random subset of other nodes. This process ensures that information is eventually disseminated to all nodes in the network with high probability, creating a robust and scalable method for maintaining a consistent state across a distributed environment [1].

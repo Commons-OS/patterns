@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fd127314801f83b685
+page_url: https://commons-os.github.io/patterns/audit-logging-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/audit-logging-pattern.md
 slug: audit-logging-pattern
 title: Audit Logging Pattern
@@ -20,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -28,10 +30,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://martinfowler.com/eaaDev/AuditLog.html
 - https://microservices.io/patterns/observability/audit-logging.html
@@ -41,19 +41,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fd127314801f83b685
-page_url: https://commons-os.github.io/patterns/audit-logging-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Audit Logging pattern, also known as the Audit Trail pattern, involves creating a chronological and immutable record of events and actions within a system. These records, or audit logs, provide a detailed account of "who did what, when, and where," serving as a critical tool for security, compliance, and operational transparency [1]. The practice of keeping logs has its roots in traditional accounting and has evolved significantly with the advent of digital systems, becoming an indispensable component of modern software architecture. In distributed systems and microservices architectures, audit logging is essential for tracing activities across service boundaries and ensuring accountability in complex environments [2].

@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fe767034b4d961891e
+page_url: https://commons-os.github.io/patterns/event-sourcing-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/event-sourcing-pattern.md
 slug: event-sourcing-pattern
 title: Event Sourcing Pattern
@@ -22,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +32,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/event-sourcing
 - https://microservices.io/patterns/data/event-sourcing.html
@@ -41,19 +41,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fe767034b4d961891e
-page_url: https://commons-os.github.io/patterns/event-sourcing-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Event Sourcing pattern is a design approach that captures all changes to an application's state as an immutable sequence of events. Instead of storing the current state of the data, the system records every state-changing event that occurs. The current state of the application is then derived by replaying these events. This pattern is fundamental to building robust, scalable, and auditable systems, particularly in the context of distributed architectures and microservices. [1] [2]

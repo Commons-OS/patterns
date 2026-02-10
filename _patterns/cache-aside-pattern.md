@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fd4872cd870543cc32
+page_url: https://commons-os.github.io/patterns/cache-aside-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/cache-aside-pattern.md
 slug: cache-aside-pattern
 title: Cache-Aside Pattern
@@ -20,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -28,29 +30,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/cache-aside
 - https://www.geeksforgeeks.org/system-design/cache-aside-pattern/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fd4872cd870543cc32
-page_url: https://commons-os.github.io/patterns/cache-aside-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Cache-Aside pattern, also known as Lazy Loading, is a fundamental caching strategy employed in system design to enhance performance and scalability. This pattern dictates that the application logic is responsible for managing the cache. When an application needs to read data, it first queries the cache. If the data is present (a cache hit), it is returned to the application. If the data is not in the cache (a cache miss), the application retrieves the data from the underlying data store, loads it into the cache, and then returns it. This on-demand data loading approach ensures that only requested data is cached, optimizing cache memory usage.

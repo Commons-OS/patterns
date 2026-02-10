@@ -1,5 +1,6 @@
 ---
 id: pat_7e3b1f2a3c4d5e6f7a8b9c0d
+page_url: https://commons-os.github.io/patterns/geographic-expansion-strategy/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/geographic-expansion-strategy.md
 slug: geographic-expansion-strategy
 title: Geographic Expansion Strategy
@@ -24,8 +25,7 @@ classification:
   - economics
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
-  - business
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -33,10 +33,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: higgerix
-  role: author
-- name: cloudsters
-  role: author
+- higgerix
+- cloudsters
 sources:
 - https://www.shopify.com/blog/geographic-expansion
 - https://www.usemultiplier.com/global-expansion/guide-to-geographic-expansion
@@ -46,17 +44,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/geographic-expansion-strategy/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 Geographic Expansion Strategy is a core business growth pattern that involves a platform or organization extending its operations, services, or product offerings into new geographical markets. This can range from a local business opening a new branch in a neighboring city to a multinational corporation entering a new continent. The primary motivation behind this strategy is to access a larger customer base, diversify revenue streams, tap into new talent pools, and achieve economies of scale. By expanding geographically, a platform can significantly increase its market share and brand recognition, transforming from a niche player into a global powerhouse. This strategy is not merely about physical expansion; in the digital age, it increasingly involves virtual expansion through e-commerce, localized digital content, and online service delivery, allowing businesses to reach a global audience with minimal physical infrastructure.

@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fe467ddbb1c469c0c0
+page_url: https://commons-os.github.io/patterns/domain-event-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/domain-event-pattern.md
 slug: domain-event-pattern
 title: Domain Event Pattern
@@ -20,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -28,10 +30,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://microservices.io/patterns/data/domain-event.html
 - https://martinfowler.com/eaaDev/DomainEvent.html
@@ -39,19 +39,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fe467ddbb1c469c0c0
-page_url: https://commons-os.github.io/patterns/domain-event-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Domain Event pattern is a key concept in Domain-Driven Design (DDD) that involves modeling significant business events as immutable facts. It represents something that has happened in the past within a specific domain. These events are captured and then broadcast to other parts of the system, or even external systems, that may need to react to them. The primary purpose of this pattern is to enable loose coupling between different parts of a system, particularly in the context of microservices architectures. By communicating through events, services can remain independent and evolve separately, without direct knowledge of each other. [1] [2]

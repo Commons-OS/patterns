@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f50045796bbb2db5fdc7
+page_url: https://commons-os.github.io/patterns/routing-slip-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/routing-slip-pattern.md
 slug: routing-slip-pattern
 title: Routing Slip Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/RoutingTable.html
 - https://camel.apache.org/components/4.14.x/eips/routingSlip-eip.html
@@ -41,17 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/routing-slip-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Routing Slip pattern provides a mechanism for specifying a sequence of processing steps for a message, where the sequence is defined at design time but can be varied at runtime. The pattern is particularly useful in scenarios where a message needs to pass through a series of services or components for processing, and the exact sequence of these steps is not fixed. The routing slip itself is a data structure that accompanies the message, containing the list of steps to be executed. Each component in the sequence is responsible for processing the message and then forwarding it to the next step in the slip. This pattern is a form of dynamic routing, allowing for flexible and configurable workflows.

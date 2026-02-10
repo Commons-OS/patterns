@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fda878b0b4d7bd0b3f
+page_url: https://commons-os.github.io/patterns/connection-pooling-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/connection-pooling-pattern.md
 slug: connection-pooling-pattern
 title: Connection Pooling Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://en.wikipedia.org/wiki/Connection_pool
 - https://www.baeldung.com/java-connection-pooling
@@ -40,18 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fda878b0b4d7bd0b3f
-page_url: https://commons-os.github.io/patterns/connection-pooling-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 _**This pattern is still a draft, and we are actively working on it. We welcome your feedback and contributions to help us improve it. Please check back later for the full version.**_
 
 ### 1. Overview

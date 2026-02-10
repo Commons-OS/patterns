@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fe19793ca87ade64e8
+page_url: https://commons-os.github.io/patterns/deployment-stamps-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/deployment-stamps-pattern.md
 slug: deployment-stamps-pattern
 title: Deployment Stamps Pattern
@@ -22,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,29 +32,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/deployment-stamp
 - https://www.geeksforgeeks.org/system-design/deployment-stamps-pattern-system-design/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fe19793ca87ade64e8
-page_url: https://commons-os.github.io/patterns/deployment-stamps-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Deployment Stamps pattern, also known as Scale Unit or Service Unit, is a design approach that involves deploying multiple independent and identical copies of an application and its components. Each copy, or "stamp," is a self-contained unit that includes all the necessary resources to run the application, such as compute, storage, and networking. This pattern is particularly effective for large-scale, distributed systems that require high levels of scalability, resilience, and geographic distribution. By deploying multiple stamps, a system can scale almost linearly, serve a growing number of users, and isolate tenants to meet specific security or performance requirements. The pattern has its roots in the practices of large cloud providers like Microsoft Azure, who use it to build and operate their global services. [1]

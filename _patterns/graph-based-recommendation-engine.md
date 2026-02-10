@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4fee470909536301298
+page_url: https://commons-os.github.io/patterns/graph-based-recommendation-engine/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/graph-based-recommendation-engine.md
 slug: graph-based-recommendation-engine
 title: Graph-Based Recommendation Engine
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,28 +31,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://towardsdatascience.com/introduction-to-knowledge-graph-based-recommender-systems-34254efd1960/
 - https://milvus.io/ai-quick-reference/what-is-a-graphbased-recommendation-system
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/graph-based-recommendation-engine/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 A graph-based recommendation engine is a system that utilizes graph data structures to model and analyze relationships between users, items, and their interactions, ultimately providing personalized recommendations [1]. Unlike traditional recommendation systems that often rely on user-item matrices, this pattern represents data as a network of nodes (entities such as users, products, or movies) and edges (relationships such as purchases, ratings, or social connections). This graphical representation allows the system to capture and leverage complex, indirect relationships that might be overlooked by other methods, leading to more nuanced and accurate suggestions [2].

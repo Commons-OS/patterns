@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4fdae74c89e7349af92
+page_url: https://commons-os.github.io/patterns/consistent-core-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/consistent-core-pattern.md
 slug: consistent-core-pattern
 title: Consistent Core Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,28 +31,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://martinfowler.com/articles/patterns-of-distributed-systems/consistent-core.html
 - https://medium.com/@imssachin.2013/scaling-with-consistency-designing-a-hybrid-cluster-using-consistent-core-pattern-b63757030230
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/consistent-core-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Consistent Core pattern is a design approach for distributed systems that balances the trade-offs between strong consistency and high availability. It achieves this by partitioning the system into two distinct parts: a small, strongly consistent "core" and a larger, eventually consistent "data cluster." The core is responsible for coordinating the activities of the data cluster, ensuring that critical operations are performed in a consistent and reliable manner. This pattern is particularly useful in large-scale systems where maintaining strong consistency across the entire cluster would be prohibitively expensive or complex [1].

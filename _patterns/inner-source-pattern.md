@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4ff2e757bb0191b43cc
+page_url: https://commons-os.github.io/patterns/inner-source-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/inner-source-pattern.md
 slug: inner-source-pattern
 title: Inner Source Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 4
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,27 +31,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://innersourcecommons.org
 - https://patterns.innersourcecommons.org
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/inner-source-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 # Inner Source
 
 ### 3. Key Practices

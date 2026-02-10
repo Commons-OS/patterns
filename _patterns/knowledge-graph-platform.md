@@ -1,5 +1,6 @@
 ---
 id: pat_209d17d84c5a68905b6cadee
+page_url: https://commons-os.github.io/patterns/knowledge-graph-platform/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/knowledge-graph-platform.md
 slug: knowledge-graph-platform
 title: Knowledge Graph Platform
@@ -23,8 +24,7 @@ classification:
   - data-science
   status: draft
   commons_alignment: 4
-  commons_domain: &id001
-  - business
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -32,10 +32,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: higgerix
-  role: author
-- name: cloudsters
-  role: author
+- higgerix
+- cloudsters
 sources:
 - https://www.ibm.com/think/topics/knowledge-graph
 - https://www.stardog.com/knowledge-graph/
@@ -45,17 +43,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/knowledge-graph-platform/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 A Knowledge Graph Platform is a comprehensive data management and integration platform that uses a graph-structured data model to connect vast amounts of heterogeneous data from various sources. Unlike traditional relational databases that store data in tables, a knowledge graph platform represents entities (such as people, places, and objects) as nodes and the relationships between them as edges. This creates a flexible and intuitive data model that mirrors the complexity of the real world, enabling organizations to uncover hidden connections and generate deeper insights from their data. The platform typically includes tools for data ingestion, storage, querying, and visualization, as well as a semantic layer that adds context and meaning to the data. By organizing information based on its meaning, a knowledge graph platform allows for more intelligent and context-aware applications, such as advanced search, recommendation engines, and AI-powered analytics.

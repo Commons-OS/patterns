@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4fd047e1899bc56ea31
+page_url: https://commons-os.github.io/patterns/asynchronous-request-reply/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/asynchronous-request-reply.md
 slug: asynchronous-request-reply
 title: Asynchronous Request-Reply
@@ -21,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +30,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/async-request-reply
 - https://www.enterpriseintegrationpatterns.com/patterns/conversation/RequestResponse.html
@@ -40,18 +39,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/asynchronous-request-reply/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Asynchronous Request-Reply pattern is a messaging pattern used in distributed systems to handle long-running operations without blocking the client. In this pattern, a client sends a request to a service and, instead of waiting for an immediate response, receives an acknowledgement that the request has been received and is being processed. The client can then continue with other tasks. When the service has finished processing the request, it sends a response to the client, which is listening for it on a separate channel. This decouples the client from the service, improving the overall responsiveness and resilience of the system [1].

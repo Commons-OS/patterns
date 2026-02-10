@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f5003278309c872065bf
+page_url: https://commons-os.github.io/patterns/retry-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/retry-pattern.md
 slug: retry-pattern
 title: Retry Pattern
@@ -20,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -28,29 +30,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/retry
 - https://www.geeksforgeeks.org/system-design/retry-pattern-in-microservices/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f5003278309c872065bf
-page_url: https://commons-os.github.io/patterns/retry-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Retry pattern is a stability and resilience design pattern that enables an application to handle transient failures by transparently retrying a failed operation. In distributed systems, particularly those built on cloud infrastructure, applications frequently communicate with remote services and resources. This communication is susceptible to temporary issues such as network latency, momentary service unavailability, or timeouts when a service is busy. These faults, often termed transient faults, are typically self-correcting. The Retry pattern provides a mechanism to repeat the failed operation with the expectation that it will succeed on a subsequent attempt, thereby improving the overall stability and reliability of the application [1].

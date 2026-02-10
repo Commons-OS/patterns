@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fe5e73a1939ed095db
+page_url: https://commons-os.github.io/patterns/event-driven-architecture-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/event-driven-architecture-pattern.md
 slug: event-driven-architecture-pattern
 title: Event-Driven Architecture Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,29 +31,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven
 - https://www.confluent.io/learn/event-driven-architecture/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fe5e73a1939ed095db
-page_url: https://commons-os.github.io/patterns/event-driven-architecture-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 Event-Driven Architecture (EDA) is a software architecture paradigm centered around the production, detection, and consumption of events. An event is a significant change in state, such as a user placing an order or a sensor reaching a certain temperature. In an EDA, components communicate asynchronously by sending and receiving events through an event channel, such as a message broker or an event bus. This approach decouples components, allowing them to be developed, deployed, and scaled independently. The historical origins of EDA can be traced back to the need for more responsive and scalable systems, moving away from the limitations of traditional, monolithic, and request-response architectures. The rise of microservices and distributed systems has further propelled the adoption of EDA as a key pattern for building resilient and flexible applications [1].

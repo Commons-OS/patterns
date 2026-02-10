@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f500ba74bda4b4f95c14
+page_url: https://commons-os.github.io/patterns/state-watch-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/state-watch-pattern.md
 slug: state-watch-pattern
 title: State-Watch Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,29 +31,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://martinfowler.com/articles/patterns-of-distributed-systems/state-watch.html
 - https://www.linkedin.com/pulse/state-watch-design-pattern-distributed-systems-muhammad-bilal-r2ibf
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f500ba74bda4b4f95c14
-page_url: https://commons-os.github.io/patterns/state-watch-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The State-Watch pattern, also known as Watch or State Monitoring, is a design pattern used in distributed systems to notify clients when specific values or states change on a server. This pattern is particularly useful in dynamic, large-scale systems where components need to adapt to changes in state without resorting to continuous polling or manual intervention. By allowing clients to register their interest in specific state changes, the server can proactively send notifications when those changes occur, leading to more efficient and responsive systems [1].

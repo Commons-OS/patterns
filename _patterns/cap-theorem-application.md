@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fd5b7d0e98370f2cd7
+page_url: https://commons-os.github.io/patterns/cap-theorem-application/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/cap-theorem-application.md
 slug: cap-theorem-application
 title: CAP Theorem Application
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,29 +31,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://en.wikipedia.org/wiki/CAP_theorem
 - https://www.ibm.com/think/topics/cap-theorem
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fd5b7d0e98370f2cd7
-page_url: https://commons-os.github.io/patterns/cap-theorem-application/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The CAP Theorem, also known as Brewer's Theorem, is a fundamental principle in distributed systems design. It states that any distributed data store can only provide two of the following three guarantees simultaneously: Consistency, Availability, and Partition Tolerance [1]. The theorem was first conjectured by computer scientist Eric Brewer in 2000 and later proven by Seth Gilbert and Nancy Lynch of MIT in 2002 [1]. This pattern is crucial for architects and engineers when designing and selecting technologies for distributed applications, as it forces a conscious trade-off between data consistency and system availability in the presence of network failures.

@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fea27c7eac58a56055
+page_url: https://commons-os.github.io/patterns/federated-identity-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/federated-identity-pattern.md
 slug: federated-identity-pattern
 title: Federated Identity Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/federated-identity
 - https://www.okta.com/identity-101/what-is-federated-identity/
@@ -40,19 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fea27c7eac58a56055
-page_url: https://commons-os.github.io/patterns/federated-identity-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Federated Identity pattern is a mechanism for delegating authentication from a single application or service to an external, trusted identity provider (IdP). This pattern allows a user to access multiple systems across different trust domains using a single set of credentials. The core idea is to establish a trust relationship between the service provider (the application) and the identity provider. When a user attempts to log in, the application redirects them to the IdP. The IdP authenticates the user and then sends a security token back to the application, which then grants access. This approach is fundamental to implementing Single Sign-On (SSO) capabilities and is a cornerstone of modern, decentralized identity management. Its origins can be traced back to the early 2000s with the development of standards like Security Assertion Markup Language (SAML).

@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4ffdc71cfb9b19e08aa
+page_url: https://commons-os.github.io/patterns/pessimistic-locking-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/pessimistic-locking-pattern.md
 slug: pessimistic-locking-pattern
 title: Pessimistic Locking Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://stackoverflow.com/questions/129329/optimistic-vs-pessimistic-locking
 - https://martinfowler.com/eaaCatalog/pessimisticOfflineLock.html
@@ -40,19 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4ffdc71cfb9b19e08aa
-page_url: https://commons-os.github.io/patterns/pessimistic-locking-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 Pessimistic locking is a concurrency control strategy that prevents data conflicts by assuming that concurrent access to the same data will likely result in a conflict [1]. To prevent this, the pattern dictates that a resource is locked by the first user or process that accesses it, and it remains locked until that user or process explicitly releases the lock. This approach is in direct contrast to optimistic locking, which assumes that conflicts are rare and only checks for them at the time of update.

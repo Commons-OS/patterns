@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4fe407e05b1df9b303e
+page_url: https://commons-os.github.io/patterns/documentation-as-code-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/documentation-as-code-pattern.md
 slug: documentation-as-code-pattern
 title: Documentation as Code Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,26 +31,14 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://commons.engineering
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/documentation-as-code-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 # Documentation as Code
 
 ### 1. Overview

@@ -1,8 +1,13 @@
 ---
 id: pat_f632b1441e9a49ecb7c38ddd
-title: Event Marketing
+page_url: https://commons-os.github.io/patterns/event-marketing/
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/event-marketing.md
 slug: event-marketing
+title: Event Marketing
 aliases: []
+version: 1.0.0
+created: 2026-02-01
+modified: 2026-02-01
 classification:
   universality: domain
   domain: startup
@@ -14,36 +19,20 @@ classification:
   - startup-ecosystem
   status: draft
   commons_alignment: 4
-  commons_domain: &id001
+  commons_domain:
   - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-sources: []
-version: 1.0.0
-page_url: https://commons-os.github.io/patterns/event-marketing/
-github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/event-marketing.md
-created: 2026-02-01
-modified: 2026-02-01
 contributors:
-- name: Commons OS
-  role: author
+- commons-os
+sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS Pattern Library
 repository: https://github.com/Commons-OS/patterns
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 # Event Marketing
 
 ### 1. Overview

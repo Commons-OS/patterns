@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4ff0f76769a8a2b8e11
+page_url: https://commons-os.github.io/patterns/hybrid-clock-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/hybrid-clock-pattern.md
 slug: hybrid-clock-pattern
 title: Hybrid Clock Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 2
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://martinfowler.com/articles/patterns-of-distributed-systems/hybrid-clock.html
 - https://www.cockroachlabs.com/glossary/distributed-db/hybrid-logical-clock-hlc-timestamps/
@@ -40,19 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4ff0f76769a8a2b8e11
-page_url: https://commons-os.github.io/patterns/hybrid-clock-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Hybrid Clock pattern, often referred to as Hybrid Logical Clock (HLC), is a mechanism for timekeeping and event ordering in distributed systems. It combines the advantages of physical clocks (which track real-world time) and logical clocks (which track causal relationships between events). By merging a physical timestamp with a logical counter, the pattern generates a monotonically increasing timestamp that remains closely synchronized with physical time while strictly preserving the causal order of events. This approach addresses the inherent challenges of time in a distributed environment, where network latency and clock drift on individual machines make it impossible to have a perfectly unified sense of time across all nodes [1]. The concept was formalized to provide a practical solution for systems that require both causality tracking and a correlation to observable, real-world time, making it a cornerstone of modern distributed databases and platforms [2].

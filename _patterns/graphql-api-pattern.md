@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4feeb772a90ca97f42d
+page_url: https://commons-os.github.io/patterns/graphql-api-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/graphql-api-pattern.md
 slug: graphql-api-pattern
 title: GraphQL API Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://graphql.org/
 - https://www.apollographql.com/docs/graphos/resources/guides/graphql-adoption-patterns
@@ -40,19 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4feeb772a90ca97f42d
-page_url: https://commons-os.github.io/patterns/graphql-api-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. It provides a more efficient, powerful and flexible alternative to the traditional REST API. GraphQL was developed internally by Facebook in 2012 before being publicly released in 2015. It allows clients to request exactly the data they need and nothing more, making it easier to evolve APIs over time, and enabling powerful developer tools.

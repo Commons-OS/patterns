@@ -1,5 +1,6 @@
 ---
 id: pat_ef36152a5486bb8e1d2fafe8
+page_url: https://commons-os.github.io/patterns/appeals-process-design/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/appeals-process-design.md
 slug: appeals-process-design
 title: Appeals Process Design
@@ -24,7 +25,7 @@ classification:
   - governance
   status: draft
   commons_alignment: 4
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -32,10 +33,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: higgerix
-  role: author
-- name: cloudsters
-  role: author
+- higgerix
+- cloudsters
 sources:
 - https://www.myshyft.com/blog/appeal-process-implementation/
 - https://www.tspa.org/curriculum/ts-fundamentals/content-moderation-and-operations/user-appeals/
@@ -45,18 +44,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/appeals-process-design/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 An Appeals Process Design is a structured and formalized mechanism that allows users, community members, or other stakeholders of a platform or organization to request a review of decisions that have been made about them or their content. This pattern is fundamental to ensuring fairness, accountability, and transparency in any system where decisions, particularly those with negative consequences, are made. The process provides a necessary channel for recourse, enabling individuals to challenge what they perceive as erroneous, biased, or unjust outcomes. At its core, an appeals process is a critical component of procedural justice, which is the idea that fair processes are as important as fair outcomes. By providing a clear and accessible pathway for redress, platforms can build trust with their users, improve the quality of their decision-making over time, and demonstrate a commitment to ethical conduct. The scope of an appeals process can vary widely, from content moderation decisions on social media platforms to the allocation of resources in a collaborative community or even the results of an algorithmic assessment. The existence of a robust appeals process signals that a platform is willing to be held accountable for its actions and is open to correcting its mistakes, which is a cornerstone of legitimate governance.

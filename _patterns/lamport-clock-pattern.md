@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4ff4d7dceaae026d9a3
+page_url: https://commons-os.github.io/patterns/lamport-clock-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/lamport-clock-pattern.md
 slug: lamport-clock-pattern
 title: Lamport Clock Pattern
@@ -21,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 2
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +30,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://lamport.azurewebsites.net/pubs/time-clocks.pdf
 - https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html
@@ -40,18 +39,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/lamport-clock-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Lamport Clock, also known as a Lamport timestamp, is a fundamental mechanism in distributed systems for providing a partial ordering of events. It was introduced by Leslie Lamport in his seminal 1978 paper, "Time, Clocks, and the Ordering of Events in a Distributed System" [1]. In a distributed environment, where multiple processes execute on different machines, there is no single global clock to determine the exact time of an event. Physical clocks are subject to drift and cannot be perfectly synchronized. The Lamport Clock pattern addresses this by creating a logical clock that allows processes to maintain a consistent order of events based on causality, without relying on physical time. This enables the system to reason about the "happened-before" relationship between events, which is crucial for maintaining consistency in distributed computations, databases, and consensus algorithms.

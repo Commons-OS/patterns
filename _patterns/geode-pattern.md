@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4fec57a5882421c7682
+page_url: https://commons-os.github.io/patterns/geode-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/geode-pattern.md
 slug: geode-pattern
 title: Geode Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/geodes
 - https://www.geeksforgeeks.org/system-design/geode-pattern-system-design/
@@ -41,18 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/geode-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Geode pattern is a design pattern for distributed systems that emphasizes global scalability and resilience. It involves deploying a collection of backend services into a set of geographical nodes, or "geodes," each of which can service any request for any client. This pattern is particularly well-suited for applications with a global user base, where low latency and high availability are critical requirements. The name "geode" is an analogy to the geological formation, where a hollow rock contains a collection of crystals; in this pattern, the global system contains a collection of identical, self-contained deployments.

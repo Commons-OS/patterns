@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4ff0979b49a7668fee5
+page_url: https://commons-os.github.io/patterns/heartbeat-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/heartbeat-pattern.md
 slug: heartbeat-pattern
 title: Heartbeat Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://martinfowler.com/articles/patterns-of-distributed-systems/heartbeat.html
 - https://blog.algomaster.io/p/heartbeats-in-distributed-systems
@@ -42,18 +41,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/heartbeat-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Heartbeat pattern is a fundamental concept in distributed systems that enables components to monitor each other's availability and health. It involves a component periodically sending a "heartbeat" signal to a central monitor or other components in the system. If these heartbeats cease, the system can infer that the component has failed and take corrective action. This mechanism is crucial for building resilient and fault-tolerant systems, as it allows for the timely detection of failures, which is the first step in automated recovery [1]. The concept of a heartbeat is analogous to a biological heartbeat, which indicates that a living organism is alive; in the context of computing, it signifies that a hardware or software component is functioning correctly [2].

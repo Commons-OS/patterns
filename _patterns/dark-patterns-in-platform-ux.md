@@ -1,5 +1,6 @@
 ---
 id: pat_8aaae1817c9062fd8cb0fa78
+page_url: https://commons-os.github.io/patterns/dark-patterns-in-platform-ux/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/dark-patterns-in-platform-ux.md
 slug: dark-patterns-in-platform-ux
 title: Dark Patterns in Platform UX
@@ -24,8 +25,7 @@ classification:
   - user-experience-design
   status: draft
   commons_alignment: 1
-  commons_domain: &id001
-  - business
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -33,10 +33,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: higgerix
-  role: author
-- name: cloudsters
-  role: author
+- higgerix
+- cloudsters
 sources:
 - https://www.nngroup.com/articles/deceptive-patterns/
 - https://en.wikipedia.org/wiki/Dark_pattern
@@ -46,18 +44,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/dark-patterns-in-platform-ux/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 Dark Patterns in Platform UX are user interface design choices that manipulate users into taking actions they would not otherwise have taken, often benefiting the platform at the user's expense. These are not mistakes or poor design, but rather carefully crafted and intentional manipulations that exploit cognitive biases and human psychology. The term was coined by UX designer Harry Brignull in 2010 to name and shame these deceptive practices, which have since become a significant concern in the digital world. Dark patterns are a direct contradiction to the principles of user-centered design, which prioritizes user needs and goals. Instead, they prioritize business objectives, such as increasing sales, generating leads, or obtaining user data, often through unethical means. The prevalence of dark patterns has grown with the rise of the attention economy and the increasing competition for user engagement and revenue. This has led to a digital environment where users must be constantly on their guard against manipulation, and where trust in online platforms is eroding.

@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fed87c12b95be405a4
+page_url: https://commons-os.github.io/patterns/graceful-degradation-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/graceful-degradation-pattern.md
 slug: graceful-degradation-pattern
 title: Graceful Degradation Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://docs.cloud.google.com/architecture/framework/reliability/graceful-degradation
 - https://blog.logrocket.com/guide-graceful-degradation-web-development/
@@ -40,19 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fed87c12b95be405a4
-page_url: https://commons-os.github.io/patterns/graceful-degradation-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Graceful Degradation pattern is a design philosophy focused on building resilient systems that can maintain essential functionality even when parts of the system fail or are under duress. Rather than a complete system failure, a system designed with graceful degradation in mind will continue to operate, albeit at a reduced capacity. This pattern is crucial for ensuring a positive user experience and maintaining business continuity in the face of partial outages, network latency, or other unexpected issues. The concept has its roots in fault-tolerant computing and has become increasingly important in the era of distributed systems and microservices architectures.

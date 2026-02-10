@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f5000c7ed29f96ce243c
+page_url: https://commons-os.github.io/patterns/quarantine-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/quarantine-pattern.md
 slug: quarantine-pattern
 title: Quarantine Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,28 +31,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/quarantine
 - https://medium.com/@dmosyan/quarantine-design-pattern-b9feacdc2d7b
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/quarantine-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Quarantine pattern is a design approach used to safeguard systems by isolating untrusted or potentially harmful components until they can be properly vetted and deemed safe for integration. This pattern is particularly significant in the context of modern software development, where the use of third-party libraries, open-source components, and microservices is prevalent. By creating a controlled environment—a "quarantine"—the pattern allows for the inspection, analysis, and validation of these external elements before they are promoted to a production environment. The historical origins of this pattern can be traced back to the principles of network security, where suspicious network traffic or files are isolated in a demilitarized zone (DMZ) for inspection before being allowed into the trusted internal network.

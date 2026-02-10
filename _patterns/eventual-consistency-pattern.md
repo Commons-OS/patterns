@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fe7c735a84d4cd93aa
+page_url: https://commons-os.github.io/patterns/eventual-consistency-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/eventual-consistency-pattern.md
 slug: eventual-consistency-pattern
 title: Eventual Consistency Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://en.wikipedia.org/wiki/Eventual_consistency
 - https://systemdesign.one/consistency-patterns/
@@ -40,19 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fe7c735a84d4cd93aa
-page_url: https://commons-os.github.io/patterns/eventual-consistency-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Eventual Consistency pattern is a consistency model used in distributed computing to achieve high availability and scalability [1]. It guarantees that, if no new updates are made to a given data item, all subsequent reads of that item will eventually return the last updated value. This model, also known as optimistic replication, is a foundational concept in distributed systems, particularly for large-scale services where immediate consistency can be a bottleneck. Its origins can be traced back to early mobile computing projects and it has become a cornerstone of modern distributed database design, famously articulated in Werner Vogels' work on Amazon's Dynamo [3].

@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f5008b770c8b1ec76896
+page_url: https://commons-os.github.io/patterns/service-registry-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/service-registry-pattern.md
 slug: service-registry-pattern
 title: Service Registry Pattern
@@ -21,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,28 +30,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://microservices.io/patterns/service-registry.html
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/service-registry-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Service Registry pattern is a foundational component in modern distributed systems, particularly within microservices architectures. It addresses the challenge of service discovery in a dynamic environment where service instances are constantly being created and destroyed. The pattern introduces a central registry, a database of services, their instances, and their locations, which enables services to dynamically discover and communicate with each other without hard-coded network locations. This approach is crucial for building resilient, scalable, and maintainable applications. The concept of a service registry has its roots in earlier distributed computing paradigms, where similar mechanisms were used for resource location and management, but it has gained prominence with the widespread adoption of microservices. [1]

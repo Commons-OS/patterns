@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4fe8979dfa92a3170eb
+page_url: https://commons-os.github.io/patterns/exponential-backoff-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/exponential-backoff-pattern.md
 slug: exponential-backoff-pattern
 title: Exponential Backoff Pattern
@@ -21,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,28 +30,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://en.wikipedia.org/wiki/Exponential_backoff
 - https://medium.com/@roopa.kushtagi/decoding-exponential-backoff-a-blueprint-for-robust-communication-de21459aa98f
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/exponential-backoff-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Exponential Backoff pattern is a fault tolerance and system stability strategy used in distributed systems and networking. It addresses the problem of how to handle transient failures when communicating with a remote service. Instead of immediately and repeatedly retrying a failed operation, which can overwhelm the service and exacerbate the problem, the client waits for a progressively longer period between each retry attempt. This exponential increase in the backoff interval gives the remote service time to recover and reduces the likelihood of a "thundering herd" problem, where many clients simultaneously retry and overload the service.

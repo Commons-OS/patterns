@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fcdc7674a5521673cc
+page_url: https://commons-os.github.io/patterns/ambassador-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/ambassador-pattern.md
 slug: ambassador-pattern
 title: Ambassador Pattern
@@ -20,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -28,10 +30,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/ambassador
 - https://www.geeksforgeeks.org/system-design/ambassador-pattern-in-distributed-systems/
@@ -39,19 +39,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fcdc7674a5521673cc
-page_url: https://commons-os.github.io/patterns/ambassador-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Ambassador pattern is a structural design pattern that is instrumental in distributed systems and microservices architectures. It involves using a helper service, the "ambassador," which is co-located with a primary application and acts as a proxy for all its outbound network communications. This pattern's primary purpose is to offload cross-cutting concerns—such as monitoring, logging, routing, and security—from the application's core logic to a separate, specialized process. By doing so, it simplifies the application code, promotes loose coupling, and enables centralized management of these common functionalities.

@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f5007f717e8fbe8e571c
+page_url: https://commons-os.github.io/patterns/server-sent-events-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/server-sent-events-pattern.md
 slug: server-sent-events-pattern
 title: Server-Sent Events Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 4
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,29 +31,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events
 - https://engineering.surveysparrow.com/scaling-real-time-applications-with-server-sent-events-sse-abd91f70a5c9
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f5007f717e8fbe8e571c
-page_url: https://commons-os.github.io/patterns/server-sent-events-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Server-Sent Events (SSE) pattern is a web technology that enables a server to push real-time updates to a web client over a single, long-lived HTTP connection. It provides a one-way communication channel from the server to the client, making it an efficient solution for applications that need to display live data streams, such as news feeds, stock tickers, and notifications. SSE is a W3C standard and is supported by all modern web browsers through the `EventSource` API [1].

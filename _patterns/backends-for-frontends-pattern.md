@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fd1e71f78cbb197626
+page_url: https://commons-os.github.io/patterns/backends-for-frontends-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/backends-for-frontends-pattern.md
 slug: backends-for-frontends-pattern
 title: Backends For Frontends Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends
 - https://microservices.io/patterns/apigateway.html
@@ -40,19 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fd1e71f78cbb197626
-page_url: https://commons-os.github.io/patterns/backends-for-frontends-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Backends for Frontends (BFF) pattern is an architectural style that advocates for creating dedicated backend services for each frontend application. Instead of a single, general-purpose backend that serves all clients, the BFF pattern proposes a tailored backend for each user experience, such as a web application, a mobile app, or a third-party integration. This approach allows for the optimization of the backend to meet the specific needs of each frontend, leading to improved performance, better user experiences, and increased development autonomy for frontend teams. The pattern was first described by Sam Newman and has gained significant traction with the rise of microservices architectures and the proliferation of diverse client types [3].

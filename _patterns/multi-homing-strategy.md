@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4ffb4766fac8ac6bb30
+page_url: https://commons-os.github.io/patterns/multi-homing-strategy/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/multi-homing-strategy.md
 slug: multi-homing-strategy
 title: Multi-Homing Strategy
@@ -24,8 +25,7 @@ classification:
   - software-engineering
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
-  - business
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -33,10 +33,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: higgerix
-  role: author
-- name: cloudsters
-  role: author
+- higgerix
+- cloudsters
 sources:
 - https://journals.aom.org/doi/full/10.5465/ambpp.2017.14657abstract
 - https://www.hbs.edu/ris/Publication%20Files/18-032_d71914fe-d56c-42ad-ae20-deb5b979fab9.pdf
@@ -46,18 +44,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/multi-homing-strategy/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Multi-Homing Strategy is a critical concept in the realm of platform ecosystems, describing the decision of a user or complementor to concurrently connect with and participate in multiple platforms. This strategy stands in direct contrast to 'single-homing,' where allegiance is given to a single platform. In a world increasingly dominated by digital platforms, from social media and e-commerce to operating systems and the Internet of Things, multi-homing has emerged as a key dynamic that shapes competition, innovation, and value distribution. For users, multi-homing can mean using both Uber and Lyft to hail a ride, or browsing for a product on both Amazon and eBay. For complementors, such as app developers, it could involve creating versions of their application for both iOS and Android. The core motivation behind this strategy is the desire to maximize benefits, mitigate risks, and increase autonomy by avoiding dependence on a single platform entity.

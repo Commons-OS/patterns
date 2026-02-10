@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4ffcf7baba3eba2b013
+page_url: https://commons-os.github.io/patterns/optimistic-locking-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/optimistic-locking-pattern.md
 slug: optimistic-locking-pattern
 title: Optimistic Locking Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://en.wikipedia.org/wiki/Optimistic_concurrency_control
 - https://martinfowler.com/eaaCatalog/optimisticOfflineLock.html
@@ -40,19 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4ffcf7baba3eba2b013
-page_url: https://commons-os.github.io/patterns/optimistic-locking-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Optimistic Locking pattern, also known as Optimistic Concurrency Control (OCC), is a concurrency control method used in transactional systems to manage simultaneous access to shared data. It assumes that multiple transactions can complete without affecting each other, and that therefore, conflicts are rare. Instead of locking data records when they are read, which can lead to performance bottlenecks, optimistic locking allows transactions to proceed and then checks for conflicts before committing them. If a conflict is detected, the transaction is rolled back and can be retried. This approach is contrasted with pessimistic locking, which locks resources to prevent conflicts from happening in the first place.

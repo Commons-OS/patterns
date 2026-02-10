@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f50128791d9b8b704602
+page_url: https://commons-os.github.io/patterns/webhook-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/webhook-pattern.md
 slug: webhook-pattern
 title: Webhook Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://beeceptor.com/docs/webhook-feature-design/
 - https://dave.dev/blog/2022/11/01-11-2022-webhook-architecture/
@@ -40,19 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f50128791d9b8b704602
-page_url: https://commons-os.github.io/patterns/webhook-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Webhook pattern, also known as HTTP callbacks or reverse APIs, is a fundamental design pattern for enabling real-time communication and data exchange between different web applications and services. It allows one system (the provider) to send event-driven notifications to another system (the consumer) as soon as an event occurs, rather than requiring the consumer to periodically poll for changes. This proactive approach to communication is significantly more efficient and scalable than traditional polling methods, making it a cornerstone of modern, event-driven architectures. The concept of webhooks emerged in the mid-2000s as a solution to the growing need for seamless integration between the increasing number of online services. [3]

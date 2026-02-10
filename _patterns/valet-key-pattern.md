@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f5011e73cdba081bc442
+page_url: https://commons-os.github.io/patterns/valet-key-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/valet-key-pattern.md
 slug: valet-key-pattern
 title: Valet Key Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/valet-key
 - https://medium.com/@dmosyan/valet-ket-design-pattern-for-direct-data-access-cc0a6c523a2b
@@ -41,18 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/valet-key-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Valet Key pattern is a design pattern used in cloud computing and distributed systems to provide clients with restricted, direct access to a specific resource for a limited time. This pattern is analogous to a real-world valet key for a car, which can start the engine and open the doors but cannot unlock the trunk or the glove compartment. Similarly, in a software architecture context, the Valet Key pattern provides a token or key that grants a client temporary, limited permissions to a resource, such as a file in a cloud storage service, without exposing the master credentials or granting broader access to the system [1]. This approach is particularly useful in applications where clients need to upload or download large files, as it offloads the data transfer from the application server to the storage service, improving performance and scalability.

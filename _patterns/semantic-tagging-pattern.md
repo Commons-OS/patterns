@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f500727eddafd25464d7
+page_url: https://commons-os.github.io/patterns/semantic-tagging-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/semantic-tagging-pattern.md
 slug: semantic-tagging-pattern
 title: Semantic Tagging Pattern
@@ -23,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -31,28 +32,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://www.ontotext.com/knowledgehub/fundamentals/semantic-annotation/
 - https://megagonlabs.medium.com/semantic-tagging-the-swiss-army-knife-for-managing-data-insights-54f4c394cd49
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/semantic-tagging-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Semantic Tagging pattern, also known as Semantic Annotation, is a design pattern that enriches unstructured content with machine-readable metadata. This process involves identifying and linking concepts within the content to a formal, shared ontology or knowledge graph. By adding this layer of meaning, semantic tagging transforms raw data into smart data, making it more discoverable, interoperable, and reusable for both humans and automated systems. The historical origins of this pattern can be traced back to the vision of the Semantic Web, which aimed to create a web of data that could be processed by machines.

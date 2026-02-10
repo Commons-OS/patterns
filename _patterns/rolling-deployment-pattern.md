@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f5003f75e5bf59170a5c
+page_url: https://commons-os.github.io/patterns/rolling-deployment-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/rolling-deployment-pattern.md
 slug: rolling-deployment-pattern
 title: Rolling Deployment Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://docs.aws.amazon.com/whitepapers/latest/overview-deployment-options/rolling-deployments.html
 - https://launchdarkly.com/blog/blue-green-deployments-versus-rolling-deployments/
@@ -42,18 +41,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/rolling-deployment-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Rolling Deployment pattern is a software release strategy that updates an application by incrementally replacing old instances with new ones. Instead of a simultaneous, "big bang" update across all servers, this method introduces the new version to a subset of servers at a time. This gradual process continues until all instances are running the new version. The primary goal of a rolling deployment is to achieve zero-downtime releases, minimizing the impact on end-users and providing a window to detect and address issues before they affect the entire user base. This pattern has become a cornerstone of modern DevOps practices, enabling continuous delivery and frequent, reliable updates.

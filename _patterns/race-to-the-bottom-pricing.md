@@ -1,5 +1,6 @@
 ---
 id: pat_3a2b1f0c9d8e7a6b5c4d3e2f
+page_url: https://commons-os.github.io/patterns/race-to-the-bottom-pricing/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/race-to-the-bottom-pricing.md
 slug: race-to-the-bottom-pricing
 title: Race to the Bottom Pricing
@@ -24,8 +25,7 @@ classification:
   - software-engineering
   status: draft
   commons_alignment: 1
-  commons_domain: &id001
-  - business
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -33,10 +33,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: higgerix
-  role: author
-- name: cloudsters
-  role: author
+- higgerix
+- cloudsters
 sources:
 - https://www.retailtouchpoints.com/topics/personalization/race-to-the-bottom-pricing-is-a-losing-run-why-retailers-should-focus-on-personalized-promotions-instead
 - https://blog.blackcurve.com/how-to-avoid-a-race-to-the-bottom
@@ -46,17 +44,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/race-to-the-bottom-pricing/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 Race to the Bottom Pricing is a competitive strategy where companies progressively lower their prices to undercut competitors. This often leads to a downward spiral of price reductions, eroding profit margins and devaluing products or services in the eyes of consumers. While it might seem like a quick way to gain market share, it is a dangerous game that often results in a lose-lose situation for all involved. The primary motivation behind this strategy is often a desperate attempt to attract price-sensitive customers, especially in highly commoditized markets where product differentiation is minimal. However, the short-term gains in customer acquisition are often overshadowed by the long-term damage to brand perception, profitability, and overall market health.

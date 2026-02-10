@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fd55702898caf90c92
+page_url: https://commons-os.github.io/patterns/canonical-data-model/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/canonical-data-model.md
 slug: canonical-data-model
 title: Canonical Data Model
@@ -20,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -28,29 +30,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/CanonicalDataModel.html
 - https://en.wikipedia.org/wiki/Canonical_model
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fd55702898caf90c92
-page_url: https://commons-os.github.io/patterns/canonical-data-model/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Canonical Data Model is a design pattern that addresses the challenge of integrating multiple systems that have different data formats. Instead of creating a direct mapping between each pair of systems, which leads to a combinatorial explosion of translators, the Canonical Data Model introduces a common, standardized data format. Each system then only needs to be able to translate its data to and from this canonical format. This pattern is a form of enterprise application integration (EAI) and is often used in the context of message-based middleware and Enterprise Service Buses (ESBs) [1, 2]. The historical origins of this pattern can be traced back to the need to simplify the increasingly complex integration landscape in large enterprises.

@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4feb97b2d804c26881c
+page_url: https://commons-os.github.io/patterns/gateway-routing-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/gateway-routing-pattern.md
 slug: gateway-routing-pattern
 title: Gateway Routing Pattern
@@ -20,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -28,29 +30,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/gateway-routing
 - https://microservices.io/patterns/apigateway.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4feb97b2d804c26881c
-page_url: https://commons-os.github.io/patterns/gateway-routing-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Gateway Routing pattern is a design pattern used in software architecture to route requests to multiple services or multiple service instances using a single endpoint. This pattern is particularly useful in microservices architectures where a client needs to consume multiple services. Instead of the client having to know about and connect to each individual service, it communicates with a single gateway. The gateway then routes the requests to the appropriate backend service based on the request details. This simplifies the client application, decouples it from the backend services, and allows for greater flexibility in the backend architecture.

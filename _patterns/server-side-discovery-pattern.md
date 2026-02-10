@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f500857734a752713fca
+page_url: https://commons-os.github.io/patterns/server-side-discovery-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/server-side-discovery-pattern.md
 slug: server-side-discovery-pattern
 title: Server-Side Discovery Pattern
@@ -20,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -28,29 +30,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://microservices.io/patterns/server-side-discovery.html
 - https://www.geeksforgeeks.org/java/server-side-service-discovery-in-microservices/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f500857734a752713fca
-page_url: https://commons-os.github.io/patterns/server-side-discovery-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Server-Side Discovery pattern is a fundamental approach to service discovery in microservices architectures. In this pattern, a client application or service that wants to communicate with another service makes a request to a router or load balancer. This intermediary component is responsible for querying a service registry to determine the location of available service instances and then forwarding the request to one of them. This abstracts the discovery logic away from the client, simplifying client-side code and centralizing the management of service locations. The pattern has its roots in traditional distributed systems, where load balancers have long been used to distribute traffic across multiple servers. With the rise of microservices and dynamic infrastructure, the server-side discovery pattern has become a crucial element for building resilient and scalable applications.

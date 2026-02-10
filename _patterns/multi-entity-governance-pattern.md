@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4ffae7f76b9f7275fdc
+page_url: https://commons-os.github.io/patterns/multi-entity-governance-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/multi-entity-governance-pattern.md
 slug: multi-entity-governance-pattern
 title: Multi-Entity Governance Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,26 +31,14 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://commons.engineering
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/multi-entity-governance-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 _**DISCLAIMER: This is a generated platform pattern. It may not be accurate or complete. Please do your own research before implementing this pattern.**_
 
 # Multi-Entity Governance Pattern

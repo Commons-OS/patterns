@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fe4c79899431e5bc78
+page_url: https://commons-os.github.io/patterns/dynamic-router-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/dynamic-router-pattern.md
 slug: dynamic-router-pattern
 title: Dynamic Router Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/DynamicRouter.html
 - https://docs.redhat.com/en/documentation/red_hat_jboss_fuse/6.2/html/apache_camel_development_guide/dynamicrouter
@@ -40,19 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fe4c79899431e5bc78
-page_url: https://commons-os.github.io/patterns/dynamic-router-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Dynamic Router is a messaging pattern that enables the routing of messages to different destinations based on a set of rules that can be changed at runtime. This pattern is particularly useful in distributed systems where the number of destinations can change over time, and where it is not desirable to have to reconfigure the router every time a destination is added or removed [1].

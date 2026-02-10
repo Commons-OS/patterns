@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f5007874509f4c20b145
+page_url: https://commons-os.github.io/patterns/sequential-convoy-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/sequential-convoy-pattern.md
 slug: sequential-convoy-pattern
 title: Sequential Convoy Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 2
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,29 +31,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/sequential-convoy
 - https://www.willvelida.com/posts/sequential-convoy-pattern/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f5007874509f4c20b145
-page_url: https://commons-os.github.io/patterns/sequential-convoy-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Sequential Convoy pattern is a messaging pattern that ensures groups of related messages are processed in a first-in-first-out (FIFO) order, without blocking the processing of other, unrelated groups of messages. This pattern is particularly significant in distributed systems where horizontal scaling and parallel processing are common. While scaling out consumers of a message queue generally improves throughput, it can also lead to messages being processed out of their intended order. The Sequential Convoy pattern addresses this by introducing a mechanism to enforce ordering for specific subsets of messages, thereby maintaining data consistency and integrity for stateful operations.

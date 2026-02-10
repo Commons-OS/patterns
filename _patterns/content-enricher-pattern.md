@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4fdce7d5c9d3437cb5b
+page_url: https://commons-os.github.io/patterns/content-enricher-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/content-enricher-pattern.md
 slug: content-enricher-pattern
 title: Content Enricher Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,27 +31,14 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/DataEnricher.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/content-enricher-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Content Enricher pattern is a fundamental design pattern in messaging and integration architectures. It addresses the common problem of messages lacking all the necessary information for their intended recipients. The pattern introduces a component that intercepts a message, retrieves additional data from an external source, and augments the message with this new information before forwarding it to its destination. This process ensures that the receiving component has all the data it needs to perform its function, without requiring the original sender to have access to all the necessary information [1].

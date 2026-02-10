@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f500f1705b80c7f3529a
+page_url: https://commons-os.github.io/patterns/tenant-onboarding-automation/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/tenant-onboarding-automation.md
 slug: tenant-onboarding-automation
 title: Tenant Onboarding Automation
@@ -23,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -31,10 +32,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://aws.amazon.com/blogs/apn/tenant-onboarding-best-practices-in-saas-with-the-aws-well-architected-saas-lens/
 - https://docs.temporal.io/production-deployment/multi-tenant-patterns
@@ -42,17 +41,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/tenant-onboarding-automation/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 _**This is a draft pattern and is not yet ready for production use.**_
 
 ### 1. Overview

@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f500a570b6a4eff5570a
+page_url: https://commons-os.github.io/patterns/shared-nothing-architecture/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/shared-nothing-architecture.md
 slug: shared-nothing-architecture
 title: Shared-Nothing Architecture
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://en.wikipedia.org/wiki/Shared-nothing_architecture
 - https://www.geeksforgeeks.org/system-design/shared-nothing-architecture/
@@ -53,17 +52,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/shared-nothing-architecture/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 _Please add the content for the 8 sections of the pattern body here._
 
 ### 1. Overview

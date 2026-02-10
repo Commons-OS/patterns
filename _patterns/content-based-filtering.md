@@ -1,5 +1,6 @@
 ---
 id: pat_3aaec0989c9d2c65ae1ea925
+page_url: https://commons-os.github.io/patterns/content-based-filtering/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/content-based-filtering.md
 slug: content-based-filtering
 title: Content-Based Filtering
@@ -23,8 +24,7 @@ classification:
   - software-engineering
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
-  - business
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -32,10 +32,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: higgerix
-  role: author
-- name: cloudsters
-  role: author
+- higgerix
+- cloudsters
 sources:
 - https://www.ibm.com/think/topics/content-based-filtering
 - https://developers.google.com/machine-learning/recommendation/content-based/basics
@@ -45,18 +43,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/content-based-filtering/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 Content-Based Filtering is a recommendation algorithm that provides users with items similar to those they have previously shown an interest in. Unlike its counterpart, collaborative filtering, which leverages the preferences of similar users, content-based filtering focuses on the intrinsic properties of the items themselves. The core idea is to create a profile for each item, detailing its characteristics, and then to match these item profiles with a user's profile, which is built upon their past interactions and preferences. For instance, if a user frequently watches science fiction movies, a content-based filtering system will recommend other movies tagged with the "science fiction" genre. This approach is powerful because it allows for recommendations of new and niche items that have not yet been discovered by a large user base, as long as their features can be properly described. It offers a high degree of personalization and transparency, as the reasons for a recommendation can be easily explained by pointing to the shared attributes between the recommended item and the user's past choices.

@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4fded76d5bcd70bcccb
+page_url: https://commons-os.github.io/patterns/cqrs-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/cqrs-pattern.md
 slug: cqrs-pattern
 title: Command Query Responsibility Segregation (CQRS)
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs
 - https://martinfowler.com/bliki/CQRS.html
@@ -41,18 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/cqrs-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 Command Query Responsibility Segregation (CQRS) is an architectural pattern that separates the models for reading and writing data. The fundamental principle of CQRS is that you can use a different model to update information than the model you use to read information. This separation can lead to simpler models, improved performance, scalability, and security. The term was coined by Greg Young, building on the concept of Command-Query Separation (CQS) from Bertrand Meyer's work on the Eiffel programming language [2].

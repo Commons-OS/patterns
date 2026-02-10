@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4fd247506a0126aff74
+page_url: https://commons-os.github.io/patterns/backpressure-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/backpressure-pattern.md
 slug: backpressure-pattern
 title: Backpressure Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7
 - https://www.geeksforgeeks.org/back-pressure-in-distributed-systems/
@@ -42,18 +41,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/backpressure-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The **Backpressure** pattern is a crucial design principle in software engineering, particularly in distributed systems and data streaming applications. It provides a mechanism for a downstream component to signal to an upstream component that it is unable to keep up with the rate of incoming data. This feedback loop allows the upstream component to slow down or temporarily halt data transmission, preventing the downstream component from being overwhelmed, which could lead to resource exhaustion, performance degradation, or system failure. The concept of backpressure is not new and has its roots in fluid dynamics, where it describes the resistance or opposition to the desired flow of fluid through pipes. In software, this analogy is used to describe the resistance to the flow of data through a system [1].

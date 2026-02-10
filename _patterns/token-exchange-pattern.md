@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f5010a753788d5ac3342
+page_url: https://commons-os.github.io/patterns/token-exchange-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/token-exchange-pattern.md
 slug: token-exchange-pattern
 title: Token Exchange Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,28 +31,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://oauth.net/2/token-exchange/
 - https://datatracker.ietf.org/doc/html/rfc8693
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/token-exchange-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Token Exchange pattern is a security mechanism that allows a client to exchange one type of security token for another. This pattern is formally defined in RFC 8693, which specifies an extension to the OAuth 2.0 authorization framework [2]. The primary purpose of this pattern is to enable a client to obtain a new token by presenting an existing token to an authorization server. This is particularly useful in distributed systems and microservices architectures where a service may need to call other downstream services on behalf of a user, while still maintaining the user's identity and permissions.

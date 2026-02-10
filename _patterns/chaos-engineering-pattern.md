@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fd6d7f7490e47f4918
+page_url: https://commons-os.github.io/patterns/chaos-engineering-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/chaos-engineering-pattern.md
 slug: chaos-engineering-pattern
 title: Chaos Engineering Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://en.wikipedia.org/wiki/Chaos_engineering
 - https://principlesofchaos.org/
@@ -40,19 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fd6d7f7490e47f4918
-page_url: https://commons-os.github.io/patterns/chaos-engineering-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 Chaos Engineering is the discipline of experimenting on a software system in production to build confidence in its capability to withstand turbulent and unexpected conditions [1]. It is a proactive approach to identifying and mitigating failures before they result in system-wide outages. The core idea is to intentionally inject controlled failures into a system to understand its behavior and limitations. This practice has its roots in the early days of software development, with techniques like fault injection used to test the robustness of systems. The term "Chaos Engineering" was coined and popularized by Netflix in the late 2000s as they transitioned to a distributed microservices architecture on the cloud [3]. Their iconic "Chaos Monkey" tool, which randomly terminates virtual machine instances, became a symbol of this new approach to building resilient systems.

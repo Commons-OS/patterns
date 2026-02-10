@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fe327cadb42b4ab314
+page_url: https://commons-os.github.io/patterns/distributed-tracing-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/distributed-tracing-pattern.md
 slug: distributed-tracing-pattern
 title: Distributed Tracing Pattern
@@ -20,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -28,29 +30,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://microservices.io/patterns/observability/distributed-tracing.html
 - https://www.geeksforgeeks.org/system-design/distributed-tracing-in-microservices/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fe327cadb42b4ab314
-page_url: https://commons-os.github.io/patterns/distributed-tracing-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 Distributed tracing is a method used to monitor and profile applications, especially those built using a microservices architecture. It provides a holistic view of a request as it travels through the various services and components of a distributed system. By tracking the entire journey of a request, from its initiation to its completion, distributed tracing allows developers and operators to gain deep insights into the behavior of their applications, identify performance bottlenecks, and troubleshoot issues effectively [1].

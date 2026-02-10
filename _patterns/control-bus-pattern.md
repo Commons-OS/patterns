@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4fde07eb0b27fd7adb9
+page_url: https://commons-os.github.io/patterns/control-bus-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/control-bus-pattern.md
 slug: control-bus-pattern
 title: Control Bus Pattern
@@ -21,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 2
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +30,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/ControlBus.html
 - https://docs.spring.io/spring-integration/reference/control-bus.html
@@ -40,18 +39,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/control-bus-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Control Bus pattern provides a mechanism for administering and monitoring a distributed system by using the same messaging infrastructure that the application uses for its own data and events, but on separate, dedicated channels. This pattern, prominently featured in the book *Enterprise Integration Patterns* by Gregor Hohpe and Bobby Woolf, allows for the management of components within a messaging-based architecture without introducing new, specialized management protocols or tools [1]. The core idea is to send control messages to components, instructing them to perform administrative tasks such as starting, stopping, reconfiguring, or reporting their status. This creates a unified framework for both application and management concerns, simplifying the overall system architecture.

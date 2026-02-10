@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4ff9076828436e3ffc3
+page_url: https://commons-os.github.io/patterns/messaging-bridge-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/messaging-bridge-pattern.md
 slug: messaging-bridge-pattern
 title: Messaging Bridge Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/messaging-bridge
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingBridge.html
@@ -40,19 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4ff9076828436e3ffc3
-page_url: https://commons-os.github.io/patterns/messaging-bridge-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Messaging Bridge pattern is a fundamental integration pattern used to connect disparate messaging systems, enabling them to communicate and exchange messages seamlessly. This pattern acts as a translator and a conduit between systems that may use different messaging technologies, protocols, or formats. The significance of the Messaging Bridge lies in its ability to facilitate interoperability and communication between otherwise incompatible systems without requiring modifications to the systems themselves. Its origins can be traced back to the early days of enterprise application integration (EAI), where the need to connect legacy systems with newer applications became a pressing challenge [2].

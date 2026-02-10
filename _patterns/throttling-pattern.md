@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f500fe7a84b833baaa0a
+page_url: https://commons-os.github.io/patterns/throttling-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/throttling-pattern.md
 slug: throttling-pattern
 title: Throttling Pattern
@@ -21,7 +22,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +30,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/throttling
 - https://www.redhat.com/en/blog/pros-and-cons-throttling
@@ -40,18 +39,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/throttling-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Throttling pattern, also commonly known as Rate Limiting, is a mechanism used in software architecture to control the consumption of resources by regulating the rate at which requests are processed. This pattern is essential for maintaining the stability, availability, and fairness of a system by preventing it from being overwhelmed by an excessive number of requests. The concept of throttling has its roots in network traffic management and has become a fundamental pattern in the design of distributed systems, APIs, and microservices. By imposing limits on the rate of incoming requests, the Throttling pattern ensures that a system can continue to operate within its capacity, providing a reliable service to all consumers.

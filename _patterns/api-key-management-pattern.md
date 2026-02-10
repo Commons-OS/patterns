@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4fce97e848790f993e9
+page_url: https://commons-os.github.io/patterns/api-key-management-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/api-key-management-pattern.md
 slug: api-key-management-pattern
 title: API Key Management Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://docs.cloud.google.com/docs/authentication/api-keys-best-practices
 - https://infisical.com/blog/api-key-management
@@ -42,18 +41,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/api-key-management-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The API Key Management pattern is a fundamental security and access control mechanism for application programming interfaces (APIs). It involves generating, distributing, and managing unique keys that authenticate and authorize applications or users, enabling them to consume an API's services. The significance of this pattern lies in its ability to provide a simple yet effective method for controlling access, monitoring usage, and securing API endpoints from unauthorized or malicious activities. Historically, the need for API key management emerged with the rise of web-based APIs and the increasing need for programmatic access to data and services. As organizations began to expose their services to external developers and partners, a mechanism to control and track API usage became essential. API keys provided a straightforward solution to this problem, allowing providers to identify and authenticate clients, enforce usage quotas, and gather analytics on API consumption.

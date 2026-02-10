@@ -1,5 +1,6 @@
 ---
 id: pat_019c47f4febf73c7993af5343f
+page_url: https://commons-os.github.io/patterns/generation-clock-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/generation-clock-pattern.md
 slug: generation-clock-pattern
 title: Generation Clock Pattern
@@ -22,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,28 +31,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://martinfowler.com/articles/patterns-of-distributed-systems/generation-clock.html
 - https://medium.com/nerd-for-tech/generational-clocks-in-distributed-systems-a-deep-dive-398859292a1a
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/generation-clock-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Generation Clock is a design pattern used in distributed systems to ensure consistency and order in the presence of failures, particularly in leader-based replication models. It is a monotonically increasing number that represents the "generation" or "term" of a server, most notably the leader. This pattern is also known as **Term** or **Epoch** [1]. Its primary purpose is to distinguish between current and outdated leaders, thereby preventing the system from acting on stale or incorrect information, a common problem in distributed environments prone to network partitions and node failures.

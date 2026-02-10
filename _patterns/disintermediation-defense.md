@@ -1,5 +1,6 @@
 ---
 id: pat_50a82d384ad56b1a50ae9661
+page_url: https://commons-os.github.io/patterns/disintermediation-defense/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/disintermediation-defense.md
 slug: disintermediation-defense
 title: Disintermediation Defense
@@ -24,8 +25,7 @@ classification:
   - network-theory
   status: draft
   commons_alignment: 2
-  commons_domain: &id001
-  - business
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -33,10 +33,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: higgerix
-  role: author
-- name: cloudsters
-  role: author
+- higgerix
+- cloudsters
 sources:
 - https://online.hbs.edu/blog/post/disintermediation
 - https://en.wikipedia.org/wiki/Disintermediation
@@ -46,18 +44,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-page_url: https://commons-os.github.io/patterns/disintermediation-defense/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 Disintermediation Defense is a strategic pattern employed by platform businesses to prevent users—both producers and consumers—from bypassing the platform to connect and transact directly. This circumvention, known as disintermediation, poses a significant threat to a platform's viability, as it erodes the user base, diminishes network effects, and undermines the platform's revenue model, which often relies on transaction fees or commissions. The core challenge for any platform is to provide sufficient value to all participants, making the continued use of the platform more attractive than the perceived benefits of direct interaction. This pattern is not about coercion but about creating a compelling and sticky ecosystem that users willingly choose to remain within. It involves a combination of incentives, barriers, and value-added services that collectively make bypassing the platform difficult, costly, or simply less desirable.

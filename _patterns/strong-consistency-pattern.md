@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f500d2732e903cb6a896
+page_url: https://commons-os.github.io/patterns/strong-consistency-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/strong-consistency-pattern.md
 slug: strong-consistency-pattern
 title: Strong Consistency Pattern
@@ -22,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 2
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,29 +32,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://www.geeksforgeeks.org/system-design/strong-consistency-in-system-design/
 - https://systemdesign.one/consistency-patterns/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f500d2732e903cb6a896
-page_url: https://commons-os.github.io/patterns/strong-consistency-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Strong Consistency pattern is a fundamental model in distributed systems that guarantees every read operation retrieves the most recently written value. This ensures that all nodes in a distributed system have a synchronized and identical view of the data at any given time, making the system behave as if it were a single, atomic unit [1]. Its origins are deeply rooted in the challenges of concurrent programming and distributed databases, where maintaining data integrity across multiple locations is paramount.

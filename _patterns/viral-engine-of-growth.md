@@ -1,8 +1,13 @@
 ---
 id: pat_edb39e09e53f44308de5774a
-title: Viral Engine of Growth
+page_url: https://commons-os.github.io/patterns/viral-engine-of-growth/
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/viral-engine-of-growth.md
 slug: viral-engine-of-growth
+title: Viral Engine of Growth
 aliases: []
+version: 1.0.0
+created: 2026-02-01
+modified: 2026-02-01
 classification:
   universality: domain
   domain: startup
@@ -14,7 +19,7 @@ classification:
   - startup-ecosystem
   status: draft
   commons_alignment: 4
-  commons_domain: &id001
+  commons_domain:
   - startup
   - business
 generalizes_from: []
@@ -22,29 +27,13 @@ specializes_to: []
 enables: []
 requires: []
 related: []
-sources: []
-version: 1.0.0
-page_url: https://commons-os.github.io/patterns/viral-engine-of-growth/
-github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/viral-engine-of-growth.md
-created: 2026-02-01
-modified: 2026-02-01
 contributors:
-- name: Commons OS
-  role: author
+- commons-os
+sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS Pattern Library
 repository: https://github.com/Commons-OS/patterns
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 # GT002: Viral Engine of Growth
 
 ### 1. Overview

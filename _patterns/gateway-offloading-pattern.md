@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4feb3765098074e76a0
+page_url: https://commons-os.github.io/patterns/gateway-offloading-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/gateway-offloading-pattern.md
 slug: gateway-offloading-pattern
 title: Gateway Offloading Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,29 +31,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/gateway-offloading
 - https://microservices.io/patterns/apigateway.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4feb3765098074e76a0
-page_url: https://commons-os.github.io/patterns/gateway-offloading-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Gateway Offloading pattern is a design pattern used in software architecture to simplify application development by moving shared or specialized service functionality from individual application components to a gateway proxy. This pattern is particularly relevant in microservices architectures where multiple services may require common functionalities such as SSL termination, authentication, logging, and rate limiting. By centralizing these cross-cutting concerns in a gateway, the individual services become simpler, more focused on their core business logic, and easier to develop, deploy, and maintain. The historical origins of this pattern can be traced back to the evolution of distributed systems and the need to manage the increasing complexity of service-oriented architectures.

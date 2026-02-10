@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fd9b7e9b8d45e440a6
+page_url: https://commons-os.github.io/patterns/compensating-transaction-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/compensating-transaction-pattern.md
 slug: compensating-transaction-pattern
 title: Compensating Transaction Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,29 +31,15 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/compensating-transaction
 - https://microservices.io/patterns/data/saga.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fd9b7e9b8d45e440a6
-page_url: https://commons-os.github.io/patterns/compensating-transaction-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Compensating Transaction pattern is a design pattern used to perform undo operations for a series of steps in a distributed system when one or more of those steps fail. It is a crucial pattern for maintaining data consistency in eventually consistent systems, particularly in microservices architectures where a single business operation may span multiple services and databases. The pattern is closely associated with the Saga pattern, which coordinates a sequence of local transactions. When a local transaction in a saga fails, a series of compensating transactions are executed to revert the changes made by the preceding local transactions, thereby maintaining data integrity across the system [1][2].

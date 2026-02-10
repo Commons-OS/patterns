@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f5013575699d92e67aa5
+page_url: https://commons-os.github.io/patterns/write-ahead-log-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/write-ahead-log-pattern.md
 slug: write-ahead-log-pattern
 title: Write-Ahead Log Pattern
@@ -22,7 +24,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -30,10 +32,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://martinfowler.com/articles/patterns-of-distributed-systems/write-ahead-log.html
 - https://en.wikipedia.org/wiki/Write-ahead_logging
@@ -41,19 +41,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f5013575699d92e67aa5
-page_url: https://commons-os.github.io/patterns/write-ahead-log-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
-
 ### 1. Overview
 
 The Write-Ahead Log (WAL) is a standard method for ensuring data integrity and durability. Before any changes are made to the actual data files, the intended changes are first recorded in a separate, append-only log. This log entry must be persisted to a durable storage medium before the data modification occurs. This simple yet powerful mechanism guarantees that even in the event of a system crash, the database can be restored to a consistent state by replaying the log entries. The concept of logging changes before applying them has been a cornerstone of database management systems for decades, ensuring atomicity and durability, two of the four ACID properties.

@@ -1,4 +1,6 @@
 ---
+id: pat_019c47f4fe397db2969d5a4cc6
+page_url: https://commons-os.github.io/patterns/dns-based-routing-pattern/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/dns-based-routing-pattern.md
 slug: dns-based-routing-pattern
 title: DNS-based Routing Pattern
@@ -21,7 +23,7 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain: &id001
+  commons_domain:
   - business
 generalizes_from: []
 specializes_to: []
@@ -29,10 +31,8 @@ enables: []
 requires: []
 related: []
 contributors:
-- name: Manus AI
-  role: author
-- name: cloudsters
-  role: author
+- manus-ai
+- cloudsters
 sources:
 - https://dnsmadeeasy.com/resources/dns_routing
 - https://www.f5.com/glossary/dns-load-balancing
@@ -40,18 +40,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
-id: pat_019c47f4fe397db2969d5a4cc6
-page_url: https://commons-os.github.io/patterns/dns-based-routing-pattern/
-commons_domain: *id001
 ---
-
-
-
-
-
-
-
-
 _The DNS-based Routing pattern uses the Domain Name System (DNS) to distribute traffic across multiple, geographically dispersed servers or services. It is a foundational technique for building scalable, resilient, and performant distributed systems._
 
 ### 1. Overview
