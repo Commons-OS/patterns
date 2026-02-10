@@ -12,7 +12,9 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     name: Validate Pattern and Lighthouse Files
-    
+      permissions:
+      pull-requests: write
+      
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
