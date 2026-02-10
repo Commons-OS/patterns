@@ -1,3 +1,4 @@
+
 ---
 id: pat_cfe2ad3507f183529881ff7e
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/let-the-best-emerge.md

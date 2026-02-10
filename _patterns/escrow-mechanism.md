@@ -1,3 +1,4 @@
+
 ---
 id: pat_0eb8365d9b1a88657cae0da6
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/escrow-mechanism.md

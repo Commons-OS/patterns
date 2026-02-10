@@ -1,4 +1,4 @@
----
+'''--- 
 id: pat_209d17d84c5a68905b6cadee
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/knowledge-graph-platform.md
 slug: knowledge-graph-platform

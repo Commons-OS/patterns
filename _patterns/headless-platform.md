@@ -1,3 +1,5 @@
+
+
 ---
 id: pat_3a6f4d8e9c2b7a1d8f0e3c5a
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/headless-platform.md

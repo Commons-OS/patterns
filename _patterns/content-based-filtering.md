@@ -1,3 +1,4 @@
+
 ---
 id: pat_3aaec0989c9d2c65ae1ea925
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/content-based-filtering.md

@@ -1,3 +1,4 @@
+
 ---
 id: pat_1279829919c019f17a1c7a21
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/platform-interoperability.md

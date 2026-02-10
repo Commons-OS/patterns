@@ -1,3 +1,4 @@
+
 ---
 id: pat_8aaae1817c9062fd8cb0fa78
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/dark-patterns-in-platform-ux.md

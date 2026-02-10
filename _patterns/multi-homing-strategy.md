@@ -1,3 +1,4 @@
+
 ---
 id: pat_6f1b4e9e6a3b4c6e8d3f5c7b8a9d0e1f
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/multi-homing-strategy.md

@@ -1,3 +1,4 @@
+
 ---
 id: pat_50a82d384ad56b1a50ae9661
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/disintermediation-defense.md

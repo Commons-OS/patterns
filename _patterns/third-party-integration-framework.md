@@ -1,3 +1,4 @@
+
 ---
 id: pat_c7670c4de95b5464b783e06a
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/third-party-integration-framework.md

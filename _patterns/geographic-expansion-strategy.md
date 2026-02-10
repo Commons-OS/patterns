@@ -1,4 +1,4 @@
----
+
 id: pat_7e3b1f2a3c4d5e6f7a8b9c0d
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/geographic-expansion-strategy.md
 slug: geographic-expansion-strategy

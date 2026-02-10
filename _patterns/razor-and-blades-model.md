@@ -1,3 +1,4 @@
+## Razor-and-Blades Model Content Draft
 ---
 id: pat_ad85e155afee49934b465b33
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/razor-and-blades-model.md

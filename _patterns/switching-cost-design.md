@@ -1,3 +1,4 @@
+
 ---
 id: pat_f69f26479e9fd00848dc48e7
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/switching-cost-design.md

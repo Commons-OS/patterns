@@ -1,3 +1,4 @@
+
 ---
 id: pat_3b9b4b4b4b4b4b4b4b4b4b4b
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/app-store-model.md

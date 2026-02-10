@@ -1,3 +1,4 @@
+
 ---
 id: pat_288f36f858148fbc0cca15e5
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/dispute-resolution-mechanism.md

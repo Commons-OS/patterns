@@ -1,5 +1,4 @@
----
-id: pat_3a2b1f0c9d8e7a6b5c4d3e2f
+--- id: pat_3a2b1f0c9d8e7a6b5c4d3e2f
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/race-to-the-bottom-pricing.md
 slug: race-to-the-bottom-pricing
 title: Race to the Bottom Pricing

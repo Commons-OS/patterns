@@ -1,4 +1,3 @@
----
 id: pat_5a2b3c4d5e6f7a8b9c0d1e2f
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/platform-enshittification.md
 slug: platform-enshittification
