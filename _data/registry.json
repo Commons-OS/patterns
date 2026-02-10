@@ -693,6 +693,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_565f9763a7d39c2cb9188d4d",
+    "title": "Algorithmic Governance",
+    "slug": "algorithmic-governance",
+    "domains": [
+      "platform",
+      "polity",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023xef1s9wh99wxmpz6cg",
     "title": "Algorithmic Management",
     "slug": "algorithmic-management",
@@ -832,6 +844,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_92afaf39ee14adddd9cd587d",
+    "title": "API Economy Participation",
+    "slug": "api-economy-participation",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023xfergseskeq5q38czx",
     "title": "API-First Design - Interface-Driven",
     "slug": "api-first-design-interface-driven",
@@ -863,6 +887,30 @@
       "security"
     ],
     "domain": "security",
+    "status": "draft"
+  },
+  {
+    "id": "pat_3b9b4b4b4b4b4b4b4b4b4b4b",
+    "title": "App Store Model",
+    "slug": "app-store-model",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_ef36152a5486bb8e1d2fafe8",
+    "title": "Appeals Process Design",
+    "slug": "appeals-process-design",
+    "domains": [
+      "platform",
+      "polity",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -967,6 +1015,18 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_76aad813b743063c5fe4eb30",
+    "title": "Asymptotic Marketplace",
+    "slug": "asymptotic-marketplace",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -1189,6 +1249,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_65c7b4f3b3b3b3b3b3b3b3b3",
+    "title": "Bandwagon Effect",
+    "slug": "bandwagon-effect",
+    "domains": [
+      "platform",
+      "social",
+      "polity"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_019c19b235067714907bcdebad",
     "title": "Bastion Host",
     "slug": "bastion-host",
@@ -1289,6 +1361,18 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_a75305b23faffc0fd926b896",
+    "title": "Belief Network Effect",
+    "slug": "belief-network-effect",
+    "domains": [
+      "platform",
+      "social",
+      "polity"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -1895,6 +1979,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_c2310bc21577c8246be57105",
+    "title": "Chicken-and-Egg Strategy",
+    "slug": "chicken-and-egg-strategy",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023xted0bt7yxjm46pxae",
     "title": "Chinese Guanxi Networks",
     "slug": "chinese-guanxi-networks",
@@ -2009,6 +2105,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_4d5f6ba7e8d9c0b1a2f3e4d5",
+    "title": "Climb the Value Chain",
+    "slug": "climb-the-value-chain",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_3gqc3hqfffbwtedxm3cbrahxja",
     "title": "Cloud Native Architecture Kubernetes Containers",
     "slug": "cloud-native-architecture-kubernetes-containers",
@@ -2114,6 +2222,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_9eba7c435d94366a1fbddf6e",
+    "title": "Cold Start Problem",
+    "slug": "cold-start-problem",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023xyf2svqa9gxnv15tkt",
     "title": "Collaborative Filtering",
     "slug": "collaborative-filtering",
@@ -2169,6 +2289,18 @@
       "startup"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_e8db8fc3d380eb7c0c1fb9ea",
+    "title": "Commoditization Resistance",
+    "slug": "commoditization-resistance",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -2314,6 +2446,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_3a2433b2d918c702e2f2b641",
+    "title": "Community Guidelines Design",
+    "slug": "community-guidelines-design",
+    "domains": [
+      "platform",
+      "social",
+      "polity"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023y0eh0v55ey9zsnv1c3",
     "title": "Community Land Ownership",
     "slug": "community-land-ownership",
@@ -2338,6 +2482,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_c5768737c3f313a0bc4b2525",
+    "title": "Community Land Trust Digital",
+    "slug": "community-land-trust-digital",
+    "domains": [
+      "platform",
+      "urban",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_2b8e0d17516b42c4b9bf5e19",
     "title": "Community-Led Growth",
     "slug": "community-led-growth",
@@ -2358,6 +2514,30 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_8a7b3c9d2e1f4b5a8c7d6e5f",
+    "title": "Community Ownership Model",
+    "slug": "community-ownership-model",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_af19f646609e3fd56333c3e1",
+    "title": "Community Self-Governance",
+    "slug": "community-self-governance",
+    "domains": [
+      "platform",
+      "social",
+      "polity"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -2463,6 +2643,18 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_65eb51f84f0f06789f5bd876",
+    "title": "Composable Architecture",
+    "slug": "composable-architecture",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -2740,6 +2932,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_3aaec0989c9d2c65ae1ea925",
+    "title": "Content-Based Filtering",
+    "slug": "content-based-filtering",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_fead526aba89414baedc3cbe",
     "title": "Content Marketing",
     "slug": "content-marketing",
@@ -2748,6 +2952,18 @@
       "business"
     ],
     "domain": "startup",
+    "status": "draft"
+  },
+  {
+    "id": "pat_d991f54879be3f75f7ac5e1c",
+    "title": "Content Moderation Framework",
+    "slug": "content-moderation-framework",
+    "domains": [
+      "platform",
+      "social",
+      "polity"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -3096,6 +3312,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_b08caa270db742dced0c9471",
+    "title": "Create a New Profession",
+    "slug": "create-a-new-profession",
+    "domains": [
+      "platform",
+      "social",
+      "business"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_e38e27e1b25e49f08091fdd8",
     "title": "Creative Commons",
     "slug": "creative-commons",
@@ -3138,6 +3366,18 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_8d9f5ceab605b949d070a120",
+    "title": "Cross-Side Network Effects",
+    "slug": "cross-side-network-effects",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -3324,6 +3564,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_8aaae1817c9062fd8cb0fa78",
+    "title": "Dark Patterns in Platform UX",
+    "slug": "dark-patterns-in-platform-ux",
+    "domains": [
+      "platform",
+      "social",
+      "business"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_019c19b2351e7fca9a38527bd7",
     "title": "Data Classification",
     "slug": "data-classification",
@@ -3332,6 +3584,18 @@
       "business"
     ],
     "domain": "security",
+    "status": "draft"
+  },
+  {
+    "id": "pat_346e71c8146b6614e54d5baa",
+    "title": "Data Commons",
+    "slug": "data-commons",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -3355,6 +3619,18 @@
       "business"
     ],
     "domain": "security",
+    "status": "draft"
+  },
+  {
+    "id": "pat_1a2b3c4d5e6f7a8b9c0d1e2f",
+    "title": "Data Mesh",
+    "slug": "data-mesh",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -3503,6 +3779,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_4f676475eba047f480a4bfcb",
+    "title": "Defensibility Moats",
+    "slug": "defensibility-moats",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_7e54d0eefec743839e661228",
     "title": "Defensive Patent Pledge",
     "slug": "defensive-patent-pledge",
@@ -3594,6 +3882,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_1fabbab6965d6832f7a42ee4",
+    "title": "Demand-First Strategy",
+    "slug": "demand-first-strategy",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023wtfe1t2fh8c58khfh1",
     "title": "Demand Response",
     "slug": "demand-response",
@@ -3603,6 +3903,18 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_978e261cb9cfa478c95c908d",
+    "title": "Democratic Platform Governance",
+    "slug": "democratic-platform-governance",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -3871,6 +4183,30 @@
     "status": "draft"
   },
   {
+    "id": "pat_02ef02054de843ea845eb608",
+    "title": "Developer Experience Design",
+    "slug": "developer-experience-design",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_2dead8274edf1a8d730ac035",
+    "title": "Developer Relations",
+    "slug": "developer-relations",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023ydftgramg3hykec9tv",
     "title": "DevOps",
     "slug": "devops",
@@ -3902,6 +4238,18 @@
       "business"
     ],
     "domain": "security",
+    "status": "draft"
+  },
+  {
+    "id": "pat_561a4ef8fe531134024fedf1",
+    "title": "Digital Commons",
+    "slug": "digital-commons",
+    "domains": [
+      "platform",
+      "social",
+      "polity"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -4002,6 +4350,30 @@
       "startup"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_50a82d384ad56b1a50ae9661",
+    "title": "Disintermediation Defense",
+    "slug": "disintermediation-defense",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_288f36f858148fbc0cca15e5",
+    "title": "Dispute Resolution Mechanism",
+    "slug": "dispute-resolution-mechanism",
+    "domains": [
+      "platform",
+      "social",
+      "business"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -4375,6 +4747,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_d9d6be5a8a871e3a66013db6",
+    "title": "Ecosystem Health Metrics",
+    "slug": "ecosystem-health-metrics",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023yhepg8n3deb3pmr2c4",
     "title": "Ecosystem Orchestration",
     "slug": "ecosystem-orchestration",
@@ -4570,6 +4954,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_65c7a1b1e6b3b1e6b3b1e6b3",
+    "title": "Enable Personalization with Independent Providers",
+    "slug": "enable-personalization-with-independent-providers",
+    "domains": [
+      "platform",
+      "social",
+      "business"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_019c19b234c970b3bf66ca0d23",
     "title": "Encryption",
     "slug": "encryption",
@@ -4657,6 +5053,18 @@
       "business"
     ],
     "domain": "startup",
+    "status": "draft"
+  },
+  {
+    "id": "pat_0eb8365d9b1a88657cae0da6",
+    "title": "Escrow Mechanism",
+    "slug": "escrow-mechanism",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -4815,6 +5223,18 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_4d5f6ba7c8d9e0f1a2b3c4d5",
+    "title": "Expertise Network Effect",
+    "slug": "expertise-network-effect",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -4998,6 +5418,18 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_c5367c2f69974cbaaa4a2c8f",
+    "title": "Federated Architecture",
+    "slug": "federated-architecture",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -5620,6 +6052,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_7e3b1f2a3c4d5e6f7a8b9c0d",
+    "title": "Geographic Expansion Strategy",
+    "slug": "geographic-expansion-strategy",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023yweb8r88nxv5g3w3p1",
     "title": "Geographic/Cultural Diversity Prioritization",
     "slug": "geographiccultural-diversity-prioritization",
@@ -5811,6 +6255,18 @@
       "startup"
     ],
     "domain": "startup",
+    "status": "draft"
+  },
+  {
+    "id": "pat_87e0a76af5b1ebc9b8ec68a2",
+    "title": "Graduated Sanctions",
+    "slug": "graduated-sanctions",
+    "domains": [
+      "platform",
+      "social",
+      "polity"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -6037,6 +6493,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_3a6f4d8e9c2b7a1d8f0e3c5a",
+    "title": "Headless Platform",
+    "slug": "headless-platform",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023w2eshb12c2rftpwzcd",
     "title": "Heijunka - Production Leveling",
     "slug": "heijunka-production-leveling",
@@ -6171,6 +6639,18 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_84c4ab0f211e7d36870a331f",
+    "title": "Hub-and-Spoke Network",
+    "slug": "hub-and-spoke-network",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -6357,6 +6837,18 @@
     ],
     "domain": "startup",
     "status": "published"
+  },
+  {
+    "id": "pat_2106180f4f65c6bb380bd710",
+    "title": "Identity Verification",
+    "slug": "identity-verification",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
   },
   {
     "id": "pat_01kg50240nfz989qp3d2bx6vvq",
@@ -6754,6 +7246,18 @@
       "startup"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_dfd2911dddd96915f8aa05fd",
+    "title": "Insurance Guarantee Model",
+    "slug": "insurance-guarantee-model",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -7252,6 +7756,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_209d17d84c5a68905b6cadee",
+    "title": "Knowledge Graph Platform",
+    "slug": "knowledge-graph-platform",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023zae8rthxw6g828qhf5",
     "title": "Knowledge Management - Nonaka & Takeuchi",
     "slug": "knowledge-management-nonaka-takeuchi",
@@ -7329,6 +7845,18 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_bbf36ae25558c572ee993ac0",
+    "title": "Language Network Effect",
+    "slug": "language-network-effect",
+    "domains": [
+      "platform",
+      "social",
+      "business"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -7568,6 +8096,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_cfe2ad3507f183529881ff7e",
+    "title": "Let the Best Emerge",
+    "slug": "let-the-best-emerge",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023zcf99tjg7qsycgrmf1",
     "title": "Licensing Model - IP Monetization",
     "slug": "licensing-model-ip-monetization",
@@ -7670,6 +8210,18 @@
       "business"
     ],
     "domain": "startup",
+    "status": "draft"
+  },
+  {
+    "id": "pat_3a9f8b2c7d1e4f5a8b3c5d7e9f0a1b2d",
+    "title": "Lock-In Mechanisms",
+    "slug": "lock-in-mechanisms",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -7843,6 +8395,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_7cee94831f6332a570db6f9b",
+    "title": "Market Network Effect",
+    "slug": "market-network-effect",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_5c29ec4147e74120b8327783",
     "title": "Market-Rate Compensation",
     "slug": "market-rate-compensation",
@@ -7865,6 +8429,30 @@
     "status": "published"
   },
   {
+    "id": "pat_dade2a128c5159dfef39c2e6",
+    "title": "Marketplace-as-a-Service",
+    "slug": "marketplace-as-a-service",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_4d5f6a7b8c9d0e1f2a3b4c5d",
+    "title": "Marketplace Curation",
+    "slug": "marketplace-curation",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_25925003784c44d098c9856452",
     "title": "Marketplace Model - Two-Sided Platforms",
     "slug": "marketplace-model-two-sided-platforms",
@@ -7874,6 +8462,18 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_87f98c9d52214945b2612a08",
+    "title": "Marquee User Strategy",
+    "slug": "marquee-user-strategy",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -8411,6 +9011,30 @@
     "status": "draft"
   },
   {
+    "id": "pat_6f1b4e9e6a3b4c6e8d3f5c7b8a9d0e1f",
+    "title": "Multi-Homing Strategy",
+    "slug": "multi-homing-strategy",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_32ea68aef9efad095cd09d9b",
+    "title": "Multi-Sided Market",
+    "slug": "multi-sided-market",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_fd87840733ef413d864b2e6a",
     "title": "Multi-Stakeholder Cooperative",
     "slug": "multi-stakeholder-cooperative",
@@ -8442,6 +9066,17 @@
       "startup"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_37d0ce3c51419b0b34f64f37",
+    "title": "Multi-Tenancy",
+    "slug": "multi-tenancy",
+    "domains": [
+      "platform",
+      "business"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -8734,6 +9369,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_e6f662da65cf276b73f20470",
+    "title": "Niche-to-Mass Strategy",
+    "slug": "niche-to-mass-strategy",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_48dfee4f0f3b4ffeb702edaa",
     "title": "No Brilliant Jerks",
     "slug": "no-brilliant-jerks",
@@ -8824,6 +9471,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_d18f095b619c26618005ddf3",
+    "title": "Onboarding Flow Design",
+    "slug": "onboarding-flow-design",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_05769428ae83421e9f88f581",
     "title": "Onboarding Optimization",
     "slug": "onboarding-optimization",
@@ -8892,6 +9551,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_4f8b2e7d3c1a6e9b8d0f3a2c",
+    "title": "Open API Strategy",
+    "slug": "open-api-strategy",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023zhf10b0yp1ykdahmh5",
     "title": "Open Design",
     "slug": "open-design",
@@ -8923,6 +9594,18 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_287028809c8f6a04825ac036",
+    "title": "Open Protocol Platform",
+    "slug": "open-protocol-platform",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -9476,6 +10159,30 @@
     "status": "draft"
   },
   {
+    "id": "pat_f1c98b4a86096f84a0832fc5",
+    "title": "Personal Network Effect",
+    "slug": "personal-network-effect",
+    "domains": [
+      "platform",
+      "social",
+      "business"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_d99bafe4310e413e1fdded68",
+    "title": "Personal Utility Network Effect",
+    "slug": "personal-utility-network-effect",
+    "domains": [
+      "platform",
+      "social",
+      "business"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg50240xe19r5fzqy5y14r74",
     "title": "Personality Frameworks (MBTI, DISC, etc.)",
     "slug": "personality-frameworks-mbti-disc-etc",
@@ -9533,6 +10240,30 @@
     "status": "draft"
   },
   {
+    "id": "pat_5ee52a8527939395a98126ea",
+    "title": "Physical Network Effect",
+    "slug": "physical-network-effect",
+    "domains": [
+      "platform",
+      "urban",
+      "business"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_9b1d8e7f6c5a4b3d2e1f0c9a8b7d6e5f",
+    "title": "Piggyback Strategy",
+    "slug": "piggyback-strategy",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_31f225d24033408fa9c4fac325",
     "title": "Pivot or Persevere",
     "slug": "pivot-or-persevere",
@@ -9580,6 +10311,30 @@
     "status": "draft"
   },
   {
+    "id": "pat_f360c84026392d3c07c7c511",
+    "title": "Platform-as-Infrastructure",
+    "slug": "platform-as-infrastructure",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_65c7a1b1e6b3b1e6b3b1e6b3",
+    "title": "Platform Bundling",
+    "slug": "platform-bundling",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023zme99s1z093k044gjh",
     "title": "Platform Business Models",
     "slug": "platform-business-models",
@@ -9589,6 +10344,18 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_0febeb8c5bd5578f3a2c88f3",
+    "title": "Platform Constitution",
+    "slug": "platform-constitution",
+    "domains": [
+      "platform",
+      "polity",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -9609,6 +10376,30 @@
       "startup"
     ],
     "domain": "startup",
+    "status": "draft"
+  },
+  {
+    "id": "pat_9a29fbd959c571dba08eaf71",
+    "title": "Platform Dependency Trap",
+    "slug": "platform-dependency-trap",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_e28d7ec79fb8b4a9e1911d32",
+    "title": "Platform Differentiation",
+    "slug": "platform-differentiation",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -9648,6 +10439,30 @@
     "status": "draft"
   },
   {
+    "id": "pat_5a2b3c4d5e6f7a8b9c0d1e2f",
+    "title": "Platform Enshittification",
+    "slug": "platform-enshittification",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_a83a79368a602678d9799fb9",
+    "title": "Platform Envelopment",
+    "slug": "platform-envelopment",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023znes88czf377qq3h6v",
     "title": "Platform Governance - Ostrom-Inspired",
     "slug": "platform-governance-ostrom-inspired",
@@ -9657,6 +10472,18 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_1279829919c019f17a1c7a21",
+    "title": "Platform Interoperability",
+    "slug": "platform-interoperability",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -9671,6 +10498,30 @@
     "status": "draft"
   },
   {
+    "id": "pat_5a3c7d8f2b1e6a0c9d8e7f6a",
+    "title": "Platform Regulation Compliance",
+    "slug": "platform-regulation-compliance",
+    "domains": [
+      "platform",
+      "polity",
+      "business"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_7799f974bf07472e1849cdf1",
+    "title": "Platform SDK Design",
+    "slug": "platform-sdk-design",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023znes88czf39deqdw44",
     "title": "Platform Strategy",
     "slug": "platform-strategy",
@@ -9680,6 +10531,30 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_4a3f6b2d7c8e9f0a1b3c5d7e",
+    "title": "Platform Unbundling",
+    "slug": "platform-unbundling",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_4d3f8e7cc9b6a2b1d0e8c7f5",
+    "title": "Plugin Extension Architecture",
+    "slug": "plugin-extension-architecture",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -10337,6 +11212,17 @@
     "status": "draft"
   },
   {
+    "id": "pat_e31c026a0833d5da21d61192",
+    "title": "Progressive Disclosure",
+    "slug": "progressive-disclosure",
+    "domains": [
+      "platform",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023zqfzsrp86d33pjmvg2",
     "title": "Progressive Web Apps (PWA)",
     "slug": "progressive-web-apps-pwa",
@@ -10370,6 +11256,18 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_7d7676ed1a607c4a4c6357a4",
+    "title": "Protocol Network Effect",
+    "slug": "protocol-network-effect",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -10578,6 +11476,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_3a2b1f0c9d8e7a6b5c4d3e2f",
+    "title": "Race to the Bottom Pricing",
+    "slug": "race-to-the-bottom-pricing",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_513c9811a47f4d15ab5c31b5",
     "title": "Radical Candor",
     "slug": "radical-candor",
@@ -10597,6 +11507,18 @@
       "startup"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_ad85e155afee49934b465b33",
+    "title": "Razor-and-Blades Model",
+    "slug": "razor-and-blades-model",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -10623,6 +11545,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_047889ef253d45541de40d11",
+    "title": "Re-Intermediation",
+    "slug": "re-intermediation",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023zrexhr77rgn69wbwcg",
     "title": "Reaction Engineering Design",
     "slug": "reaction-engineering-design",
@@ -10646,6 +11580,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_6d434ee9bc837f5795f0b1d3",
+    "title": "Recommendation Engine",
+    "slug": "recommendation-engine",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023zrexhr77rgsqhd0sw6",
     "title": "Red Ocean vs Blue Ocean",
     "slug": "red-ocean-vs-blue-ocean",
@@ -10657,6 +11603,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_96a70c3e48b8c7699892f9ef",
+    "title": "Reduce Barriers to Market Entry",
+    "slug": "reduce-barriers-to-market-entry",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_08aa11d257cb49cba8c3c415",
     "title": "Reference Checks",
     "slug": "reference-checks",
@@ -10665,6 +11623,18 @@
       "business"
     ],
     "domain": "startup",
+    "status": "draft"
+  },
+  {
+    "id": "pat_4d5f6g7h8j9k0l1m2n3b4v5c6x7z8a9s",
+    "title": "Referral Program Design",
+    "slug": "referral-program-design",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -10900,6 +11870,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_4d8f2b8c9c3e4a5b6d7e8f9a0b1c2d3e",
+    "title": "Rent-Seeking Extraction",
+    "slug": "rent-seeking-extraction",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023ztenhrk74gzmqj2fc7",
     "title": "Rental Model",
     "slug": "rental-model",
@@ -10956,6 +11938,18 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_3a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d",
+    "title": "Reputation Score Design",
+    "slug": "reputation-score-design",
+    "domains": [
+      "platform",
+      "social",
+      "business"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -11082,6 +12076,18 @@
       "business"
     ],
     "domain": "startup",
+    "status": "draft"
+  },
+  {
+    "id": "pat_19761e2fa69313c17fe2ce8f",
+    "title": "Review and Feedback System",
+    "slug": "review-and-feedback-system",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -11597,6 +12603,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_60aef6ac7d9578289b8af42e",
+    "title": "Seeding Strategy",
+    "slug": "seeding-strategy",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_c7f70c986cf743c5921521f9",
     "title": "Self-Sovereign Identity",
     "slug": "self-sovereign-identity",
@@ -11732,6 +12750,18 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_e52446c7fbf7cbd917fedfb4",
+    "title": "Serverless Platform",
+    "slug": "serverless-platform",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -11951,6 +12981,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_ede60f4aef6de9b988f486e0",
+    "title": "Shared Infrastructure Model",
+    "slug": "shared-infrastructure-model",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_vjo6byrnjrdlvp63nz4bdclpm4",
     "title": "Shared Value (Porter & Kramer)",
     "slug": "shared-value-porter-kramer",
@@ -11992,6 +13034,18 @@
       "startup"
     ],
     "domain": "startup",
+    "status": "draft"
+  },
+  {
+    "id": "pat_e637a5303176fb78be09a5d7",
+    "title": "Single-Player Mode",
+    "slug": "single-player-mode",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -12575,6 +13629,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_1a8b3d4e5f6a7b8c9d0e1f2a",
+    "title": "Star Rating System",
+    "slug": "star-rating-system",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg50240zfdhtkt154ms1py31",
     "title": "Statistical Process Control (SPC)",
     "slug": "statistical-process-control-spc",
@@ -12847,6 +13913,30 @@
     "status": "draft"
   },
   {
+    "id": "pat_b551243c067a05fbce85bd5d",
+    "title": "Supply-First Strategy",
+    "slug": "supply-first-strategy",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_5a7b3c9d8e6f4a1b8c2d0e9f",
+    "title": "Surveillance Capitalism",
+    "slug": "surveillance-capitalism",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg50240rf3s9mqrr284wczhz",
     "title": "Sustainable Manufacturing",
     "slug": "sustainable-manufacturing",
@@ -12891,6 +13981,18 @@
       "startup"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_f69f26479e9fd00848dc48e7",
+    "title": "Switching Cost Design",
+    "slug": "switching-cost-design",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -13114,6 +14216,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_6d316626b8ff6b5c7371105f",
+    "title": "Tech Performance Network Effect",
+    "slug": "tech-performance-network-effect",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg502405es8af4s5jep3hnh9",
     "title": "Technical Performance Measurement",
     "slug": "technical-performance-measurement",
@@ -13276,6 +14390,18 @@
       "startup"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_c7670c4de95b5464b783e06a",
+    "title": "Third-Party Integration Framework",
+    "slug": "third-party-integration-framework",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -13567,6 +14693,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_6383d2df48c8a780878d71d8",
+    "title": "Transaction Fee Model",
+    "slug": "transaction-fee-model",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg502407eyh8wbymn1q2ytb4",
     "title": "Transactional Leadership",
     "slug": "transactional-leadership",
@@ -13587,6 +14725,18 @@
       "startup"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_fb5ec9a3cc222c4d602606e3",
+    "title": "Transform Competitors into Providers",
+    "slug": "transform-competitors-into-providers",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -13611,6 +14761,18 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_ad6b9d3aa4d714e8fd53bb9b",
+    "title": "Transparency Reporting",
+    "slug": "transparency-reporting",
+    "domains": [
+      "platform",
+      "social",
+      "polity"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -13644,6 +14806,18 @@
       "business"
     ],
     "domain": "startup",
+    "status": "draft"
+  },
+  {
+    "id": "pat_aff1680c38bcb2e40f7d43f7",
+    "title": "Tribal Network Effect",
+    "slug": "tribal-network-effect",
+    "domains": [
+      "platform",
+      "social",
+      "business"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -13691,6 +14865,42 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_ce446f4d81cb492378ba6668",
+    "title": "Trust Decay",
+    "slug": "trust-decay",
+    "domains": [
+      "platform",
+      "social",
+      "business"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_335ffc36dc692861e616ee9d",
+    "title": "Trust Score Aggregation",
+    "slug": "trust-score-aggregation",
+    "domains": [
+      "platform",
+      "social",
+      "business"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_c7ed319c475bb1e6c8402aeb",
+    "title": "Two-Sided Marketplace",
+    "slug": "two-sided-marketplace",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -13760,6 +14970,18 @@
       "startup"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_1cf180bd24c44747b6a6f280",
+    "title": "Unbundling Assets",
+    "slug": "unbundling-assets",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -14159,6 +15381,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_9bf203c879ad7daf7f2221df",
+    "title": "Verified Badge System",
+    "slug": "verified-badge-system",
+    "domains": [
+      "platform",
+      "social",
+      "business"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg50240cf818y5tt3srt82nq",
     "title": "Vernacular Architecture",
     "slug": "vernacular-architecture",
@@ -14425,6 +15659,18 @@
     "status": "draft"
   },
   {
+    "id": "pat_af77258ce7f069c3747549c9",
+    "title": "White-Label Platform",
+    "slug": "white-label-platform",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg50240rf3s9mqrr5mv147t1",
     "title": "Wholesale/Retail Model",
     "slug": "wholesaleretail-model",
@@ -14456,6 +15702,30 @@
       "startup"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_5ea50a6e54f31cc65f9550e8",
+    "title": "Winner-Take-All Dynamics",
+    "slug": "winner-take-all-dynamics",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_4a2b8e9f0c6d4e3f8a7b1c5d8e9f0a1b",
+    "title": "Winner-Take-All Monopoly",
+    "slug": "winner-take-all-monopoly",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -14500,6 +15770,18 @@
       "startup"
     ],
     "domain": "startup",
+    "status": "draft"
+  },
+  {
+    "id": "pat_36f0420cb64ec1b84ae2c50f",
+    "title": "Worker-Owned Platform",
+    "slug": "worker-owned-platform",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {

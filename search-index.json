@@ -881,6 +881,21 @@
     "score": 4
   },
   {
+    "title": "Algorithmic Governance",
+    "url": "/patterns/algorithmic-governance/",
+    "classification": [
+      "mechanism"
+    ],
+    "description": "Algorithmic governance refers to the use of computer algorithms to regulate, manage, and control a wide range of societal functions. It represents a significant shift from traditional forms of governa",
+    "domains": [
+      "platform",
+      "polity",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Algorithmic Management",
     "url": "/patterns/algorithmic-management/",
     "classification": [
@@ -1056,6 +1071,21 @@
     "score": 3
   },
   {
+    "title": "API Economy Participation",
+    "url": "/patterns/api-economy-participation/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "The API Economy Participation pattern describes the strategic approach by which organizations expose their digital services and assets through Application Programming Interfaces (APIs) to create value",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "API-First Design - Interface-Driven",
     "url": "/patterns/api-first-design-interface-driven/",
     "classification": [
@@ -1099,6 +1129,37 @@
     ],
     "domain": "security",
     "score": 3
+  },
+  {
+    "title": "App Store Model",
+    "url": "/patterns/app-store-model/",
+    "classification": [
+      "model"
+    ],
+    "description": "The App Store Model is a digital distribution platform that serves as a centralized marketplace for discovering, downloading, and managing software applications. This model, most famously embodied by ",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 2
+  },
+  {
+    "title": "Appeals Process Design",
+    "url": "/patterns/appeals-process-design/",
+    "classification": [
+      "practice",
+      "mechanism"
+    ],
+    "description": "An Appeals Process Design is a structured and formalized mechanism that allows users, community members, or other stakeholders of a platform or organization to request a review of decisions that have ",
+    "domains": [
+      "platform",
+      "polity",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 4
   },
   {
     "title": "Appreciative Inquiry (if not in Strategy)",
@@ -1230,6 +1291,21 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Asymptotic Marketplace",
+    "url": "/patterns/asymptotic-marketplace/",
+    "classification": [
+      "model"
+    ],
+    "description": "The Asymptotic Marketplace is a specific type of two-sided marketplace where the value for the demand side ceases to increase significantly after a certain threshold of supply-side participants is rea",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Async-First Communication",
@@ -1509,6 +1585,21 @@
     "score": 3
   },
   {
+    "title": "Bandwagon Effect",
+    "url": "/patterns/bandwagon-effect/",
+    "classification": [
+      "mechanism"
+    ],
+    "description": "The Bandwagon Effect is a psychological phenomenon describing the tendency for individuals to adopt certain behaviors, beliefs, or attitudes simply because a large number of other people have done so.",
+    "domains": [
+      "platform",
+      "social",
+      "polity"
+    ],
+    "domain": "platform",
+    "score": 2
+  },
+  {
     "title": "Bastion Host",
     "url": "/patterns/bastion-host/",
     "classification": [
@@ -1636,6 +1727,21 @@
       "security"
     ],
     "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Belief Network Effect",
+    "url": "/patterns/belief-network-effect/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "The Belief Network Effect is a powerful social phenomenon where the value of a product, service, or idea increases as more people believe in it. This is a direct network effect, meaning that each new ",
+    "domains": [
+      "platform",
+      "social",
+      "polity"
+    ],
+    "domain": "platform",
     "score": 3
   },
   {
@@ -2401,6 +2507,21 @@
     "score": 2
   },
   {
+    "title": "Chicken-and-Egg Strategy",
+    "url": "/patterns/chicken-and-egg-strategy/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "The Chicken-and-Egg Strategy addresses a fundamental challenge inherent in the development of multi-sided platforms and networks: the dilemma of attracting an initial user base. This problem, often re",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Chinese Guanxi Networks",
     "url": "/patterns/chinese-guanxi-networks/",
     "classification": [
@@ -2546,6 +2667,21 @@
     "score": 0.7
   },
   {
+    "title": "Climb the Value Chain",
+    "url": "/patterns/climb-the-value-chain/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "The \"Climb the Value Chain\" pattern describes the strategic journey of a firm from being a provider of simple products or services to becoming an orchestrator of a complex ecosystem, capturing more va",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Cloud Native Architecture Kubernetes Containers",
     "url": "/patterns/cloud-native-architecture-kubernetes-containers/",
     "classification": [
@@ -2678,6 +2814,22 @@
     "score": 0.7
   },
   {
+    "title": "Cold Start Problem",
+    "url": "/patterns/cold-start-problem/",
+    "classification": [
+      "strategy",
+      "anti-pattern"
+    ],
+    "description": "The Cold Start Problem describes the challenge of launching a new platform or network-based product that requires a critical mass of users or content to be valuable, yet cannot attract that critical m",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Collaborative Filtering",
     "url": "/patterns/collaborative-filtering/",
     "classification": [
@@ -2754,6 +2906,21 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Commoditization Resistance",
+    "url": "/patterns/commoditization-resistance/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "Commoditization is the process by which goods or services become indistinguishable from their competitors in the eyes of the consumer, leading to a market where price is the primary, if not sole, diff",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Common Good Balance Sheet - Economy for Common Good",
@@ -2934,6 +3101,21 @@
     "score": 4
   },
   {
+    "title": "Community Guidelines Design",
+    "url": "/patterns/community-guidelines-design/",
+    "classification": [
+      "practice"
+    ],
+    "description": "Community Guidelines Design is the systematic practice of creating, implementing, and evolving a set of explicit norms, rules, and principles that govern behavior within a community, particularly in o",
+    "domains": [
+      "platform",
+      "social",
+      "polity"
+    ],
+    "domain": "platform",
+    "score": 4
+  },
+  {
     "title": "Community Land Ownership",
     "url": "/patterns/community-land-ownership/",
     "classification": [
@@ -2965,6 +3147,22 @@
     "score": 4
   },
   {
+    "title": "Community Land Trust Digital",
+    "url": "/patterns/community-land-trust-digital/",
+    "classification": [
+      "model",
+      "framework"
+    ],
+    "description": "The Community Land Trust Digital (CLTD) pattern represents a groundbreaking adaptation of the traditional Community Land Trust (CLT) model to the digital realm. At its core, a CLTD is a democratically",
+    "domains": [
+      "platform",
+      "urban",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 5
+  },
+  {
     "title": "Community-Led Growth",
     "url": "/patterns/community-led-growth/",
     "classification": [
@@ -2993,6 +3191,37 @@
       "security"
     ],
     "domain": "business",
+    "score": 5
+  },
+  {
+    "title": "Community Ownership Model",
+    "url": "/patterns/community-ownership-model/",
+    "classification": [
+      "model"
+    ],
+    "description": "The Community Ownership Model is a framework for structuring organizations, enterprises, and platforms in a way that vests control and equity in the hands of a defined community rather than concentrat",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 5
+  },
+  {
+    "title": "Community Self-Governance",
+    "url": "/patterns/community-self-governance/",
+    "classification": [
+      "framework",
+      "practice"
+    ],
+    "description": "Community self-governance is a framework wherein a group of individuals, united by a common interest, resource, or goal, collectively establishes and enforces its own rules, makes decisions, and manag",
+    "domains": [
+      "platform",
+      "social",
+      "polity"
+    ],
+    "domain": "platform",
     "score": 5
   },
   {
@@ -3126,6 +3355,21 @@
       "security"
     ],
     "domain": "business",
+    "score": 4
+  },
+  {
+    "title": "Composable Architecture",
+    "url": "/patterns/composable-architecture/",
+    "classification": [
+      "framework"
+    ],
+    "description": "Composable architecture is a design paradigm that structures systems as an assembly of modular, independently deployable, and loosely coupled components. Each component, often a microservice or a Pack",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "score": 4
   },
   {
@@ -3481,6 +3725,21 @@
     "score": 3
   },
   {
+    "title": "Content-Based Filtering",
+    "url": "/patterns/content-based-filtering/",
+    "classification": [
+      "mechanism"
+    ],
+    "description": "Content-Based Filtering is a recommendation algorithm that provides users with items similar to those they have previously shown an interest in. Unlike its counterpart, collaborative filtering, which ",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Content Marketing",
     "url": "/patterns/content-marketing/",
     "classification": [
@@ -3493,6 +3752,21 @@
     ],
     "domain": "startup",
     "score": 0.7
+  },
+  {
+    "title": "Content Moderation Framework",
+    "url": "/patterns/content-moderation-framework/",
+    "classification": [
+      "framework"
+    ],
+    "description": "A Content Moderation Framework is a comprehensive system of principles, policies, processes, and tools that online platforms use to manage user-generated content (UGC). Its primary purpose is to ensur",
+    "domains": [
+      "platform",
+      "social",
+      "polity"
+    ],
+    "domain": "platform",
+    "score": 4
   },
   {
     "title": "Contextual Inquiry",
@@ -3941,6 +4215,21 @@
     "score": 5
   },
   {
+    "title": "Create a New Profession",
+    "url": "/patterns/create-a-new-profession/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "The \"Create a New Profession\" pattern describes the process by which new technologies, economic shifts, and societal needs converge to generate entirely new categories of work. This is not merely the ",
+    "domains": [
+      "platform",
+      "social",
+      "business"
+    ],
+    "domain": "platform",
+    "score": 4
+  },
+  {
     "title": "Creative Commons",
     "url": "/patterns/creative-commons/",
     "classification": [
@@ -3996,6 +4285,21 @@
     ],
     "domain": "business",
     "score": 5
+  },
+  {
+    "title": "Cross-Side Network Effects",
+    "url": "/patterns/cross-side-network-effects/",
+    "classification": [
+      "model"
+    ],
+    "description": "Cross-side network effects, also known as indirect network effects or two-sided network effects, are a fundamental concept in platform economics. This pattern describes a phenomenon where the value of",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Crossing the Chasm",
@@ -4234,6 +4538,21 @@
     "score": 4
   },
   {
+    "title": "Dark Patterns in Platform UX",
+    "url": "/patterns/dark-patterns-in-platform-ux/",
+    "classification": [
+      "anti-pattern"
+    ],
+    "description": "Dark Patterns in Platform UX are user interface design choices that manipulate users into taking actions they would not otherwise have taken, often benefiting the platform at the user's expense. These",
+    "domains": [
+      "platform",
+      "social",
+      "business"
+    ],
+    "domain": "platform",
+    "score": 1
+  },
+  {
     "title": "Data Classification",
     "url": "/patterns/data-classification/",
     "classification": [
@@ -4246,6 +4565,21 @@
     ],
     "domain": "security",
     "score": 3
+  },
+  {
+    "title": "Data Commons",
+    "url": "/patterns/data-commons/",
+    "classification": [
+      "framework"
+    ],
+    "description": "A Data Commons is a shared, community-governed infrastructure that co-locates data with cloud computing infrastructure and commonly used software services, tools, and applications for managing, analyz",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 4
   },
   {
     "title": "Data Governance Frameworks - DAMA",
@@ -4275,6 +4609,21 @@
     ],
     "domain": "security",
     "score": 3
+  },
+  {
+    "title": "Data Mesh",
+    "url": "/patterns/data-mesh/",
+    "classification": [
+      "architecture"
+    ],
+    "description": "Data Mesh represents a significant sociotechnical paradigm shift in the realm of data architecture, fundamentally challenging the long-standing tradition of centralized, monolithic approaches to manag",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 4
   },
   {
     "title": "Data Minimization",
@@ -4461,6 +4810,21 @@
     "score": 3
   },
   {
+    "title": "Defensibility Moats",
+    "url": "/patterns/defensibility-moats/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "Defensibility Moats, in the context of platform design, represent the structural barriers and competitive advantages that protect a platform from being successfully replicated or challenged by competi",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Defensive Patent Pledge",
     "url": "/patterns/defensive-patent-pledge/",
     "classification": [
@@ -4576,6 +4940,21 @@
     "score": 4
   },
   {
+    "title": "Demand-First Strategy",
+    "url": "/patterns/demand-first-strategy/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "The Demand-First Strategy is a platform business model approach that prioritizes aggregating and engaging a critical mass of users on the demand side of a market before actively recruiting and integra",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Demand Response",
     "url": "/patterns/demand-response/",
     "classification": [
@@ -4589,6 +4968,22 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Democratic Platform Governance",
+    "url": "/patterns/democratic-platform-governance/",
+    "classification": [
+      "model",
+      "framework"
+    ],
+    "description": "Democratic Platform Governance represents a fundamental reimagining of the ownership and control of the digital infrastructure that underpins modern society. It is a model for designing, operating, an",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 5
   },
   {
     "title": "Democratic Schools",
@@ -4935,6 +5330,37 @@
     "score": 4
   },
   {
+    "title": "Developer Experience Design",
+    "url": "/patterns/developer-experience-design/",
+    "classification": [
+      "practice"
+    ],
+    "description": "Developer Experience (DX) Design is a practice focused on improving the holistic experience of developers as they interact with tools, platforms, processes, and systems to build, test, deploy, and mai",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 4
+  },
+  {
+    "title": "Developer Relations",
+    "url": "/patterns/developer-relations/",
+    "classification": [
+      "practice",
+      "strategy"
+    ],
+    "description": "Developer Relations, often abbreviated as DevRel, is a strategic and interdisciplinary field that bridges the gap between a company and the developer community. It is the practice of building and nurt",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 4
+  },
+  {
     "title": "DevOps",
     "url": "/patterns/devops/",
     "classification": [
@@ -4976,6 +5402,21 @@
     ],
     "domain": "security",
     "score": 3
+  },
+  {
+    "title": "Digital Commons",
+    "url": "/patterns/digital-commons/",
+    "classification": [
+      "model"
+    ],
+    "description": "The Digital Commons refers to a classification of resources, in this case digital, that are collectively owned and managed by a community of users. These resources are not owned by a single entity, bu",
+    "domains": [
+      "platform",
+      "social",
+      "polity"
+    ],
+    "domain": "platform",
+    "score": 5
   },
   {
     "title": "Digital Manufacturing",
@@ -5104,6 +5545,36 @@
     ],
     "domain": "business",
     "score": 1
+  },
+  {
+    "title": "Disintermediation Defense",
+    "url": "/patterns/disintermediation-defense/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "Disintermediation Defense is a strategic pattern employed by platform businesses to prevent users\u2014both producers and consumers\u2014from bypassing the platform to connect and transact directly. This circum",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 2
+  },
+  {
+    "title": "Dispute Resolution Mechanism",
+    "url": "/patterns/dispute-resolution-mechanism/",
+    "classification": [
+      "mechanism"
+    ],
+    "description": "A Dispute Resolution Mechanism is a structured process or system designed to facilitate the resolution of conflicts and disagreements between users on a digital platform. This mechanism provides a for",
+    "domains": [
+      "platform",
+      "social",
+      "business"
+    ],
+    "domain": "platform",
+    "score": 4
   },
   {
     "title": "Disruptive Innovation Strategy",
@@ -5577,6 +6048,21 @@
     "score": 2
   },
   {
+    "title": "Ecosystem Health Metrics",
+    "url": "/patterns/ecosystem-health-metrics/",
+    "classification": [
+      "framework"
+    ],
+    "description": "Ecosystem Health Metrics represent a comprehensive framework for evaluating the vitality, resilience, and overall well-being of a platform ecosystem. This pattern adapts principles from ecological sci",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 4
+  },
+  {
     "title": "Ecosystem Orchestration",
     "url": "/patterns/ecosystem-orchestration/",
     "classification": [
@@ -5827,6 +6313,21 @@
     "score": 0.7
   },
   {
+    "title": "Enable Personalization with Independent Providers",
+    "url": "/patterns/enable-personalization-with-independent-providers/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "The \"Enable Personalization with Independent Providers\" pattern describes a strategic shift away from centralized, platform-controlled user data models towards a decentralized ecosystem where individu",
+    "domains": [
+      "platform",
+      "social",
+      "business"
+    ],
+    "domain": "platform",
+    "score": 4
+  },
+  {
     "title": "Encryption",
     "url": "/patterns/encryption/",
     "classification": [
@@ -5938,6 +6439,21 @@
     ],
     "domain": "startup",
     "score": 0.7
+  },
+  {
+    "title": "Escrow Mechanism",
+    "url": "/patterns/escrow-mechanism/",
+    "classification": [
+      "mechanism"
+    ],
+    "description": "The Escrow Mechanism is a financial and legal arrangement wherein a trusted third party holds and regulates payment of the funds required for two parties involved in a given transaction. It helps make",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 4
   },
   {
     "title": "ESG Framework",
@@ -6141,6 +6657,21 @@
       "security"
     ],
     "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Expertise Network Effect",
+    "url": "/patterns/expertise-network-effect/",
+    "classification": [
+      "model"
+    ],
+    "description": "The Expertise Network Effect is a powerful, yet subtle, force that shapes industries and careers. It describes a specific type of network effect where the value of a tool or platform increases as more",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "score": 3
   },
   {
@@ -6376,6 +6907,21 @@
       "security"
     ],
     "domain": "business",
+    "score": 4
+  },
+  {
+    "title": "Federated Architecture",
+    "url": "/patterns/federated-architecture/",
+    "classification": [
+      "framework"
+    ],
+    "description": "Federated architecture is an increasingly significant pattern in enterprise and system design, representing a shift away from monolithic, centralized structures towards a more decentralized and collab",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "score": 4
   },
   {
@@ -7177,6 +7723,21 @@
     "score": 4
   },
   {
+    "title": "Geographic Expansion Strategy",
+    "url": "/patterns/geographic-expansion-strategy/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "Geographic Expansion Strategy is a core business growth pattern that involves a platform or organization extending its operations, services, or product offerings into new geographical markets. This ca",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Geographic/Cultural Diversity Prioritization",
     "url": "/patterns/geographiccultural-diversity-prioritization/",
     "classification": [
@@ -7423,6 +7984,21 @@
     ],
     "domain": "startup",
     "score": 0.7
+  },
+  {
+    "title": "Graduated Sanctions",
+    "url": "/patterns/graduated-sanctions/",
+    "classification": [
+      "mechanism"
+    ],
+    "description": "Graduated sanctions are a foundational pattern for fostering cooperation and maintaining order within a community by applying responses to rule violations that escalate in severity. This mechanism avo",
+    "domains": [
+      "platform",
+      "social",
+      "polity"
+    ],
+    "domain": "platform",
+    "score": 4
   },
   {
     "title": "Grants",
@@ -7711,6 +8287,21 @@
     "score": 3
   },
   {
+    "title": "Headless Platform",
+    "url": "/patterns/headless-platform/",
+    "classification": [
+      "architecture"
+    ],
+    "description": "A Headless Platform is an architectural pattern where the backend (the \"body\") of a platform is decoupled from the frontend (the \"head\"). In this model, the backend is responsible for data storage, bu",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Heijunka - Production Leveling",
     "url": "/patterns/heijunka-production-leveling/",
     "classification": [
@@ -7884,6 +8475,21 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Hub-and-Spoke Network",
+    "url": "/patterns/hub-and-spoke-network/",
+    "classification": [
+      "model"
+    ],
+    "description": "The Hub-and-Spoke Network is a foundational pattern in network topology, representing a centralized model where a single, central hub connects to multiple, peripheral nodes, known as spokes. In this a",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Human-AI Collaboration Models",
@@ -8123,6 +8729,21 @@
     ],
     "domain": "startup",
     "score": 4
+  },
+  {
+    "title": "Identity Verification",
+    "url": "/patterns/identity-verification/",
+    "classification": [
+      "mechanism"
+    ],
+    "description": "Identity verification is the process of confirming that an individual is who they claim to be. In the digital realm, this typically involves a user presenting a claimed identity, such as a username or",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "IEC 62304 (Medical Device Software)",
@@ -8632,6 +9253,21 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Insurance Guarantee Model",
+    "url": "/patterns/insurance-guarantee-model/",
+    "classification": [
+      "model"
+    ],
+    "description": "The Insurance Guarantee Model is a strategic framework employed by digital platforms to foster trust and mitigate risk for their users. At its core, this model involves the platform providing a form o",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Integral Theory (Wilber) - If Not In Strategy",
@@ -9273,6 +9909,21 @@
     "score": 0.7
   },
   {
+    "title": "Knowledge Graph Platform",
+    "url": "/patterns/knowledge-graph-platform/",
+    "classification": [
+      "model"
+    ],
+    "description": "A Knowledge Graph Platform is a comprehensive data management and integration platform that uses a graph-structured data model to connect vast amounts of heterogeneous data from various sources. Unlik",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 4
+  },
+  {
     "title": "Knowledge Management - Nonaka & Takeuchi",
     "url": "/patterns/knowledge-management-nonaka-takeuchi/",
     "classification": [
@@ -9372,6 +10023,21 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Language Network Effect",
+    "url": "/patterns/language-network-effect/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "The Language Network Effect is a potent, socially-driven phenomenon where the inherent value of a language or a communication standard escalates in direct proportion to the number of individuals who a",
+    "domains": [
+      "platform",
+      "social",
+      "business"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Large-Scale Scrum (LeSS)",
@@ -9677,6 +10343,21 @@
     "score": 3
   },
   {
+    "title": "Let the Best Emerge",
+    "url": "/patterns/let-the-best-emerge/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "\"Let the Best Emerge\" is a platform design pattern that prioritizes the creation of systems and processes that allow for the most valuable contributions, ideas, and participants to naturally rise to t",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 4
+  },
+  {
     "title": "Licensing Model - IP Monetization",
     "url": "/patterns/licensing-model-ip-monetization/",
     "classification": [
@@ -9809,6 +10490,21 @@
     ],
     "domain": "startup",
     "score": 0.7
+  },
+  {
+    "title": "Lock-In Mechanisms",
+    "url": "/patterns/lock-in-mechanisms/",
+    "classification": [
+      "anti-pattern"
+    ],
+    "description": "Lock-in mechanisms are strategic measures implemented by a company or platform to create dependency and make it difficult or costly for customers to switch to a competitor. This pattern, often conside",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 1
   },
   {
     "title": "LTV (Lifetime Value)",
@@ -10032,6 +10728,21 @@
     "score": 4
   },
   {
+    "title": "Market Network Effect",
+    "url": "/patterns/market-network-effect/",
+    "classification": [
+      "model"
+    ],
+    "description": "The Market Network Effect is a sophisticated and increasingly prevalent business model that synergistically combines the transactional efficiencies of a marketplace, the relational dynamics of a socia",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Market-Rate Compensation",
     "url": "/patterns/market-rate-compensation/",
     "classification": [
@@ -10060,6 +10771,36 @@
     "score": 4
   },
   {
+    "title": "Marketplace-as-a-Service",
+    "url": "/patterns/marketplace-as-a-service/",
+    "classification": [
+      "model"
+    ],
+    "description": "Marketplace-as-a-Service (MaaS) is a business and technology model where a provider offers a comprehensive, ready-to-use platform that enables businesses to create, launch, and manage their own online",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Marketplace Curation",
+    "url": "/patterns/marketplace-curation/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "Marketplace Curation is a strategic approach to platform design where the supply of goods, services, or content is intentionally selected, vetted, and organized by the platform operator. Unlike compre",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Marketplace Model - Two-Sided Platforms",
     "url": "/patterns/marketplace-model-two-sided-platforms/",
     "classification": [
@@ -10072,6 +10813,21 @@
       "security"
     ],
     "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Marquee User Strategy",
+    "url": "/patterns/marquee-user-strategy/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "The Marquee User Strategy is a strategic approach employed by platform businesses to overcome the critical \"chicken-and-egg\" problem inherent in their formation. This challenge arises from the interde",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "score": 3
   },
   {
@@ -10755,6 +11511,37 @@
     "score": 3
   },
   {
+    "title": "Multi-Homing Strategy",
+    "url": "/patterns/multi-homing-strategy/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "The Multi-Homing Strategy is a critical concept in the realm of platform ecosystems, describing the decision of a user or complementor to concurrently connect with and participate in multiple platform",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Multi-Sided Market",
+    "url": "/patterns/multi-sided-market/",
+    "classification": [
+      "model",
+      "strategy"
+    ],
+    "description": "A multi-sided market, also known as a multi-sided platform (MSP), is an economic platform that creates value by facilitating interactions between two or more distinct but interdependent groups of cust",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Multi-Stakeholder Cooperative",
     "url": "/patterns/multi-stakeholder-cooperative/",
     "classification": [
@@ -10795,6 +11582,21 @@
       "startup"
     ],
     "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Multi-Tenancy",
+    "url": "/patterns/multi-tenancy/",
+    "classification": [
+      "mechanism",
+      "strategy"
+    ],
+    "description": "Multi-tenancy is a software architecture pattern in which a single instance of a software application serves multiple customers. Each customer is referred to as a tenant. Tenants may be given the abil",
+    "domains": [
+      "platform",
+      "business"
+    ],
+    "domain": "platform",
     "score": 3
   },
   {
@@ -11174,6 +11976,21 @@
     "score": 4
   },
   {
+    "title": "Niche-to-Mass Strategy",
+    "url": "/patterns/niche-to-mass-strategy/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "The Niche-to-Mass Strategy is a market penetration model that advocates for initially focusing on a small, specific, and well-defined market segment\u2014a niche\u2014and dominating it before expanding to broad",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "No Brilliant Jerks",
     "url": "/patterns/no-brilliant-jerks/",
     "classification": [
@@ -11288,6 +12105,21 @@
     "score": 3
   },
   {
+    "title": "Onboarding Flow Design",
+    "url": "/patterns/onboarding-flow-design/",
+    "classification": [
+      "practice"
+    ],
+    "description": "Onboarding Flow Design is the systematic process of guiding new users through their initial interaction with a product or service, with the primary goal of helping them understand its value and achiev",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 4
+  },
+  {
     "title": "Onboarding Optimization",
     "url": "/patterns/onboarding-optimization/",
     "classification": [
@@ -11375,6 +12207,21 @@
     "score": 4
   },
   {
+    "title": "Open API Strategy",
+    "url": "/patterns/open-api-strategy/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "An Open API Strategy is a deliberate and strategic approach by an organization to expose its digital services and data to external developers, partners, and the public through a set of well-documented",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 4
+  },
+  {
     "title": "Open Design",
     "url": "/patterns/open-design/",
     "classification": [
@@ -11417,6 +12264,21 @@
       "security"
     ],
     "domain": "business",
+    "score": 4
+  },
+  {
+    "title": "Open Protocol Platform",
+    "url": "/patterns/open-protocol-platform/",
+    "classification": [
+      "model"
+    ],
+    "description": "An Open Protocol Platform is a type of digital ecosystem where the rules of interaction are governed by open, publicly documented standards rather than a central, proprietary entity. Unlike traditiona",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "score": 4
   },
   {
@@ -12130,6 +12992,36 @@
     "score": 4
   },
   {
+    "title": "Personal Network Effect",
+    "url": "/patterns/personal-network-effect/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "The Personal Network Effect is a specific and potent type of direct network effect where the value of a product or service for a user increases as more of their personal, real-world connections\u2014friend",
+    "domains": [
+      "platform",
+      "social",
+      "business"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Personal Utility Network Effect",
+    "url": "/patterns/personal-utility-network-effect/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "The Personal Utility Network Effect is a powerful force in the digital world, describing a specific type of direct network effect where the value of a service for each user increases as more of their ",
+    "domains": [
+      "platform",
+      "social",
+      "business"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Personality Frameworks (MBTI, DISC, etc.)",
     "url": "/patterns/personality-frameworks-mbti-disc-etc/",
     "classification": [
@@ -12204,6 +13096,36 @@
     "score": 3
   },
   {
+    "title": "Physical Network Effect",
+    "url": "/patterns/physical-network-effect/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "The Physical Network Effect is a powerful strategic pattern where the value of a service or product increases for all users as more physical infrastructure is added to the network. This effect is most",
+    "domains": [
+      "platform",
+      "urban",
+      "business"
+    ],
+    "domain": "platform",
+    "score": 2
+  },
+  {
+    "title": "Piggyback Strategy",
+    "url": "/patterns/piggyback-strategy/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "The Piggyback Strategy is a market entry or growth strategy where a new product or service leverages the existing infrastructure, user base, or platform of an established and often larger entity. Inst",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Pivot or Persevere",
     "url": "/patterns/pivot-or-persevere/",
     "classification": [
@@ -12263,6 +13185,36 @@
     "score": 3
   },
   {
+    "title": "Platform-as-Infrastructure",
+    "url": "/patterns/platform-as-infrastructure/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Platform-as-Infrastructure (PaI) pattern represents a paradigm shift in how organizations provision, manage, and consume infrastructure resources. At its core, PaI is the practice of treating infr",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 4
+  },
+  {
+    "title": "Platform Bundling",
+    "url": "/patterns/platform-bundling/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "Platform bundling is a strategic practice where two or more products, services, or applications are packaged and offered as a single, combined unit. This approach is prevalent in the digital economy, ",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Platform Business Models",
     "url": "/patterns/platform-business-models/",
     "classification": [
@@ -12276,6 +13228,22 @@
     ],
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Platform Constitution",
+    "url": "/patterns/platform-constitution/",
+    "classification": [
+      "framework",
+      "practice"
+    ],
+    "description": "A Platform Constitution is a foundational document that formally articulates the principles, rules, rights, and responsibilities governing a digital platform and its community of users. It functions a",
+    "domains": [
+      "platform",
+      "polity",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 4
   },
   {
     "title": "Platform Cooperative",
@@ -12301,6 +13269,36 @@
       "startup"
     ],
     "domain": "startup",
+    "score": 3
+  },
+  {
+    "title": "Platform Dependency Trap",
+    "url": "/patterns/platform-dependency-trap/",
+    "classification": [
+      "anti-pattern"
+    ],
+    "description": "The Platform Dependency Trap is a critical anti-pattern in the digital economy, describing a scenario where an individual, organization, or even an entire economy becomes excessively reliant on a sing",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 1
+  },
+  {
+    "title": "Platform Differentiation",
+    "url": "/patterns/platform-differentiation/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "Platform Differentiation is the strategic process by which a platform ecosystem intentionally cultivates unique characteristics and value propositions to distinguish itself from competitors. In a worl",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "score": 3
   },
   {
@@ -12349,6 +13347,36 @@
     "score": 4
   },
   {
+    "title": "Platform Enshittification",
+    "url": "/patterns/platform-enshittification/",
+    "classification": [
+      "anti-pattern"
+    ],
+    "description": "Platform Enshittification is a critical anti-pattern that describes the predictable, cyclical degradation of quality on online platforms. Coined by author and activist Cory Doctorow, the term captures",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 1
+  },
+  {
+    "title": "Platform Envelopment",
+    "url": "/patterns/platform-envelopment/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "Platform Envelopment is a competitive strategy where a provider of one platform enters an adjacent market by bundling its existing platform's functionality with that of the target market's platform. T",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 2
+  },
+  {
     "title": "Platform Governance - Ostrom-Inspired",
     "url": "/patterns/platform-governance-ostrom-inspired/",
     "classification": [
@@ -12362,6 +13390,21 @@
     ],
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Platform Interoperability",
+    "url": "/patterns/platform-interoperability/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "Platform interoperability is the ability of different digital platforms, systems, and applications to connect and communicate with each other, enabling the seamless exchange of data and functionality.",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 4
   },
   {
     "title": "Platform Network Effects",
@@ -12378,6 +13421,36 @@
     "score": 0.7
   },
   {
+    "title": "Platform Regulation Compliance",
+    "url": "/patterns/platform-regulation-compliance/",
+    "classification": [
+      "practice"
+    ],
+    "description": "Platform Regulation Compliance is the practice by which digital platforms ensure their operations, services, and business models adhere to the legal and regulatory frameworks of the jurisdictions in w",
+    "domains": [
+      "platform",
+      "polity",
+      "business"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Platform SDK Design",
+    "url": "/patterns/platform-sdk-design/",
+    "classification": [
+      "practice"
+    ],
+    "description": "A Platform SDK (Software Development Kit) is a curated collection of software development tools, libraries, documentation, and code samples that simplify the process of building applications for a spe",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 4
+  },
+  {
     "title": "Platform Strategy",
     "url": "/patterns/platform-strategy/",
     "classification": [
@@ -12391,6 +13464,36 @@
     ],
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Platform Unbundling",
+    "url": "/patterns/platform-unbundling/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "Platform unbundling is a strategic process where the tightly integrated services and functionalities of a dominant platform are broken down and offered as standalone, specialized products or services.",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Plugin Extension Architecture",
+    "url": "/patterns/plugin-extension-architecture/",
+    "classification": [
+      "framework"
+    ],
+    "description": "The Plugin Extension Architecture, also known as the Microkernel Architecture, is a software design pattern that enables the extension of a core application's functionality through the addition of ind",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 4
   },
   {
     "title": "Poka-Yoke - Error-proofing",
@@ -13232,6 +14335,20 @@
     "score": 2
   },
   {
+    "title": "Progressive Disclosure",
+    "url": "/patterns/progressive-disclosure/",
+    "classification": [
+      "practice"
+    ],
+    "description": "Progressive disclosure is an interaction design pattern that manages complexity by deferring advanced or rarely used features to a secondary screen, making applications and websites easier to learn an",
+    "domains": [
+      "platform",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 4
+  },
+  {
     "title": "Progressive Web Apps (PWA)",
     "url": "/patterns/progressive-web-apps-pwa/",
     "classification": [
@@ -13275,6 +14392,21 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Protocol Network Effect",
+    "url": "/patterns/protocol-network-effect/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "A Protocol Network Effect is a powerful form of network effect that arises when a communications or computational standard is established, allowing all participants (nodes and node creators) to connec",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Prototype Model",
@@ -13539,6 +14671,21 @@
     "score": 3
   },
   {
+    "title": "Race to the Bottom Pricing",
+    "url": "/patterns/race-to-the-bottom-pricing/",
+    "classification": [
+      "anti-pattern"
+    ],
+    "description": "Race to the Bottom Pricing is a competitive strategy where companies progressively lower their prices to undercut competitors. This often leads to a downward spiral of price reductions, eroding profit",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 1
+  },
+  {
     "title": "Radical Candor",
     "url": "/patterns/radical-candor/",
     "classification": [
@@ -13565,6 +14712,21 @@
     ],
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Razor-and-Blades Model",
+    "url": "/patterns/razor-and-blades-model/",
+    "classification": [
+      "model"
+    ],
+    "description": "The Razor-and-Blades model, also known as the bait and hook model, is a business strategy that involves selling a durable product (the \"razor\") at a low price, or even at a loss, to drive sales of a c",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 1
   },
   {
     "title": "Razor-Razorblade Model: Loss Leader",
@@ -13594,6 +14756,21 @@
     ],
     "domain": "startup",
     "score": 0.7
+  },
+  {
+    "title": "Re-Intermediation",
+    "url": "/patterns/re-intermediation/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "Re-intermediation is the process by which new intermediaries emerge in a market, often facilitated by technology, to replace or augment existing ones. While the early internet was often hailed as a fo",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 2
   },
   {
     "title": "Reaction Engineering Design",
@@ -13627,6 +14804,21 @@
     "score": 3
   },
   {
+    "title": "Recommendation Engine",
+    "url": "/patterns/recommendation-engine/",
+    "classification": [
+      "mechanism"
+    ],
+    "description": "A recommendation engine, at its core, is a sophisticated class of algorithm and data-filtering tool that aims to predict and present to users the items (e.g., products, music, movies, news articles, e",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Red Ocean vs Blue Ocean",
     "url": "/patterns/red-ocean-vs-blue-ocean/",
     "classification": [
@@ -13642,6 +14834,21 @@
     "score": 3
   },
   {
+    "title": "Reduce Barriers to Market Entry",
+    "url": "/patterns/reduce-barriers-to-market-entry/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "The pattern of \"Reduce Barriers to Market Entry\" is a strategic approach designed to foster innovation, increase competition, and broaden participation within a market or industry. It involves identif",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 4
+  },
+  {
     "title": "Reference Checks",
     "url": "/patterns/reference-checks/",
     "classification": [
@@ -13654,6 +14861,21 @@
     ],
     "domain": "startup",
     "score": 0.7
+  },
+  {
+    "title": "Referral Program Design",
+    "url": "/patterns/referral-program-design/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "A Referral Program Design is a strategic marketing pattern that incentivizes existing customers, users, or members to recommend a product, service, or platform to their personal network. This pattern ",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Referral Programs",
@@ -13955,6 +15177,21 @@
     "score": 4
   },
   {
+    "title": "Rent-Seeking Extraction",
+    "url": "/patterns/rent-seeking-extraction/",
+    "classification": [
+      "anti-pattern"
+    ],
+    "description": "Rent-Seeking Extraction is a platform anti-pattern where a dominant platform leverages its market power to extract disproportionate value from its ecosystem participants\u2014including users, developers, a",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 1
+  },
+  {
     "title": "Rental Model",
     "url": "/patterns/rental-model/",
     "classification": [
@@ -14032,6 +15269,21 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Reputation Score Design",
+    "url": "/patterns/reputation-score-design/",
+    "classification": [
+      "mechanism"
+    ],
+    "description": "Reputation Score Design is a critical mechanism in platform design, referring to the systematic process of creating, calculating, and displaying a quantitative or qualitative measure of a user's or en",
+    "domains": [
+      "platform",
+      "social",
+      "business"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Requirements Engineering",
@@ -14194,6 +15446,21 @@
     ],
     "domain": "startup",
     "score": 0.7
+  },
+  {
+    "title": "Review and Feedback System",
+    "url": "/patterns/review-and-feedback-system/",
+    "classification": [
+      "mechanism"
+    ],
+    "description": "A Review and Feedback System is a structured mechanism that allows users of a platform or service to provide, receive, and observe evaluations of products, services, or other users. These systems are ",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 4
   },
   {
     "title": "Rhenish Capitalism - Germany",
@@ -14855,6 +16122,21 @@
     "score": 0.7
   },
   {
+    "title": "Seeding Strategy",
+    "url": "/patterns/seeding-strategy/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "A Seeding Strategy is a deliberate and strategic plan to initiate and accelerate the adoption of a new platform or network. It is a critical component of platform design, addressing the fundamental ch",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 4
+  },
+  {
     "title": "Self-Sovereign Identity",
     "url": "/patterns/self-sovereign-identity/",
     "classification": [
@@ -15031,6 +16313,21 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Serverless Platform",
+    "url": "/patterns/serverless-platform/",
+    "classification": [
+      "practice"
+    ],
+    "description": "A serverless platform represents a significant evolution in cloud computing, abstracting away the underlying infrastructure to allow developers to focus solely on writing and deploying code. In this m",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Service Blueprinting",
@@ -15310,6 +16607,21 @@
     "score": 4
   },
   {
+    "title": "Shared Infrastructure Model",
+    "url": "/patterns/shared-infrastructure-model/",
+    "classification": [
+      "model"
+    ],
+    "description": "The Shared Infrastructure Model is a foundational concept in modern technology and platform design, referring to the practice of multiple entities utilizing a common pool of resources, such as hardwar",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Shared Value (Porter & Kramer)",
     "url": "/patterns/shared-value-porter-kramer/",
     "classification": [
@@ -15364,6 +16676,21 @@
     ],
     "domain": "startup",
     "score": 0.7
+  },
+  {
+    "title": "Single-Player Mode",
+    "url": "/patterns/single-player-mode/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "The Single-Player Mode pattern is a strategic approach to platform design that prioritizes delivering value to an individual user before, or in parallel with, enabling multi-user interactions. In esse",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Single Point of Failure",
@@ -16114,6 +17441,21 @@
     "score": 4
   },
   {
+    "title": "Star Rating System",
+    "url": "/patterns/star-rating-system/",
+    "classification": [
+      "mechanism"
+    ],
+    "description": "The Star Rating System is a ubiquitous mechanism for collecting and displaying user feedback and opinions on a wide variety of subjects, including products, services, content, and experiences. It typi",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Statistical Process Control (SPC)",
     "url": "/patterns/statistical-process-control-spc/",
     "classification": [
@@ -16462,6 +17804,36 @@
     "score": 3
   },
   {
+    "title": "Supply-First Strategy",
+    "url": "/patterns/supply-first-strategy/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "The Supply-First Strategy is a cornerstone of modern platform business model design, representing a deliberate choice to solve the perennial chicken-and-egg dilemma by focusing initial efforts on buil",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Surveillance Capitalism",
+    "url": "/patterns/surveillance-capitalism/",
+    "classification": [
+      "anti-pattern"
+    ],
+    "description": "Surveillance capitalism is a modern form of market economy that profits from the extensive collection and analysis of personal data. Coined by scholar Shoshana Zuboff, the term describes an economic s",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 1
+  },
+  {
     "title": "Sustainable Manufacturing",
     "url": "/patterns/sustainable-manufacturing/",
     "classification": [
@@ -16521,6 +17893,21 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Switching Cost Design",
+    "url": "/patterns/switching-cost-design/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "Switching Cost Design is a strategic approach employed by businesses to create barriers that make it difficult or expensive for customers to change from one product, service, or platform to another. T",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 2
   },
   {
     "title": "SWOT Analysis - Classic Framework",
@@ -16806,6 +18193,21 @@
     "score": 4
   },
   {
+    "title": "Tech Performance Network Effect",
+    "url": "/patterns/tech-performance-network-effect/",
+    "classification": [
+      "mechanism"
+    ],
+    "description": "The Tech Performance Network Effect is a specific type of direct network effect where the performance of a product or service improves as more users join and actively use it. Unlike other network effe",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Technical Performance Measurement",
     "url": "/patterns/technical-performance-measurement/",
     "classification": [
@@ -17016,6 +18418,21 @@
     ],
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Third-Party Integration Framework",
+    "url": "/patterns/third-party-integration-framework/",
+    "classification": [
+      "framework"
+    ],
+    "description": "A Third-Party Integration Framework is a structured approach that enables a platform to seamlessly connect with external applications and services developed by other companies. This pattern is not mer",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 4
   },
   {
     "title": "Throughput Accounting - TOC Financial",
@@ -17391,6 +18808,21 @@
     "score": 3
   },
   {
+    "title": "Transaction Fee Model",
+    "url": "/patterns/transaction-fee-model/",
+    "classification": [
+      "model"
+    ],
+    "description": "The Transaction Fee Model represents a fundamental and widely adopted strategy for revenue generation within the digital economy. At its core, this model involves a platform or intermediary charging a",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Transactional Leadership",
     "url": "/patterns/transactional-leadership/",
     "classification": [
@@ -17415,6 +18847,21 @@
       "startup"
     ],
     "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Transform Competitors into Providers",
+    "url": "/patterns/transform-competitors-into-providers/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "The \"Transform Competitors into Providers\" pattern is a strategic approach in platform business models where a platform actively integrates its former or potential competitors into its ecosystem as pr",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "score": 3
   },
   {
@@ -17446,6 +18893,21 @@
     ],
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Transparency Reporting",
+    "url": "/patterns/transparency-reporting/",
+    "classification": [
+      "practice"
+    ],
+    "description": "Transparency reporting is the practice of periodically disclosing data and information about actions taken to enforce policies, respond to government and third-party requests for user data, and otherw",
+    "domains": [
+      "platform",
+      "social",
+      "polity"
+    ],
+    "domain": "platform",
+    "score": 4
   },
   {
     "title": "Transparent Compensation",
@@ -17488,6 +18950,21 @@
     ],
     "domain": "startup",
     "score": 0.7
+  },
+  {
+    "title": "Tribal Network Effect",
+    "url": "/patterns/tribal-network-effect/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "The Tribal Network Effect is a powerful social phenomenon that occurs when a network's value increases for its members as more individuals with a shared identity, purpose, or interest join. This effec",
+    "domains": [
+      "platform",
+      "social",
+      "business"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Triple Bottom Line - Elkington",
@@ -17548,6 +19025,51 @@
       "security"
     ],
     "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Trust Decay",
+    "url": "/patterns/trust-decay/",
+    "classification": [
+      "anti-pattern"
+    ],
+    "description": "Trust Decay is the gradual erosion of confidence and faith that users, participants, or stakeholders have in a platform, community, or ecosystem over time. It is a pernicious anti-pattern that can und",
+    "domains": [
+      "platform",
+      "social",
+      "business"
+    ],
+    "domain": "platform",
+    "score": 2
+  },
+  {
+    "title": "Trust Score Aggregation",
+    "url": "/patterns/trust-score-aggregation/",
+    "classification": [
+      "mechanism"
+    ],
+    "description": "Trust Score Aggregation is a computational mechanism for synthesizing a single, representative trust value for an entity from a multitude of individual trust-related data points. These data points can",
+    "domains": [
+      "platform",
+      "social",
+      "business"
+    ],
+    "domain": "platform",
+    "score": 4
+  },
+  {
+    "title": "Two-Sided Marketplace",
+    "url": "/patterns/two-sided-marketplace/",
+    "classification": [
+      "model"
+    ],
+    "description": "A two-sided marketplace, also known as a two-sided network or a multi-sided platform, is a business model that creates value by facilitating interactions between two distinct but interdependent groups",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
     "score": 3
   },
   {
@@ -17638,6 +19160,21 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Unbundling Assets",
+    "url": "/patterns/unbundling-assets/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "Unbundling Assets is a strategic pattern that involves breaking down a product, service, or even an entire organization into its constituent components. These smaller, more focused components can then",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Unified Modeling Language (UML)",
@@ -18144,6 +19681,21 @@
     "score": 3
   },
   {
+    "title": "Verified Badge System",
+    "url": "/patterns/verified-badge-system/",
+    "classification": [
+      "mechanism"
+    ],
+    "description": "A Verified Badge System is a mechanism used by online platforms to confirm the authenticity of accounts of public interest. This is typically represented by a visual icon, such as a checkmark, display",
+    "domains": [
+      "platform",
+      "social",
+      "business"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Vernacular Architecture",
     "url": "/patterns/vernacular-architecture/",
     "classification": [
@@ -18485,6 +20037,21 @@
     "score": 4
   },
   {
+    "title": "White-Label Platform",
+    "url": "/patterns/white-label-platform/",
+    "classification": [
+      "strategy"
+    ],
+    "description": "A white-label platform is a product or service, typically a software application, that is developed by one company and then rebranded and resold by other companies as their own. The name originates fr",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Wholesale/Retail Model",
     "url": "/patterns/wholesaleretail-model/",
     "classification": [
@@ -18528,6 +20095,37 @@
     ],
     "domain": "business",
     "score": 5
+  },
+  {
+    "title": "Winner-Take-All Dynamics",
+    "url": "/patterns/winner-take-all-dynamics/",
+    "classification": [
+      "strategy",
+      "anti-pattern"
+    ],
+    "description": "Winner-take-all dynamics describe a market phenomenon where a small number of participants reap a disproportionately large share of the rewards, while the rest of the competitors are left with very li",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 1
+  },
+  {
+    "title": "Winner-Take-All Monopoly",
+    "url": "/patterns/winner-take-all-monopoly/",
+    "classification": [
+      "anti-pattern"
+    ],
+    "description": "The Winner-Take-All Monopoly is a market condition, particularly prevalent in the digital economy, where a single platform or company achieves overwhelming dominance, effectively shutting out all comp",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 1
   },
   {
     "title": "Wizard of Oz MVP",
@@ -18584,6 +20182,21 @@
     ],
     "domain": "startup",
     "score": 0.7
+  },
+  {
+    "title": "Worker-Owned Platform",
+    "url": "/patterns/worker-owned-platform/",
+    "classification": [
+      "model"
+    ],
+    "description": "A Worker-Owned Platform, often referred to as a platform cooperative, is a digital platform (such as a website or mobile app) that is collectively owned and democratically controlled by the people who",
+    "domains": [
+      "platform",
+      "business",
+      "social"
+    ],
+    "domain": "platform",
+    "score": 5
   },
   {
     "title": "Working Backward (Amazon)",
