@@ -35,7 +35,6 @@ license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
 ---
-'''--- 
 id: pat_01kg50240jfastcwdcdbgxbdb1
 page_url: https://commons-os.github.io/patterns/augmented-reality-in-manufacturing/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/augmented-reality-in-manufacturing.md

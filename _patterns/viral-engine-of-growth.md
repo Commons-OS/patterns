@@ -38,7 +38,6 @@ attribution: Commons OS Pattern Library
 repository: https://github.com/Commons-OS/patterns
 ---
 
-'''
 # GT002: Viral Engine of Growth
 
 ### 1. Overview
@@ -127,4 +126,3 @@ Real-world examples of successful viral growth abound. Hotmail, one of the first
 3.  [Chen, A. (2012). *What's your viral loop? Understanding the engine of adoption*.](https://andrewchen.com/whats-your-viral-loop-understanding-the-engine-of-adoption/)
 4.  [Balfour, B. (2017). *Growth Is Good, But Retention Is Forever*.](https://brianbalfour.com/essays/retention-is-forever)
 5.  [Hofstetter, R., & Onthank, M. (2011). *Beyond the Buzz: The Next Generation of Word-of-Mouth Marketing*. Hyperion.](https://www.amazon.com/Beyond-Buzz-Next-Generation-Word-Mouth/dp/140132435X)
-'''

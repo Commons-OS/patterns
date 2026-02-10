@@ -37,7 +37,6 @@ attribution: Commons OS Pattern Library
 repository: https://github.com/Commons-OS/patterns
 ---
 
-'''
 # Event Marketing
 
 ### 1. Overview
@@ -127,4 +126,3 @@ After the event is over, the work is not done. The post-event phase is just as i
 4.  [How to Build a Strong Community with Events: A Marketer's Guide](https://www.cvent.com/en/blog/events/community-events-guide)
 5.  [Event Marketing for Social Good](https://andpurpose.world/agency/events-marketing/)
 
-'''

@@ -1,4 +1,3 @@
-'''
 ---
 id: pat_circuit_breaker
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/circuit-breaker-pattern.md
@@ -133,4 +132,3 @@ The Circuit Breaker pattern aligns well with the principles of the Commons, part
 [3] GeeksforGeeks. (2026, January 21). *Circuit Breaker Pattern in Microservices*. Retrieved from https://www.geeksforgeeks.org/system-design/what-is-circuit-breaker-pattern-in-microservices/
 
 [4] AWS. (n.d.). *Circuit breaker pattern*. AWS Prescriptive Guidance. Retrieved from https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/circuit-breaker.html
-'''

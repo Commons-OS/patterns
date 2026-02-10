@@ -35,7 +35,6 @@ license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
 ---
-'''--- 
 id: pat_01kg5023xkes99fv5f4jpaa4at
 page_url: https://commons-os.github.io/patterns/behavioral-economics/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/behavioral-economics.md
@@ -207,4 +206,3 @@ Behavioral Economics is a powerful tool for influencing behavior and can be used
 - Develop a participatory governance model where the community co-designs the "nudges" to ensure they serve collective, rather than purely institutional, goals.
 - Integrate the pattern with explicit stakeholder and ownership architectures that define the Rights and Responsibilities of the choice architect and protect individuals from manipulation.
 - Focus on using behavioral insights to build collective intelligence and adaptive capacity, rather than simply steering individual behavior toward predetermined outcomes.
-'''

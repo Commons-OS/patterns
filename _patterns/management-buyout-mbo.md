@@ -38,7 +38,6 @@ attribution: Commons OS Pattern Library
 repository: https://github.com/Commons-OS/patterns
 ---
 
-'''
 ### 1. Overview
 
 A Management Buyout (MBO) is a corporate finance transaction in which the existing management team of a company acquires a significant portion, or all, of the business from the current owners. The primary purpose of an MBO is to transfer ownership and control to the people who are already running the company, with the belief that their intimate knowledge of the business will lead to greater success and value creation. This transaction is often a form of a leveraged buyout (LBO), as the management team typically uses a significant amount of borrowed funds to finance the acquisition, using the company's own assets as collateral. The problem that an MBO solves is multifaceted. For private company owners, it offers a viable exit strategy, particularly when there is no clear family succession plan. For large corporations, it provides a mechanism to divest non-core or underperforming divisions to a motivated and knowledgeable buyer. For the management team, it is an opportunity to gain entrepreneurial control, directly reap the rewards of their efforts, and steer the company in a direction they believe will be most successful.
@@ -116,4 +115,3 @@ A real-world example of a successful MBO is the 2013 acquisition of Dell Inc. by
 3.  [Corporate Finance Institute. (n.d.). *Management Buyout (MBO)*.](https://corporatefinanceinstitute.com/resources/valuation/management-buyout-mbo/)
 4.  [Harvard Business Review. (2006). *The Strategy and Sources of MBO Success*.](https://hbr.org/2006/01/the-strategy-and-sources-of-mbo-success)
 5.  [Gannons. (n.d.). *Management buyout case studies*.](https://www.gannons.co.uk/cases/management-buyout-case-studies/)
-'''
