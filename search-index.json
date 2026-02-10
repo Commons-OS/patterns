@@ -189,6 +189,19 @@
     "score": 3
   },
   {
+    "title": "Access Token Pattern",
+    "url": "/patterns/access-token-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Access Token pattern is a fundamental security mechanism in modern software architecture, particularly in distributed systems and microservices. It provides a standardized way for a client applica",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Acqui-hire",
     "url": "/patterns/acqui-hire/",
     "classification": [
@@ -548,6 +561,19 @@
     "score": 3
   },
   {
+    "title": "Aggregator Pattern",
+    "url": "/patterns/aggregator-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "_The following is an auto-generated summary of the original pattern, created by Manus.AI using natural language processing and other AI technologies._",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Agile Governance - IT Governance Frameworks",
     "url": "/patterns/agile-governance-it-governance-frameworks/",
     "classification": [
@@ -820,6 +846,19 @@
     "score": 4
   },
   {
+    "title": "AI Gateway Pattern",
+    "url": "/patterns/ai-gateway-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The AI Gateway pattern introduces a centralized access layer that standardizes and manages interactions between an organization's applications and various Artificial Intelligence (AI) services. It act",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "AI Governance Models",
     "url": "/patterns/ai-governance-models/",
     "classification": [
@@ -888,9 +927,7 @@
     ],
     "description": "Algorithmic governance refers to the use of computer algorithms to regulate, manage, and control a wide range of societal functions. It represents a significant shift from traditional forms of governa",
     "domains": [
-      "platform",
-      "polity",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -952,6 +989,19 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Ambassador Pattern",
+    "url": "/patterns/ambassador-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Ambassador pattern is a structural design pattern that is instrumental in distributed systems and microservices architectures. It involves using a helper service, the \"ambassador,\" which is co-loc",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Andon System - Visual Management",
@@ -1042,6 +1092,19 @@
     "score": 2
   },
   {
+    "title": "Anti-Corruption Layer",
+    "url": "/patterns/anti-corruption-layer/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Anti-Corruption Layer (ACL) is a design pattern used in software architecture to isolate a system from the complexities and potential \"corruption\" of external or legacy systems. It acts as a trans",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Anti-Dilution Provisions",
     "url": "/patterns/anti-dilution-provisions/",
     "classification": [
@@ -1078,9 +1141,7 @@
     ],
     "description": "The API Economy Participation pattern describes the strategic approach by which organizations expose their digital services and assets through Application Programming Interfaces (APIs) to create value",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -1118,6 +1179,19 @@
     "score": 4
   },
   {
+    "title": "API Key Management Pattern",
+    "url": "/patterns/api-key-management-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The API Key Management pattern is a fundamental security and access control mechanism for application programming interfaces (APIs). It involves generating, distributing, and managing unique keys that",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "API Security",
     "url": "/patterns/api-security/",
     "classification": [
@@ -1131,16 +1205,27 @@
     "score": 3
   },
   {
+    "title": "API Versioning Pattern",
+    "url": "/patterns/api-versioning-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "_The API Versioning pattern addresses the challenge of evolving an API over time while maintaining compatibility for existing clients. It provides a systematic approach to introducing changes, whether",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 4
+  },
+  {
     "title": "App Store Model",
     "url": "/patterns/app-store-model/",
     "classification": [
-      "model"
+      "practice"
     ],
     "description": "The App Store Model is a digital distribution platform that serves as a centralized marketplace for discovering, downloading, and managing software applications. This model, most famously embodied by ",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 2
@@ -1149,14 +1234,11 @@
     "title": "Appeals Process Design",
     "url": "/patterns/appeals-process-design/",
     "classification": [
-      "practice",
-      "mechanism"
+      "practice"
     ],
     "description": "An Appeals Process Design is a structured and formalized mechanism that allows users, community members, or other stakeholders of a platform or organization to request a review of decisions that have ",
     "domains": [
-      "platform",
-      "polity",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -1300,9 +1382,7 @@
     ],
     "description": "The Asymptotic Marketplace is a specific type of two-sided marketplace where the value for the demand side ceases to increase significantly after a certain threshold of supply-side participants is rea",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -1320,6 +1400,32 @@
     ],
     "domain": "startup",
     "score": 0.7
+  },
+  {
+    "title": "Asynchronous Request-Reply",
+    "url": "/patterns/asynchronous-request-reply/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Asynchronous Request-Reply pattern is a messaging pattern used in distributed systems to handle long-running operations without blocking the client. In this pattern, a client sends a request to a ",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Attribute-Based Access Control Pattern",
+    "url": "/patterns/attribute-based-access-control-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "Attribute-Based Access Control (ABAC) is a model for access control where authorization to perform a set of operations is determined by evaluating attributes associated with the subject, object, actio",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Attribute-Based Credentials (ABCs)",
@@ -1365,6 +1471,19 @@
     "score": 3
   },
   {
+    "title": "Audit Logging Pattern",
+    "url": "/patterns/audit-logging-pattern/",
+    "classification": [
+      "tool"
+    ],
+    "description": "The Audit Logging pattern, also known as the Audit Trail pattern, involves creating a chronological and immutable record of events and actions within a system. These records, or audit logs, provide a ",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Augmented Reality (AR) Product Design",
     "url": "/patterns/augmented-reality-ar-product-design/",
     "classification": [
@@ -1385,13 +1504,11 @@
     "classification": [
       "practice"
     ],
-    "description": "'''--- id: pat_01kg50240jfastcwdcdbgxbdb1 page_url: https://commons-os.github.io/patterns/augmented-reality-in-manufacturing/ github_url: https://github.com/commons-os/patterns/blob/main/_patterns/aug",
+    "description": "id: pat_01kg50240jfastcwdcdbgxbdb1 page_url: https://commons-os.github.io/patterns/augmented-reality-in-manufacturing/ github_url: https://github.com/commons-os/patterns/blob/main/_patterns/augmented-",
     "domains": [
-      "business",
-      "startup",
-      "security"
+      "platform"
     ],
-    "domain": "business",
+    "domain": "platform",
     "score": 3
   },
   {
@@ -1571,6 +1688,32 @@
     "score": 4
   },
   {
+    "title": "Backends For Frontends Pattern",
+    "url": "/patterns/backends-for-frontends-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Backends for Frontends (BFF) pattern is an architectural style that advocates for creating dedicated backend services for each frontend application. Instead of a single, general-purpose backend th",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Backpressure Pattern",
+    "url": "/patterns/backpressure-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The **Backpressure** pattern is a crucial design principle in software engineering, particularly in distributed systems and data streaming applications. It provides a mechanism for a downstream compon",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Balanced Scorecard - Kaplan & Norton",
     "url": "/patterns/balanced-scorecard-kaplan-norton/",
     "classification": [
@@ -1592,9 +1735,7 @@
     ],
     "description": "The Bandwagon Effect is a psychological phenomenon describing the tendency for individuals to adopt certain behaviors, beliefs, or attitudes simply because a large number of other people have done so.",
     "domains": [
-      "platform",
-      "social",
-      "polity"
+      "platform"
     ],
     "domain": "platform",
     "score": 2
@@ -1610,6 +1751,20 @@
       "security"
     ],
     "domain": "security",
+    "score": 3
+  },
+  {
+    "title": "Batch Processing Pattern",
+    "url": "/patterns/batch-processing-pattern/",
+    "classification": [
+      "tool",
+      "practice"
+    ],
+    "description": "The Batch Processing pattern is a method of executing a series of jobs or tasks non-interactively in a sequence. This pattern is designed to handle large volumes of data, where processing can be defer",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "score": 3
   },
   {
@@ -1705,13 +1860,11 @@
     "classification": [
       "practice"
     ],
-    "description": "'''--- id: pat_01kg5023xkes99fv5f4jpaa4at page_url: https://commons-os.github.io/patterns/behavioral-economics/ github_url: https://github.com/commons-os/patterns/blob/main/_patterns/behavioral-econom",
+    "description": "id: pat_01kg5023xkes99fv5f4jpaa4at page_url: https://commons-os.github.io/patterns/behavioral-economics/ github_url: https://github.com/commons-os/patterns/blob/main/_patterns/behavioral-economics.md ",
     "domains": [
-      "business",
-      "startup",
-      "security"
+      "platform"
     ],
-    "domain": "business",
+    "domain": "platform",
     "score": 3
   },
   {
@@ -1737,9 +1890,7 @@
     ],
     "description": "The Belief Network Effect is a powerful social phenomenon where the value of a product, service, or idea increases as more people believe in it. This is a direct network effect, meaning that each new ",
     "domains": [
-      "platform",
-      "social",
-      "polity"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -1932,6 +2083,32 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Bloom Filter Pattern",
+    "url": "/patterns/bloom-filter-pattern/",
+    "classification": [
+      "tool"
+    ],
+    "description": "The Bloom Filter pattern is a space-efficient probabilistic data structure that is used to test whether an element is a member of a set. It was conceived by Burton Howard Bloom in 1970. The trade-off ",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Blue-Green Deployment Pattern",
+    "url": "/patterns/blue-green-deployment-pattern/",
+    "classification": [
+      "process"
+    ],
+    "description": "The Blue-Green Deployment pattern is a software release strategy that reduces downtime and risk by running two identical production environments, referred to as \"Blue\" and \"Green\" [1]. At any given ti",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Blue Ocean Strategy (Innovation)",
@@ -2181,6 +2358,19 @@
     "score": 4
   },
   {
+    "title": "Bulkhead Pattern",
+    "url": "/patterns/bulkhead-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Bulkhead pattern is a design principle for creating fault-tolerant applications that isolate resources to prevent cascading failures. The term originates from the maritime industry, where a ship's",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Bureaucratic Theory (Weber)",
     "url": "/patterns/bureaucratic-theory-weber/",
     "classification": [
@@ -2279,6 +2469,19 @@
     "score": 0.7
   },
   {
+    "title": "Cache-Aside Pattern",
+    "url": "/patterns/cache-aside-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Cache-Aside pattern, also known as Lazy Loading, is a fundamental caching strategy employed in system design to enhance performance and scalability. This pattern dictates that the application logi",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "CAD/CAM Integration",
     "url": "/patterns/cadcam-integration/",
     "classification": [
@@ -2308,6 +2511,32 @@
     "score": 0.7
   },
   {
+    "title": "Canary Deployment Pattern",
+    "url": "/patterns/canary-deployment-pattern/",
+    "classification": [
+      "process"
+    ],
+    "description": "The Canary Deployment pattern is a strategy for releasing new software versions into a production environment in a controlled and gradual manner. The core idea is to route a small subset of users to t",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Canonical Data Model",
+    "url": "/patterns/canonical-data-model/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Canonical Data Model is a design pattern that addresses the challenge of integrating multiple systems that have different data formats. Instead of creating a direct mapping between each pair of sy",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Cap Table Management",
     "url": "/patterns/cap-table-management/",
     "classification": [
@@ -2320,6 +2549,19 @@
     ],
     "domain": "startup",
     "score": 0.7
+  },
+  {
+    "title": "CAP Theorem Application",
+    "url": "/patterns/cap-theorem-application/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The CAP Theorem, also known as Brewer's Theorem, is a fundamental principle in distributed systems design. It states that any distributed data store can only provide two of the following three guarant",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Capital Budgeting",
@@ -2409,6 +2651,19 @@
     "score": 4.1
   },
   {
+    "title": "CDN Content Delivery Network",
+    "url": "/patterns/cdn-content-delivery-network/",
+    "classification": [
+      "practice"
+    ],
+    "description": "A Content Delivery Network (CDN) is a geographically distributed network of proxy servers and their data centers. The goal is to provide high availability and performance by distributing the service s",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Cellular Manufacturing - Work Cell Design",
     "url": "/patterns/cellular-manufacturing-work-cell-design/",
     "classification": [
@@ -2452,6 +2707,20 @@
     "score": 2
   },
   {
+    "title": "Change Data Capture Pattern",
+    "url": "/patterns/change-data-capture-pattern/",
+    "classification": [
+      "tool",
+      "practice"
+    ],
+    "description": "Change Data Capture (CDC) is a set of software design patterns used to determine and track changes in data so that action can be taken based on those changes. In essence, CDC turns a database from a p",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Change Management Models (Beyond Documented)",
     "url": "/patterns/change-management-models-beyond-documented/",
     "classification": [
@@ -2477,6 +2746,19 @@
       "security"
     ],
     "domain": "security",
+    "score": 3
+  },
+  {
+    "title": "Chaos Engineering Pattern",
+    "url": "/patterns/chaos-engineering-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "Chaos Engineering is the discipline of experimenting on a software system in production to build confidence in its capability to withstand turbulent and unexpected conditions [1]. It is a proactive ap",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "score": 3
   },
   {
@@ -2514,9 +2796,7 @@
     ],
     "description": "The Chicken-and-Egg Strategy addresses a fundamental challenge inherent in the development of multi-sided platforms and networks: the dilemma of attracting an initial user base. This problem, often re",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -2595,6 +2875,19 @@
     "score": 2
   },
   {
+    "title": "Circuit Breaker Pattern",
+    "url": "/patterns/circuit-breaker-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Circuit Breaker pattern is a critical design pattern used in modern software architecture to enhance the resilience and stability of distributed systems. It is primarily used to handle faults that",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Circuit Simulation (SPICE)",
     "url": "/patterns/circuit-simulation-spice/",
     "classification": [
@@ -2639,6 +2932,19 @@
     "score": 4
   },
   {
+    "title": "Claim-Check Pattern",
+    "url": "/patterns/claim-check-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Claim-Check pattern is a design pattern used in messaging architectures to handle large messages efficiently. Instead of sending a large data payload directly through a messaging system, the patte",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Classical Economics (Smith)",
     "url": "/patterns/classical-economics-smith/",
     "classification": [
@@ -2652,6 +2958,19 @@
     ],
     "domain": "business",
     "score": 1
+  },
+  {
+    "title": "Client-Side Discovery Pattern",
+    "url": "/patterns/client-side-discovery-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Client-Side Discovery pattern is a foundational approach within microservices architectures for managing how a consumer service finds and communicates with a provider service. In a distributed env",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Cliff",
@@ -2674,9 +2993,7 @@
     ],
     "description": "The \"Climb the Value Chain\" pattern describes the strategic journey of a firm from being a provider of simple products or services to becoming an orchestrator of a complex ecosystem, capturing more va",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -2786,6 +3103,19 @@
     "score": 4
   },
   {
+    "title": "Code Review Workflow Pattern",
+    "url": "/patterns/code-review-workflow-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "_**[IMPORTANT]** This document is a template and requires further customization to meet your specific needs. Fill in the placeholders (e.g., `[Project Name]`, `[Link to coding style guide]`, `[Your Na",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Coherent: Clear Principles, Practices, Outcomes",
     "url": "/patterns/coherent-clear-principles-practices-outcomes/",
     "classification": [
@@ -2822,9 +3152,7 @@
     ],
     "description": "The Cold Start Problem describes the challenge of launching a new platform or network-based product that requires a critical mass of users or content to be valuable, yet cannot attract that critical m",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -2915,9 +3243,7 @@
     ],
     "description": "Commoditization is the process by which goods or services become indistinguishable from their competitors in the eyes of the consumer, leading to a market where price is the primary, if not sole, diff",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -2967,6 +3293,19 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Commons Resource Allocation",
+    "url": "/patterns/commons-resource-allocation/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The **Commons Resource Allocation** pattern addresses the challenge of managing and distributing shared resources within a community or system to ensure their sustainable and equitable use. This patte",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Commons Transition Strategies",
@@ -3108,12 +3447,23 @@
     ],
     "description": "Community Guidelines Design is the systematic practice of creating, implementing, and evolving a set of explicit norms, rules, and principles that govern behavior within a community, particularly in o",
     "domains": [
-      "platform",
-      "social",
-      "polity"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
+  },
+  {
+    "title": "Community Health Metrics Pattern",
+    "url": "/patterns/community-health-metrics-pattern/",
+    "classification": [
+      "tool"
+    ],
+    "description": "**Type:** Platform Pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Community Land Ownership",
@@ -3155,9 +3505,7 @@
     ],
     "description": "The Community Land Trust Digital (CLTD) pattern represents a groundbreaking adaptation of the traditional Community Land Trust (CLT) model to the digital realm. At its core, a CLTD is a democratically",
     "domains": [
-      "platform",
-      "urban",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 5
@@ -3201,9 +3549,7 @@
     ],
     "description": "The Community Ownership Model is a framework for structuring organizations, enterprises, and platforms in a way that vests control and equity in the hands of a defined community rather than concentrat",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 5
@@ -3217,9 +3563,7 @@
     ],
     "description": "Community self-governance is a framework wherein a group of individuals, united by a common interest, resource, or goal, collectively establishes and enforces its own rules, makes decisions, and manag",
     "domains": [
-      "platform",
-      "social",
-      "polity"
+      "platform"
     ],
     "domain": "platform",
     "score": 5
@@ -3252,6 +3596,19 @@
     "score": 4
   },
   {
+    "title": "Compensating Transaction Pattern",
+    "url": "/patterns/compensating-transaction-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Compensating Transaction pattern is a design pattern used to perform undo operations for a series of steps in a distributed system when one or more of those steps fail. It is a crucial pattern for",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Competency-Based Education",
     "url": "/patterns/competency-based-education/",
     "classification": [
@@ -3264,6 +3621,19 @@
       "security"
     ],
     "domain": "business",
+    "score": 4
+  },
+  {
+    "title": "Competing Consumers Pattern",
+    "url": "/patterns/competing-consumers-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Competing Consumers pattern is a fundamental design pattern in distributed systems and messaging architectures. It enables multiple concurrent consumers to process messages received on the same me",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "score": 4
   },
   {
@@ -3365,9 +3735,7 @@
     ],
     "description": "Composable architecture is a design paradigm that structures systems as an assembly of modular, independently deployable, and loosely coupled components. Each component, often a microservice or a Pack",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -3536,6 +3904,19 @@
     "score": 2
   },
   {
+    "title": "Connection Pooling Pattern",
+    "url": "/patterns/connection-pooling-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "_**This pattern is still a draft, and we are actively working on it. We welcome your feedback and contributions to help us improve it. Please check back later for the full version.**_",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Conscious Capitalism",
     "url": "/patterns/conscious-capitalism-mackey-sisodia/",
     "classification": [
@@ -3653,6 +4034,32 @@
     "score": 0.7
   },
   {
+    "title": "Consistent Core Pattern",
+    "url": "/patterns/consistent-core-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Consistent Core pattern is a design approach for distributed systems that balances the trade-offs between strong consistency and high availability. It achieves this by partitioning the system into",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Consistent Hashing Pattern",
+    "url": "/patterns/consistent-hashing-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "Consistent Hashing is a distributed hashing technique that provides a solution to the problem of remapping keys when the number of servers in a distributed system changes. It is a fundamental concept ",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Consulting Firm Proprietary Frameworks",
     "url": "/patterns/consulting-firm-proprietary-frameworks/",
     "classification": [
@@ -3697,6 +4104,19 @@
     "score": 0.7
   },
   {
+    "title": "Consumer-Driven Contract Testing",
+    "url": "/patterns/consumer-driven-contract-testing/",
+    "classification": [
+      "practice"
+    ],
+    "description": "Consumer-Driven Contract Testing (CDCT) is a software testing methodology that ensures seamless communication and compatibility between different components of a distributed system, particularly in mi",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Container Based Portability",
     "url": "/patterns/container-based-portability/",
     "classification": [
@@ -3728,13 +4148,37 @@
     "title": "Content-Based Filtering",
     "url": "/patterns/content-based-filtering/",
     "classification": [
-      "mechanism"
+      "practice"
     ],
     "description": "Content-Based Filtering is a recommendation algorithm that provides users with items similar to those they have previously shown an interest in. Unlike its counterpart, collaborative filtering, which ",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Content-Based Router Pattern",
+    "url": "/patterns/content-based-router-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "_The Content-Based Router is a fundamental messaging pattern that enables the flexible and dynamic routing of messages based on their content. This pattern is a key component in building decoupled and",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Content Enricher Pattern",
+    "url": "/patterns/content-enricher-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Content Enricher pattern is a fundamental design pattern in messaging and integration architectures. It addresses the common problem of messages lacking all the necessary information for their int",
+    "domains": [
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -3761,9 +4205,7 @@
     ],
     "description": "A Content Moderation Framework is a comprehensive system of principles, policies, processes, and tools that online platforms use to manage user-generated content (UGC). Its primary purpose is to ensur",
     "domains": [
-      "platform",
-      "social",
-      "polity"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -3916,6 +4358,45 @@
     ],
     "domain": "startup",
     "score": 0.7
+  },
+  {
+    "title": "Contributor License Agreement Pattern",
+    "url": "/patterns/contributor-license-agreement-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "A Contributor License Agreement (CLA) is a legal document that defines the terms under which intellectual property has been contributed to a company or project, typically for software development. It ",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Contributor Onboarding Pattern",
+    "url": "/patterns/contributor-onboarding-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "Streamline the process for new contributors to join a project, ensuring they have all the necessary information and resources to become productive members of the community.",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Control Bus Pattern",
+    "url": "/patterns/control-bus-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Control Bus pattern provides a mechanism for administering and monitoring a distributed system by using the same messaging infrastructure that the application uses for its own data and events, but",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 2
   },
   {
     "title": "Control Charts",
@@ -4200,6 +4681,33 @@
     "score": 0.7
   },
   {
+    "title": "Correlation Identifier Pattern",
+    "url": "/patterns/correlation-identifier-pattern/",
+    "classification": [
+      "tool"
+    ],
+    "description": "The Correlation Identifier pattern is a fundamental concept in distributed systems and messaging architectures. It provides a mechanism to track a request or a message as it traverses through multiple",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Command Query Responsibility Segregation (CQRS)",
+    "url": "/patterns/cqrs-pattern/",
+    "classification": [
+      "tool",
+      "practice"
+    ],
+    "description": "Command Query Responsibility Segregation (CQRS) is an architectural pattern that separates the models for reading and writing data. The fundamental principle of CQRS is that you can use a different mo",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Cradle-to-Cradle Design",
     "url": "/patterns/cradle-to-cradle-design/",
     "classification": [
@@ -4222,9 +4730,7 @@
     ],
     "description": "The \"Create a New Profession\" pattern describes the process by which new technologies, economic shifts, and societal needs converge to generate entirely new categories of work. This is not merely the ",
     "domains": [
-      "platform",
-      "social",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -4287,6 +4793,19 @@
     "score": 5
   },
   {
+    "title": "Cross-Domain Single Sign-On",
+    "url": "/patterns/cross-domain-single-sign-on/",
+    "classification": [
+      "practice"
+    ],
+    "description": "Cross-Domain Single Sign-On (CDSSO) is an authentication pattern that enables a user to access multiple applications or services hosted on different internet domains after logging in only once [1]. It",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Cross-Side Network Effects",
     "url": "/patterns/cross-side-network-effects/",
     "classification": [
@@ -4294,9 +4813,7 @@
     ],
     "description": "Cross-side network effects, also known as indirect network effects or two-sided network effects, are a fundamental concept in platform economics. This pattern describes a phenomenon where the value of",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -4545,9 +5062,7 @@
     ],
     "description": "Dark Patterns in Platform UX are user interface design choices that manipulate users into taking actions they would not otherwise have taken, often benefiting the platform at the user's expense. These",
     "domains": [
-      "platform",
-      "social",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "score": 1
@@ -4574,9 +5089,7 @@
     ],
     "description": "A Data Commons is a shared, community-governed infrastructure that co-locates data with cloud computing infrastructure and commonly used software services, tools, and applications for managing, analyz",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -4618,9 +5131,7 @@
     ],
     "description": "Data Mesh represents a significant sociotechnical paradigm shift in the realm of data architecture, fundamentally challenging the long-standing tradition of centralized, monolithic approaches to manag",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -4683,6 +5194,19 @@
     "score": 3
   },
   {
+    "title": "Data Replication Strategies",
+    "url": "/patterns/data-replication-strategies/",
+    "classification": [
+      "tool"
+    ],
+    "description": "Data replication is the process of creating and maintaining multiple copies of data on different servers or in different locations. This ensures that the data is always available, even if one of the s",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Data Retention",
     "url": "/patterns/data-retention/",
     "classification": [
@@ -4711,6 +5235,19 @@
     "score": 3
   },
   {
+    "title": "Database-Per-Service Pattern",
+    "url": "/patterns/database-per-service-pattern/",
+    "classification": [
+      "tool"
+    ],
+    "description": "The **Database-per-Service** pattern is a fundamental architectural principle in the design of microservices-based systems. It dictates that each microservice should have its own private database, acc",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "De Stijl Movement",
     "url": "/patterns/de-stijl-movement/",
     "classification": [
@@ -4725,6 +5262,19 @@
     ],
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Dead Letter Channel Pattern",
+    "url": "/patterns/dead-letter-channel-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "_The Dead Letter Channel is a design pattern that provides a mechanism for handling messages that cannot be delivered to their intended destination in a messaging system. This pattern is essential for",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 4
   },
   {
     "title": "Decentralized AI",
@@ -4781,6 +5331,19 @@
     "score": 3
   },
   {
+    "title": "Decentralized Identity Pattern",
+    "url": "/patterns/decentralized-identity-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Decentralized Identity pattern, often associated with the concept of Self-Sovereign Identity (SSI), represents a fundamental shift in how digital identity is managed. Instead of relying on central",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 4
+  },
+  {
     "title": "Deep Learning for Defect Detection",
     "url": "/patterns/deep-learning-for-defect-detection/",
     "classification": [
@@ -4817,9 +5380,7 @@
     ],
     "description": "Defensibility Moats, in the context of platform design, represent the structural barriers and competitive advantages that protect a platform from being successfully replicated or challenged by competi",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -4947,9 +5508,7 @@
     ],
     "description": "The Demand-First Strategy is a platform business model approach that prioritizes aggregating and engaging a critical mass of users on the demand side of a market before actively recruiting and integra",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -4978,9 +5537,7 @@
     ],
     "description": "Democratic Platform Governance represents a fundamental reimagining of the ownership and control of the digital infrastructure that underpins modern society. It is a model for designing, operating, an",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 5
@@ -4998,6 +5555,20 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Deployment Stamps Pattern",
+    "url": "/patterns/deployment-stamps-pattern/",
+    "classification": [
+      "practice",
+      "process"
+    ],
+    "description": "The Deployment Stamps pattern, also known as Scale Unit or Service Unit, is a design approach that involves deploying multiple independent and identical copies of an application and its components. Ea",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Design for Aesthetics",
@@ -5337,9 +5908,7 @@
     ],
     "description": "Developer Experience (DX) Design is a practice focused on improving the holistic experience of developers as they interact with tools, platforms, processes, and systems to build, test, deploy, and mai",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -5353,9 +5922,7 @@
     ],
     "description": "Developer Relations, often abbreviated as DevRel, is a strategic and interdisciplinary field that bridges the gap between a company and the developer community. It is the practice of building and nurt",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -5411,9 +5978,7 @@
     ],
     "description": "The Digital Commons refers to a classification of resources, in this case digital, that are collectively owned and managed by a community of users. These resources are not owned by a single entity, bu",
     "domains": [
-      "platform",
-      "social",
-      "polity"
+      "platform"
     ],
     "domain": "platform",
     "score": 5
@@ -5550,13 +6115,11 @@
     "title": "Disintermediation Defense",
     "url": "/patterns/disintermediation-defense/",
     "classification": [
-      "strategy"
+      "practice"
     ],
     "description": "Disintermediation Defense is a strategic pattern employed by platform businesses to prevent users\u2014both producers and consumers\u2014from bypassing the platform to connect and transact directly. This circum",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 2
@@ -5565,13 +6128,11 @@
     "title": "Dispute Resolution Mechanism",
     "url": "/patterns/dispute-resolution-mechanism/",
     "classification": [
-      "mechanism"
+      "practice"
     ],
     "description": "A Dispute Resolution Mechanism is a structured process or system designed to facilitate the resolution of conflicts and disagreements between users on a digital platform. This mechanism provides a for",
     "domains": [
-      "platform",
-      "social",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -5653,6 +6214,19 @@
     "score": 4
   },
   {
+    "title": "Distributed Locking Pattern",
+    "url": "/patterns/distributed-locking-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Distributed Locking pattern is a fundamental mechanism in distributed computing for ensuring mutually exclusive access to a shared resource across multiple processes or nodes. In a distributed sys",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 2
+  },
+  {
     "title": "Distributed Manufacturing",
     "url": "/patterns/distributed-manufacturing/",
     "classification": [
@@ -5666,6 +6240,19 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Distributed Tracing Pattern",
+    "url": "/patterns/distributed-tracing-pattern/",
+    "classification": [
+      "tool"
+    ],
+    "description": "Distributed tracing is a method used to monitor and profile applications, especially those built using a microservices architecture. It provides a holistic view of a request as it travels through the ",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Diverse Hiring",
@@ -5741,6 +6328,19 @@
     "score": 3
   },
   {
+    "title": "DNS-based Routing Pattern",
+    "url": "/patterns/dns-based-routing-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "_The DNS-based Routing pattern uses the Domain Name System (DNS) to distribute traffic across multiple, geographically dispersed servers or services. It is a foundational technique for building scalab",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "DO-178C (Software in Airborne Systems)",
     "url": "/patterns/do-178c-software-in-airborne-systems/",
     "classification": [
@@ -5768,6 +6368,19 @@
     ],
     "domain": "startup",
     "score": 4
+  },
+  {
+    "title": "Documentation as Code Pattern",
+    "url": "/patterns/documentation-as-code-pattern/",
+    "classification": [
+      "process"
+    ],
+    "description": "**Documentation as Code (Docs-as-Code)** is a methodology where documentation is treated with the same importance and processes as software code. This approach involves writing, managing, and publishi",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Documentation Culture",
@@ -5812,6 +6425,19 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Domain Event Pattern",
+    "url": "/patterns/domain-event-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Domain Event pattern is a key concept in Domain-Driven Design (DDD) that involves modeling significant business events as immutable facts. It represents something that has happened in the past wit",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Donut Economics - Documented",
@@ -5959,6 +6585,19 @@
     "score": 4
   },
   {
+    "title": "Dynamic Router Pattern",
+    "url": "/patterns/dynamic-router-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Dynamic Router is a messaging pattern that enables the routing of messages to different destinations based on a set of rules that can be changed at runtime. This pattern is particularly useful in ",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Dynamic Systems Development Method (DSDM)",
     "url": "/patterns/dynamic-systems-development-method-dsdm/",
     "classification": [
@@ -6055,9 +6694,7 @@
     ],
     "description": "Ecosystem Health Metrics represent a comprehensive framework for evaluating the vitality, resilience, and overall well-being of a platform ecosystem. This pattern adapts principles from ecological sci",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -6199,6 +6836,19 @@
     "score": 3
   },
   {
+    "title": "Embedding Management Pattern",
+    "url": "/patterns/embedding-management-pattern/",
+    "classification": [
+      "tool"
+    ],
+    "description": "Platform Pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "EMC/EMI Design for Compliance",
     "url": "/patterns/emcemi-design-for-compliance/",
     "classification": [
@@ -6320,9 +6970,7 @@
     ],
     "description": "The \"Enable Personalization with Independent Providers\" pattern describes a strategic shift away from centralized, platform-controlled user data models towards a decentralized ecosystem where individu",
     "domains": [
-      "platform",
-      "social",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -6444,13 +7092,11 @@
     "title": "Escrow Mechanism",
     "url": "/patterns/escrow-mechanism/",
     "classification": [
-      "mechanism"
+      "practice"
     ],
     "description": "The Escrow Mechanism is a financial and legal arrangement wherein a trusted third party holds and regulates payment of the funds required for two parties involved in a given transaction. It helps make",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -6515,6 +7161,19 @@
     "score": 4
   },
   {
+    "title": "Event-Driven Architecture Pattern",
+    "url": "/patterns/event-driven-architecture-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "Event-Driven Architecture (EDA) is a software architecture paradigm centered around the production, detection, and consumption of events. An event is a significant change in state, such as a user plac",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Event-Driven Architecture",
     "url": "/patterns/event-driven-architecture/",
     "classification": [
@@ -6534,14 +7193,42 @@
     "title": "Event Marketing",
     "url": "/patterns/event-marketing/",
     "classification": [
-      "growth"
+      "practice"
     ],
-    "description": "'''",
+    "description": "Event marketing is a strategic marketing approach that involves the conceptualization, planning, promotion, and execution of events to promote a brand, product, service, or cause. The core purpose of ",
     "domains": [
-      "startup"
+      "platform"
     ],
-    "domain": "startup",
-    "score": 0.7
+    "domain": "platform",
+    "score": 4
+  },
+  {
+    "title": "Event Sourcing Pattern",
+    "url": "/patterns/event-sourcing-pattern/",
+    "classification": [
+      "tool",
+      "practice"
+    ],
+    "description": "The Event Sourcing pattern is a design approach that captures all changes to an application's state as an immutable sequence of events. Instead of storing the current state of the data, the system rec",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Eventual Consistency Pattern",
+    "url": "/patterns/eventual-consistency-pattern/",
+    "classification": [
+      "tool",
+      "practice"
+    ],
+    "description": "The Eventual Consistency pattern is a consistency model used in distributed computing to achieve high availability and scalability [1]. It guarantees that, if no new updates are made to a given data i",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Evolutionary Economics",
@@ -6556,6 +7243,19 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Exception Tracking Pattern",
+    "url": "/patterns/exception-tracking-pattern/",
+    "classification": [
+      "tool"
+    ],
+    "description": "The Exception Tracking pattern is a crucial component of modern software observability, providing a systematic approach to capturing, aggregating, and analyzing exceptions that occur within an applica",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Exit Interviews",
@@ -6667,9 +7367,7 @@
     ],
     "description": "The Expertise Network Effect is a powerful, yet subtle, force that shapes industries and careers. It describes a specific type of network effect where the value of a tool or platform increases as more",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -6705,6 +7403,19 @@
     "score": 4
   },
   {
+    "title": "Exponential Backoff Pattern",
+    "url": "/patterns/exponential-backoff-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Exponential Backoff pattern is a fault tolerance and system stability strategy used in distributed systems and networking. It addresses the problem of how to handle transient failures when communi",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Extension Round",
     "url": "/patterns/extension-round/",
     "classification": [
@@ -6717,6 +7428,20 @@
     ],
     "domain": "startup",
     "score": 0.7
+  },
+  {
+    "title": "External Configuration Store",
+    "url": "/patterns/external-configuration-store/",
+    "classification": [
+      "process",
+      "practice"
+    ],
+    "description": "The External Configuration Store pattern is a design approach that involves separating application configuration from the application code and storing it in a centralized, external location. This allo",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Extreme Programming (XP) - Beck's Methodology",
@@ -6774,6 +7499,20 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Faceted Search Pattern",
+    "url": "/patterns/faceted-search-pattern/",
+    "classification": [
+      "tool",
+      "practice"
+    ],
+    "description": "The Faceted Search pattern, also known as faceted navigation or faceted browsing, is a technique for accessing information organized according to a faceted classification system, allowing users to exp",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Fail Fast Philosophy",
@@ -6910,6 +7649,19 @@
     "score": 4
   },
   {
+    "title": "Feature Store Pattern",
+    "url": "/patterns/feature-store-pattern/",
+    "classification": [
+      "tool"
+    ],
+    "description": "A feature store is a central repository for storing, managing, and serving features for machine learning models. It acts as a single source of truth for features, ensuring consistency and reusability ",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Federated Architecture",
     "url": "/patterns/federated-architecture/",
     "classification": [
@@ -6917,9 +7669,7 @@
     ],
     "description": "Federated architecture is an increasingly significant pattern in enterprise and system design, representing a shift away from monolithic, centralized structures towards a more decentralized and collab",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -6967,6 +7717,19 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Federated Identity Pattern",
+    "url": "/patterns/federated-identity-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Federated Identity pattern is a mechanism for delegating authentication from a single application or service to an external, trusted identity provider (IdP). This pattern allows a user to access m",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Federated Learning Architecture",
@@ -7304,14 +8067,14 @@
     "title": "Founder-Controlled Board",
     "url": "/patterns/founder-controlled-board/",
     "classification": [
-      "governance"
+      "practice"
     ],
-    "description": "'''",
+    "description": "A Founder-Controlled Board is a corporate governance structure where the founders of a company retain majority voting power on the board of directors. This control is typically achieved by holding a m",
     "domains": [
-      "startup"
+      "platform"
     ],
-    "domain": "startup",
-    "score": 0.7
+    "domain": "platform",
+    "score": 4
   },
   {
     "title": "Founder Dictatorship",
@@ -7606,6 +8369,45 @@
     "score": 3
   },
   {
+    "title": "Gateway Aggregation Pattern",
+    "url": "/patterns/gateway-aggregation-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Gateway Aggregation pattern is a design pattern used in software architecture to simplify communication between a client and multiple backend services. It involves using a single entry point, an A",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Gateway Offloading Pattern",
+    "url": "/patterns/gateway-offloading-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Gateway Offloading pattern is a design pattern used in software architecture to simplify application development by moving shared or specialized service functionality from individual application c",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Gateway Routing Pattern",
+    "url": "/patterns/gateway-routing-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Gateway Routing pattern is a design pattern used in software architecture to route requests to multiple services or multiple service instances using a single endpoint. This pattern is particularly",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "GE-McKinsey Matrix - Nine-box matrix",
     "url": "/patterns/ge-mckinsey-matrix-nine-box-matrix/",
     "classification": [
@@ -7693,6 +8495,19 @@
     "score": 4
   },
   {
+    "title": "Generation Clock Pattern",
+    "url": "/patterns/generation-clock-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Generation Clock is a design pattern used in distributed systems to ensure consistency and order in the presence of failures, particularly in leader-based replication models. It is a monotonically",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Generative Design",
     "url": "/patterns/generative-design/",
     "classification": [
@@ -7723,16 +8538,27 @@
     "score": 4
   },
   {
+    "title": "Geode Pattern",
+    "url": "/patterns/geode-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Geode pattern is a design pattern for distributed systems that emphasizes global scalability and resilience. It involves deploying a collection of backend services into a set of geographical nodes",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Geographic Expansion Strategy",
     "url": "/patterns/geographic-expansion-strategy/",
     "classification": [
-      "strategy"
+      "practice"
     ],
     "description": "Geographic Expansion Strategy is a core business growth pattern that involves a platform or organization extending its operations, services, or product offerings into new geographical markets. This ca",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -7843,6 +8669,19 @@
     "score": 4
   },
   {
+    "title": "GitOps Pattern",
+    "url": "/patterns/gitops-pattern/",
+    "classification": [
+      "process"
+    ],
+    "description": "GitOps is an operational framework that takes DevOps best practices used for application development such as version control, collaboration, compliance, and CI/CD, and applies them to infrastructure a",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "GitOps",
     "url": "/patterns/gitops/",
     "classification": [
@@ -7945,6 +8784,19 @@
     "score": 3
   },
   {
+    "title": "Gossip Protocol Pattern",
+    "url": "/patterns/gossip-protocol-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Gossip Protocol, also known as the Epidemic Protocol, is a decentralized, peer-to-peer communication mechanism for distributing information in large-scale distributed systems. The protocol's desig",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Governance Theater",
     "url": "/patterns/governance-theater/",
     "classification": [
@@ -7973,6 +8825,19 @@
     "score": 0.7
   },
   {
+    "title": "Graceful Degradation Pattern",
+    "url": "/patterns/graceful-degradation-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Graceful Degradation pattern is a design philosophy focused on building resilient systems that can maintain essential functionality even when parts of the system fail or are under duress. Rather t",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Graceful Exits",
     "url": "/patterns/graceful-exits/",
     "classification": [
@@ -7986,6 +8851,19 @@
     "score": 0.7
   },
   {
+    "title": "Graduated Membership Pattern",
+    "url": "/patterns/graduated-membership-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Graduated Membership Pattern, also known as Tiered Membership, is a model that offers multiple levels of membership, each with a different set of benefits, at varying price points. This pattern al",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Graduated Sanctions",
     "url": "/patterns/graduated-sanctions/",
     "classification": [
@@ -7993,9 +8871,7 @@
     ],
     "description": "Graduated sanctions are a foundational pattern for fostering cooperation and maintaining order within a community by applying responses to rule violations that escalate in severity. This mechanism avo",
     "domains": [
-      "platform",
-      "social",
-      "polity"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -8013,6 +8889,32 @@
     ],
     "domain": "startup",
     "score": 0.7
+  },
+  {
+    "title": "Graph-Based Recommendation Engine",
+    "url": "/patterns/graph-based-recommendation-engine/",
+    "classification": [
+      "tool"
+    ],
+    "description": "A graph-based recommendation engine is a system that utilizes graph data structures to model and analyze relationships between users, items, and their interactions, ultimately providing personalized r",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "GraphQL API Pattern",
+    "url": "/patterns/graphql-api-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. It provides a more efficient, powerful and flexible alternative to the traditional REST API. Gr",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Green Building (LEED, BREEAM)",
@@ -8132,6 +9034,19 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "gRPC Communication Pattern",
+    "url": "/patterns/grpc-communication-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "gRPC (gRPC Remote Procedure Calls) is a high-performance, open-source universal RPC framework. Initially developed by Google, gRPC is now a part of the Cloud Native Computing Foundation (CNCF). It is ",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Guanxi Networks in Product Development",
@@ -8290,13 +9205,51 @@
     "title": "Headless Platform",
     "url": "/patterns/headless-platform/",
     "classification": [
-      "architecture"
+      "practice"
     ],
     "description": "A Headless Platform is an architectural pattern where the backend (the \"body\") of a platform is decoupled from the frontend (the \"head\"). In this model, the backend is responsible for data storage, bu",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Health Check API Pattern",
+    "url": "/patterns/health-check-api-pattern/",
+    "classification": [
+      "tool",
+      "practice"
+    ],
+    "description": "The Health Check API pattern is a fundamental design pattern for building resilient and observable distributed systems. It involves exposing an endpoint from a service that external tools can query to",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Health Endpoint Monitoring",
+    "url": "/patterns/health-endpoint-monitoring/",
+    "classification": [
+      "tool"
+    ],
+    "description": "The Health Endpoint Monitoring pattern is a fundamental design pattern in modern software architecture, particularly in distributed systems and microservices. It involves exposing a specific endpoint ",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Heartbeat Pattern",
+    "url": "/patterns/heartbeat-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Heartbeat pattern is a fundamental concept in distributed systems that enables components to monitor each other's availability and health. It involves a component periodically sending a \"heartbeat",
+    "domains": [
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -8484,9 +9437,7 @@
     ],
     "description": "The Hub-and-Spoke Network is a foundational pattern in network topology, representing a centralized model where a single, central hub connects to multiple, peripheral nodes, known as spokes. In this a",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -8578,6 +9529,19 @@
     ],
     "domain": "business",
     "score": 3
+  },
+  {
+    "title": "Hybrid Clock Pattern",
+    "url": "/patterns/hybrid-clock-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Hybrid Clock pattern, often referred to as Hybrid Logical Clock (HLC), is a mechanism for timekeeping and event ordering in distributed systems. It combines the advantages of physical clocks (whic",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 2
   },
   {
     "title": "Hybrid Combinations",
@@ -8731,6 +9695,19 @@
     "score": 4
   },
   {
+    "title": "Idempotent Consumer Pattern",
+    "url": "/patterns/idempotent-consumer-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Idempotent Consumer is a design pattern used in distributed systems to ensure that processing a message multiple times produces the same result as processing it once. This pattern is essential for",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Identity Verification",
     "url": "/patterns/identity-verification/",
     "classification": [
@@ -8738,9 +9715,7 @@
     ],
     "description": "Identity verification is the process of confirming that an individual is who they claim to be. In the digital realm, this typically involves a user presenting a claimed identity, such as a username or",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -8760,6 +9735,20 @@
     ],
     "domain": "business",
     "score": 2
+  },
+  {
+    "title": "Immutable Infrastructure Pattern",
+    "url": "/patterns/immutable-infrastructure-pattern/",
+    "classification": [
+      "process",
+      "practice"
+    ],
+    "description": "The Immutable Infrastructure pattern is a transformative approach to managing services and software deployments. In this model, infrastructure components like servers, containers, or virtual machines ",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Immutable Infrastructure",
@@ -8903,6 +9892,19 @@
     ],
     "domain": "startup",
     "score": 0.7
+  },
+  {
+    "title": "Index Table Pattern",
+    "url": "/patterns/index-table-pattern/",
+    "classification": [
+      "tool"
+    ],
+    "description": "The Index Table pattern is a design pattern used to improve query performance in data stores by creating indexes over fields that are frequently referenced by queries. This allows applications to more",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Indian Joint Family Business",
@@ -9160,6 +10162,19 @@
     "score": 4
   },
   {
+    "title": "Infrastructure as Code Pattern",
+    "url": "/patterns/infrastructure-as-code-pattern/",
+    "classification": [
+      "process"
+    ],
+    "description": "Infrastructure as Code (IaC) is the practice of managing and provisioning computing infrastructure through machine-readable definition files, rather than through physical hardware configuration or int",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Infrastructure as Code Security",
     "url": "/patterns/infrastructure-as-code-security/",
     "classification": [
@@ -9214,6 +10229,19 @@
     "score": 0.7
   },
   {
+    "title": "Inner Source Pattern",
+    "url": "/patterns/inner-source-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "In large organizations, software development can become siloed, leading to duplicated effort, inconsistent standards, and a lack of collaboration between teams. This can result in lower quality code, ",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 4
+  },
+  {
     "title": "Innovation Accounting",
     "url": "/patterns/innovation-accounting/",
     "classification": [
@@ -9262,9 +10290,7 @@
     ],
     "description": "The Insurance Guarantee Model is a strategic framework employed by digital platforms to foster trust and mitigate risk for their users. At its core, this model involves the platform providing a form o",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -9865,6 +10891,19 @@
     "score": 3
   },
   {
+    "title": "Kappa Architecture Pattern",
+    "url": "/patterns/kappa-architecture-pattern/",
+    "classification": [
+      "tool"
+    ],
+    "description": "The Kappa Architecture is a software architecture pattern for processing streaming data. It simplifies traditional data processing pipelines by using a single technology stack for both real-time and b",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Keynesian Economics",
     "url": "/patterns/keynesian-economics/",
     "classification": [
@@ -9909,16 +10948,41 @@
     "score": 0.7
   },
   {
+    "title": "Knowledge Graph Construction Pattern",
+    "url": "/patterns/knowledge-graph-construction-pattern/",
+    "classification": [
+      "tool"
+    ],
+    "description": "The Knowledge Graph Construction Pattern is a design pattern that outlines a systematic approach to building knowledge graphs. A knowledge graph is a structured representation of knowledge that connec",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Knowledge Graph Federation Pattern",
+    "url": "/patterns/knowledge-graph-federation-pattern/",
+    "classification": [
+      "tool",
+      "practice"
+    ],
+    "description": "The Knowledge Graph Federation pattern addresses the challenge of integrating and querying data from multiple, distributed knowledge graphs without creating a single, monolithic repository. This patte",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Knowledge Graph Platform",
     "url": "/patterns/knowledge-graph-platform/",
     "classification": [
-      "model"
+      "practice"
     ],
     "description": "A Knowledge Graph Platform is a comprehensive data management and integration platform that uses a graph-structured data model to connect vast amounts of heterogeneous data from various sources. Unlik",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -9996,6 +11060,32 @@
     "score": 3
   },
   {
+    "title": "Lambda Architecture Pattern",
+    "url": "/patterns/lambda-architecture-pattern/",
+    "classification": [
+      "tool"
+    ],
+    "description": "The Lambda Architecture is a data-processing design pattern that handles massive quantities of data by combining both batch and real-time processing methods [1]. It was introduced by Nathan Marz to ad",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Lamport Clock Pattern",
+    "url": "/patterns/lamport-clock-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Lamport Clock, also known as a Lamport timestamp, is a fundamental mechanism in distributed systems for providing a partial ordering of events. It was introduced by Leslie Lamport in his seminal 1",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 2
+  },
+  {
     "title": "Land and Expand",
     "url": "/patterns/land-and-expand/",
     "classification": [
@@ -10032,9 +11122,7 @@
     ],
     "description": "The Language Network Effect is a potent, socially-driven phenomenon where the inherent value of a language or a communication standard escalates in direct proportion to the number of individuals who a",
     "domains": [
-      "platform",
-      "social",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -10081,6 +11169,19 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Leader Election Pattern",
+    "url": "/patterns/leader-election-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Leader Election pattern is a foundational concept in distributed systems that addresses the need for coordination among a group of collaborating instances. In many distributed applications, certai",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Leader-Member Exchange (LMX)",
@@ -10315,6 +11416,19 @@
     "score": 3
   },
   {
+    "title": "Lease Pattern",
+    "url": "/patterns/lease-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Lease pattern is a fundamental concept in distributed systems that provides a mechanism for coordinating the activities of multiple nodes by granting temporary, exclusive access to a shared resour",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Leasing Model",
     "url": "/patterns/leasing-model/",
     "classification": [
@@ -10346,13 +11460,11 @@
     "title": "Let the Best Emerge",
     "url": "/patterns/let-the-best-emerge/",
     "classification": [
-      "strategy"
+      "practice"
     ],
     "description": "\"Let the Best Emerge\" is a platform design pattern that prioritizes the creation of systems and processes that allow for the most valuable contributions, ideas, and participants to naturally rise to t",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -10404,6 +11516,33 @@
     "score": 3
   },
   {
+    "title": "Linked Data Pattern",
+    "url": "/patterns/linked-data-pattern/",
+    "classification": [
+      "tool",
+      "practice"
+    ],
+    "description": "_The Linked Data pattern provides a set of best practices for publishing and connecting structured data on the Web, enabling the creation of a global data graph._",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Liquid Democracy Pattern",
+    "url": "/patterns/liquid-democracy-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "Liquid Democracy is a powerful voting model that gives individuals the flexibility to either vote directly on issues or delegate their voting power to a trusted representative. This pattern aims to cr",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Liquidation Preferences",
     "url": "/patterns/liquidation-preferences/",
     "classification": [
@@ -10446,6 +11585,19 @@
     ],
     "domain": "startup",
     "score": 0.7
+  },
+  {
+    "title": "Load Balancing Pattern",
+    "url": "/patterns/load-balancing-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Load Balancing pattern is a fundamental design pattern in software architecture that focuses on distributing incoming network traffic across multiple backend servers or resources. The primary goal",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Local Manufacturing",
@@ -10499,12 +11651,36 @@
     ],
     "description": "Lock-in mechanisms are strategic measures implemented by a company or platform to create dependency and make it difficult or costly for customers to switch to a competitor. This pattern, often conside",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 1
+  },
+  {
+    "title": "Log Aggregation Pattern",
+    "url": "/patterns/log-aggregation-pattern/",
+    "classification": [
+      "tool"
+    ],
+    "description": "The Log Aggregation pattern is a fundamental component of modern, distributed software architectures. It involves centralizing log data from various services and components into a single, unified loca",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Long Polling Pattern",
+    "url": "/patterns/long-polling-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "Long Polling is a design pattern that enables a server to push information to a client in a way that emulates a persistent connection over HTTP. It is a variation of the traditional polling technique ",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "LTV (Lifetime Value)",
@@ -10656,15 +11832,14 @@
     "title": "Management Buyout (MBO)",
     "url": "/patterns/management-buyout-mbo/",
     "classification": [
-      "governance"
+      "practice"
     ],
-    "description": "'''",
+    "description": "A Management Buyout (MBO) is a corporate finance transaction in which the existing management team of a company acquires a significant portion, or all, of the business from the current owners. The pri",
     "domains": [
-      "startup",
-      "business"
+      "platform"
     ],
-    "domain": "startup",
-    "score": 0.7
+    "domain": "platform",
+    "score": 4
   },
   {
     "title": "Management by Objectives (Drucker)",
@@ -10735,9 +11910,7 @@
     ],
     "description": "The Market Network Effect is a sophisticated and increasingly prevalent business model that synergistically combines the transactional efficiencies of a marketplace, the relational dynamics of a socia",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -10778,9 +11951,7 @@
     ],
     "description": "Marketplace-as-a-Service (MaaS) is a business and technology model where a provider offers a comprehensive, ready-to-use platform that enables businesses to create, launch, and manage their own online",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -10793,9 +11964,7 @@
     ],
     "description": "Marketplace Curation is a strategic approach to platform design where the supply of goods, services, or content is intentionally selected, vetted, and organized by the platform operator. Unlike compre",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -10823,9 +11992,7 @@
     ],
     "description": "The Marquee User Strategy is a strategic approach employed by platform businesses to overcome the critical \"chicken-and-egg\" problem inherent in their formation. This challenge arises from the interde",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -11023,6 +12190,32 @@
     "score": 3
   },
   {
+    "title": "Message Filter Pattern",
+    "url": "/patterns/message-filter-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Message Filter pattern is a fundamental design pattern in messaging and integration architectures. It provides a mechanism to control the flow of messages by selectively processing or discarding t",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Messaging Bridge Pattern",
+    "url": "/patterns/messaging-bridge-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Messaging Bridge pattern is a fundamental integration pattern used to connect disparate messaging systems, enabling them to communicate and exchange messages seamlessly. This pattern acts as a tra",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Metamodernism (Hanzi Freinacht)",
     "url": "/patterns/metamodernism-hanzi-freinacht/",
     "classification": [
@@ -11091,6 +12284,20 @@
       "business"
     ],
     "domain": "security",
+    "score": 3
+  },
+  {
+    "title": "Microservice Chassis Pattern",
+    "url": "/patterns/microservice-chassis-pattern/",
+    "classification": [
+      "process",
+      "practice"
+    ],
+    "description": "The Microservice Chassis pattern is a foundational design pattern in microservices architecture. It addresses the need to standardize and centralize common cross-cutting concerns that are essential fo",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "score": 3
   },
   {
@@ -11212,6 +12419,19 @@
     "score": 4
   },
   {
+    "title": "ML Pipeline Orchestration Pattern",
+    "url": "/patterns/ml-pipeline-orchestration-pattern/",
+    "classification": [
+      "process"
+    ],
+    "description": "The ML Pipeline Orchestration pattern automates and manages the entire lifecycle of machine learning models, from data preparation to deployment and monitoring. This pattern provides a structured and ",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Model Approval Workflow",
     "url": "/patterns/model-approval-workflow/",
     "classification": [
@@ -11282,6 +12502,19 @@
       "security"
     ],
     "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Model Serving Pattern",
+    "url": "/patterns/model-serving-pattern/",
+    "classification": [
+      "process"
+    ],
+    "description": "**Author:** Manus AI",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "score": 3
   },
   {
@@ -11413,15 +12646,13 @@
     "title": "Montessori Method",
     "url": "/patterns/montessori-method/",
     "classification": [
-      "methodology"
+      "practice"
     ],
     "description": "The Montessori Method is a child-centered educational approach developed by Dr. Maria Montessori in the early 20th century. It is founded on the belief that children are naturally eager to learn and p",
     "domains": [
-      "business",
-      "startup",
-      "security"
+      "platform"
     ],
-    "domain": "business",
+    "domain": "platform",
     "score": 4
   },
   {
@@ -11483,6 +12714,19 @@
     "score": 3
   },
   {
+    "title": "Multi-Entity Governance Pattern",
+    "url": "/patterns/multi-entity-governance-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "_**DISCLAIMER: This is a generated platform pattern. It may not be accurate or complete. Please do your own research before implementing this pattern.**_",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Multi-Factor Authentication (MFA)",
     "url": "/patterns/multi-factor-authentication-mfa/",
     "classification": [
@@ -11514,13 +12758,11 @@
     "title": "Multi-Homing Strategy",
     "url": "/patterns/multi-homing-strategy/",
     "classification": [
-      "strategy"
+      "practice"
     ],
     "description": "The Multi-Homing Strategy is a critical concept in the realm of platform ecosystems, describing the decision of a user or complementor to concurrently connect with and participate in multiple platform",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -11534,9 +12776,7 @@
     ],
     "description": "A multi-sided market, also known as a multi-sided platform (MSP), is an economic platform that creates value by facilitating interactions between two or more distinct but interdependent groups of cust",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -11593,8 +12833,7 @@
     ],
     "description": "Multi-tenancy is a software architecture pattern in which a single instance of a software application serves multiple customers. Each customer is referred to as a tenant. Tenants may be given the abil",
     "domains": [
-      "platform",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -11983,9 +13222,7 @@
     ],
     "description": "The Niche-to-Mass Strategy is a market penetration model that advocates for initially focusing on a small, specific, and well-defined market segment\u2014a niche\u2014and dominating it before expanding to broad",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -12032,6 +13269,32 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "OAuth2 Authorization Framework",
+    "url": "/patterns/oauth2-authorization-framework/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The OAuth 2.0 Authorization Framework is an open standard for access delegation, commonly used as a way for internet users to grant websites or applications access to their information on other websit",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Observability Three Pillars",
+    "url": "/patterns/observability-three-pillars/",
+    "classification": [
+      "tool"
+    ],
+    "description": "The Observability Three Pillars pattern is a foundational concept in modern software engineering and system monitoring. It posits that a comprehensive understanding of a system's internal state can be",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Office-First",
@@ -12112,9 +13375,7 @@
     ],
     "description": "Onboarding Flow Design is the systematic process of guiding new users through their initial interaction with a product or service, with the primary goal of helping them understand its value and achiev",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -12207,6 +13468,20 @@
     "score": 4
   },
   {
+    "title": "Ontology Design Pattern",
+    "url": "/patterns/ontology-design-pattern/",
+    "classification": [
+      "tool",
+      "practice"
+    ],
+    "description": "The Ontology Design Pattern (ODP) is a reusable solution to a recurrent modeling problem in the context of ontology engineering. Ontologies, in information science, are formal, explicit specifications",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Open API Strategy",
     "url": "/patterns/open-api-strategy/",
     "classification": [
@@ -12214,9 +13489,7 @@
     ],
     "description": "An Open API Strategy is a deliberate and strategic approach by an organization to expose its digital services and data to external developers, partners, and the public through a set of well-documented",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -12274,9 +13547,7 @@
     ],
     "description": "An Open Protocol Platform is a type of digital ecosystem where the rules of interaction are governed by open, publicly documented standards rather than a central, proprietary entity. Unlike traditiona",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -12380,6 +13651,20 @@
       "business"
     ],
     "domain": "security",
+    "score": 3
+  },
+  {
+    "title": "Optimistic Locking Pattern",
+    "url": "/patterns/optimistic-locking-pattern/",
+    "classification": [
+      "tool",
+      "practice"
+    ],
+    "description": "The Optimistic Locking pattern, also known as Optimistic Concurrency Control (OCC), is a concurrency control method used in transactional systems to manage simultaneous access to shared data. It assum",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "score": 3
   },
   {
@@ -12871,6 +14156,20 @@
     "score": 3
   },
   {
+    "title": "Per-Tenant Customization Pattern",
+    "url": "/patterns/per-tenant-customization-pattern/",
+    "classification": [
+      "practice",
+      "tool"
+    ],
+    "description": "The Per-Tenant Customization pattern addresses the need to provide tailored experiences for different tenants within a multi-tenant software architecture. In a multi-tenant system, where a single inst",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 2
+  },
+  {
     "title": "Performance Improvement Plans (PIPs)",
     "url": "/patterns/performance-improvement-plans-pips/",
     "classification": [
@@ -12999,9 +14298,7 @@
     ],
     "description": "The Personal Network Effect is a specific and potent type of direct network effect where the value of a product or service for a user increases as more of their personal, real-world connections\u2014friend",
     "domains": [
-      "platform",
-      "social",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -13014,9 +14311,7 @@
     ],
     "description": "The Personal Utility Network Effect is a powerful force in the digital world, describing a specific type of direct network effect where the value of a service for each user increases as more of their ",
     "domains": [
-      "platform",
-      "social",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -13048,6 +14343,20 @@
       "security"
     ],
     "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Pessimistic Locking Pattern",
+    "url": "/patterns/pessimistic-locking-pattern/",
+    "classification": [
+      "tool",
+      "practice"
+    ],
+    "description": "Pessimistic locking is a concurrency control strategy that prevents data conflicts by assuming that concurrent access to the same data will likely result in a conflict [1]. To prevent this, the patter",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "score": 3
   },
   {
@@ -13103,9 +14412,7 @@
     ],
     "description": "The Physical Network Effect is a powerful strategic pattern where the value of a service or product increases for all users as more physical infrastructure is added to the network. This effect is most",
     "domains": [
-      "platform",
-      "urban",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "score": 2
@@ -13118,9 +14425,20 @@
     ],
     "description": "The Piggyback Strategy is a market entry or growth strategy where a new product or service leverages the existing infrastructure, user base, or platform of an established and often larger entity. Inst",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Pipes and Filters Pattern",
+    "url": "/patterns/pipes-and-filters-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Pipes and Filters architectural pattern is a design for processing streams of data. It decomposes a complex processing task into a series of discrete, independent components called filters, connec",
+    "domains": [
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -13192,9 +14510,7 @@
     ],
     "description": "The Platform-as-Infrastructure (PaI) pattern represents a paradigm shift in how organizations provision, manage, and consume infrastructure resources. At its core, PaI is the practice of treating infr",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -13207,9 +14523,7 @@
     ],
     "description": "Platform bundling is a strategic practice where two or more products, services, or applications are packaged and offered as a single, combined unit. This approach is prevalent in the digital economy, ",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -13238,9 +14552,7 @@
     ],
     "description": "A Platform Constitution is a foundational document that formally articulates the principles, rules, rights, and responsibilities governing a digital platform and its community of users. It functions a",
     "domains": [
-      "platform",
-      "polity",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -13279,9 +14591,7 @@
     ],
     "description": "The Platform Dependency Trap is a critical anti-pattern in the digital economy, describing a scenario where an individual, organization, or even an entire economy becomes excessively reliant on a sing",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 1
@@ -13294,9 +14604,7 @@
     ],
     "description": "Platform Differentiation is the strategic process by which a platform ecosystem intentionally cultivates unique characteristics and value propositions to distinguish itself from competitors. In a worl",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -13354,9 +14662,7 @@
     ],
     "description": "Platform Enshittification is a critical anti-pattern that describes the predictable, cyclical degradation of quality on online platforms. Coined by author and activist Cory Doctorow, the term captures",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 1
@@ -13369,9 +14675,7 @@
     ],
     "description": "Platform Envelopment is a competitive strategy where a provider of one platform enters an adjacent market by bundling its existing platform's functionality with that of the target market's platform. T",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 2
@@ -13395,13 +14699,11 @@
     "title": "Platform Interoperability",
     "url": "/patterns/platform-interoperability/",
     "classification": [
-      "strategy"
+      "practice"
     ],
     "description": "Platform interoperability is the ability of different digital platforms, systems, and applications to connect and communicate with each other, enabling the seamless exchange of data and functionality.",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -13428,9 +14730,7 @@
     ],
     "description": "Platform Regulation Compliance is the practice by which digital platforms ensure their operations, services, and business models adhere to the legal and regulatory frameworks of the jurisdictions in w",
     "domains": [
-      "platform",
-      "polity",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -13443,9 +14743,7 @@
     ],
     "description": "A Platform SDK (Software Development Kit) is a curated collection of software development tools, libraries, documentation, and code samples that simplify the process of building applications for a spe",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -13473,9 +14771,7 @@
     ],
     "description": "Platform unbundling is a strategic process where the tightly integrated services and functionalities of a dominant platform are broken down and offered as standalone, specialized products or services.",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -13488,9 +14784,7 @@
     ],
     "description": "The Plugin Extension Architecture, also known as the Microkernel Architecture, is a software design pattern that enables the extension of a core application's functionality through the addition of ind",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -13523,6 +14817,19 @@
       "startup"
     ],
     "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Polycentric Governance Pattern",
+    "url": "/patterns/polycentric-governance-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "**Type:** Platform Pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "score": 3
   },
   {
@@ -13936,6 +15243,19 @@
     "score": 4
   },
   {
+    "title": "Priority Queue Pattern",
+    "url": "/patterns/priority-queue-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Priority Queue pattern is a messaging pattern that enables the processing of high-priority messages before lower-priority ones. In distributed systems, services often communicate asynchronously us",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Privacy by Default",
     "url": "/patterns/privacy-by-default/",
     "classification": [
@@ -14342,8 +15662,7 @@
     ],
     "description": "Progressive disclosure is an interaction design pattern that manages complexity by deferring advanced or rarely used features to a secondary screen, making applications and websites easier to learn an",
     "domains": [
-      "platform",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -14379,6 +15698,32 @@
     "score": 4
   },
   {
+    "title": "Prompt Engineering Pipeline",
+    "url": "/patterns/prompt-engineering-pipeline/",
+    "classification": [
+      "tool"
+    ],
+    "description": "You are developing a sophisticated application that leverages Large Language Models (LLMs) to perform complex tasks. These tasks require more than a single, static prompt. You need to dynamically cons",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Proposal Workflow Pattern",
+    "url": "/patterns/proposal-workflow-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "_**Pattern Name**_: Proposal Workflow Pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Protocol DAOs",
     "url": "/patterns/protocol-daos/",
     "classification": [
@@ -14401,9 +15746,7 @@
     ],
     "description": "A Protocol Network Effect is a powerful form of network effect that arises when a communications or computational standard is established, allowing all participants (nodes and node creators) to connec",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -14493,6 +15836,19 @@
       "security"
     ],
     "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Publisher-Subscriber Pattern",
+    "url": "/patterns/publisher-subscriber-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Publisher-Subscriber (or Pub/Sub) pattern is a messaging pattern where senders of messages, called publishers, do not program the messages to be sent directly to specific receivers, called subscri",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "score": 3
   },
   {
@@ -14629,6 +15985,19 @@
     "score": 3
   },
   {
+    "title": "Quarantine Pattern",
+    "url": "/patterns/quarantine-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Quarantine pattern is a design approach used to safeguard systems by isolating untrusted or potentially harmful components until they can be properly vetted and deemed safe for integration. This p",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Quechua/Aymara (Andes)",
     "url": "/patterns/quechuaaymara-andes/",
     "classification": [
@@ -14642,6 +16011,19 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Queue-Based Load Leveling",
+    "url": "/patterns/queue-based-load-leveling/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Queue-Based Load Leveling pattern is a foundational design principle in distributed systems and microservices architecture. It introduces a message queue as an intermediary buffer between a servic",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "R002: Steward Ownership",
@@ -14678,9 +16060,7 @@
     ],
     "description": "Race to the Bottom Pricing is a competitive strategy where companies progressively lower their prices to undercut competitors. This often leads to a downward spiral of price reductions, eroding profit",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 1
@@ -14714,16 +16094,27 @@
     "score": 3
   },
   {
+    "title": "Rate Limiting Pattern",
+    "url": "/patterns/rate-limiting-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Rate Limiting Pattern is a crucial mechanism in distributed systems designed to control the amount of traffic a service can handle. It restricts the number of requests a user or client can make to",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 4
+  },
+  {
     "title": "Razor-and-Blades Model",
     "url": "/patterns/razor-and-blades-model/",
     "classification": [
-      "model"
+      "practice"
     ],
     "description": "The Razor-and-Blades model, also known as the bait and hook model, is a business strategy that involves selling a durable product (the \"razor\") at a low price, or even at a loss, to drive sales of a c",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 1
@@ -14765,9 +16156,7 @@
     ],
     "description": "Re-intermediation is the process by which new intermediaries emerge in a market, often facilitated by technology, to replace or augment existing ones. While the early internet was often hailed as a fo",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 2
@@ -14785,6 +16174,19 @@
       "startup"
     ],
     "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Read Replica Pattern",
+    "url": "/patterns/read-replica-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Read Replica pattern is a fundamental database architecture strategy for scaling read-intensive applications. It involves creating one or more read-only copies, or replicas, of a primary database.",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "score": 3
   },
   {
@@ -14811,9 +16213,7 @@
     ],
     "description": "A recommendation engine, at its core, is a sophisticated class of algorithm and data-filtering tool that aims to predict and present to users the items (e.g., products, music, movies, news articles, e",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -14841,9 +16241,7 @@
     ],
     "description": "The pattern of \"Reduce Barriers to Market Entry\" is a strategic approach designed to foster innovation, increase competition, and broaden participation within a market or industry. It involves identif",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -14870,9 +16268,7 @@
     ],
     "description": "A Referral Program Design is a strategic marketing pattern that incentivizes existing customers, users, or members to recommend a product, service, or platform to their personal network. This pattern ",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -15184,9 +16580,7 @@
     ],
     "description": "Rent-Seeking Extraction is a platform anti-pattern where a dominant platform leverages its market power to extract disproportionate value from its ecosystem participants\u2014including users, developers, a",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 1
@@ -15220,6 +16614,20 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Replicated Log Pattern",
+    "url": "/patterns/replicated-log-pattern/",
+    "classification": [
+      "practice",
+      "tool"
+    ],
+    "description": "_The Replicated Log is a foundational pattern in distributed systems that ensures data consistency and fault tolerance across multiple nodes. It achieves this by maintaining an ordered, append-only lo",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "RepRap Project",
@@ -15278,9 +16686,7 @@
     ],
     "description": "Reputation Score Design is a critical mechanism in platform design, referring to the systematic process of creating, calculating, and displaying a quantitative or qualitative measure of a user's or en",
     "domains": [
-      "platform",
-      "social",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -15360,6 +16766,20 @@
     "score": 0.7
   },
   {
+    "title": "Retrieval-Augmented Generation Pattern",
+    "url": "/patterns/retrieval-augmented-generation/",
+    "classification": [
+      "tool",
+      "practice"
+    ],
+    "description": "The Retrieval-Augmented Generation (RAG) pattern enhances the accuracy and reliability of Large Language Models (LLMs) by incorporating information from external knowledge bases. It addresses the limi",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Retroactive Public Goods Funding",
     "url": "/patterns/retroactive-public-goods-funding/",
     "classification": [
@@ -15388,6 +16808,19 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Retry Pattern",
+    "url": "/patterns/retry-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Retry pattern is a stability and resilience design pattern that enables an application to handle transient failures by transparently retrying a failed operation. In distributed systems, particular",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Revenue-Based Financing",
@@ -15434,6 +16867,19 @@
     "score": 3
   },
   {
+    "title": "Reverse Proxy Pattern",
+    "url": "/patterns/reverse-proxy-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Reverse Proxy pattern is a fundamental architectural pattern used in modern web applications and distributed systems. It involves placing an intermediary server, the reverse proxy, between clients",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Reverse Trial",
     "url": "/patterns/reverse-trial/",
     "classification": [
@@ -15455,9 +16901,7 @@
     ],
     "description": "A Review and Feedback System is a structured mechanism that allows users of a platform or service to provide, receive, and observe evaluations of products, services, or other users. These systems are ",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -15641,6 +17085,19 @@
     "score": 3
   },
   {
+    "title": "Rolling Deployment Pattern",
+    "url": "/patterns/rolling-deployment-pattern/",
+    "classification": [
+      "process"
+    ],
+    "description": "The Rolling Deployment pattern is a software release strategy that updates an application by incrementally replacing old instances with new ones. Instead of a simultaneous, \"big bang\" update across al",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Rolling Forecasts - Continuous Planning",
     "url": "/patterns/rolling-forecasts-continuous-planning/",
     "classification": [
@@ -15685,6 +17142,19 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Routing Slip Pattern",
+    "url": "/patterns/routing-slip-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Routing Slip pattern provides a mechanism for specifying a sequence of processing steps for a message, where the sequence is defined at design time but can be varied at runtime. The pattern is par",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Runtime Application Self-Protection (RASP)",
@@ -15829,6 +17299,32 @@
     "score": 3
   },
   {
+    "title": "Scatter-Gather Pattern",
+    "url": "/patterns/scatter-gather-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "_pattern_body_",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Scheduler Agent Supervisor",
+    "url": "/patterns/scheduler-agent-supervisor/",
+    "classification": [
+      "practice"
+    ],
+    "description": "_The Scheduler-Agent-Supervisor pattern, a foundational concept in distributed systems, orchestrates and manages tasks across a network of services and resources. This pattern is instrumental in achie",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Scientific Management Taylor",
     "url": "/patterns/scientific-management-taylor/",
     "classification": [
@@ -15840,6 +17336,19 @@
       "startup"
     ],
     "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Scoped API Token Pattern",
+    "url": "/patterns/scoped-api-token-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Scoped API Token pattern is a security mechanism used to control access to APIs by creating tokens with fine-grained permissions. Instead of using a single, all-powerful API key, this pattern advo",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "score": 3
   },
   {
@@ -16129,12 +17638,24 @@
     ],
     "description": "A Seeding Strategy is a deliberate and strategic plan to initiate and accelerate the adoption of a new platform or network. It is a critical component of platform design, addressing the fundamental ch",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
+  },
+  {
+    "title": "Segmented Log Pattern",
+    "url": "/patterns/segmented-log-pattern/",
+    "classification": [
+      "tool",
+      "practice"
+    ],
+    "description": "The Segmented Log pattern is a fundamental concept in distributed systems and data engineering that addresses the challenges of managing large, ever-growing log files. Instead of maintaining a single,",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Self-Sovereign Identity",
@@ -16164,6 +17685,20 @@
     ],
     "domain": "startup",
     "score": 0.7
+  },
+  {
+    "title": "Semantic Tagging Pattern",
+    "url": "/patterns/semantic-tagging-pattern/",
+    "classification": [
+      "tool",
+      "practice"
+    ],
+    "description": "The Semantic Tagging pattern, also known as Semantic Annotation, is a design pattern that enriches unstructured content with machine-readable metadata. This process involves identifying and linking co",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Semiconductor Product Development Lifecycle",
@@ -16225,6 +17760,19 @@
     "score": 4
   },
   {
+    "title": "Sequential Convoy Pattern",
+    "url": "/patterns/sequential-convoy-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Sequential Convoy pattern is a messaging pattern that ensures groups of related messages are processed in a first-in-first-out (FIFO) order, without blocking the processing of other, unrelated gro",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 2
+  },
+  {
     "title": "Series A/B/C",
     "url": "/patterns/series-abc/",
     "classification": [
@@ -16268,6 +17816,32 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Server-Sent Events Pattern",
+    "url": "/patterns/server-sent-events-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Server-Sent Events (SSE) pattern is a web technology that enables a server to push real-time updates to a web client over a single, long-lived HTTP connection. It provides a one-way communication ",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 4
+  },
+  {
+    "title": "Server-Side Discovery Pattern",
+    "url": "/patterns/server-side-discovery-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Server-Side Discovery pattern is a fundamental approach to service discovery in microservices architectures. In this pattern, a client application or service that wants to communicate with another",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Serverless Architecture",
@@ -16322,9 +17896,7 @@
     ],
     "description": "A serverless platform represents a significant evolution in cloud computing, abstracting away the underlying infrastructure to allow developers to focus solely on writing and deploying code. In this m",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -16504,6 +18076,19 @@
     "score": 4
   },
   {
+    "title": "Service Registry Pattern",
+    "url": "/patterns/service-registry-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Service Registry pattern is a foundational component in modern distributed systems, particularly within microservices architectures. It addresses the challenge of service discovery in a dynamic en",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Service Safari",
     "url": "/patterns/service-safari/",
     "classification": [
@@ -16515,6 +18100,19 @@
       "startup"
     ],
     "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Service Template Pattern",
+    "url": "/patterns/service-template-pattern/",
+    "classification": [
+      "process"
+    ],
+    "description": "The Service Template Pattern is a design approach used to accelerate the development of new services, particularly within a microservices architecture. The fundamental idea is to create a standardized",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "score": 3
   },
   {
@@ -16576,6 +18174,34 @@
     "score": 4
   },
   {
+    "title": "Sharding Pattern",
+    "url": "/patterns/sharding-pattern/",
+    "classification": [
+      "practice",
+      "tool"
+    ],
+    "description": "The Sharding pattern is a database architecture pattern that horizontally partitions a large dataset into smaller, more manageable chunks called shards [1]. Each shard has the same schema as the origi",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Shared Database Pattern",
+    "url": "/patterns/shared-database-pattern/",
+    "classification": [
+      "tool",
+      "practice"
+    ],
+    "description": "The Shared Database pattern is a data management strategy where multiple services share a single database. This approach is common in monolithic applications and is often carried over, sometimes as an",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 1
+  },
+  {
     "title": "Shared Governance - Healthcare Models",
     "url": "/patterns/shared-governance-healthcare-models/",
     "classification": [
@@ -16614,9 +18240,20 @@
     ],
     "description": "The Shared Infrastructure Model is a foundational concept in modern technology and platform design, referring to the practice of multiple entities utilizing a common pool of resources, such as hardwar",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Shared-Nothing Architecture",
+    "url": "/patterns/shared-nothing-architecture/",
+    "classification": [
+      "practice"
+    ],
+    "description": "_Please add the content for the 8 sections of the pattern body here._",
+    "domains": [
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -16634,6 +18271,20 @@
       "security"
     ],
     "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Sidecar Pattern",
+    "url": "/patterns/sidecar-pattern/",
+    "classification": [
+      "process",
+      "practice"
+    ],
+    "description": "The Sidecar pattern is a design pattern used in software architecture, particularly in microservices environments. It involves deploying a secondary component, the \"sidecar,\" alongside a primary appli",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "score": 3
   },
   {
@@ -16685,9 +18336,7 @@
     ],
     "description": "The Single-Player Mode pattern is a strategic approach to platform design that prioritizes delivering value to an individual user before, or in parallel with, enabling multi-user interactions. In esse",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -17367,6 +19016,19 @@
     "score": 3
   },
   {
+    "title": "Splitter Pattern",
+    "url": "/patterns/splitter-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Splitter pattern is a fundamental messaging pattern used in enterprise integration and distributed systems to break down a composite message into a series of individual messages. Each of these sma",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Spotify Model",
     "url": "/patterns/spotify-model/",
     "classification": [
@@ -17448,9 +19110,34 @@
     ],
     "description": "The Star Rating System is a ubiquitous mechanism for collecting and displaying user feedback and opinions on a wide variety of subjects, including products, services, content, and experiences. It typi",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "State-Watch Pattern",
+    "url": "/patterns/state-watch-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The State-Watch pattern, also known as Watch or State Monitoring, is a design pattern used in distributed systems to notify clients when specific values or states change on a server. This pattern is p",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Static Content Hosting",
+    "url": "/patterns/static-content-hosting/",
+    "classification": [
+      "process",
+      "practice"
+    ],
+    "description": "The Static Content Hosting pattern is a fundamental architectural approach for delivering web content that does not change based on user interaction. This pattern involves deploying static assets\u2014such",
+    "domains": [
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -17586,6 +19273,20 @@
     "score": 0.7
   },
   {
+    "title": "Strangler Fig Pattern",
+    "url": "/patterns/strangler-fig-pattern/",
+    "classification": [
+      "process",
+      "practice"
+    ],
+    "description": "The Strangler Fig Pattern is an architectural pattern for incrementally migrating a legacy system by gradually replacing specific pieces of functionality with new applications and services. The term w",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Strategic Alliance Model",
     "url": "/patterns/strategic-alliance-model/",
     "classification": [
@@ -17673,6 +19374,20 @@
     "score": 3
   },
   {
+    "title": "Stream Processing Pattern",
+    "url": "/patterns/stream-processing-pattern/",
+    "classification": [
+      "tool",
+      "practice"
+    ],
+    "description": "The Stream Processing pattern is a software architecture paradigm for processing data in real-time as it is generated. Unlike traditional batch processing, which processes data in large, static blocks",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Streamline Moderne",
     "url": "/patterns/streamline-moderne/",
     "classification": [
@@ -17688,6 +19403,20 @@
     "score": 3
   },
   {
+    "title": "Strong Consistency Pattern",
+    "url": "/patterns/strong-consistency-pattern/",
+    "classification": [
+      "tool",
+      "practice"
+    ],
+    "description": "The Strong Consistency pattern is a fundamental model in distributed systems that guarantees every read operation retrieves the most recently written value. This ensures that all nodes in a distribute",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 2
+  },
+  {
     "title": "Structured Interviews",
     "url": "/patterns/structured-interviews/",
     "classification": [
@@ -17700,6 +19429,19 @@
     ],
     "domain": "startup",
     "score": 0.7
+  },
+  {
+    "title": "Subdomain-Based Tenant Routing",
+    "url": "/patterns/subdomain-based-tenant-routing/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Subdomain-Based Tenant Routing pattern is a widely adopted architectural approach for multi-tenant applications, particularly in the Software-as-a-Service (SaaS) domain. This pattern assigns a uni",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Subscription Model - Recurring Revenue",
@@ -17811,9 +19553,7 @@
     ],
     "description": "The Supply-First Strategy is a cornerstone of modern platform business model design, representing a deliberate choice to solve the perennial chicken-and-egg dilemma by focusing initial efforts on buil",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -17826,9 +19566,7 @@
     ],
     "description": "Surveillance capitalism is a modern form of market economy that profits from the extensive collection and analysis of personal data. Coined by scholar Shoshana Zuboff, the term describes an economic s",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 1
@@ -17898,13 +19636,11 @@
     "title": "Switching Cost Design",
     "url": "/patterns/switching-cost-design/",
     "classification": [
-      "strategy"
+      "practice"
     ],
     "description": "Switching Cost Design is a strategic approach employed by businesses to create barriers that make it difficult or expensive for customers to change from one product, service, or platform to another. T",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 2
@@ -18200,9 +19936,7 @@
     ],
     "description": "The Tech Performance Network Effect is a specific type of direct network effect where the performance of a product or service improves as more users join and actively use it. Unlike other network effe",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -18311,6 +20045,47 @@
       "security"
     ],
     "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Tenant-Aware Data Partitioning",
+    "url": "/patterns/tenant-aware-data-partitioning/",
+    "classification": [
+      "tool",
+      "practice"
+    ],
+    "description": "**Tenant-Aware Data Partitioning** is a fundamental architectural pattern for multi-tenant systems, particularly in the context of Software-as-a-Service (SaaS) platforms. It provides a structured appr",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Tenant Isolation Pattern",
+    "url": "/patterns/tenant-isolation-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "_The Tenant Isolation Pattern is a foundational architectural principle in multi-tenant systems, ensuring that each tenant's data and resources are kept separate and secure from other tenants, even wh",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Tenant Onboarding Automation",
+    "url": "/patterns/tenant-onboarding-automation/",
+    "classification": [
+      "process",
+      "practice"
+    ],
+    "description": "_**This is a draft pattern and is not yet ready for production use.**_",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "score": 3
   },
   {
@@ -18427,12 +20202,23 @@
     ],
     "description": "A Third-Party Integration Framework is a structured approach that enables a platform to seamlessly connect with external applications and services developed by other companies. This pattern is not mer",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
+  },
+  {
+    "title": "Throttling Pattern",
+    "url": "/patterns/throttling-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Throttling pattern, also commonly known as Rate Limiting, is a mechanism used in software architecture to control the consumption of resources by regulating the rate at which requests are processe",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Throughput Accounting - TOC Financial",
@@ -18506,6 +20292,19 @@
     "score": 3
   },
   {
+    "title": "Timeout Pattern",
+    "url": "/patterns/timeout-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Timeout pattern is a fundamental design principle for building resilient and reliable distributed systems. It involves setting a predetermined time limit for a response when one service communicat",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Token-Based Governance",
     "url": "/patterns/token-based-governance/",
     "classification": [
@@ -18533,6 +20332,19 @@
       "security"
     ],
     "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Token Exchange Pattern",
+    "url": "/patterns/token-exchange-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Token Exchange pattern is a security mechanism that allows a client to exchange one type of security token for another. This pattern is formally defined in RFC 8693, which specifies an extension t",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "score": 3
   },
   {
@@ -18815,9 +20627,7 @@
     ],
     "description": "The Transaction Fee Model represents a fundamental and widely adopted strategy for revenue generation within the digital economy. At its core, this model involves a platform or intermediary charging a",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -18857,9 +20667,7 @@
     ],
     "description": "The \"Transform Competitors into Providers\" pattern is a strategic approach in platform business models where a platform actively integrates its former or potential competitors into its ecosystem as pr",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -18895,6 +20703,19 @@
     "score": 3
   },
   {
+    "title": "Transparency by Design Pattern",
+    "url": "/patterns/transparency-by-design-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "Transparency by Design (TbD) is a proactive and preventative approach to designing and developing systems, particularly those involving Artificial Intelligence (AI) and Automated Decision-Making (ADM)",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Transparency Reporting",
     "url": "/patterns/transparency-reporting/",
     "classification": [
@@ -18902,9 +20723,7 @@
     ],
     "description": "Transparency reporting is the practice of periodically disclosing data and information about actions taken to enforce policies, respond to government and third-party requests for user data, and otherw",
     "domains": [
-      "platform",
-      "social",
-      "polity"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
@@ -18959,9 +20778,7 @@
     ],
     "description": "The Tribal Network Effect is a powerful social phenomenon that occurs when a network's value increases for its members as more individuals with a shared identity, purpose, or interest join. This effec",
     "domains": [
-      "platform",
-      "social",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -19035,9 +20852,7 @@
     ],
     "description": "Trust Decay is the gradual erosion of confidence and faith that users, participants, or stakeholders have in a platform, community, or ecosystem over time. It is a pernicious anti-pattern that can und",
     "domains": [
-      "platform",
-      "social",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "score": 2
@@ -19050,12 +20865,24 @@
     ],
     "description": "Trust Score Aggregation is a computational mechanism for synthesizing a single, representative trust value for an entity from a multitude of individual trust-related data points. These data points can",
     "domains": [
-      "platform",
-      "social",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "score": 4
+  },
+  {
+    "title": "Two-Phase Commit Pattern",
+    "url": "/patterns/two-phase-commit-pattern/",
+    "classification": [
+      "practice",
+      "tool"
+    ],
+    "description": "The Two-Phase Commit (2PC) pattern is a distributed algorithm that ensures atomicity for transactions across multiple participating services or databases. In a distributed system, a transaction may co",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 2
   },
   {
     "title": "Two-Sided Marketplace",
@@ -19065,9 +20892,7 @@
     ],
     "description": "A two-sided marketplace, also known as a two-sided network or a multi-sided platform, is a business model that creates value by facilitating interactions between two distinct but interdependent groups",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -19169,9 +20994,7 @@
     ],
     "description": "Unbundling Assets is a strategic pattern that involves breaking down a product, service, or even an entire organization into its constituent components. These smaller, more focused components can then",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -19363,6 +21186,19 @@
       "security"
     ],
     "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Valet Key Pattern",
+    "url": "/patterns/valet-key-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Valet Key pattern is a design pattern used in cloud computing and distributed systems to provide clients with restricted, direct access to a specific resource for a limited time. This pattern is a",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "score": 3
   },
   {
@@ -19688,9 +21524,7 @@
     ],
     "description": "A Verified Badge System is a mechanism used by online platforms to confirm the authenticity of accounts of public interest. This is typically represented by a visual icon, such as a checkmark, display",
     "domains": [
-      "platform",
-      "social",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -19786,15 +21620,14 @@
     "title": "Viral Engine of Growth",
     "url": "/patterns/viral-engine-of-growth/",
     "classification": [
-      "growth"
+      "practice"
     ],
-    "description": "'''",
+    "description": "The Viral Engine of Growth is a strategic framework for business growth that leverages existing customers to attract new ones, creating a self-perpetuating cycle of user acquisition. The core purpose ",
     "domains": [
-      "startup",
-      "business"
+      "platform"
     ],
-    "domain": "startup",
-    "score": 0.7
+    "domain": "platform",
+    "score": 4
   },
   {
     "title": "Viral Loop",
@@ -20006,6 +21839,19 @@
     "score": 3
   },
   {
+    "title": "Webhook Pattern",
+    "url": "/patterns/webhook-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "The Webhook pattern, also known as HTTP callbacks or reverse APIs, is a fundamental design pattern for enabling real-time communication and data exchange between different web applications and service",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
+  },
+  {
     "title": "Wellbeing Economy - Beyond GDP",
     "url": "/patterns/wellbeing-economy-beyond-gdp/",
     "classification": [
@@ -20044,9 +21890,7 @@
     ],
     "description": "A white-label platform is a product or service, typically a software application, that is developed by one company and then rebranded and resold by other companies as their own. The name originates fr",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 3
@@ -20105,9 +21949,7 @@
     ],
     "description": "Winner-take-all dynamics describe a market phenomenon where a small number of participants reap a disproportionately large share of the rewards, while the rest of the competitors are left with very li",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 1
@@ -20120,12 +21962,23 @@
     ],
     "description": "The Winner-Take-All Monopoly is a market condition, particularly prevalent in the digital economy, where a single platform or company achieves overwhelming dominance, effectively shutting out all comp",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 1
+  },
+  {
+    "title": "Wire Tap Pattern",
+    "url": "/patterns/wire-tap-pattern/",
+    "classification": [
+      "practice"
+    ],
+    "description": "_The \"Wire Tap\" pattern, a foundational concept in enterprise integration, provides a mechanism for inspecting messages as they travel through a system without altering the message flow. This pattern ",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "Wizard of Oz MVP",
@@ -20191,9 +22044,7 @@
     ],
     "description": "A Worker-Owned Platform, often referred to as a platform cooperative, is a digital platform (such as a website or mobile app) that is collectively owned and democratically controlled by the people who",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "score": 5
@@ -20269,6 +22120,20 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Write-Ahead Log Pattern",
+    "url": "/patterns/write-ahead-log-pattern/",
+    "classification": [
+      "tool",
+      "practice"
+    ],
+    "description": "The Write-Ahead Log (WAL) is a standard method for ensuring data integrity and durability. Before any changes are made to the actual data files, the intended changes are first recorded in a separate, ",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "score": 3
   },
   {
     "title": "X-Matrix - Hoshin Kanri Tool",

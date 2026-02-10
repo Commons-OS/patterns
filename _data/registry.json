@@ -149,6 +149,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fcc77705b008fa8d23",
+    "title": "Access Token Pattern",
+    "slug": "access-token-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_5f149cd614f8497cafc60a69",
     "title": "Acqui-hire",
     "slug": "acqui-hire",
@@ -432,6 +442,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fcce7327b18b9e7214",
+    "title": "Aggregator Pattern",
+    "slug": "aggregator-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023xaemr9xsmctmvqdm2s",
     "title": "Agile Governance - IT Governance Frameworks",
     "slug": "agile-governance-it-governance-frameworks",
@@ -645,6 +665,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fcd673c6b7f32e9297",
+    "title": "AI Gateway Pattern",
+    "slug": "ai-gateway-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023xdfjhsd4s6982ysax8",
     "title": "AI Governance Models",
     "slug": "ai-governance-models",
@@ -697,9 +727,7 @@
     "title": "Algorithmic Governance",
     "slug": "algorithmic-governance",
     "domains": [
-      "platform",
-      "polity",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -748,6 +776,16 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fcdc7674a5521673cc",
+    "title": "Ambassador Pattern",
+    "slug": "ambassador-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -821,6 +859,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fce37db2a16938101b",
+    "title": "Anti-Corruption Layer",
+    "slug": "anti-corruption-layer",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_dc2b7e06c9e549c29adc00c8",
     "title": "Anti-Dilution Provisions",
     "slug": "anti-dilution-provisions",
@@ -848,9 +896,7 @@
     "title": "API Economy Participation",
     "slug": "api-economy-participation",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -880,6 +926,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fce97e848790f993e9",
+    "title": "API Key Management Pattern",
+    "slug": "api-key-management-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_019c19b234fb754c82bef3ad47",
     "title": "API Security",
     "slug": "api-security",
@@ -890,13 +946,21 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fcf0742f98f51c2d68",
+    "title": "API Versioning Pattern",
+    "slug": "api-versioning-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_3b9b4b4b4b4b4b4b4b4b4b4b",
     "title": "App Store Model",
     "slug": "app-store-model",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -906,9 +970,7 @@
     "title": "Appeals Process Design",
     "slug": "appeals-process-design",
     "domains": [
-      "platform",
-      "polity",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -1022,9 +1084,7 @@
     "title": "Asymptotic Marketplace",
     "slug": "asymptotic-marketplace",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -1038,6 +1098,26 @@
       "business"
     ],
     "domain": "startup",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fd047e1899bc56ea31",
+    "title": "Asynchronous Request-Reply",
+    "slug": "asynchronous-request-reply",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fd0b7f81b99c8583e6",
+    "title": "Attribute-Based Access Control Pattern",
+    "slug": "attribute-based-access-control-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -1075,6 +1155,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fd127314801f83b685",
+    "title": "Audit Logging Pattern",
+    "slug": "audit-logging-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023xhf21s8k0s1hjac96h",
     "title": "Augmented Reality (AR) Product Design",
     "slug": "augmented-reality-ar-product-design",
@@ -1091,11 +1181,9 @@
     "title": "Augmented Reality In Manufacturing",
     "slug": "augmented-reality-in-manufacturing",
     "domains": [
-      "business",
-      "startup",
-      "security"
+      "platform"
     ],
-    "domain": "business",
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -1238,6 +1326,26 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fd1e71f78cbb197626",
+    "title": "Backends For Frontends Pattern",
+    "slug": "backends-for-frontends-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fd247506a0126aff74",
+    "title": "Backpressure Pattern",
+    "slug": "backpressure-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023w4eagvvdvd78y1w6yw",
     "title": "Balanced Scorecard - Kaplan & Norton",
     "slug": "balanced-scorecard-kaplan-norton",
@@ -1253,9 +1361,7 @@
     "title": "Bandwagon Effect",
     "slug": "bandwagon-effect",
     "domains": [
-      "platform",
-      "social",
-      "polity"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -1268,6 +1374,16 @@
       "security"
     ],
     "domain": "security",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fd2b7ae5a29af26ca0",
+    "title": "Batch Processing Pattern",
+    "slug": "batch-processing-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -1344,11 +1460,9 @@
     "title": "Behavioral Economics",
     "slug": "behavioral-economics",
     "domains": [
-      "business",
-      "startup",
-      "security"
+      "platform"
     ],
-    "domain": "business",
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -1368,9 +1482,7 @@
     "title": "Belief Network Effect",
     "slug": "belief-network-effect",
     "domains": [
-      "platform",
-      "social",
-      "polity"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -1522,6 +1634,26 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fd367bbfbc2d5f75c4",
+    "title": "Bloom Filter Pattern",
+    "slug": "bloom-filter-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fd3c7181827a94adf3",
+    "title": "Blue-Green Deployment Pattern",
+    "slug": "blue-green-deployment-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -1720,6 +1852,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fd427406b92741d564",
+    "title": "Bulkhead Pattern",
+    "slug": "bulkhead-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023xqet0abagjjn4rmjz4",
     "title": "Bureaucratic Theory (Weber)",
     "slug": "bureaucratic-theory-weber",
@@ -1797,6 +1939,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fd4872cd870543cc32",
+    "title": "Cache-Aside Pattern",
+    "slug": "cache-aside-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023xqet0abagjmymctnx3",
     "title": "CAD/CAM Integration",
     "slug": "cadcam-integration",
@@ -1820,6 +1972,26 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fd4e7af384e38348ec",
+    "title": "Canary Deployment Pattern",
+    "slug": "canary-deployment-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fd55702898caf90c92",
+    "title": "Canonical Data Model",
+    "slug": "canonical-data-model",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_bfbcf65e68244320b230464c",
     "title": "Cap Table Management",
     "slug": "cap-table-management",
@@ -1828,6 +2000,16 @@
       "business"
     ],
     "domain": "startup",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fd5b7d0e98370f2cd7",
+    "title": "CAP Theorem Application",
+    "slug": "cap-theorem-application",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -1900,6 +2082,16 @@
     "status": "published"
   },
   {
+    "id": "pat_019c47f4fd617f40bac5db1f43",
+    "title": "CDN Content Delivery Network",
+    "slug": "cdn-content-delivery-network",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg50240kf018z02b2h9yk9eq",
     "title": "Cellular Manufacturing - Work Cell Design",
     "slug": "cellular-manufacturing-work-cell-design",
@@ -1934,6 +2126,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fd677a40b7f8c90826",
+    "title": "Change Data Capture Pattern",
+    "slug": "change-data-capture-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023xsf58b5cjedzr7nssh",
     "title": "Change Management Models (Beyond Documented)",
     "slug": "change-management-models-beyond-documented",
@@ -1953,6 +2155,16 @@
       "security"
     ],
     "domain": "security",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fd6d7f7490e47f4918",
+    "title": "Chaos Engineering Pattern",
+    "slug": "chaos-engineering-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -1983,9 +2195,7 @@
     "title": "Chicken-and-Egg Strategy",
     "slug": "chicken-and-egg-strategy",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -2049,6 +2259,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fd7475e1b8ca972489",
+    "title": "Circuit Breaker Pattern",
+    "slug": "circuit-breaker-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023xted0bt7yxpv725xc5",
     "title": "Circuit Simulation (SPICE)",
     "slug": "circuit-simulation-spice",
@@ -2083,6 +2303,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fd7b7fdd9fec058378",
+    "title": "Claim-Check Pattern",
+    "slug": "claim-check-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023xve9saxvbkh547ammm",
     "title": "Classical Economics (Smith)",
     "slug": "classical-economics-smith",
@@ -2092,6 +2322,16 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fd8270d1ab5b1e2a83",
+    "title": "Client-Side Discovery Pattern",
+    "slug": "client-side-discovery-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -2109,9 +2349,7 @@
     "title": "Climb the Value Chain",
     "slug": "climb-the-value-chain",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -2200,6 +2438,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fd88732998eb110480",
+    "title": "Code Review Workflow Pattern",
+    "slug": "code-review-workflow-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg50240vft1bjmxt2wepykwn",
     "title": "Coherent: Clear Principles, Practices, Outcomes",
     "slug": "coherent-clear-principles-practices-outcomes",
@@ -2226,9 +2474,7 @@
     "title": "Cold Start Problem",
     "slug": "cold-start-problem",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -2296,9 +2542,7 @@
     "title": "Commoditization Resistance",
     "slug": "commoditization-resistance",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -2337,6 +2581,16 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fd8f7bea8b1830df92",
+    "title": "Commons Resource Allocation",
+    "slug": "commons-resource-allocation",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -2450,9 +2704,17 @@
     "title": "Community Guidelines Design",
     "slug": "community-guidelines-design",
     "domains": [
-      "platform",
-      "social",
-      "polity"
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fd957e6cb3bc0473fd",
+    "title": "Community Health Metrics Pattern",
+    "slug": "community-health-metrics-pattern",
+    "domains": [
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -2486,9 +2748,7 @@
     "title": "Community Land Trust Digital",
     "slug": "community-land-trust-digital",
     "domains": [
-      "platform",
-      "urban",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -2521,9 +2781,7 @@
     "title": "Community Ownership Model",
     "slug": "community-ownership-model",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -2533,9 +2791,7 @@
     "title": "Community Self-Governance",
     "slug": "community-self-governance",
     "domains": [
-      "platform",
-      "social",
-      "polity"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -2564,6 +2820,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fd9b7e9b8d45e440a6",
+    "title": "Compensating Transaction Pattern",
+    "slug": "compensating-transaction-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg50240jfastcwdc48ex8qjj",
     "title": "Competency-Based Education",
     "slug": "competency-based-education",
@@ -2573,6 +2839,16 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fda279d4a6dea8644a",
+    "title": "Competing Consumers Pattern",
+    "slug": "competing-consumers-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -2650,9 +2926,7 @@
     "title": "Composable Architecture",
     "slug": "composable-architecture",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -2783,6 +3057,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fda878b0b4d7bd0b3f",
+    "title": "Connection Pooling Pattern",
+    "slug": "connection-pooling-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_3ff777088c6d45ddba5449dc86",
     "title": "Conscious Capitalism",
     "slug": "conscious-capitalism-mackey-sisodia",
@@ -2875,6 +3159,26 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fdae74c89e7349af92",
+    "title": "Consistent Core Pattern",
+    "slug": "consistent-core-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fdb47ccab1fe6bdbbc",
+    "title": "Consistent Hashing Pattern",
+    "slug": "consistent-hashing-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg50240vft1bjmxt8tamxcj1",
     "title": "Consulting Firm Proprietary Frameworks",
     "slug": "consulting-firm-proprietary-frameworks",
@@ -2910,6 +3214,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fdba7cf3ad7b661bf7",
+    "title": "Consumer-Driven Contract Testing",
+    "slug": "consumer-driven-contract-testing",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_019c19b2352676de9860d0337b",
     "title": "Container Based Portability",
     "slug": "container-based-portability",
@@ -2936,9 +3250,27 @@
     "title": "Content-Based Filtering",
     "slug": "content-based-filtering",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fdc7705faa844d9ed4",
+    "title": "Content-Based Router Pattern",
+    "slug": "content-based-router-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fdce7d5c9d3437cb5b",
+    "title": "Content Enricher Pattern",
+    "slug": "content-enricher-pattern",
+    "domains": [
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -2959,9 +3291,7 @@
     "title": "Content Moderation Framework",
     "slug": "content-moderation-framework",
     "domains": [
-      "platform",
-      "social",
-      "polity"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -3079,6 +3409,36 @@
       "startup"
     ],
     "domain": "startup",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fdd5705d81e68d2c9e",
+    "title": "Contributor License Agreement Pattern",
+    "slug": "contributor-license-agreement-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fdda7363895bd96435",
+    "title": "Contributor Onboarding Pattern",
+    "slug": "contributor-onboarding-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fde07eb0b27fd7adb9",
+    "title": "Control Bus Pattern",
+    "slug": "control-bus-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -3301,6 +3661,26 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fde773eda01753f027",
+    "title": "Correlation Identifier Pattern",
+    "slug": "correlation-identifier-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fded76d5bcd70bcccb",
+    "title": "Command Query Responsibility Segregation (CQRS)",
+    "slug": "cqrs-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023y6fxsa08h2c7rpr4y6",
     "title": "Cradle-to-Cradle Design",
     "slug": "cradle-to-cradle-design",
@@ -3316,9 +3696,7 @@
     "title": "Create a New Profession",
     "slug": "create-a-new-profession",
     "domains": [
-      "platform",
-      "social",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -3369,13 +3747,21 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fdf4749ea8d2339756",
+    "title": "Cross-Domain Single Sign-On",
+    "slug": "cross-domain-single-sign-on",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_8d9f5ceab605b949d070a120",
     "title": "Cross-Side Network Effects",
     "slug": "cross-side-network-effects",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -3568,9 +3954,7 @@
     "title": "Dark Patterns in Platform UX",
     "slug": "dark-patterns-in-platform-ux",
     "domains": [
-      "platform",
-      "social",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -3591,9 +3975,7 @@
     "title": "Data Commons",
     "slug": "data-commons",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -3626,9 +4008,7 @@
     "title": "Data Mesh",
     "slug": "data-mesh",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -3679,6 +4059,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fe00723ab478e2f55f",
+    "title": "Data Replication Strategies",
+    "slug": "data-replication-strategies",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_019c19b234cb73698ecaaa9abb",
     "title": "Data Retention",
     "slug": "data-retention",
@@ -3701,6 +4091,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fe067f0bb5db1243c0",
+    "title": "Database-Per-Service Pattern",
+    "slug": "database-per-service-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023y7e50rxp3f7nxqpsnw",
     "title": "De Stijl Movement",
     "slug": "de-stijl-movement",
@@ -3710,6 +4110,16 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fe0c75da923534a035",
+    "title": "Dead Letter Channel Pattern",
+    "slug": "dead-letter-channel-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -3757,6 +4167,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fe137f0196bf9cae69",
+    "title": "Decentralized Identity Pattern",
+    "slug": "decentralized-identity-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023vjetsaajnc397n2n2m",
     "title": "Deep Learning for Defect Detection",
     "slug": "deep-learning-for-defect-detection",
@@ -3783,9 +4203,7 @@
     "title": "Defensibility Moats",
     "slug": "defensibility-moats",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -3886,9 +4304,7 @@
     "title": "Demand-First Strategy",
     "slug": "demand-first-strategy",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -3910,9 +4326,7 @@
     "title": "Democratic Platform Governance",
     "slug": "democratic-platform-governance",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -3926,6 +4340,16 @@
       "startup"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fe19793ca87ade64e8",
+    "title": "Deployment Stamps Pattern",
+    "slug": "deployment-stamps-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -4187,9 +4611,7 @@
     "title": "Developer Experience Design",
     "slug": "developer-experience-design",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -4199,9 +4621,7 @@
     "title": "Developer Relations",
     "slug": "developer-relations",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -4245,9 +4665,7 @@
     "title": "Digital Commons",
     "slug": "digital-commons",
     "domains": [
-      "platform",
-      "social",
-      "polity"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -4357,9 +4775,7 @@
     "title": "Disintermediation Defense",
     "slug": "disintermediation-defense",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -4369,9 +4785,7 @@
     "title": "Dispute Resolution Mechanism",
     "slug": "dispute-resolution-mechanism",
     "domains": [
-      "platform",
-      "social",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -4436,6 +4850,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fe2c77ffb7d6ee8e82",
+    "title": "Distributed Locking Pattern",
+    "slug": "distributed-locking-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg50240jfastcwdc0pk9m6dj",
     "title": "Distributed Manufacturing",
     "slug": "distributed-manufacturing",
@@ -4445,6 +4869,16 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fe327cadb42b4ab314",
+    "title": "Distributed Tracing Pattern",
+    "slug": "distributed-tracing-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -4505,6 +4939,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fe397db2969d5a4cc6",
+    "title": "DNS-based Routing Pattern",
+    "slug": "dns-based-routing-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg50240me98tfa0z5h8ade8f",
     "title": "DO-178C (Software in Airborne Systems)",
     "slug": "do-178c-software-in-airborne-systems",
@@ -4526,6 +4970,16 @@
     ],
     "domain": "startup",
     "status": "published"
+  },
+  {
+    "id": "pat_019c47f4fe407e05b1df9b303e",
+    "title": "Documentation as Code Pattern",
+    "slug": "documentation-as-code-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
   },
   {
     "id": "pat_4b44c7046fc1424fb462f7c7",
@@ -4560,6 +5014,16 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fe467ddbb1c469c0c0",
+    "title": "Domain Event Pattern",
+    "slug": "domain-event-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -4677,6 +5141,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fe4c79899431e5bc78",
+    "title": "Dynamic Router Pattern",
+    "slug": "dynamic-router-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg50240vft1bjmxthc20awzv",
     "title": "Dynamic Systems Development Method (DSDM)",
     "slug": "dynamic-systems-development-method-dsdm",
@@ -4751,9 +5225,7 @@
     "title": "Ecosystem Health Metrics",
     "slug": "ecosystem-health-metrics",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -4864,6 +5336,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fe5278089ae0f03afe",
+    "title": "Embedding Management Pattern",
+    "slug": "embedding-management-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023yje10ty286zfywjtgk",
     "title": "EMC/EMI Design for Compliance",
     "slug": "emcemi-design-for-compliance",
@@ -4958,9 +5440,7 @@
     "title": "Enable Personalization with Independent Providers",
     "slug": "enable-personalization-with-independent-providers",
     "domains": [
-      "platform",
-      "social",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -5060,9 +5540,7 @@
     "title": "Escrow Mechanism",
     "slug": "escrow-mechanism",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -5113,6 +5591,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fe5e73a1939ed095db",
+    "title": "Event-Driven Architecture Pattern",
+    "slug": "event-driven-architecture-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023w2eshb12c2qm34f6a3",
     "title": "Event-Driven Architecture",
     "slug": "event-driven-architecture",
@@ -5129,9 +5617,29 @@
     "title": "Event Marketing",
     "slug": "event-marketing",
     "domains": [
-      "startup"
+      "platform"
     ],
-    "domain": "startup",
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fe767034b4d961891e",
+    "title": "Event Sourcing Pattern",
+    "slug": "event-sourcing-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fe7c735a84d4cd93aa",
+    "title": "Eventual Consistency Pattern",
+    "slug": "eventual-consistency-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -5143,6 +5651,16 @@
       "startup"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fe837ed1a227f33241",
+    "title": "Exception Tracking Pattern",
+    "slug": "exception-tracking-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -5230,9 +5748,7 @@
     "title": "Expertise Network Effect",
     "slug": "expertise-network-effect",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -5261,6 +5777,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fe8979dfa92a3170eb",
+    "title": "Exponential Backoff Pattern",
+    "slug": "exponential-backoff-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_4254d904c4f84141bf29df48",
     "title": "Extension Round",
     "slug": "extension-round",
@@ -5269,6 +5795,16 @@
       "business"
     ],
     "domain": "startup",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fe8f7e328e86d0bf51",
+    "title": "External Configuration Store",
+    "slug": "external-configuration-store",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -5313,6 +5849,16 @@
       "startup"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fe96720893e13b90d0",
+    "title": "Faceted Search Pattern",
+    "slug": "faceted-search-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -5421,13 +5967,21 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fe9c778883e7d325d2",
+    "title": "Feature Store Pattern",
+    "slug": "feature-store-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_c5367c2f69974cbaaa4a2c8f",
     "title": "Federated Architecture",
     "slug": "federated-architecture",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -5464,6 +6018,16 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fea27c7eac58a56055",
+    "title": "Federated Identity Pattern",
+    "slug": "federated-identity-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -5729,9 +6293,9 @@
     "title": "Founder-Controlled Board",
     "slug": "founder-controlled-board",
     "domains": [
-      "startup"
+      "platform"
     ],
-    "domain": "startup",
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -5962,6 +6526,36 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4feac717cad041632d9",
+    "title": "Gateway Aggregation Pattern",
+    "slug": "gateway-aggregation-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4feb3765098074e76a0",
+    "title": "Gateway Offloading Pattern",
+    "slug": "gateway-offloading-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4feb97b2d804c26881c",
+    "title": "Gateway Routing Pattern",
+    "slug": "gateway-routing-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023yweb8r88nxg1mnjvmp",
     "title": "GE-McKinsey Matrix - Nine-box matrix",
     "slug": "ge-mckinsey-matrix-nine-box-matrix",
@@ -6030,6 +6624,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4febf73c7993af5343f",
+    "title": "Generation Clock Pattern",
+    "slug": "generation-clock-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023yweb8r88nxppxnpb8c",
     "title": "Generative Design",
     "slug": "generative-design",
@@ -6052,13 +6656,21 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fec57a5882421c7682",
+    "title": "Geode Pattern",
+    "slug": "geode-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_7e3b1f2a3c4d5e6f7a8b9c0d",
     "title": "Geographic Expansion Strategy",
     "slug": "geographic-expansion-strategy",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -6146,6 +6758,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fecb7faf840191e1b7",
+    "title": "GitOps Pattern",
+    "slug": "gitops-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023yyfh08wev9arp50yyt",
     "title": "GitOps",
     "slug": "gitops",
@@ -6226,6 +6848,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fed17a878db48b7217",
+    "title": "Gossip Protocol Pattern",
+    "slug": "gossip-protocol-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_50d555831ba54a858cd43322",
     "title": "Governance Theater",
     "slug": "governance-theater",
@@ -6248,6 +6880,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fed87c12b95be405a4",
+    "title": "Graceful Degradation Pattern",
+    "slug": "graceful-degradation-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_0628002ceb8b48789ca3a30a",
     "title": "Graceful Exits",
     "slug": "graceful-exits",
@@ -6258,13 +6900,21 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fede721b850b516df3",
+    "title": "Graduated Membership Pattern",
+    "slug": "graduated-membership-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_87e0a76af5b1ebc9b8ec68a2",
     "title": "Graduated Sanctions",
     "slug": "graduated-sanctions",
     "domains": [
-      "platform",
-      "social",
-      "polity"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -6278,6 +6928,26 @@
       "business"
     ],
     "domain": "startup",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fee470909536301298",
+    "title": "Graph-Based Recommendation Engine",
+    "slug": "graph-based-recommendation-engine",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4feeb772a90ca97f42d",
+    "title": "GraphQL API Pattern",
+    "slug": "graphql-api-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -6371,6 +7041,16 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fef1710692e66c749b",
+    "title": "gRPC Communication Pattern",
+    "slug": "grpc-communication-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -6497,9 +7177,37 @@
     "title": "Headless Platform",
     "slug": "headless-platform",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4fefc7aacb1388cfa4d",
+    "title": "Health Check API Pattern",
+    "slug": "health-check-api-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4ff027003b65accac49",
+    "title": "Health Endpoint Monitoring",
+    "slug": "health-endpoint-monitoring",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4ff0979b49a7668fee5",
+    "title": "Heartbeat Pattern",
+    "slug": "heartbeat-pattern",
+    "domains": [
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -6646,9 +7354,7 @@
     "title": "Hub-and-Spoke Network",
     "slug": "hub-and-spoke-network",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -6719,6 +7425,16 @@
       "startup"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4ff0f76769a8a2b8e11",
+    "title": "Hybrid Clock Pattern",
+    "slug": "hybrid-clock-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -6839,13 +7555,21 @@
     "status": "published"
   },
   {
+    "id": "pat_019c47f4ff16795e9290b8b252",
+    "title": "Idempotent Consumer Pattern",
+    "slug": "idempotent-consumer-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_2106180f4f65c6bb380bd710",
     "title": "Identity Verification",
     "slug": "identity-verification",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -6860,6 +7584,16 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4ff1c7e2f8aacae05ce",
+    "title": "Immutable Infrastructure Pattern",
+    "slug": "immutable-infrastructure-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -6971,6 +7705,16 @@
       "business"
     ],
     "domain": "startup",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4ff2271c4b01d7084c9",
+    "title": "Index Table Pattern",
+    "slug": "index-table-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -7173,6 +7917,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4ff287b57a13ca1c1d9",
+    "title": "Infrastructure as Code Pattern",
+    "slug": "infrastructure-as-code-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_019c19b2350a71e2b3348865f3",
     "title": "Infrastructure as Code Security",
     "slug": "infrastructure-as-code-security",
@@ -7217,6 +7971,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4ff2e757bb0191b43cc",
+    "title": "Inner Source Pattern",
+    "slug": "inner-source-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_845775bb0b64494593ce8ee094",
     "title": "Innovation Accounting",
     "slug": "innovation-accounting",
@@ -7253,9 +8017,7 @@
     "title": "Insurance Guarantee Model",
     "slug": "insurance-guarantee-model",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -7723,6 +8485,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4ff3473cfbc769f7e72",
+    "title": "Kappa Architecture Pattern",
+    "slug": "kappa-architecture-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023zae8rthxw6ct42y917",
     "title": "Keynesian Economics",
     "slug": "keynesian-economics",
@@ -7756,13 +8528,31 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4ff3a7a4dbeef81d7fc",
+    "title": "Knowledge Graph Construction Pattern",
+    "slug": "knowledge-graph-construction-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4ff407b0c8535b4d098",
+    "title": "Knowledge Graph Federation Pattern",
+    "slug": "knowledge-graph-federation-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_209d17d84c5a68905b6cadee",
     "title": "Knowledge Graph Platform",
     "slug": "knowledge-graph-platform",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -7825,6 +8615,26 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4ff4774c4b3c72acefd",
+    "title": "Lambda Architecture Pattern",
+    "slug": "lambda-architecture-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4ff4d7dceaae026d9a3",
+    "title": "Lamport Clock Pattern",
+    "slug": "lamport-clock-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_a2b89328f8d6470b901ee687",
     "title": "Land and Expand",
     "slug": "land-and-expand",
@@ -7852,9 +8662,7 @@
     "title": "Language Network Effect",
     "slug": "language-network-effect",
     "domains": [
-      "platform",
-      "social",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -7890,6 +8698,16 @@
       "startup"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4ff537e8596dd6a51b6",
+    "title": "Leader Election Pattern",
+    "slug": "leader-election-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -8074,6 +8892,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4ff5a761a943c9e6dd2",
+    "title": "Lease Pattern",
+    "slug": "lease-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023zcf99tjg7qq716xn2n",
     "title": "Leasing Model",
     "slug": "leasing-model",
@@ -8100,9 +8928,7 @@
     "title": "Let the Best Emerge",
     "slug": "let-the-best-emerge",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -8144,6 +8970,26 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4ff6672548629a08983",
+    "title": "Linked Data Pattern",
+    "slug": "linked-data-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4ff6c7f96b1203e6cf2",
+    "title": "Liquid Democracy Pattern",
+    "slug": "liquid-democracy-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_334a43c6411941dbb7357db4",
     "title": "Liquidation Preferences",
     "slug": "liquidation-preferences",
@@ -8175,6 +9021,16 @@
       "business"
     ],
     "domain": "startup",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4ff727980a51e1e52c9",
+    "title": "Load Balancing Pattern",
+    "slug": "load-balancing-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -8213,13 +9069,31 @@
     "status": "draft"
   },
   {
-    "id": "pat_3a9f8b2c7d1e4f5a8b3c5d7e9f0a1b2d",
+    "id": "pat_5a6a6f670078456482177eaa8c",
     "title": "Lock-In Mechanisms",
     "slug": "lock-in-mechanisms",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4ff78737198922d8b68",
+    "title": "Log Aggregation Pattern",
+    "slug": "log-aggregation-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4ff7f7da9ae2d9c7777",
+    "title": "Long Polling Pattern",
+    "slug": "long-polling-pattern",
+    "domains": [
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -8341,10 +9215,9 @@
     "title": "Management Buyout (MBO)",
     "slug": "management-buyout-mbo",
     "domains": [
-      "startup",
-      "business"
+      "platform"
     ],
-    "domain": "startup",
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -8399,9 +9272,7 @@
     "title": "Market Network Effect",
     "slug": "market-network-effect",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -8433,9 +9304,7 @@
     "title": "Marketplace-as-a-Service",
     "slug": "marketplace-as-a-service",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -8445,9 +9314,7 @@
     "title": "Marketplace Curation",
     "slug": "marketplace-curation",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -8469,9 +9336,7 @@
     "title": "Marquee User Strategy",
     "slug": "marquee-user-strategy",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -8628,6 +9493,26 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4ff8a7355b4c7df3b4e",
+    "title": "Message Filter Pattern",
+    "slug": "message-filter-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4ff9076828436e3ffc3",
+    "title": "Messaging Bridge Pattern",
+    "slug": "messaging-bridge-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023zee2srh1rs1x26vcdy",
     "title": "Metamodernism (Hanzi Freinacht)",
     "slug": "metamodernism-hanzi-freinacht",
@@ -8681,6 +9566,16 @@
       "business"
     ],
     "domain": "security",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4ff9771e7a54b290f32",
+    "title": "Microservice Chassis Pattern",
+    "slug": "microservice-chassis-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -8777,6 +9672,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4ff9d79fb8d16737b3c",
+    "title": "ML Pipeline Orchestration Pattern",
+    "slug": "ml-pipeline-orchestration-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_019c19b234b678548bf37357ea",
     "title": "Model Approval Workflow",
     "slug": "model-approval-workflow",
@@ -8832,6 +9737,16 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4ffa370f7aed6c8781d",
+    "title": "Model Serving Pattern",
+    "slug": "model-serving-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -8935,11 +9850,9 @@
     "title": "Montessori Method",
     "slug": "montessori-method",
     "domains": [
-      "business",
-      "startup",
-      "security"
+      "platform"
     ],
-    "domain": "business",
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -8989,6 +9902,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4ffae7f76b9f7275fdc",
+    "title": "Multi-Entity Governance Pattern",
+    "slug": "multi-entity-governance-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_f0cc74661d0b489baee24d3c",
     "title": "Multi-Factor Authentication (MFA)",
     "slug": "multi-factor-authentication-mfa",
@@ -9011,13 +9934,11 @@
     "status": "draft"
   },
   {
-    "id": "pat_6f1b4e9e6a3b4c6e8d3f5c7b8a9d0e1f",
+    "id": "pat_019c47f4ffb4766fac8ac6bb30",
     "title": "Multi-Homing Strategy",
     "slug": "multi-homing-strategy",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -9027,9 +9948,7 @@
     "title": "Multi-Sided Market",
     "slug": "multi-sided-market",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -9073,8 +9992,7 @@
     "title": "Multi-Tenancy",
     "slug": "multi-tenancy",
     "domains": [
-      "platform",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -9373,9 +10291,7 @@
     "title": "Niche-to-Mass Strategy",
     "slug": "niche-to-mass-strategy",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -9412,6 +10328,26 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4ffbc72319082bc9b58",
+    "title": "OAuth2 Authorization Framework",
+    "slug": "oauth2-authorization-framework",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4ffc27cea8f715ec231",
+    "title": "Observability Three Pillars",
+    "slug": "observability-three-pillars",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -9475,9 +10411,7 @@
     "title": "Onboarding Flow Design",
     "slug": "onboarding-flow-design",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -9551,13 +10485,21 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4ffc978c39dd76fbb03",
+    "title": "Ontology Design Pattern",
+    "slug": "ontology-design-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_4f8b2e7d3c1a6e9b8d0f3a2c",
     "title": "Open API Strategy",
     "slug": "open-api-strategy",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -9601,9 +10543,7 @@
     "title": "Open Protocol Platform",
     "slug": "open-protocol-platform",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -9685,6 +10625,16 @@
       "business"
     ],
     "domain": "security",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4ffcf7baba3eba2b013",
+    "title": "Optimistic Locking Pattern",
+    "slug": "optimistic-locking-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -10067,6 +11017,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4ffd6793db8eb459a91",
+    "title": "Per-Tenant Customization Pattern",
+    "slug": "per-tenant-customization-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_98f7f22424374e88a7f8d131",
     "title": "Performance Improvement Plans (PIPs)",
     "slug": "performance-improvement-plans-pips",
@@ -10163,9 +11123,7 @@
     "title": "Personal Network Effect",
     "slug": "personal-network-effect",
     "domains": [
-      "platform",
-      "social",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -10175,9 +11133,7 @@
     "title": "Personal Utility Network Effect",
     "slug": "personal-utility-network-effect",
     "domains": [
-      "platform",
-      "social",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -10202,6 +11158,16 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4ffdc71cfb9b19e08aa",
+    "title": "Pessimistic Locking Pattern",
+    "slug": "pessimistic-locking-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -10244,21 +11210,27 @@
     "title": "Physical Network Effect",
     "slug": "physical-network-effect",
     "domains": [
-      "platform",
-      "urban",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
   },
   {
-    "id": "pat_9b1d8e7f6c5a4b3d2e1f0c9a8b7d6e5f",
+    "id": "pat_9c6b22fd1af54c19a6401a1e70",
     "title": "Piggyback Strategy",
     "slug": "piggyback-strategy",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4ffe27157a12731575a",
+    "title": "Pipes and Filters Pattern",
+    "slug": "pipes-and-filters-pattern",
+    "domains": [
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -10315,9 +11287,7 @@
     "title": "Platform-as-Infrastructure",
     "slug": "platform-as-infrastructure",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -10327,9 +11297,7 @@
     "title": "Platform Bundling",
     "slug": "platform-bundling",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -10351,9 +11319,7 @@
     "title": "Platform Constitution",
     "slug": "platform-constitution",
     "domains": [
-      "platform",
-      "polity",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -10383,9 +11349,7 @@
     "title": "Platform Dependency Trap",
     "slug": "platform-dependency-trap",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -10395,9 +11359,7 @@
     "title": "Platform Differentiation",
     "slug": "platform-differentiation",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -10443,9 +11405,7 @@
     "title": "Platform Enshittification",
     "slug": "platform-enshittification",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -10455,9 +11415,7 @@
     "title": "Platform Envelopment",
     "slug": "platform-envelopment",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -10479,9 +11437,7 @@
     "title": "Platform Interoperability",
     "slug": "platform-interoperability",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -10502,9 +11458,7 @@
     "title": "Platform Regulation Compliance",
     "slug": "platform-regulation-compliance",
     "domains": [
-      "platform",
-      "polity",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -10514,9 +11468,7 @@
     "title": "Platform SDK Design",
     "slug": "platform-sdk-design",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -10538,9 +11490,7 @@
     "title": "Platform Unbundling",
     "slug": "platform-unbundling",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -10550,9 +11500,7 @@
     "title": "Plugin Extension Architecture",
     "slug": "plugin-extension-architecture",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -10578,6 +11526,16 @@
       "startup"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f4ffef7d6a9ab2670b2e",
+    "title": "Polycentric Governance Pattern",
+    "slug": "polycentric-governance-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -10899,6 +11857,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fff47d2880ddc6d110",
+    "title": "Priority Queue Pattern",
+    "slug": "priority-queue-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_019c19b234e17db1b5c6407260",
     "title": "Privacy by Default",
     "slug": "privacy-by-default",
@@ -11216,8 +12184,7 @@
     "title": "Progressive Disclosure",
     "slug": "progressive-disclosure",
     "domains": [
-      "platform",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -11247,6 +12214,26 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f4fffb71b88d8926a3aa",
+    "title": "Prompt Engineering Pipeline",
+    "slug": "prompt-engineering-pipeline",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f500007b5683631e6b2e",
+    "title": "Proposal Workflow Pattern",
+    "slug": "proposal-workflow-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023zqfzsrp86d5xkym2y7",
     "title": "Protocol DAOs",
     "slug": "protocol-daos",
@@ -11263,9 +12250,7 @@
     "title": "Protocol Network Effect",
     "slug": "protocol-network-effect",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -11336,6 +12321,16 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f5000677409353745e4c",
+    "title": "Publisher-Subscriber Pattern",
+    "slug": "publisher-subscriber-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -11443,6 +12438,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f5000c7ed29f96ce243c",
+    "title": "Quarantine Pattern",
+    "slug": "quarantine-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023zrexhr77rgfvbzyfxf",
     "title": "Quechua/Aymara (Andes)",
     "slug": "quechuaaymara-andes",
@@ -11452,6 +12457,16 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f500127e97aa75a3a069",
+    "title": "Queue-Based Load Leveling",
+    "slug": "queue-based-load-leveling",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -11480,9 +12495,7 @@
     "title": "Race to the Bottom Pricing",
     "slug": "race-to-the-bottom-pricing",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -11510,13 +12523,21 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f500197aa6ad6f8023bf",
+    "title": "Rate Limiting Pattern",
+    "slug": "rate-limiting-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_ad85e155afee49934b465b33",
     "title": "Razor-and-Blades Model",
     "slug": "razor-and-blades-model",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -11549,9 +12570,7 @@
     "title": "Re-Intermediation",
     "slug": "re-intermediation",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -11565,6 +12584,16 @@
       "startup"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f5001f71d09a37fffdaa",
+    "title": "Read Replica Pattern",
+    "slug": "read-replica-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -11584,9 +12613,7 @@
     "title": "Recommendation Engine",
     "slug": "recommendation-engine",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -11607,9 +12634,7 @@
     "title": "Reduce Barriers to Market Entry",
     "slug": "reduce-barriers-to-market-entry",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -11626,13 +12651,11 @@
     "status": "draft"
   },
   {
-    "id": "pat_4d5f6g7h8j9k0l1m2n3b4v5c6x7z8a9s",
+    "id": "pat_8e2dbffd05cc48b980e5cef800",
     "title": "Referral Program Design",
     "slug": "referral-program-design",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -11870,13 +12893,11 @@
     "status": "draft"
   },
   {
-    "id": "pat_4d8f2b8c9c3e4a5b6d7e8f9a0b1c2d3e",
+    "id": "pat_9f60e940345d497db0228e3a6d",
     "title": "Rent-Seeking Extraction",
     "slug": "rent-seeking-extraction",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -11902,6 +12923,16 @@
       "startup"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f5002671a48f6019b111",
+    "title": "Replicated Log Pattern",
+    "slug": "replicated-log-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -11941,13 +12972,11 @@
     "status": "draft"
   },
   {
-    "id": "pat_3a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d",
+    "id": "pat_a841f2eb0a784ae787fe43b36e",
     "title": "Reputation Score Design",
     "slug": "reputation-score-design",
     "domains": [
-      "platform",
-      "social",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -12011,6 +13040,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f5002c70848988f2ebf3",
+    "title": "Retrieval-Augmented Generation Pattern",
+    "slug": "retrieval-augmented-generation",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023ztenhrk74ha5vzz8fs",
     "title": "Retroactive Public Goods Funding",
     "slug": "retroactive-public-goods-funding",
@@ -12031,6 +13070,16 @@
       "startup"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f5003278309c872065bf",
+    "title": "Retry Pattern",
+    "slug": "retry-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -12068,6 +13117,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f500397196900f6c8237",
+    "title": "Reverse Proxy Pattern",
+    "slug": "reverse-proxy-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_72b03e0d9a564020a501d500",
     "title": "Reverse Trial",
     "slug": "reverse-trial",
@@ -12083,9 +13142,7 @@
     "title": "Review and Feedback System",
     "slug": "review-and-feedback-system",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -12228,6 +13285,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f5003f75e5bf59170a5c",
+    "title": "Rolling Deployment Pattern",
+    "slug": "rolling-deployment-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023zve6sv1r0bt9fxtm1t",
     "title": "Rolling Forecasts - Continuous Planning",
     "slug": "rolling-forecasts-continuous-planning",
@@ -12259,6 +13326,16 @@
       "startup"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f50045796bbb2db5fdc7",
+    "title": "Routing Slip Pattern",
+    "slug": "routing-slip-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -12374,6 +13451,26 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f5004c7463bb92a6da79",
+    "title": "Scatter-Gather Pattern",
+    "slug": "scatter-gather-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f5005f7c739721d4c6b8",
+    "title": "Scheduler Agent Supervisor",
+    "slug": "scheduler-agent-supervisor",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_ep7d2mz2njaudimbnbj2rvtvum",
     "title": "Scientific Management Taylor",
     "slug": "scientific-management-taylor",
@@ -12382,6 +13479,16 @@
       "startup"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f500667ca2b343e8255d",
+    "title": "Scoped API Token Pattern",
+    "slug": "scoped-api-token-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -12607,9 +13714,17 @@
     "title": "Seeding Strategy",
     "slug": "seeding-strategy",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f5006c73c98c0ca760da",
+    "title": "Segmented Log Pattern",
+    "slug": "segmented-log-pattern",
+    "domains": [
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -12635,6 +13750,16 @@
       "business"
     ],
     "domain": "startup",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f500727eddafd25464d7",
+    "title": "Semantic Tagging Pattern",
+    "slug": "semantic-tagging-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -12683,6 +13808,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f5007874509f4c20b145",
+    "title": "Sequential Convoy Pattern",
+    "slug": "sequential-convoy-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_82ef8b3b72d047dda22a8321",
     "title": "Series A/B/C",
     "slug": "series-abc",
@@ -12715,6 +13850,26 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f5007f717e8fbe8e571c",
+    "title": "Server-Sent Events Pattern",
+    "slug": "server-sent-events-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f500857734a752713fca",
+    "title": "Server-Side Discovery Pattern",
+    "slug": "server-side-discovery-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -12757,9 +13912,7 @@
     "title": "Serverless Platform",
     "slug": "serverless-platform",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -12902,6 +14055,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f5008b770c8b1ec76896",
+    "title": "Service Registry Pattern",
+    "slug": "service-registry-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023zyebsatbkqvsddbjgh",
     "title": "Service Safari",
     "slug": "service-safari",
@@ -12910,6 +14073,16 @@
       "startup"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f5009174b38e320a942d",
+    "title": "Service Template Pattern",
+    "slug": "service-template-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -12957,6 +14130,26 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f500977925bc591eb1c2",
+    "title": "Sharding Pattern",
+    "slug": "sharding-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f5009e78c2ac6471905a",
+    "title": "Shared Database Pattern",
+    "slug": "shared-database-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg50240rf3s9mqrqzp0c8t14",
     "title": "Shared Governance - Healthcare Models",
     "slug": "shared-governance-healthcare-models",
@@ -12985,9 +14178,17 @@
     "title": "Shared Infrastructure Model",
     "slug": "shared-infrastructure-model",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f500a570b6a4eff5570a",
+    "title": "Shared-Nothing Architecture",
+    "slug": "shared-nothing-architecture",
+    "domains": [
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -13002,6 +14203,16 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f500ab7db8bc3592f261",
+    "title": "Sidecar Pattern",
+    "slug": "sidecar-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -13041,9 +14252,7 @@
     "title": "Single-Player Mode",
     "slug": "single-player-mode",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -13571,6 +14780,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f500b170a98eb18962af",
+    "title": "Splitter Pattern",
+    "slug": "splitter-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023w4eagvvdvd5vbc1hhq",
     "title": "Spotify Model",
     "slug": "spotify-model",
@@ -13633,9 +14852,27 @@
     "title": "Star Rating System",
     "slug": "star-rating-system",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f500ba74bda4b4f95c14",
+    "title": "State-Watch Pattern",
+    "slug": "state-watch-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f500bf705b817cef25ba",
+    "title": "Static Content Hosting",
+    "slug": "static-content-hosting",
+    "domains": [
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -13742,6 +14979,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f500c67f2db5859b75ed",
+    "title": "Strangler Fig Pattern",
+    "slug": "strangler-fig-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_4c6cjjh4yve6jkyakc3qpobn6e",
     "title": "Strategic Alliance Model",
     "slug": "strategic-alliance-model",
@@ -13810,6 +15057,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f500cc71e2a799457dea",
+    "title": "Stream Processing Pattern",
+    "slug": "stream-processing-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg502403e39rjfyp8zm4z9q7",
     "title": "Streamline Moderne",
     "slug": "streamline-moderne",
@@ -13822,6 +15079,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f500d2732e903cb6a896",
+    "title": "Strong Consistency Pattern",
+    "slug": "strong-consistency-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_b848f281398d4c54b00276c5",
     "title": "Structured Interviews",
     "slug": "structured-interviews",
@@ -13830,6 +15097,16 @@
       "business"
     ],
     "domain": "startup",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f500d871d38765f283cc",
+    "title": "Subdomain-Based Tenant Routing",
+    "slug": "subdomain-based-tenant-routing",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -13917,9 +15194,7 @@
     "title": "Supply-First Strategy",
     "slug": "supply-first-strategy",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -13929,9 +15204,7 @@
     "title": "Surveillance Capitalism",
     "slug": "surveillance-capitalism",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -13988,9 +15261,7 @@
     "title": "Switching Cost Design",
     "slug": "switching-cost-design",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -14220,9 +15491,7 @@
     "title": "Tech Performance Network Effect",
     "slug": "tech-performance-network-effect",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -14308,6 +15577,36 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f500e47d6e8cd7edecf7",
+    "title": "Tenant-Aware Data Partitioning",
+    "slug": "tenant-aware-data-partitioning",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f500ea7b649301f1d297",
+    "title": "Tenant Isolation Pattern",
+    "slug": "tenant-isolation-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f500f1705b80c7f3529a",
+    "title": "Tenant Onboarding Automation",
+    "slug": "tenant-onboarding-automation",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -14397,9 +15696,17 @@
     "title": "Third-Party Integration Framework",
     "slug": "third-party-integration-framework",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f500fe7a84b833baaa0a",
+    "title": "Throttling Pattern",
+    "slug": "throttling-pattern",
+    "domains": [
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -14460,6 +15767,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f5010470f1b37e99a802",
+    "title": "Timeout Pattern",
+    "slug": "timeout-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg502406fvs8fk4888jghhvf",
     "title": "Token-Based Governance",
     "slug": "token-based-governance",
@@ -14481,6 +15798,16 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f5010a753788d5ac3342",
+    "title": "Token Exchange Pattern",
+    "slug": "token-exchange-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -14697,9 +16024,7 @@
     "title": "Transaction Fee Model",
     "slug": "transaction-fee-model",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -14732,9 +16057,7 @@
     "title": "Transform Competitors into Providers",
     "slug": "transform-competitors-into-providers",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -14764,13 +16087,21 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f501117ed192d2ebbbf4",
+    "title": "Transparency by Design Pattern",
+    "slug": "transparency-by-design-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_ad6b9d3aa4d714e8fd53bb9b",
     "title": "Transparency Reporting",
     "slug": "transparency-reporting",
     "domains": [
-      "platform",
-      "social",
-      "polity"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -14813,9 +16144,7 @@
     "title": "Tribal Network Effect",
     "slug": "tribal-network-effect",
     "domains": [
-      "platform",
-      "social",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -14872,9 +16201,7 @@
     "title": "Trust Decay",
     "slug": "trust-decay",
     "domains": [
-      "platform",
-      "social",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -14884,9 +16211,17 @@
     "title": "Trust Score Aggregation",
     "slug": "trust-score-aggregation",
     "domains": [
-      "platform",
-      "social",
-      "business"
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f501177174905fdf85a8",
+    "title": "Two-Phase Commit Pattern",
+    "slug": "two-phase-commit-pattern",
+    "domains": [
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -14896,9 +16231,7 @@
     "title": "Two-Sided Marketplace",
     "slug": "two-sided-marketplace",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -14977,9 +16310,7 @@
     "title": "Unbundling Assets",
     "slug": "unbundling-assets",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -15131,6 +16462,16 @@
       "security"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f5011e73cdba081bc442",
+    "title": "Valet Key Pattern",
+    "slug": "valet-key-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -15385,9 +16726,7 @@
     "title": "Verified Badge System",
     "slug": "verified-badge-system",
     "domains": [
-      "platform",
-      "social",
-      "business"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -15465,10 +16804,9 @@
     "title": "Viral Engine of Growth",
     "slug": "viral-engine-of-growth",
     "domains": [
-      "startup",
-      "business"
+      "platform"
     ],
-    "domain": "startup",
+    "domain": "platform",
     "status": "draft"
   },
   {
@@ -15635,6 +16973,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c47f50128791d9b8b704602",
+    "title": "Webhook Pattern",
+    "slug": "webhook-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg50240ef0s85r2j1rmm3as6",
     "title": "Wellbeing Economy - Beyond GDP",
     "slug": "wellbeing-economy-beyond-gdp",
@@ -15663,9 +17011,7 @@
     "title": "White-Label Platform",
     "slug": "white-label-platform",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -15709,21 +17055,27 @@
     "title": "Winner-Take-All Dynamics",
     "slug": "winner-take-all-dynamics",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
   },
   {
-    "id": "pat_4a2b8e9f0c6d4e3f8a7b1c5d8e9f0a1b",
+    "id": "pat_cf9689f7ae6c44ab98ed51343c",
     "title": "Winner-Take-All Monopoly",
     "slug": "winner-take-all-monopoly",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
+    ],
+    "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f5012e73e4b906d91b26",
+    "title": "Wire Tap Pattern",
+    "slug": "wire-tap-pattern",
+    "domains": [
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -15777,9 +17129,7 @@
     "title": "Worker-Owned Platform",
     "slug": "worker-owned-platform",
     "domains": [
-      "platform",
-      "business",
-      "social"
+      "platform"
     ],
     "domain": "platform",
     "status": "draft"
@@ -15840,6 +17190,16 @@
       "startup"
     ],
     "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c47f5013575699d92e67aa5",
+    "title": "Write-Ahead Log Pattern",
+    "slug": "write-ahead-log-pattern",
+    "domains": [
+      "platform"
+    ],
+    "domain": "platform",
     "status": "draft"
   },
   {
