@@ -1,19 +1,19 @@
 ---
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/sharding-pattern.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/sharding-pattern.md
 slug: sharding-pattern
 title: Sharding Pattern
 aliases:
 - Database Sharding
 - Horizontal Partitioning
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - scalability
-  - data
+  - practice
+  - tool
   era:
   - digital
   - cognitive
@@ -21,30 +21,43 @@ classification:
   - software-engineering
   - platform-design
   status: draft
-  commons_alignment: 0
-  commons_domain:
-  - platform
+  commons_alignment: 3
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/sharding
 - https://www.geeksforgeeks.org/system-design/database-sharding-a-system-design-concept/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+id: pat_019c47f500977925bc591eb1c2
+page_url: https://commons-os.github.io/patterns/sharding-pattern/
+commons_domain: *id001
 ---
 
-## 1. Overview
+
+
+
+
+
+
+
+
+### 1. Overview
 
 The Sharding pattern is a database architecture pattern that horizontally partitions a large dataset into smaller, more manageable chunks called shards [1]. Each shard has the same schema as the original database but contains a different subset of the data. This pattern is crucial for achieving horizontal scalability, as it allows for the distribution of data and query load across multiple servers, thereby improving performance and resilience [2]. The concept of sharding has its roots in distributed databases and has become increasingly popular with the rise of large-scale, data-intensive applications and microservices architectures.
 
-## 2. Core Principles
+### 2. Core Principles
 
 The Sharding pattern is based on a set of fundamental principles that ensure its effectiveness in distributing data and load across a system. These principles are essential for a successful implementation of sharding.
 
@@ -71,7 +84,7 @@ The Sharding pattern is based on a set of fundamental principles that ensure its
   </tr>
 </table>
 
-## 3. Problem Statement
+### 3. Key Practices
 
 A monolithic database, hosted on a single server, faces several limitations when dealing with large-scale applications and massive volumes of data. These limitations can significantly impact the performance, scalability, and availability of the system.
 
@@ -83,7 +96,7 @@ A monolithic database, hosted on a single server, faces several limitations when
 
 Vertical scaling, which involves adding more resources to a single server, can provide a temporary solution. However, it is often expensive and ultimately reaches a physical limit. For a cloud-native application that needs to support a large number of concurrent users and a constantly growing dataset, a more scalable and cost-effective solution is required [1].
 
-## 4. Solution
+### 4. Implementation
 
 The Sharding pattern addresses the limitations of a single-server database by dividing the data store into horizontal partitions or shards. Each shard has the same schema but holds a distinct subset of the data. This allows the data and the query load to be distributed across multiple servers, thus improving scalability, performance, and availability [1].
 
@@ -114,7 +127,19 @@ There are several strategies for sharding data, each with its own advantages and
   </tr>
 </table>
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 While the Sharding pattern offers significant benefits for scalability and performance, it also introduces a number of trade-offs and challenges that must be carefully considered.
 
@@ -149,7 +174,7 @@ While the Sharding pattern offers significant benefits for scalability and perfo
   </tr>
 </table>
 
-## 6. Real-world Examples
+### 6. When to Use
 
 The Sharding pattern is widely used by large-scale web applications and services to manage massive datasets and high traffic loads. Here are a few examples:
 
@@ -176,7 +201,7 @@ The Sharding pattern is widely used by large-scale web applications and services
   </tr>
 </table>
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the Cognitive Era, characterized by the proliferation of Artificial Intelligence (AI) and Machine Learning (ML), the Sharding pattern remains highly relevant and takes on new dimensions. The vast amounts of data required to train and operate AI/ML models necessitate scalable data storage and processing solutions, for which sharding is a cornerstone technology.
 
@@ -203,7 +228,7 @@ In the Cognitive Era, characterized by the proliferation of Artificial Intellige
   </tr>
 </table>
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 The Sharding pattern, while primarily a technical solution for scalability, can be assessed against the principles of the Commons to understand its broader implications for digital ecosystems.
 
@@ -234,8 +259,7 @@ The Sharding pattern, while primarily a technical solution for scalability, can 
   </tr>
 </table>
 
-## References
-
+### 8. References
 [1] Microsoft. "Sharding pattern - Azure Architecture Center." Microsoft Learn. Accessed February 10, 2026. https://learn.microsoft.com/en-us/azure/architecture/patterns/sharding.
 
 [2] GeeksforGeeks. "Database Sharding - System Design." GeeksforGeeks. Last updated January 14, 2026. https://www.geeksforgeeks.org/system-design/database-sharding-a-system-design-concept/.

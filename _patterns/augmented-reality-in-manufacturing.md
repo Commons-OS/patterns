@@ -1,7 +1,7 @@
 ---
 id: pat_tbbwtzgiw5gmnlrykxd3gh7wpa
 page_url: https://commons-os.github.io/patterns/augmented-reality-in-manufacturing/
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/augmented-reality-in-manufacturing.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/augmented-reality-in-manufacturing.md
 slug: augmented-reality-in-manufacturing
 title: Augmented Reality In Manufacturing
 aliases: []
@@ -19,7 +19,7 @@ classification:
   - Commons OS
   status: draft
   commons_alignment: 3
-  commons_domain:
+  commons_domain: &id001
   - business
   - startup
   - security
@@ -29,12 +29,22 @@ enables: []
 requires: []
 related: []
 contributors:
-- commons-os
+- name: commons-os
+  role: author
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
+
 id: pat_01kg50240jfastcwdcdbgxbdb1
 page_url: https://commons-os.github.io/patterns/augmented-reality-in-manufacturing/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/augmented-reality-in-manufacturing.md
@@ -129,7 +139,7 @@ The adoption of Augmented Reality in manufacturing has demonstrated significant 
 [4]: https://www.boeing.com/features/2018/01/ar-glasses-01-18.page
 
 
-### 7. Cognitive Era Considerations (200-400 words)
+### 7. Anti-Patterns & Gotchas (200-400 words)
 
 In the Cognitive Era, where data is the new oil and intelligence is embedded in every process, Augmented Reality in Manufacturing is evolving from a visualization tool to a key enabler of the smart factory. The integration of AR with other cognitive technologies like Artificial Intelligence (AI), the Internet of Things (IoT), and advanced data analytics is unlocking new levels of efficiency, productivity, and innovation.
 
@@ -141,7 +151,7 @@ In the Cognitive Era, where data is the new oil and intelligence is embedded in 
 
 **The Future of AR in Manufacturing:** As we move further into the Cognitive Era, we can expect to see even more advanced applications of AR in manufacturing. This includes the use of AR for remote collaboration between humans and robots, the development of AR-powered training simulations that adapt to the individual needs of the learner, and the creation of fully immersive AR experiences that blend the physical and digital worlds in seamless and intuitive ways. The continued convergence of AR with other cognitive technologies will undoubtedly reshape the future of manufacturing, creating a more intelligent, connected, and human-centric industrial landscape.
 
-### 8. Commons Alignment Assessment (v2.0)
+### 8. References (v2.0)
 
 This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 

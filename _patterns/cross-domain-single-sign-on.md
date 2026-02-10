@@ -1,18 +1,18 @@
 ---
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/cross-domain-single-sign-on.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/cross-domain-single-sign-on.md
 slug: cross-domain-single-sign-on
 title: Cross-Domain Single Sign-On
 aliases:
 - Cross-Domain SSO
 - CDSSO
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - integration
+  - practice
   era:
   - digital
   - cognitive
@@ -21,18 +21,18 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- single-sign-on
-- identity-federation
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://docs.pingidentity.com/web-agents/2025.11/user-guide/cdsso.html
 - https://docs.oracle.com/cd/E19316-01/820-3746/gipjl/index.html
@@ -41,7 +41,18 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+id: pat_019c47f4fdf4749ea8d2339756
+page_url: https://commons-os.github.io/patterns/cross-domain-single-sign-on/
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
+
 
 ### 1. Overview
 
@@ -58,11 +69,11 @@ The implementation of Cross-Domain Single Sign-On is founded on several core pri
 | **Token-Based Federation** | The user's identity and session information are propagated across domains using security tokens, such as SAML assertions, JWTs (JSON Web Tokens), or OpenID Connect ID Tokens. The token acts as a temporary passport for the user. |
 | **Secure Token Exchange** | The mechanism for transferring the token between domains must be secure to prevent interception or tampering. This is typically achieved through browser redirects, back-channel communication, or by using an intermediary agent. |
 
-### 3. Problem Statement
+### 3. Key Practices
 
 As organizations expand their digital footprint, they often deploy services and applications across multiple, distinct DNS domains. For example, a company might have its main website at `www.example.com`, its support portal at `support.example.net`, and a partner application at `partners.example.org`. Without a cross-domain authentication strategy, users are forced to maintain separate accounts and login sessions for each domain. This leads to a fragmented and frustrating user experience, increases the likelihood of password fatigue and weak password practices, and complicates identity and access management for administrators.
 
-### 4. Solution
+### 4. Implementation
 
 The Cross-Domain Single Sign-On pattern solves this problem by establishing a federated identity system. The solution involves a central Identity Provider (IdP) and multiple Service Providers (SPs) located in different domains. When a user attempts to access a resource on a participating SP, the following flow typically occurs:
 
@@ -73,7 +84,19 @@ The Cross-Domain Single Sign-On pattern solves this problem by establishing a fe
 5.  The SP receives the token, validates its authenticity by checking the IdP's signature, and establishes a local session for the user.
 6.  When the user later navigates to another SP in a different domain, that SP will also redirect to the IdP. Since the user already has an active session, the IdP will immediately issue a new token for the second SP without requiring the user to log in again, thus achieving seamless cross-domain access [2].
 
-### 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 **Pros:**
 *   **Improved User Experience:** Users log in once to access multiple services, reducing friction and improving satisfaction.
@@ -85,17 +108,17 @@ The Cross-Domain Single Sign-On pattern solves this problem by establishing a fe
 *   **Implementation Complexity:** Setting up the trust relationships and configuring the token exchange between the IdP and multiple SPs can be complex.
 *   **Security Risk Concentration:** A compromise of the central IdP could potentially grant an attacker access to all connected systems.
 
-### 6. Real-world Examples
+### 6. When to Use
 
 *   **Google Accounts:** A user logged into Gmail (`mail.google.com`) is automatically authenticated when they visit YouTube (`youtube.com`) or Google Drive (`drive.google.com`). Google's account service acts as the central IdP for its vast ecosystem of services across different domains.
 *   **Enterprise Identity Solutions:** Companies like Okta, Auth0 (now part of Okta), Ping Identity, and Microsoft (with Azure Active Directory) provide comprehensive CDSSO solutions that allow organizations to integrate their various cloud and on-premise applications, regardless of their domain.
 *   **IBM Security Access Manager:** This platform provides a solution for managing user access and implementing single sign-on across different secure domains, as detailed in their documentation [3].
 
-### 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, where AI and machine learning systems are increasingly prevalent, the Cross-Domain Single Sign-On pattern takes on new significance. AI-driven services are often distributed and specialized, running in different cloud environments or on-premise clusters. CDSSO is essential for creating a unified fabric that allows these services to securely interact and share data on behalf of a user. For example, a personalized AI assistant might need to access a user's data from a health service in one domain and a financial service in another. CDSSO provides the foundational identity layer to make such secure, cross-domain AI interactions possible, enabling federated learning and complex, personalized user journeys without compromising security.
 
-### 8. Commons Alignment Assessment
+### 8. References
 
 | Commons Principle | Alignment Analysis |
 | :--- | :--- |

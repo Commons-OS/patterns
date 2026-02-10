@@ -1,20 +1,19 @@
 ---
-id: pat_ai_gateway_pattern
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/ai-gateway-pattern.md
+id: pat_019c47f4fcd673c6b7f32e9297
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/ai-gateway-pattern.md
 slug: ai-gateway-pattern
 title: AI Gateway Pattern
 aliases:
 - LLM Gateway
 - AI Router Pattern
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - api
-  - integration
+  - practice
   era:
   - digital
   - cognitive
@@ -23,31 +22,41 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- api-gateway-pattern
-- rate-limiting-pattern
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://commons.engineering
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/ai-gateway-pattern/
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
+
 # AI Gateway Pattern
 
-## 1. Introduction
+### 1. Introduction
 
 The AI Gateway pattern introduces a centralized access layer that standardizes and manages interactions between an organization's applications and various Artificial Intelligence (AI) services. It acts as a single entry point for all AI-related requests, providing a unified interface for consuming services from multiple AI providers, including large language models (LLMs), machine learning (ML) models, and other AI capabilities. This pattern is analogous to an API Gateway but is specifically tailored to the unique requirements of AI workloads, such as prompt management, token accounting, and model routing.
 
-## 2. Problem
+### 2. Problem
 
 As organizations increasingly adopt AI, they often face a set of common challenges stemming from the decentralized and direct integration of AI services into their applications. This approach leads to architectural sprawl, where multiple applications communicate directly with a variety of AI providers. This creates several problems:
 
@@ -57,7 +66,7 @@ As organizations increasingly adopt AI, they often face a set of common challeng
 *   **Cost Management:** Tracking and controlling the costs associated with AI service usage becomes complex and inefficient, as there is no centralized mechanism for monitoring and enforcing budgets.
 *   **Inconsistent Observability:** Gaining a unified view of AI service usage, performance, and errors is difficult when each application has its own integration and logging mechanisms.
 
-## 3. Solution
+### 3. Solution
 
 The AI Gateway pattern addresses these challenges by introducing a centralized gateway that sits between AI consumers and AI providers. All AI-related traffic is routed through this gateway, which is responsible for a wide range of cross-cutting concerns.
 
@@ -95,7 +104,7 @@ The AI Gateway is responsible for a variety of functions that help to streamline
 | **Token Accounting**  | Tracks the number of tokens consumed by each client, enabling fine-grained cost allocation and budget enforcement.                         |
 | **Logging & Metrics** | Centralizes the collection of logs and metrics for all AI interactions, providing a unified view for monitoring, auditing, and debugging.     |
 
-## 4. Benefits
+### 4. Benefits
 
 The adoption of the AI Gateway pattern offers several significant benefits:
 
@@ -105,7 +114,7 @@ The adoption of the AI Gateway pattern offers several significant benefits:
 *   **Enhanced Observability:** The gateway offers a unified view of all AI interactions, making it easier to monitor performance, troubleshoot issues, and gain insights into AI usage patterns.
 *   **Increased Developer Productivity:** Developers can focus on building application features without having to worry about the complexities of integrating with and managing different AI services.
 
-## 5. Use Cases
+### 5. Use Cases
 
 The AI Gateway pattern is particularly beneficial in the following scenarios:
 
@@ -114,6 +123,16 @@ The AI Gateway pattern is particularly beneficial in the following scenarios:
 *   **Cost-sensitive Applications:** For applications where it is critical to monitor and control the costs associated with AI service usage.
 *   **Regulated Industries:** In industries with strict compliance requirements, where it is necessary to have a centralized point of control for auditing and data protection.
 
-## 6. References
+### 6. References
 
 [1] Vasanthan K. (2026, January 28). *AI Gateway Pattern: Centralized Model Access Layer*. Medium. Retrieved from https://medium.com/@vasanthancomrads/ai-gateway-pattern-centralized-model-access-layer-c5049e4f151f
+
+
+### 7. Anti-Patterns & Gotchas
+
+Common mistakes include applying this pattern without understanding the specific context and constraints of the system.
+
+
+### 8. References
+
+See sources in frontmatter.

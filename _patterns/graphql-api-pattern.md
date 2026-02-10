@@ -1,18 +1,18 @@
 ---
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/graphql-api-pattern.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/graphql-api-pattern.md
 slug: graphql-api-pattern
 title: GraphQL API Pattern
 aliases:
 - GraphQL
 - Unified Query Language
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - api
+  - practice
   era:
   - digital
   - cognitive
@@ -20,17 +20,19 @@ classification:
   - software-engineering
   - platform-design
   status: draft
-  commons_alignment: 0
-  commons_domain:
-  - platform
+  commons_alignment: 3
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://graphql.org/
 - https://www.apollographql.com/docs/graphos/resources/guides/graphql-adoption-patterns
@@ -38,13 +40,24 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+id: pat_019c47f4feeb772a90ca97f42d
+page_url: https://commons-os.github.io/patterns/graphql-api-pattern/
+commons_domain: *id001
 ---
 
-## 1. Overview
+
+
+
+
+
+
+
+
+### 1. Overview
 
 GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. It provides a more efficient, powerful and flexible alternative to the traditional REST API. GraphQL was developed internally by Facebook in 2012 before being publicly released in 2015. It allows clients to request exactly the data they need and nothing more, making it easier to evolve APIs over time, and enabling powerful developer tools.
 
-## 2. Core Principles
+### 2. Core Principles
 
 The core principles of GraphQL are:
 
@@ -54,15 +67,27 @@ The core principles of GraphQL are:
 *   **Client-specified queries:** The client specifies exactly what data it needs, which can reduce the amount of data transferred over the network.
 *   **Introspective:** A GraphQL server can be queried for the types it supports, which allows for powerful tooling and automation.
 
-## 3. Problem Statement
+### 3. Key Practices
 
 Traditional REST APIs often suffer from two main problems: over-fetching and under-fetching. Over-fetching occurs when an endpoint returns more data than the client needs, wasting bandwidth and processing power. Under-fetching occurs when an endpoint doesn't provide all of the required data, forcing the client to make multiple requests to get everything it needs. This can lead to slow and inefficient applications, especially on mobile devices with limited network connectivity.
 
-## 4. Solution
+### 4. Implementation
 
 GraphQL addresses the problems of over-fetching and under-fetching by allowing the client to specify exactly what data it needs in a single request. The client sends a query to the GraphQL server that describes the data it wants, and the server returns a JSON object with that data. This gives clients more control over the data they receive, and can significantly improve performance and reduce bandwidth usage.
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 While GraphQL offers significant advantages, it also introduces its own set of trade-offs and considerations:
 
@@ -74,7 +99,7 @@ While GraphQL offers significant advantages, it also introduces its own set of t
 | **Caching** | Caching at the network level is more complex than with REST, as each query can be unique. | Client-side caching is often more effective, with libraries like Apollo Client and Relay providing sophisticated caching mechanisms. |
 | **Security** | The schema provides a well-defined contract that can help to prevent certain types of attacks. | Complex queries can be used to launch denial-of-service attacks. Implementing rate limiting and query cost analysis is crucial. |
 
-## 6. Real-world Examples
+### 6. When to Use
 
 Several prominent technology companies have adopted GraphQL to power their APIs:
 
@@ -83,11 +108,11 @@ Several prominent technology companies have adopted GraphQL to power their APIs:
 *   **Pinterest:** Pinterest uses GraphQL to power its web and mobile applications, enabling it to deliver a rich and engaging user experience.
 *   **Shopify:** Shopify's public API is a GraphQL API that allows developers to build powerful applications and integrations for the Shopify platform.
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, where AI and machine learning are becoming increasingly prevalent, GraphQL can play a crucial role in building intelligent applications. The ability to fetch precisely the data needed is particularly valuable for training machine learning models, which often require large and complex datasets. GraphQL's schema can be used to define the data requirements for these models, making it easier to build, maintain, and evolve AI-powered systems. Furthermore, GraphQL's flexibility allows for the creation of dynamic and personalized user experiences, which are a hallmark of the cognitive era.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 | Commons Principle | Assessment |
 | --- | --- |

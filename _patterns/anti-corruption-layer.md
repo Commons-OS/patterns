@@ -1,17 +1,17 @@
 ---
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/anti-corruption-layer.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/anti-corruption-layer.md
 slug: anti-corruption-layer
 title: Anti-Corruption Layer
 aliases:
 - ACL
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - integration
+  - practice
   era:
   - digital
   - cognitive
@@ -20,18 +20,18 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- strangler-fig
-- messaging-bridge
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer
 - https://microservices.io/patterns/refactoring/anti-corruption-layer.html
@@ -39,13 +39,24 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+id: pat_019c47f4fce37db2a16938101b
+page_url: https://commons-os.github.io/patterns/anti-corruption-layer/
+commons_domain: *id001
 ---
 
-## 1. Overview
+
+
+
+
+
+
+
+
+### 1. Overview
 
 The Anti-Corruption Layer (ACL) is a design pattern used in software architecture to isolate a system from the complexities and potential "corruption" of external or legacy systems. It acts as a translation layer, mediating between the domain model of the core system and the data models or APIs of external systems. This pattern was first introduced by Eric Evans in his book, "Domain-Driven Design: Tackling Complexity in the Heart of Software" [1]. The primary significance of the ACL is to protect the integrity and consistency of the core domain model, allowing it to evolve independently without being constrained by the design decisions of other systems.
 
-## 2. Core Principles
+### 2. Core Principles
 
 The Anti-Corruption Layer is defined by a set of core principles that guide its implementation and use:
 
@@ -54,15 +65,27 @@ The Anti-Corruption Layer is defined by a set of core principles that guide its 
 *   **Facade:** The ACL can be implemented as a facade, presenting a simplified and consistent interface to the core application for interacting with the external system.
 *   **Adapter:** It can also function as an adapter, converting the interface of the external system into an interface that the core application can understand.
 
-## 3. Problem Statement
+### 3. Key Practices
 
 When a modern application needs to integrate with a legacy system or a third-party service, it often faces challenges due to differing data models, APIs, and underlying technologies. The legacy system might have a convoluted data schema, or its API might be outdated and difficult to use. Forcing the modern application to conform to the legacy system's semantics can lead to a "corrupted" and overly complex design, hindering its maintainability and future development. This is particularly problematic during a gradual migration from a monolithic architecture to a microservices-based one, where new services must coexist and interact with the legacy monolith.
 
-## 4. Solution
+### 4. Implementation
 
 The Anti-Corruption Layer pattern addresses this problem by introducing a mediating layer between the two systems. This layer is responsible for all communication and translation. When the core application needs to interact with the external system, it sends a request to the ACL using its own domain model. The ACL then translates this request into a format that the external system can understand and forwards it. Conversely, when the external system sends a response, the ACL translates it back into the core application's domain model before passing it on. This ensures that the core application remains "uncorrupted" by the external system's design.
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 While the Anti-Corruption Layer pattern offers significant benefits, it also introduces some trade-offs:
 
@@ -74,15 +97,15 @@ While the Anti-Corruption Layer pattern offers significant benefits, it also int
 
 Considerations for implementing an ACL include its scalability, how it will be managed and monitored, and whether it should handle all communication or just a subset of features. In the context of a migration, it's also important to decide if the ACL is a temporary or permanent component of the architecture.
 
-## 6. Real-world Examples
+### 6. When to Use
 
 A common real-world example of the Anti-Corruption Layer is in the context of migrating a monolithic e-commerce application to a microservices architecture. The monolith may have a large, complex database and a tightly coupled set of services. As new microservices are developed for features like order management or customer relationship management, they need to interact with the legacy monolith to access existing data. An ACL can be implemented to mediate between the new microservices and the monolith. For instance, a new "Order" microservice can communicate with the ACL using its own clean, modern data model, and the ACL will translate those communications to the legacy monolith's data model.
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, where AI and machine learning models are increasingly integrated into applications, the Anti-Corruption Layer pattern remains highly relevant. AI/ML models often have their own specific data formats and APIs. An ACL can be used to isolate the core application from the complexities of these models, allowing for easier integration and the ability to swap out models without impacting the core application. For example, an application using a natural language processing (NLP) model for sentiment analysis could use an ACL to translate between its internal data structures and the input/output formats required by the NLP service.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 The Anti-Corruption Layer pattern aligns with several of the Commons principles:
 

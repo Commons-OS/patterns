@@ -1,50 +1,61 @@
---- id: pat_3a2b1f0c9d8e7a6b5c4d3e2f
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/race-to-the-bottom-pricing.md
+---
+id: pat_3a2b1f0c9d8e7a6b5c4d3e2f
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/race-to-the-bottom-pricing.md
 slug: race-to-the-bottom-pricing
 title: Race to the Bottom Pricing
 aliases:
-  - Price War
-  - Undercutting
-  - Predatory Pricing
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+- Price War
+- Undercutting
+- Predatory Pricing
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-    - anti-pattern
+  - anti-pattern
   era:
-    - digital
-    - cognitive
+  - digital
+  - cognitive
   origin:
-    - platform-design
-    - network-theory
-    - software-engineering
+  - platform-design
+  - network-theory
+  - software-engineering
   status: draft
   commons_alignment: 1
-  commons_domain:
-    - platform
-    - business
-    - social
+  commons_domain: &id001
+  - business
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
 contributors:
-  - higgerix
-  - cloudsters
+- name: higgerix
+  role: author
+- name: cloudsters
+  role: author
 sources:
-  - https://www.retailtouchpoints.com/topics/personalization/race-to-the-bottom-pricing-is-a-losing-run-why-retailers-should-focus-on-personalized-promotions-instead
-  - https://blog.blackcurve.com/how-to-avoid-a-race-to-the-bottom
-  - https://www.aeaweb.org/conference/2023/program/paper/h8s3k2DE
-  - https://stripe.com/resources/more/competitors-pricing-strategies
-  - https://www.vendavo.com/all/how-to-create-a-competitive-pricing-strategy-with-definitions-examples-and-benefits/
+- https://www.retailtouchpoints.com/topics/personalization/race-to-the-bottom-pricing-is-a-losing-run-why-retailers-should-focus-on-personalized-promotions-instead
+- https://blog.blackcurve.com/how-to-avoid-a-race-to-the-bottom
+- https://www.aeaweb.org/conference/2023/program/paper/h8s3k2DE
+- https://stripe.com/resources/more/competitors-pricing-strategies
+- https://www.vendavo.com/all/how-to-create-a-competitive-pricing-strategy-with-definitions-examples-and-benefits/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/race-to-the-bottom-pricing/
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
 
 ### 1. Overview
 
@@ -132,13 +143,13 @@ Another example can be found in the world of e-commerce, where online marketplac
 
 The gig economy is another area where the race to the bottom is rampant. Platforms like Uber and a variety of freelance marketplaces have created a global marketplace for labor, where workers from around the world compete for the same jobs. This has led to a downward pressure on wages, as workers are forced to bid against each other for work. While these platforms have created new opportunities for many people, they have also been criticized for their role in driving down wages and creating a precarious workforce.
 
-### 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 The advent of the cognitive era, characterized by the widespread adoption of artificial intelligence and machine learning, has added a new layer of complexity to the Race to the Bottom Pricing anti-pattern. AI-powered pricing algorithms can analyze vast amounts of data in real-time, allowing companies to adjust their prices with a speed and precision that was previously unimaginable. This can accelerate the race to the bottom, as competitors are able to react to each other's price changes almost instantaneously. The result is a hyper-dynamic pricing environment where prices can fluctuate wildly, and profit margins can be squeezed to the breaking point.
 
 However, the cognitive era also offers new tools and strategies for avoiding the race to the bottom. AI can be used to personalize offers and promotions, allowing companies to target specific customer segments with tailored pricing. This can help to reduce the reliance on mass-market discounting and create a more sustainable pricing model. AI can also be used to identify new opportunities for value creation, such as by developing new products and services or by improving the customer experience. By focusing on value rather than price, companies can differentiate themselves from the competition and escape the downward spiral of the race to the bottom.
 
-### 8. Commons Alignment Assessment
+### 8. References
 
 -   **Shared Resource Potential:** Low - This pattern actively depletes the shared resource of a healthy market by driving down prices and eroding profit margins. It encourages a zero-sum mentality where one company's gain is another's loss, rather than fostering a collaborative environment where all can thrive.
 

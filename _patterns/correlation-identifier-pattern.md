@@ -1,18 +1,18 @@
 ---
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/correlation-identifier-pattern.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/correlation-identifier-pattern.md
 slug: correlation-identifier-pattern
 title: Correlation Identifier Pattern
 aliases:
 - Trace ID
 - Request ID
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - observability
+  - tool
   era:
   - digital
   - cognitive
@@ -20,17 +20,19 @@ classification:
   - software-engineering
   - platform-design
   status: draft
-  commons_alignment: 0
-  commons_domain:
-  - platform
+  commons_alignment: 3
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/CorrelationIdentifier.html
 - https://microsoft.github.io/code-with-engineering-playbook/observability/correlation-id/
@@ -38,13 +40,24 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+id: pat_019c47f4fde773eda01753f027
+page_url: https://commons-os.github.io/patterns/correlation-identifier-pattern/
+commons_domain: *id001
 ---
 
-## 1. Overview
+
+
+
+
+
+
+
+
+### 1. Overview
 
 The Correlation Identifier pattern is a fundamental concept in distributed systems and messaging architectures. It provides a mechanism to track a request or a message as it traverses through multiple services or components. The core idea is to assign a unique identifier to an initial request and propagate this identifier across all subsequent downstream requests and responses. This allows for a unified view of a transaction, making it easier to trace, debug, and monitor the entire workflow. The historical origins of this pattern can be traced back to early messaging systems and enterprise application integration (EAI), where the need to correlate requests and replies in asynchronous communication was paramount [1].
 
-## 2. Core Principles
+### 2. Core Principles
 
 The Correlation Identifier pattern is defined by a set of core principles that ensure its effectiveness in providing end-to-end traceability:
 
@@ -54,7 +67,7 @@ The Correlation Identifier pattern is defined by a set of core principles that e
 *   **Header-Based Transmission:** In synchronous communication protocols like HTTP, the correlation identifier is typically passed in a request header (e.g., `X-Correlation-ID`).
 *   **Message-Based Transmission:** In asynchronous communication, such as with message queues, the correlation identifier is included in the message header or payload.
 
-## 3. Problem Statement
+### 3. Key Practices
 
 In modern distributed systems, particularly those based on microservices architectures, a single user request can trigger a cascade of interactions between multiple services. This distribution of logic, while offering benefits in scalability and resilience, introduces significant challenges in observability. Without a mechanism to link the various operations together, it becomes exceedingly difficult to trace the end-to-end flow of a request. This leads to several problems:
 
@@ -62,7 +75,7 @@ In modern distributed systems, particularly those based on microservices archite
 *   **Performance Monitoring:** It is difficult to identify performance bottlenecks as there is no easy way to measure the time spent in each service for a specific request.
 *   **Auditing and Analytics:** Aggregating and analyzing business transactions that span multiple services is a complex task.
 
-## 4. Solution
+### 4. Implementation
 
 The Correlation Identifier pattern addresses these challenges by providing a simple yet powerful solution. The solution involves the following steps:
 
@@ -72,7 +85,19 @@ The Correlation Identifier pattern addresses these challenges by providing a sim
 
 This approach creates a virtual thread that connects all the distributed components of a transaction, enabling developers and operators to have a holistic view of the system's behavior.
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 While the Correlation Identifier pattern is highly beneficial, there are some trade-offs and considerations to keep in mind:
 
@@ -82,7 +107,7 @@ While the Correlation Identifier pattern is highly beneficial, there are some tr
 | **Enhanced Monitoring:** Enables the tracking of request latency and performance across services. | **Consistency is Key:** The effectiveness of the pattern relies on the consistent implementation across all services. Any service that fails to propagate the ID breaks the chain. |
 | **Centralized Logging:** Allows for the aggregation of logs from multiple services into a centralized logging platform for a unified view. | **Potential for ID Collision:** While unlikely with UUIDs, there is a theoretical possibility of ID collision in high-throughput systems. |
 
-## 6. Real-world Examples
+### 6. When to Use
 
 The Correlation Identifier pattern is widely used in various real-world systems and platforms:
 
@@ -90,7 +115,7 @@ The Correlation Identifier pattern is widely used in various real-world systems 
 *   **Financial Institutions:** In banking systems, a correlation ID can be used to trace a financial transaction as it moves through various fraud detection, compliance, and ledger systems.
 *   **Cloud Platforms:** Cloud providers like AWS and Azure use correlation identifiers extensively in their services to help customers troubleshoot issues and monitor their applications. For instance, AWS API Gateway can generate a request ID that can be used as a correlation ID [3].
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, where AI and machine learning models are integrated into applications, the Correlation Identifier pattern becomes even more critical. The decisions made by AI models can be complex and opaque. By using correlation identifiers, it is possible to trace the inputs to a model and the outputs it generates, which is essential for:
 
@@ -98,7 +123,7 @@ In the cognitive era, where AI and machine learning models are integrated into a
 *   **Auditing and Compliance:** Providing a clear audit trail for regulatory purposes.
 *   **Performance Monitoring:** Tracking the performance of AI models in real-time.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 The Correlation Identifier pattern aligns with the principles of the Commons in several ways:
 

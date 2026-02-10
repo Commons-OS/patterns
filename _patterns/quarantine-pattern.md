@@ -1,20 +1,19 @@
 ---
-id: pat_quarantine_pattern
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/quarantine-pattern.md
+id: pat_019c47f5000c7ed29f96ce243c
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/quarantine-pattern.md
 slug: quarantine-pattern
 title: Quarantine Pattern
 aliases:
 - Gated Promotion
 - Untrusted Component Isolation
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - resilience
-  - security
+  - practice
   era:
   - digital
   - cognitive
@@ -23,31 +22,41 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- circuit-breaker
-- bulkhead
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/quarantine
 - https://medium.com/@dmosyan/quarantine-design-pattern-b9feacdc2d7b
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/quarantine-pattern/
+commons_domain: *id001
 ---
 
-## 1. Overview
+
+
+
+
+
+
+
+
+### 1. Overview
 
 The Quarantine pattern is a design approach used to safeguard systems by isolating untrusted or potentially harmful components until they can be properly vetted and deemed safe for integration. This pattern is particularly significant in the context of modern software development, where the use of third-party libraries, open-source components, and microservices is prevalent. By creating a controlled environment—a "quarantine"—the pattern allows for the inspection, analysis, and validation of these external elements before they are promoted to a production environment. The historical origins of this pattern can be traced back to the principles of network security, where suspicious network traffic or files are isolated in a demilitarized zone (DMZ) for inspection before being allowed into the trusted internal network.
 
-## 2. Core Principles
+### 2. Core Principles
 
 The Quarantine pattern is defined by a set of core principles that govern its implementation and operation:
 
@@ -56,11 +65,11 @@ The Quarantine pattern is defined by a set of core principles that govern its im
 *   **Defined Promotion/Rejection Criteria:** There must be a clear, predefined set of criteria for determining whether a component passes or fails the quarantine process. This removes ambiguity and ensures consistent quality and security standards.
 *   **Automated Workflow:** The process of moving a component into quarantine, running the analyses, and then promoting or rejecting it should be as automated as possible to minimize manual effort and ensure speed and consistency.
 
-## 3. Problem Statement
+### 3. Key Practices
 
 Modern software systems are increasingly composed of components from various sources, including open-source repositories, third-party vendors, and other internal teams. While this compositional approach accelerates development, it also introduces significant risks. An untrusted component could contain security vulnerabilities, malicious code, performance issues, or licensing conflicts. Integrating such a component directly into a production environment can lead to security breaches, system instability, data loss, and legal liabilities. The core problem, therefore, is how to leverage the benefits of third-party components while mitigating the inherent risks associated with their unknown quality and trustworthiness.
 
-## 4. Solution
+### 4. Implementation
 
 The Quarantine pattern provides a solution by establishing a formal, intermediate stage for all incoming components. The solution involves the following steps:
 
@@ -73,7 +82,19 @@ The Quarantine pattern provides a solution by establishing a formal, intermediat
     *   **Performance and Load Testing:** To ensure the component meets performance requirements.
 4.  **Decision Gate:** Based on the results of the validation pipeline, an automated decision is made. If the component passes all checks, it is "promoted" and can be deployed to production. If it fails, it is "rejected," and the development team is notified to address the issues.
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 The implementation of the Quarantine pattern comes with its own set of trade-offs:
 
@@ -86,7 +107,7 @@ The implementation of the Quarantine pattern comes with its own set of trade-off
 
 One of the primary considerations is the potential impact on development velocity. A poorly designed quarantine process can become a bottleneck. It is crucial to automate the process as much as possible and to provide developers with fast feedback. Furthermore, the quarantine environment itself requires resources and maintenance, which adds to the operational overhead.
 
-## 6. Real-world Examples
+### 6. When to Use
 
 The Quarantine pattern is used in various forms across the industry:
 
@@ -94,11 +115,11 @@ The Quarantine pattern is used in various forms across the industry:
 *   **Dependency Management:** Tools like JFrog Artifactory and Sonatype Nexus Repository can be configured to act as a proxy to public repositories. They can be set up to quarantine new dependencies and run security and license scans before making them available to developers.
 *   **Email Filtering:** Enterprise email systems often use a quarantine mechanism to hold suspicious emails for review by a security team before they are delivered to the user's inbox.
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, the Quarantine pattern can be significantly enhanced by leveraging artificial intelligence and machine learning. AI/ML models can be trained to detect novel and zero-day vulnerabilities that traditional signature-based scanners might miss. Anomaly detection algorithms can be used to identify unusual behavior in a quarantined component during dynamic analysis. Furthermore, AI can be used to prioritize alerts and to provide developers with more actionable insights, reducing the manual effort required to triage and fix issues. This evolution of the pattern leads to a more proactive and intelligent approach to securing the software supply chain.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 The Quarantine pattern can be assessed against the five principles of the Commons:
 

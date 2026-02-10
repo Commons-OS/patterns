@@ -1,19 +1,19 @@
 ---
-id: pat_prompt_engineering_pipeline
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/prompt-engineering-pipeline.md
+id: pat_019c47f4fffb71b88d8926a3aa
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/prompt-engineering-pipeline.md
 slug: prompt-engineering-pipeline
 title: Prompt Engineering Pipeline
 aliases:
 - Prompt Management Pattern
 - LLM Prompt Lifecycle
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - data
+  - tool
   era:
   - digital
   - cognitive
@@ -22,36 +22,43 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- ai-gateway-pattern
-- retrieval-augmented-generation-pattern
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://commons.engineering
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/prompt-engineering-pipeline/
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
+
 # Prompt Engineering Pipeline
 
-## Context
-
+### 2. Core Principles
 You are developing a sophisticated application that leverages Large Language Models (LLMs) to perform complex tasks. These tasks require more than a single, static prompt. You need to dynamically construct prompts based on user input, external data sources, and a series of processing steps. This is common in applications such as question-answering systems, chatbots with access to external knowledge, and content generation tools that need to incorporate specific information.
 
-## Problem
-
+### 3. Key Practices
 As the complexity of your LLM-powered application grows, managing the logic for creating and manipulating prompts becomes increasingly difficult. A single, monolithic function or class for prompt generation can quickly become bloated, hard to test, and difficult to maintain. You need a structured and scalable way to handle multi-step prompt construction processes that may involve fetching data from databases, calling external APIs, performing calculations, and formatting the final prompt in a specific way.
 
-## Solution
-
+### 4. Implementation
 Implement a **Prompt Engineering Pipeline**, which is a sequence of distinct, modular stages that work together to construct a final prompt. Each stage in the pipeline takes data from the previous stage, performs a specific transformation or enrichment, and then passes the result to the next stage. This approach allows you to break down a complex prompt generation process into smaller, more manageable, and reusable components.
 
 A typical prompt engineering pipeline might include stages for:
@@ -74,7 +81,18 @@ Consider a question-answering application that uses a RAG approach to answer que
 
 This entire sequence can be modeled as a pipeline, where each step is a distinct stage.
 
-## Rationale
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
 
 The Prompt Engineering Pipeline pattern offers several advantages:
 
@@ -89,6 +107,20 @@ The Prompt Engineering Pipeline pattern offers several advantages:
 *   **Retrieval-Augmented Generation (RAG):** Prompt engineering pipelines are a core component of RAG systems, where they are used to retrieve and incorporate external knowledge into prompts.
 *   **Prompt Chaining:** While similar, prompt chaining usually implies a sequence of LLM calls, where the output of one call is used as the input for the next. A prompt engineering pipeline, on the other hand, is focused on the construction of a single, complex prompt before making a call to the LLM.
 
-## References
-
+### 8. References
 [1] [Prompt Pipelines. LLM-based applications can take the… | by Cobus Greyling | Medium](https://cobusgreyling.medium.com/prompt-pipelines-de48e25de224)
+
+
+### 1. Overview
+
+[Content to be added]
+
+
+### 6. When to Use
+
+This pattern is applicable in distributed systems and platform architectures where the described problem is encountered.
+
+
+### 7. Anti-Patterns & Gotchas
+
+Common mistakes include applying this pattern without understanding the specific context and constraints of the system.

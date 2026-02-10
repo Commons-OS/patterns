@@ -1,19 +1,19 @@
 ---
-id: pat_liquid_democracy_pattern
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/liquid-democracy-pattern.md
+id: pat_019c47f4ff6c7f96b1203e6cf2
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/liquid-democracy-pattern.md
 slug: liquid-democracy-pattern
 title: Liquid Democracy Pattern
 aliases:
 - Delegative Democracy
 - Proxy Voting Pattern
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - integration
+  - practice
   era:
   - digital
   - cognitive
@@ -22,35 +22,45 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- polycentric-governance-pattern
-- proposal-workflow-pattern
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://commons.engineering
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/liquid-democracy-pattern/
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
+
 # Liquid Democracy Pattern
 
-## 1. Intent
+### 1. Intent
 
 Liquid Democracy is a powerful voting model that gives individuals the flexibility to either vote directly on issues or delegate their voting power to a trusted representative. This pattern aims to create a more dynamic and participatory decision-making process, blending the best of direct and representative democracy.
 
-## 2. Problem
+### 2. Problem
 
 Traditional democratic systems often present a rigid choice: either the direct but often impractical model of every citizen voting on every issue, or the representative model where citizens cede their power to elected officials for a fixed term. This can lead to disengagement, lack of nuanced representation, and a sense of powerlessness among the electorate.
 
-## 3. Solution
+### 3. Solution
 
 Liquid Democracy offers a more fluid and adaptable solution. Citizens can choose to:
 
@@ -60,11 +70,11 @@ Liquid Democracy offers a more fluid and adaptable solution. Citizens can choose
 
 This model empowers individuals to participate in a way that best suits their knowledge and availability, while ensuring that decisions are made by those with the most relevant expertise.
 
-## 4. Rationale
+### 4. Rationale
 
 The core principle of Liquid Democracy is to leverage the collective intelligence of a group. By allowing for dynamic delegation, it ensures that votes are not just counted, but also weighed by the expertise and trust of the community. This leads to more informed and representative outcomes.
 
-## 5. Structure
+### 5. Structure
 
 A Liquid Democracy system is typically composed of the following elements:
 
@@ -77,13 +87,13 @@ A Liquid Democracy system is typically composed of the following elements:
 | **Delegate** | A voter who has received one or more delegations. |
 | **Voting Platform** | A secure digital platform that facilitates voting and delegation. |
 
-## 6. Participants and Collaborations
+### 6. Participants and Collaborations
 
 *   **Voters:** The primary actors in the system, who can either vote directly or delegate their vote.
 *   **Delegates:** Individuals who act as representatives for others. They can be subject matter experts, community leaders, or anyone trusted by other voters.
 *   **Platform Developers:** Responsible for creating and maintaining the technological infrastructure for the Liquid Democracy system.
 
-## 7. Implementations
+### 7. Implementations
 
 Several organizations and projects have implemented Liquid Democracy in various forms:
 
@@ -91,18 +101,18 @@ Several organizations and projects have implemented Liquid Democracy in various 
 *   **Pirate Parties:** Several Pirate Parties around the world have adopted Liquid Democracy for their internal decision-making.
 *   **LiquidFeedback:** An open-source software that provides a platform for Liquid Democracy.
 
-## 8. Known Uses
+### 8. Known Uses
 
 *   **Political Parties:** For internal policy-making and candidate selection.
 *   **Community Organizations:** For making decisions about local projects and initiatives.
 *   **Online Communities:** For governing online forums and platforms.
 
-## 9. Related Patterns
+### 9. Related Patterns
 
 *   **Direct Democracy:** A system where citizens vote directly on all issues.
 *   **Representative Democracy:** A system where citizens elect representatives to make decisions on their behalf.
 
-## 10. References
+### 10. References
 
 *   [Wikipedia: Liquid democracy](https://en.wikipedia.org/wiki/Liquid_democracy)
 *   [Participedia: Liquid Democracy](https://participedia.net/method/liquid-democracy)

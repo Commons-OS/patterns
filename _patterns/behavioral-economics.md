@@ -1,7 +1,7 @@
 ---
 id: pat_o2spelqobndffbbr2jvyocmzkq
 page_url: https://commons-os.github.io/patterns/behavioral-economics/
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/behavioral-economics.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/behavioral-economics.md
 slug: behavioral-economics
 title: Behavioral Economics
 aliases: []
@@ -19,7 +19,7 @@ classification:
   - Commons OS
   status: draft
   commons_alignment: 3
-  commons_domain:
+  commons_domain: &id001
   - business
   - startup
   - security
@@ -29,12 +29,22 @@ enables: []
 requires: []
 related: []
 contributors:
-- commons-os
+- name: commons-os
+  role: author
 sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
+
 id: pat_01kg5023xkes99fv5f4jpaa4at
 page_url: https://commons-os.github.io/patterns/behavioral-economics/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/behavioral-economics.md
@@ -157,7 +167,7 @@ The impact of behavioral economics is supported by extensive empirical evidence 
 Despite these successes, the effectiveness of behavioral interventions varies by context and design. A meta-analysis found that while effective overall, their impact varies. Rigorous testing is crucial, as real-world effects are often smaller than in lab studies. Nonetheless, behavioral economics offers a powerful and cost-effective toolkit.
 
 
-### 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 The Cognitive Era, with its proliferation of AI, machine learning, and big data, presents new complexities and opportunities for behavioral economics, amplifying traditional interventions and creating new ways to understand and influence decision-making.
 
@@ -172,7 +182,7 @@ The Cognitive Era, with its proliferation of AI, machine learning, and big data,
 **Data and Privacy**: **Data and Privacy**: AI-driven behavioral interventions rely on personal data, raising critical questions about privacy and consent. Clear ethical guidelines and robust regulatory frameworks are essential.
 
 
-### 8. Commons Alignment Assessment (v2.0)
+### 8. References (v2.0)
 
 This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 

@@ -1,19 +1,19 @@
 ---
-id: pat_contributor_license_agreement_pattern
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/contributor-license-agreement-pattern.md
+id: pat_019c47f4fdd5705d81e68d2c9e
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/contributor-license-agreement-pattern.md
 slug: contributor-license-agreement-pattern
 title: Contributor License Agreement Pattern
 aliases:
 - CLA Pattern
 - Contributor Agreement
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - integration
+  - practice
   era:
   - digital
   - cognitive
@@ -22,39 +22,49 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- inner-source-pattern
-- contributor-onboarding-pattern
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://commons.engineering
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/contributor-license-agreement-pattern/
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
+
 # Contributor License Agreement (CLA) Pattern
 
-## 1. Introduction
+### 1. Introduction
 
 A Contributor License Agreement (CLA) is a legal document that defines the terms under which intellectual property has been contributed to a company or project, typically for software development. It is a binding agreement between the contributor and the project that clarifies the rights and responsibilities of both parties. By signing a CLA, the contributor grants the project a license to use their contributions, while the contributor retains ownership of their original work.
 
-## 2. Problem
+### 2. Problem
 
 Open source projects often face legal risks when accepting contributions from external parties. Without a clear agreement, there can be ambiguity about the ownership of the contributed code and the rights of the project to use it. This can lead to disputes and legal challenges, especially if a contributor later decides to withdraw their permission or if their contribution infringes on the intellectual property of others. A CLA helps to mitigate these risks by establishing a clear legal framework for all contributions.
 
-## 3. Solution
+### 3. Solution
 
 The solution is to implement a Contributor License Agreement (CLA) for the project. This involves drafting a CLA that is appropriate for the project's needs and requiring all contributors to sign it before their contributions can be accepted. The CLA should clearly state that the contributor is entitled to provide the contribution, that they grant the project a license to use their contribution, and that they cannot withdraw their permission at a later date. Many organizations, such as the Apache Software Foundation and Google, provide templates for CLAs that can be adapted for use in other projects.
 
-## 4. Benefits
+### 4. Benefits
 
 Implementing a CLA offers several benefits to open source projects:
 
@@ -63,7 +73,7 @@ Implementing a CLA offers several benefits to open source projects:
 *   **Contributor Assurance:** It gives contributors the assurance that their contributions will be used in a way that is consistent with the project's goals and values.
 *   **Project Sustainability:** By reducing legal risks and clarifying licensing, a CLA helps to ensure the long-term sustainability of the project.
 
-## 5. Implementation
+### 5. Implementation
 
 To implement a CLA, a project should take the following steps:
 
@@ -72,8 +82,18 @@ To implement a CLA, a project should take the following steps:
 3.  **Require Signatures:** Require all contributors to sign the CLA before their contributions can be accepted. This can be done as part of the pull request process.
 4.  **Communicate the Policy:** Clearly communicate the CLA policy to all contributors and provide them with the information they need to sign the CLA.
 
-## 6. References
+### 6. References
 
 [1] [Contributor license agreement - Wikipedia](https://en.wikipedia.org/wiki/Contributor_license_agreement)
 [2] [Contributor License Agreement (CLA) - OpenProject](https://www.openproject.org/legal/contributor-license-agreement/)
 [3] [Contributor License Agreements - Google Open Source](https://opensource.google/documentation/reference/cla)
+
+
+### 7. Anti-Patterns & Gotchas
+
+Common mistakes include applying this pattern without understanding the specific context and constraints of the system.
+
+
+### 8. References
+
+See sources in frontmatter.

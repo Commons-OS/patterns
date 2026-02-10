@@ -1,18 +1,18 @@
 ---
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/federated-identity-pattern.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/federated-identity-pattern.md
 slug: federated-identity-pattern
 title: Federated Identity Pattern
 aliases:
 - Identity Federation
 - Federated Authentication
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - integration
+  - practice
   era:
   - digital
   - cognitive
@@ -21,18 +21,18 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- single-sign-on
-- zero-trust-architecture
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/federated-identity
 - https://www.okta.com/identity-101/what-is-federated-identity/
@@ -40,13 +40,24 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+id: pat_019c47f4fea27c7eac58a56055
+page_url: https://commons-os.github.io/patterns/federated-identity-pattern/
+commons_domain: *id001
 ---
 
-## 1. Overview
+
+
+
+
+
+
+
+
+### 1. Overview
 
 The Federated Identity pattern is a mechanism for delegating authentication from a single application or service to an external, trusted identity provider (IdP). This pattern allows a user to access multiple systems across different trust domains using a single set of credentials. The core idea is to establish a trust relationship between the service provider (the application) and the identity provider. When a user attempts to log in, the application redirects them to the IdP. The IdP authenticates the user and then sends a security token back to the application, which then grants access. This approach is fundamental to implementing Single Sign-On (SSO) capabilities and is a cornerstone of modern, decentralized identity management. Its origins can be traced back to the early 2000s with the development of standards like Security Assertion Markup Language (SAML).
 
-## 2. Core Principles
+### 2. Core Principles
 
 The Federated Identity pattern is built on several core principles:
 
@@ -55,7 +66,7 @@ The Federated Identity pattern is built on several core principles:
 *   **Separation of Concerns:** The responsibility of authentication is separated from the application's core logic. The application focuses on authorization and its business functions, while the IdP handles the complexities of user authentication.
 *   **User-Centric:** The user remains in control of their identity and can choose which identity provider to use. This also improves the user experience by reducing the number of credentials they need to manage.
 
-## 3. Problem Statement
+### 3. Key Practices
 
 In a distributed and heterogeneous IT landscape, users often need to access a multitude of applications and services, each with its own user database and authentication mechanism. This leads to several problems:
 
@@ -63,7 +74,7 @@ In a distributed and heterogeneous IT landscape, users often need to access a mu
 *   **Security Risks:** The proliferation of credentials increases the attack surface. A security breach in one service can expose credentials that might be reused in others. Managing user lifecycles (onboarding, offboarding, password resets) across multiple systems is also complex and error-prone.
 *   **Development Overhead:** Each application developer has to implement their own authentication logic, which is a complex and critical security function. This duplicates effort and increases the risk of implementation errors.
 
-## 4. Solution
+### 4. Implementation
 
 The Federated Identity pattern addresses these problems by centralizing authentication with a trusted identity provider. The solution involves the following components:
 
@@ -82,7 +93,19 @@ The workflow is as follows:
 
 This process allows the user to be authenticated once by the IdP and then gain access to multiple SPs without re-entering their credentials.
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 ### Advantages
 
@@ -96,13 +119,13 @@ This process allows the user to be authenticated once by the IdP and then gain a
 *   **Dependency on Third Parties:** The security and availability of the applications are dependent on the security and availability of the IdP.
 *   **Complexity:** Setting up and managing the trust relationships and integrating with different standards can be complex.
 
-## 6. Real-world Examples
+### 6. When to Use
 
 *   **Social Logins:** Many websites and applications allow users to log in using their existing accounts from social media platforms like Google, Facebook, or Twitter. In this scenario, the social media platform acts as the identity provider.
 *   **Enterprise Single Sign-On (SSO):** Many organizations use federated identity to provide employees with seamless access to a variety of internal and cloud-based applications (e.g., Microsoft 365, Salesforce, Workday) using their corporate credentials. Microsoft Entra ID (formerly Azure Active Directory) is a prominent example of an enterprise IdP.
 *   **Academic Federations:** In the academic world, federations like InCommon allow students, faculty, and staff to access resources from other institutions using their home university's credentials.
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the age of AI and machine learning, the Federated Identity pattern remains highly relevant and can be extended to new use cases:
 
@@ -110,7 +133,7 @@ In the age of AI and machine learning, the Federated Identity pattern remains hi
 *   **Federated Learning:** While not directly related to identity, the concept of federation is also a key principle in federated learning. In this context, a central server coordinates the training of a global model across multiple decentralized devices or servers holding local data samples, without exchanging the data itself. This approach to distributed machine learning shares the same principles of decentralization and collaboration as the Federated Identity pattern.
 *   **Personalized User Experiences:** By securely sharing user attributes between services, federated identity can enable more personalized and context-aware experiences powered by AI. For example, an e-commerce site could use information from a user's social profile to provide personalized product recommendations.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 *   **Shared Resource:** The identity provider itself can be seen as a shared resource, providing authentication services to a community of service providers. Open-source implementations of IdPs further enhance this aspect.
 *   **Democratic Governance:** The standards that underpin federated identity (SAML, OAuth, OIDC) are developed and maintained by open standards bodies like OASIS and the OpenID Foundation, which operate in a democratic and transparent manner.

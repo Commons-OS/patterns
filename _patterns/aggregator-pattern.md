@@ -1,20 +1,19 @@
 ---
-id: pat_aggregator_pattern
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/aggregator-pattern.md
+id: pat_019c47f4fcce7327b18b9e7214
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/aggregator-pattern.md
 slug: aggregator-pattern
 title: Aggregator Pattern
 aliases:
 - API Aggregation
 - Service Aggregator
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - integration
-  - api
+  - practice
   era:
   - digital
   - cognitive
@@ -23,19 +22,18 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- pat_gateway_routing
-- pat_gateway_offloading
-- pat_facade
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/gateway-aggregation
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/Aggregator.html
@@ -43,16 +41,26 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/aggregator-pattern/
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
+
 _The following is an auto-generated summary of the original pattern, created by Manus.AI using natural language processing and other AI technologies._
 
-## 1. Overview
+### 1. Overview
 
 The Aggregator pattern is a fundamental design pattern in modern software architecture, particularly within distributed systems and microservices environments. It addresses the challenge of retrieving and combining data from multiple, disparate services to fulfill a single client request. The core idea is to introduce an intermediary service—the aggregator—that orchestrates calls to various downstream services, collects their responses, and consolidates them into a unified payload before returning it to the client. This approach abstracts the complexity of the backend service landscape from the client, reducing chattiness and simplifying the client-side implementation [1].
 
 The historical origins of the Aggregator pattern can be traced back to the principles of Service-Oriented Architecture (SOA) and Enterprise Integration Patterns. As systems grew more distributed, the need for a mechanism to compose services became apparent. The pattern gained significant prominence with the rise of microservices, where business domains are decomposed into fine-grained, independently deployable services. In such architectures, a single user-facing operation often requires data scattered across multiple microservices, making the Aggregator an essential component for efficient data retrieval [2].
 
-## 2. Core Principles
+### 2. Core Principles
 
 The Aggregator pattern is defined by a set of core principles that ensure its effective implementation and differentiate it from other patterns like the API Gateway or Facade. These principles are fundamental to achieving the pattern's goals of simplification, efficiency, and abstraction.
 
@@ -62,7 +70,7 @@ The Aggregator pattern is defined by a set of core principles that ensure its ef
 
 *   **Parallelization and Asynchronous Execution:** To minimize latency, the Aggregator pattern often employs parallel and asynchronous calls to the downstream services. By fetching data from multiple services concurrently, the total response time can be significantly reduced compared to making sequential requests from the client. This is a key aspect of the "scatter-gather" implementation of the pattern.
 
-## 3. Problem Statement
+### 3. Key Practices
 
 In a microservices architecture, data is often distributed across multiple services, each responsible for a specific business capability. For instance, on an e-commerce platform, customer data might reside in a `user-service`, order history in an `order-service`, and product details in a `product-service`. When a client application, such as a web or mobile app, needs to display a comprehensive view of a customer's profile, it requires data from all these services.
 
@@ -73,7 +81,7 @@ Without an Aggregator, the client would be forced to make separate requests to e
 *   **Tight Coupling:** The client is tightly coupled to the backend service architecture. Any changes in the backend, such as splitting or merging services, would require changes in the client application.
 *   **Security Concerns:** Exposing multiple microservices directly to the client can increase the attack surface and make it more challenging to implement consistent security policies.
 
-## 4. Solution
+### 4. Implementation
 
 The Aggregator pattern provides an elegant solution to these problems by introducing a dedicated service that acts as a single point of contact for the client. This aggregator service encapsulates the logic for calling the downstream microservices and composing their responses.
 
@@ -87,7 +95,19 @@ The solution can be implemented in several ways:
 
 The aggregator service itself can be a standalone service or it can be part of an API Gateway. When implemented as part of an API Gateway, it is often referred to as the Gateway Aggregation pattern [1].
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 While the Aggregator pattern offers significant benefits, it also introduces its own set of trade-offs and considerations that must be carefully evaluated.
 
@@ -98,7 +118,7 @@ While the Aggregator pattern offers significant benefits, it also introduces its
 | **Improved Performance:** Can improve overall performance through parallel execution of requests and caching of responses. | **Increased Complexity and Maintenance:** Introduces an additional service that needs to be developed, deployed, and maintained, adding to the overall complexity of the system. |
 | **Centralized Cross-Cutting Concerns:** Provides a single place to implement cross-cutting concerns such as authentication, authorization, and logging. | **Data Consistency Challenges:** Ensuring data consistency across multiple services can be challenging, especially in the face of partial failures. |
 
-## 6. Real-world Examples
+### 6. When to Use
 
 The Aggregator pattern is widely used in various applications and platforms, especially those with a microservices-based architecture.
 
@@ -110,7 +130,7 @@ The Aggregator pattern is widely used in various applications and platforms, esp
 
 *   **Netflix API Gateway:** The Netflix API Gateway is a well-known example of the Aggregator pattern in action. It provides a unified API for a wide range of client devices, such as smart TVs, mobile phones, and web browsers. The gateway aggregates data from hundreds of microservices to provide a seamless experience to the user.
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, characterized by the proliferation of AI and machine learning, the Aggregator pattern takes on new significance and finds new applications.
 
@@ -120,7 +140,7 @@ In the cognitive era, characterized by the proliferation of AI and machine learn
 
 *   **Personalized Experiences:** In the context of personalization, an aggregator can be used to combine user data from various sources (e.g., browsing history, purchase history, social media activity) with the outputs of recommendation engines and other machine learning models to deliver highly personalized experiences to the user.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 The Aggregator pattern can be assessed against the five principles of the Commons to understand its potential impact on a collaborative and equitable digital ecosystem.
 
@@ -134,8 +154,7 @@ The Aggregator pattern can be assessed against the five principles of the Common
 
 *   **Community Benefit:** The Aggregator pattern can provide significant community benefit by enabling the creation of new and innovative applications that would be difficult or impossible to build otherwise. By simplifying the process of consuming and combining data from multiple services, the pattern can foster a vibrant ecosystem of third-party developers and applications.
 
-## References
-
+### 8. References
 [1] Microsoft. (n.d.). *Gateway Aggregation pattern*. Azure Architecture Center. Retrieved February 10, 2026, from https://learn.microsoft.com/en-us/azure/architecture/patterns/gateway-aggregation
 
 [2] Fowler, M. (2014). *Microservices*. martinfowler.com. Retrieved February 10, 2026, from https://martinfowler.com/articles/microservices.html

@@ -1,21 +1,19 @@
 ---
-id: pat_scheduler-agent-supervisor
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/scheduler-agent-supervisor.md
+id: pat_019c47f5005f7c739721d4c6b8
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/scheduler-agent-supervisor.md
 slug: scheduler-agent-supervisor
 title: Scheduler Agent Supervisor
 aliases:
 - Distributed Worker Supervision
 - Task Scheduler Agent Architecture
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - resilience
-  - scalability
-  - distributed-systems
+  - practice
   era:
   - digital
   - cognitive
@@ -23,17 +21,19 @@ classification:
   - software-engineering
   - platform-design
   status: draft
-  commons_alignment: 0
-  commons_domain:
-  - platform
+  commons_alignment: 3
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/scheduler-agent-supervisor
 - https://www.geeksforgeeks.org/system-design/scheduling-agent-supervisor-pattern-system-design/
@@ -41,10 +41,20 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/scheduler-agent-supervisor/
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
+
 _The Scheduler-Agent-Supervisor pattern, a foundational concept in distributed systems, orchestrates and manages tasks across a network of services and resources. This pattern is instrumental in achieving resilient and scalable solutions for complex, long-running, or distributed workflows. Its origins can be traced back to early distributed computing and enterprise integration patterns, where the need for reliable task execution and coordination became paramount. The pattern has evolved significantly with the advent of microservices architectures and cloud computing, which have amplified the challenges of managing distributed processes._
 
-## 1. Overview
+### 1. Overview
 
 The **Scheduler-Agent-Supervisor** pattern is a distributed system architecture that coordinates a set of actions across a distributed set of services and other remote resources. It is particularly useful for workflows that involve a series of steps, some of which may be executed in parallel, and require a high degree of reliability and resilience. The pattern is composed of three main components:
 
@@ -55,7 +65,7 @@ The **Scheduler-Agent-Supervisor** pattern is a distributed system architecture 
 
 This separation of concerns between the scheduler, agent, and supervisor allows for a highly flexible and scalable architecture. The scheduler can be designed to handle a large number of incoming requests, while the agents can be scaled out to handle the processing load. The supervisor provides a centralized point of control and monitoring, which simplifies the management of the workflow.
 
-## 2. Core Principles
+### 2. Core Principles
 
 The Scheduler-Agent-Supervisor pattern is based on a set of core principles that ensure its effectiveness in managing distributed workflows. These principles are essential for achieving the desired levels of resilience, scalability, and maintainability.
 
@@ -67,7 +77,7 @@ The Scheduler-Agent-Supervisor pattern is based on a set of core principles that
 | **State Management** | The supervisor is responsible for maintaining the state of the workflow. This includes tracking the status of each step, the results of completed steps, and any errors that may have occurred. |
 | **Fault Tolerance** | The pattern is designed to be fault-tolerant. The supervisor can detect when an agent has failed and can take corrective action, such as retrying the task or delegating it to another agent. |
 
-## 3. Problem Statement
+### 3. Key Practices
 
 Modern applications, particularly those built on microservices architectures, often involve complex workflows that span multiple services and resources. These workflows can be difficult to manage and coordinate, and they are often prone to failure. Some of the specific challenges that the Scheduler-Agent-Supervisor pattern addresses include:
 
@@ -78,7 +88,7 @@ Modern applications, particularly those built on microservices architectures, of
 
 Without a pattern like the Scheduler-Agent-Supervisor, developers are often forced to build custom solutions for managing distributed workflows. These solutions are often complex, brittle, and difficult to maintain. They may also lack the resilience and scalability required for modern applications.
 
-## 4. Solution
+### 4. Implementation
 
 The Scheduler-Agent-Supervisor pattern provides a robust and scalable solution for managing distributed workflows. The pattern's three components work together to ensure that workflows are executed reliably and efficiently.
 
@@ -90,7 +100,19 @@ The **Agents** are the workhorses of the pattern. They are responsible for execu
 
 The supervisor monitors the progress of the workflow and handles any failures that may occur. If an agent fails to complete its task, the supervisor can take a variety of corrective actions, such as retrying the task, delegating it to another agent, or escalating the failure to an operator. The supervisor also maintains the state of the workflow, which can be used to provide visibility into the progress of the workflow and to diagnose any problems that may occur.
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 While the Scheduler-Agent-Supervisor pattern offers significant benefits, it is important to consider the trade-offs and potential challenges associated with its implementation.
 
@@ -106,7 +128,7 @@ While the Scheduler-Agent-Supervisor pattern offers significant benefits, it is 
 *   **State Management:** The supervisor needs a reliable way to store the state of the workflow. This could be a database, a distributed cache, or some other type of data store.
 *   **Error Handling:** The supervisor needs a robust error handling strategy. This should include mechanisms for retrying failed tasks, delegating tasks to other agents, and escalating failures to an operator.
 
-## 6. Real-world Examples
+### 6. When to Use
 
 The Scheduler-Agent-Supervisor pattern is used in a wide variety of applications and systems. Some notable examples include:
 
@@ -115,7 +137,7 @@ The Scheduler-Agent-Supervisor pattern is used in a wide variety of applications
 *   **Netflix Conductor:** Netflix Conductor is a microservices orchestration engine that was developed at Netflix. Conductor uses a distributed, stateful supervisor to orchestrate the execution of workflows that span multiple microservices.
 *   **Apache Airflow:** Apache Airflow is an open-source platform for programmatically authoring, scheduling, and monitoring workflows. Airflow uses a scheduler to trigger workflows, and it uses a set of workers to execute the tasks of the workflow.
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, the Scheduler-Agent-Supervisor pattern is becoming increasingly relevant. The rise of AI and machine learning is leading to the development of more complex and sophisticated workflows. These workflows often involve a combination of human and machine intelligence, and they require a high degree of coordination and orchestration.
 
@@ -123,7 +145,7 @@ The Scheduler-Agent-Supervisor pattern can be used to manage these complex workf
 
 The pattern can also be used to build more resilient and adaptable AI systems. For example, if an AI agent fails, the supervisor can automatically delegate the task to another agent or take some other corrective action. This can help to ensure that the AI system continues to operate correctly, even in the presence of failures.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 The Scheduler-Agent-Supervisor pattern can be aligned with the principles of the Commons, but it requires careful consideration of the design and implementation of the pattern.
 

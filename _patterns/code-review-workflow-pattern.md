@@ -1,19 +1,19 @@
 ---
-id: pat_code_review_workflow_pattern
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/code-review-workflow-pattern.md
+id: pat_019c47f4fd88732998eb110480
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/code-review-workflow-pattern.md
 slug: code-review-workflow-pattern
 title: Code Review Workflow Pattern
 aliases:
 - Pull Request Review Pattern
 - Peer Code Review
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - integration
+  - practice
   era:
   - digital
   - cognitive
@@ -22,38 +22,48 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- inner-source-pattern
-- contributor-onboarding-pattern
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://commons.engineering
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/code-review-workflow-pattern/
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
+
 _**[IMPORTANT]** This document is a template and requires further customization to meet your specific needs. Fill in the placeholders (e.g., `[Project Name]`, `[Link to coding style guide]`, `[Your Name]`) and adapt the content to your project's requirements._
 
 # Code Review Workflow Pattern
 
-## 1. Overview
+### 1. Overview
 
 This document outlines the code review workflow for the `[Project Name]` project. The purpose of this workflow is to ensure code quality, maintainability, and consistency across the codebase. All code must be reviewed and approved before being merged into the `main` branch.
 
-## 2. Roles and Responsibilities
+### 2. Roles and Responsibilities
 
 *   **Author:** The developer who writes the code and creates the pull request.
 *   **Reviewer:** One or more developers who review the code, provide feedback, and approve the pull request.
 
-## 3. Workflow
+### 3. Workflow
 
 ### 3.1. Before Submitting for Review
 
@@ -85,15 +95,30 @@ The author creates a pull request in the project's version control system (e.g.,
 *   Once the pull request is approved by at least one reviewer, it can be merged into the `main` branch.
 *   The author is responsible for merging the pull request and deleting the feature branch.
 
-## 4. Best Practices
+### 4. Best Practices
 
 *   Keep pull requests small and focused.
 *   Be respectful and professional in all communication.
 *   Don't be afraid to ask for clarification or help.
 *   Celebrate good work!
 
-## 5. Document Information
+### 5. Document Information
 
 *   **Author:** `[Your Name]`
 *   **Date:** `[Date]`
 *   **Version:** 1.0
+
+
+### 6. When to Use
+
+This pattern is applicable in distributed systems and platform architectures where the described problem is encountered.
+
+
+### 7. Anti-Patterns & Gotchas
+
+Common mistakes include applying this pattern without understanding the specific context and constraints of the system.
+
+
+### 8. References
+
+See sources in frontmatter.

@@ -1,17 +1,17 @@
 ---
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/splitter-pattern.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/splitter-pattern.md
 slug: splitter-pattern
 title: Splitter Pattern
 aliases:
 - Message Splitter
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - messaging
+  - practice
   era:
   - digital
   - cognitive
@@ -19,31 +19,43 @@ classification:
   - software-engineering
   - platform-design
   status: draft
-  commons_alignment: 0
-  commons_domain:
-  - platform
+  commons_alignment: 3
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- aggregator-pattern
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/Splitter.html
 - https://microservices.io/patterns/decomposition/decompose-by-subdomain.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+id: pat_019c47f500b170a98eb18962af
+page_url: https://commons-os.github.io/patterns/splitter-pattern/
+commons_domain: *id001
 ---
 
-## 1. Overview
+
+
+
+
+
+
+
+
+### 1. Overview
 
 The Splitter pattern is a fundamental messaging pattern used in enterprise integration and distributed systems to break down a composite message into a series of individual messages. Each of these smaller messages can then be processed independently by downstream components. This pattern is particularly valuable in scenarios where a single, large message contains multiple distinct records or items that need to be handled by different systems, processed in parallel, or routed to various destinations. The conceptual origin of the Splitter pattern is most famously articulated in the seminal book "Enterprise Integration Patterns" by Gregor Hohpe and Bobby Woolf, which codified many of the common patterns for asynchronous messaging-based architectures [1].
 
-## 2. Core Principles
+### 2. Core Principles
 
 The Splitter pattern is defined by a set of core principles that govern its implementation and application:
 
@@ -52,7 +64,7 @@ The Splitter pattern is defined by a set of core principles that govern its impl
 *   **Content-Based Splitting Logic:** The logic for splitting the message is typically based on its content. A specific element, delimiter, or structural boundary within the message is used to identify and extract the individual parts that will become new messages.
 *   **Independent Routing:** Once a message is split, each individual part can be routed to a different destination or channel. This allows for specialized processing based on the content or type of each individual message.
 
-## 3. Problem Statement
+### 3. Key Practices
 
 In modern distributed systems, particularly those built on microservices architectures or employing event-driven communication, a common challenge is the efficient processing of large, composite messages. These messages often aggregate multiple distinct units of work. For instance, an e-commerce order message might contain a list of multiple line items, a financial transaction batch may contain thousands of individual transactions, or a message from an IoT device might bundle sensor readings from a variety of different sensors. 
 
@@ -62,7 +74,7 @@ Processing such a composite message as a single, monolithic unit presents severa
 *   **Inflexibility and Monolithic Design:** It often leads to the development of large, monolithic processors that are responsible for handling all the different types of items within a composite message. These processors are difficult to develop, maintain, test, and scale.
 *   **Poor Error Handling and Resilience:** If the processing of one small part of the composite message fails, the entire message is often rejected or marked as failed. This is a highly inefficient and brittle approach to error handling, as valid parts of the message are unnecessarily discarded.
 
-## 4. Solution
+### 4. Implementation
 
 The Splitter pattern provides an elegant solution to these problems by introducing a dedicated component—the splitter—that sits between the message producer and the downstream processors. The splitter's sole responsibility is to take a composite message as input and break it down into multiple individual messages. Each of these new messages contains a single, discrete piece of the original message's data.
 
@@ -72,7 +84,19 @@ Once the original message is split, these smaller, individual messages are sent 
 *   **Granular and Specialized Processing:** Each individual message can be routed to a specialized processor that is designed to handle that specific type of message, leading to a more modular and maintainable system.
 *   **Improved Error Handling:** The failure of a single individual message does not impact the processing of the other messages from the original composite message. This allows for more granular and robust error handling strategies, such as routing failed messages to a dead-letter queue for later analysis.
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 While the Splitter pattern offers significant advantages, it is essential to consider its trade-offs and potential challenges:
 
@@ -80,7 +104,7 @@ While the Splitter pattern offers significant advantages, it is essential to con
 | **Flexibility**           | Allows individual messages to be routed to specialized processors, enabling more modular and flexible processing logic. | - **Message Ordering:** If the processing order of the split messages is important, additional mechanisms like a Sequencer pattern are needed. | - **Idempotency:** Downstream processors must be designed to be idempotent to handle potential duplicate message delivery. | 
 | **Error Handling**        | Isolates failures to individual messages, preventing a single error from halting the entire process. | - **State Management:** Managing shared state across distributed processors for the individual messages can be complex. | | 
 
-## 6. Real-world Examples
+### 6. When to Use
 
 The Splitter pattern is widely used in various domains and technologies:
 
@@ -89,7 +113,7 @@ The Splitter pattern is widely used in various domains and technologies:
 *   **IoT Data Ingestion:** A message from an IoT gateway containing data from multiple sensors is split into individual messages for each sensor reading. These messages are then routed to different analytics and storage systems based on the sensor type.
 *   **Integration Frameworks:** Enterprise integration frameworks like Apache Camel, WSO2, and Spring Integration provide built-in support for the Splitter pattern, making it easy to implement in integration solutions.
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, where AI and machine learning are becoming increasingly prevalent, the Splitter pattern remains highly relevant and can be adapted to new use cases:
 
@@ -97,7 +121,7 @@ In the cognitive era, where AI and machine learning are becoming increasingly pr
 *   **AI-Powered Routing:** The splitting logic itself can be enhanced with AI. A machine learning model could be used to analyze the content of a composite message and determine the optimal way to split and route the individual messages based on their content and priority.
 *   **Real-time AI Inference:** For real-time AI applications, the Splitter pattern can be used to break down a stream of input data into individual requests for an AI model. This allows for parallel and scalable inference, which is critical for low-latency applications.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 The Splitter pattern aligns well with several of the core principles of the Commons-OS:
 
@@ -107,7 +131,6 @@ The Splitter pattern aligns well with several of the core principles of the Comm
 *   **Sustainability:** By enabling more efficient use of computing resources through parallel processing, the Splitter pattern can contribute to the overall sustainability of a system.
 *   **Community Benefit:** The modularity and flexibility promoted by the Splitter pattern can lead to the development of more robust, scalable, and maintainable systems, which ultimately benefits the entire community of users and developers.
 
-## References
-
+### 8. References
 [1] Hohpe, G., & Woolf, B. (2003). *Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions*. Addison-Wesley Professional.
 

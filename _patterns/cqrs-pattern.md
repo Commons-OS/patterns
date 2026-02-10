@@ -1,19 +1,19 @@
 ---
-id: pat_cqrs_1 # Will be generated later
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/cqrs-pattern.md
+id: pat_019c47f4fded76d5bcd70bcccb
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/cqrs-pattern.md
 slug: cqrs-pattern
 title: Command Query Responsibility Segregation (CQRS)
 aliases:
 - Command Query Responsibility Segregation
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - data
-  - scalability
+  - tool
+  - practice
   era:
   - digital
   - cognitive
@@ -21,19 +21,19 @@ classification:
   - software-engineering
   - platform-design
   status: draft
-  commons_alignment: 3 # 0-5 rating
-  commons_domain:
-  - platform
+  commons_alignment: 3
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- event-sourcing
-- messaging
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs
 - https://martinfowler.com/bliki/CQRS.html
@@ -41,15 +41,25 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/cqrs-pattern/
+commons_domain: *id001
 ---
 
-## 1. Overview
+
+
+
+
+
+
+
+
+### 1. Overview
 
 Command Query Responsibility Segregation (CQRS) is an architectural pattern that separates the models for reading and writing data. The fundamental principle of CQRS is that you can use a different model to update information than the model you use to read information. This separation can lead to simpler models, improved performance, scalability, and security. The term was coined by Greg Young, building on the concept of Command-Query Separation (CQS) from Bertrand Meyer's work on the Eiffel programming language [2].
 
 CQRS is particularly useful in complex domains where the traditional Create, Read, Update, Delete (CRUD) approach leads to overly complicated models that serve neither reading nor writing well. By having separate models, you can optimize the write model for business logic and validation, and the read model for efficient querying and display.
 
-## 2. Core Principles
+### 2. Core Principles
 
 The CQRS pattern is defined by a set of core principles that guide its implementation:
 
@@ -64,7 +74,7 @@ The CQRS pattern is defined by a set of core principles that guide its implement
 
 <br>
 
-## 3. Problem Statement
+### 3. Key Practices
 
 Traditional monolithic data models, often found in CRUD-based systems, can become a significant bottleneck and source of complexity as an application evolves. The problems they present are multifaceted:
 
@@ -73,7 +83,7 @@ Traditional monolithic data models, often found in CRUD-based systems, can becom
 *   **Scalability Mismatch:** The scaling needs for reads and writes are often asymmetric. An application might have orders of magnitude more reads than writes. A single data store forces you to scale for the highest common denominator, which is often inefficient and costly.
 *   **Security and Exposure:** A single model can inadvertently expose data that should not be visible in certain contexts. For example, a user object might contain sensitive information like a password hash, which is needed for authentication (a write-side concern) but should never be included in data sent to a UI (a read-side concern).
 
-## 4. Solution
+### 4. Implementation
 
 CQRS provides a clear solution by dividing the system into two distinct parts: the **Command side** and the **Query side**.
 
@@ -90,7 +100,19 @@ CQRS provides a clear solution by dividing the system into two distinct parts: t
 **Synchronization:**
 When separate data stores are used, a mechanism is needed to keep the read store synchronized with the write store. This is typically achieved through an event-driven approach. When the command side successfully processes a command, it publishes an event that describes the change. The query side subscribes to these events and updates its read models accordingly. This asynchronous update process is what leads to eventual consistency.
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 Adopting CQRS is a significant architectural decision with both benefits and drawbacks that must be carefully weighed.
 
@@ -107,7 +129,7 @@ Adopting CQRS is a significant architectural decision with both benefits and dra
 
 <br>
 
-## 6. Real-world Examples
+### 6. When to Use
 
 CQRS is not a pattern for every application, but it excels in specific scenarios:
 
@@ -116,7 +138,7 @@ CQRS is not a pattern for every application, but it excels in specific scenarios
 *   **Collaborative Applications:** In applications like Google Docs, where multiple users can edit a document simultaneously, CQRS can be used to manage the stream of commands from different users and update the shared view.
 *   **Microservices Architectures:** CQRS is a natural fit for microservices. A service can be responsible for the command side of a domain, while other services can subscribe to its events to build their own local read models.
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the age of AI and machine learning, the principles of CQRS find new and relevant applications:
 
@@ -124,7 +146,7 @@ In the age of AI and machine learning, the principles of CQRS find new and relev
 *   **Data Pipelines:** In large-scale data processing pipelines, the ingestion and transformation of data can be considered the command side, while the serving of aggregated data to dashboards and analytics tools is the query side.
 *   **Real-time AI:** For applications that require real-time AI, such as fraud detection, the command side can process transactions and generate events, while the query side can use an ML model to score the transactions in real-time.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 The CQRS pattern can be assessed against the principles of the Commons-OS as follows:
 
@@ -134,8 +156,7 @@ The CQRS pattern can be assessed against the principles of the Commons-OS as fol
 *   **Sustainability (3/5):** The ability to scale read and write workloads independently can lead to more efficient use of computational resources, contributing to the environmental and economic sustainability of the system. However, the additional infrastructure required can offset some of these gains.
 *   **Community Benefit (4/5):** The end result of a well-implemented CQRS architecture is a more responsive, scalable, and resilient application. This directly benefits the community of users by providing a better user experience.
 
-## References
-
+### 8. References
 [1] Microsoft. (2024). *CQRS pattern*. Microsoft Learn. Retrieved from https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs
 [2] Fowler, M. (2011). *CQRS*. martinfowler.com. Retrieved from https://martinfowler.com/bliki/CQRS.html
 [3] Richards, M. (2020). *Software Architecture Patterns*. O'Reilly Media, Inc.

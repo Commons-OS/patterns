@@ -1,21 +1,20 @@
-
 ---
-id: pat_microservice_chassis_pattern # Will be generated later
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/microservice-chassis-pattern.md
+id: pat_019c47f4ff9771e7a54b290f32
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/microservice-chassis-pattern.md
 slug: microservice-chassis-pattern
 title: Microservice Chassis Pattern
 aliases:
 - Service Chassis Pattern
 - Microservice Framework
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - deployment
-  - resilience
+  - process
+  - practice
   era:
   - digital
   - cognitive
@@ -24,18 +23,18 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- sidecar-pattern
-- service-discovery-pattern
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://microservices.io/patterns/microservice-chassis.html
 - https://dev.to/lazypro/microservices-start-here-chassis-pattern-272j
@@ -43,15 +42,25 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/microservice-chassis-pattern/
+commons_domain: *id001
 ---
 
-## 1. Overview
+
+
+
+
+
+
+
+
+### 1. Overview
 
 The Microservice Chassis pattern is a foundational design pattern in microservices architecture. It addresses the need to standardize and centralize common cross-cutting concerns that are essential for any production-grade service. Much like the chassis of a vehicle provides a fundamental structure for the engine, wheels, and other components, a microservice chassis offers a framework that encapsulates shared functionalities such as logging, configuration management, health checks, metrics, and security. By providing these capabilities out-of-the-box, the pattern allows development teams to focus on implementing business logic rather than repeatedly solving the same infrastructure-related problems [1].
 
 The historical origins of this pattern are closely tied to the evolution of distributed systems and the rise of microservices. As organizations moved from monolithic architectures to more granular, independently deployable services, they encountered the challenge of managing the operational complexity of a distributed environment. The need for consistency and efficiency in developing and maintaining a large number of services led to the organic development of shared libraries and frameworks, which eventually formalized into the Microservice Chassis pattern.
 
-## 2. Core Principles
+### 2. Core Principles
 
 The Microservice Chassis pattern is defined by a set of core principles that guide its implementation and use:
 
@@ -63,7 +72,7 @@ The Microservice Chassis pattern is defined by a set of core principles that gui
 | **Extensibility** | While providing a standardized foundation, the chassis should be flexible enough to allow for customization and extension to meet the specific needs of a service. |
 | **Lifecycle Management** | The chassis should be independently versioned and managed, allowing for updates and patches to be rolled out to all services in a controlled manner. |
 
-## 3. Problem Statement
+### 3. Key Practices
 
 In a microservices architecture, each service is developed, deployed, and scaled independently. While this approach offers numerous benefits, it also introduces significant challenges. Without a standardized approach, each development team must independently address a wide range of cross-cutting concerns, including:
 
@@ -76,7 +85,7 @@ In a microservices architecture, each service is developed, deployed, and scaled
 
 Solving these problems for every single microservice leads to massive code duplication, inconsistencies, and a significant increase in development and maintenance overhead. This not only slows down the delivery of new features but also makes the entire system more fragile and difficult to operate.
 
-## 4. Solution
+### 4. Implementation
 
 The Microservice Chassis pattern provides a solution by creating a reusable framework or library that encapsulates all the necessary cross-cutting concerns. When building a new microservice, developers can simply build upon this chassis, which provides all the foundational plumbing required for a production-ready service. This allows them to focus almost exclusively on the unique business logic of their service.
 
@@ -90,7 +99,19 @@ The chassis can be implemented in various ways, such as a set of shared librarie
 
 By using the chassis, the development process for a new microservice is significantly streamlined. The developer simply includes the chassis as a dependency and provides some minimal configuration, and the service is immediately equipped with all the necessary operational capabilities.
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 While the Microservice Chassis pattern offers significant benefits, it also comes with its own set of trade-offs and considerations:
 
@@ -100,7 +121,7 @@ While the Microservice Chassis pattern offers significant benefits, it also come
 | **Consistency and Standardization** | It ensures that all services adhere to the same standards for logging, metrics, and other cross-cutting concerns. | **Governance Overhead** | The chassis itself becomes a critical piece of infrastructure that needs to be carefully designed, maintained, and governed. |
 | **Improved Resilience** | By centralizing the implementation of concerns like health checks and circuit breakers, the chassis can improve the overall resilience of the system. | **Reduced Flexibility** | A "one-size-fits-all" chassis may not be suitable for all services, and can be too restrictive for teams that need more control over their stack. |
 
-## 6. Real-world Examples
+### 6. When to Use
 
 Many modern software development frameworks and platforms have adopted the Microservice Chassis pattern in some form:
 
@@ -108,7 +129,7 @@ Many modern software development frameworks and platforms have adopted the Micro
 *   **Go Chassis (Go):** Go Chassis is an open-source microservice framework for the Go language that provides a rich set of features for building robust and scalable services.
 *   **Dapr (Distributed Application Runtime):** Dapr takes a language-agnostic approach by providing a set of building blocks as a sidecar process. These building blocks handle concerns like state management, pub/sub, and service-to-service invocation, effectively acting as an externalized chassis [3].
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, where AI and machine learning are becoming increasingly prevalent, the Microservice Chassis pattern remains highly relevant. AI-powered applications are often built as a collection of specialized microservices (e.g., for data ingestion, model training, and inference). The chassis can be extended to include capabilities that are specific to the needs of AI/ML workloads, such as:
 
@@ -118,7 +139,7 @@ In the cognitive era, where AI and machine learning are becoming increasingly pr
 
 Furthermore, the telemetry data collected by the chassis can be used to train models that can predict failures, optimize resource allocation, and even automate operational tasks.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 The Microservice Chassis pattern aligns well with several of the Commons principles:
 

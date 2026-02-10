@@ -1,17 +1,17 @@
 ---
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/client-side-discovery-pattern.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/client-side-discovery-pattern.md
 slug: client-side-discovery-pattern
 title: Client-Side Discovery Pattern
 aliases:
 - Client-Side Service Discovery
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - distributed-systems
+  - practice
   era:
   - digital
   - cognitive
@@ -20,19 +20,18 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
-requires:
-- service-registry-pattern
-related:
-- server-side-discovery-pattern
-- service-registry-pattern
+requires: []
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://microservices.io/patterns/client-side-discovery.html
 - https://www.geeksforgeeks.org/java/client-side-service-discovery-in-microservices/
@@ -41,7 +40,18 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+id: pat_019c47f4fd8270d1ab5b1e2a83
+page_url: https://commons-os.github.io/patterns/client-side-discovery-pattern/
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
+
 
 ### 1. Overview
 
@@ -60,13 +70,13 @@ The effective implementation of the Client-Side Discovery pattern is governed by
 | **Dynamic Instance Management** | The client is responsible for handling the dynamic nature of service instances. It must be able to detect and handle cases where an instance becomes unavailable and refresh its local cache of service locations periodically to ensure it has up-to-date information. |
 | **Decentralized Load Balancing** | The responsibility for distributing requests across available service instances lies with the client. This allows for application-specific load-balancing strategies, such as round-robin, least connections, or latency-based routing. |
 
-### 3. Problem Statement
+### 3. Key Practices
 
 In modern distributed systems, particularly those based on a microservices architecture, service instances are ephemeral and their network locations are not fixed. IP addresses and ports can change frequently due to auto-scaling events, deployments, or host failures. Consequently, hardcoding the network locations of dependent services into a client's configuration is not a feasible or scalable solution. This approach leads to a brittle system that is difficult to manage and maintain, as any change in a service's location would require a configuration update and redeployment of all its consumers.
 
 The central problem, therefore, is: **How can a client service reliably and efficiently discover the current network location of a provider service's instances in a dynamic environment without creating tight coupling to the infrastructure?**
 
-### 4. Solution
+### 4. Implementation
 
 The Client-Side Discovery pattern provides a robust solution by introducing a Service Registry and embedding discovery logic within the client. The interaction flow is as follows:
 
@@ -78,7 +88,19 @@ The Client-Side Discovery pattern provides a robust solution by introducing a Se
 
 This decouples the client from the physical locations of the services it consumes, allowing the infrastructure to manage service instances dynamically without impacting the client's ability to function.
 
-### 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 While powerful, the Client-Side Discovery pattern introduces its own set of trade-offs that must be carefully considered during system design.
 
@@ -89,20 +111,20 @@ While powerful, the Client-Side Discovery pattern introduces its own set of trad
 | **Performance** | Can offer lower latency by avoiding the extra network hop that a server-side proxy or load balancer would introduce. | The client must maintain a local cache of service locations, which can become stale, and it incurs the overhead of periodically querying the registry. |
 | **Resilience** | The client can be designed to be resilient to registry failures by using a local cache of last-known-good locations. | The client itself becomes a more complex component and a potential point of failure if the discovery logic is not implemented correctly. |
 
-### 6. Real-world Examples
+### 6. When to Use
 
 -   **Netflix Eureka:** One of the most well-known examples, Eureka is a REST-based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers. It is a core component of the Netflix OSS stack.
 -   **HashiCorp Consul:** Consul provides a comprehensive service mesh solution that includes service discovery as a key feature. Clients can use Consul's DNS or HTTP API to discover the locations of other services in the infrastructure [3].
 -   **Apache Zookeeper:** While a more general-purpose coordination service, Zookeeper is often used to implement service discovery. Services register themselves as ephemeral nodes, and clients can watch for changes in the list of nodes.
 -   **Spring Cloud:** The Spring Cloud framework provides abstractions that integrate with various service discovery implementations like Eureka, Consul, and Zookeeper, making it easier to build client-side discovery logic into Java-based microservices.
 
-### 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the Cognitive Era, where AI and machine learning workloads are increasingly integrated into applications, the Client-Side Discovery pattern remains highly relevant and can be enhanced with intelligent capabilities. For instance, the client-side load-balancing logic can be made more sophisticated. Instead of simple round-robin, a client could use real-time performance metrics or even predictive models to route requests to the service instance best equipped to handle them. This could involve selecting instances running on specific hardware (e.g., GPUs) for ML inference tasks or routing requests to instances with the lowest predicted response latency based on historical data.
 
 Furthermore, the service registry itself can be augmented with cognitive capabilities. It could track not just the health and location of services but also their current load, capabilities, and data affinity. A client could then query the registry with more complex requirements, such as "find a service instance that is co-located with a specific dataset and has available GPU capacity," enabling more efficient and context-aware service interactions.
 
-### 8. Commons Alignment Assessment
+### 8. References
 
 The Client-Side Discovery pattern can be analyzed through the lens of the five Commons principles:
 

@@ -1,18 +1,18 @@
 ---
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/service-template-pattern.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/service-template-pattern.md
 slug: service-template-pattern
 title: Service Template Pattern
 aliases:
 - Service Template Design Pattern
 - Microservice Template Pattern
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - deployment
+  - process
   era:
   - digital
   - cognitive
@@ -21,30 +21,42 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- Microservice Chassis
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://microservices.io/patterns/service-template.html
 - https://www.geeksforgeeks.org/system-design/service-template-pattern-in-microservices/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+id: pat_019c47f5009174b38e320a942d
+page_url: https://commons-os.github.io/patterns/service-template-pattern/
+commons_domain: *id001
 ---
 
-## 1. Overview
+
+
+
+
+
+
+
+
+### 1. Overview
 
 The Service Template Pattern is a design approach used to accelerate the development of new services, particularly within a microservices architecture. The fundamental idea is to create a standardized, reusable blueprint—a template—that encapsulates common functionalities and cross-cutting concerns required by most services in a system. This allows development teams to bypass the repetitive and time-consuming setup process for each new service, enabling them to focus directly on implementing unique business logic. By providing a pre-configured foundation that includes build logic, deployment scripts, and essential modules for concerns like logging, metrics, and security, the pattern promotes consistency, enforces best practices, and significantly improves developer productivity [1].
 
-## 2. Core Principles
+### 2. Core Principles
 
 The Service Template Pattern is defined by a set of core principles that ensure its effectiveness in streamlining service development and maintaining architectural integrity.
 
@@ -56,11 +68,11 @@ The Service Template Pattern is defined by a set of core principles that ensure 
 | **Customization** | While promoting standardization, the pattern allows for flexibility. The template provides a solid foundation, but developers can extend and customize it to meet the specific requirements of their service. |
 | **Separation of Concerns** | A clear distinction is maintained between the core, shared infrastructure logic provided by the template and the unique business logic implemented by the service developer. |
 
-## 3. Problem Statement
+### 3. Key Practices
 
 In a microservices-based architecture, the proliferation of services can lead to significant development overhead. When starting a new service, developers often spend a considerable amount of time and effort setting up the basic scaffolding. This includes configuring the build system, writing Dockerfiles, implementing health check endpoints, setting up logging and monitoring, and integrating with security infrastructure. This repetitive work is not only inefficient but also prone to inconsistencies and errors. Without a standardized approach, different teams may implement these cross-cutting concerns in slightly different ways, leading to a fragmented and difficult-to-maintain system. The core problem can be summarized as: **How can a team quickly and consistently create and set up a maintainable, production-ready code base for a new service so they can immediately start developing its business logic?** [1]
 
-## 4. Solution
+### 4. Implementation
 
 The solution proposed by the Service Template Pattern is to create a standardized, runnable source code template. This template serves as a starter kit or a blueprint that a developer can simply copy or clone to bootstrap a new service. The template is more than just a directory structure; it is a fully functional, simple service that already includes:
 
@@ -71,7 +83,19 @@ The solution proposed by the Service Template Pattern is to create a standardize
 
 By providing this comprehensive starting point, the pattern ensures that all new services adhere to the organization's standards and best practices from their inception, dramatically reducing setup time and cognitive load on developers [1].
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 While the Service Template Pattern offers significant advantages, it is essential to consider its trade-offs.
 
@@ -85,7 +109,7 @@ While the Service Template Pattern offers significant advantages, it is essentia
 *   **Template Divergence:** Over time, services created from different versions of the template will naturally diverge, making it difficult to manage the entire ecosystem.
 *   **Language/Framework Lock-in:** A separate template is required for each programming language and framework stack. This can create a barrier to entry for teams wishing to adopt new technologies, potentially stifling innovation.
 
-## 6. Real-world Examples
+### 6. When to Use
 
 Many organizations and open-source projects leverage the Service Template Pattern to streamline development.
 
@@ -94,7 +118,7 @@ Many organizations and open-source projects leverage the Service Template Patter
 *   **Cookiecutter:** A command-line utility that creates projects from templates. It is widely used in the Python community for generating everything from Python packages to Django web applications, based on a user-defined template.
 *   **Backstage.io:** An open platform for building developer portals, created by Spotify. One of its core features is a software template engine that allows organizations to create and manage templates for any kind of software component, including microservices.
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, where AI and machine learning are becoming integral parts of software systems, the Service Template Pattern remains highly relevant and can be adapted to new challenges. Service templates can be evolved to include boilerplate for ML-specific concerns. For example, a template for an ML-powered service could include:
 
@@ -105,7 +129,7 @@ In the cognitive era, where AI and machine learning are becoming integral parts 
 
 By incorporating these elements, service templates can significantly lower the barrier to deploying and managing production-grade AI/ML applications, ensuring that they are built with the same rigor and consistency as traditional services.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 The Service Template Pattern's alignment with the principles of a digital commons is mixed, offering benefits in some areas while presenting challenges in others.
 

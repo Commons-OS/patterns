@@ -1,19 +1,18 @@
 ---
-id: pat_asynchronous-request-reply
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/asynchronous-request-reply.md
+id: pat_019c47f4fd047e1899bc56ea31
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/asynchronous-request-reply.md
 slug: asynchronous-request-reply
 title: Asynchronous Request-Reply
 aliases:
 - Asynchronous Request-Response
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - messaging
-  - distributed-systems
+  - practice
   era:
   - digital
   - cognitive
@@ -21,19 +20,19 @@ classification:
   - software-engineering
   - platform-design
   status: draft
-  commons_alignment: 0
-  commons_domain:
-  - platform
+  commons_alignment: 3
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- request-response
-- publish-subscribe
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/async-request-reply
 - https://www.enterpriseintegrationpatterns.com/patterns/conversation/RequestResponse.html
@@ -41,7 +40,17 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/asynchronous-request-reply/
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
+
 
 ### 1. Overview
 
@@ -63,7 +72,7 @@ The Asynchronous Request-Reply pattern is defined by a set of core principles th
 
 *   **Separate Communication Channels:** The request and response messages are typically sent over separate communication channels. For example, the request might be sent to a message queue, and the response might be sent to a different queue or delivered via a callback mechanism such as a webhook.
 
-### 3. Problem Statement
+### 3. Key Practices
 
 In many distributed systems, a client needs to invoke an operation on a service that may take a long time to complete. For example, a request might trigger a complex calculation, a long-running business process, or a call to a slow downstream service. If the client uses a synchronous, blocking request-response pattern, it will be forced to wait for the service to complete the operation and return a response. This can lead to several problems:
 
@@ -72,7 +81,7 @@ In many distributed systems, a client needs to invoke an operation on a service 
 *   **Tight Coupling:** Synchronous communication creates a tight coupling between the client and the service. If the service is slow or unavailable, the client is directly affected. This can lead to cascading failures, where the failure of one service causes other services to fail as well.
 *   **Inefficient Resource Utilization:** While the client is blocked, its resources are idle. This is an inefficient use of resources, especially in a cloud environment where resources are paid for by the hour or even by the second.
 
-### 4. Solution
+### 4. Implementation
 
 The Asynchronous Request-Reply pattern solves these problems by decoupling the client from the service and allowing for non-blocking communication. The solution involves the following components:
 
@@ -84,7 +93,19 @@ The client initiates the interaction by sending a request message to the request
 
 There are several ways to implement the reply mechanism. The client can actively poll the reply channel for a response. Alternatively, the client can provide a callback endpoint (e.g., a webhook) that the service can call when the response is ready. This push-based approach is generally more efficient than polling, as it avoids unnecessary network traffic.
 
-### 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 While the Asynchronous Request-Reply pattern offers significant benefits, it also introduces some complexities and trade-offs that need to be considered:
 
@@ -96,7 +117,7 @@ While the Asynchronous Request-Reply pattern offers significant benefits, it als
 | **Response Time** | The total time to get a response can be longer than with a synchronous call, due to the overhead of the messaging system. | However, the client is not blocked during this time, so the perceived response time can be much better. |
 | **Debugging** | Debugging and tracing requests can be more difficult in an asynchronous system, as the request and response are not directly linked in time. | The use of a correlation ID is essential for tracing the flow of messages through the system. |
 
-### 6. Real-world Examples
+### 6. When to Use
 
 The Asynchronous Request-Reply pattern is widely used in various applications and systems:
 
@@ -108,7 +129,7 @@ The Asynchronous Request-Reply pattern is widely used in various applications an
 
 *   **IoT (Internet of Things):** In IoT applications, devices often send data to a central server for processing. The Asynchronous Request-Reply pattern can be used to handle these requests, especially when the processing involves complex analytics or machine learning models. The device can send the data and then go back to sleep to conserve power, and the server can send a response or a command to the device when the processing is complete.
 
-### 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, where AI and machine learning models are increasingly integrated into applications, the Asynchronous Request-Reply pattern becomes even more critical. Training and running inference on complex machine learning models can be very time-consuming. Using a synchronous request-response pattern for these operations would lead to a poor user experience and inefficient use of resources.
 
@@ -116,7 +137,7 @@ The Asynchronous Request-Reply pattern is well-suited for invoking machine learn
 
 Furthermore, the pattern can be used to build scalable and resilient AI-powered applications. By using a message queue to buffer requests, the system can handle a large number of concurrent requests and can be designed to be resilient to failures. If a machine learning model fails to process a request, the request can be retried or sent to a different model for processing.
 
-### 8. Commons Alignment Assessment
+### 8. References
 
 The Asynchronous Request-Reply pattern aligns well with the principles of the Commons, particularly in the context of building open and collaborative platforms:
 

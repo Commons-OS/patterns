@@ -1,19 +1,20 @@
+---
 id: pat_209d17d84c5a68905b6cadee
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/knowledge-graph-platform.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/knowledge-graph-platform.md
 slug: knowledge-graph-platform
 title: Knowledge Graph Platform
 aliases:
 - Enterprise Knowledge Graph
 - Semantic Platform
 - Data Fabric
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - model
+  - practice
   era:
   - digital
   - cognitive
@@ -22,18 +23,19 @@ classification:
   - data-science
   status: draft
   commons_alignment: 4
-  commons_domain:
-  - platform
+  commons_domain: &id001
   - business
-  - social
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
 contributors:
-- higgerix
-- cloudsters
+- name: higgerix
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://www.ibm.com/think/topics/knowledge-graph
 - https://www.stardog.com/knowledge-graph/
@@ -43,7 +45,16 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/knowledge-graph-platform/
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
 
 ### 1. Overview
 
@@ -126,13 +137,13 @@ In the e-commerce sector, Amazon's product graph is a powerful example of a know
 
 Beyond the tech giants, knowledge graph platforms are also making a significant impact in other industries. In the financial services industry, for example, companies are using knowledge graphs to detect and prevent financial crimes, such as money laundering and fraud. By analyzing the relationships between individuals, organizations, and transactions, they can identify suspicious patterns and networks that would be difficult to detect with traditional methods. In the life sciences, knowledge graphs are being used to accelerate drug discovery by integrating and analyzing vast amounts of biomedical data from different sources. This is helping researchers to identify new drug targets, understand disease mechanisms, and find new uses for existing drugs.
 
-### 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 The cognitive era, characterized by the rise of artificial intelligence and machine learning, is poised to significantly amplify the power and importance of knowledge graph platforms. AI and ML systems thrive on data, but their effectiveness is often limited by the quality and context of that data. Knowledge graphs provide a rich, contextualized data layer that can fuel more intelligent and accurate AI applications. For example, in natural language processing, a knowledge graph can help a chatbot or virtual assistant to understand the nuances of a user's query and provide a more relevant and personalized response. By grounding AI models in a structured and verified knowledge base, knowledge graphs can also help to mitigate the risk of hallucinations and biases, leading to more trustworthy and explainable AI.
 
 Furthermore, the relationship between knowledge graphs and AI is symbiotic. While knowledge graphs provide the foundation for smarter AI, AI can also be used to automate and enhance the construction and maintenance of knowledge graphs. Machine learning algorithms can be used to extract entities and relationships from unstructured text, to resolve entities and link them to the graph, and to identify and correct errors in the data. This combination of AI and knowledge graphs, often referred to as "AI-powered knowledge graphs," is creating a virtuous cycle of continuous learning and improvement. As AI models become more sophisticated, they will be able to build and maintain more comprehensive and accurate knowledge graphs, which in turn will fuel the next generation of intelligent applications.
 
-### 8. Commons Alignment Assessment
+### 8. References
 
 - **Shared Resource Potential:** High. A knowledge graph, by its very nature, is a shared resource. It is a collective repository of knowledge that can be accessed and enriched by a community of users. When developed and managed as a commons, a knowledge graph can foster a shared understanding of a domain and serve as a foundation for collaborative innovation. Open knowledge graphs like Wikidata and DBpedia are prime examples of how a knowledge graph can function as a global commons, providing a valuable resource for a wide range of applications and research.
 

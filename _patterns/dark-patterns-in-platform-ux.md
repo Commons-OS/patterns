@@ -1,19 +1,18 @@
-
 ---
 id: pat_8aaae1817c9062fd8cb0fa78
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/dark-patterns-in-platform-ux.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/dark-patterns-in-platform-ux.md
 slug: dark-patterns-in-platform-ux
 title: Dark Patterns in Platform UX
 aliases:
 - Deceptive Design
 - Manipulative UX
 - Hostile Architecture
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
   - anti-pattern
   era:
@@ -25,20 +24,19 @@ classification:
   - user-experience-design
   status: draft
   commons_alignment: 1
-  commons_domain:
-  - platform
-  - social
+  commons_domain: &id001
+  - business
   - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- privacy-by-design
-- ethical-design
+related: []
 contributors:
-- higgerix
-- cloudsters
+- name: higgerix
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://www.nngroup.com/articles/deceptive-patterns/
 - https://en.wikipedia.org/wiki/Dark_pattern
@@ -48,7 +46,17 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/dark-patterns-in-platform-ux/
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
+
 
 ### 1. Overview
 
@@ -138,13 +146,13 @@ There is a growing body of evidence that demonstrates the prevalence and impact 
 
 The use of dark patterns has also led to a number of high-profile lawsuits and regulatory actions. For example, the US Federal Trade Commission (FTC) has taken action against a number of companies for using dark patterns, including Amazon and LinkedIn. The FTC has also issued a report on dark patterns, which provides guidance to businesses on how to avoid using them. In Europe, the General Data Protection Regulation (GDPR) includes provisions that are designed to protect users from dark patterns, such as the requirement for clear and unambiguous consent for the processing of personal data. These regulatory actions are a positive step, but more needs to be done to combat the use of dark patterns.
 
-### 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 The rise of artificial intelligence (AI) and machine learning (ML) is likely to have a significant impact on the use of dark patterns. On the one hand, AI and ML could be used to create more sophisticated and effective dark patterns that are personalized to individual users. For example, an AI-powered dark pattern could learn a user's cognitive biases and preferences, and then use this information to design a manipulative interface that is tailored to that user. This could make dark patterns even more difficult to detect and resist. The use of AI to personalize dark patterns is a major threat to user autonomy, and it is a development that needs to be closely monitored.
 
 On the other hand, AI and ML could also be used to detect and combat dark patterns. For example, an AI-powered tool could be used to scan websites and apps for dark patterns, and to alert users to their presence. An AI-powered tool could also be used to automatically block dark patterns, or to provide users with alternative interfaces that are free from manipulation. The development of these tools could help to level the playing field between platforms and users, and to create a more transparent and ethical digital environment. The use of AI to combat dark patterns is a promising area of research, and it is one that could have a significant impact on the future of the internet.
 
-### 8. Commons Alignment Assessment
+### 8. References
 
 - **Shared Resource Potential:** Low - Dark patterns are designed to extract value from users, not to create a shared resource. They are a form of enclosure that privatizes user data and attention for the benefit of the platform. They are a zero-sum game, where the platform's gain is the user's loss.
 - **Democratic Governance:** Low - Dark patterns are the antithesis of democratic governance. They are a form of manipulation that undermines user autonomy and control. They are a top-down approach to design that does not involve users in the decision-making process. They are a form of digital authoritarianism.

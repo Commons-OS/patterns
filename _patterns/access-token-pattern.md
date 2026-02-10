@@ -1,18 +1,18 @@
 ---
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/access-token-pattern.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/access-token-pattern.md
 slug: access-token-pattern
 title: Access Token Pattern
 aliases:
 - Bearer Token
 - Authentication Token
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - security
+  - practice
   era:
   - digital
   - cognitive
@@ -20,30 +20,43 @@ classification:
   - software-engineering
   - platform-design
   status: draft
-  commons_alignment: 0
-  commons_domain:
-  - platform
+  commons_alignment: 3
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://microservices.io/patterns/security/access-token.html
 - https://auth0.com/docs/secure/tokens/access-tokens
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+id: pat_019c47f4fcc77705b008fa8d23
+page_url: https://commons-os.github.io/patterns/access-token-pattern/
+commons_domain: *id001
 ---
 
-## 1. Overview
+
+
+
+
+
+
+
+
+### 1. Overview
 
 The Access Token pattern is a fundamental security mechanism in modern software architecture, particularly in distributed systems and microservices. It provides a standardized way for a client application to access protected resources on behalf of a user. The pattern involves an authentication server issuing a token to a client after successful authentication. This token, known as an access token, is then included in subsequent requests to the resource server, which validates the token to authorize the request. The historical origins of this pattern are rooted in the evolution of web security, moving from stateful session-based authentication to stateless token-based authentication, with standards like OAuth 2.0 playing a pivotal role in its widespread adoption [1].
 
-## 2. Core Principles
+### 2. Core Principles
 
 The core principles of the Access Token pattern are centered around the secure and efficient delegation of access. These principles include:
 
@@ -52,11 +65,11 @@ The core principles of the Access Token pattern are centered around the secure a
 *   **Claims:** Access tokens, especially those in the JSON Web Token (JWT) format, contain claims. Claims are statements about an entity (typically, the user) and additional metadata. Standard claims include the issuer (`iss`), subject (`sub`), audience (`aud`), and expiration time (`exp`).
 *   **Scopes:** Scopes define the specific permissions the client has been granted. The access token is associated with a set of scopes, and the resource server enforces that the requested operation is allowed by the scopes in the token.
 
-## 3. Problem Statement
+### 3. Key Practices
 
 In distributed systems, such as those built with a microservices architecture, a single user request might be handled by multiple services. A critical challenge is how to securely and efficiently propagate the user's identity and permissions across these service-to-service calls without requiring each service to re-authenticate the user. Services need a reliable way to trust that a request is legitimate and to determine what actions the user is authorized to perform.
 
-## 4. Solution
+### 4. Implementation
 
 The Access Token pattern addresses this problem by introducing a trusted third party, the authentication server (or identity provider). The flow is as follows:
 
@@ -68,7 +81,19 @@ The Access Token pattern addresses this problem by introducing a trusted third p
 
 This solution decouples authentication from the services themselves, centralizing it in the authentication server. The use of digitally signed tokens like JWTs allows services to independently verify the token's authenticity and integrity without needing to call back to the authentication server for every request.
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 | Aspect | Pros | Cons |
 | --- | --- | --- |
@@ -77,18 +102,18 @@ This solution decouples authentication from the services themselves, centralizin
 | **Decoupling** | Services are decoupled from the authentication mechanism, which is centralized. | There is a dependency on the authentication server for token issuance and, in some cases, for validation. |
 | **Performance** | Local validation of JWTs is fast and efficient. | Public key retrieval for signature validation can introduce latency. |
 
-## 6. Real-world Examples
+### 6. When to Use
 
 *   **OAuth 2.0 and OpenID Connect:** These are the most prominent standards that utilize the Access Token pattern. They are widely used for delegated authorization and authentication by major platforms like Google, Facebook, and Microsoft.
 *   **Single Page Applications (SPAs):** SPAs use access tokens to securely call backend APIs after the user has logged in.
 *   **Mobile Applications:** Mobile apps use access tokens to communicate with server-side resources.
 *   **Microservices Architectures:** As described in the problem statement, access tokens are a common way to secure communication between microservices.
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, where AI and machine learning models are increasingly exposed as APIs, the Access Token pattern is crucial for securing access to these valuable resources. Access tokens can carry claims that specify which models a user can access or what level of usage is permitted. Furthermore, AI can be applied to enhance the security of the pattern itself. For example, anomaly detection models can be used to analyze token usage patterns and identify suspicious behavior, such as a token being used from an unusual geographic location or at an unusual time, potentially indicating that the token has been compromised.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 | Commons Principle | Alignment Analysis |
 | --- | --- |

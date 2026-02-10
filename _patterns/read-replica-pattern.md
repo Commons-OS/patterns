@@ -1,18 +1,17 @@
 ---
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/read-replica-pattern.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/read-replica-pattern.md
 slug: read-replica-pattern
 title: Read Replica Pattern
 aliases:
 - Read-Only Replica Pattern
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - scalability
-  - resilience
+  - practice
   era:
   - digital
   - cognitive
@@ -21,17 +20,18 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- cqrs
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://blog.bytebytego.com/p/read-replica-pattern
 - https://learn.microsoft.com/en-us/azure/postgresql/read-replica/concepts-read-replicas
@@ -39,13 +39,24 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+id: pat_019c47f5001f71d09a37fffdaa
+page_url: https://commons-os.github.io/patterns/read-replica-pattern/
+commons_domain: *id001
 ---
 
-## 1. Overview
+
+
+
+
+
+
+
+
+### 1. Overview
 
 The Read Replica pattern is a fundamental database architecture strategy for scaling read-intensive applications. It involves creating one or more read-only copies, or replicas, of a primary database. Write operations (such as inserts, updates, and deletes) are directed to the primary database, while read operations (queries) are distributed across the read replicas. This separation of workloads improves application performance, scalability, and availability. The primary database asynchronously replicates its data to the read replicas, ensuring that they remain eventually consistent with the primary. This pattern has its roots in the need to scale relational databases, which have traditionally been a bottleneck in many applications. As web applications grew in complexity and user traffic, the need for a simple and effective way to scale database reads became paramount, leading to the widespread adoption of the read replica pattern.
 
-## 2. Core Principles
+### 2. Core Principles
 
 The Read Replica pattern is defined by a set of core principles that govern its implementation and operation:
 
@@ -57,15 +68,27 @@ The Read Replica pattern is defined by a set of core principles that govern its 
 
 *   **Read-Only Replicas:** The replicas are, by design, read-only. This prevents data conflicts and ensures that the primary database remains the single source of truth.
 
-## 3. Problem Statement
+### 3. Key Practices
 
 Modern applications often have read-heavy workloads, where the number of read operations far exceeds the number of write operations. For example, an e-commerce website will have many more users browsing products (reads) than placing orders (writes). As user traffic grows, the database can become a bottleneck, leading to slow response times and a poor user experience. Scaling a single database server vertically (by adding more CPU, RAM, etc.) can be expensive and has its limits. A more scalable and cost-effective solution is needed to handle the high volume of read queries without impacting the performance of write operations.
 
-## 4. Solution
+### 4. Implementation
 
 The Read Replica pattern provides a solution by horizontally scaling the read capacity of the database. By creating one or more read replicas, the application can distribute read queries across multiple servers, thereby reducing the load on the primary database. This allows the primary database to dedicate its resources to handling write operations, ensuring that they are processed quickly and efficiently. The application logic is modified to direct all write operations to the primary database and all read operations to the read replicas. This can be implemented at the application level or by using a database proxy that automatically routes queries to the appropriate server.
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 While the Read Replica pattern offers significant benefits, it also introduces a number of trade-offs and considerations that must be carefully managed:
 
@@ -79,7 +102,7 @@ While the Read Replica pattern offers significant benefits, it also introduces a
 
 **Replication Lag:** The most significant challenge with the Read Replica pattern is replication lag. This can be mitigated by routing latency-sensitive reads to the primary database, or by implementing logic to check the replication status before querying a replica.
 
-## 6. Real-world Examples
+### 6. When to Use
 
 The Read Replica pattern is widely used by many large-scale web applications and cloud providers:
 
@@ -88,11 +111,11 @@ The Read Replica pattern is widely used by many large-scale web applications and
 *   **E-commerce Websites:** Many e-commerce platforms use read replicas to handle the high volume of product browsing and search queries, ensuring a smooth user experience even during peak traffic periods.
 *   **Content Management Systems:** Content-heavy websites and applications often use read replicas to serve content to users, while the primary database is used for content creation and management.
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, where AI and machine learning are becoming increasingly prevalent, the Read Replica pattern remains highly relevant. AI/ML workloads often involve large-scale data analysis and processing, which can be very read-intensive. By using read replicas, organizations can feed data to their AI/ML models without impacting the performance of their primary application database. For example, a recommendation engine can query a read replica to generate personalized recommendations for users, while the primary database continues to handle real-time transactions. This separation of workloads ensures that both the operational and analytical aspects of the application can scale independently.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 The Read Replica pattern can be assessed against the 5 Commons principles as follows:
 

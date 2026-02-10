@@ -7,24 +7,22 @@ classification:
   universality: domain
   domain: startup
   category:
-  - governance
+  - practice
   era:
   - cognitive
   origin:
   - startup-ecosystem
   status: draft
   commons_alignment: 4
-  commons_domain:
+  commons_domain: &id001
   - startup
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-confidence_score: 0.7
 sources: []
 version: 1.0.0
-last_updated: 2026-02-01
 page_url: https://commons-os.github.io/patterns/founder-controlled-board/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/founder-controlled-board.md
 created: 2026-02-01
@@ -35,7 +33,16 @@ contributors:
 license: CC-BY-SA-4.0
 attribution: Commons OS Pattern Library
 repository: https://github.com/Commons-OS/patterns
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
+
 
 # Founder-Controlled Board
 

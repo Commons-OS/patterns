@@ -1,18 +1,18 @@
 ---
-id: pat_circuit_breaker
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/circuit-breaker-pattern.md
+id: pat_019c47f4fd7475e1b8ca972489
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/circuit-breaker-pattern.md
 slug: circuit-breaker-pattern
 title: Circuit Breaker Pattern
 aliases:
 - Client-Side Resiliency Pattern
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - resilience
+  - practice
   era:
   - digital
   - cognitive
@@ -21,18 +21,18 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- bulkhead-pattern
-- retry-pattern
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker
 - https://martinfowler.com/bliki/CircuitBreaker.html
@@ -41,13 +41,23 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/circuit-breaker-pattern/
+commons_domain: *id001
 ---
 
-## 1. Overview
+
+
+
+
+
+
+
+
+### 1. Overview
 
 The Circuit Breaker pattern is a critical design pattern used in modern software architecture to enhance the resilience and stability of distributed systems. It is primarily used to handle faults that may arise when communicating with remote services or resources, especially in microservices architectures where applications are composed of multiple, independently deployable services. The pattern prevents an application from repeatedly trying to execute an operation that is likely to fail, thereby avoiding the consumption of critical resources and allowing the failing service time to recover. This approach is analogous to an electrical circuit breaker that trips to prevent damage to a circuit during an overload or short circuit [1]. The concept was first popularized by Michael Nygard in his book "Release It!" and has since become a fundamental pattern for building fault-tolerant systems [2].
 
-## 2. Core Principles
+### 2. Core Principles
 
 The Circuit Breaker pattern is implemented as a state machine with three distinct states that govern the flow of requests to a protected service:
 
@@ -67,15 +77,27 @@ The Circuit Breaker pattern is implemented as a state machine with three distinc
 
 <br>
 
-## 3. Problem Statement
+### 3. Key Practices
 
 In distributed systems, particularly those based on a microservices architecture, services often make synchronous calls to other services to fulfill requests. A failure in one service can cascade to other services that depend on it. For example, a service might be unresponsive or experiencing high latency. If a consumer repeatedly retries a request to an unresponsive service, it can lead to the exhaustion of critical system resources such as threads, memory, and network connections. This can cause the consumer application to slow down or even crash, leading to a cascading failure that can impact the entire system. This problem is exacerbated in complex systems with many interdependent services, where a single point of failure can have a widespread impact [4].
 
-## 4. Solution
+### 4. Implementation
 
 The Circuit Breaker pattern provides a solution to this problem by acting as a proxy or intermediary between the service consumer and the provider. It monitors the health of the provider service and, upon detecting a high failure rate, "trips" or "opens" the circuit. When the circuit is open, all subsequent requests to the provider are immediately failed without being sent over the network. This allows the provider service time to recover from its failure without being overwhelmed by a flood of requests. After a configurable "cool-down" period, the circuit breaker enters a "half-open" state, where it allows a single request to pass through to the provider. If this request succeeds, the circuit breaker returns to the "closed" state, and normal operation resumes. If the request fails, the circuit breaker returns to the "open" state, and the cool-down period begins again.
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 While the Circuit Breaker pattern offers significant benefits in terms of resilience and fault tolerance, there are several trade-offs and considerations to keep in mind:
 
@@ -87,7 +109,7 @@ While the Circuit Breaker pattern offers significant benefits in terms of resili
 
 *   **Monitoring and Logging:** It is essential to monitor the state of the circuit breaker and log its transitions. This information can be used to diagnose problems and fine-tune the configuration of the circuit breaker.
 
-## 6. Real-world Examples
+### 6. When to Use
 
 The Circuit Breaker pattern is widely used in many real-world systems and is supported by numerous libraries and frameworks:
 
@@ -99,7 +121,7 @@ The Circuit Breaker pattern is widely used in many real-world systems and is sup
 
 *   **Service Meshes:** Modern service mesh technologies like Istio and Linkerd provide built-in support for the Circuit Breaker pattern, allowing developers to configure and manage circuit breakers declaratively without modifying the application code.
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, where AI and machine learning models are increasingly integrated into applications, the Circuit Breaker pattern remains highly relevant. The cognitive era introduces new challenges and opportunities for the Circuit Breaker pattern:
 
@@ -109,7 +131,7 @@ In the cognitive era, where AI and machine learning models are increasingly inte
 
 *   **Intelligent Fallbacks:** When the circuit is open, AI-powered fallback mechanisms can be used to provide more intelligent and context-aware responses. For example, a chatbot could use natural language generation to provide a more helpful and informative response to a user when a backend service is unavailable.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 The Circuit Breaker pattern aligns well with the principles of the Commons, particularly in the context of building resilient and sustainable digital platforms:
 
@@ -123,8 +145,7 @@ The Circuit Breaker pattern aligns well with the principles of the Commons, part
 
 *   **Equitable Access:** By ensuring the stability of the platform, the Circuit Breaker pattern helps to provide equitable access to all users, regardless of their location or network conditions.
 
-## References
-
+### 8. References
 [1] Microsoft. (2025, March 21). *Circuit Breaker Pattern*. Azure Architecture Center. Retrieved from https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker
 
 [2] Fowler, M. (2014, March 6). *CircuitBreaker*. Retrieved from https://martinfowler.com/bliki/CircuitBreaker.html

@@ -22,8 +22,8 @@ TYPEID_PATTERN = re.compile(r'^pat_[a-z0-9]{20,30}$')
 TYPEID_LIGHTHOUSE = re.compile(r'^lh_[a-z0-9]{20,30}$')
 TYPEID_ANY = re.compile(r'^(pat|lh)_[a-z0-9]{20,30}$')
 
-# Filename pattern: number-slug.md
-FILENAME_PATTERN = re.compile(r'^(\d+)-([a-z0-9-]+)\.md$')
+# Filename pattern: slug-only per ADR-0001 (no sequential numbers)
+FILENAME_PATTERN = re.compile(r'^[a-z0-9][a-z0-9-]*\.md$')
 
 # Valid values
 VALID_STATUS = ['draft', 'review', 'published', 'mature', 'deprecated']
@@ -45,7 +45,8 @@ REQUIRED_PATTERN_FIELDS = [
 ]
 
 REQUIRED_PATTERN_TAG_FIELDS = [
-    'universality', 'domain', 'category', 'era', 'origin', 'status', 'commons_alignment'
+    'universality', 'domain', 'category', 'era', 'origin', 'status', 'commons_alignment',
+    'commons_domain'  # Per ADR-012 and PATTERN_SPEC.md v1.3
 ]
 
 REQUIRED_LIGHTHOUSE_FIELDS = [
@@ -112,10 +113,10 @@ def validate_typeid(id_value, entity_type):
 
 
 def validate_filename(filepath):
-    """Validate filename format."""
+    """Validate filename format per ADR-0001: slug-only, no sequential numbers."""
     filename = os.path.basename(filepath)
     if not FILENAME_PATTERN.match(filename):
-        return ValidationError(f"Filename '{filename}' does not match format '{{number}}-{{slug}}.md'")
+        return ValidationError(f"Filename '{filename}' does not match format '{{slug}}.md' (lowercase, hyphens, no numbers prefix)")
     return None
 
 
@@ -170,8 +171,19 @@ def validate_field_values(frontmatter, entity_type):
                 errors.append(ValidationError(f"Invalid scale: {classification['scale']}. Must be one of {VALID_SCALES}"))
     
     if entity_type == 'pattern':
-        if 'commons_domain' in frontmatter and frontmatter['commons_domain'] not in VALID_COMMONS_DOMAINS:
-            errors.append(ValidationError(f"Invalid commons_domain: {frontmatter['commons_domain']}"))
+        if 'commons_domain' in frontmatter:
+            # Per ADR-012, commons_domain is a multi-value array
+            cd = frontmatter['commons_domain']
+            if isinstance(cd, str):
+                # Single string is acceptable but should be in valid list
+                if cd not in VALID_COMMONS_DOMAINS:
+                    errors.append(ValidationError(f"Invalid commons_domain: {cd}"))
+            elif isinstance(cd, list):
+                for domain in cd:
+                    if domain not in VALID_COMMONS_DOMAINS:
+                        errors.append(ValidationError(f"Invalid commons_domain value: {domain}"))
+            else:
+                errors.append(ValidationError(f"commons_domain must be a string or array, got: {type(cd).__name__}"))
     
     return errors
 

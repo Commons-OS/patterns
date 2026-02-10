@@ -1,21 +1,20 @@
-
 ---
 id: pat_3b9b4b4b4b4b4b4b4b4b4b4b
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/app-store-model.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/app-store-model.md
 slug: app-store-model
 title: App Store Model
 aliases:
 - Application Marketplace
 - Digital Distribution Platform
 - Software Store
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - model
+  - practice
   era:
   - digital
   - cognitive
@@ -25,18 +24,19 @@ classification:
   - business-strategy
   status: draft
   commons_alignment: 2
-  commons_domain:
-  - platform
+  commons_domain: &id001
   - business
-  - social
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
 contributors:
-- higgerix
-- cloudsters
+- name: higgerix
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://www.investopedia.com/terms/a/apple-app-store.asp
 - https://en.wikipedia.org/wiki/App_store
@@ -46,7 +46,17 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/app-store-model/
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
+
 
 ### 1. Overview
 
@@ -136,14 +146,14 @@ The economic and social impact of the App Store Model has been nothing short of 
 The impact of the App Store Model extends beyond just economics. It has fundamentally changed how we work, learn, communicate, and entertain ourselves. The proliferation of educational apps has transformed learning, while health and fitness apps have empowered individuals to take greater control of their well-being. However, the model's impact has not been without controversy. The immense market power wielded by Apple and Google has led to accusations of anti-competitive behavior, with developers and regulators raising concerns about the mandatory 30% commission, the strict control over in-app payments, and the opaque app review process. The legal battle between Epic Games and Apple, which challenged the very foundations of the App Store's business model, is a testament to the growing tensions within the ecosystem. These challenges have sparked a global conversation about the need for greater regulation and a more open and equitable digital marketplace.
 
 
-### 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 The advent of the Cognitive Era, characterized by the widespread integration of artificial intelligence (AI) and machine learning (ML), is poised to profoundly reshape the App Store Model. AI is already being used to enhance various aspects of the app store experience, from personalized app recommendations and more sophisticated search algorithms to automated app review processes that can detect malware and policy violations with greater accuracy. For developers, AI-powered tools are democratizing app development, with low-code and no-code platforms enabling the creation of complex applications with minimal programming expertise. This will likely lead to an even greater proliferation of apps, further intensifying the challenge of discovery and creating a need for more intelligent curation and filtering mechanisms.
 
 Looking forward, the integration of large language models (LLMs) and generative AI into mobile operating systems will challenge the very concept of the app as a discrete unit of software. Instead of navigating between different apps, users may interact with a single, conversational AI assistant that can perform a wide range of tasks by dynamically composing and executing different functions from various services. This shift from an app-centric to a service-centric model could disrupt the current App Store paradigm, as the value moves from the individual app to the underlying services and the AI that orchestrates them. Platform owners will need to adapt their business models to this new reality, potentially moving towards a more service-oriented architecture where developers monetize access to their AI-powered services rather than selling standalone apps.
 
 
-### 8. Commons Alignment Assessment
+### 8. References
 
 The App Store Model presents a complex and often contradictory relationship with commons principles. While it has created a vast ecosystem of digital resources, its centralized, proprietary, and extractive nature fundamentally conflicts with the core tenets of a commons.
 

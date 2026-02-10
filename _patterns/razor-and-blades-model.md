@@ -1,21 +1,20 @@
-## Razor-and-Blades Model Content Draft
 ---
 id: pat_ad85e155afee49934b465b33
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/razor-and-blades-model.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/razor-and-blades-model.md
 slug: razor-and-blades-model
 title: Razor-and-Blades Model
 aliases:
 - Bait and Hook
 - Tied Products Model
 - Loss Leader
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - model
+  - practice
   era:
   - digital
   - cognitive
@@ -24,18 +23,19 @@ classification:
   - industrial-economics
   status: draft
   commons_alignment: 1
-  commons_domain:
-  - platform
+  commons_domain: &id001
   - business
-  - social
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
 contributors:
-- higgerix
-- cloudsters
+- name: higgerix
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://en.wikipedia.org/wiki/Razor_and_blades_model
 - https://www.investopedia.com/terms/r/razor-razorblademodel.asp
@@ -45,7 +45,16 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/razor-and-blades-model/
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
 
 ### 1. Overview
 
@@ -133,13 +142,13 @@ In the technology sector, the Razor-and-Blades model has been a driving force be
 
 The impact of the Razor-and-Blades model extends beyond consumer products and into the realm of enterprise technology and healthcare. In the enterprise software market, companies like Adobe and Microsoft have shifted from selling perpetual software licenses to a subscription-based model, which is a variation of the Razor-and-Blades strategy. By offering their software at a low monthly or annual fee, they make it more accessible to a wider range of customers and create a predictable, recurring revenue stream. In the healthcare industry, the model is prevalent in the market for diagnostic devices, such as glucose meters for diabetics. The meters themselves are often given away for free or sold at a very low price, while the companies generate significant profits from the sale of the disposable test strips that are required for each use. This has made it possible for millions of people to monitor their health conditions on a regular basis, but it has also raised concerns about the high cost of essential medical supplies.
 
-### 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 The advent of the Cognitive Era, characterized by the widespread adoption of artificial intelligence and machine learning, is poised to have a profound impact on the Razor-and-Blades model. AI can be leveraged to create more sophisticated and personalized versions of the "blades," tailored to the individual needs and usage patterns of each customer. For example, a smart toothbrush (the razor) could collect data on a user's brushing habits and use AI to recommend a personalized toothpaste formula or a custom-designed brush head (the blades). This level of personalization can increase the perceived value of the consumables, justify a higher price point, and further strengthen customer loyalty.
 
 Furthermore, AI can be used to create more effective and subtle forms of vendor lock-in. By embedding AI-powered features into the durable product that are only accessible with the company's own consumables, companies can make it even more difficult for customers to switch to third-party alternatives. For instance, a smart printer could use AI to optimize its printing quality based on the specific chemical composition of its own ink cartridges, and refuse to print or deliver suboptimal results with third-party ink. This creates a dynamic and intelligent form of lock-in that is much harder to reverse-engineer than a simple physical connector. As AI becomes more integrated into our daily lives, the Razor-and-Blades model is likely to become even more prevalent and powerful, raising new questions about consumer choice, data privacy, and the potential for algorithmic exploitation.
 
-### 8. Commons Alignment Assessment
+### 8. References
 
 - **Shared Resource Potential:** Low - The Razor-and-Blades model is fundamentally based on the creation of proprietary, closed ecosystems. The core principle of vendor lock-in is antithetical to the idea of a shared resource. The model actively discourages the use of third-party or open-source alternatives, and instead seeks to create a monopoly over the consumable component.
 

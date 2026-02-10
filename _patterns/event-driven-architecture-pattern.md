@@ -1,20 +1,18 @@
 ---
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/event-driven-architecture-pattern.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/event-driven-architecture-pattern.md
 slug: event-driven-architecture-pattern
 title: Event-Driven Architecture Pattern
 aliases:
 - EDA
 - Event-Based Architecture
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - messaging
-  - scalability
-  - resilience
+  - practice
   era:
   - digital
   - cognitive
@@ -23,29 +21,42 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven
 - https://www.confluent.io/learn/event-driven-architecture/
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+id: pat_019c47f4fe5e73a1939ed095db
+page_url: https://commons-os.github.io/patterns/event-driven-architecture-pattern/
+commons_domain: *id001
 ---
 
-## 1. Overview
+
+
+
+
+
+
+
+
+### 1. Overview
 
 Event-Driven Architecture (EDA) is a software architecture paradigm centered around the production, detection, and consumption of events. An event is a significant change in state, such as a user placing an order or a sensor reaching a certain temperature. In an EDA, components communicate asynchronously by sending and receiving events through an event channel, such as a message broker or an event bus. This approach decouples components, allowing them to be developed, deployed, and scaled independently. The historical origins of EDA can be traced back to the need for more responsive and scalable systems, moving away from the limitations of traditional, monolithic, and request-response architectures. The rise of microservices and distributed systems has further propelled the adoption of EDA as a key pattern for building resilient and flexible applications [1].
 
-## 2. Core Principles
+### 2. Core Principles
 
 The core principles of Event-Driven Architecture are fundamental to its design and implementation. These principles ensure the loose coupling and asynchronous nature of the system, which are key to its benefits.
 
@@ -56,11 +67,11 @@ The core principles of Event-Driven Architecture are fundamental to its design a
 | **Event Channel** | A dedicated middleware, known as an event channel or message broker, is responsible for transmitting events from producers to consumers. This central channel manages the distribution of events, ensuring they are delivered to the appropriate subscribers. |
 | **Event Immutability** | Events are immutable records of something that has happened. Once an event is published, it cannot be changed. This ensures that the state change represented by the event is a permanent fact. |
 
-## 3. Problem Statement
+### 3. Key Practices
 
 In traditional, tightly coupled architectures, components are highly interdependent. A change in one component often requires changes in others, making the system difficult to maintain and evolve. Synchronous, request-response communication can lead to bottlenecks and reduced availability, as the failure of one service can cascade and cause other services to fail. As systems grow in complexity and scale, these issues become more pronounced, leading to a lack of scalability, resilience, and flexibility. There is a need for an architectural style that allows for the development of large-scale, distributed systems where components can operate independently and communicate in a resilient and scalable manner.
 
-## 4. Solution
+### 4. Implementation
 
 Event-Driven Architecture addresses these problems by decoupling components and enabling asynchronous communication. The solution consists of three main components: event producers, event consumers, and an event channel.
 
@@ -70,7 +81,19 @@ Event-Driven Architecture addresses these problems by decoupling components and 
 
 By using this model, new services can be added to the system without modifying existing producers or consumers. The system becomes more resilient because the failure of a consumer does not affect the producer. The asynchronous nature of the communication allows the system to handle high volumes of events and scale individual components as needed.
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 While Event-Driven Architecture offers significant benefits, it also introduces a new set of challenges and trade-offs that must be carefully considered.
 
@@ -81,7 +104,7 @@ While Event-Driven Architecture offers significant benefits, it also introduces 
 | **Resilience** | Improves fault tolerance. The failure of a consumer does not typically affect the producer or other consumers. | Guarantees of event delivery and ordering can be complex to implement, potentially leading to data loss or inconsistent state. |
 | **Development Complexity** | Simplifies the logic within individual components. | Overall system complexity can increase due to the asynchronous nature and the need for robust error handling, monitoring, and debugging mechanisms. |
 
-## 6. Real-world Examples
+### 6. When to Use
 
 Event-Driven Architecture is used in a wide variety of applications across different industries. Here are some common examples [2]:
 
@@ -90,11 +113,11 @@ Event-Driven Architecture is used in a wide variety of applications across diffe
 *   **Financial Services:** In stock trading, a `PriceChanged` event can trigger automated trading algorithms to buy or sell stocks in real-time.
 *   **Microservices-based Applications:** EDA is a natural fit for microservices, where events are used to communicate between services, enabling them to be loosely coupled and independently deployable.
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, where AI and machine learning are becoming increasingly prevalent, Event-Driven Architecture plays a crucial role. Real-time data processing is essential for many AI/ML applications, and EDA provides the foundation for building responsive and intelligent systems. For example, in a fraud detection system, an event-driven approach can be used to analyze transaction events in real-time and trigger an alert if a fraudulent pattern is detected. Similarly, in a personalized recommendation engine, user interaction events can be processed to update machine learning models and provide up-to-date recommendations. The ability of EDA to handle large streams of data in real-time makes it an ideal choice for building the data pipelines that feed these cognitive systems.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 This assessment analyzes the Event-Driven Architecture pattern against the five principles of the Commons.
 
@@ -108,8 +131,7 @@ This assessment analyzes the Event-Driven Architecture pattern against the five 
 
 Overall, Event-Driven Architecture aligns well with the principles of the Commons, particularly in its promotion of shared resources and decentralized, autonomous components. The final `commons_alignment` score is 3.
 
-## References
-
+### 8. References
 [1] Microsoft. (2023). *Event-driven architecture style*. Retrieved from https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven
 
 [2] Confluent. (n.d.). *What is Event-Driven Architecture (EDA)?*. Retrieved from https://www.confluent.io/learn/event-driven-architecture/

@@ -1,19 +1,18 @@
 ---
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/load-balancing-pattern.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/load-balancing-pattern.md
 slug: load-balancing-pattern
 title: Load Balancing Pattern
 aliases:
 - Traffic Distribution
 - Workload Distribution
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - scalability
-  - resilience
+  - practice
   era:
   - digital
   - cognitive
@@ -22,18 +21,18 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- circuit-breaker
-- autoscaling
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://levelup.gitconnected.com/load-balancing-design-pattern-2e3307e26407
 - https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview
@@ -42,13 +41,24 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+id: pat_019c47f4ff727980a51e1e52c9
+page_url: https://commons-os.github.io/patterns/load-balancing-pattern/
+commons_domain: *id001
 ---
 
-## 1. Overview
+
+
+
+
+
+
+
+
+### 1. Overview
 
 The Load Balancing pattern is a fundamental design pattern in software architecture that focuses on distributing incoming network traffic across multiple backend servers or resources. The primary goal of this pattern is to optimize resource utilization, maximize throughput, minimize response time, and avoid overloading any single resource [1]. By distributing the workload, load balancing significantly enhances the scalability and reliability of applications. The concept of load balancing has been a cornerstone of distributed systems since their inception, evolving from simple hardware appliances to sophisticated software-based and cloud-native solutions that can dynamically adapt to changing traffic patterns.
 
-## 2. Core Principles
+### 2. Core Principles
 
 The effectiveness of the Load Balancing pattern is rooted in several core principles that govern its operation:
 
@@ -66,15 +76,27 @@ Common load balancing algorithms include:
 | **IP Hash**        | The IP address of the client is used to determine which server receives the request.                    | When session affinity is required.          |
 | **Weighted Round Robin** | Servers are assigned a weight, and traffic is distributed based on the server's weight.                 | Servers with different capacities.          |
 
-## 3. Problem Statement
+### 3. Key Practices
 
 In a modern digital landscape, applications are expected to be highly available and responsive, capable of handling a large and often unpredictable volume of user traffic. A single-server architecture presents a significant bottleneck and a single point of failure. As user traffic increases, the server can become overloaded, leading to slow response times, timeouts, and eventually, a complete service outage. Furthermore, if the single server fails for any reason (hardware failure, software crash, etc.), the entire application becomes unavailable, resulting in downtime and a poor user experience.
 
-## 4. Solution
+### 4. Implementation
 
 The Load Balancing pattern addresses this problem by introducing a load balancer, which acts as a reverse proxy and distributes network and application traffic across a number of servers. The load balancer sits between the client and the server farm and is responsible for routing incoming client requests to any available server capable of fulfilling them. This distribution of traffic prevents any single server from becoming a bottleneck and ensures that the workload is spread evenly across the available resources. By doing so, the pattern improves the application's responsiveness, availability, and scalability.
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 While the Load Balancing pattern offers significant benefits, it also introduces certain trade-offs and considerations:
 
@@ -88,7 +110,7 @@ While the Load Balancing pattern offers significant benefits, it also introduces
 *   **Potential Single Point of Failure:** The load balancer itself can become a single point of failure. To mitigate this, it is common practice to deploy load balancers in a high-availability configuration (e.g., an active-passive or active-active cluster).
 *   **Cost:** Both hardware and software load balancers can represent an additional cost, although cloud-based load balancing services offer a more cost-effective pay-as-you-go model [2].
 
-## 6. Real-world Examples
+### 6. When to Use
 
 The Load Balancing pattern is ubiquitous in modern software systems. Some of the most common examples include:
 
@@ -97,11 +119,11 @@ The Load Balancing pattern is ubiquitous in modern software systems. Some of the
 *   **NGINX:** A popular open-source software that can be used as a reverse proxy, load balancer, and HTTP cache.
 *   **HAProxy:** A widely used open-source load balancer and proxy server for TCP and HTTP-based applications.
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, where AI and machine learning workloads are becoming increasingly prevalent, the Load Balancing pattern remains highly relevant. For example, when deploying a machine learning model for real-time inference, a load balancer can be used to distribute inference requests across a pool of model-serving instances. This ensures that the inference service can handle a high volume of requests with low latency. Furthermore, more advanced load balancing algorithms can be developed that take into account the specific characteristics of AI/ML workloads, such as the computational cost of different types of inference requests.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 The Load Balancing pattern aligns with several of the Commons principles:
 

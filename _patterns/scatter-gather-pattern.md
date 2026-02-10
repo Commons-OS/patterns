@@ -1,19 +1,18 @@
 ---
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/scatter-gather-pattern.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/scatter-gather-pattern.md
 slug: scatter-gather-pattern
 title: Scatter-Gather Pattern
 aliases:
 - Broadcast-Aggregate
 - Fork-Join
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - messaging
-  - distributed-systems
+  - practice
   era:
   - digital
   - cognitive
@@ -21,17 +20,19 @@ classification:
   - software-engineering
   - platform-design
   status: draft
-  commons_alignment: 0 # 0-5 rating
-  commons_domain:
-  - platform
+  commons_alignment: 3
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/scatter-gather.html
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/BroadcastAggregate.html
@@ -39,14 +40,25 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+id: pat_019c47f5004c7463bb92a6da79
+page_url: https://commons-os.github.io/patterns/scatter-gather-pattern/
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
+
 _pattern_body_
 
-## 1. Overview
+### 1. Overview
 
 The Scatter-Gather pattern is a messaging pattern used in distributed systems to query multiple sources for information and aggregate the results. The core idea is to "scatter" a request to multiple recipients and then "gather" the responses to form a single, consolidated response. This pattern is particularly useful when a request can be fulfilled by multiple sources, or when different sources can provide partial information that needs to be combined. The Scatter-Gather pattern is a powerful tool for improving performance, scalability, and fault tolerance in distributed systems. Its origins can be traced back to the early days of distributed computing and enterprise integration, where the need to orchestrate communication between multiple services became apparent. The pattern is formally described in the book "Enterprise Integration Patterns" by Gregor Hohpe and Bobby Woolf [2].
 
-## 2. Core Principles
+### 2. Core Principles
 
 The Scatter-Gather pattern is defined by a few core principles that govern its operation:
 
@@ -55,15 +67,27 @@ The Scatter-Gather pattern is defined by a few core principles that govern its o
 *   **Response Aggregation (Gather):** The responses from all the recipients are collected and aggregated into a single response. The aggregation logic can vary depending on the specific use case. It might involve combining all the responses, selecting the best response, or performing some other form of data transformation.
 *   **Timeouts:** To prevent the entire process from being blocked by a slow or unresponsive recipient, a timeout mechanism is typically employed. If a recipient does not respond within the specified time, it is either ignored or handled as a failure.
 
-## 3. Problem Statement
+### 3. Key Practices
 
 In modern distributed systems, data and functionality are often partitioned across multiple services or components. This can lead to situations where a single request requires information from several sources to be fulfilled. For example, a flight booking aggregator needs to query multiple airlines to find the best available flight. A product search on an e-commerce website might need to query different microservices responsible for different product categories. In such scenarios, a client would have to sequentially query each service, wait for the response, and then combine the results. This approach is inefficient and leads to high latency, especially as the number of services increases. Furthermore, the client code becomes complex and tightly coupled to the individual services. The overall system also becomes less resilient, as a failure in one of the downstream services could cause the entire operation to fail.
 
-## 4. Solution
+### 4. Implementation
 
 The Scatter-Gather pattern provides an elegant solution to this problem by introducing a dedicated component, often called a "scatter-gather router" or "aggregator," that sits between the client and the downstream services. This component is responsible for orchestrating the entire process. When the scatter-gather router receives a request, it first broadcasts the request to all the relevant services. It then collects the responses from each service. Once all the responses have been received, or a timeout has occurred, the router aggregates the responses into a single, consolidated response and sends it back to the client. This approach decouples the client from the downstream services and centralizes the orchestration logic. The client is no longer responsible for knowing about all the individual services or for aggregating the results. This simplifies the client code and makes the overall system more modular and easier to maintain.
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 While the Scatter-Gather pattern offers significant benefits, it also introduces its own set of trade-offs and considerations that must be carefully evaluated.
 
@@ -77,7 +101,7 @@ While the Scatter-Gather pattern offers significant benefits, it also introduces
 
 One of the main challenges in implementing the Scatter-Gather pattern is the potential for the aggregator to become a bottleneck. As the number of recipients increases, the aggregator has to handle a larger number of responses, which can lead to performance degradation. It is important to design the aggregator to be highly scalable and efficient. Another key consideration is how to handle partial failures. If some of the recipients fail to respond, the aggregator needs to decide whether to return a partial response or to fail the entire operation. This decision depends on the specific requirements of the application. Timeouts are also crucial for ensuring that the system remains responsive. If a recipient is slow to respond, it should not be allowed to block the entire process. The timeout value should be carefully chosen to balance the need for completeness with the need for responsiveness.
 
-## 6. Real-world Examples
+### 6. When to Use
 
 The Scatter-Gather pattern is widely used in various distributed systems and applications. Here are a few real-world examples:
 
@@ -86,7 +110,7 @@ The Scatter-Gather pattern is widely used in various distributed systems and app
 *   **Financial Trading Systems:** In high-frequency trading, speed is critical. The Scatter-Gather pattern is used to get quotes from multiple exchanges simultaneously. A request for a quote is sent to multiple exchanges, and the first or best response is used to make a trading decision.
 *   **Distributed Databases:** Some distributed databases use the Scatter-Gather pattern to execute queries that span multiple nodes. The query is broken down into sub-queries that are sent to the relevant nodes. The results from each node are then gathered and combined to produce the final query result.
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, where AI and machine learning are becoming increasingly prevalent, the Scatter-Gather pattern remains highly relevant and finds new applications. The core principle of parallel processing and result aggregation is well-suited for many AI/ML workloads.
 
@@ -96,7 +120,7 @@ Another area where the Scatter-Gather pattern is valuable is in the development 
 
 Furthermore, the Scatter-Gather pattern can be used to build more resilient and scalable AI systems. By distributing requests across multiple AI service instances, the pattern can help to ensure that the system remains available even if some instances fail. It can also help to improve performance by allowing requests to be processed in parallel.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 The Scatter-Gather pattern can be assessed against the five principles of the Commons to understand its potential for contributing to a more collaborative and equitable digital ecosystem.
 
@@ -104,8 +128,7 @@ The Scatter-Gather pattern can be assessed against the five principles of the Co
 
 Overall, the Scatter-Gather pattern has the potential to align well with the principles of the Commons, particularly in its ability to create shared resources, promote equitable access, and improve resource efficiency. However, careful consideration must be given to the governance model and the potential for the aggregator to become a point of control.
 
-## References
-
+### 8. References
 [1] AWS Prescriptive Guidance. (n.d.). *Scatter-gather pattern*. Retrieved from https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/scatter-gather.html
 [2] Hohpe, G., & Woolf, B. (2003). *Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions*. Addison-Wesley.
 [3] Tan, T. (2021). *Scatter-Gather Message Pattern*. Medium. Retrieved from https://medium.com/@tanstorm/scatter-gather-message-pattern-43d3e6a11198

@@ -1,19 +1,19 @@
 ---
-id: pat_contributor_onboarding_pattern
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/contributor-onboarding-pattern.md
+id: pat_019c47f4fdda7363895bd96435
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/contributor-onboarding-pattern.md
 slug: contributor-onboarding-pattern
 title: Contributor Onboarding Pattern
 aliases:
 - Developer Onboarding
 - Open Source Contributor Journey
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - integration
+  - practice
   era:
   - digital
   - cognitive
@@ -22,36 +22,46 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- inner-source-pattern
-- community-health-metrics-pattern
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://commons.engineering
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/contributor-onboarding-pattern/
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
+
 
 # Contributor Onboarding Pattern
 
-## 1. Intent
+### 1. Intent
 
 Streamline the process for new contributors to join a project, ensuring they have all the necessary information and resources to become productive members of the community.
 
-## 2. Motivation
+### 2. Motivation
 
 Open source projects thrive on community contributions. However, the initial experience for a new contributor can be daunting. A clear and efficient onboarding process is crucial for converting interested individuals into active, long-term contributors. This pattern aims to reduce the barrier to entry, improve the initial contributor experience, and ultimately foster a healthy and growing community.
 
-## 3. Applicability
+### 3. Applicability
 
 Use the contributor onboarding pattern when:
 
@@ -60,7 +70,7 @@ Use the contributor onboarding pattern when:
 *   You want to ensure a consistent and positive experience for all new contributors.
 *   Your project is complex and requires specific setup or knowledge before contributing.
 
-## 4. Structure
+### 4. Structure
 
 ```mermaid
 graph TD
@@ -74,17 +84,17 @@ graph TD
     H --> I[Contributor's First Contribution is Merged!];
 ```
 
-## 5. Participants
+### 5. Participants
 
 *   **New Contributor:** The individual who wants to contribute to the project.
 *   **Project Maintainers:** The core team responsible for reviewing contributions and guiding new contributors.
 *   **Community:** The existing contributors and users of the project.
 
-## 6. Collaboration
+### 6. Collaboration
 
 The contributor onboarding process is a collaborative effort. The new contributor takes the initiative to follow the documented steps. Project maintainers provide timely and constructive feedback during the code review process. The broader community can also help by answering questions and providing support in communication channels.
 
-## 7. Consequences
+### 7. Consequences
 
 *   **Advantages:**
     *   A smoother and more welcoming experience for new contributors.
@@ -95,7 +105,7 @@ The contributor onboarding process is a collaborative effort. The new contributo
     *   Requires an initial investment of time and effort to create and maintain onboarding documentation.
     *   May require dedicated community managers for larger projects.
 
-## 8. Implementation
+### 8. Implementation
 
 1.  **Create a `CONTRIBUTING.md` file:** This file should be in the root of your repository and provide a comprehensive guide for new contributors. It should include:
     *   A link to your code of conduct.
@@ -108,7 +118,7 @@ The contributor onboarding process is a collaborative effort. The new contributo
 4.  **Automate checks:** Use continuous integration (CI) to automate style checks, tests, and other quality gates. This provides instant feedback to the contributor and reduces the burden on maintainers.
 5.  **Be responsive and welcoming:** Acknowledge new contributors, thank them for their interest, and provide timely and constructive feedback on their pull requests.
 
-## 9. Known Uses
+### 9. Known Uses
 
 This pattern is widely used in successful open source projects, including:
 
@@ -116,7 +126,7 @@ This pattern is widely used in successful open source projects, including:
 *   **Rust:** The [Rust project](https://www.rust-lang.org/community/contribute) has a strong focus on mentorship and a well-defined onboarding process.
 *   **First Contributions:** A project that helps beginners to make their first open-source contribution.
 
-## 10. Related Patterns
+### 10. Related Patterns
 
 *   **Code of Conduct:** A code of conduct is essential for creating a welcoming and inclusive community.
 *   **Issue Triage:** A well-defined issue triage process helps to ensure that issues are properly labeled and prioritized.

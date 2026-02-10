@@ -1,19 +1,18 @@
 ---
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/decentralized-identity-pattern.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/decentralized-identity-pattern.md
 slug: decentralized-identity-pattern
 title: Decentralized Identity Pattern
 aliases:
 - Self-Sovereign Identity (SSI)
 - Decentralized Identifiers (DIDs)
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - distributed-systems
-  - integration
+  - practice
   era:
   - digital
   - cognitive
@@ -22,16 +21,18 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 4
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://techcommunity.microsoft.com/blog/microsoft-security-blog/decentralized-identity-the-basics-of-decentralized-identity/3071980
 - https://www.w3.org/TR/did-core/
@@ -39,13 +40,24 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+id: pat_019c47f4fe137f0196bf9cae69
+page_url: https://commons-os.github.io/patterns/decentralized-identity-pattern/
+commons_domain: *id001
 ---
 
-## 1. Overview
+
+
+
+
+
+
+
+
+### 1. Overview
 
 The Decentralized Identity pattern, often associated with the concept of Self-Sovereign Identity (SSI), represents a fundamental shift in how digital identity is managed. Instead of relying on centralized authorities like corporations or governments to issue and control digital identities, this pattern empowers individuals to create, own, and manage their own identities in a secure and verifiable manner. The historical origins of this pattern can be traced back to the limitations of traditional, federated identity models and the rise of distributed ledger technologies (DLT), such as blockchain, which provide the necessary infrastructure for decentralized trust.
 
-## 2. Core Principles
+### 2. Core Principles
 
 The Decentralized Identity pattern is built upon a set of core principles that ensure user-centric control and privacy:
 
@@ -62,7 +74,7 @@ The Decentralized Identity pattern is built upon a set of core principles that e
 | **Minimalization** | Disclosure of claims must be minimized. |
 | **Protection** | The rights of users must be protected. |
 
-## 3. Problem Statement
+### 3. Key Practices
 
 Traditional identity systems are centralized, meaning that a single provider (e.g., Google, Facebook, or a government agency) controls the user's identity and data. This creates several problems:
 
@@ -71,7 +83,7 @@ Traditional identity systems are centralized, meaning that a single provider (e.
 *   **Lack of Control:** Users have little control over how their data is used and shared.
 *   **Exclusion:** Individuals without access to traditional identity documents may be excluded from digital services.
 
-## 4. Solution
+### 4. Implementation
 
 The Decentralized Identity pattern addresses these problems by creating a trust model based on three key components:
 
@@ -79,7 +91,19 @@ The Decentralized Identity pattern addresses these problems by creating a trust 
 2.  **Verifiable Credentials (VCs):** Tamper-proof digital credentials that can be issued by any entity and verified by any other entity. VCs allow users to prove specific claims about themselves (e.g., "I am over 18") without revealing unnecessary personal information.
 3.  **The Trust Triangle:** A model that describes the interactions between the three main actors in a decentralized identity ecosystem: the **issuer** (who issues the VC), the **holder** (who holds the VC), and the **verifier** (who verifies the VC).
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 While the Decentralized Identity pattern offers significant advantages, there are also trade-offs and considerations to keep in mind:
 
@@ -90,7 +114,7 @@ While the Decentralized Identity pattern offers significant advantages, there ar
 | Reduced reliance on central authorities | Potential for new forms of exclusion if not designed inclusively |
 | Greater portability of identity and data | Governance and key management challenges |
 
-## 6. Real-world Examples
+### 6. When to Use
 
 The Decentralized Identity pattern is being explored and implemented in a variety of contexts:
 
@@ -99,11 +123,11 @@ The Decentralized Identity pattern is being explored and implemented in a variet
 *   **Healthcare:** Patients can use decentralized identity to control access to their medical records.
 *   **Financial Services:** Decentralized identity can be used to streamline Know Your Customer (KYC) processes and reduce fraud.
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the age of AI and machine learning, the Decentralized Identity pattern becomes even more critical. As AI systems become more autonomous, they will need to be able to trust the data they are using. Decentralized identity can provide a secure and verifiable way to establish trust in data provenance and integrity, which is essential for building reliable and ethical AI systems.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 The Decentralized Identity pattern aligns well with the principles of the Commons:
 

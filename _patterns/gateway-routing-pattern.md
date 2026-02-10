@@ -1,19 +1,17 @@
 ---
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/gateway-routing-pattern.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/gateway-routing-pattern.md
 slug: gateway-routing-pattern
 title: Gateway Routing Pattern
 aliases:
 - API Gateway Routing
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - api
-  - integration
-  - distributed-systems
+  - practice
   era:
   - digital
   - cognitive
@@ -21,32 +19,43 @@ classification:
   - software-engineering
   - platform-design
   status: draft
-  commons_alignment: 0
-  commons_domain:
-  - platform
+  commons_alignment: 3
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- api-gateway
-- backends-for-frontends
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/gateway-routing
 - https://microservices.io/patterns/apigateway.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+id: pat_019c47f4feb97b2d804c26881c
+page_url: https://commons-os.github.io/patterns/gateway-routing-pattern/
+commons_domain: *id001
 ---
 
-## 1. Overview
+
+
+
+
+
+
+
+
+### 1. Overview
 
 The Gateway Routing pattern is a design pattern used in software architecture to route requests to multiple services or multiple service instances using a single endpoint. This pattern is particularly useful in microservices architectures where a client needs to consume multiple services. Instead of the client having to know about and connect to each individual service, it communicates with a single gateway. The gateway then routes the requests to the appropriate backend service based on the request details. This simplifies the client application, decouples it from the backend services, and allows for greater flexibility in the backend architecture.
 
-## 2. Core Principles
+### 2. Core Principles
 
 The Gateway Routing pattern is based on the following core principles:
 
@@ -54,7 +63,7 @@ The Gateway Routing pattern is based on the following core principles:
 *   **Routing:** The gateway is responsible for routing incoming requests to the appropriate backend service. This routing can be based on various criteria such as the request path, headers, or method.
 *   **Abstraction:** The gateway abstracts the backend services from the clients. This means that the client does not need to know the details of the backend services, such as their addresses or how they are partitioned.
 
-## 3. Problem Statement
+### 3. Key Practices
 
 When a client application needs to consume multiple services, it typically needs to know the endpoint of each service. This can lead to a number of problems:
 
@@ -63,7 +72,7 @@ When a client application needs to consume multiple services, it typically needs
 *   **Scalability:** When scaling the number of instances of a service, the client must be updated to be aware of the new instances.
 *   **Deployment:** When deploying new versions of a service, the client must be updated to route traffic to the new version.
 
-## 4. Solution
+### 4. Implementation
 
 The Gateway Routing pattern solves these problems by placing a gateway in front of the backend services. The client application communicates with the gateway, which then routes requests to the appropriate service. This has a number of benefits:
 
@@ -71,7 +80,19 @@ The Gateway Routing pattern solves these problems by placing a gateway in front 
 *   **Decoupling:** The client application is decoupled from the backend services. Changes to the backend services, such as API changes or refactoring, do not require changes to the client application.
 *   **Centralized Concerns:** The gateway can handle cross-cutting concerns such as authentication, authorization, and rate limiting, which simplifies the backend services.
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 While the Gateway Routing pattern has many benefits, there are also some trade-offs and considerations to keep in mind:
 
@@ -79,17 +100,17 @@ While the Gateway Routing pattern has many benefits, there are also some trade-o
 *   **Bottleneck:** The gateway can become a bottleneck if it is not able to handle the load of all incoming requests. It is important to ensure that the gateway is scalable.
 *   **Increased Complexity:** The gateway adds an extra hop to each request, which can increase latency. It also adds another component to the system that needs to be managed and maintained.
 
-## 6. Real-world Examples
+### 6. When to Use
 
 *   **Netflix API Gateway:** Netflix uses an API gateway to handle requests from its various client applications. The gateway routes requests to the appropriate microservice and also handles concerns such as authentication and rate limiting.
 *   **Amazon API Gateway:** Amazon API Gateway is a managed service that makes it easy to create, publish, maintain, monitor, and secure APIs at any scale.
 *   **Nginx:** Nginx is a popular web server and reverse proxy that can be used to implement the Gateway Routing pattern.
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, the Gateway Routing pattern can be used to route requests to different AI/ML models based on the request. For example, a gateway could route a request to a sentiment analysis model if the request contains text, or to an image recognition model if the request contains an image. The gateway could also be used to A/B test different models or to route traffic to different versions of a model.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 *   **Shared Resource:** The gateway is a shared resource that is used by multiple client applications and backend services.
 *   **Democratic Governance:** The gateway can be configured to route requests based on a set of rules that are agreed upon by the community.

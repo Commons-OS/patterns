@@ -1,19 +1,19 @@
 ---
-id: pat_api_versioning_pattern
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/api-versioning-pattern.md
+id: pat_019c47f4fcf0742f98f51c2d68
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/api-versioning-pattern.md
 slug: api-versioning-pattern
 title: API Versioning Pattern
 aliases:
 - API Evolution
 - API Lifecycle Management
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - api
+  - practice
   era:
   - digital
   - cognitive
@@ -22,18 +22,18 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 4
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- pat_api_gateway
-- pat_facade
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://www.xmatters.com/blog/api-versioning-strategies
 - https://www.postman.com/api-platform/api-versioning/
@@ -41,16 +41,26 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/api-versioning-pattern/
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
+
 _The API Versioning pattern addresses the challenge of evolving an API over time while maintaining compatibility for existing clients. It provides a systematic approach to introducing changes, whether they are new features, modifications, or deprecations, without disrupting the services that rely on the API._
 
-## 1. Overview
+### 1. Overview
 
 API Versioning is the practice of managing changes to an Application Programming Interface (API) and communicating those changes to its consumers. As software systems evolve, their APIs must also change to accommodate new features, bug fixes, and performance improvements. However, uncontrolled changes can break existing client applications that depend on the API, leading to service disruptions and a poor developer experience. The API Versioning pattern provides a set of strategies and best practices for introducing and managing these changes in a way that ensures a stable and predictable experience for API consumers [1].
 
 The historical origins of API versioning can be traced back to the early days of software library management. As libraries evolved, developers needed a way to indicate which version of a library a particular application was compatible with. This led to the development of semantic versioning, a widely adopted standard for versioning software components. With the rise of web APIs and microservices architectures, the same principles of versioning were applied to services, giving rise to the API versioning patterns we see today [2].
 
-## 2. Core Principles
+### 2. Core Principles
 
 The API Versioning pattern is guided by several core principles that ensure a smooth evolution of the API while minimizing disruption for its consumers. These principles are fundamental to maintaining a healthy and sustainable API ecosystem.
 
@@ -61,7 +71,7 @@ The API Versioning pattern is guided by several core principles that ensure a sm
 | **Clear Communication and Documentation** | Any changes to the API, including new features, modifications, and deprecations, must be clearly communicated to consumers. This is typically done through comprehensive documentation, changelogs, and developer portals. Providing clear and timely information allows developers to adapt their applications to the new API versions in a planned and controlled manner. |
 | **Deprecation Strategy** | When a breaking change is unavoidable, a clear deprecation strategy must be in place. This involves marking the old version of the API as deprecated, providing a timeline for its retirement, and offering guidance on how to migrate to the new version. A well-defined deprecation policy gives developers ample time to update their applications and avoid service disruptions. |
 
-## 3. Problem Statement
+### 3. Key Practices
 
 As a platform evolves, its APIs must adapt to support new features, fix bugs, and improve performance. However, making changes to an API can be a delicate process. The core problem that the API Versioning pattern addresses is how to evolve an API without breaking the applications of the clients who depend on it. Without a proper versioning strategy, any change to the API, no matter how small, could have a cascading effect, causing client applications to fail. This can lead to a number of issues, including:
 
@@ -70,7 +80,7 @@ As a platform evolves, its APIs must adapt to support new features, fix bugs, an
 *   **Slowed Innovation:** The fear of breaking existing clients can stifle innovation and prevent the API from evolving to meet new requirements.
 *   **Tight Coupling:** Without versioning, clients and services become tightly coupled, making it difficult to update them independently.
 
-## 4. Solution
+### 4. Implementation
 
 The API Versioning pattern provides a structured approach to managing API changes by introducing a versioning scheme. This allows the API to evolve while providing a stable interface for existing clients. The core of the solution is to make the API version an explicit part of the contract between the client and the server. There are several common strategies for implementing API versioning, each with its own advantages and disadvantages.
 
@@ -83,7 +93,19 @@ The API Versioning pattern provides a structured approach to managing API change
 
 In addition to these versioning strategies, a crucial part of the solution is to establish a clear **deprecation policy**. When a new version of the API is introduced that includes breaking changes, the older version should be deprecated. This involves formally announcing the deprecation, providing a clear migration path for clients, and setting a "sunset" date after which the old version will no longer be supported. This gives clients adequate time to update their applications and ensures a smooth transition.
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 While the API Versioning pattern is essential for managing the evolution of an API, it is not without its trade-offs and considerations. Implementing a versioning strategy requires careful planning and execution to avoid introducing unnecessary complexity.
 
@@ -105,7 +127,7 @@ While the API Versioning pattern is essential for managing the evolution of an A
 *   **Versioning Granularity:** Decide on the granularity of versioning. Should the entire API be versioned, or should individual resources or even individual endpoints have their own versions? Versioning the entire API is simpler to manage, but can be less flexible.
 *   **Tooling and Automation:** To mitigate the complexity of managing multiple API versions, it is important to invest in tooling and automation. This can include tools for generating documentation, running tests, and automating the deployment process.
 
-## 6. Real-world Examples
+### 6. When to Use
 
 Many successful companies and platforms have adopted the API Versioning pattern to manage their public APIs. These real-world examples demonstrate the practical application of the versioning strategies discussed earlier.
 
@@ -113,7 +135,7 @@ Many successful companies and platforms have adopted the API Versioning pattern 
 *   **Twitter API:** The Twitter API is another prominent example of API versioning. Twitter has gone through several major versions of its API, with each version introducing significant changes and new features. They use URI versioning, with the version number included in the URL (e.g., `https://api.twitter.com/1.1/` and `https://api.twitter.com/2/`). Twitter also has a clear deprecation policy, giving developers ample time to migrate to newer versions of the API.
 *   **GitHub API:** The GitHub API uses a combination of URI versioning and media type versioning. The major version is included in the URL (e.g., `/api/v3`), while more granular changes are handled through custom media types in the `Accept` header. This allows GitHub to introduce non-breaking changes without incrementing the main API version.
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the Cognitive Era, where AI and machine learning models are increasingly delivered as services via APIs, the API Versioning pattern takes on new dimensions of importance. The rapid evolution of models, changes in data schemas, and the need for experimentation introduce unique challenges that a robust versioning strategy can help address.
 
@@ -123,7 +145,7 @@ Furthermore, the **data schemas** used by machine learning models can also evolv
 
 Finally, the API Versioning pattern is crucial for managing the **lifecycle of machine learning models**. Models have a finite lifespan and need to be retrained or replaced over time. A clear versioning and deprecation strategy allows old models to be gracefully retired without disrupting the applications that rely on them. This ensures the long-term sustainability of the machine learning services and a smooth experience for the developers who consume them.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 The API Versioning pattern aligns well with the principles of the Commons, as it promotes a stable, predictable, and sustainable ecosystem for both API providers and consumers. By providing a structured approach to managing change, the pattern helps to ensure that the API remains a shared resource that can be used by a wide range of applications and services.
 
@@ -133,8 +155,7 @@ The API Versioning pattern aligns well with the principles of the Commons, as it
 *   **Sustainability:** The pattern promotes the long-term sustainability of the API by enabling it to evolve and adapt without breaking existing integrations. This reduces the cost of maintenance for both the provider and the consumers, and ensures that the API remains a valuable resource for years to come.
 *   **Community Benefit:** A stable and well-documented API benefits the entire community of developers who use it. It fosters a healthy ecosystem of applications and services, and encourages innovation by providing a reliable platform to build upon.
 
-## References
-
+### 8. References
 [1] xMatters. (n.d.). *API Versioning: Strategies & Best Practices*. Retrieved from https://www.xmatters.com/blog/api-versioning-strategies
 
 [2] Postman. (n.d.). *What is API versioning? Benefits, types & best practices*. Retrieved from https://www.postman.com/api-platform/api-versioning/

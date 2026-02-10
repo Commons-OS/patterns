@@ -1,19 +1,19 @@
 ---
-id: pat_transparency_by_design_pattern
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/transparency-by-design-pattern.md
+id: pat_019c47f501117ed192d2ebbbf4
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/transparency-by-design-pattern.md
 slug: transparency-by-design-pattern
 title: Transparency by Design Pattern
 aliases:
 - Open by Default
 - Radical Transparency Pattern
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - integration
+  - practice
   era:
   - digital
   - cognitive
@@ -22,28 +22,37 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- audit-logging-pattern
-- polycentric-governance-pattern
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://commons.engineering
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/transparency-by-design-pattern/
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
+
 # Transparency by Design Pattern
 
-## Introduction
-
+### 1. Overview
 Transparency by Design (TbD) is a proactive and preventative approach to designing and developing systems, particularly those involving Artificial Intelligence (AI) and Automated Decision-Making (ADM). It ensures that transparency is not an afterthought but a core value integrated throughout the entire design and development process. The goal of TbD is to make systems more understandable, accountable, and trustworthy to their users and society as a whole. This pattern is inspired by the well-established concept of Privacy by Design.
 
 ## The Nine Principles of Transparency by Design
@@ -86,10 +95,8 @@ Transparency should be designed with the user in mind. The information provided 
 
 Transparency is a prerequisite for accountability. By making systems transparent, organizations can be held accountable for their actions and decisions. This includes providing mechanisms for redress and appeal.
 
-## Conclusion
-
+### 6. When to Use
 The Transparency by Design pattern provides a valuable framework for creating more trustworthy and accountable AI and ADM systems. By embedding transparency into the design and development process, organizations can build systems that are not only powerful but also fair, ethical, and beneficial to society.
 
-## References
-
+### 8. References
 [1] Felzmann, H., Fosch-Villaronga, E., Lutz, C., & Tamò-Larrieux, A. (2020). Towards Transparency by Design for Artificial Intelligence. *Science and Engineering Ethics*, *26*(6), 3333–3361. https://doi.org/10.1007/s11948-020-00276-4

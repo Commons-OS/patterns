@@ -1,21 +1,20 @@
-
 ---
 id: pat_f69f26479e9fd00848dc48e7
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/switching-cost-design.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/switching-cost-design.md
 slug: switching-cost-design
 title: Switching Cost Design
 aliases:
 - Customer Lock-in
 - Vendor Lock-in
 - Dependency Engineering
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - strategy
+  - practice
   era:
   - digital
   - cognitive
@@ -25,16 +24,14 @@ classification:
   - software-engineering
   status: draft
   commons_alignment: 2
-  commons_domain:
-  - platform
+  commons_domain: &id001
   - business
-  - social
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- network-effect
+related: []
 sources:
 - https://www.investopedia.com/terms/s/switchingcosts.asp
 - https://www.businessmodelhacking.com/switching-costs-example-lock-ins/
@@ -44,7 +41,20 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/switching-cost-design/
+commons_domain: *id001
+contributors:
+- name: Manus AI
+  role: author
 ---
+
+
+
+
+
+
+
+
 
 ### 1. Overview
 
@@ -135,13 +145,13 @@ However, the impact of Switching Cost Design is not always positive. In the tele
 
 In the gaming industry, massively multiplayer online role-playing games (MMORPGs) like World of Warcraft are a prime example of high switching costs. Players invest hundreds or even thousands of hours in developing their characters, acquiring rare items, and building relationships with other players. The thought of abandoning all of that progress to start over in a new game is a powerful deterrent. More recently, games like Fortnite have created a similar dynamic through the sale of cosmetic items (skins) and the creation of a strong social community. In the B2B software market, companies like Salesforce and SAP have built their empires on the back of high switching costs. Their enterprise resource planning (ERP) and customer relationship management (CRM) systems are deeply integrated into the core operations of their customers. The process of switching to a new provider can be incredibly complex, time-consuming, and expensive, involving data migration, employee retraining, and the risk of business disruption.
 
-### 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 The rise of artificial intelligence and machine learning is poised to have a profound impact on Switching Cost Design. On the one hand, AI can be used to create even more powerful and personalized lock-in effects. For example, AI-powered recommendation engines can learn a user's preferences over time and provide them with a highly curated and personalized experience that is difficult to replicate. This can create a powerful form of "cognitive lock-in," where the user feels like the platform "knows" them better than any other. Similarly, AI can be used to automate complex workflows and create a high degree of integration between different products and services, further increasing the cost of switching.
 
 On the other hand, AI could also be used to reduce switching costs and empower consumers. For example, AI-powered tools could be developed to automatically transfer a user's data from one platform to another, making it easier for them to switch providers. Similarly, AI could be used to create more open and interoperable standards, reducing the power of closed ecosystems. The ultimate impact of AI on Switching Cost Design will depend on a variety of factors, including the development of new technologies, the evolution of business models, and the implementation of new regulations.
 
-### 8. Commons Alignment Assessment
+### 8. References
 
 - **Shared Resource Potential:** Low. Switching Cost Design is inherently about creating private, proprietary moats around a platform or service, not about fostering a shared resource. The goal is to capture and retain users for the benefit of the platform owner, not to create a resource that is openly accessible and collectively governed.
 

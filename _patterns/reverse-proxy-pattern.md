@@ -1,21 +1,19 @@
 ---
-id: pat_reverse_proxy_pattern
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/reverse-proxy-pattern.md
+id: pat_019c47f500397196900f6c8237
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/reverse-proxy-pattern.md
 slug: reverse-proxy-pattern
 title: Reverse Proxy Pattern
 aliases:
 - Gateway Pattern
 - Application Gateway
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - scalability
-  - resilience
-  - api
+  - practice
   era:
   - digital
   - cognitive
@@ -24,18 +22,18 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- api-gateway
-- load-balancer
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/
 - https://www.fortinet.com/resources/cyberglossary/reverse-proxy
@@ -43,13 +41,23 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/reverse-proxy-pattern/
+commons_domain: *id001
 ---
 
-## 1. Overview
+
+
+
+
+
+
+
+
+### 1. Overview
 
 The Reverse Proxy pattern is a fundamental architectural pattern used in modern web applications and distributed systems. It involves placing an intermediary server, the reverse proxy, between clients and one or more backend servers. Unlike a forward proxy, which acts on behalf of clients, a reverse proxy acts on behalf of the servers, intercepting all incoming requests and forwarding them to the appropriate backend server [1]. This pattern is significant for its ability to enhance security, improve performance, and simplify the management of backend services. The origins of the reverse proxy can be traced back to the early days of the internet, where it emerged as a solution to manage and protect backend servers from direct exposure to the public network.
 
-## 2. Core Principles
+### 2. Core Principles
 
 The Reverse Proxy pattern is defined by a set of core principles that govern its operation and interaction with clients and backend servers. These principles are essential for achieving the benefits associated with this pattern.
 
@@ -59,7 +67,7 @@ The Reverse Proxy pattern is defined by a set of core principles that govern its
 | **Decoupling**          | The reverse proxy decouples clients from the backend servers, meaning clients are unaware of the number or location of the backend servers. |
 | **Centralized Control** | The reverse proxy provides a centralized point for implementing cross-cutting concerns such as security, logging, and monitoring.            |
 
-## 3. Problem Statement
+### 3. Key Practices
 
 The Reverse Proxy pattern addresses several critical problems that arise in distributed systems and web applications. Without a reverse proxy, backend servers are directly exposed to the internet, which can lead to several issues:
 
@@ -67,7 +75,7 @@ The Reverse Proxy pattern addresses several critical problems that arise in dist
 *   **Scalability Challenges:** Scaling backend services becomes difficult as each server needs to be individually managed and configured. Adding or removing servers requires changes to the client-side configuration.
 *   **Lack of Centralized Management:** Implementing cross-cutting concerns such as logging, monitoring, and authentication across multiple servers is complex and error-prone.
 
-## 4. Solution
+### 4. Implementation
 
 The Reverse Proxy pattern provides a comprehensive solution to these problems by introducing an intermediary server that sits between clients and backend servers. The reverse proxy intercepts all incoming requests and forwards them to the appropriate backend server based on a set of predefined rules. This architecture offers several benefits:
 
@@ -75,7 +83,19 @@ The Reverse Proxy pattern provides a comprehensive solution to these problems by
 *   **Improved Scalability and Performance:** The reverse proxy can perform load balancing, distributing incoming traffic across multiple backend servers. It can also cache static content, reducing the load on the backend servers and improving response times.
 *   **Centralized Management:** The reverse proxy provides a single point of control for managing and securing backend services. It can be used to implement centralized authentication, logging, and monitoring.
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 While the Reverse Proxy pattern offers significant benefits, it also introduces some trade-offs and considerations that need to be taken into account.
 
@@ -85,7 +105,7 @@ While the Reverse Proxy pattern offers significant benefits, it also introduces 
 | **Performance**       | Improved performance through load balancing, caching, and SSL termination.                               | The reverse proxy can become a performance bottleneck if it is not properly configured or if it is overloaded with traffic.            |
 | **Complexity**        | Simplifies the management of backend services by providing a centralized point of control.                | Adds an extra layer of complexity to the architecture, which can make it more difficult to debug and troubleshoot issues.           |
 
-## 6. Real-world Examples
+### 6. When to Use
 
 The Reverse Proxy pattern is widely used in the industry, and there are many real-world examples of its implementation:
 
@@ -94,7 +114,7 @@ The Reverse Proxy pattern is widely used in the industry, and there are many rea
 *   **HAProxy:** A high-performance, open-source load balancer and reverse proxy for TCP and HTTP-based applications.
 *   **Cloud Provider Services:** Cloud providers such as AWS, Azure, and Google Cloud offer managed reverse proxy services, such as AWS Application Load Balancer, Azure Application Gateway, and Google Cloud Load Balancing.
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, where AI and machine learning are becoming increasingly prevalent, the Reverse Proxy pattern continues to be relevant and can be adapted to support new use cases:
 
@@ -102,7 +122,7 @@ In the cognitive era, where AI and machine learning are becoming increasingly pr
 *   **Access Control for AI Services:** A reverse proxy can be used to implement rate limiting and access control for expensive AI services, ensuring fair usage and preventing abuse.
 *   **Intelligent Caching:** A reverse proxy can be enhanced with AI-powered caching strategies that predict which content is most likely to be requested and proactively cache it, further improving performance.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 The Reverse Proxy pattern can be assessed against the five principles of the Commons to determine its alignment with a collaborative and sustainable approach to platform design.
 
@@ -114,8 +134,7 @@ The Reverse Proxy pattern can be assessed against the five principles of the Com
 | **Sustainability**        | The reverse proxy can improve the sustainability of the backend infrastructure by reducing the load on backend servers and enabling more efficient use of resources.                                                |
 | **Community Benefit**     | The Reverse Proxy pattern contributes to the overall security, reliability, and performance of the platform, which benefits the entire community of users and developers.                                            |
 
-## References
-
+### 8. References
 [1] Cloudflare. (n.d.). *What is a reverse proxy?* Retrieved from https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/
 
 [2] Fortinet. (n.d.). *What Is a Reverse Proxy? Definition and Benefits*. Retrieved from https://www.fortinet.com/resources/cyberglossary/reverse-proxy

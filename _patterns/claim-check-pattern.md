@@ -1,19 +1,18 @@
 ---
-id: pat_claim_check_pattern
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/claim-check-pattern.md
+id: pat_019c47f4fd7b7fdd9fec058378
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/claim-check-pattern.md
 slug: claim-check-pattern
 title: Claim-Check Pattern
 aliases:
 - Reference-Based Messaging
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - messaging
-  - scalability
+  - practice
   era:
   - digital
   - cognitive
@@ -22,34 +21,43 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
-requires:
-- pat_content_enricher
-related:
-- pat_content_filter
-- pat_process_manager
+requires: []
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/claim-check
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/StoreInLibrary.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/claim-check-pattern/
+commons_domain: *id001
 ---
 
-## 1. Overview
+
+
+
+
+
+
+
+
+### 1. Overview
 
 The Claim-Check pattern is a design pattern used in messaging architectures to handle large messages efficiently. Instead of sending a large data payload directly through a messaging system, the pattern advocates for storing the payload in an external data store and sending a much smaller reference, or "claim check," within the message itself. The receiving component can then use this claim check to retrieve the full payload from the data store when needed. This approach prevents large messages from overwhelming the messaging infrastructure, which is typically optimized for high volumes of small messages [1].
 
 The pattern's name is derived from the analogy of a luggage claim check at an airport. A traveler checks in their heavy luggage and receives a small ticket with a reference number. They can then travel lightly and use the ticket to reclaim their luggage at the destination. Similarly, in this pattern, the message travels lightly with just the claim check, and the heavy payload is retrieved only when required [2].
 
-## 2. Core Principles
+### 2. Core Principles
 
 The Claim-Check pattern is defined by a few fundamental principles:
 
@@ -58,11 +66,11 @@ The Claim-Check pattern is defined by a few fundamental principles:
 *   **Reference-Based Retrieval:** A unique identifier, the "claim check," is generated for the stored payload. This reference is included in the message and used by the consumer to fetch the data directly from the external store.
 *   **On-Demand Access:** The consumer of the message retrieves the payload only when it needs to process it. This avoids unnecessary data transfer and processing for intermediate components in a message flow that may not need the full payload.
 
-## 3. Problem Statement
+### 3. Key Practices
 
 In distributed systems, particularly those built on messaging and event-driven architectures, components communicate by exchanging messages. However, messaging systems often have limitations on the size of messages they can handle. Sending messages that exceed these limits can lead to errors and failures. Furthermore, even if the messaging system can handle large messages, their transmission and storage can consume significant resources, leading to increased latency, reduced throughput, and higher operational costs. This can degrade the overall performance and scalability of the system [1].
 
-## 4. Solution
+### 4. Implementation
 
 The solution provided by the Claim-Check pattern is to offload the large payload to an external data store. The process is as follows:
 
@@ -76,7 +84,19 @@ The solution provided by the Claim-Check pattern is to offload the large payload
 
 This process ensures that the message bus only handles small, lightweight messages, preserving its performance and reliability.
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 While the Claim-Check pattern offers significant benefits, it also introduces certain trade-offs and considerations:
 
@@ -87,13 +107,13 @@ While the Claim-Check pattern offers significant benefits, it also introduces ce
 | **Cost Efficiency:** Can reduce costs associated with message bus usage, as pricing is often based on message size and volume. | **Potential for Latency:** Adds an extra network hop to retrieve the payload, which can increase latency for the end-to-end process. |
 | **Enhanced Security:** Sensitive data can be stored in a secure data store with fine-grained access control, rather than being transmitted through the message bus. | **Point of Failure:** The external data store becomes a critical component; if it is unavailable, consumers will not be able to process messages. |
 
-## 6. Real-world Examples
+### 6. When to Use
 
 *   **E-commerce Order Processing:** In an e-commerce platform, an order might include large image files for customized products. Instead of embedding these images in the order message, the images are stored in a blob store, and the order message contains only the URLs (claim checks) to the images.
 *   **Video Processing Pipelines:** A video upload service might use a messaging queue to trigger different processing steps (e.g., transcoding, thumbnail generation). The large video file is stored in a distributed file system, and the messages on the queue contain a reference to the video file.
 *   **Azure Implementation:** Microsoft Azure provides several examples of implementing the Claim-Check pattern using services like Azure Service Bus for messaging, Azure Blob Storage for the data store, and Azure Event Grid to automate the generation of the claim check [1].
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, with the rise of AI and machine learning, the Claim-Check pattern becomes even more relevant. AI/ML workloads often involve very large data payloads, such as:
 
@@ -103,7 +123,7 @@ In the cognitive era, with the rise of AI and machine learning, the Claim-Check 
 
 By separating the large data artifacts from the control messages, the Claim-Check pattern enables the creation of scalable, resilient, and efficient AI/ML pipelines.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 The Claim-Check pattern aligns with the principles of the Commons in several ways:
 

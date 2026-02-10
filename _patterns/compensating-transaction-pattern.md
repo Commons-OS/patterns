@@ -1,18 +1,18 @@
 ---
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/compensating-transaction-pattern.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/compensating-transaction-pattern.md
 slug: compensating-transaction-pattern
 title: Compensating Transaction Pattern
 aliases:
 - Saga Pattern
 - Compensation Pattern
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - resilience
+  - practice
   era:
   - digital
   - cognitive
@@ -20,31 +20,43 @@ classification:
   - software-engineering
   - platform-design
   status: draft
-  commons_alignment: 0
-  commons_domain:
-  - platform
+  commons_alignment: 3
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- saga-pattern
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/compensating-transaction
 - https://microservices.io/patterns/data/saga.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+id: pat_019c47f4fd9b7e9b8d45e440a6
+page_url: https://commons-os.github.io/patterns/compensating-transaction-pattern/
+commons_domain: *id001
 ---
 
-## 1. Overview
+
+
+
+
+
+
+
+
+### 1. Overview
 
 The Compensating Transaction pattern is a design pattern used to perform undo operations for a series of steps in a distributed system when one or more of those steps fail. It is a crucial pattern for maintaining data consistency in eventually consistent systems, particularly in microservices architectures where a single business operation may span multiple services and databases. The pattern is closely associated with the Saga pattern, which coordinates a sequence of local transactions. When a local transaction in a saga fails, a series of compensating transactions are executed to revert the changes made by the preceding local transactions, thereby maintaining data integrity across the system [1][2].
 
-## 2. Core Principles
+### 2. Core Principles
 
 The Compensating Transaction pattern is defined by a set of core principles that ensure its effectiveness in maintaining data consistency in distributed systems. These principles are fundamental to the design and implementation of robust and resilient applications.
 
@@ -56,13 +68,13 @@ The Compensating Transaction pattern is defined by a set of core principles that
 | **Semantic Rollback** | A compensating transaction performs a semantic rollback, not a simple data rollback. It executes a business-aware operation to reverse the effects of a previous transaction. For example, instead of just deleting a booking record, it might initiate a cancellation process that includes applying a cancellation fee. |
 | **Durability of State** | The state of the saga, including the sequence of operations and the compensating actions, must be durably stored. This ensures that the system can recover and complete the saga or its compensation even in the event of a crash or restart. |
 
-## 3. Problem Statement
+### 3. Key Practices
 
 In modern cloud-native applications, business operations often span multiple microservices, each with its own private database. This distributed architecture, while offering benefits in scalability and resilience, introduces significant challenges in maintaining data consistency. Traditional atomic, consistent, isolated, and durable (ACID) transactions, which rely on two-phase commit (2PC) protocols, are not well-suited for distributed systems because they can lead to poor performance and availability [2].
 
 As a result, distributed systems often adopt an eventually consistent model. In this model, a business transaction is implemented as a sequence of local transactions, each confined to a single service. While this approach improves performance and scalability, it introduces a new problem: how to handle failures. If one of the local transactions in the sequence fails, the system is left in an inconsistent state, with some changes committed and others not. The core problem that the Compensating Transaction pattern addresses is how to reliably undo the work performed by a series of operations in a distributed system when a failure occurs, ensuring that the system eventually returns to a consistent state without resorting to traditional distributed transactions.
 
-## 4. Solution
+### 4. Implementation
 
 The Compensating Transaction pattern provides a solution to the problem of maintaining data consistency in distributed systems by implementing a saga. A saga is a sequence of local transactions where each transaction updates the data within a single service and publishes an event or message to trigger the next transaction in the sequence. If any local transaction fails, the saga executes a series of compensating transactions to undo the changes made by the preceding transactions, thus ensuring that the system remains in a consistent state.
 
@@ -78,7 +90,19 @@ There are two primary approaches to coordinating sagas:
 
 The choice between choreography and orchestration depends on the specific requirements of the application. Choreography is often a good choice for simple sagas with a small number of participants, while orchestration is better suited for complex sagas with many participants and intricate coordination logic [2].
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 While the Compensating Transaction pattern provides a powerful mechanism for maintaining data consistency in distributed systems, it also introduces a number of trade-offs and considerations that must be carefully evaluated.
 
@@ -90,7 +114,7 @@ While the Compensating Transaction pattern provides a powerful mechanism for mai
 | **Idempotency** | Compensating transactions must be idempotent to ensure that they can be safely retried in the event of a failure. Designing idempotent operations requires careful consideration of the business logic. |
 | **Testing and Debugging** | Testing and debugging sagas can be difficult due to their asynchronous and distributed nature. It can be challenging to reproduce and diagnose failures that occur in a production environment. |
 
-## 6. Real-world Examples
+### 6. When to Use
 
 The Compensating Transaction pattern is widely used in various distributed systems, particularly in e-commerce, travel booking, and financial services.
 
@@ -108,7 +132,7 @@ If any of these steps fail (e.g., the payment is declined or the item is out of 
 
 A travel booking website is another classic example of where the Compensating Transaction pattern is used. A customer may book a trip that includes a flight, a hotel, and a rental car. Each of these bookings is a separate transaction handled by a different service. If the customer successfully books the flight and the hotel but fails to book the rental car, the system must be able to undo the flight and hotel bookings. A saga with compensating transactions can be used to manage this process, ensuring that the customer is not left with a partial booking [1].
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, where artificial intelligence (AI) and machine learning (ML) are increasingly integrated into software systems, the Compensating Transaction pattern takes on new dimensions. AI and ML can be leveraged to enhance the intelligence, automation, and proactivity of compensation logic.
 
@@ -120,7 +144,7 @@ In the cognitive era, where artificial intelligence (AI) and machine learning (M
 
 *   **Handling Complex and Unforeseen Failures:** In complex systems, failures can occur in ways that were not anticipated by the developers. AI and ML models can be used to analyze these unforeseen failures and devise novel compensation strategies in real time, enabling the system to recover from a wider range of failure scenarios.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 The Compensating Transaction pattern aligns with the principles of the Commons-OS in several ways, contributing to the creation of a more resilient, sustainable, and collaborative software ecosystem.
 
@@ -132,8 +156,7 @@ The Compensating Transaction pattern aligns with the principles of the Commons-O
 | **Sustainability** | By providing a mechanism for handling failures in a graceful and predictable manner, the Compensating Transaction pattern contributes to the long-term sustainability of a software system. It reduces the likelihood of data corruption and system downtime, making the system more resilient and easier to maintain over time. |
 | **Community Benefit** | The widespread adoption of the Compensating Transaction pattern benefits the entire software development community by establishing a common language and a set of best practices for building resilient distributed systems. This shared understanding facilitates collaboration and knowledge sharing, leading to the creation of more robust and reliable software for everyone. |
 
-## References
-
+### 8. References
 [1] Microsoft. (n.d.). *Compensating Transaction pattern*. Azure Architecture Center. Retrieved February 10, 2026, from https://learn.microsoft.com/en-us/azure/architecture/patterns/compensating-transaction
 
 [2] Richardson, C. (n.d.). *Pattern: Saga*. Microservices.io. Retrieved February 10, 2026, from https://microservices.io/patterns/data/saga.html

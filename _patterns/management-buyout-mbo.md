@@ -7,14 +7,14 @@ classification:
   universality: domain
   domain: startup
   category:
-  - governance
+  - practice
   era:
   - cognitive
   origin:
   - startup-ecosystem
   status: draft
   commons_alignment: 4
-  commons_domain:
+  commons_domain: &id001
   - startup
   - business
 generalizes_from: []
@@ -22,10 +22,8 @@ specializes_to: []
 enables: []
 requires: []
 related: []
-confidence_score: 0.7
 sources: []
 version: 1.0.0
-last_updated: 2026-02-01
 page_url: https://commons-os.github.io/patterns/management-buyout-mbo/
 github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/management-buyout-mbo.md
 created: 2026-02-01
@@ -36,7 +34,16 @@ contributors:
 license: CC-BY-SA-4.0
 attribution: Commons OS Pattern Library
 repository: https://github.com/Commons-OS/patterns
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
+
 
 ### 1. Overview
 
@@ -79,6 +86,18 @@ The implementation of a Management Buyout is a complex and challenging process t
 A real-world example of a successful MBO is the 2013 acquisition of Dell Inc. by its founder, Michael Dell, in partnership with the private equity firm Silver Lake Partners. While not a traditional MBO in the sense of a non-founder management team, the principles were the same: the leader of the company took it private to have more control over its long-term strategy, away from the short-term pressures of the public market. The deal was valued at approximately $25 billion and was one of the largest MBOs in history. The implementation required a complex financing structure, including debt, equity from Silver Lake, and a significant investment from Michael Dell himself. Following the buyout, Dell was able to invest heavily in research and development and transform its business to better compete in the evolving technology landscape. This example highlights the potential for an MBO to unlock a company's long-term value by empowering its leadership with the autonomy to pursue a strategic vision.
 
 ### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 | Pillar       | Score (1-5) | Rationale                                                                                                                                                                                                                                                           |
 |--------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -1,20 +1,19 @@
 ---
-id: pat_oauth2_authorization_framework
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/oauth2-authorization-framework.md
+id: pat_019c47f4ffbc72319082bc9b58
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/oauth2-authorization-framework.md
 slug: oauth2-authorization-framework
 title: OAuth2 Authorization Framework
 aliases:
 - OAuth 2.0
 - Open Authorization 2.0
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - api
-  - integration
+  - practice
   era:
   - digital
   - cognitive
@@ -23,31 +22,41 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- pat_api_gateway
-- pat_microservices_architecture
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://datatracker.ietf.org/doc/html/rfc6749
 - https://auth0.com/docs/authenticate/protocols/oauth
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/oauth2-authorization-framework/
+commons_domain: *id001
 ---
 
-## 1. Overview
+
+
+
+
+
+
+
+
+### 1. Overview
 
 The OAuth 2.0 Authorization Framework is an open standard for access delegation, commonly used as a way for internet users to grant websites or applications access to their information on other websites but without giving them the passwords. It provides client applications a 'secure delegated access' to server resources on behalf of a resource owner. It specifies a process for resource owners to authorize third-party access to their server resources without sharing their credentials. The standard is defined in RFC 6749 [1].
 
-## 2. Core Principles
+### 2. Core Principles
 
 The framework is built upon the following core principles:
 
@@ -56,11 +65,11 @@ The framework is built upon the following core principles:
 *   **Access Tokens:** Access to resources is granted via access tokens, which have a limited scope and lifetime.
 *   **HTTPS:** All communication must be over HTTPS to ensure confidentiality and integrity.
 
-## 3. Problem Statement
+### 3. Key Practices
 
 In the modern digital landscape, applications and services often need to access data from other services on behalf of a user. For example, a photo printing service might need to access a user's photos stored on a social media platform. A naive solution would be for the user to provide their social media credentials to the printing service, but this approach has significant security risks. The printing service would have full access to the user's account, and the user's credentials could be compromised if the printing service's security is breached.
 
-## 4. Solution
+### 4. Implementation
 
 OAuth 2.0 provides a solution to this problem by introducing an authorization layer and separating the role of the client from that of the resource owner. Instead of using the resource owner’s credentials to access protected resources, the client obtains an access token. The framework defines four roles:
 
@@ -71,7 +80,19 @@ OAuth 2.0 provides a solution to this problem by introducing an authorization la
 
 The framework also defines several grant types, which are different ways for a client to obtain an access token. The choice of grant type depends on the type of client application and the level of trust between the client and the resource owner.
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 | Grant Type                        | Pros                                                                      | Cons                                                                        |
 | --------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
@@ -80,17 +101,17 @@ The framework also defines several grant types, which are different ways for a c
 | **Resource Owner Password Flow**  | Simple to implement.                                                      | Requires a high degree of trust in the client application.                  |
 | **Client Credentials Flow**       | Secure for machine-to-machine communication.                              | Not suitable for user-facing applications.                                  |
 
-## 6. Real-world Examples
+### 6. When to Use
 
 *   **Social Logins:** Many websites and applications allow users to log in using their Google, Facebook, or Twitter accounts. This is typically implemented using OAuth 2.0.
 *   **API Access:** Many APIs, such as the Google Maps API and the Twitter API, use OAuth 2.0 to control access to their resources.
 *   **Single Sign-On (SSO):** OAuth 2.0 is often used in conjunction with other protocols, such as OpenID Connect, to implement SSO solutions.
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, where AI and machine learning are becoming increasingly prevalent, OAuth 2.0 will continue to play a crucial role in securing access to data and services. As AI-powered applications become more common, there will be a growing need for a secure and standardized way to grant these applications access to the data they need to function. OAuth 2.0 provides a solid foundation for building secure and trustworthy AI systems.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 *   **Shared Resource:** OAuth 2.0 promotes the sharing of resources by providing a secure and standardized way for users to grant third-party applications access to their data.
 *   **Democratic Governance:** The standard is developed and maintained by the Internet Engineering Task Force (IETF), an open and transparent organization.
@@ -100,7 +121,6 @@ In the cognitive era, where AI and machine learning are becoming increasingly pr
 
 Based on this assessment, the OAuth 2.0 Authorization Framework has a **Commons Alignment Rating of 3**.
 
-## References
-
+### 8. References
 [1] Hardt, D., Ed., "The OAuth 2.0 Authorization Framework", RFC 6749, DOI 10.17487/RFC6749, October 2012, <https://www.rfc-editor.org/info/rfc6749>.
 [2] Auth0, "OAuth 2.0 Authorization Framework", <https://auth0.com/docs/authenticate/protocols/oauth>.

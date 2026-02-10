@@ -1,17 +1,18 @@
+---
 id: pat_5a2b3c4d5e6f7a8b9c0d1e2f
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/platform-enshittification.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/platform-enshittification.md
 slug: platform-enshittification
 title: Platform Enshittification
 aliases:
 - Platform Decay
 - Crapification
 - Platform Capture
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "20226-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: 20226-02-10 00:00:00+00:00
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
   - anti-pattern
   era:
@@ -23,21 +24,19 @@ classification:
   - media-studies
   status: draft
   commons_alignment: 1
-  commons_domain:
-  - platform
+  commons_domain: &id001
   - business
-  - social
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- network-effects
-- lock-in
-- rent-seeking
+related: []
 contributors:
-- higgerix
-- cloudsters
+- name: higgerix
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://www.wired.com/story/tiktok-platforms-cory-doctorow/
 - https://en.wikipedia.org/wiki/Enshittification
@@ -47,7 +46,16 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/platform-enshittification/
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
 
 ### 1. Overview
 
@@ -135,13 +143,13 @@ One of the most well-documented examples of enshittification is the case of Face
 
 The impact of enshittification is not limited to social media. The gig economy is another area where the pattern is clearly visible. Platforms like Uber and DoorDash initially offered attractive terms to both drivers and customers, but as they have grown, they have begun to squeeze both sides of the market. Drivers have seen their wages stagnate or decline, while customers have seen prices rise and service quality decline. The platforms themselves have become increasingly powerful, with little accountability to their workers or their customers. The enshittification of the gig economy is a stark reminder of the human cost of platform capitalism. Amazon is another prime example of enshittification. The platform initially attracted customers with low prices and a vast selection of products. However, as it has grown, it has become increasingly difficult for customers to find what they are looking for. The search results are often cluttered with sponsored products and low-quality items from third-party sellers. The platform has also been accused of using its market power to squeeze its suppliers and exploit its warehouse workers. The enshittification of Amazon has transformed it from a convenient and reliable retailer into a frustrating and often overwhelming marketplace.
 
-### 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 The rise of artificial intelligence and machine learning is likely to accelerate the process of enshittification. AI-powered algorithms can be used to create even more personalized and manipulative user experiences, further eroding user autonomy and control. The use of AI in content moderation can also lead to new forms of censorship and suppression of dissent. As AI becomes more sophisticated, it will become increasingly difficult for users to distinguish between authentic and inauthentic content, making them even more vulnerable to manipulation. For example, generative AI could be used to create fake reviews and other forms of deceptive content, further degrading the quality of online information. The use of AI to automate customer service can also lead to a decline in the quality of support, as users are forced to interact with chatbots that are unable to understand their problems or provide meaningful assistance.
 
 The cognitive era also presents new opportunities for resisting enshittification. AI can be used to create more transparent and accountable algorithms, and to empower users with more control over their data. The development of decentralized and community-governed AI systems could also provide an alternative to the centralized and corporate-controlled platforms that dominate the current landscape. For example, AI-powered tools could be used to help users identify and filter out manipulative content, or to find and support alternative platforms that are more aligned with their values. The future of the internet will depend on our ability to harness the power of AI for good, and to build a more equitable and sustainable digital world. This will require a concerted effort from researchers, developers, policymakers, and citizens to ensure that AI is used to empower individuals and communities, rather than to enrich a small number of powerful corporations.
 
-### 8. Commons Alignment Assessment
+### 8. References
 
 -   **Shared Resource Potential:** Low - Platform enshittification is fundamentally about the enclosure and privatization of a shared resource (the platform and its user base). It takes a resource that was once open and accessible and turns it into a private asset to be exploited for profit. The value that is created by the community is not shared with the community, but is instead captured by the platform owner.
 

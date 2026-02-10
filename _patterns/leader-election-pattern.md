@@ -1,19 +1,18 @@
 ---
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/leader-election-pattern.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/leader-election-pattern.md
 slug: leader-election-pattern
 title: Leader Election Pattern
 aliases:
 - Master-Slave Pattern
 - Primary-Secondary Pattern
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - resilience
-  - distributed-systems
+  - practice
   era:
   - digital
   - cognitive
@@ -22,18 +21,18 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- circuit-breaker
-- health-probe
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/leader-election
 - https://aws.amazon.com/builders-library/leader-election-in-distributed-systems/
@@ -42,13 +41,24 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+id: pat_019c47f4ff537e8596dd6a51b6
+page_url: https://commons-os.github.io/patterns/leader-election-pattern/
+commons_domain: *id001
 ---
 
-## 1. Overview
+
+
+
+
+
+
+
+
+### 1. Overview
 
 The Leader Election pattern is a foundational concept in distributed systems that addresses the need for coordination among a group of collaborating instances. In many distributed applications, certain tasks must be performed by only one instance at a time to prevent conflicts, ensure data consistency, or manage a shared resource. This pattern provides a mechanism to designate a single instance as the "leader," which then assumes responsibility for these specialized tasks. The historical origins of leader election are deeply rooted in the study of distributed computing, where the challenge of achieving consensus and coordination among autonomous nodes has been a central theme for decades [3].
 
-## 2. Core Principles
+### 2. Core Principles
 
 The Leader Election pattern is governed by a set of core principles that ensure its correct and reliable operation:
 
@@ -56,15 +66,27 @@ The Leader Election pattern is governed by a set of core principles that ensure 
 *   **Agreement on Leadership:** All non-leader nodes in the system must know who the current leader is. This allows them to direct requests to the leader or to be ready to take over if the leader fails.
 *   **Liveness:** The system must be able to elect a new leader if the current leader fails or becomes unavailable. This ensures the system remains operational and can continue to make progress.
 
-## 3. Problem Statement
+### 3. Key Practices
 
 In a distributed environment, where multiple instances of an application are running concurrently, coordinating their actions is a significant challenge. Without a clear coordination mechanism, there is a risk of multiple instances attempting to perform the same task simultaneously. This can lead to resource contention, data corruption, and inconsistent state. For example, if multiple instances try to update a shared database record at the same time, the final state of the record may be incorrect. The problem, therefore, is how to ensure that certain tasks are performed by only one instance at a time in a reliable and fault-tolerant manner.
 
-## 4. Solution
+### 4. Implementation
 
 The Leader Election pattern solves this problem by providing a process for electing a single instance as the leader. This leader is then responsible for coordinating the actions of the other instances, known as "followers." The election process can be implemented using various algorithms, such as the Bully Algorithm or the Raft consensus algorithm. Once a leader is elected, it can perform tasks that require centralized control, such as managing a shared resource, scheduling jobs, or coordinating transactions. If the leader fails, the remaining instances can initiate a new election to choose a new leader, ensuring the system remains available [4].
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 The Leader Election pattern offers several benefits, but it also introduces some trade-offs that must be considered:
 
@@ -74,7 +96,7 @@ The Leader Election pattern offers several benefits, but it also introduces some
 | **Improved Consistency:** Helps to ensure data consistency by preventing multiple instances from modifying the same data simultaneously. | **Increased Complexity:** The election process itself can be complex to implement and manage, especially in large-scale systems. |
 | **Simplified Decision Making:** The leader can make decisions on behalf of the group, which can be more efficient than having all instances try to reach a consensus. | **Potential for Bottlenecks:** The leader can become a bottleneck if it is responsible for too many tasks or if it cannot handle the load of requests from the followers. |
 
-## 6. Real-world Examples
+### 6. When to Use
 
 The Leader Election pattern is widely used in various real-world systems:
 
@@ -82,11 +104,11 @@ The Leader Election pattern is widely used in various real-world systems:
 *   **etcd:** A distributed, reliable key-value store for the most critical data of a distributed system. etcd uses the Raft consensus algorithm, which includes a leader election mechanism, to ensure data consistency.
 *   **Kubernetes:** An open-source container orchestration system for automating software deployment, scaling, and management. Kubernetes uses leader election for various components, such as the controller manager, to ensure that only one instance is active at a time.
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, where AI and machine learning are becoming increasingly prevalent, the Leader Election pattern remains highly relevant. In distributed machine learning, for example, leader election can be used to designate a single node as the parameter server, which is responsible for aggregating model updates from the other nodes. This can help to improve the efficiency and scalability of the training process. Furthermore, in complex AI systems composed of multiple interacting agents, leader election can be used to select a coordinating agent that is responsible for making high-level decisions and guiding the behavior of the other agents.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 The Leader Election pattern has a mixed alignment with the principles of the Commons:
 

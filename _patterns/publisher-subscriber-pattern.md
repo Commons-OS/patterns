@@ -1,20 +1,19 @@
 ---
-id: pat_01H9Z3J3Z3J3Z3J3Z3J3Z3J3Z3
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/publisher-subscriber-pattern.md
+id: pat_019c47f5000677409353745e4c
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/publisher-subscriber-pattern.md
 slug: publisher-subscriber-pattern
 title: Publisher-Subscriber Pattern
 aliases:
 - Pub/Sub Pattern
 - Publish-Subscribe Model
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - messaging
-  - distributed-systems
+  - practice
   era:
   - digital
   - cognitive
@@ -23,19 +22,18 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- observer-pattern
-- message-queue
-- event-driven-architecture
+related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://learn.microsoft.com/en-us/azure/architecture/patterns/publisher-subscriber
 - https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern
@@ -43,13 +41,23 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/publisher-subscriber-pattern/
+commons_domain: *id001
 ---
 
-## 1. Overview
+
+
+
+
+
+
+
+
+### 1. Overview
 
 The Publisher-Subscriber (or Pub/Sub) pattern is a messaging pattern where senders of messages, called publishers, do not program the messages to be sent directly to specific receivers, called subscribers. Instead, publishers categorize published messages into classes, without knowledge of which subscribers, if any, there may be. Similarly, subscribers express interest in one or more classes and only receive messages that are of interest, without knowledge of which publishers, if any, there are. This decoupling of publishers and subscribers can allow for greater scalability and a more dynamic network topology. The pattern's origins can be traced back to early distributed systems and has become a cornerstone of modern cloud-native and microservices architectures.
 
-## 2. Core Principles
+### 2. Core Principles
 
 The Publisher-Subscriber pattern is defined by a few core principles that together create a flexible and powerful communication model:
 
@@ -58,7 +66,7 @@ The Publisher-Subscriber pattern is defined by a few core principles that togeth
 *   **Topics/Channels:** Publishers send messages to specific topics or channels. Subscribers subscribe to these topics to receive messages. This topic-based filtering is what allows for the selective dissemination of information.
 *   **Asynchronous Communication:** The communication between publishers and subscribers is inherently asynchronous. Publishers can send messages without waiting for subscribers to receive them, and subscribers can process messages at their own pace.
 
-## 3. Problem Statement
+### 3. Key Practices
 
 In complex, distributed systems, components often need to communicate with each other. A naive approach is for components to communicate directly. This leads to tight coupling, where each component needs to know the location and identity of the other components it communicates with. This tight coupling creates several problems:
 
@@ -66,7 +74,7 @@ In complex, distributed systems, components often need to communicate with each 
 *   **Resilience:** If a component is unavailable, any component that communicates with it directly will also be affected, potentially leading to cascading failures.
 *   **Flexibility:** It is difficult to change the communication patterns or add new types of communication without modifying the existing components.
 
-## 4. Solution
+### 4. Implementation
 
 The Publisher-Subscriber pattern addresses these problems by introducing an intermediary, the message broker, between the communicating components. Publishers send messages to the message broker, and the message broker delivers them to the interested subscribers. This approach provides a number of benefits:
 
@@ -75,7 +83,19 @@ The Publisher-Subscriber pattern addresses these problems by introducing an inte
 *   **Enhanced Resilience:** If a subscriber is temporarily unavailable, the message broker can store the messages and deliver them when the subscriber comes back online. This improves the overall resilience of the system.
 *   **Increased Flexibility:** The pattern allows for a variety of communication patterns, including one-to-many, many-to-one, and many-to-many. It is also easy to add new types of messages and subscribers without modifying the existing publishers.
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 While the Publisher-Subscriber pattern offers significant advantages, it also introduces some trade-offs and considerations:
 
@@ -90,7 +110,7 @@ While the Publisher-Subscriber pattern offers significant advantages, it also in
 
 **Complexity:** The introduction of a message broker adds another component to the system that needs to be managed, monitored, and maintained.
 
-## 6. Real-world Examples
+### 6. When to Use
 
 The Publisher-Subscriber pattern is widely used in a variety of applications and systems:
 
@@ -105,11 +125,11 @@ The Publisher-Subscriber pattern is widely used in a variety of applications and
 *   **RabbitMQ:** A popular open-source message broker that supports multiple messaging protocols.
 *   **Cloud Services:** Cloud providers offer managed pub/sub services, such as AWS Simple Notification Service (SNS), Google Cloud Pub/Sub, and Azure Event Grid.
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, where AI and machine learning are becoming increasingly prevalent, the Publisher-Subscriber pattern plays a crucial role in building scalable and responsive AI-powered applications. For example, in a real-time fraud detection system, a stream of financial transactions can be published to a topic. A machine learning model can subscribe to this topic, analyze each transaction in real-time, and publish an alert if it detects a fraudulent transaction. This allows for immediate action to be taken, preventing financial losses.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 The Publisher-Subscriber pattern aligns well with the principles of the Commons, particularly in the context of building open and collaborative platforms:
 

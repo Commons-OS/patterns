@@ -1,22 +1,20 @@
-
-
 ---
 id: pat_3a6f4d8e9c2b7a1d8f0e3c5a
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/headless-platform.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/headless-platform.md
 slug: headless-platform
 title: Headless Platform
 aliases:
 - Decoupled Platform
 - API-First Platform
 - Headless Architecture
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - architecture
+  - practice
   era:
   - digital
   - cognitive
@@ -25,18 +23,19 @@ classification:
   - platform-design
   status: draft
   commons_alignment: 3
-  commons_domain:
-  - platform
+  commons_domain: &id001
   - business
-  - social
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
 contributors:
-- higgerix
-- cloudsters
+- name: higgerix
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://www.salesforce.com/commerce/headless/guide/
 - https://www.contentful.com/blog/headless-architecture-seven-things-to-know/
@@ -46,7 +45,17 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/headless-platform/
+commons_domain: *id001
 ---
+
+
+
+
+
+
+
+
 
 ### 1. Overview
 
@@ -135,13 +144,13 @@ Another example is the media company Netflix, which uses a headless architecture
 
 In the world of content management, Contentful and other headless CMS providers have demonstrated the power of this approach. By separating content from presentation, they have enabled organizations to create and manage content in a centralized location and then deliver it to any channel or device. This has led to a significant increase in content reuse and a reduction in the time and effort required to manage content.
 
-### 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 The rise of artificial intelligence and machine learning is having a profound impact on the Headless Platform pattern. AI and ML can be used to enhance the capabilities of a Headless Platform in a number of ways. For example, AI-powered personalization engines can be used to deliver highly personalized content and experiences to users, based on their individual preferences and behavior. This can lead to a significant increase in user engagement and conversion rates.
 
 Furthermore, AI and ML can be used to automate many of the tasks involved in managing a Headless Platform. For example, AI-powered tools can be used to automatically generate API documentation, to monitor the performance of the platform and to identify and resolve any issues. This can help to reduce the operational overhead of managing a Headless Platform and to free up developers to focus on more strategic initiatives.
 
-### 8. Commons Alignment Assessment
+### 8. References
 
 -   **Shared Resource Potential:** High - A Headless Platform can be a shared resource for a community of users and developers. By providing a set of open APIs, it can enable the creation of a vibrant ecosystem of third-party applications and services. This can lead to a significant increase in the value of the platform for all stakeholders.
 

@@ -1,19 +1,19 @@
 ---
-id: pat_... # Will be generated later
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/content-enricher-pattern.md
+id: pat_019c47f4fdce7d5c9d3437cb5b
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/content-enricher-pattern.md
 slug: content-enricher-pattern
 title: Content Enricher Pattern
 aliases:
 - Data Enricher
 - Message Enricher
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
-  domain: platform
+  universality: domain
+  domain: technology
   category:
-  - integration
+  - practice
   era:
   - digital
   - cognitive
@@ -21,31 +21,43 @@ classification:
   - software-engineering
   - platform-design
   status: draft
-  commons_alignment: 0 # 0-5 rating
-  commons_domain:
-  - platform
+  commons_alignment: 3
+  commons_domain: &id001
+  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
 contributors:
-- Manus AI
-- cloudsters
+- name: Manus AI
+  role: author
+- name: cloudsters
+  role: author
 sources:
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/DataEnricher.html
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/content-enricher-pattern/
+commons_domain: *id001
 ---
 
-## 1. Overview
+
+
+
+
+
+
+
+
+### 1. Overview
 
 The Content Enricher pattern is a fundamental design pattern in messaging and integration architectures. It addresses the common problem of messages lacking all the necessary information for their intended recipients. The pattern introduces a component that intercepts a message, retrieves additional data from an external source, and augments the message with this new information before forwarding it to its destination. This process ensures that the receiving component has all the data it needs to perform its function, without requiring the original sender to have access to all the necessary information [1].
 
 The historical origins of the Content Enricher pattern can be traced back to the broader field of Enterprise Integration Patterns, which provides a catalog of solutions for common integration problems. As systems became more distributed and decoupled, the need for robust messaging solutions grew, and with it, the need for patterns like the Content Enricher to handle the complexities of data flow between different services.
 
-## 2. Core Principles
+### 2. Core Principles
 
 The Content Enricher pattern is defined by a set of core principles that ensure its effective implementation:
 
@@ -55,7 +67,7 @@ The Content Enricher pattern is defined by a set of core principles that ensure 
 *   **Statelessness:** The Content Enricher component itself should ideally be stateless. It receives a message, enriches it, and forwards it. Any state required for enrichment is retrieved from the external data source.
 *   **Decoupling:** The pattern promotes decoupling between the message producer and the message consumer. The producer does not need to be aware of all the data requirements of the consumer, and the consumer does not need to know where the additional data comes from.
 
-## 3. Problem Statement
+### 3. Key Practices
 
 In a distributed system, it is common for a message producer to send a message that does not contain all the information a message consumer needs to process it. This can happen for several reasons:
 
@@ -65,7 +77,7 @@ In a distributed system, it is common for a message producer to send a message t
 
 This leads to a situation where the consumer receives a message that is incomplete and cannot be processed without additional information. The consumer would then have to be responsible for fetching the missing data, which would tightly couple the consumer to the data source and create a more complex and less reusable component.
 
-## 4. Solution
+### 4. Implementation
 
 The Content Enricher pattern provides a clear and effective solution to the problem of incomplete messages. The solution involves introducing a dedicated component, the Content Enricher, into the message flow. This component is responsible for intercepting the message, retrieving the necessary data from an external source, and augmenting the message with this data before forwarding it to the consumer.
 
@@ -78,7 +90,19 @@ The process works as follows:
 
 This solution effectively decouples the producer and the consumer from the data source, and it centralizes the logic for data enrichment in a single, reusable component.
 
-## 5. Trade-offs and Considerations
+### 5. 7 Pillars Assessment
+
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
 
 While the Content Enricher pattern offers a powerful solution for data augmentation, it's important to consider its trade-offs and potential challenges.
 
@@ -90,7 +114,7 @@ While the Content Enricher pattern offers a powerful solution for data augmentat
 | **Complexity** | Simplifies the logic of the consumer by offloading the data enrichment responsibility. | Increases the overall complexity of the integration architecture. |
 | **Data Consistency** | Ensures that the consumer always has access to the most up-to-date data. | Can lead to data consistency issues if the external data source is not kept in sync with the source of truth. |
 
-## 6. Real-world Examples
+### 6. When to Use
 
 The Content Enricher pattern is widely used in various real-world applications and platforms.
 
@@ -101,13 +125,13 @@ The Content Enricher pattern is widely used in various real-world applications a
 , a popular integration platform, provides a built-in Content Enricher component that allows developers to easily implement this pattern in their integration flows [2].
 *   **Spring Integration:** The Spring Integration framework also provides support for the Content Enricher pattern, allowing developers to easily integrate it into their Spring-based applications [3].
 
-## 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 In the cognitive era, where AI and machine learning are becoming increasingly prevalent, the Content Enricher pattern takes on new significance. The external data source used for enrichment can now be an AI/ML model. For example, a Content Enricher could use a machine learning model to perform sentiment analysis on a customer feedback message and add a sentiment score to the message. This enriched message can then be used to route the feedback to the appropriate department.
 
 Furthermore, the enrichment process itself can be made more intelligent. Instead of simply retrieving data based on a key, the Content Enricher could use an AI model to infer the missing information based on the context of the message. This would allow for more flexible and powerful data enrichment, and it would enable the creation of more intelligent and adaptive systems.
 
-## 8. Commons Alignment Assessment
+### 8. References
 
 The Content Enricher pattern can be assessed against the five principles of the Commons to determine its alignment with a collaborative and sustainable approach to software development.
 
@@ -117,8 +141,7 @@ The Content Enricher pattern can be assessed against the five principles of the 
 *   **Sustainability:** The Content Enricher pattern can contribute to the sustainability of a system by promoting decoupling and reusability. This can lead to a more modular and maintainable architecture, which is easier to evolve and adapt over time.
 *   **Community Benefit:** The pattern provides a clear benefit to the community of developers and users of a system by simplifying the development of new services and by ensuring that data is consistent and complete.
 
-## References
-
+### 8. References
 [1] Enterprise Integration Patterns. "Content Enricher". Retrieved from https://www.enterpriseintegrationpatterns.com/patterns/messaging/DataEnricher.html
 [2] Nair, B. (2025, January 27). Integration Patterns - Content Enricher Pattern a practical example with MuleSoft. LinkedIn. Retrieved from https://www.linkedin.com/pulse/integration-patterns-content-enricher-pattern-balachandran-nair-dajyc
 [3] Spring. "Content Enricher". Spring Integration. Retrieved from https://docs.spring.io/spring-integration/reference/content-enrichment.html
