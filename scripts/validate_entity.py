@@ -22,8 +22,8 @@ TYPEID_PATTERN = re.compile(r'^pat_[a-z0-9]{20,30}$')
 TYPEID_LIGHTHOUSE = re.compile(r'^lh_[a-z0-9]{20,30}$')
 TYPEID_ANY = re.compile(r'^(pat|lh)_[a-z0-9]{20,30}$')
 
-# Filename pattern: number-slug.md
-FILENAME_PATTERN = re.compile(r'^(\d+)-([a-z0-9-]+)\.md$')
+# Filename pattern: slug.md (slug-only, no number prefix)
+FILENAME_PATTERN = re.compile(r'^([a-z0-9-]+)\.md$')
 
 # Valid values
 VALID_STATUS = ['draft', 'review', 'published', 'mature', 'deprecated']
@@ -39,13 +39,14 @@ VALID_REGIONS = ['north-america', 'south-america', 'europe', 'asia', 'africa', '
 # Required fields
 REQUIRED_PATTERN_FIELDS = [
     'id', 'page_url', 'github_url', 'slug', 'title', 'aliases', 'version',
-    'created', 'modified', 'classification', 'commons_domain', 'generalizes_from',
+    'created', 'modified', 'classification', 'generalizes_from',
     'specializes_to', 'enables', 'requires', 'related', 'contributors',
     'sources', 'license', 'attribution', 'repository'
 ]
 
 REQUIRED_PATTERN_TAG_FIELDS = [
-    'universality', 'domain', 'category', 'era', 'origin', 'status', 'commons_alignment'
+    'universality', 'domain', 'category', 'era', 'origin', 'status', 'commons_alignment',
+    'commons_domain'
 ]
 
 REQUIRED_LIGHTHOUSE_FIELDS = [
@@ -115,7 +116,7 @@ def validate_filename(filepath):
     """Validate filename format."""
     filename = os.path.basename(filepath)
     if not FILENAME_PATTERN.match(filename):
-        return ValidationError(f"Filename '{filename}' does not match format '{{number}}-{{slug}}.md'")
+        return ValidationError(f"Filename '{filename}' does not match format '{{slug}}.md'")
     return None
 
 
@@ -170,8 +171,14 @@ def validate_field_values(frontmatter, entity_type):
                 errors.append(ValidationError(f"Invalid scale: {classification['scale']}. Must be one of {VALID_SCALES}"))
     
     if entity_type == 'pattern':
-        if 'commons_domain' in frontmatter and frontmatter['commons_domain'] not in VALID_COMMONS_DOMAINS:
-            errors.append(ValidationError(f"Invalid commons_domain: {frontmatter['commons_domain']}"))
+        # commons_domain lives under classification as a list
+        if 'classification' in frontmatter and isinstance(frontmatter['classification'], dict):
+            cd = frontmatter['classification'].get('commons_domain')
+            if cd is not None:
+                cd_list = cd if isinstance(cd, list) else [cd]
+                for val in cd_list:
+                    if val not in VALID_COMMONS_DOMAINS:
+                        errors.append(ValidationError(f"Invalid commons_domain value: {val}. Must be one of {VALID_COMMONS_DOMAINS}"))
     
     return errors
 
