@@ -13,7 +13,7 @@ created: '2026-02-10 00:00:00+00:00'
 modified: '2026-02-10 00:00:00+00:00'
 classification:
   universality: domain
-  domain: technology
+  domain: platform
   category:
   - practice
   era:
@@ -26,7 +26,7 @@ classification:
   status: draft
   commons_alignment: 4
   commons_domain:
-  - business
+  - platform
 generalizes_from: []
 specializes_to: []
 enables: []

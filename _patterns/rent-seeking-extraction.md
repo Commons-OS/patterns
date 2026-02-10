@@ -1,4 +1,5 @@
----id: pat_4d8f2b8c9c3e4a5b6d7e8f9a0b1c2d3e
+---
+id: pat_9f60e940345d497db0228e3a6d
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/rent-seeking-extraction.md
 slug: rent-seeking-extraction
 title: Rent-Seeking Extraction
@@ -6,9 +7,9 @@ aliases:
 - Value Capture
 - Rentier Capitalism
 - Tollbooth Strategy
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
   universality: context-dependent
   domain: platform
@@ -25,8 +26,6 @@ classification:
   commons_alignment: 1
   commons_domain:
   - platform
-  - business
-  - social
 generalizes_from: []
 specializes_to: []
 enables: []
@@ -44,6 +43,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/rent-seeking-extraction/
 ---
 
 ### 1. Overview

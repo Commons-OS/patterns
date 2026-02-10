@@ -28,8 +28,8 @@ FILENAME_PATTERN = re.compile(r'^([a-z0-9-]+)\.md$')
 # Valid values
 VALID_STATUS = ['draft', 'review', 'published', 'mature', 'deprecated']
 VALID_PATTERN_DOMAINS = ['governance', 'operations', 'finance', 'technology', 'culture', 
-                         'security', 'privacy', 'sovereignty', 'startup']
-VALID_COMMONS_DOMAINS = ['business', 'security', 'startup', 'urban', 'ecology', 'life']
+                         'security', 'privacy', 'sovereignty', 'startup', 'platform']
+VALID_COMMONS_DOMAINS = ['business', 'security', 'startup', 'urban', 'ecology', 'life', 'platform']
 VALID_LIGHTHOUSE_INDUSTRIES = ['technology', 'agriculture', 'finance', 'healthcare', 
                                 'education', 'manufacturing', 'retail', 'services', 
                                 'nonprofit', 'government']

@@ -1,15 +1,15 @@
 ---
-
 id: pat_2106180f4f65c6bb380bd710
-
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/identity-verification.md
 slug: identity-verification
 title: Identity Verification
-
-aliases: ["ID Verification", "Identity Proofing", "User Authentication"]
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+aliases:
+- ID Verification
+- Identity Proofing
+- User Authentication
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
   universality: context-dependent
   domain: platform
@@ -25,8 +25,6 @@ classification:
   commons_alignment: 3
   commons_domain:
   - platform
-  - business
-  - social
 generalizes_from: []
 specializes_to: []
 enables: []
@@ -44,6 +42,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/identity-verification/
 ---
 
 

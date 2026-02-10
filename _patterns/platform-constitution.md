@@ -7,9 +7,9 @@ aliases:
 - Platform Charter
 - Digital Social Contract
 - Community Covenant
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
   universality: context-dependent
   domain: platform
@@ -27,8 +27,6 @@ classification:
   commons_alignment: 4
   commons_domain:
   - platform
-  - polity
-  - social
 generalizes_from: []
 specializes_to: []
 enables: []
@@ -46,6 +44,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/platform-constitution/
 ---
 
 ### 1. Overview

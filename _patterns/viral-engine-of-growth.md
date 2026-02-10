@@ -10,7 +10,7 @@ created: 2026-02-01
 modified: 2026-02-01
 classification:
   universality: domain
-  domain: startup
+  domain: platform
   category:
   - practice
   era:
@@ -20,8 +20,7 @@ classification:
   status: draft
   commons_alignment: 4
   commons_domain:
-  - startup
-  - business
+  - platform
 generalizes_from: []
 specializes_to: []
 enables: []

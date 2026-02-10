@@ -1,5 +1,4 @@
 ---
-
 id: pat_5ea50a6e54f31cc65f9550e8
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/winner-take-all-dynamics.md
 slug: winner-take-all-dynamics
@@ -8,9 +7,9 @@ aliases:
 - Winner-Take-All Markets
 - Superstar Markets
 - Tournament Markets
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
   universality: context-dependent
   domain: platform
@@ -28,8 +27,6 @@ classification:
   commons_alignment: 1
   commons_domain:
   - platform
-  - business
-  - social
 generalizes_from: []
 specializes_to: []
 enables: []
@@ -47,6 +44,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/winner-take-all-dynamics/
 ---
 
 ### 1. Overview

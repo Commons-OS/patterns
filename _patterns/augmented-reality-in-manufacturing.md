@@ -10,7 +10,7 @@ created: '2026-02-01T21:15:43Z'
 modified: '2026-02-01T21:15:43Z'
 classification:
   universality: universal
-  domain: operations
+  domain: platform
   category:
   - practice
   era:
@@ -20,9 +20,7 @@ classification:
   status: draft
   commons_alignment: 3
   commons_domain:
-  - business
-  - startup
-  - security
+  - platform
 generalizes_from: []
 specializes_to: []
 enables: []

@@ -1,5 +1,5 @@
 ---
-id: pat_3a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d
+id: pat_a841f2eb0a784ae787fe43b36e
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/reputation-score-design.md
 slug: reputation-score-design
 title: Reputation Score Design
@@ -7,9 +7,9 @@ aliases:
 - Trust Metrics
 - Credibility Scoring
 - Influence Ranking
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
   universality: context-dependent
   domain: platform
@@ -26,8 +26,6 @@ classification:
   commons_alignment: 3
   commons_domain:
   - platform
-  - social
-  - business
 generalizes_from: []
 specializes_to: []
 enables: []
@@ -45,6 +43,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/reputation-score-design/
 ---
 
 ### 1. Overview

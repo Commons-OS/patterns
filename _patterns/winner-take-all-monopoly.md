@@ -1,5 +1,5 @@
 ---
-id: pat_4a2b8e9f0c6d4e3f8a7b1c5d8e9f0a1b
+id: pat_cf9689f7ae6c44ab98ed51343c
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/winner-take-all-monopoly.md
 slug: winner-take-all-monopoly
 title: Winner-Take-All Monopoly
@@ -7,9 +7,9 @@ aliases:
 - Network Monopoly
 - Market Tipping
 - Demand-Side Monopoly
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
   universality: context-dependent
   domain: platform
@@ -26,16 +26,11 @@ classification:
   commons_alignment: 1
   commons_domain:
   - platform
-  - business
-  - social
 generalizes_from: []
 specializes_to: []
 enables: []
-requires:
-- network-effects
-related:
-- two-sided-market
-- platform-lock-in
+requires: []
+related: []
 contributors:
 - higgerix
 - cloudsters
@@ -48,6 +43,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/winner-take-all-monopoly/
 ---
 
 ### 1. Overview

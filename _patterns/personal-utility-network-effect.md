@@ -6,9 +6,9 @@ title: Personal Utility Network Effect
 aliases:
 - Personal Network Effect
 - Utility Network Effect
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
   universality: context-dependent
   domain: platform
@@ -24,8 +24,6 @@ classification:
   commons_alignment: 3
   commons_domain:
   - platform
-  - social
-  - business
 generalizes_from: []
 specializes_to: []
 enables: []
@@ -43,6 +41,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/personal-utility-network-effect/
 ---
 
 ### 1. Overview

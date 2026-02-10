@@ -7,9 +7,9 @@ aliases:
 - Digital CLT
 - Community Data Land Trust
 - Platform Land Trust
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
   universality: context-dependent
   domain: platform
@@ -27,8 +27,6 @@ classification:
   commons_alignment: 5
   commons_domain:
   - platform
-  - urban
-  - social
 generalizes_from: []
 specializes_to: []
 enables: []
@@ -46,6 +44,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/community-land-trust-digital/
 ---
 
 ### 1. Overview
