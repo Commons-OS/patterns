@@ -1,13 +1,18 @@
 ---
 id: pat_edb39e09e53f44308de5774a
-title: Viral Engine of Growth
+page_url: https://commons-os.github.io/patterns/viral-engine-of-growth/
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/viral-engine-of-growth.md
 slug: viral-engine-of-growth
+title: Viral Engine of Growth
 aliases: []
+version: 1.0.0
+created: 2026-02-01
+modified: 2026-02-01
 classification:
   universality: domain
-  domain: startup
+  domain: platform
   category:
-  - growth
+  - practice
   era:
   - cognitive
   origin:
@@ -15,30 +20,19 @@ classification:
   status: draft
   commons_alignment: 4
   commons_domain:
-  - startup
-  - business
+  - platform
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-confidence_score: 0.7
-sources: []
-version: 1.0.0
-last_updated: 2026-02-01
-page_url: https://commons-os.github.io/patterns/viral-engine-of-growth/
-github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/viral-engine-of-growth.md
-created: 2026-02-01
-modified: 2026-02-01
 contributors:
-- name: Commons OS
-  role: author
+- commons-os
+sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS Pattern Library
 repository: https://github.com/Commons-OS/patterns
 ---
-
-'''
 # GT002: Viral Engine of Growth
 
 ### 1. Overview
@@ -127,4 +121,3 @@ Real-world examples of successful viral growth abound. Hotmail, one of the first
 3.  [Chen, A. (2012). *What's your viral loop? Understanding the engine of adoption*.](https://andrewchen.com/whats-your-viral-loop-understanding-the-engine-of-adoption/)
 4.  [Balfour, B. (2017). *Growth Is Good, But Retention Is Forever*.](https://brianbalfour.com/essays/retention-is-forever)
 5.  [Hofstetter, R., & Onthank, M. (2011). *Beyond the Buzz: The Next Generation of Word-of-Mouth Marketing*. Hyperion.](https://www.amazon.com/Beyond-Buzz-Next-Generation-Word-Mouth/dp/140132435X)
-'''

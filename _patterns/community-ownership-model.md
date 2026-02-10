@@ -6,9 +6,9 @@ aliases:
 - Collective Ownership
 - Community Equity
 - Shared Ownership
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
   universality: context-dependent
   domain: platform
@@ -25,23 +25,11 @@ classification:
   commons_alignment: 5
   commons_domain:
   - platform
-  - business
-  - social
 generalizes_from: []
-specializes_to:
-- platform-cooperative
-- data-cooperative
-enables:
-- democratic-governance
-- community-wealth-building
-- local-economic-development
-requires:
-- shared-purpose
-- legal-frameworks
-- community-engagement
-related:
-- steward-ownership
-- participatory-governance
+specializes_to: []
+enables: []
+requires: []
+related: []
 contributors:
 - higgerix
 - cloudsters
@@ -54,6 +42,8 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/community-ownership-model/
+github_url: https://github.com/commons-os/patterns/blob/main/_patterns/community-ownership-model.md
 ---
 
 ### 1. Overview

@@ -1,17 +1,18 @@
 ---
 id: pat_8aaae1817c9062fd8cb0fa78
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/dark-patterns-in-platform-ux.md
+page_url: https://commons-os.github.io/patterns/dark-patterns-in-platform-ux/
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/dark-patterns-in-platform-ux.md
 slug: dark-patterns-in-platform-ux
 title: Dark Patterns in Platform UX
 aliases:
 - Deceptive Design
 - Manipulative UX
 - Hostile Architecture
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
-  universality: context-dependent
+  universality: domain
   domain: platform
   category:
   - anti-pattern
@@ -26,15 +27,11 @@ classification:
   commons_alignment: 1
   commons_domain:
   - platform
-  - social
-  - business
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
-related:
-- privacy-by-design
-- ethical-design
+related: []
 contributors:
 - higgerix
 - cloudsters
@@ -48,7 +45,6 @@ license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
 ---
-
 ### 1. Overview
 
 Dark Patterns in Platform UX are user interface design choices that manipulate users into taking actions they would not otherwise have taken, often benefiting the platform at the user's expense. These are not mistakes or poor design, but rather carefully crafted and intentional manipulations that exploit cognitive biases and human psychology. The term was coined by UX designer Harry Brignull in 2010 to name and shame these deceptive practices, which have since become a significant concern in the digital world. Dark patterns are a direct contradiction to the principles of user-centered design, which prioritizes user needs and goals. Instead, they prioritize business objectives, such as increasing sales, generating leads, or obtaining user data, often through unethical means. The prevalence of dark patterns has grown with the rise of the attention economy and the increasing competition for user engagement and revenue. This has led to a digital environment where users must be constantly on their guard against manipulation, and where trust in online platforms is eroding.
@@ -137,13 +133,13 @@ There is a growing body of evidence that demonstrates the prevalence and impact 
 
 The use of dark patterns has also led to a number of high-profile lawsuits and regulatory actions. For example, the US Federal Trade Commission (FTC) has taken action against a number of companies for using dark patterns, including Amazon and LinkedIn. The FTC has also issued a report on dark patterns, which provides guidance to businesses on how to avoid using them. In Europe, the General Data Protection Regulation (GDPR) includes provisions that are designed to protect users from dark patterns, such as the requirement for clear and unambiguous consent for the processing of personal data. These regulatory actions are a positive step, but more needs to be done to combat the use of dark patterns.
 
-### 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 The rise of artificial intelligence (AI) and machine learning (ML) is likely to have a significant impact on the use of dark patterns. On the one hand, AI and ML could be used to create more sophisticated and effective dark patterns that are personalized to individual users. For example, an AI-powered dark pattern could learn a user's cognitive biases and preferences, and then use this information to design a manipulative interface that is tailored to that user. This could make dark patterns even more difficult to detect and resist. The use of AI to personalize dark patterns is a major threat to user autonomy, and it is a development that needs to be closely monitored.
 
 On the other hand, AI and ML could also be used to detect and combat dark patterns. For example, an AI-powered tool could be used to scan websites and apps for dark patterns, and to alert users to their presence. An AI-powered tool could also be used to automatically block dark patterns, or to provide users with alternative interfaces that are free from manipulation. The development of these tools could help to level the playing field between platforms and users, and to create a more transparent and ethical digital environment. The use of AI to combat dark patterns is a promising area of research, and it is one that could have a significant impact on the future of the internet.
 
-### 8. Commons Alignment Assessment
+### 8. References
 
 - **Shared Resource Potential:** Low - Dark patterns are designed to extract value from users, not to create a shared resource. They are a form of enclosure that privatizes user data and attention for the benefit of the platform. They are a zero-sum game, where the platform's gain is the user's loss.
 - **Democratic Governance:** Low - Dark patterns are the antithesis of democratic governance. They are a form of manipulation that undermines user autonomy and control. They are a top-down approach to design that does not involve users in the decision-making process. They are a form of digital authoritarianism.

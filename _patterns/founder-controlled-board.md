@@ -1,13 +1,18 @@
 ---
 id: pat_a882efd301df49b69efa9cec
-title: Founder-Controlled Board
+page_url: https://commons-os.github.io/patterns/founder-controlled-board/
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/founder-controlled-board.md
 slug: founder-controlled-board
+title: Founder-Controlled Board
 aliases: []
+version: 1.0.0
+created: 2026-02-01
+modified: 2026-02-01
 classification:
   universality: domain
-  domain: startup
+  domain: platform
   category:
-  - governance
+  - practice
   era:
   - cognitive
   origin:
@@ -15,29 +20,19 @@ classification:
   status: draft
   commons_alignment: 4
   commons_domain:
-  - startup
+  - platform
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-confidence_score: 0.7
-sources: []
-version: 1.0.0
-last_updated: 2026-02-01
-page_url: https://commons-os.github.io/patterns/founder-controlled-board/
-github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/founder-controlled-board.md
-created: 2026-02-01
-modified: 2026-02-01
 contributors:
-- name: Commons OS
-  role: author
+- commons-os
+sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS Pattern Library
 repository: https://github.com/Commons-OS/patterns
 ---
-
-'''
 # Founder-Controlled Board
 
 ### 1. Overview
@@ -126,4 +121,3 @@ Real-world examples illustrate this well. When Google went public, its founders,
 3.  [Udi, Y. (2025). *Why Founder-Controlled Boards Matter More Than You Think*. Yair Udi Law Offices.](https://yairudi.com/why-founder-controlled-boards-matter-more-than-you-think/)
 4.  [Carta. (2023). *Board of Directors (BoD): What Founders Need to Know*.](https://carta.com/learn/startups/private-companies/board-of-directors/)
 5.  [Founders Law. (2026). *Founder Control, Board Governance, and Voting Power*.](https://www.founderslaw.com/insights/founder-control-board-governance-and-voting-power-what-the-chicago-bears-teach-startup-founders-about-dual-class-stock-and-long-term-control)
-'''

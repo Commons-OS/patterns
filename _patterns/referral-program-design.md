@@ -1,5 +1,5 @@
 ---
-id: pat_4d5f6g7h8j9k0l1m2n3b4v5c6x7z8a9s
+id: pat_8e2dbffd05cc48b980e5cef800
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/referral-program-design.md
 slug: referral-program-design
 title: Referral Program Design
@@ -7,9 +7,9 @@ aliases:
 - Customer Referral Program
 - Viral Marketing
 - Member-get-member
-version: "1.0"
-created: "2026-02-10 00:00:00+00:00"
-modified: "2026-02-10 00:00:00+00:00"
+version: '1.0'
+created: '2026-02-10 00:00:00+00:00'
+modified: '2026-02-10 00:00:00+00:00'
 classification:
   universality: context-dependent
   domain: platform
@@ -26,8 +26,6 @@ classification:
   commons_alignment: 3
   commons_domain:
   - platform
-  - business
-  - social
 generalizes_from: []
 specializes_to: []
 enables: []
@@ -45,6 +43,7 @@ sources:
 license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
+page_url: https://commons-os.github.io/patterns/referral-program-design/
 ---
 
 ### 1. Overview

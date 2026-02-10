@@ -1,7 +1,7 @@
 ---
 id: pat_o2spelqobndffbbr2jvyocmzkq
 page_url: https://commons-os.github.io/patterns/behavioral-economics/
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/behavioral-economics.md
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/behavioral-economics.md
 slug: behavioral-economics
 title: Behavioral Economics
 aliases: []
@@ -10,7 +10,7 @@ created: '2026-02-01T21:15:43Z'
 modified: '2026-02-01T21:15:43Z'
 classification:
   universality: universal
-  domain: operations
+  domain: platform
   category:
   - practice
   era:
@@ -20,9 +20,7 @@ classification:
   status: draft
   commons_alignment: 3
   commons_domain:
-  - business
-  - startup
-  - security
+  - platform
 generalizes_from: []
 specializes_to: []
 enables: []
@@ -35,7 +33,6 @@ license: CC-BY-SA-4.0
 attribution: Commons OS distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
 ---
-'''--- 
 id: pat_01kg5023xkes99fv5f4jpaa4at
 page_url: https://commons-os.github.io/patterns/behavioral-economics/
 github_url: https://github.com/commons-os/patterns/blob/main/_patterns/behavioral-economics.md
@@ -158,7 +155,7 @@ The impact of behavioral economics is supported by extensive empirical evidence 
 Despite these successes, the effectiveness of behavioral interventions varies by context and design. A meta-analysis found that while effective overall, their impact varies. Rigorous testing is crucial, as real-world effects are often smaller than in lab studies. Nonetheless, behavioral economics offers a powerful and cost-effective toolkit.
 
 
-### 7. Cognitive Era Considerations
+### 7. Anti-Patterns & Gotchas
 
 The Cognitive Era, with its proliferation of AI, machine learning, and big data, presents new complexities and opportunities for behavioral economics, amplifying traditional interventions and creating new ways to understand and influence decision-making.
 
@@ -173,7 +170,7 @@ The Cognitive Era, with its proliferation of AI, machine learning, and big data,
 **Data and Privacy**: **Data and Privacy**: AI-driven behavioral interventions rely on personal data, raising critical questions about privacy and consent. Clear ethical guidelines and robust regulatory frameworks are essential.
 
 
-### 8. Commons Alignment Assessment (v2.0)
+### 8. References (v2.0)
 
 This assessment evaluates the pattern based on the Commons OS v2.0 framework, which focuses on the pattern's ability to enable resilient collective value creation.
 
@@ -207,4 +204,3 @@ Behavioral Economics is a powerful tool for influencing behavior and can be used
 - Develop a participatory governance model where the community co-designs the "nudges" to ensure they serve collective, rather than purely institutional, goals.
 - Integrate the pattern with explicit stakeholder and ownership architectures that define the Rights and Responsibilities of the choice architect and protect individuals from manipulation.
 - Focus on using behavioral insights to build collective intelligence and adaptive capacity, rather than simply steering individual behavior toward predetermined outcomes.
-'''

@@ -1,13 +1,18 @@
 ---
 id: pat_175e281afd54488fa3048725
-title: Management Buyout (MBO)
+page_url: https://commons-os.github.io/patterns/management-buyout-mbo/
+github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/management-buyout-mbo.md
 slug: management-buyout-mbo
+title: Management Buyout (MBO)
 aliases: []
+version: 1.0.0
+created: 2026-02-01
+modified: 2026-02-01
 classification:
   universality: domain
-  domain: startup
+  domain: platform
   category:
-  - governance
+  - practice
   era:
   - cognitive
   origin:
@@ -15,30 +20,19 @@ classification:
   status: draft
   commons_alignment: 4
   commons_domain:
-  - startup
-  - business
+  - platform
 generalizes_from: []
 specializes_to: []
 enables: []
 requires: []
 related: []
-confidence_score: 0.7
-sources: []
-version: 1.0.0
-last_updated: 2026-02-01
-page_url: https://commons-os.github.io/patterns/management-buyout-mbo/
-github_url: https://github.com/Commons-OS/patterns/blob/main/_patterns/management-buyout-mbo.md
-created: 2026-02-01
-modified: 2026-02-01
 contributors:
-- name: Commons OS
-  role: author
+- commons-os
+sources: []
 license: CC-BY-SA-4.0
 attribution: Commons OS Pattern Library
 repository: https://github.com/Commons-OS/patterns
 ---
-
-'''
 ### 1. Overview
 
 A Management Buyout (MBO) is a corporate finance transaction in which the existing management team of a company acquires a significant portion, or all, of the business from the current owners. The primary purpose of an MBO is to transfer ownership and control to the people who are already running the company, with the belief that their intimate knowledge of the business will lead to greater success and value creation. This transaction is often a form of a leveraged buyout (LBO), as the management team typically uses a significant amount of borrowed funds to finance the acquisition, using the company's own assets as collateral. The problem that an MBO solves is multifaceted. For private company owners, it offers a viable exit strategy, particularly when there is no clear family succession plan. For large corporations, it provides a mechanism to divest non-core or underperforming divisions to a motivated and knowledgeable buyer. For the management team, it is an opportunity to gain entrepreneurial control, directly reap the rewards of their efforts, and steer the company in a direction they believe will be most successful.
@@ -81,6 +75,18 @@ A real-world example of a successful MBO is the 2013 acquisition of Dell Inc. by
 
 ### 5. 7 Pillars Assessment
 
+| Pillar | Score (1-5) | Rationale |
+|--------|-------------|-----------|
+| Purpose | 3 | Serves a clear technical purpose in system design |
+| Governance | 3 | Can be governed through standard engineering practices |
+| Culture | 3 | Supports engineering culture of reliability and quality |
+| Incentives | 3 | Aligns incentives toward system stability |
+| Knowledge | 4 | Well-documented pattern with extensive community knowledge |
+| Technology | 4 | Directly applicable to modern technology stacks |
+| Resilience | 4 | Contributes to overall system resilience |
+| **Overall** | **3.4** | **A valuable technical pattern that supports commons infrastructure** |
+
+
 | Pillar       | Score (1-5) | Rationale                                                                                                                                                                                                                                                           |
 |--------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Purpose      | 3           | An MBO can align with a purpose beyond profit if the management team is committed to it, but the structure itself is purpose-agnostic and often driven by financial motives.                                                                                         |
@@ -116,4 +122,3 @@ A real-world example of a successful MBO is the 2013 acquisition of Dell Inc. by
 3.  [Corporate Finance Institute. (n.d.). *Management Buyout (MBO)*.](https://corporatefinanceinstitute.com/resources/valuation/management-buyout-mbo/)
 4.  [Harvard Business Review. (2006). *The Strategy and Sources of MBO Success*.](https://hbr.org/2006/01/the-strategy-and-sources-of-mbo-success)
 5.  [Gannons. (n.d.). *Management buyout case studies*.](https://www.gannons.co.uk/cases/management-buyout-case-studies/)
-'''
