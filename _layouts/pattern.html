@@ -5,16 +5,26 @@ layout: default
 <article class="pattern">
   <header class="pattern-header">
     <div class="pattern-meta">
-      <span class="badge badge-{{ page.classification.universality | default: 'domain' }}">
-        {{ page.classification.universality | default: 'domain' }}
-      </span>
-      <span class="badge" style="background: #f1f5f9; color: #475569;">
-        {{ page.classification.domain | default: 'general' }}
-      </span>
-      {% if page.classification.commons_alignment %}
-      <span class="badge" style="background: #ecfdf5; color: #065f46;">
-        Commons: {{ page.classification.commons_alignment }}/5
-      </span>
+      {% comment %} Support both old classification format and v7 ontology format {% endcomment %}
+      {% if page.ontology %}
+        {% if page.ontology.specification_layer %}
+        <span class="badge badge-layer">{{ page.ontology.specification_layer }}</span>
+        {% endif %}
+        <span class="badge" style="background: #f1f5f9; color: #475569;">
+          {{ page.ontology.domain | default: 'general' }}
+        </span>
+      {% else %}
+        <span class="badge badge-{{ page.classification.universality | default: 'domain' }}">
+          {{ page.classification.universality | default: 'domain' }}
+        </span>
+        <span class="badge" style="background: #f1f5f9; color: #475569;">
+          {{ page.classification.domain | default: 'general' }}
+        </span>
+        {% if page.classification.commons_alignment %}
+        <span class="badge" style="background: #ecfdf5; color: #065f46;">
+          Commons: {{ page.classification.commons_alignment }}/5
+        </span>
+        {% endif %}
       {% endif %}
     </div>
     
@@ -25,56 +35,266 @@ layout: default
       Also known as: {{ page.aliases | join: ", " }}
     </p>
     {% endif %}
+
+    {% if page.summary %}
+    <blockquote class="pattern-summary">{{ page.summary }}</blockquote>
+    {% endif %}
   </header>
   
   <div class="pattern-content">
     {{ content }}
   </div>
   
-  {% if page.related or page.generalizes_from or page.specializes_to %}
+  {% comment %} ===== RELATIONSHIPS SECTION ===== {% endcomment %}
+  {% comment %} Support both v7 nested format (relationships.X) and old flat format (page.X) {% endcomment %}
+
+  {% comment %} Determine which format we're dealing with {% endcomment %}
+  {% assign has_v7_rels = false %}
+  {% if page.relationships %}
+    {% if page.relationships.enables.size > 0 or page.relationships.requires.size > 0 or page.relationships.complementary.size > 0 or page.relationships.alternatives.size > 0 or page.relationships.generalizes_from.size > 0 or page.relationships.specializes_to.size > 0 %}
+      {% assign has_v7_rels = true %}
+    {% endif %}
+  {% endif %}
+
+  {% assign has_old_rels = false %}
+  {% if page.related.size > 0 or page.generalizes_from.size > 0 or page.specializes_to.size > 0 or page.enables.size > 0 or page.requires.size > 0 %}
+    {% assign has_old_rels = true %}
+  {% endif %}
+
+  {% if has_v7_rels or has_old_rels %}
   <aside class="pattern-relationships">
     <h2>Related Patterns</h2>
     
-    {% if page.generalizes_from and page.generalizes_from.size > 0 %}
-    <div class="relationship-group">
-      <h3>Generalizes From (Parent Patterns)</h3>
-      <ul>
-        {% for rel_id in page.generalizes_from %}
-          {% assign rel_pattern = site.data.registry | where: "id", rel_id | first %}
-          {% if rel_pattern %}
-          <li><a href="{{ site.baseurl }}/{{ rel_pattern.level }}/{{ rel_pattern.slug }}/">{{ rel_pattern.title }}</a></li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-    </div>
-    {% endif %}
-    
-    {% if page.specializes_to and page.specializes_to.size > 0 %}
-    <div class="relationship-group">
-      <h3>Specializes To (Child Patterns)</h3>
-      <ul>
-        {% for rel_id in page.specializes_to %}
-          {% assign rel_pattern = site.data.registry | where: "id", rel_id | first %}
-          {% if rel_pattern %}
-          <li><a href="{{ site.baseurl }}/{{ rel_pattern.level }}/{{ rel_pattern.slug }}/">{{ rel_pattern.title }}</a></li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-    </div>
-    {% endif %}
-    
-    {% if page.related and page.related.size > 0 %}
-    <div class="relationship-group">
-      <h3>Related Patterns</h3>
-      <ul>
-        {% for rel_id in page.related limit:10 %}
-          {% assign rel_pattern = site.data.registry | where: "id", rel_id | first %}
-          {% if rel_pattern %}
-          <li><a href="{{ site.baseurl }}/{{ rel_pattern.level }}/{{ rel_pattern.slug }}/">{{ rel_pattern.title }}</a></li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-    </div>
+    {% if has_v7_rels %}
+      {% comment %} ===== V7 FORMAT ===== {% endcomment %}
+
+      {% comment %} Generalizes From (Parent Patterns) {% endcomment %}
+      {% if page.relationships.generalizes_from.size > 0 %}
+      <div class="relationship-group">
+        <h3>🔼 Parent Patterns</h3>
+        <ul>
+          {% for rel_id in page.relationships.generalizes_from %}
+            {% assign rel_pattern = site.patterns | where: "slug", rel_id | first %}
+            {% if rel_pattern %}
+            <li><a href="{{ site.baseurl }}/{{ rel_pattern.slug }}/">{{ rel_pattern.title }}</a></li>
+            {% else %}
+              {% assign reg_pattern = site.data.registry | where: "slug", rel_id | first %}
+              {% if reg_pattern %}
+              <li><a href="{{ site.baseurl }}/{{ reg_pattern.slug }}/">{{ reg_pattern.title }}</a></li>
+              {% else %}
+              <li>{{ rel_id }}</li>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+
+      {% comment %} Specializes To (Child Patterns) {% endcomment %}
+      {% if page.relationships.specializes_to.size > 0 %}
+      <div class="relationship-group">
+        <h3>🔽 Child Patterns</h3>
+        <ul>
+          {% for rel_id in page.relationships.specializes_to %}
+            {% assign rel_pattern = site.patterns | where: "slug", rel_id | first %}
+            {% if rel_pattern %}
+            <li><a href="{{ site.baseurl }}/{{ rel_pattern.slug }}/">{{ rel_pattern.title }}</a></li>
+            {% else %}
+              {% assign reg_pattern = site.data.registry | where: "slug", rel_id | first %}
+              {% if reg_pattern %}
+              <li><a href="{{ site.baseurl }}/{{ reg_pattern.slug }}/">{{ reg_pattern.title }}</a></li>
+              {% else %}
+              <li>{{ rel_id }}</li>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+
+      {% comment %} Enables {% endcomment %}
+      {% if page.relationships.enables.size > 0 %}
+      <div class="relationship-group">
+        <h3>➡️ Enables</h3>
+        <ul>
+          {% for rel in page.relationships.enables %}
+            {% if rel.id %}
+              {% assign rel_slug = rel.id %}
+            {% else %}
+              {% assign rel_slug = rel %}
+            {% endif %}
+            {% assign rel_pattern = site.patterns | where: "slug", rel_slug | first %}
+            {% if rel_pattern %}
+            <li>
+              <a href="{{ site.baseurl }}/{{ rel_pattern.slug }}/">{{ rel_pattern.title }}</a>
+              {% if rel.description %}<span class="rel-desc"> — {{ rel.description }}</span>{% endif %}
+            </li>
+            {% else %}
+              {% assign reg_pattern = site.data.registry | where: "slug", rel_slug | first %}
+              {% if reg_pattern %}
+              <li>
+                <a href="{{ site.baseurl }}/{{ reg_pattern.slug }}/">{{ reg_pattern.title }}</a>
+                {% if rel.description %}<span class="rel-desc"> — {{ rel.description }}</span>{% endif %}
+              </li>
+              {% else %}
+              <li>{{ rel_slug }}{% if rel.description %}<span class="rel-desc"> — {{ rel.description }}</span>{% endif %}</li>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+
+      {% comment %} Requires {% endcomment %}
+      {% if page.relationships.requires.size > 0 %}
+      <div class="relationship-group">
+        <h3>⬅️ Requires</h3>
+        <ul>
+          {% for rel in page.relationships.requires %}
+            {% if rel.id %}
+              {% assign rel_slug = rel.id %}
+            {% else %}
+              {% assign rel_slug = rel %}
+            {% endif %}
+            {% assign rel_pattern = site.patterns | where: "slug", rel_slug | first %}
+            {% if rel_pattern %}
+            <li>
+              <a href="{{ site.baseurl }}/{{ rel_pattern.slug }}/">{{ rel_pattern.title }}</a>
+              {% if rel.description %}<span class="rel-desc"> — {{ rel.description }}</span>{% endif %}
+            </li>
+            {% else %}
+              {% assign reg_pattern = site.data.registry | where: "slug", rel_slug | first %}
+              {% if reg_pattern %}
+              <li>
+                <a href="{{ site.baseurl }}/{{ reg_pattern.slug }}/">{{ reg_pattern.title }}</a>
+                {% if rel.description %}<span class="rel-desc"> — {{ rel.description }}</span>{% endif %}
+              </li>
+              {% else %}
+              <li>{{ rel_slug }}{% if rel.description %}<span class="rel-desc"> — {{ rel.description }}</span>{% endif %}</li>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+
+      {% comment %} Complementary {% endcomment %}
+      {% if page.relationships.complementary.size > 0 %}
+      <div class="relationship-group">
+        <h3>🤝 Complementary</h3>
+        <ul>
+          {% for rel in page.relationships.complementary %}
+            {% if rel.id %}
+              {% assign rel_slug = rel.id %}
+            {% else %}
+              {% assign rel_slug = rel %}
+            {% endif %}
+            {% assign rel_pattern = site.patterns | where: "slug", rel_slug | first %}
+            {% if rel_pattern %}
+            <li>
+              <a href="{{ site.baseurl }}/{{ rel_pattern.slug }}/">{{ rel_pattern.title }}</a>
+              {% if rel.description %}<span class="rel-desc"> — {{ rel.description }}</span>{% endif %}
+            </li>
+            {% else %}
+              {% assign reg_pattern = site.data.registry | where: "slug", rel_slug | first %}
+              {% if reg_pattern %}
+              <li>
+                <a href="{{ site.baseurl }}/{{ reg_pattern.slug }}/">{{ reg_pattern.title }}</a>
+                {% if rel.description %}<span class="rel-desc"> — {{ rel.description }}</span>{% endif %}
+              </li>
+              {% else %}
+              <li>{{ rel_slug }}{% if rel.description %}<span class="rel-desc"> — {{ rel.description }}</span>{% endif %}</li>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+
+      {% comment %} Alternatives {% endcomment %}
+      {% if page.relationships.alternatives.size > 0 %}
+      <div class="relationship-group">
+        <h3>🔄 Alternatives</h3>
+        <ul>
+          {% for rel in page.relationships.alternatives %}
+            {% if rel.id %}
+              {% assign rel_slug = rel.id %}
+            {% else %}
+              {% assign rel_slug = rel %}
+            {% endif %}
+            {% assign rel_pattern = site.patterns | where: "slug", rel_slug | first %}
+            {% if rel_pattern %}
+            <li>
+              <a href="{{ site.baseurl }}/{{ rel_pattern.slug }}/">{{ rel_pattern.title }}</a>
+              {% if rel.description %}<span class="rel-desc"> — {{ rel.description }}</span>{% endif %}
+            </li>
+            {% else %}
+              {% assign reg_pattern = site.data.registry | where: "slug", rel_slug | first %}
+              {% if reg_pattern %}
+              <li>
+                <a href="{{ site.baseurl }}/{{ reg_pattern.slug }}/">{{ reg_pattern.title }}</a>
+                {% if rel.description %}<span class="rel-desc"> — {{ rel.description }}</span>{% endif %}
+              </li>
+              {% else %}
+              <li>{{ rel_slug }}{% if rel.description %}<span class="rel-desc"> — {{ rel.description }}</span>{% endif %}</li>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+
+    {% else %}
+      {% comment %} ===== OLD FORMAT ===== {% endcomment %}
+
+      {% if page.generalizes_from and page.generalizes_from.size > 0 %}
+      <div class="relationship-group">
+        <h3>🔼 Parent Patterns</h3>
+        <ul>
+          {% for rel_id in page.generalizes_from %}
+            {% assign rel_pattern = site.data.registry | where: "id", rel_id | first %}
+            {% if rel_pattern %}
+            <li><a href="{{ site.baseurl }}/{{ rel_pattern.slug }}/">{{ rel_pattern.title }}</a></li>
+            {% else %}
+            <li>{{ rel_id }}</li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+      
+      {% if page.specializes_to and page.specializes_to.size > 0 %}
+      <div class="relationship-group">
+        <h3>🔽 Child Patterns</h3>
+        <ul>
+          {% for rel_id in page.specializes_to %}
+            {% assign rel_pattern = site.data.registry | where: "id", rel_id | first %}
+            {% if rel_pattern %}
+            <li><a href="{{ site.baseurl }}/{{ rel_pattern.slug }}/">{{ rel_pattern.title }}</a></li>
+            {% else %}
+            <li>{{ rel_id }}</li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+      
+      {% if page.related and page.related.size > 0 %}
+      <div class="relationship-group">
+        <h3>Related Patterns</h3>
+        <ul>
+          {% for rel_id in page.related limit:10 %}
+            {% assign rel_pattern = site.data.registry | where: "id", rel_id | first %}
+            {% if rel_pattern %}
+            <li><a href="{{ site.baseurl }}/{{ rel_pattern.slug }}/">{{ rel_pattern.title }}</a></li>
+            {% else %}
+            <li>{{ rel_id }}</li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+
     {% endif %}
   </aside>
   {% endif %}
@@ -106,10 +326,24 @@ layout: default
   .pattern-meta .badge {
     margin-right: 0.5rem;
   }
+
+  .badge-layer {
+    background: #ede9fe;
+    color: #5b21b6;
+    font-weight: 600;
+  }
   
   .aliases {
     color: var(--text-muted);
     font-style: italic;
+  }
+
+  .pattern-summary {
+    font-size: 1.05rem;
+    border-left: 4px solid var(--accent, #10b981);
+    padding: 0.75rem 1rem;
+    margin: 1rem 0;
+    background: var(--surface, #f8fafc);
   }
   
   .pattern-relationships {
@@ -141,6 +375,15 @@ layout: default
   .relationship-group ul {
     margin: 0.5rem 0 0 0;
     padding-left: 1.5rem;
+  }
+
+  .relationship-group li {
+    margin-bottom: 0.35rem;
+  }
+
+  .rel-desc {
+    color: var(--text-muted);
+    font-size: 0.875rem;
   }
   
   .pattern-footer {
