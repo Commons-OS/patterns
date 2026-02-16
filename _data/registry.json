@@ -237,6 +237,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_01KHM0GFTE6A7HYD3K8305VE4Z",
+    "title": "Adaptive Learning",
+    "slug": "adaptive-learning",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023x7eg99hsc7dgqhnbgy",
     "title": "Adaptive Management (Holling)",
     "slug": "adaptive-management-holling",
@@ -745,6 +755,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_01KHM0FG5VR8RATRQPW2X7W5PW",
+    "title": "Alignment Monitoring",
+    "slug": "alignment-monitoring",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_ccb1e783604645e0a9c4589a",
     "title": "All-Hands Meetings",
     "slug": "all-hands-meetings",
@@ -821,6 +841,16 @@
       "business"
     ],
     "domain": "startup",
+    "status": "draft"
+  },
+  {
+    "id": "pat_01KHM0GNEQFAY8WY4VXVFGRW9E",
+    "title": "Anomaly Response",
+    "slug": "anomaly-response",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
     "status": "draft"
   },
   {
@@ -2013,6 +2043,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_01KHM0E71P5YZXR8P3FMSEA2CM",
+    "title": "Capability Specification",
+    "slug": "capability-specification",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023xrfartbgnsmzpzqbj2",
     "title": "Capital Budgeting",
     "slug": "capital-budgeting",
@@ -2572,6 +2612,26 @@
     "status": "draft"
   },
   {
+    "id": "pat_01H8X8Z9QJ0000000000000000",
+    "title": "Commons Blueprint",
+    "slug": "commons-blueprint",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_01KHM0MNM0QA91VMKG1NFD27TJ",
+    "title": "Commons Boundary Definition",
+    "slug": "commons-boundary-definition",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023xzf31b0j5p33g3mb95",
     "title": "Commons Governance (Various Models)",
     "slug": "commons-governance-various-models",
@@ -2637,6 +2697,16 @@
       "business",
       "startup",
       "security"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_01KHM0PPE7J9XR5K22KE6VEG79",
+    "title": "Community & Participation Model",
+    "slug": "community-and-participation-model",
+    "domains": [
+      "business"
     ],
     "domain": "business",
     "status": "draft"
@@ -2922,6 +2992,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_01KHM0P9QQK35T0686SG911F5A",
+    "title": "Compliance & Regulatory Specification",
+    "slug": "compliance-and-regulatory-specification",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_65eb51f84f0f06789f5bd876",
     "title": "Composable Architecture",
     "slug": "composable-architecture",
@@ -3017,6 +3097,16 @@
       "business",
       "startup",
       "security"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_01KHM0KG4V2E04365Y61FD1PKP",
+    "title": "Conflict Resolution Mechanism",
+    "slug": "conflict-resolution-mechanism",
+    "domains": [
+      "business"
     ],
     "domain": "business",
     "status": "draft"
@@ -3570,6 +3660,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_01KHM0JT0Y600QQCPG8BYTB811",
+    "title": "Coordination Protocol",
+    "slug": "coordination-protocol",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023y5fnhb2ej6d5kqf818",
     "title": "Copyfair Licensing",
     "slug": "copyfair-licensing",
@@ -3853,6 +3953,16 @@
       "business",
       "startup",
       "security"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_01KHM0N1Y4EJBWYV1WWAZ7P2CP",
+    "title": "Culture & Workforce Specification",
+    "slug": "culture-and-workforce-specification",
+    "domains": [
+      "business"
     ],
     "domain": "business",
     "status": "draft"
@@ -5243,6 +5353,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_01KHM0PP0QW6RB1R861RG6DFH1",
+    "title": "Ecosystem Partnership Design",
+    "slug": "ecosystem-partnership-design",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023yhepg8n3decwbbbwp4",
     "title": "Ecosystem Strategy",
     "slug": "ecosystem-strategy",
@@ -5497,6 +5617,16 @@
       "business",
       "startup",
       "security"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_01KHM0H7EME3DYJVTP1N4CWKAM",
+    "title": "Environment Sensing",
+    "slug": "environment-sensing",
+    "domains": [
+      "business"
     ],
     "domain": "business",
     "status": "draft"
@@ -6063,6 +6193,26 @@
     "status": "draft"
   },
   {
+    "id": "pat_01KHM0CNT8229CN89YV8C4BKEZ",
+    "title": "Feedback Escalation",
+    "slug": "feedback-escalation",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_01KHM0F33GWBPPYX6VZ0NJ1GTH",
+    "title": "Feedback Loop Governance",
+    "slug": "feedback-loop-governance",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023yrf4gvtspw81x69n2j",
     "title": "Feminist Economics",
     "slug": "feminist-economics",
@@ -6514,6 +6664,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_01KHM0D17BTW84H9G7RPKQ3PEP",
+    "title": "Gap Analysis",
+    "slug": "gap-analysis",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023yvehgrw2tgha4z5mxc",
     "title": "Garage Startup Culture",
     "slug": "garage-startup-culture",
@@ -6858,6 +7018,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_01KHM0CM5QTN22ZCVG8BYE477A",
+    "title": "Governance Design",
+    "slug": "governance-design",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_50d555831ba54a858cd43322",
     "title": "Governance Theater",
     "slug": "governance-theater",
@@ -6910,13 +7080,13 @@
     "status": "draft"
   },
   {
-    "id": "pat_87e0a76af5b1ebc9b8ec68a2",
+    "id": "pat_01KHM0PV5YZ795ECFP8P1CZPSK",
     "title": "Graduated Sanctions",
     "slug": "graduated-sanctions",
     "domains": [
-      "platform"
+      "business"
     ],
-    "domain": "platform",
+    "domain": "business",
     "status": "draft"
   },
   {
@@ -7357,6 +7527,16 @@
       "platform"
     ],
     "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_01KHM0EJXH8B2D48FNY0P907T1",
+    "title": "Human-Agent Handoff",
+    "slug": "human-agent-handoff",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
     "status": "draft"
   },
   {
@@ -8358,6 +8538,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_01KHM0RCVWSANCESCD3WC8840C",
+    "title": "Journey Design",
+    "slug": "journey-design",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023zae8rthxw61xy47zq2",
     "title": "Just-in-Time Inventory",
     "slug": "just-in-time-inventory",
@@ -8399,6 +8589,16 @@
     "domains": [
       "business",
       "startup"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_01KHM0PYQZKZ865FSERHTFJCW8",
+    "title": "Justice & Inclusion Specification",
+    "slug": "justice-and-inclusion-specification",
+    "domains": [
+      "business"
     ],
     "domain": "business",
     "status": "draft"
@@ -8924,6 +9124,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_01KHM0QZR7N6XE1XTK69RRNEV4",
+    "title": "Legitimacy & Consent",
+    "slug": "legitimacy-and-consent",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_cfe2ad3507f183529881ff7e",
     "title": "Let the Best Emerge",
     "slug": "let-the-best-emerge",
@@ -9263,6 +9473,16 @@
       "business",
       "startup",
       "security"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_01KHM0FQS5VCJ4YBSWKG42PTPY",
+    "title": "Market Environment Specification",
+    "slug": "market-environment-specification",
+    "domains": [
+      "business"
     ],
     "domain": "business",
     "status": "draft"
@@ -9954,6 +10174,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_01KHM0CW1B4R4EXTAARDDFH67Y",
+    "title": "Multi-Speed Feedback",
+    "slug": "multi-speed-feedback",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_fd87840733ef413d864b2e6a",
     "title": "Multi-Stakeholder Cooperative",
     "slug": "multi-stakeholder-cooperative",
@@ -10121,6 +10351,16 @@
     "domains": [
       "business",
       "startup"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_01KHM0NHJGC6PQHZ02QW3TXQMG",
+    "title": "Nested Systems Architecture",
+    "slug": "nested-systems-architecture",
+    "domains": [
+      "business"
     ],
     "domain": "business",
     "status": "draft"
@@ -10628,6 +10868,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_01KHM0CV9W75DNTQKB3TDGRKR7",
+    "title": "Operational Cadence",
+    "slug": "operational-cadence",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_019c47f4ffcf7baba3eba2b013",
     "title": "Optimistic Locking Pattern",
     "slug": "optimistic-locking-pattern",
@@ -10679,6 +10929,16 @@
       "business",
       "startup",
       "security"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_01KHM0G4D004Q22AV7GPQ5BKM7",
+    "title": "Organization Design",
+    "slug": "organization-design",
+    "domains": [
+      "business"
     ],
     "domain": "business",
     "status": "draft"
@@ -10925,6 +11185,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_01KHM0CG76VR2E6WGJ06MTM91B",
+    "title": "Pattern Lifecycle",
+    "slug": "pattern-lifecycle",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023zketsrxaxyhng7f2c7",
     "title": "Pay-What-You-Want Model",
     "slug": "pay-what-you-want-model",
@@ -11035,6 +11305,16 @@
       "business"
     ],
     "domain": "startup",
+    "status": "draft"
+  },
+  {
+    "id": "pat_01KHM0CNG6DK10E2EFE33DYHNW",
+    "title": "Performance Sensing",
+    "slug": "performance-sensing",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
     "status": "draft"
   },
   {
@@ -12358,6 +12638,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_01H8X8Z9QJ0000000000000000",
+    "title": "Purpose Definition",
+    "slug": "purpose-definition",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_a340ae275bba4b9ba13a8c2d",
     "title": "Purpose Foundation Model",
     "slug": "purpose-foundation-model",
@@ -13018,6 +13308,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_01KHM0PW5B0T5QTX7EQDRQMYD4",
+    "title": "Resource Orchestration",
+    "slug": "resource-orchestration",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_2150bf8500f14ea087aadd05",
     "title": "Restricted Stock Units (RSUs)",
     "slug": "restricted-stock-units-rsus",
@@ -13461,6 +13761,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_01KHM0CES9HC9AP8HSS34D2BD6",
+    "title": "Scenario Specification",
+    "slug": "scenario-specification",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_019c47f5005f7c739721d4c6b8",
     "title": "Scheduler Agent Supervisor",
     "slug": "scheduler-agent-supervisor",
@@ -13727,6 +14037,16 @@
       "platform"
     ],
     "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_01KHM0QM6CW603QET05HW65MHP",
+    "title": "Self-Organization & Subsidiarity",
+    "slug": "self-organization-and-subsidiarity",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
     "status": "draft"
   },
   {
@@ -14689,6 +15009,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_19c6807db0220eccd8d5de52",
+    "title": "Solution Architecture",
+    "slug": "solution-architecture",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_26e419c9b5c94622a48b5a3fe0",
     "title": "Solution Interviews",
     "slug": "solution-interviews",
@@ -14808,6 +15138,16 @@
     "domains": [
       "business",
       "startup"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_01KHM0MAQPSJMRBB1NQFRWK64A",
+    "title": "Stakeholder Architecture",
+    "slug": "stakeholder-architecture",
+    "domains": [
+      "business"
     ],
     "domain": "business",
     "status": "draft"
@@ -15086,6 +15426,16 @@
       "platform"
     ],
     "domain": "platform",
+    "status": "draft"
+  },
+  {
+    "id": "pat_01KHM0GSXDNYT0C9XY891KZ00E",
+    "title": "Structural Integrity Audit",
+    "slug": "structural-integrity-audit",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
     "status": "draft"
   },
   {
@@ -15767,6 +16117,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_01KHM0D9WBXDA6Z368YE0KYKNS",
+    "title": "Time-Sliced Specification",
+    "slug": "time-sliced-specification",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_019c47f5010470f1b37e99a802",
     "title": "Timeout Pattern",
     "slug": "timeout-pattern",
@@ -16063,6 +16423,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_01KHM0GNSX77BG00KFKQYGV5B0",
+    "title": "Transformation Sequencing",
+    "slug": "transformation-sequencing",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023wkey887v6x6ynz7zha",
     "title": "Transformational Leadership - Burns & Bass",
     "slug": "transformational-leadership-burns-bass",
@@ -16082,6 +16452,16 @@
       "business",
       "startup",
       "security"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_01KHM0PZJJ0EFDRHCR28S20EPX",
+    "title": "Transparency & Openness Protocol",
+    "slug": "transparency-and-openness-protocol",
+    "domains": [
+      "business"
     ],
     "domain": "business",
     "status": "draft"
@@ -16115,6 +16495,16 @@
       "business"
     ],
     "domain": "startup",
+    "status": "draft"
+  },
+  {
+    "id": "pat_01KHM0GH3CGAB7KXV9ZJPF2F4W",
+    "title": "Transparent Operations",
+    "slug": "transparent-operations",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
     "status": "draft"
   },
   {
@@ -16589,15 +16979,14 @@
     "status": "draft"
   },
   {
-    "id": "pat_ab2754cefba44075832ab86c65",
+    "id": "pat_01H8YJ7X5ZJ6QWERTY12345678",
     "title": "Value Proposition Design",
     "slug": "value-proposition-design",
     "domains": [
-      "startup",
       "business"
     ],
-    "domain": "startup",
-    "status": "published"
+    "domain": "business",
+    "status": "draft"
   },
   {
     "id": "pat_01kg50240bf4ra2qcwx56j5qk8",
@@ -16617,6 +17006,16 @@
     "domains": [
       "business",
       "startup"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_01khm0ddbj0a39xq9v778qbf8f",
+    "title": "Value Stream Specification",
+    "slug": "value-stream-specification",
+    "domains": [
+      "business"
     ],
     "domain": "business",
     "status": "draft"

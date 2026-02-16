@@ -301,6 +301,17 @@
     "score": 4
   },
   {
+    "title": "Adaptive Learning",
+    "url": "/patterns/adaptive-learning/",
+    "classification": [],
+    "description": "A pattern for creating dynamic learning pathways that adjust in real-time to a learner's performance, needs, and goals, ensuring efficient and effective mastery of skills.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Adaptive Management (Holling)",
     "url": "/patterns/adaptive-management-holling/",
     "classification": [
@@ -948,6 +959,17 @@
     "score": 2
   },
   {
+    "title": "Alignment Monitoring",
+    "url": "/patterns/alignment-monitoring/",
+    "classification": [],
+    "description": "A continuous process of detecting and analyzing divergence between a system's documented specification and its real-world behavior to maintain strategic alignment and operational integrity.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "All-Hands Meetings",
     "url": "/patterns/all-hands-meetings/",
     "classification": [
@@ -1046,6 +1068,17 @@
     ],
     "domain": "startup",
     "score": 0.7
+  },
+  {
+    "title": "Anomaly Response",
+    "url": "/patterns/anomaly-response/",
+    "classification": [],
+    "description": "A pattern for detecting, classifying, and responding to unexpected events or deviations from the norm in a system, ensuring resilience and learning.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
   },
   {
     "title": "Anonymization",
@@ -2564,6 +2597,17 @@
     "score": 3
   },
   {
+    "title": "Capability Specification",
+    "url": "/patterns/capability-specification/",
+    "classification": [],
+    "description": "A pattern for identifying and modeling the abilities a value creation system possesses or needs, independent of how those abilities are currently implemented.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Capital Budgeting",
     "url": "/patterns/capital-budgeting/",
     "classification": [
@@ -3280,6 +3324,28 @@
     "score": 5
   },
   {
+    "title": "Commons Blueprint",
+    "url": "/patterns/commons-blueprint/",
+    "classification": [],
+    "description": "A comprehensive, domain-agnostic framework for designing, building, and evolving resilient, self-governing value creation systems.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Commons Boundary Definition",
+    "url": "/patterns/commons-boundary-definition/",
+    "classification": [],
+    "description": "A pattern for clearly defining the scope of a commons, including its resources, membership, and rules of engagement, to ensure its long-term viability and prevent the tragedy of the commons.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Commons Governance (Various Models)",
     "url": "/patterns/commons-governance-various-models/",
     "classification": [
@@ -3364,6 +3430,17 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Community & Participation Model",
+    "url": "/patterns/community-and-participation-model/",
+    "classification": [],
+    "description": "A pattern for designing and nurturing a vibrant community by defining clear roles, responsibilities, and pathways for meaningful participation.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
   },
   {
     "title": "Community-Based Resource Management",
@@ -3728,6 +3805,17 @@
     "score": 4
   },
   {
+    "title": "Compliance & Regulatory Specification",
+    "url": "/patterns/compliance-and-regulatory-specification/",
+    "classification": [],
+    "description": "A pattern for systematically defining, tracking, and integrating external legal and regulatory requirements into a commons' operational and governance frameworks.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Composable Architecture",
     "url": "/patterns/composable-architecture/",
     "classification": [
@@ -3857,6 +3945,17 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Conflict Resolution Mechanism",
+    "url": "/patterns/conflict-resolution-mechanism/",
+    "classification": [],
+    "description": "A structured process for addressing and resolving disagreements between stakeholders in a fair and transparent manner.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
   },
   {
     "title": "Conflict Resolution Models",
@@ -4561,6 +4660,17 @@
     "score": 0.7
   },
   {
+    "title": "Coordination Protocol",
+    "url": "/patterns/coordination-protocol/",
+    "classification": [],
+    "description": "A set of rules and signals that enable multiple independent actors to align their actions, share information, and avoid conflicts to achieve a collective goal.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Copyfair Licensing",
     "url": "/patterns/copyfair-licensing/",
     "classification": [
@@ -4933,6 +5043,17 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Culture & Workforce Specification",
+    "url": "/patterns/culture-and-workforce-specification/",
+    "classification": [],
+    "description": "A pattern for deliberately defining the desired organizational culture and specifying the workforce capabilities, roles, and composition required to enact it.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
   },
   {
     "title": "Culture Documentation",
@@ -6715,6 +6836,17 @@
     "score": 4
   },
   {
+    "title": "Ecosystem Partnership Design",
+    "url": "/patterns/ecosystem-partnership-design/",
+    "classification": [],
+    "description": "A pattern for designing and cultivating intentional partnerships within a broader ecosystem to create shared value and enhance collective resilience.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Ecosystem Strategy",
     "url": "/patterns/ecosystem-strategy/",
     "classification": [
@@ -7041,6 +7173,17 @@
       "business",
       "startup",
       "security"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Environment Sensing",
+    "url": "/patterns/environment-sensing/",
+    "classification": [],
+    "description": "A pattern for specifying how a living system perceives its external environment: which signals to monitor, from which sources, at what cadence, with what interpretation rules, and what thresholds trig",
+    "domains": [
+      "business"
     ],
     "domain": "business",
     "score": 3
@@ -7773,6 +7916,28 @@
     "score": 0.7
   },
   {
+    "title": "Feedback Escalation",
+    "url": "/patterns/feedback-escalation/",
+    "classification": [],
+    "description": "A structured process for elevating critical feedback, anomalies, or unresolved issues from a lower-level operational team to a higher-level strategic or specialized function for resolution.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Feedback Loop Governance",
+    "url": "/patterns/feedback-loop-governance/",
+    "classification": [],
+    "description": "A pattern for defining and technically enforcing decision-making authority across different speeds of feedback within a system, ensuring both rapid response and strategic alignment.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Feminist Economics",
     "url": "/patterns/feminist-economics/",
     "classification": [
@@ -8353,6 +8518,17 @@
     "score": 3
   },
   {
+    "title": "Gap Analysis",
+    "url": "/patterns/gap-analysis/",
+    "classification": [],
+    "description": "A pattern for systematically comparing two states of a system to identify, classify, and prioritize the changes required to move from one to the other.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Garage Startup Culture",
     "url": "/patterns/garage-startup-culture/",
     "classification": [
@@ -8797,6 +8973,17 @@
     "score": 3
   },
   {
+    "title": "Governance Design",
+    "url": "/patterns/governance-design/",
+    "classification": [],
+    "description": "A pattern for establishing robust, fair, and adaptable decision-making structures that ensure a commons serves its purpose and balances the needs of all stakeholders.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Governance Theater",
     "url": "/patterns/governance-theater/",
     "classification": [
@@ -8866,15 +9053,13 @@
   {
     "title": "Graduated Sanctions",
     "url": "/patterns/graduated-sanctions/",
-    "classification": [
-      "mechanism"
-    ],
-    "description": "Graduated sanctions are a foundational pattern for fostering cooperation and maintaining order within a community by applying responses to rule violations that escalate in severity. This mechanism avo",
+    "classification": [],
+    "description": "A system of responses to rule violations that starts with gentle reminders and increases in severity with repeated offenses, fostering fairness and encouraging compliance.",
     "domains": [
-      "platform"
+      "business"
     ],
-    "domain": "platform",
-    "score": 4
+    "domain": "business",
+    "score": 3
   },
   {
     "title": "Grants",
@@ -9440,6 +9625,17 @@
       "platform"
     ],
     "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Human-Agent Handoff",
+    "url": "/patterns/human-agent-handoff/",
+    "classification": [],
+    "description": "A pattern for specifying the boundary between agent execution and human judgment, including handoff triggers, context transfer protocols, and approval gates.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
     "score": 3
   },
   {
@@ -10727,6 +10923,17 @@
     "score": 3
   },
   {
+    "title": "Journey Design",
+    "url": "/patterns/journey-design/",
+    "classification": [],
+    "description": "A pattern for systematically understanding and designing the path a stakeholder takes to interact with a system, product, or service to achieve a specific goal.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Just-in-Time Inventory",
     "url": "/patterns/just-in-time-inventory/",
     "classification": [
@@ -10781,6 +10988,17 @@
     "domains": [
       "business",
       "startup"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Justice & Inclusion Specification",
+    "url": "/patterns/justice-and-inclusion-specification/",
+    "classification": [],
+    "description": "A pattern for embedding principles of justice, fairness, and inclusion into the foundational architecture of a commons, ensuring equitable outcomes for all stakeholders.",
+    "domains": [
+      "business"
     ],
     "domain": "business",
     "score": 3
@@ -11457,6 +11675,17 @@
     "score": 3
   },
   {
+    "title": "Legitimacy & Consent",
+    "url": "/patterns/legitimacy-and-consent/",
+    "classification": [],
+    "description": "A pattern for building resilient and effective governance systems by continuously earning legitimacy through transparent, participatory processes where authority is dynamically granted and revoked by ",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Let the Best Emerge",
     "url": "/patterns/let-the-best-emerge/",
     "classification": [
@@ -11901,6 +12130,17 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Market Environment Specification",
+    "url": "/patterns/market-environment-specification/",
+    "classification": [],
+    "description": "A pattern for systematically scanning, modeling, and monitoring the external forces that shape, constrain, and create opportunities for a value creation system.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
   },
   {
     "title": "Market Network Effect",
@@ -12782,6 +13022,17 @@
     "score": 3
   },
   {
+    "title": "Multi-Speed Feedback",
+    "url": "/patterns/multi-speed-feedback/",
+    "classification": [],
+    "description": "A pattern for designing a holistic feedback architecture with distinct speeds\u2014operational, tactical, strategic, and evolutionary\u2014to ensure a system can respond appropriately to different types of sign",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Multi-Stakeholder Cooperative",
     "url": "/patterns/multi-stakeholder-cooperative/",
     "classification": [
@@ -13007,6 +13258,17 @@
     ],
     "domain": "business",
     "score": 1
+  },
+  {
+    "title": "Nested Systems Architecture",
+    "url": "/patterns/nested-systems-architecture/",
+    "classification": [],
+    "description": "A structural pattern where autonomous, self-reliant systems are recursively composed into larger, more complex systems, enabling both subsystem integrity and whole-system coherence.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
   },
   {
     "title": "Net-Positive Design",
@@ -13654,6 +13916,17 @@
     "score": 3
   },
   {
+    "title": "Operational Cadence",
+    "url": "/patterns/operational-cadence/",
+    "classification": [],
+    "description": "A pattern for establishing a predictable rhythm of operational activities, ensuring alignment and synchronization across a system through a nested hierarchy of cadences from continuous to annual.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Optimistic Locking Pattern",
     "url": "/patterns/optimistic-locking-pattern/",
     "classification": [
@@ -13722,6 +13995,17 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Organization Design",
+    "url": "/patterns/organization-design/",
+    "classification": [],
+    "description": "A pattern for structuring teams, departments, and governance relationships to align with value creation and strategic intent, rather than historical accident or functional silos.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
   },
   {
     "title": "Organizational Development (Lewin, Schein)",
@@ -14035,6 +14319,17 @@
     "score": 3
   },
   {
+    "title": "Pattern Lifecycle",
+    "url": "/patterns/pattern-lifecycle/",
+    "classification": [],
+    "description": "A meta-pattern for how a system discovers, codifies, shares, and evolves its own operational patterns, creating a continuous loop between local practice and globally shared knowledge.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Pay-What-You-Want Model",
     "url": "/patterns/pay-what-you-want-model/",
     "classification": [
@@ -14182,6 +14477,17 @@
     ],
     "domain": "startup",
     "score": 0.7
+  },
+  {
+    "title": "Performance Sensing",
+    "url": "/patterns/performance-sensing/",
+    "classification": [],
+    "description": "A pattern for specifying what a living system must perceive about its own internal state and performance, enabling continuous awareness and adaptive response.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
   },
   {
     "title": "Permaculture Design",
@@ -15882,6 +16188,17 @@
     "score": 4
   },
   {
+    "title": "Purpose Definition",
+    "url": "/patterns/purpose-definition/",
+    "classification": [],
+    "description": "A pattern for articulating and maintaining the foundational reason a value creation system exists, anchoring all other architectural decisions.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Purpose Foundation Model",
     "url": "/patterns/purpose-foundation-model/",
     "classification": [
@@ -16738,6 +17055,17 @@
     "score": 2
   },
   {
+    "title": "Resource Orchestration",
+    "url": "/patterns/resource-orchestration/",
+    "classification": [],
+    "description": "A pattern for dynamically allocating, reallocating, and contesting resources\u2014such as human attention, compute, capital, and assets\u2014across competing operational demands in real time.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Restricted Stock Units (RSUs)",
     "url": "/patterns/restricted-stock-units-rsus/",
     "classification": [
@@ -17312,6 +17640,17 @@
     "score": 3
   },
   {
+    "title": "Scenario Specification",
+    "url": "/patterns/scenario-specification/",
+    "classification": [],
+    "description": "A pattern for systematically exploring multiple plausible futures to stress-test strategies, reveal hidden risks and opportunities, and build organizational resilience against deep uncertainty.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Scheduler Agent Supervisor",
     "url": "/patterns/scheduler-agent-supervisor/",
     "classification": [
@@ -17655,6 +17994,17 @@
       "platform"
     ],
     "domain": "platform",
+    "score": 3
+  },
+  {
+    "title": "Self-Organization & Subsidiarity",
+    "url": "/patterns/self-organization-and-subsidiarity/",
+    "classification": [],
+    "description": "A pattern for fostering resilient and adaptive systems by empowering local actors to manage their own affairs while maintaining coherence with the whole.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
     "score": 3
   },
   {
@@ -18900,6 +19250,17 @@
     "score": 0.7
   },
   {
+    "title": "Solution Architecture",
+    "url": "/patterns/solution-architecture/",
+    "classification": [],
+    "description": "A pattern for modeling the technology systems, platforms, and tools that enable organizational capabilities, ensuring solutions serve value creation rather than driving it.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Solution Interviews",
     "url": "/patterns/solution-interviews/",
     "classification": [
@@ -19054,6 +19415,17 @@
     "domains": [
       "business",
       "startup"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Stakeholder Architecture",
+    "url": "/patterns/stakeholder-architecture/",
+    "classification": [],
+    "description": "A pattern for systematically identifying, classifying, and modeling all parties who affect or are affected by a value creation system, including those traditionally excluded or without a voice. It emb",
+    "domains": [
+      "business"
     ],
     "domain": "business",
     "score": 3
@@ -19415,6 +19787,17 @@
     ],
     "domain": "platform",
     "score": 2
+  },
+  {
+    "title": "Structural Integrity Audit",
+    "url": "/patterns/structural-integrity-audit/",
+    "classification": [],
+    "description": "A periodic, in-depth review to verify that a system's components and their relationships remain aligned with its documented architecture and underlying purpose, detecting drift and ensuring long-term ",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
   },
   {
     "title": "Structured Interviews",
@@ -20292,6 +20675,17 @@
     "score": 3
   },
   {
+    "title": "Time-Sliced Specification",
+    "url": "/patterns/time-sliced-specification/",
+    "classification": [],
+    "description": "A pattern for maintaining multiple, simultaneous temporal models of a system (Now, Next, Horizon) to enable systematic comparison, reveal strategic gaps, and guide evolutionary development.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Timeout Pattern",
     "url": "/patterns/timeout-pattern/",
     "classification": [
@@ -20673,6 +21067,17 @@
     "score": 3
   },
   {
+    "title": "Transformation Sequencing",
+    "url": "/patterns/transformation-sequencing/",
+    "classification": [],
+    "description": "A pattern for structuring architectural and organizational decisions in a fixed sequence from purpose outward, ensuring every system element traces back to why the system exists.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Transformational Leadership - Burns & Bass",
     "url": "/patterns/transformational-leadership-burns-bass/",
     "classification": [
@@ -20698,6 +21103,17 @@
       "business",
       "startup",
       "security"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Transparency & Openness Protocol",
+    "url": "/patterns/transparency-and-openness-protocol/",
+    "classification": [],
+    "description": "A protocol for establishing transparency and openness as the default for all information and decision-making processes within a commons, while defining clear exceptions.",
+    "domains": [
+      "business"
     ],
     "domain": "business",
     "score": 3
@@ -20741,6 +21157,17 @@
     ],
     "domain": "startup",
     "score": 0.7
+  },
+  {
+    "title": "Transparent Operations",
+    "url": "/patterns/transparent-operations/",
+    "classification": [],
+    "description": "A pattern for maintaining two complementary representations of the same system \u2014 a structured graph for machines and a curated narrative for humans \u2014 with defined synchronization between them.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
   },
   {
     "title": "Treasury Management",
@@ -21349,16 +21776,13 @@
   {
     "title": "Value Proposition Design",
     "url": "/patterns/value-proposition-design/",
-    "classification": [
-      "product"
-    ],
-    "description": "Value Proposition Design is a methodology for creating products and services that customers want. It is a framework that helps businesses ensure that their offerings are aligned with the needs, wants,",
+    "classification": [],
+    "description": "A pattern for explicitly articulating the value a system promises to create for each stakeholder group, linking purpose to delivery.",
     "domains": [
-      "startup",
       "business"
     ],
-    "domain": "startup",
-    "score": 4
+    "domain": "business",
+    "score": 3
   },
   {
     "title": "Value Stream Mapping",
@@ -21387,6 +21811,17 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Value Stream Specification",
+    "url": "/patterns/value-stream-specification/",
+    "classification": [],
+    "description": "A pattern for explicitly specifying how each value stream operates: triggers, inputs, process steps, handoffs, quality gates, SLAs, and output verification \u2014 so that an agentic force can execute, moni",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
   },
   {
     "title": "Values Definition",
