@@ -1,38 +1,49 @@
---- 
+---
 layout: default
-title: Patterns — Commons Engineering
---- 
+title: Pattern — Commons Engineering
+---
 
 <style>
+  :root {
+    --brand-blue: #2a6496;
+    --brand-light-blue: #f4f8fa;
+    --text-dark: #2c3e50;
+    --text-light: #5a738e;
+    --border-color: #e6e9ed;
+  }
+
   .hero-section {
     background: var(--brand-light-blue);
     text-align: center;
-    padding: 60px 20px;
+    padding: 80px 20px;
   }
 
   .hero-content .hero-icon {
     font-size: 3em;
-    color: var(--brand-green);
     margin-bottom: 15px;
   }
 
   .hero-content h1 {
-    font-size: 2.5em;
+    font-size: 2.8em;
     color: var(--text-dark);
     font-weight: 600;
-    margin: 0 0 15px 0;
+    margin: 0 0 20px 0;
   }
 
   .hero-content .hero-subtitle {
-    font-size: 1.2em;
+    font-size: 1.3em;
     color: var(--text-light);
-    max-width: 700px;
-    margin: 0 auto 30px;
-    line-height: 1.6;
+    max-width: 750px;
+    margin: 0 auto;
+    line-height: 1.7;
   }
 
   .page-section {
-    padding: 60px 20px;
+    padding: 70px 20px;
+  }
+
+  .bg-white {
+    background: white;
   }
 
   .container {
@@ -42,20 +53,21 @@ title: Patterns — Commons Engineering
 
   .section-header {
     text-align: center;
-    margin-bottom: 40px;
+    margin-bottom: 50px;
   }
 
   .section-header h2 {
-    font-size: 2em;
+    font-size: 2.2em;
     color: var(--text-dark);
-    margin-bottom: 10px;
+    margin-bottom: 15px;
   }
 
   .section-header p {
-    font-size: 1.1em;
+    font-size: 1.15em;
     color: var(--text-light);
-    max-width: 600px;
+    max-width: 700px;
     margin: 0 auto;
+    line-height: 1.6;
   }
 
   .card-grid {
@@ -68,51 +80,57 @@ title: Patterns — Commons Engineering
     background: white;
     border: 1px solid var(--border-color);
     border-radius: 8px;
-    padding: 25px;
+    padding: 30px;
     text-decoration: none;
     color: inherit;
     transition: all 0.3s ease;
   }
 
-  .card:hover {
+  a.card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.07);
   }
 
   .card .card-icon {
-    font-size: 2em;
+    font-size: 2.5em;
     margin-bottom: 15px;
   }
 
   .card h3 {
     margin: 0 0 10px 0;
+    font-size: 1.4em;
   }
 
   .card p {
     color: var(--text-light);
     margin-bottom: 20px;
+    line-height: 1.7;
   }
 
   .card .card-meta {
     font-size: 0.9em;
-    font-weight: 500;
+    font-weight: 600;
     color: var(--brand-blue);
+  }
+
+  .card .card-meta.coming {
+    color: #999;
   }
 </style>
 
 <div class="hero-section">
   <div class="hero-content">
     <div class="hero-icon">⬡</div>
-    <h1>The Pattern Library</h1>
+    <h1>Explore Patterns</h1>
     <p class="hero-subtitle">A living library of proven, reusable solutions for building vital systems. Navigate by curated collections or explore by domain.</p>
   </div>
 </div>
 
-<div class="page-section">
+<div class="page-section bg-white">
   <div class="container">
     <div class="section-header">
       <h2>Curated Collections</h2>
-      <p>Guided paths through the pattern library. Start here.</p>
+      <p>Guided paths through the pattern library. Each collection is a coherent set of patterns designed to work together.</p>
     </div>
     <div class="card-grid">
       <a href="/patterns/commons-blueprint" class="card">
@@ -142,19 +160,19 @@ title: Patterns — Commons Engineering
         <div class="card-icon">🏙️</div>
         <h3>Urban</h3>
         <p>Patterns for cultivating resilient cities, neighborhoods, and public spaces.</p>
-        <div class="card-meta">Coming Soon</div>
+        <div class="card-meta coming">Coming Soon</div>
       </div>
       <div class="card">
         <div class="card-icon">🌿</div>
         <h3>Ecology</h3>
         <p>Patterns for stewarding regenerative ecosystems and bioregional economies.</p>
-        <div class="card-meta">Coming Soon</div>
+        <div class="card-meta coming">Coming Soon</div>
       </div>
       <div class="card">
         <div class="card-icon">🌱</div>
         <h3>Life</h3>
         <p>Core patterns of living systems that underpin all other domains.</p>
-        <div class="card-meta">Coming Soon</div>
+        <div class="card-meta coming">Coming Soon</div>
       </div>
     </div>
   </div>
