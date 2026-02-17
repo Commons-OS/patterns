@@ -1,100 +1,161 @@
----
-id: pat_{TYPEID}
-page_url: https://commons-os.github.io/patterns/{SLUG}/
-github_url: https://github.com/commons-os/patterns/blob/main/_patterns/{FILENAME}
-slug: {SLUG}
-title: {TITLE}
-aliases: [{ALIASES}]
-version: 1.0
-created: {CREATED_DATE}
-modified: {MODIFIED_DATE}
-tags:
-  universality: {universal|domain}
-  domain: {governance|operations|finance|technology|culture|security|privacy|sovereignty|startup}
-  category: [{framework|practice|principle|tool|structure|process|anti-pattern}]
-  era: [{pre-industrial|industrial|cognitive}]
-  origin: [{ORIGINATOR}]
-  status: draft
-  commons_alignment: {1-5}
-commons_domain: {business|security|startup|urban|ecology|life}
-generalizes_from: []
-specializes_to: []
-enables: []
-requires: []
-related: []
-contributors: [{CONTRIBUTORS}]
-sources: [{SOURCES}]
+--- 
+# ═══════════════════════════════════════════════════════════════════
+# GROUP 1: CORE IDENTITY
+# ═══════════════════════════════════════════════════════════════════
+id: pat_{TYPEID}                       # REQUIRED. UUID7-based TypeID.
+slug: {SLUG}                          # REQUIRED. Human-readable URL slug.
+title: "{TITLE}"                       # REQUIRED. The official title of the pattern.
+aliases: []                            # OPTIONAL. Alternative names for search expansion.
+summary: >-                            # REQUIRED. For cards and search snippets (1-2 sentences).
+  {A one-sentence summary of the pattern's core idea.}
+
+# ═══════════════════════════════════════════════════════════════════
+# GROUP 2: CONTEXTUAL TRANSLATION (The Navigator Engine)
+# ═══════════════════════════════════════════════════════════════════
+context_labels:
+  corporate: "{Corporate-friendly name}"
+  government: "{Government-friendly name}"
+  activist: "{Activist-friendly name}"
+  tech: "{Tech-friendly name}"
+
+# ═══════════════════════════════════════════════════════════════════
+# GROUP 3: ONTOLOGY & SEARCH OPTIMIZATION (The RAG Fuel)
+# ═══════════════════════════════════════════════════════════════════
+ontology:
+  domain: {finance|governance|...}     # The primary domain this pattern belongs to.
+  cross_domains: []                    # Other domains with strong connections.
+  search_hints:
+    primary_tension: "{Tension A} vs. {Tension B}"
+    vector_keywords: []
+  commons_assessment:
+    stakeholder_architecture: 3        # 1-5. Who has voice and power?
+    value_creation: 3                  # 1-5. Does it create shared value?
+    resilience: 3                      # 1-5. Can it adapt and survive shocks?
+    ownership: 3                       # 1-5. Is ownership distributed?
+    autonomy: 3                        # 1-5. Does it enable self-governance?
+    composability: 3                   # 1-5. Can it be combined with other patterns?
+    fractal_value: 3                   # 1-5. Does value creation repeat at every scale?
+    vitality: 3.0                      # NEW v7.1 — 0.0-5.0. Does it generate life?
+    vitality_reasoning: >-             # NEW v7.1 — Concise explanation (1-3 sentences).
+      {Reasoning for vitality score, including strengths and weaknesses.}
+    overall_score: 3.0                 # Calculated average (now includes vitality).
+
+# ═══════════════════════════════════════════════════════════════════
+# GROUP 4: LIFECYCLE & CONFIDENCE
+# ═══════════════════════════════════════════════════════════════════
+lifecycle:
+  usage_stage: design                  # {ideation|design|implementation|operation}
+  adoption_stage: emerging             # {emerging|growth|mature}
+  status: draft                        # {draft|revised|stable|deprecated}
+  version: 1.0
+  confidence: 2                        # {3|2|1} → ★★★|★★☆|★☆☆
+
+# ═══════════════════════════════════════════════════════════════════
+# GROUP 5: HARD RELATIONSHIPS (Human-Curated Graph)
+# ═══════════════════════════════════════════════════════════════════
+relationships:
+  generalizes_from: []
+  specializes_to: []
+  enables: []
+  requires: []
+  alternatives: []
+  complementary: []
+  tools: []
+
+# ═══════════════════════════════════════════════════════════════════
+# GROUP 6: GRAPH GARDEN (Machine-Written Graph)
+# ═══════════════════════════════════════════════════════════════════
+graph_garden:
+  last_pruned: {YYYY-MM-DD}
+  entities: []
+  communities: []
+  inferred_links: []
+
+# ═══════════════════════════════════════════════════════════════════
+# GROUP 7: PROVENANCE
+# ═══════════════════════════════════════════════════════════════════
+contributors: ["higgerix", "cloudsters"]
+sources: []
 license: CC-BY-SA-4.0
-attribution: Commons OS distributed by cloudsters, https://cloudsters.net
-repository: https://github.com/commons-os/patterns
+attribution: "commons.engineering by cloudsters, https://cloudsters.net"
 ---
 
-### 1. Overview
+> {A one-sentence summary of the pattern's core idea.}
 
-{Describe what the pattern is, the problem it solves, and its origin. 2-3 paragraphs.}
+> [!NOTE] Confidence Rating: ★★☆ (Medium)
+> This rating reflects our confidence that this pattern is a good and correct
+> solution to the stated problem. High (★★★) means it is a well-established,
+> proven pattern. Medium (★★☆) means it is a promising but not yet fully proven
+> solution. Low (★☆☆) means it is an emerging or experimental idea.
 
-### 2. Core Principles
+---
 
-{List the fundamental principles underlying the pattern.}
+### Section 1: Context
 
-1. **Principle 1**: {Description}
-2. **Principle 2**: {Description}
-3. **Principle 3**: {Description}
+*(100–200 words)*
 
-### 3. Key Practices
+{Describe the situation or environment in which the problem arises. Describe not just the structural situation but the living energy of the context — is this a system that is growing, stagnating, fragmenting, or decaying?}
 
-{List specific practices or methods used to implement the pattern.}
+---
 
-1. **Practice 1**: {Description}
-2. **Practice 2**: {Description}
-3. **Practice 3**: {Description}
+### Section 2: Problem
 
-### 4. Implementation
+*(100–200 words)*
 
-{Provide guidance on how to implement the pattern, including steps, considerations, and examples.}
+> **The core conflict is {State the Primary Tension from the frontmatter}.**
 
-**Steps:**
-1. {Step 1}
-2. {Step 2}
-3. {Step 3}
+{Describe the **forces** at play — the conflicting needs, constraints, and goals that make the problem difficult. What does it feel like to be caught between these forces?}
 
-**Considerations:**
-- {Consideration 1}
-- {Consideration 2}
+-   **Force 1:** {Description of the first conflicting need or constraint.}
+-   **Force 2:** {Description of the second conflicting need or constraint.}
+-   **Force 3:** {Description of the third conflicting need or constraint.}
 
-**Example:**
-{Provide a real-world example of this pattern in action.}
+---
 
-### 5. 7 Pillars Assessment
+### Section 3: Solution
 
-| Pillar | Score (1-5) | Rationale |
-|--------|-------------|-----------|
-| Purpose | {X} | {Why this score} |
-| Governance | {X} | {Why this score} |
-| Culture | {X} | {Why this score} |
-| Incentives | {X} | {Why this score} |
-| Knowledge | {X} | {Why this score} |
-| Technology | {X} | {Why this score} |
-| Resilience | {X} | {Why this score} |
-| **Overall** | **{X.X}** | **{Summary of commons alignment}** |
+*(200–400 words)*
 
-### 6. When to Use
+> **Therefore, {State the core instruction of the solution in one bold sentence}.**
 
-{Describe ideal contexts for this pattern.}
+{Provide a detailed explanation. Describe the structure, participants, and collaborations involved. Explain the mechanism — how and why the solution resolves the forces described in Section 2. Include a diagram if it helps clarify the structure.}
 
-- {Context 1}
-- {Context 2}
-- {Context 3}
+---
 
-### 7. Anti-Patterns & Gotchas
+### Section 4: Implementation
 
-{List common mistakes, misapplications, or things to watch out for.}
+*(300–500 words)*
 
-- **{Anti-pattern 1}**: {Description}
-- **{Anti-pattern 2}**: {Description}
-- **{Anti-pattern 3}**: {Description}
+{Provide concrete, actionable steps for implementing the solution. This section should feel like a practical guide, not a theoretical treatise. Use code snippets, configuration examples, checklists, or step-by-step instructions. Frame the steps as acts of cultivation — tending, protecting, and growing the living system.}
 
-### 8. References
+---
 
-[1] {Author}. ({Year}). *{Title}*. {Publisher/URL}. Retrieved from {URL}
-[2] {Author}. ({Year}). *{Title}*. {Publisher/URL}. Retrieved from {URL}
+### Section 5: Consequences
+
+*(200–300 words)*
+
+{Describe the trade-offs and implications of implementing this pattern. What new capacities for life does it create? What forms of decay does it make possible if not tended carefully? What are the known failure modes?}
+
+---
+
+### Section 6: Known Uses
+
+*(200–300 words)*
+
+{Provide at least two real-world examples of this pattern in action. Tell the stories of these living systems — don't just state facts. Link to the organizations or projects if possible.}
+
+---
+
+### Section 7: Cognitive Era
+
+*(150–250 words)*
+
+{How does this pattern change in the Cognitive Age? How does it interact with AI, autonomous agents, and distributed intelligence? Does it enable new forms of life and partnership? Does it create new vulnerabilities?}
+
+---
+
+### Section 8: Vitality
+
+*(200–300 words)*
+
+{This is the explicit diagnostic section. What does vitality look like in a system that uses this pattern? What are the signs of life? Conversely, what does decay look like? What are the warning signs that the pattern is being implemented in a way that stifles life? This section should provide a clear, actionable diagnostic for assessing the health of the pattern in practice.}
