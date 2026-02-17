@@ -1,5 +1,5 @@
-# Commons OS Pattern Library - Jekyll Configuration
-title: Commons OS Pattern Library
+# Commons Engineering - Jekyll Configuration
+title: Commons Engineering
 description: "The discipline and pattern library for Commons Engineers building resilient, living systems for the Cognitive Age."
 url: "https://commons-os.github.io"
 baseurl: "/patterns"
