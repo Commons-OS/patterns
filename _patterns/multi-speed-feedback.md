@@ -1,5 +1,5 @@
 ---
-id: pat_01KHM0CW1B4R4EXTAARDDFH67Y
+id: pat_01khm0cw1b4r4extaarddfh67y
 slug: multi-speed-feedback
 title: Multi-Speed Feedback
 aliases:
@@ -7,8 +7,8 @@ aliases:
 - Variable-Speed Governance
 - Adaptive Response Cadence
 - Nested Feedback Loops
-summary: A pattern for designing a holistic feedback architecture with distinct speeds—operational, tactical, strategic, and
-  evolutionary—to ensure a system can respond appropriately to different types of signals.
+summary: A pattern for designing a holistic feedback architecture with distinct speeds—operational, tactical, strategic, and evolutionary—to ensure a system can respond appropriately to different types
+  of signals.
 context_labels:
   corporate: Strategic-Tactical-Operational Alignment
   government: Policy Feedback Mechanisms
@@ -105,7 +105,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A pattern for specifying the complete feedback architecture of a living system: fast loops (operational, minutes-hours), medium loops (tactical, days-weeks), slow loops (strategic, weeks-months), and meta loops (evolutionary, months-years) — each with defined triggers, response protocols, authority levels, and connections to adjacent speeds.
 
 ### 1. Context
 

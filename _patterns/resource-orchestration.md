@@ -1,13 +1,12 @@
 ---
-id: pat_01KHM0PW5B0T5QTX7EQDRQMYD4
+id: pat_01khm0pw5b0t5qtx7eqdrqmyd4
 slug: resource-orchestration
 title: Resource Orchestration
 aliases:
 - Dynamic Resource Allocation
 - Adaptive Resource Management
 - Resource Scheduling and Balancing
-summary: A pattern for dynamically allocating, reallocating, and contesting resources—such as human attention, compute, capital,
-  and assets—across competing operational demands in real time.
+summary: A pattern for dynamically allocating, reallocating, and contesting resources—such as human attention, compute, capital, and assets—across competing operational demands in real time.
 context_labels:
   corporate: Resource Management
   government: Budget Allocation
@@ -57,12 +56,10 @@ relationships:
     description: A coordination protocol is necessary to prevent resource contention and manage dependencies between services.
   - id: operational-cadence
     weight: 0.8
-    description: Operational cadence defines the rhythm and timing for when resources are predictably needed, forming the
-      baseline for dynamic allocation.
+    description: Operational cadence defines the rhythm and timing for when resources are predictably needed, forming the baseline for dynamic allocation.
   - id: solution-architecture
     weight: 0.7
-    description: The solution architecture specifies the components and their resource requirements, defining what resources
-      are needed to deliver value.
+    description: The solution architecture specifies the components and their resource requirements, defining what resources are needed to deliver value.
   generalizes_from:
   - commons-blueprint
 graph_garden:
@@ -88,7 +85,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A pattern for specifying how resources—human attention, agent compute, financial capital, physical assets—are allocated, reallocated, and contested across competing operational demands in real time.
 
 ### 1. Context
 

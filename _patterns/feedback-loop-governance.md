@@ -1,13 +1,12 @@
 ---
-id: pat_01KHM0F33GWBPPYX6VZ0NJ1GTH
+id: pat_01khm0f33gwbppyx6vz0nj1gth
 slug: feedback-loop-governance
 title: Feedback Loop Governance
 aliases:
 - Adaptive Governance Framework
 - Responsive Control Model
 - Systemic Authority Matrix
-summary: A pattern for defining and technically enforcing decision-making authority across different speeds of feedback within
-  a system, ensuring both rapid response and strategic alignment.
+summary: A pattern for defining and technically enforcing decision-making authority across different speeds of feedback within a system, ensuring both rapid response and strategic alignment.
 context_labels:
   corporate: Decision Rights & Escalation Policy
   government: Responsive Public Administration
@@ -82,6 +81,7 @@ provenance:
   - higgerix
   - cloudsters
 ---
+
 > **A pattern for specifying who has authority to act at each feedback speed: what agents can do autonomously in fast loops, what requires human approval in medium loops, what requires leadership deliberation in slow loops, and what requires community governance in meta loops.**
 
 ### 1. Context

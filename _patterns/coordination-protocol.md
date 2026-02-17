@@ -1,13 +1,12 @@
 ---
-id: pat_01KHM0JT0Y600QQCPG8BYTB811
+id: pat_01khm0jt0y600qqcpg8bytb811
 slug: coordination-protocol
 title: Coordination Protocol
 aliases:
 - Shared State Management
 - Multi-Agent Synchronization
 - Distributed Consensus Rules
-summary: A set of rules and signals that enable multiple independent actors to align their actions, share information, and
-  avoid conflicts to achieve a collective goal.
+summary: A set of rules and signals that enable multiple independent actors to align their actions, share information, and avoid conflicts to achieve a collective goal.
 context_labels:
   corporate: Cross-Functional Team Alignment
   government: Inter-Agency Taskforce Operations
@@ -75,7 +74,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A set of rules and signals that enable multiple independent actors to align their actions, share information, and avoid conflicts to achieve a collective goal.
 
 ### 1. Context
 

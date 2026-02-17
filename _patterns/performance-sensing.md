@@ -1,13 +1,12 @@
 ---
-id: pat_01KHM0CNG6DK10E2EFE33DYHNW
+id: pat_01khm0cng6dk10e2efe33dyhnw
 slug: performance-sensing
 title: Performance Sensing
 aliases:
 - Organizational Observability
 - System Health Monitoring
 - Value Flow Analytics
-summary: A pattern for specifying what a living system must perceive about its own internal state and performance, enabling
-  continuous awareness and adaptive response.
+summary: A pattern for specifying what a living system must perceive about its own internal state and performance, enabling continuous awareness and adaptive response.
 context_labels:
   corporate: KPI Frameworks & Business Observability
   government: Public Service Performance Measurement
@@ -105,7 +104,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A pattern for specifying what a living system must perceive about its own internal state: which metrics matter for each entity type, what are lead vs. lag indicators, what thresholds distinguish normal variation from signal, and how health scores are computed.
 
 ### 1. Context
 

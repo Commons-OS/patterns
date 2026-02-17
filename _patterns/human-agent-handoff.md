@@ -1,13 +1,12 @@
 ---
-id: pat_01KHM0EJXH8B2D48FNY0P907T1
+id: pat_01khm0ejxh8b2d48fny0p907t1
 slug: human-agent-handoff
 title: Human-Agent Handoff
 aliases:
 - Human-in-the-Loop
 - Agent Escalation Protocol
 - Human-AI Collaboration Model
-summary: A pattern for specifying the boundary between agent execution and human judgment, including handoff triggers, context
-  transfer protocols, and approval gates.
+summary: A pattern for specifying the boundary between agent execution and human judgment, including handoff triggers, context transfer protocols, and approval gates.
 context_labels:
   corporate: RACI for AI
   government: Human Oversight Requirements
@@ -74,7 +73,6 @@ provenance:
   license: CC-BY-SA-4.0
   attribution: commons.engineering by cloudsters
 ---
-> A pattern for specifying the boundary between agent execution and human judgment: handoff triggers, context transfer protocols, approval gates, override mechanisms, trust calibration, and the conditions under which authority shifts.
 
 ### 1. Context
 

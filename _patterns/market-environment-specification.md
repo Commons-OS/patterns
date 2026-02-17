@@ -1,13 +1,12 @@
 ---
-id: pat_01KHM0FQS5VCJ4YBSWKG42PTPY
+id: pat_01khm0fqs5vcj4ybswkg42ptpy
 slug: market-environment-specification
 title: Market Environment Specification
 aliases:
 - Environmental Scanning
 - Market Landscape Analysis
 - PESTLE+T Analysis
-summary: A pattern for systematically scanning, modeling, and monitoring the external forces that shape, constrain, and create
-  opportunities for a value creation system.
+summary: A pattern for systematically scanning, modeling, and monitoring the external forces that shape, constrain, and create opportunities for a value creation system.
 context_labels:
   corporate: PESTLE Analysis
   government: Policy Environment Scan
@@ -54,17 +53,14 @@ relationships:
   enables:
   - id: scenario-specification
     weight: 0.7
-    description: A clear specification of the market environment provides the foundational inputs and driving forces for developing
-      robust future scenarios.
+    description: A clear specification of the market environment provides the foundational inputs and driving forces for developing robust future scenarios.
   requires:
   - id: environment-sensing
     weight: 0.9
-    description: The specification is continuously updated and validated by data and signals gathered through active Environment
-      Sensing.
+    description: The specification is continuously updated and validated by data and signals gathered through active Environment Sensing.
   - id: value-proposition-design
     weight: 0.7
-    description: The value proposition must be designed and validated against the realities of the specified market environment
-      to ensure its relevance and viability.
+    description: The value proposition must be designed and validated against the realities of the specified market environment to ensure its relevance and viability.
   - id: scenario-specification
     weight: 0.7
     description: Required by scenario-specification (symmetric to enables relationship)
@@ -89,7 +85,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A pattern for systematically scanning, modeling, and monitoring the external forces that shape, constrain, and create opportunities for a value creation system.
 
 ### 1. Context
 

@@ -1,13 +1,12 @@
 ---
-id: pat_01KHM0PV5YZ795ECFP8P1CZPSK
+id: pat_01khm0pv5yz795ecfp8p1czpsk
 slug: graduated-sanctions
 title: Graduated Sanctions
 aliases:
 - Escalating Penalties
 - Progressive Discipline
 - Responsive Enforcement
-summary: A system of responses to rule violations that starts with gentle reminders and increases in severity with repeated
-  offenses, fostering fairness and encouraging compliance.
+summary: A system of responses to rule violations that starts with gentle reminders and increases in severity with repeated offenses, fostering fairness and encouraging compliance.
 context_labels:
   corporate: Progressive Disciplinary Policy
   government: Graduated Enforcement Pyramid
@@ -54,8 +53,7 @@ relationships:
   enables:
   - id: conflict-resolution-mechanism
     weight: 0.7
-    description: Provides a structured path for addressing violations before they require formal conflict resolution, and
-      a clear escalation path when they do.
+    description: Provides a structured path for addressing violations before they require formal conflict resolution, and a clear escalation path when they do.
   requires:
   - id: governance-design
     weight: 0.9
@@ -66,8 +64,8 @@ relationships:
   alternatives:
   - id: anomaly-response
     weight: 0.6
-    description: While both address deviations, Graduated Sanctions are a governance-level response to intentional rule-breaking,
-      whereas Anomaly Response is an operational-level reaction to system performance issues.
+    description: While both address deviations, Graduated Sanctions are a governance-level response to intentional rule-breaking, whereas Anomaly Response is an operational-level reaction to system performance
+      issues.
   complementary: []
 graph_garden:
   last_pruned: '2026-02-16'
@@ -91,7 +89,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A system of responses to rule violations that starts with gentle reminders and increases in severity with repeated offenses, fostering fairness and encouraging compliance.
 
 ### 1. Context
 

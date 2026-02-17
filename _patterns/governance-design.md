@@ -1,13 +1,12 @@
 ---
-id: pat_01KHM0CM5QTN22ZCVG8BYE477A
+id: pat_01khm0cm5qtn22zcvg8bye477a
 slug: governance-design
 title: Governance Design
 aliases:
 - Constitutional Design
 - Institutional Framework
 - Decision-Making Architecture
-summary: A pattern for establishing robust, fair, and adaptable decision-making structures that ensure a commons serves its
-  purpose and balances the needs of all stakeholders.
+summary: A pattern for establishing robust, fair, and adaptable decision-making structures that ensure a commons serves its purpose and balances the needs of all stakeholders.
 context_labels:
   corporate: Corporate Governance Framework
   government: Constitutional and Policy Design
@@ -108,7 +107,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A pattern for establishing robust, fair, and adaptable decision-making structures that ensure a commons serves its purpose and balances the needs of all stakeholders.
 
 ### 1. Context
 

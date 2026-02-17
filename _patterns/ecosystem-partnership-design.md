@@ -1,13 +1,12 @@
 ---
-id: pat_01KHM0PP0QW6RB1R861RG6DFH1
+id: pat_01khm0pp0qw6rb1r861rg6dfh1
 slug: ecosystem-partnership-design
 title: Ecosystem Partnership Design
 aliases:
 - Strategic Alliance Formation
 - Collaborative Network Weaving
 - Value Web Creation
-summary: A pattern for designing and cultivating intentional partnerships within a broader ecosystem to create shared value
-  and enhance collective resilience.
+summary: A pattern for designing and cultivating intentional partnerships within a broader ecosystem to create shared value and enhance collective resilience.
 context_labels:
   corporate: Strategic Alliance Management
   government: Public-Private Partnership (PPP) Structuring
@@ -76,7 +75,6 @@ provenance:
   license: CC-BY-SA-4.0
   attribution: commons.engineering by cloudsters
 ---
-> A pattern for designing and cultivating intentional partnerships within a broader ecosystem to create shared value and enhance collective resilience.
 
 ### 1. Context
 

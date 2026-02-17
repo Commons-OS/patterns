@@ -1,13 +1,12 @@
 ---
-id: pat_01H8X8Z9QJ0000000000000000
+id: pat_01khndsajjfkrrg6jrkh9anw3e
 slug: purpose-definition
 title: Purpose Definition
 aliases:
 - Mission Definition
 - Core Purpose Articulation
 - Organizational Raison d'être
-summary: A pattern for articulating and maintaining the foundational reason a value creation system exists, anchoring all
-  other architectural decisions.
+summary: A pattern for articulating and maintaining the foundational reason a value creation system exists, anchoring all other architectural decisions.
 context_labels:
   corporate: Mission Statement Design
   government: Public Mandate Definition
@@ -119,7 +118,6 @@ provenance:
   license: CC-BY-SA-4.0
   attribution: commons.engineering by cloudsters
 ---
-> A pattern for articulating and maintaining the foundational reason a value creation system exists, anchoring all other architectural decisions.
 
 ### 1. Context
 

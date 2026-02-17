@@ -1,13 +1,12 @@
 ---
-id: pat_01KHM0PPE7J9XR5K22KE6VEG79
+id: pat_01khm0ppe7j9xr5k22ke6veg79
 slug: community-and-participation-model
 title: Community & Participation Model
 aliases:
 - Community Engagement Model
 - Stakeholder Participation Framework
 - Collaborative Governance Model
-summary: A pattern for designing and nurturing a vibrant community by defining clear roles, responsibilities, and pathways
-  for meaningful participation.
+summary: A pattern for designing and nurturing a vibrant community by defining clear roles, responsibilities, and pathways for meaningful participation.
 context_labels:
   corporate: Employee Engagement & Culture
   government: Civic Engagement & Public Consultation
@@ -81,6 +80,7 @@ provenance:
   license: CC-BY-SA-4.0
   attribution: commons.engineering by cloudsters
 ---
+
 ### 1. Context
 
 A commons, regardless of its domain, is fundamentally a social structure. It is brought into being and sustained by a group of people united by a shared purpose and a dependency on a common resource. Whether this resource is a codebase, a neighborhood garden, a knowledge repository, or a business ecosystem, its long-term viability does not depend solely on its quality or utility, but on the vibrancy of the community that stewards it. In the initial stages, a founding group often provides the energy and direction. However, for the commons to scale and endure, it must evolve beyond this core team. It encounters the challenge of integrating new members, each with varying levels of skill, motivation, and available time. Without a clear and intentional structure for engagement, a community risks stagnating. The enthusiasm of early adopters wanes, potential contributors are unsure how to help, and the majority of members drift into a state of passive consumption, placing the burden of maintenance on an ever-shrinking group of active participants. This is the critical juncture where a deliberate model for community and participation becomes not just beneficial, but essential for survival and growth.

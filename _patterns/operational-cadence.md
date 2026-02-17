@@ -1,5 +1,5 @@
 ---
-id: pat_01KHM0CV9W75DNTQKB3TDGRKR7
+id: pat_01khm0cv9w75dntqkb3tdgrkr7
 slug: operational-cadence
 title: Operational Cadence
 aliases:
@@ -7,8 +7,7 @@ aliases:
 - Organizational Tempo
 - System Cadence
 - Governance Rhythm
-summary: A pattern for establishing a predictable rhythm of operational activities, ensuring alignment and synchronization
-  across a system through a nested hierarchy of cadences from continuous to annual.
+summary: A pattern for establishing a predictable rhythm of operational activities, ensuring alignment and synchronization across a system through a nested hierarchy of cadences from continuous to annual.
 context_labels:
   corporate: Operational Rhythm
   government: Governance Cycle
@@ -102,7 +101,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A pattern for specifying the temporal rhythm of a living system: what happens at each frequency (continuous, daily, weekly, monthly, quarterly, annually), what synchronizes, and how different cadences nest.
 
 ### 1. Context
 

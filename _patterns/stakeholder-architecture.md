@@ -1,14 +1,13 @@
 ---
-id: pat_01KHM0MAQPSJMRBB1NQFRWK64A
+id: pat_01khm0maqpsjmrbb1nqfrwk64a
 slug: stakeholder-architecture
 title: Stakeholder Architecture
 aliases:
 - Multi-Stakeholder Design
 - Systemic Stakeholder Modeling
 - Ecosystem Mapping
-summary: A pattern for systematically identifying, classifying, and modeling all parties who affect or are affected by a value
-  creation system, including those traditionally excluded or without a voice. It embeds this model as a foundational architectural
-  layer to ensure systemic health and equitable value distribution.
+summary: A pattern for systematically identifying, classifying, and modeling all parties who affect or are affected by a value creation system, including those traditionally excluded or without a voice.
+  It embeds this model as a foundational architectural layer to ensure systemic health and equitable value distribution.
 context_labels:
   corporate: Stakeholder Engagement Strategy
   government: Citizen-Centric Service Design
@@ -107,7 +106,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A pattern for systematically identifying, classifying, and modeling all parties who affect or are affected by a value creation system, including those traditionally excluded or without a voice.
 
 ### 1. Context
 

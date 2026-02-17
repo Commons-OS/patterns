@@ -1,5 +1,5 @@
 ---
-id: pat_01KHM0N1Y4EJBWYV1WWAZ7P2CP
+id: pat_01khm0n1y4ejbwyv1wwaz7p2cp
 slug: culture-and-workforce-specification
 title: Culture & Workforce Specification
 aliases:
@@ -7,8 +7,7 @@ aliases:
 - Cultural Blueprint
 - Team Composition Strategy
 - Organizational Identity Framework
-summary: A pattern for deliberately defining the desired organizational culture and specifying the workforce capabilities,
-  roles, and composition required to enact it.
+summary: A pattern for deliberately defining the desired organizational culture and specifying the workforce capabilities, roles, and composition required to enact it.
 context_labels:
   corporate: Corporate Culture and Talent Strategy
   government: Public Sector Workforce Planning
@@ -85,7 +84,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A pattern for deliberately defining the desired organizational culture and specifying the workforce capabilities, roles, and composition required to enact it.
 
 ### 1. Context
 

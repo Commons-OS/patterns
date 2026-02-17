@@ -1,13 +1,12 @@
 ---
-id: pat_01KHM0CNT8229CN89YV8C4BKEZ
+id: pat_01khm0cnt8229cn89yv8c4bkez
 slug: feedback-escalation
 title: Feedback Escalation
 aliases:
 - Issue Escalation Protocol
 - Signal Amplification
 - Hierarchical Feedback Routing
-summary: A structured process for elevating critical feedback, anomalies, or unresolved issues from a lower-level operational
-  team to a higher-level strategic or specialized function for resolution.
+summary: A structured process for elevating critical feedback, anomalies, or unresolved issues from a lower-level operational team to a higher-level strategic or specialized function for resolution.
 context_labels:
   corporate: Customer Support Escalation Path
   government: Public Grievance Redressal Mechanism
@@ -93,6 +92,7 @@ provenance:
   - higgerix
   - cloudsters
 ---
+
 ### 1. Context
 
 In any complex system, from a multinational corporation to a local food cooperative, information and issues arise at different levels of granularity. Frontline teams are adept at handling day-to-day operational challenges, but they often lack the broader perspective or authority to address systemic problems. Conversely, strategic leadership has the global view but is disconnected from the granular details of daily operations. This creates a gap where critical information can be lost or ignored. Issues that are minor in isolation can accumulate into significant systemic risks if not properly identified, aggregated, and elevated. Without a formal mechanism to bridge this gap, organizations become either paralyzed by information overload at the top or blinded by a lack of critical feedback from the ground. The system's ability to learn, adapt, and evolve is fundamentally constrained by its ability to move information effectively between its different functional layers. This pattern addresses the need for a structured, reliable 

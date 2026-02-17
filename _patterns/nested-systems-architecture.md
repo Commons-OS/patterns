@@ -1,13 +1,12 @@
 ---
-id: pat_01KHM0NHJGC6PQHZ02QW3TXQMG
+id: pat_01khm0nhjgc6pqhz02qw3txqmg
 slug: nested-systems-architecture
 title: Nested Systems Architecture
 aliases:
 - Holonic Architecture
 - System of Systems
 - Recursive Organization
-summary: A structural pattern where autonomous, self-reliant systems are recursively composed into larger, more complex systems,
-  enabling both subsystem integrity and whole-system coherence.
+summary: A structural pattern where autonomous, self-reliant systems are recursively composed into larger, more complex systems, enabling both subsystem integrity and whole-system coherence.
 context_labels:
   corporate: Divisional Structure
   government: Federalism
@@ -88,7 +87,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A structural pattern where autonomous, self-reliant systems are recursively composed into larger, more complex systems, enabling both subsystem integrity and whole-system coherence.
 
 ### 1. Context
 

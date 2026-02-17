@@ -1,13 +1,12 @@
 ---
-id: pat_01KHM0GNSX77BG00KFKQYGV5B0
+id: pat_01khm0gnsx77bg00kfkqygv5b0
 slug: transformation-sequencing
 title: Transformation Sequencing
 aliases:
 - Purpose-Outward Architecture
 - Value-Driven Design
 - Strategic Transformation Flow
-summary: A pattern for structuring architectural and organizational decisions in a fixed sequence from purpose outward, ensuring
-  every system element traces back to why the system exists.
+summary: A pattern for structuring architectural and organizational decisions in a fixed sequence from purpose outward, ensuring every system element traces back to why the system exists.
 context_labels:
   corporate: Purpose-Led Architecture
   government: Mission-Driven Design
@@ -81,7 +80,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A pattern for structuring architectural and organizational decisions in a fixed sequence from purpose outward, ensuring every system element traces back to why the system exists.
 
 ### 1. Context
 

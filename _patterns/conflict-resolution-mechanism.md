@@ -1,5 +1,5 @@
 ---
-id: pat_01KHM0KG4V2E04365Y61FD1PKP
+id: pat_01khm0kg4v2e04365y61fd1pkp
 slug: conflict-resolution-mechanism
 title: Conflict Resolution Mechanism
 aliases:
@@ -78,7 +78,6 @@ provenance:
   license: CC-BY-SA-4.0
   attribution: commons.engineering by cloudsters
 ---
-> A structured process for addressing and resolving disagreements between stakeholders in a fair and transparent manner.
 
 ### 1. Context
 

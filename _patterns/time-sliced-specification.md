@@ -1,13 +1,12 @@
 ---
-id: pat_01KHM0D9WBXDA6Z368YE0KYKNS
+id: pat_01khm0d9wbxda6z368ye0kykns
 slug: time-sliced-specification
 title: Time-Sliced Specification
 aliases:
 - Multi-Horizon Planning
 - Temporal Modeling
 - Evolutionary Architecture
-summary: A pattern for maintaining multiple, simultaneous temporal models of a system (Now, Next, Horizon) to enable systematic
-  comparison, reveal strategic gaps, and guide evolutionary development.
+summary: A pattern for maintaining multiple, simultaneous temporal models of a system (Now, Next, Horizon) to enable systematic comparison, reveal strategic gaps, and guide evolutionary development.
 context_labels:
   corporate: Strategic Roadmap Horizons
   government: Multi-Horizon Policy Design
@@ -50,16 +49,14 @@ relationships:
   enables:
   - id: gap-analysis
     weight: 0.9
-    description: Time slices reveal gaps between the current state (Now), the near-term future (Next), and the long-term vision
-      (Horizon).
+    description: Time slices reveal gaps between the current state (Now), the near-term future (Next), and the long-term vision (Horizon).
   - id: scenario-specification
     weight: 0.8
     description: The Horizon timeslice provides a concrete temporal frame for developing and evaluating long-term scenarios.
   complementary:
   - id: scenario-specification
     weight: 0.8
-    description: Scenarios inform the aspirational state modeled in the Horizon timeslice, while the timeslice structure provides
-      a framework for acting on scenario insights.
+    description: Scenarios inform the aspirational state modeled in the Horizon timeslice, while the timeslice structure provides a framework for acting on scenario insights.
   requires:
   - id: scenario-specification
     weight: 0.8
@@ -88,6 +85,7 @@ provenance:
   - higgerix
   - cloudsters
 ---
+
 ### 1. Context
 
 Practitioners in any complex endeavor, from corporate strategists to urban planners and software architects, constantly face the challenge of reconciling long-term vision with immediate operational demands. Organizations often operate in a state of temporal dissonance, where the five-year strategic plan feels disconnected from the urgent realities of the current quarter or sprint. The long-term vision provides direction but lacks immediate actionability, while short-term plans are concrete but risk becoming myopic, optimizing for local efficiencies at the expense of the overall strategic trajectory. This disconnect creates a significant gap in understanding and execution; the path from the current state to the desired future remains an unmapped territory, discussed in abstract terms but rarely modeled with rigor. Traditional annual planning cycles attempt to bridge this divide, but their output is typically a static document that quickly becomes obsolete in a volatile environment. Conversely, purely agile methods, while excellent at adapting to change, can lead to a random walk, where the organization drifts without a coherent, long-term narrative. The fundamental challenge is to create a living model of strategy that is both grounded in present reality and dynamically steering toward a desired future.

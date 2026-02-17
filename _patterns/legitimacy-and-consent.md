@@ -1,13 +1,13 @@
 ---
-id: pat_01KHM0QZR7N6XE1XTK69RRNEV4
+id: pat_01khm0qzr7n6xe1xtk69rrnev4
 slug: legitimacy-and-consent
 title: Legitimacy & Consent
 aliases:
 - Consent-Based Governance
 - Participatory Authority
 - Dynamic Legitimacy
-summary: A pattern for building resilient and effective governance systems by continuously earning legitimacy through transparent,
-  participatory processes where authority is dynamically granted and revoked by the community.
+summary: A pattern for building resilient and effective governance systems by continuously earning legitimacy through transparent, participatory processes where authority is dynamically granted and revoked
+  by the community.
 context_labels:
   corporate: Stakeholder Engagement & Buy-in
   government: Public Trust & Mandate
@@ -107,7 +107,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A pattern for building resilient and effective governance systems by continuously earning legitimacy through transparent, participatory processes where authority is dynamically granted and revoked by the community.
 
 ### 1. Context
 

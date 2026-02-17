@@ -1,13 +1,13 @@
 ---
-id: pat_01KHM0H7EME3DYJVTP1N4CWKAM
+id: pat_01khm0h7eme3dyjvtp1n4cwkam
 slug: environment-sensing
 title: Environment Sensing
 aliases:
 - Environmental Scanning
 - Horizon Scanning
 - Situational Awareness
-summary: 'A pattern for specifying how a living system perceives its external environment: which signals to monitor, from
-  which sources, at what cadence, with what interpretation rules, and what thresholds trigger response.'
+summary: 'A pattern for specifying how a living system perceives its external environment: which signals to monitor, from which sources, at what cadence, with what interpretation rules, and what thresholds
+  trigger response.'
 context_labels:
   corporate: Market Intelligence
   government: Policy Environment Monitoring
@@ -83,7 +83,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A pattern for specifying how a living system perceives its external environment: which signals to monitor, from which sources, at what cadence, with what interpretation rules, and what thresholds trigger response.
 
 ### 1. Context
 

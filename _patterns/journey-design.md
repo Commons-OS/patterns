@@ -1,13 +1,12 @@
 ---
-id: pat_01KHM0RCVWSANCESCD3WC8840C
+id: pat_01khm0rcvwsancescd3wc8840c
 slug: journey-design
 title: Journey Design
 aliases:
 - User Journey Mapping
 - Experience Design
 - Customer Journey Orchestration
-summary: A pattern for systematically understanding and designing the path a stakeholder takes to interact with a system,
-  product, or service to achieve a specific goal.
+summary: A pattern for systematically understanding and designing the path a stakeholder takes to interact with a system, product, or service to achieve a specific goal.
 context_labels:
   corporate: Customer Experience (CX) Design
   government: Citizen Service Delivery Blueprint
@@ -82,6 +81,7 @@ provenance:
   license: CC-BY-SA-4.0
   attribution: commons.engineering by cloudsters
 ---
+
 ### 1. Context
 
 In any system designed for human use—be it a digital application, a public service, or a retail environment—value is ultimately realized through the stakeholder's experience. Yet, organizations often design their processes from the inside out. They build workflows based on internal departments, legacy technologies, and operational efficiencies. The result is a fragmented and often frustrating experience for the very people the system is meant to serve. A citizen navigating a government website for a permit might be forced to interact with three different agencies, each with its own jargon and interface. A patient seeking care might be bounced between administrative staff, nurses, and specialists, repeating their story at each step. This operational focus, while logical from the organization's perspective, creates a maze for the user. They are forced to piece together a coherent path from a collection of disjointed touchpoints, leading to confusion, abandonment, and a fundamental failure to deliver the intended value.

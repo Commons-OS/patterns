@@ -1,13 +1,12 @@
 ---
-id: pat_01KHM0CES9HC9AP8HSS34D2BD6
+id: pat_01khm0ces9hc9ap8hss34d2bd6
 slug: scenario-specification
 title: Scenario Specification
 aliases:
 - Scenario Planning
 - Future Scripting
 - Alternative Futures Analysis
-summary: A pattern for systematically exploring multiple plausible futures to stress-test strategies, reveal hidden risks
-  and opportunities, and build organizational resilience against deep uncertainty.
+summary: A pattern for systematically exploring multiple plausible futures to stress-test strategies, reveal hidden risks and opportunities, and build organizational resilience against deep uncertainty.
 context_labels:
   corporate: Strategic Scenario Planning
   government: Policy Future Analysis
@@ -74,8 +73,7 @@ relationships:
   complementary:
   - id: time-sliced-specification
     weight: 0.8
-    description: Scenarios and time slices work together, with scenarios defining the 'what' and time-slices defining the
-      'when'.
+    description: Scenarios and time slices work together, with scenarios defining the 'what' and time-slices defining the 'when'.
 graph_garden:
   last_pruned: '2026-02-16'
   entities:
@@ -96,7 +94,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A pattern for systematically exploring multiple plausible futures to stress-test strategies, reveal hidden risks and opportunities, and build organizational resilience against deep uncertainty.
 
 ### 1. Context
 

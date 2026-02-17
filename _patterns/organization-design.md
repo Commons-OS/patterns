@@ -1,5 +1,5 @@
 ---
-id: pat_01KHM0G4D004Q22AV7GPQ5BKM7
+id: pat_01khm0g4d004q22av7gpq5bkm7
 slug: organization-design
 title: Organization Design
 aliases:
@@ -7,8 +7,7 @@ aliases:
 - Team Topology
 - Structural Design
 - Operating Model Design
-summary: A pattern for structuring teams, departments, and governance relationships to align with value creation and strategic
-  intent, rather than historical accident or functional silos.
+summary: A pattern for structuring teams, departments, and governance relationships to align with value creation and strategic intent, rather than historical accident or functional silos.
 context_labels:
   corporate: Org Chart Design
   government: Departmental Structure
@@ -52,8 +51,7 @@ relationships:
   requires:
   - id: capability-specification
     weight: 0.9
-    description: Capabilities define what the organization must be able to do, which in turn informs the required organizational
-      structure.
+    description: Capabilities define what the organization must be able to do, which in turn informs the required organizational structure.
   - id: self-organization-and-subsidiarity
     weight: 0.8
     description: Required by self-organization-and-subsidiarity (symmetric to enables relationship)
@@ -63,8 +61,7 @@ relationships:
     description: The designed organizational structure is a primary driver of the resulting culture and workforce dynamics.
   - id: self-organization-and-subsidiarity
     weight: 0.8
-    description: A well-defined organization design clarifies the boundaries and contexts in which self-organization and subsidiarity
-      can thrive.
+    description: A well-defined organization design clarifies the boundaries and contexts in which self-organization and subsidiarity can thrive.
   generalizes_from:
   - commons-blueprint
 graph_garden:
@@ -89,7 +86,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A pattern for structuring teams, departments, and governance relationships to align with value creation rather than functional silos.
 
 ### 1. Context
 

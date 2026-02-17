@@ -1,13 +1,13 @@
 ---
-id: pat_01KHM0GSXDNYT0C9XY891KZ00E
+id: pat_01khm0gsxdnyt0c9xy891kz00e
 slug: structural-integrity-audit
 title: Structural Integrity Audit
 aliases:
 - Architecture Compliance Review
 - System Coherence Check
 - Structural Verification
-summary: A periodic, in-depth review to verify that a system's components and their relationships remain aligned with its
-  documented architecture and underlying purpose, detecting drift and ensuring long-term viability.
+summary: A periodic, in-depth review to verify that a system's components and their relationships remain aligned with its documented architecture and underlying purpose, detecting drift and ensuring long-term
+  viability.
 context_labels:
   corporate: Architecture Compliance Audit
   government: Regulatory & Policy Conformance Review
@@ -66,8 +66,7 @@ relationships:
   complementary:
   - id: alignment-monitoring
     weight: 0.9
-    description: Structural Integrity Audit provides periodic human-led deep review; Alignment Monitoring provides continuous
-      automated detection. They are complementary, not alternatives.
+    description: Structural Integrity Audit provides periodic human-led deep review; Alignment Monitoring provides continuous automated detection. They are complementary, not alternatives.
 graph_garden:
   last_pruned: '2026-02-16'
   entities:
@@ -102,6 +101,7 @@ provenance:
   - higgerix
   - cloudsters
 ---
+
 ### 1. Context
 
 Every complex, living system—be it a city, a corporation, a software stack, or a community—is built upon an architecture. This architecture, whether explicitly designed or emergent, defines the system's fundamental structure, its components, and the relationships between them. It is the blueprint that dictates how the system creates value, adapts to change, and maintains its identity over time. In the early stages of a system's life, this architecture is often clear and coherent, born from a unified vision and a focused purpose. However, as the system grows and interacts with a dynamic environment, it inevitably begins to drift. New components are added to solve immediate problems without considering their long-term strategic fit. Existing relationships between parts weaken or break as operational pressures force pragmatic workarounds. The original, elegant design slowly accretes exceptions, special cases, and undocumented dependencies, accumulating a form of architectural debt. This drift is often subtle, a series of small, seemingly rational compromises that, over time, erode the system's structural integrity. The result is a system that becomes increasingly brittle, inefficient, and difficult to understand or evolve, a phenomenon seen in legacy IT systems, sprawling bureaucracies, and city plans that have been repeatedly amended without a guiding vision.

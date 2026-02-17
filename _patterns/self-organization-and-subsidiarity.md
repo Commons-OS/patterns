@@ -1,13 +1,12 @@
 ---
-id: pat_01KHM0QM6CW603QET05HW65MHP
+id: pat_01khm0qm6cw603qet05hw65mhp
 slug: self-organization-and-subsidiarity
 title: Self-Organization & Subsidiarity
 aliases:
 - Decentralized Governance
 - Autonomy and Delegation
 - Emergent Order
-summary: A pattern for fostering resilient and adaptive systems by empowering local actors to manage their own affairs while
-  maintaining coherence with the whole.
+summary: A pattern for fostering resilient and adaptive systems by empowering local actors to manage their own affairs while maintaining coherence with the whole.
 context_labels:
   corporate: Agile Teams and Decentralized Decision-Making
   government: Local Governance and Federalism
@@ -99,7 +98,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A pattern for fostering resilient and adaptive systems by empowering local actors to manage their own affairs while maintaining coherence with the whole.
 
 ### 1. Context
 

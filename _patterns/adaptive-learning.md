@@ -1,13 +1,12 @@
 ---
-id: pat_01KHM0GFTE6A7HYD3K8305VE4Z
+id: pat_01khm0gfte6a7hyd3k8305ve4z
 slug: adaptive-learning
 title: Adaptive Learning
 aliases:
 - Personalized Learning Paths
 - Dynamic Skill Adaptation
 - Competency-Based Learning
-summary: A pattern for creating dynamic learning pathways that adjust in real-time to a learner's performance, needs, and
-  goals, ensuring efficient and effective mastery of skills.
+summary: A pattern for creating dynamic learning pathways that adjust in real-time to a learner's performance, needs, and goals, ensuring efficient and effective mastery of skills.
 context_labels:
   corporate: Personalized Employee Upskilling
   government: Individualized Citizen Training Programs
@@ -50,16 +49,14 @@ relationships:
   enables:
   - id: purpose-definition
     weight: 0.6
-    description: Continuous learning and adaptation can lead to the refinement and evolution of a system's core purpose over
-      time.
+    description: Continuous learning and adaptation can lead to the refinement and evolution of a system's core purpose over time.
   requires:
   - id: transformation-sequencing
     weight: 0.8
     description: The process of transformation and change within a system generates the need and opportunity for learning.
   - id: pattern-lifecycle
     weight: 0.8
-    description: The evolution of patterns themselves is a form of organizational learning that this pattern helps to structure
-      and accelerate.
+    description: The evolution of patterns themselves is a form of organizational learning that this pattern helps to structure and accelerate.
   generalizes_from:
   - commons-blueprint
 graph_garden:
@@ -81,7 +78,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A pattern for creating dynamic learning pathways that adjust in real-time to a learner's performance, needs, and goals, ensuring efficient and effective mastery of skills.
 
 ### 1. Context
 

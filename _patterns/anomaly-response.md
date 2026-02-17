@@ -1,13 +1,12 @@
 ---
-id: pat_01KHM0GNEQFAY8WY4VXVFGRW9E
+id: pat_01khm0gneqfay8wy4vxvfgrw9e
 slug: anomaly-response
 title: Anomaly Response
 aliases:
 - Exception Handling
 - Deviation Protocol
 - Incident Management
-summary: A pattern for detecting, classifying, and responding to unexpected events or deviations from the norm in a system,
-  ensuring resilience and learning.
+summary: A pattern for detecting, classifying, and responding to unexpected events or deviations from the norm in a system, ensuring resilience and learning.
 context_labels:
   corporate: Incident Management
   government: Emergency Response Protocol
@@ -57,8 +56,7 @@ relationships:
   requires:
   - id: human-agent-handoff
     weight: 0.8
-    description: Clear protocols for transferring control between automated agents and human operators are necessary to handle
-      complex anomalies.
+    description: Clear protocols for transferring control between automated agents and human operators are necessary to handle complex anomalies.
   - id: resource-orchestration
     weight: 0.7
     description: Effective anomaly response often requires the dynamic allocation and management of resources.
@@ -68,8 +66,7 @@ relationships:
   alternatives:
   - id: graduated-sanctions
     weight: 0.6
-    description: While Anomaly Response is an operational pattern for handling deviations, Graduated Sanctions is a governance
-      pattern for addressing transgressions of rules.
+    description: While Anomaly Response is an operational pattern for handling deviations, Graduated Sanctions is a governance pattern for addressing transgressions of rules.
   complementary: []
 graph_garden:
   last_pruned: '2026-02-16'
@@ -107,7 +104,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A pattern for specifying what happens when things go wrong in a living system: how exceptions are detected, classified, contained, responded to, escalated, resolved, and fed back into specification improvement.
 
 ### 1. Context
 

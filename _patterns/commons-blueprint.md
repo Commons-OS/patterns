@@ -1,12 +1,11 @@
 ---
-id: pat_01H8X8Z9QJ0000000000000000
+id: pat_01khnds8r8fpqa5x22y90gyqwp
 slug: commons-blueprint
 title: Commons Blueprint
 aliases:
 - Living System Specification
 - Viable System Specification
-summary: A comprehensive, domain-agnostic framework for designing, building, and evolving resilient, self-governing value
-  creation systems.
+summary: A comprehensive, domain-agnostic framework for designing, building, and evolving resilient, self-governing value creation systems.
 context_labels:
   corporate: Enterprise Architecture Framework
   government: Public Service Delivery Model
@@ -152,7 +151,6 @@ provenance:
   license: CC-BY-SA-4.0
   attribution: commons.engineering by cloudsters
 ---
-> A pattern for designing and evolving complete, resilient, and self-governing value creation systems, applicable across any domain.
 
 ### 1. Context
 

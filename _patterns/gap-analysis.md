@@ -1,13 +1,12 @@
 ---
-id: pat_01KHM0D17BTW84H9G7RPKQ3PEP
+id: pat_01khm0d17btw84h9g7rpkq3pep
 slug: gap-analysis
 title: Gap Analysis
 aliases:
 - Discrepancy Evaluation
 - Needs Assessment
 - Current-Future State Comparison
-summary: A pattern for systematically comparing two states of a system to identify, classify, and prioritize the changes required
-  to move from one to the other.
+summary: A pattern for systematically comparing two states of a system to identify, classify, and prioritize the changes required to move from one to the other.
 context_labels:
   corporate: Transformation Gap Assessment
   government: Policy Gap Analysis
@@ -90,7 +89,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A pattern for systematically comparing two states of a system to identify, classify, and prioritize the changes required to move from one to the other.
 
 ### 1. Context
 

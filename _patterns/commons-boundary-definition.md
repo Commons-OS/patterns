@@ -1,5 +1,5 @@
 ---
-id: pat_01KHM0MNM0QA91VMKG1NFD27TJ
+id: pat_01khm0mnm0qa91vmkg1nfd27tj
 slug: commons-boundary-definition
 title: Commons Boundary Definition
 aliases:
@@ -7,8 +7,7 @@ aliases:
 - Community Jurisdiction
 - Scope of the Commons
 - Resource Demarcation
-summary: A pattern for clearly defining the scope of a commons, including its resources, membership, and rules of engagement,
-  to ensure its long-term viability and prevent the tragedy of the commons.
+summary: A pattern for clearly defining the scope of a commons, including its resources, membership, and rules of engagement, to ensure its long-term viability and prevent the tragedy of the commons.
 context_labels:
   corporate: Defining the Scope of Shared Resources
   government: Jurisdictional and Membership Rules
@@ -93,6 +92,7 @@ provenance:
   - higgerix
   - cloudsters
 ---
+
 > To create a commons is to create a community, and every community has its limits. This pattern is about drawing those lines with intention and care.
 
 ### 1. Context

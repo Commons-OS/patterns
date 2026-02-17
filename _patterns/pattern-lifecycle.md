@@ -1,13 +1,12 @@
 ---
-id: pat_01KHM0CG76VR2E6WGJ06MTM91B
+id: pat_01khm0cg76vr2e6wgj06mtm91b
 slug: pattern-lifecycle
 title: Pattern Lifecycle
 aliases:
 - Pattern Evolution
 - Knowledge Lifecycle Management
 - Practice to Pattern Pipeline
-summary: A meta-pattern for how a system discovers, codifies, shares, and evolves its own operational patterns, creating a
-  continuous loop between local practice and globally shared knowledge.
+summary: A meta-pattern for how a system discovers, codifies, shares, and evolves its own operational patterns, creating a continuous loop between local practice and globally shared knowledge.
 context_labels:
   corporate: Best Practice Management
   government: Policy Lifecycle Framework
@@ -86,7 +85,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A meta-pattern for how a system discovers, codifies, shares, and evolves its own operational patterns, creating a continuous loop between local practice and globally shared knowledge.
 
 ### 1. Context
 

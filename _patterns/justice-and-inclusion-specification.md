@@ -1,13 +1,12 @@
 ---
-id: pat_01KHM0PYQZKZ865FSERHTFJCW8
+id: pat_01khm0pyqzkz865fserhtfjcw8
 slug: justice-and-inclusion-specification
 title: Justice & Inclusion Specification
 aliases:
 - Equitable Design Framework
 - Inclusive System Architecture
 - Fairness by Design
-summary: A pattern for embedding principles of justice, fairness, and inclusion into the foundational architecture of a commons,
-  ensuring equitable outcomes for all stakeholders.
+summary: A pattern for embedding principles of justice, fairness, and inclusion into the foundational architecture of a commons, ensuring equitable outcomes for all stakeholders.
 context_labels:
   corporate: Diversity & Inclusion by Design
   government: Equitable Service Delivery Framework
@@ -77,7 +76,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A pattern for embedding principles of justice, fairness, and inclusion into the foundational architecture of a commons, ensuring equitable outcomes for all stakeholders.
 
 ### 1. Context
 

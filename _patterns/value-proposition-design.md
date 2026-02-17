@@ -1,13 +1,12 @@
 ---
-id: pat_01H8YJ7X5ZJ6QWERTY12345678
+id: pat_01h8yj7x5zj6qwerty12345678
 slug: value-proposition-design
 title: Value Proposition Design
 aliases:
 - Value Proposition Canvas
 - Customer Value Proposition
 - Stakeholder Value Articulation
-summary: A pattern for explicitly articulating the value a system promises to create for each stakeholder group, linking purpose
-  to delivery.
+summary: A pattern for explicitly articulating the value a system promises to create for each stakeholder group, linking purpose to delivery.
 context_labels:
   corporate: Value Proposition Canvas
   government: Public Service Promise
@@ -90,7 +89,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A pattern for explicitly articulating the value a system promises to create for each stakeholder group, linking purpose to delivery.
 
 ### 1. Context
 

@@ -1,5 +1,5 @@
 ---
-id: pat_01KHM0GH3CGAB7KXV9ZJPF2F4W
+id: pat_01khm0gh3cgab7kxv9zjpf2f4w
 slug: transparent-operations
 title: Transparent Operations
 aliases:
@@ -7,8 +7,7 @@ aliases:
 - Human-Machine Readable Systems
 - Synchronized Knowledge Layers
 - Bilingual Documentation
-summary: A pattern for maintaining two complementary representations of the same system — a structured graph for machines
-  and a curated narrative for humans — with defined synchronization between them.
+summary: A pattern for maintaining two complementary representations of the same system — a structured graph for machines and a curated narrative for humans — with defined synchronization between them.
 context_labels:
   corporate: Knowledge Management Architecture
   government: Transparent Data Governance
@@ -59,8 +58,7 @@ relationships:
   complementary:
   - id: transparency-and-openness-protocol
     weight: 0.9
-    description: Transparent Operations implements the knowledge architecture; Transparency Protocol defines the policy. Operations
-      without protocol is directionless; protocol without operations is empty.
+    description: Transparent Operations implements the knowledge architecture; Transparency Protocol defines the policy. Operations without protocol is directionless; protocol without operations is empty.
 graph_garden:
   last_pruned: '2026-02-16'
   entities:
@@ -82,7 +80,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A pattern for maintaining two complementary representations of the same system — a structured graph for machines and a curated narrative for humans — with defined synchronization between them.
 
 ### 1. Context
 

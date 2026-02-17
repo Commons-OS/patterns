@@ -1,5 +1,5 @@
 ---
-id: pat_01KHM0FG5VR8RATRQPW2X7W5PW
+id: pat_01khm0fg5vr8ratrqpw2x7w5pw
 slug: alignment-monitoring
 title: Alignment Monitoring
 aliases:
@@ -7,8 +7,7 @@ aliases:
 - Organizational Alignment Auditing
 - Mission-Reality Sync
 - Specification-Reality Reconciliation
-summary: A continuous process of detecting and analyzing divergence between a system's documented specification and its real-world
-  behavior to maintain strategic alignment and operational integrity.
+summary: A continuous process of detecting and analyzing divergence between a system's documented specification and its real-world behavior to maintain strategic alignment and operational integrity.
 context_labels:
   corporate: Compliance Monitoring & Process Adherence
   government: Policy Implementation Gap Analysis
@@ -78,8 +77,7 @@ relationships:
   complementary:
   - id: structural-integrity-audit
     weight: 0.9
-    description: Alignment Monitoring provides continuous automated detection; Structural Integrity Audit provides periodic
-      human-led deep review. They are complementary, not alternatives.
+    description: Alignment Monitoring provides continuous automated detection; Structural Integrity Audit provides periodic human-led deep review. They are complementary, not alternatives.
 graph_garden:
   last_pruned: '2026-02-16'
   entities:
@@ -112,7 +110,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A continuous process of detecting and analyzing divergence between a system's documented specification and its real-world behavior to maintain strategic alignment and operational integrity.
 
 ### 1. Context
 

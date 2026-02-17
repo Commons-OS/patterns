@@ -1,13 +1,12 @@
 ---
-id: pat_01KHM0E71P5YZXR8P3FMSEA2CM
+id: pat_01khm0e71p5yzxr8p3fmsea2cm
 slug: capability-specification
 title: Capability Specification
 aliases:
 - Capability Modeling
 - Business Capability Mapping
 - Service Capability Assessment
-summary: A pattern for identifying and modeling the abilities a value creation system possesses or needs, independent of how
-  those abilities are currently implemented.
+summary: A pattern for identifying and modeling the abilities a value creation system possesses or needs, independent of how those abilities are currently implemented.
 context_labels:
   corporate: Business Capability Map
   government: Service Capability Assessment
@@ -80,7 +79,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A pattern for identifying and modeling the abilities a value creation system possesses or needs, independent of how those abilities are currently implemented.
 
 ### 1. Context
 

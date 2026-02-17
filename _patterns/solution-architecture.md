@@ -7,8 +7,7 @@ aliases:
 - Technical Blueprint
 - Solution Design
 - Service Architecture
-summary: A pattern for modeling the technology systems, platforms, and tools that enable organizational capabilities, ensuring
-  solutions serve value creation rather than driving it.
+summary: A pattern for modeling the technology systems, platforms, and tools that enable organizational capabilities, ensuring solutions serve value creation rather than driving it.
 context_labels:
   corporate: Enterprise Solution Architecture
   government: Digital Service Design
@@ -80,7 +79,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A pattern for modeling the technology systems, platforms, and tools that enable organizational capabilities, ensuring solutions serve value creation rather than driving it.
 
 ### 1. Context
 

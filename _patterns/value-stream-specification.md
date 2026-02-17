@@ -6,8 +6,8 @@ aliases:
 - Value Stream Mapping
 - Value Stream Design
 - Operational Flow Specification
-summary: 'A pattern for explicitly specifying how each value stream operates: triggers, inputs, process steps, handoffs, quality
-  gates, SLAs, and output verification — so that an agentic force can execute, monitor, and maintain it.'
+summary: 'A pattern for explicitly specifying how each value stream operates: triggers, inputs, process steps, handoffs, quality gates, SLAs, and output verification — so that an agentic force can execute,
+  monitor, and maintain it.'
 context_labels:
   corporate: Standard Operating Procedures (SOPs)
   government: Service Delivery Protocols
@@ -95,7 +95,6 @@ provenance:
   license: CC-BY-SA-4.0
   attribution: commons.engineering by cloudsters
 ---
-> A pattern for explicitly specifying how each value stream operates: triggers, inputs, process steps, handoffs, quality gates, SLAs, and output verification — so that an agentic force can execute, monitor, and maintain it.
 
 ### 1. Context
 

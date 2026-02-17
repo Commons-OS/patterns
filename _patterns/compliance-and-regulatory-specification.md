@@ -1,13 +1,12 @@
 ---
-id: pat_01KHM0P9QQK35T0686SG911F5A
+id: pat_01khm0p9qqk35t0686sg911f5a
 slug: compliance-and-regulatory-specification
 title: Compliance & Regulatory Specification
 aliases:
 - Regulatory Framework Integration
 - Legal Adherence Protocol
 - Compliance Blueprint
-summary: A pattern for systematically defining, tracking, and integrating external legal and regulatory requirements into
-  a commons' operational and governance frameworks.
+summary: A pattern for systematically defining, tracking, and integrating external legal and regulatory requirements into a commons' operational and governance frameworks.
 context_labels:
   corporate: Corporate Compliance Management
   government: Public Sector Regulatory Adherence
@@ -54,13 +53,11 @@ relationships:
   enables:
   - id: governance-design
     weight: 0.7
-    description: Provides the necessary external constraints and requirements that must be incorporated into any robust governance
-      design.
+    description: Provides the necessary external constraints and requirements that must be incorporated into any robust governance design.
   requires:
   - id: governance-design
     weight: 0.8
-    description: A formal governance structure is necessary to interpret, implement, and monitor compliance with the specified
-      regulations.
+    description: A formal governance structure is necessary to interpret, implement, and monitor compliance with the specified regulations.
   alternatives: []
   complementary: []
 graph_garden:
@@ -82,7 +79,6 @@ provenance:
   - higgerix
   - cloudsters
 ---
-> A pattern for systematically defining, tracking, and integrating external legal and regulatory requirements into a commons' operational and governance frameworks.
 
 ### 1. Context
 
