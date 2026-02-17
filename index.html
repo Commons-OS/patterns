@@ -1,6 +1,6 @@
---- 
+---
 layout: default
-title: Commons Engineering - A Discipline for the Cognitive Age
+title: Commons Engineering - A Discipline for Building Living Systems
 ---
 
 <style>
@@ -77,41 +77,23 @@ title: Commons Engineering - A Discipline for the Cognitive Age
     background: rgba(255,255,255,0.15);
   }
 
-  .stats-bar {
-    display: flex;
-    justify-content: center;
-    gap: 50px;
-    flex-wrap: wrap;
-    padding: 30px 20px;
-    margin: 30px 0;
+  .intro-box {
+    background: #fff8f5;
+    border-radius: 16px;
+    padding: 30px;
+    margin-bottom: 60px;
+    border-left: 5px solid var(--pattern-blue);
   }
   
-  .stat {
-    text-align: center;
+  .intro-box p {
+    margin: 0;
+    font-size: 1.1em;
+    line-height: 1.8;
+    color: var(--text-dark);
   }
   
-  .stat .circle {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 0 auto 10px;
-    font-size: 1.8em;
-    font-weight: 700;
-    color: white;
-    background: var(--pattern-blue);
-  }
-  
-  .stat:nth-child(2) .circle { background: var(--warm-green); }
-  .stat:nth-child(3) .circle { background: var(--warm-orange); }
-  .stat:nth-child(4) .circle { background: var(--warm-pink); }
-  
-  .stat .label {
-    color: var(--text-muted);
-    font-size: 0.95em;
-    font-weight: 500;
+  .intro-box strong {
+    color: var(--pattern-dark);
   }
 
   .section {
@@ -123,29 +105,72 @@ title: Commons Engineering - A Discipline for the Cognitive Age
     color: var(--text-dark);
     margin-bottom: 10px;
     font-weight: 500;
+    text-align: center;
   }
   
   .section h2::after {
-    content: 
+    content: '';
     display: block;
     width: 60px;
     height: 4px;
     background: var(--pattern-blue);
-    margin-top: 10px;
+    margin: 10px auto 0;
     border-radius: 2px;
   }
   
   .section .subtitle {
     color: var(--text-muted);
     font-size: 1.1em;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
+    text-align: center;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .triple-diamond-grid {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr auto 1fr;
+    align-items: center;
+    gap: 20px;
+    margin: 40px 0;
+  }
+
+  .diamond-step {
+    background: white;
+    border-radius: 12px;
+    padding: 25px;
+    text-align: center;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+  }
+
+  .diamond-step .icon {
+    font-size: 2.5em;
+    margin-bottom: 15px;
+  }
+
+  .diamond-step h3 {
+    margin: 0 0 10px 0;
+    font-size: 1.3em;
+    color: var(--text-dark);
+  }
+
+  .diamond-step p {
+    font-size: 0.95em;
+    color: var(--text-muted);
+    margin: 0;
+  }
+
+  .diamond-arrow {
+    font-size: 2em;
+    color: #ccc;
+    text-align: center;
   }
 
   .domains-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 20px;
-    margin-top: 25px;
   }
   
   .domain-card {
@@ -210,62 +235,6 @@ title: Commons Engineering - A Discipline for the Cognitive Age
     color: #888;
   }
 
-  .levels-section {
-    background: var(--pattern-light);
-    border-radius: 16px;
-    padding: 35px;
-    margin: 40px 0;
-  }
-  
-  .levels-section h3 {
-    color: var(--pattern-dark);
-    margin-top: 0;
-    margin-bottom: 20px;
-  }
-  
-  .levels-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-    gap: 15px;
-  }
-  
-  .level-item {
-    background: white;
-    padding: 15px;
-    border-radius: 10px;
-    text-align: center;
-  }
-  
-  .level-item .level-name {
-    font-weight: 600;
-    color: var(--text-dark);
-    margin-bottom: 5px;
-  }
-  
-  .level-item .level-desc {
-    font-size: 0.85em;
-    color: var(--text-muted);
-  }
-
-  .intro-box {
-    background: #fff8f5;
-    border-radius: 16px;
-    padding: 30px;
-    margin-bottom: 40px;
-    border-left: 5px solid var(--pattern-blue);
-  }
-  
-  .intro-box p {
-    margin: 0;
-    font-size: 1.1em;
-    line-height: 1.8;
-    color: var(--text-dark);
-  }
-  
-  .intro-box strong {
-    color: var(--pattern-dark);
-  }
-
   .cta-section {
     background: linear-gradient(135deg, #1565c0 0%, #1976d2 100%);
     color: white;
@@ -305,29 +274,10 @@ title: Commons Engineering - A Discipline for the Cognitive Age
 <div class="hero">
   <div class="icon">🌿</div>
   <h1>From Invisible Expert to Resilient Steward</h1>
-  <p class="tagline">Commons Engineering is the discipline for building living, adaptive systems in the Cognitive Age. This is the home of its core tool: a living library of {{ site.patterns.size }}+ patterns for making your systems thinking visible, influential, and effective.</p>
+  <p class="tagline">Commons Engineering is the discipline for building living, adaptive systems in the Cognitive Age. It provides the language, tools, and methods to make your systems thinking visible, influential, and effective.</p>
   <div class="cta-buttons">
-    <a href="{{ site.baseurl }}/business/" class="cta-primary">Explore Patterns</a>
-    <a href="{{ site.baseurl }}/PATTERN_SPEC/" class="cta-secondary">Learn the Discipline</a>
-  </div>
-</div>
-
-<div class="stats-bar">
-  <div class="stat">
-    <div class="circle">{{ site.patterns.size }}</div>
-    <div class="label">Living Patterns</div>
-  </div>
-  <div class="stat">
-    <div class="circle">3.5k</div>
-    <div class="label">Relationships</div>
-  </div>
-  <div class="stat">
-    <div class="circle">8</div>
-    <div class="label">Vitality Dimensions</div>
-  </div>
-  <div class="stat">
-    <div class="circle">4</div>
-    <div class="label">Domains</div>
+    <a href="{{ site.baseurl }}/patterns/" class="cta-primary">Explore Patterns</a>
+    <a href="https://github.com/Commons-OS/patterns" class="cta-secondary" target="_blank">View on GitHub</a>
   </div>
 </div>
 
@@ -335,6 +285,30 @@ title: Commons Engineering - A Discipline for the Cognitive Age
   <p>
     You see the systems failing. You know how to fix them. But you feel invisible. As AI automates expertise, you fear becoming irrelevant—a sidelined witness to preventable harm. <strong>Commons Engineering is the path to turn your invisible knowledge into recognized leadership.</strong>
   </p>
+</div>
+
+<div class="section">
+  <h2>The Discipline of Building Living Systems</h2>
+  <p class="subtitle">Commons Engineering is a systematic approach to designing and evolving resilient systems. It follows a simple, powerful flow.</p>
+  <div class="triple-diamond-grid">
+    <div class="diamond-step">
+      <div class="icon">🎯</div>
+      <h3>1. Context</h3>
+      <p>Understand your unique situation and identify the core tensions to resolve.</p>
+    </div>
+    <div class="diamond-arrow">→</div>
+    <div class="diamond-step">
+      <div class="icon">⬡</div>
+      <h3>2. Patterns</h3>
+      <p>Find proven, reusable solutions that fit your context from a living library.</p>
+    </div>
+    <div class="diamond-arrow">→</div>
+    <div class="diamond-step">
+      <div class="icon">🚀</div>
+      <h3>3. Build</h3>
+      <p>Bring the patterns to life and create real, observable, and vital systems.</p>
+    </div>
+  </div>
 </div>
 
 <div class="section">
@@ -378,20 +352,6 @@ title: Commons Engineering - A Discipline for the Cognitive Age
       <span class="badge coming">Coming Soon</span>
     </a>
   </div>
-</div>
-
-<div class="section">
-  <h2>Your Path to Recognized Leadership</h2>
-  <p class="subtitle">Patterns are the tools. The journey is yours. This is how you start.</p>
-  
-  <ol style="font-size: 1.1em; line-height: 2;">
-    <li><strong>Make Your Value Visible</strong> — Use patterns to articulate your insights and make your expertise legible.</li>
-    <li><strong>Define Real Ownership</strong> — Apply governance patterns to clarify who owns what, so initiatives don’t die in the gaps.</li>
-    <li><strong>Design Decision Loops</strong> — Build resilient systems that adapt under uncertainty.</li>
-    <li><strong>Align Incentives Early</strong> — Use patterns to surface and redesign the hidden rules of the game.</li>
-    <li><strong>Build Self-Correcting Systems</strong> — Install feedback signals so your systems learn and evolve.</li>
-    <li><strong>Become a Steward</strong> — Evolve from a silent observer to a recognized leader who guides living systems.</li>
-  </ol>
 </div>
 
 <div class="cta-section">
