@@ -1,6 +1,6 @@
 # Commons OS Pattern Library - Jekyll Configuration
 title: Commons OS Pattern Library
-description: Open-source knowledge graph of organizational patterns for a more equitable and sustainable world
+description: "The discipline and pattern library for Commons Engineers building resilient, living systems for the Cognitive Age."
 url: "https://commons-os.github.io"
 baseurl: "/patterns"
 
