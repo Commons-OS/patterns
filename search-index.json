@@ -21070,7 +21070,7 @@
     "title": "Transformation Sequencing",
     "url": "/patterns/transformation-sequencing/",
     "classification": [],
-    "description": "A pattern for structuring architectural and organizational decisions in a fixed sequence from purpose outward, ensuring every system element traces back to why the system exists.",
+    "description": "A pattern for structuring architectural and organizational decisions in a fixed sequence from purpose outward, ensuring every system element traces back to and draws life from why the system exists.",
     "domains": [
       "business"
     ],
