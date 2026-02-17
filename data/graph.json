@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T22:22:41.927218Z",
+  "generated_at": "2026-02-17T09:28:19.920229Z",
   "version": "3.0",
   "nodes": {
     "patterns": [
@@ -326,7 +326,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0GFTE6A7HYD3K8305VE4Z",
+        "id": "pat_01khm0gfte6a7hyd3k8305ve4z",
         "title": "Adaptive Learning",
         "slug": "adaptive-learning",
         "domains": [
@@ -1029,7 +1029,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0FG5VR8RATRQPW2X7W5PW",
+        "id": "pat_01khm0fg5vr8ratrqpw2x7w5pw",
         "title": "Alignment Monitoring",
         "slug": "alignment-monitoring",
         "domains": [
@@ -1148,7 +1148,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0GNEQFAY8WY4VXVFGRW9E",
+        "id": "pat_01khm0gneqfay8wy4vxvfgrw9e",
         "title": "Anomaly Response",
         "slug": "anomaly-response",
         "domains": [
@@ -2783,7 +2783,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0E71P5YZXR8P3FMSEA2CM",
+        "id": "pat_01khm0e71p5yzxr8p3fmsea2cm",
         "title": "Capability Specification",
         "slug": "capability-specification",
         "domains": [
@@ -3561,7 +3561,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01H8X8Z9QJ0000000000000000",
+        "id": "pat_01khnds8r8fpqa5x22y90gyqwp",
         "title": "Commons Blueprint",
         "slug": "commons-blueprint",
         "domains": [
@@ -3573,7 +3573,7 @@
         "universality": null
       },
       {
-        "id": "pat_01KHM0MNM0QA91VMKG1NFD27TJ",
+        "id": "pat_01khm0mnm0qa91vmkg1nfd27tj",
         "title": "Commons Boundary Definition",
         "slug": "commons-boundary-definition",
         "domains": [
@@ -3677,7 +3677,7 @@
         "universality": "implementation"
       },
       {
-        "id": "pat_01KHM0PPE7J9XR5K22KE6VEG79",
+        "id": "pat_01khm0ppe7j9xr5k22ke6veg79",
         "title": "Community & Participation Model",
         "slug": "community-and-participation-model",
         "domains": [
@@ -4076,7 +4076,7 @@
         "universality": "universal"
       },
       {
-        "id": "pat_01KHM0P9QQK35T0686SG911F5A",
+        "id": "pat_01khm0p9qqk35t0686sg911f5a",
         "title": "Compliance & Regulatory Specification",
         "slug": "compliance-and-regulatory-specification",
         "domains": [
@@ -4228,7 +4228,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0KG4V2E04365Y61FD1PKP",
+        "id": "pat_01khm0kg4v2e04365y61fd1pkp",
         "title": "Conflict Resolution Mechanism",
         "slug": "conflict-resolution-mechanism",
         "domains": [
@@ -4991,7 +4991,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0JT0Y600QQCPG8BYTB811",
+        "id": "pat_01khm0jt0y600qqcpg8bytb811",
         "title": "Coordination Protocol",
         "slug": "coordination-protocol",
         "domains": [
@@ -5403,7 +5403,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0N1Y4EJBWYV1WWAZ7P2CP",
+        "id": "pat_01khm0n1y4ejbwyv1wwaz7p2cp",
         "title": "Culture & Workforce Specification",
         "slug": "culture-and-workforce-specification",
         "domains": [
@@ -7319,7 +7319,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0PP0QW6RB1R861RG6DFH1",
+        "id": "pat_01khm0pp0qw6rb1r861rg6dfh1",
         "title": "Ecosystem Partnership Design",
         "slug": "ecosystem-partnership-design",
         "domains": [
@@ -7685,7 +7685,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0H7EME3DYJVTP1N4CWKAM",
+        "id": "pat_01khm0h7eme3dyjvtp1n4cwkam",
         "title": "Environment Sensing",
         "slug": "environment-sensing",
         "domains": [
@@ -8475,7 +8475,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0CNT8229CN89YV8C4BKEZ",
+        "id": "pat_01khm0cnt8229cn89yv8c4bkez",
         "title": "Feedback Escalation",
         "slug": "feedback-escalation",
         "domains": [
@@ -8487,7 +8487,7 @@
         "universality": null
       },
       {
-        "id": "pat_01KHM0F33GWBPPYX6VZ0NJ1GTH",
+        "id": "pat_01khm0f33gwbppyx6vz0nj1gth",
         "title": "Feedback Loop Governance",
         "slug": "feedback-loop-governance",
         "domains": [
@@ -9119,7 +9119,7 @@
         "universality": "universal"
       },
       {
-        "id": "pat_01KHM0D17BTW84H9G7RPKQ3PEP",
+        "id": "pat_01khm0d17btw84h9g7rpkq3pep",
         "title": "Gap Analysis",
         "slug": "gap-analysis",
         "domains": [
@@ -9606,7 +9606,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0CM5QTN22ZCVG8BYE477A",
+        "id": "pat_01khm0cm5qtn22zcvg8bye477a",
         "title": "Governance Design",
         "slug": "governance-design",
         "domains": [
@@ -9690,7 +9690,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0PV5YZ795ECFP8P1CZPSK",
+        "id": "pat_01khm0pv5yz795ecfp8p1czpsk",
         "title": "Graduated Sanctions",
         "slug": "graduated-sanctions",
         "domains": [
@@ -10307,7 +10307,7 @@
         "universality": "context-dependent"
       },
       {
-        "id": "pat_01KHM0EJXH8B2D48FNY0P907T1",
+        "id": "pat_01khm0ejxh8b2d48fny0p907t1",
         "title": "Human-Agent Handoff",
         "slug": "human-agent-handoff",
         "domains": [
@@ -11691,7 +11691,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0RCVWSANCESCD3WC8840C",
+        "id": "pat_01khm0rcvwsancescd3wc8840c",
         "title": "Journey Design",
         "slug": "journey-design",
         "domains": [
@@ -11766,7 +11766,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0PYQZKZ865FSERHTFJCW8",
+        "id": "pat_01khm0pyqzkz865fserhtfjcw8",
         "title": "Justice & Inclusion Specification",
         "slug": "justice-and-inclusion-specification",
         "domains": [
@@ -12496,7 +12496,7 @@
         "universality": "universal"
       },
       {
-        "id": "pat_01KHM0QZR7N6XE1XTK69RRNEV4",
+        "id": "pat_01khm0qzr7n6xe1xtk69rrnev4",
         "title": "Legitimacy & Consent",
         "slug": "legitimacy-and-consent",
         "domains": [
@@ -12985,7 +12985,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0FQS5VCJ4YBSWKG42PTPY",
+        "id": "pat_01khm0fqs5vcj4ybswkg42ptpy",
         "title": "Market Environment Specification",
         "slug": "market-environment-specification",
         "domains": [
@@ -13937,7 +13937,7 @@
         "universality": "context-dependent"
       },
       {
-        "id": "pat_01KHM0CW1B4R4EXTAARDDFH67Y",
+        "id": "pat_01khm0cw1b4r4extaarddfh67y",
         "title": "Multi-Speed Feedback",
         "slug": "multi-speed-feedback",
         "domains": [
@@ -14191,7 +14191,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0NHJGC6PQHZ02QW3TXQMG",
+        "id": "pat_01khm0nhjgc6pqhz02qw3txqmg",
         "title": "Nested Systems Architecture",
         "slug": "nested-systems-architecture",
         "domains": [
@@ -14893,7 +14893,7 @@
         "universality": "universal"
       },
       {
-        "id": "pat_01KHM0CV9W75DNTQKB3TDGRKR7",
+        "id": "pat_01khm0cv9w75dntqkb3tdgrkr7",
         "title": "Operational Cadence",
         "slug": "operational-cadence",
         "domains": [
@@ -14980,7 +14980,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0G4D004Q22AV7GPQ5BKM7",
+        "id": "pat_01khm0g4d004q22av7gpq5bkm7",
         "title": "Organization Design",
         "slug": "organization-design",
         "domains": [
@@ -15324,7 +15324,7 @@
         "universality": "universal"
       },
       {
-        "id": "pat_01KHM0CG76VR2E6WGJ06MTM91B",
+        "id": "pat_01khm0cg76vr2e6wgj06mtm91b",
         "title": "Pattern Lifecycle",
         "slug": "pattern-lifecycle",
         "domains": [
@@ -15495,7 +15495,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0CNG6DK10E2EFE33DYHNW",
+        "id": "pat_01khm0cng6dk10e2efe33dyhnw",
         "title": "Performance Sensing",
         "slug": "performance-sensing",
         "domains": [
@@ -17324,7 +17324,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01H8X8Z9QJ0000000000000000",
+        "id": "pat_01khndsajjfkrrg6jrkh9anw3e",
         "title": "Purpose Definition",
         "slug": "purpose-definition",
         "domains": [
@@ -18251,7 +18251,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0PW5B0T5QTX7EQDRQMYD4",
+        "id": "pat_01khm0pw5b0t5qtx7eqdrqmyd4",
         "title": "Resource Orchestration",
         "slug": "resource-orchestration",
         "domains": [
@@ -18877,7 +18877,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0CES9HC9AP8HSS34D2BD6",
+        "id": "pat_01khm0ces9hc9ap8hss34d2bd6",
         "title": "Scenario Specification",
         "slug": "scenario-specification",
         "domains": [
@@ -19260,7 +19260,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0QM6CW603QET05HW65MHP",
+        "id": "pat_01khm0qm6cw603qet05hw65mhp",
         "title": "Self-Organization & Subsidiarity",
         "slug": "self-organization-and-subsidiarity",
         "domains": [
@@ -20600,7 +20600,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_19c6807db0220eccd8d5de52",
+        "id": "pat_01khnesr84fa3veznbb58d1wgn",
         "title": "Solution Architecture",
         "slug": "solution-architecture",
         "domains": [
@@ -20782,7 +20782,7 @@
         "universality": "implementation"
       },
       {
-        "id": "pat_01KHM0MAQPSJMRBB1NQFRWK64A",
+        "id": "pat_01khm0maqpsjmrbb1nqfrwk64a",
         "title": "Stakeholder Architecture",
         "slug": "stakeholder-architecture",
         "domains": [
@@ -21177,7 +21177,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0GSXDNYT0C9XY891KZ00E",
+        "id": "pat_01khm0gsxdnyt0c9xy891kz00e",
         "title": "Structural Integrity Audit",
         "slug": "structural-integrity-audit",
         "domains": [
@@ -22124,7 +22124,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0D9WBXDA6Z368YE0KYKNS",
+        "id": "pat_01khm0d9wbxda6z368ye0kykns",
         "title": "Time-Sliced Specification",
         "slug": "time-sliced-specification",
         "domains": [
@@ -22543,7 +22543,7 @@
         "universality": "context-dependent"
       },
       {
-        "id": "pat_01KHM0GNSX77BG00KFKQYGV5B0",
+        "id": "pat_01khm0gnsx77bg00kfkqygv5b0",
         "title": "Transformation Sequencing",
         "slug": "transformation-sequencing",
         "domains": [
@@ -22587,7 +22587,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0PZJJ0EFDRHCR28S20EPX",
+        "id": "pat_01khm0pzjj0efdrhcr28s20epx",
         "title": "Transparency & Openness Protocol",
         "slug": "transparency-and-openness-protocol",
         "domains": [
@@ -22642,7 +22642,7 @@
         "universality": "domain"
       },
       {
-        "id": "pat_01KHM0GH3CGAB7KXV9ZJPF2F4W",
+        "id": "pat_01khm0gh3cgab7kxv9zjpf2f4w",
         "title": "Transparent Operations",
         "slug": "transparent-operations",
         "domains": [
@@ -23300,7 +23300,7 @@
         "universality": 3
       },
       {
-        "id": "pat_01H8YJ7X5ZJ6QWERTY12345678",
+        "id": "pat_01h8yj7x5zj6qwerty12345678",
         "title": "Value Proposition Design",
         "slug": "value-proposition-design",
         "domains": [
