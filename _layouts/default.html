@@ -8,6 +8,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+  <script src="https://unpkg.com/lucide@latest"></script>
   <style>
     * {
       margin: 0;
@@ -68,7 +69,13 @@
       align-items: center;
       justify-content: center;
       color: white;
-      font-size: 1.2em;
+    }
+    
+    .nav-link i,
+    .nav-link [data-lucide] {
+      width: 16px;
+      height: 16px;
+      vertical-align: -2px;
     }
     
     .nav-brand span {
@@ -542,18 +549,18 @@
   <nav class="nav">
     <div class="nav-container">
       <a href="/" class="nav-brand">
-        <div class="logo-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path></svg></div>
+        <div class="logo-icon"><i data-lucide="hexagon" style="width:20px;height:20px;"></i></div>
         Commons
       </a>
       
       <div class="nav-links">
-        <a href="/context/" class="nav-link contexts"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg> Context</a>
-        <a href="/patterns/" class="nav-link patterns"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path></svg> Pattern</a>
-        <a href="/build/" class="nav-link build"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.44.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 0 2l-.15.08a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.44.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.44-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.38a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1 0-2l.15-.08a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.44-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"></path><circle cx="12" cy="12" r="3"></circle></svg> Build</a>
+        <a href="/context/" class="nav-link contexts"><i data-lucide="compass"></i> Context</a>
+        <a href="/patterns/" class="nav-link patterns"><i data-lucide="hexagon"></i> Pattern</a>
+        <a href="/build/" class="nav-link build"><i data-lucide="hammer"></i> Build</a>
       </div>
       
       <div class="nav-search">
-        <span class="search-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg></span>
+        <span class="search-icon"><i data-lucide="search" style="width:16px;height:16px;"></i></span>
         <input type="text" id="search-input" placeholder="Search patterns, lighthouses..." autocomplete="off">
         <div class="search-results" id="search-results"></div>
       </div>
@@ -682,10 +689,10 @@
             <p style="font-size: 0.9em; color: #888; margin-bottom: 15px;">Can't find what you're looking for? Help us grow the library!</p>
             <div class="suggest-links">
               <a href="https://github.com/Commons-OS/patterns/issues/new?title=[Pattern Suggestion] ${encodedQuery}&body=I'd like to suggest a new pattern: ${encodedQuery}%0A%0ADescription:%0A%0AWhy this pattern matters:" class="suggest-link pattern" target="_blank">
-                ⬡ Suggest Pattern
+                Suggest Pattern
               </a>
               <a href="https://github.com/Commons-OS/lighthouses/issues/new?title=[Lighthouse Suggestion] ${encodedQuery}&body=I'd like to suggest a new lighthouse: ${encodedQuery}%0A%0AType: Organization / City%0A%0ACountry:%0A%0AWhy this is a lighthouse:" class="suggest-link lighthouse" target="_blank">
-                🗼 Suggest Lighthouse
+                Suggest Lighthouse
               </a>
             </div>
           </div>
@@ -706,7 +713,7 @@
       if (grouped.patterns.length > 0) {
         html += `
           <div class="search-results-group">
-            <div class="search-results-group-header patterns">⚙️ Patterns (${grouped.patterns.length})</div>
+            <div class="search-results-group-header patterns">Patterns (${grouped.patterns.length})</div>
             ${grouped.patterns.map(item => `
               <a href="${item.url}" class="search-result-item">
                 <h4>${item.title}</h4>
@@ -720,7 +727,7 @@
       if (grouped.lighthouses.length > 0) {
         html += `
           <div class="search-results-group">
-            <div class="search-results-group-header lighthouses">🏠 Lighthouses (${grouped.lighthouses.length})</div>
+            <div class="search-results-group-header lighthouses">Lighthouses (${grouped.lighthouses.length})</div>
             ${grouped.lighthouses.map(item => `
               <a href="${item.url}" class="search-result-item">
                 <h4>${item.title}</h4>
@@ -734,7 +741,7 @@
       if (grouped.contexts.length > 0) {
         html += `
           <div class="search-results-group">
-            <div class="search-results-group-header contexts">🎯 Contexts (${grouped.contexts.length})</div>
+            <div class="search-results-group-header contexts">Contexts (${grouped.contexts.length})</div>
             ${grouped.contexts.map(item => `
               <a href="${item.url}" class="search-result-item">
                 <h4>${item.title}</h4>
@@ -762,6 +769,9 @@
         searchResults.classList.remove('active');
       }
     });
+    
+    // Initialize Lucide icons
+    lucide.createIcons();
   </script>
 </body>
 </html>
