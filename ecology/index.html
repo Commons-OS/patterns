@@ -1,56 +1,63 @@
 ---
 layout: default
 title: Ecology Patterns - Commons Engineering
+full_width: true
 ---
 <style>
-  .coming-soon {
+  .domain-hero {
     text-align: center;
-    padding: 80px 20px;
+    padding: 60px 20px 50px;
   }
-  .coming-soon .icon-circle {
-    width: 120px;
-    height: 120px;
-    background: linear-gradient(135deg, #4caf50 0%, #388e3c 100%);
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 0 auto 30px;
-    font-size: 3.5em;
+  .domain-hero .hero-icon {
+    color: #2a6496;
+    margin-bottom: 20px;
   }
-  .coming-soon h1 {
-    font-size: 2.5em;
-    color: #333;
-    margin-bottom: 15px;
-    font-weight: 400;
+  .domain-hero .hero-icon [data-lucide] {
+    width: 56px;
+    height: 56px;
   }
-  .coming-soon p {
-    color: #666;
-    font-size: 1.2em;
+  .domain-hero h1 {
+    font-size: 2.4em;
+    color: #2c3e50;
+    margin: 0 0 15px 0;
+    font-weight: 600;
+  }
+  .domain-hero p {
+    color: #5a738e;
+    font-size: 1.15em;
     max-width: 600px;
     margin: 0 auto 30px;
     line-height: 1.7;
   }
-  .coming-soon .badge {
+  .domain-hero .status-badge {
     display: inline-block;
-    background: #e8f5e9;
-    color: #388e3c;
-    padding: 10px 25px;
-    border-radius: 25px;
+    background: #f0f4f8;
+    color: #5a738e;
+    padding: 8px 20px;
+    border-radius: 6px;
     font-weight: 500;
+    font-size: 0.95em;
   }
   .back-link {
-    display: inline-block;
-    margin-bottom: 20px;
-    color: #4caf50;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 10px 20px;
+    color: #2a6496;
     text-decoration: none;
     font-weight: 500;
+    font-size: 0.95em;
+  }
+  .back-link:hover {
+    color: #1e4a70;
   }
 </style>
-<a href="{{ site.baseurl }}/" class="back-link">← Back to Commons Engineering</a>
-<div class="coming-soon">
-  <div class="icon-circle">🌿</div>
+
+<a href="{{ site.baseurl }}/patterns/" class="back-link">← Back to Patterns</a>
+
+<div class="domain-hero">
+  <div class="hero-icon"><i data-lucide="trees"></i></div>
   <h1>Ecology Patterns</h1>
-  <p>Patterns for preserving biodiversity, restoring ecosystems, and building regenerative systems. For Regenerative Engineers partnering with living systems.</p>
-  <span class="badge">Coming Soon</span>
+  <p>Patterns for stewarding regenerative ecosystems, bioregional economies, and natural commons. For Regenerative Engineers partnering with living systems.</p>
+  <span class="status-badge">Coming Soon</span>
 </div>

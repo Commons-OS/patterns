@@ -1,313 +1,261 @@
 ---
 layout: default
 title: Suggest a Pattern - Commons Engineering
+full_width: true
 ---
 
 <style>
-  .suggest-header {
+  .suggest-hero {
     text-align: center;
-    padding: 50px 20px;
-    background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%);
-    color: white;
-    margin: -40px -20px 40px -20px;
-    border-radius: 0 0 30px 30px;
+    padding: 60px 20px 40px;
   }
-  
-  .suggest-header .icon-circle {
-    width: 100px;
-    height: 100px;
-    background: rgba(255,255,255,0.2);
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 0 auto 20px;
-    font-size: 3em;
+  .suggest-hero .hero-icon {
+    color: #2a6496;
+    margin-bottom: 20px;
   }
-  
-  .suggest-header h1 {
-    font-size: 2.5em;
-    margin: 0 0 10px 0;
-    font-weight: 400;
+  .suggest-hero .hero-icon [data-lucide] {
+    width: 56px;
+    height: 56px;
   }
-  
-  .suggest-header p {
-    font-size: 1.2em;
-    opacity: 0.9;
-    margin: 0;
+  .suggest-hero h1 {
+    font-size: 2.4em;
+    color: #2c3e50;
+    margin: 0 0 15px 0;
+    font-weight: 600;
+  }
+  .suggest-hero p {
+    color: #5a738e;
+    font-size: 1.15em;
     max-width: 600px;
     margin: 0 auto;
+    line-height: 1.7;
   }
-  
+
   .suggest-form {
     max-width: 700px;
     margin: 0 auto;
     background: white;
-    border-radius: 16px;
+    border-radius: 12px;
     padding: 40px;
-    box-shadow: 0 5px 30px rgba(0,0,0,0.08);
+    border: 1px solid #e6e9ed;
   }
-  
+
   .form-group {
     margin-bottom: 25px;
   }
-  
   .form-group label {
     display: block;
     font-weight: 600;
-    margin-bottom: 8px;
-    color: #333;
+    margin-bottom: 6px;
+    color: #2c3e50;
   }
-  
   .form-group .hint {
     font-size: 0.85em;
-    color: #888;
+    color: #8899aa;
     margin-bottom: 8px;
   }
-  
   .form-group input,
   .form-group textarea,
   .form-group select {
     width: 100%;
-    padding: 14px 18px;
-    border: 2px solid #e8e8e8;
-    border-radius: 12px;
+    padding: 12px 16px;
+    border: 1px solid #e6e9ed;
+    border-radius: 8px;
     font-size: 1em;
     font-family: inherit;
     transition: all 0.2s ease;
+    box-sizing: border-box;
   }
-  
   .form-group input:focus,
   .form-group textarea:focus,
   .form-group select:focus {
     outline: none;
-    border-color: #8b5cf6;
-    box-shadow: 0 0 0 4px rgba(139, 92, 246, 0.1);
+    border-color: #2a6496;
+    box-shadow: 0 0 0 3px rgba(42,100,150,0.1);
   }
-  
   .form-group textarea {
     min-height: 120px;
     resize: vertical;
   }
-  
-  /* Similar Patterns Section */
+
   .similar-patterns {
     margin-top: 15px;
     padding: 20px;
     background: #fef3c7;
-    border-radius: 12px;
+    border-radius: 8px;
     display: none;
   }
-  
-  .similar-patterns.active {
-    display: block;
-  }
-  
+  .similar-patterns.active { display: block; }
   .similar-patterns h4 {
     color: #92400e;
     margin: 0 0 15px 0;
     font-size: 1em;
   }
-  
   .similar-pattern-item {
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 12px 15px;
     background: white;
-    border-radius: 8px;
+    border-radius: 6px;
     margin-bottom: 10px;
     text-decoration: none;
     color: inherit;
     transition: all 0.2s ease;
   }
-  
   .similar-pattern-item:hover {
     transform: translateX(5px);
     box-shadow: 0 3px 10px rgba(0,0,0,0.1);
   }
-  
-  .similar-pattern-item:last-child {
-    margin-bottom: 0;
-  }
-  
-  .similar-pattern-item .name {
-    font-weight: 500;
-    color: #333;
-  }
-  
+  .similar-pattern-item:last-child { margin-bottom: 0; }
+  .similar-pattern-item .name { font-weight: 500; color: #2c3e50; }
   .similar-pattern-item .level {
     font-size: 0.8em;
-    color: #888;
-    background: #f0f0f0;
+    color: #5a738e;
+    background: #f0f4f8;
     padding: 3px 10px;
-    border-radius: 12px;
+    border-radius: 4px;
   }
-  
-  .similar-pattern-item .arrow {
-    color: #8b5cf6;
-  }
-  
-  /* No Similar Found */
+  .similar-pattern-item .arrow { color: #2a6496; }
+
   .no-similar {
     margin-top: 15px;
     padding: 15px 20px;
     background: #dcfce7;
-    border-radius: 12px;
+    border-radius: 8px;
     color: #166534;
     display: none;
   }
-  
-  .no-similar.active {
-    display: block;
-  }
-  
-  /* Submit Button */
+  .no-similar.active { display: block; }
+
   .submit-btn {
     width: 100%;
-    padding: 16px;
-    background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%);
+    padding: 14px;
+    background: #2a6496;
     color: white;
     border: none;
-    border-radius: 12px;
-    font-size: 1.1em;
+    border-radius: 8px;
+    font-size: 1.05em;
     font-weight: 600;
     cursor: pointer;
     transition: all 0.2s ease;
   }
-  
   .submit-btn:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 10px 30px rgba(139, 92, 246, 0.3);
+    background: #1e4a70;
   }
-  
   .submit-btn:disabled {
     opacity: 0.6;
     cursor: not-allowed;
-    transform: none;
-    box-shadow: none;
   }
-  
-  /* Success Message */
+
   .success-message {
     text-align: center;
     padding: 40px;
     display: none;
   }
-  
-  .success-message.active {
-    display: block;
-  }
-  
-  .success-message .icon {
-    font-size: 4em;
+  .success-message.active { display: block; }
+  .success-message .success-icon {
+    color: #166534;
     margin-bottom: 20px;
   }
-  
-  .success-message h2 {
-    color: #166534;
-    margin-bottom: 10px;
+  .success-message .success-icon [data-lucide] {
+    width: 48px;
+    height: 48px;
   }
-  
-  .success-message p {
-    color: #666;
-  }
-  
-  /* Info Box */
+  .success-message h2 { color: #166534; margin-bottom: 10px; }
+  .success-message p { color: #5a738e; }
+
   .info-box {
-    background: #f0fdf4;
-    border-radius: 12px;
+    background: #f0f4f8;
+    border-radius: 8px;
     padding: 20px;
     margin-bottom: 30px;
   }
-  
   .info-box h3 {
-    color: #166534;
-    margin: 0 0 10px 0;
+    color: #2a6496;
+    margin: 0 0 8px 0;
     font-size: 1em;
   }
-  
   .info-box p {
-    color: #166534;
+    color: #5a738e;
     margin: 0;
     font-size: 0.95em;
   }
 </style>
 
-<div class="suggest-header">
-  <div class="icon-circle">💡</div>
+<div class="suggest-hero">
+  <div class="hero-icon"><i data-lucide="lightbulb"></i></div>
   <h1>Suggest a Pattern</h1>
   <p>Help grow the Commons Engineering library. We'll check if something similar already exists.</p>
 </div>
 
 <div class="suggest-form" id="suggest-form">
   <div class="info-box">
-    <h3>🌱 How Pattern Suggestions Work</h3>
+    <h3>How Pattern Suggestions Work</h3>
     <p>Enter a pattern name below. We'll instantly search for similar patterns. If your suggestion is new, you can submit it for review by the community.</p>
   </div>
-  
+
   <div class="form-group">
     <label for="pattern-name">Pattern Name *</label>
     <div class="hint">What is this pattern called? Use the most common name.</div>
     <input type="text" id="pattern-name" placeholder="e.g., Holacracy, Design Sprint, Wardley Mapping" required>
-    
+
     <div class="similar-patterns" id="similar-patterns">
-      <h4>🔍 Similar patterns already exist:</h4>
+      <h4>Similar patterns already exist:</h4>
       <div id="similar-list"></div>
     </div>
-    
+
     <div class="no-similar" id="no-similar">
-      ✅ This looks like a new pattern! Please fill out the details below.
+      This looks like a new pattern! Please fill out the details below.
     </div>
   </div>
-  
+
   <div class="form-group">
     <label for="pattern-domain">Commons Domain *</label>
     <div class="hint">Which domain does this pattern primarily belong to?</div>
     <select id="pattern-domain" required>
       <option value="">Select a domain...</option>
-      <option value="business">🏢 Business - Organizations, enterprises, cooperatives</option>
-      <option value="urban">🏙️ Urban - Cities, neighborhoods, infrastructure</option>
-      <option value="ecology">🌿 Ecology - Biodiversity, ecosystems, regeneration</option>
-      <option value="life">🌱 Life - Purpose, health, relationships, wealth</option>
-      <option value="other">➕ Other / Cross-domain</option>
+      <option value="business">Business - Organizations, enterprises, cooperatives</option>
+      <option value="urban">Urban - Cities, neighborhoods, infrastructure</option>
+      <option value="ecology">Ecology - Biodiversity, ecosystems, regeneration</option>
+      <option value="life">Life - Purpose, health, relationships, wealth</option>
+      <option value="other">Other / Cross-domain</option>
     </select>
   </div>
-  
+
   <div class="form-group">
     <label for="pattern-description">Brief Description *</label>
     <div class="hint">In 2-3 sentences, what problem does this pattern solve?</div>
     <textarea id="pattern-description" placeholder="Describe the pattern and the problem it addresses..." required></textarea>
   </div>
-  
+
   <div class="form-group">
     <label for="pattern-source">Source / Reference</label>
     <div class="hint">Where did you learn about this pattern? (Book, website, organization)</div>
     <input type="text" id="pattern-source" placeholder="e.g., Book: 'Reinventing Organizations' by Laloux">
   </div>
-  
+
   <div class="form-group">
     <label for="submitter-email">Your Email (optional)</label>
     <div class="hint">If you'd like to be credited as a contributor or notified when the pattern is added.</div>
     <input type="email" id="submitter-email" placeholder="your@email.com">
   </div>
-  
+
   <button type="submit" class="submit-btn" id="submit-btn">Submit Pattern Suggestion</button>
 </div>
 
 <div class="success-message" id="success-message">
-  <div class="icon">🎉</div>
+  <div class="success-icon"><i data-lucide="check-circle"></i></div>
   <h2>Thank You!</h2>
   <p>Your pattern suggestion has been submitted. The community will review it and add it to the library if it meets our criteria.</p>
-  <p style="margin-top: 20px;"><a href="{{ site.baseurl }}/">← Back to Commons Engineering</a></p>
+  <p style="margin-top: 20px;"><a href="{{ site.baseurl }}/patterns/">← Back to Patterns</a></p>
 </div>
 
 <script>
   let fuse;
   let searchIndex = [];
   let debounceTimer;
-  
-  // Load search index
+
   fetch('{{ site.baseurl }}/search-index.json')
     .then(response => response.json())
     .then(data => {
@@ -323,7 +271,7 @@ title: Suggest a Pattern - Commons Engineering
         minMatchCharLength: 2
       });
     });
-  
+
   const patternNameInput = document.getElementById('pattern-name');
   const similarPatternsDiv = document.getElementById('similar-patterns');
   const similarList = document.getElementById('similar-list');
@@ -331,22 +279,22 @@ title: Suggest a Pattern - Commons Engineering
   const submitBtn = document.getElementById('submit-btn');
   const suggestForm = document.getElementById('suggest-form');
   const successMessage = document.getElementById('success-message');
-  
+
   patternNameInput.addEventListener('input', function() {
     clearTimeout(debounceTimer);
     const query = this.value.trim();
-    
+
     if (query.length < 2) {
       similarPatternsDiv.classList.remove('active');
       noSimilarDiv.classList.remove('active');
       return;
     }
-    
+
     debounceTimer = setTimeout(() => {
       if (!fuse) return;
-      
+
       const results = fuse.search(query).slice(0, 5);
-      
+
       if (results.length > 0) {
         const html = results.map(result => {
           const item = result.item;
@@ -359,7 +307,7 @@ title: Suggest a Pattern - Commons Engineering
             </a>
           `;
         }).join('');
-        
+
         similarList.innerHTML = html;
         similarPatternsDiv.classList.add('active');
         noSimilarDiv.classList.remove('active');
@@ -369,23 +317,21 @@ title: Suggest a Pattern - Commons Engineering
       }
     }, 300);
   });
-  
-  // Form submission
+
   submitBtn.addEventListener('click', function(e) {
     e.preventDefault();
-    
+
     const name = document.getElementById('pattern-name').value.trim();
     const domain = document.getElementById('pattern-domain').value;
     const description = document.getElementById('pattern-description').value.trim();
     const source = document.getElementById('pattern-source').value.trim();
     const email = document.getElementById('submitter-email').value.trim();
-    
+
     if (!name || !domain || !description) {
       alert('Please fill in all required fields.');
       return;
     }
-    
-    // Create GitHub issue URL
+
     const issueTitle = encodeURIComponent(`Pattern Suggestion: ${name}`);
     const issueBody = encodeURIComponent(`## Pattern Suggestion
 
@@ -402,14 +348,12 @@ ${description}
 
 ---
 *Submitted via Commons Engineering Pattern Suggestion Form*`);
-    
+
     const githubIssueUrl = `https://github.com/Commons-OS/patterns/issues/new?title=${issueTitle}&body=${issueBody}&labels=pattern-suggestion`;
-    
-    // Open GitHub issue in new tab
     window.open(githubIssueUrl, '_blank');
-    
-    // Show success message
+
     suggestForm.style.display = 'none';
     successMessage.classList.add('active');
+    if (typeof lucide !== 'undefined') lucide.createIcons();
   });
 </script>
