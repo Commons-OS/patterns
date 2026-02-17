@@ -1,4 +1,4 @@
-# Commons OS Pattern Library - Agent Boot Procedure
+# Commons Engineering Pattern Library - Agent Boot Procedure
 
 **Mission:** Our mission is to empower Commons Engineers by tending this living library of patterns.
 

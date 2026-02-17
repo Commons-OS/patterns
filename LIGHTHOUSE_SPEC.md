@@ -5,7 +5,7 @@
 
 ## Purpose
 
-Lighthouses are real-world implementations of Commons OS patterns. They are organizations, projects, or initiatives that demonstrate patterns in action. This specification ensures consistency across all Lighthouses in the Commons OS knowledge graph.
+Lighthouses are real-world implementations of Commons Engineering patterns. They are organizations, projects, or initiatives that demonstrate patterns in action. This specification ensures consistency across all Lighthouses in the Commons Engineering knowledge graph.
 
 ---
 
@@ -102,7 +102,7 @@ founded: YYYY                      # Year founded
 contributors: [username1, username2]
 sources: [https://source1.com, https://source2.com]
 license: CC-BY-SA-4.0
-attribution: Commons OS distributed by cloudsters, https://cloudsters.net
+attribution: Commons Engineering distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
 ---
 ```

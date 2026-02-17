@@ -6,7 +6,7 @@
 
 ---
 
-This document outlines the architecture of the Commons OS Pattern Library. Its purpose is not to be a static blueprint, but a living guide for how we cultivate this shared knowledge garden.
+This document outlines the architecture of the Commons Engineering Pattern Library. Its purpose is not to be a static blueprint, but a living guide for how we cultivate this shared knowledge garden.
 
 ## 1. Vision: A Living Knowledge System
 

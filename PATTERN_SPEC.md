@@ -9,7 +9,7 @@
 
 ## 1. Purpose: A Language for Stewards
 
-This specification defines the format for patterns in the Commons OS library. Its purpose is to provide a shared language for **Cognitive Systems Builders**—the intrapreneurs, entrepreneurs, and systems thinkers designing the resilient, living systems of the Cognitive Age.
+This specification defines the format for patterns in the Commons Engineering library. Its purpose is to provide a shared language for **Cognitive Systems Builders**—the intrapreneurs, entrepreneurs, and systems thinkers designing the resilient, living systems of the Cognitive Age.
 
 Following this spec ensures that every pattern is not just a document, but a tool: a legible, repeatable, and machine-readable artifact that helps you make your systems thinking visible, influential, and effective.
 

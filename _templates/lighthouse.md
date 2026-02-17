@@ -28,7 +28,7 @@ founded: {YEAR}
 contributors: [{CONTRIBUTORS}]
 sources: [{SOURCES}]
 license: CC-BY-SA-4.0
-attribution: Commons OS distributed by cloudsters, https://cloudsters.net
+attribution: Commons Engineering distributed by cloudsters, https://cloudsters.net
 repository: https://github.com/commons-os/patterns
 ---
 

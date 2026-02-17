@@ -1,52 +1,161 @@
----
+--- 
 layout: default
-title: Patterns - Commons Engineering
----
+title: Patterns — Commons Engineering
+--- 
 
-<div class="section">
-  <h2>Pattern Library</h2>
-  <p class="subtitle">This is the heart of Commons Engineering: a living library of proven, reusable solutions for building vital systems. You can navigate the library in several ways.</p>
-</div>
+<style>
+  .hero-section {
+    background: var(--brand-light-blue);
+    text-align: center;
+    padding: 60px 20px;
+  }
 
-<div class="section">
-  <h2>Curated Collections</h2>
-  <p class="subtitle">Guided paths through the pattern library. Start here.</p>
-  <div class="domains-grid" style="margin-bottom: 60px;">
-    <a href="{{ site.baseurl }}/commons-blueprint/" class="domain-card business">
-      <div class="icon-circle">🗺️</div>
-      <h3>The Commons Blueprint</h3>
-      <span class="badge active">41 Patterns</span>
-    </a>
+  .hero-content .hero-icon {
+    font-size: 3em;
+    color: var(--brand-green);
+    margin-bottom: 15px;
+  }
+
+  .hero-content h1 {
+    font-size: 2.5em;
+    color: var(--text-dark);
+    font-weight: 600;
+    margin: 0 0 15px 0;
+  }
+
+  .hero-content .hero-subtitle {
+    font-size: 1.2em;
+    color: var(--text-light);
+    max-width: 700px;
+    margin: 0 auto 30px;
+    line-height: 1.6;
+  }
+
+  .page-section {
+    padding: 60px 20px;
+  }
+
+  .container {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+
+  .section-header {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  .section-header h2 {
+    font-size: 2em;
+    color: var(--text-dark);
+    margin-bottom: 10px;
+  }
+
+  .section-header p {
+    font-size: 1.1em;
+    color: var(--text-light);
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+  }
+
+  .card {
+    background: white;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 25px;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.3s ease;
+  }
+
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+  }
+
+  .card .card-icon {
+    font-size: 2em;
+    margin-bottom: 15px;
+  }
+
+  .card h3 {
+    margin: 0 0 10px 0;
+  }
+
+  .card p {
+    color: var(--text-light);
+    margin-bottom: 20px;
+  }
+
+  .card .card-meta {
+    font-size: 0.9em;
+    font-weight: 500;
+    color: var(--brand-blue);
+  }
+</style>
+
+<div class="hero-section">
+  <div class="hero-content">
+    <div class="hero-icon">⬡</div>
+    <h1>The Pattern Library</h1>
+    <p class="hero-subtitle">A living library of proven, reusable solutions for building vital systems. Navigate by curated collections or explore by domain.</p>
   </div>
 </div>
 
-<div class="section">
-  <h2>Commons Domains</h2>
-  <p class="subtitle">Find proven patterns for building living systems in your domain.</p>
-  
-  <div class="domains-grid">
-    <a href="{{ site.baseurl }}/business/" class="domain-card business">
-      <div class="icon-circle">🏢</div>
-      <h3>Business</h3>
-      <span class="badge active">{{ site.patterns.size }} Patterns</span>
-    </a>
-    
-    <a href="{{ site.baseurl }}/urban/" class="domain-card urban">
-      <div class="icon-circle">🏙️</div>
-      <h3>Urban</h3>
-      <span class="badge coming">Coming Soon</span>
-    </a>
-    
-    <a href="{{ site.baseurl }}/ecology/" class="domain-card ecology">
-      <div class="icon-circle">🌿</div>
-      <h3>Ecology</h3>
-      <span class="badge coming">Coming Soon</span>
-    </a>
-    
-    <a href="{{ site.baseurl }}/life/" class="domain-card life">
-      <div class="icon-circle">🌱</div>
-      <h3>Life</h3>
-      <span class="badge coming">Coming Soon</span>
-    </a>
+<div class="page-section">
+  <div class="container">
+    <div class="section-header">
+      <h2>Curated Collections</h2>
+      <p>Guided paths through the pattern library. Start here.</p>
+    </div>
+    <div class="card-grid">
+      <a href="/patterns/commons-blueprint" class="card">
+        <div class="card-icon">🗺️</div>
+        <h3>The Commons Blueprint</h3>
+        <p>A foundational collection for designing and building resilient, self-governing organizations from the ground up.</p>
+        <div class="card-meta">42 Patterns</div>
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="page-section">
+  <div class="container">
+    <div class="section-header">
+      <h2>Commons Domains</h2>
+      <p>Find proven patterns for building living systems in your domain.</p>
+    </div>
+    <div class="card-grid">
+      <a href="/patterns/business" class="card">
+        <div class="card-icon">🏢</div>
+        <h3>Business</h3>
+        <p>Patterns for designing vital organizations, value streams, and governance models.</p>
+        <div class="card-meta">1587 Patterns</div>
+      </a>
+      <div class="card">
+        <div class="card-icon">🏙️</div>
+        <h3>Urban</h3>
+        <p>Patterns for cultivating resilient cities, neighborhoods, and public spaces.</p>
+        <div class="card-meta">Coming Soon</div>
+      </div>
+      <div class="card">
+        <div class="card-icon">🌿</div>
+        <h3>Ecology</h3>
+        <p>Patterns for stewarding regenerative ecosystems and bioregional economies.</p>
+        <div class="card-meta">Coming Soon</div>
+      </div>
+      <div class="card">
+        <div class="card-icon">🌱</div>
+        <h3>Life</h3>
+        <p>Core patterns of living systems that underpin all other domains.</p>
+        <div class="card-meta">Coming Soon</div>
+      </div>
+    </div>
   </div>
 </div>
