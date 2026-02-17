@@ -1,80 +1,50 @@
 ---
 layout: default
-title: Commons Engineering — The Pattern Library
+title: Pattern — Explore Patterns
 ---
 
 <style>
   :root {
     --brand-blue: #2a6496;
-    --brand-light-blue: #e9f1f7;
-    --brand-green: #468847;
-    --text-dark: #333;
-    --text-light: #555;
-    --border-color: #ddd;
-    --warm-orange: #c67a1e;
-    --warm-green: #468847;
-    --warm-pink: #a94442;
+    --brand-light-blue: #f4f8fa;
+    --text-dark: #2c3e50;
+    --text-light: #5a738e;
+    --border-color: #e6e9ed;
   }
 
   .hero-section {
     background: var(--brand-light-blue);
     text-align: center;
-    padding: 60px 20px;
+    padding: 80px 20px;
   }
 
-  .hero-content .hero-icon {
+  .hero-icon {
     font-size: 3em;
     margin-bottom: 15px;
   }
 
-  .hero-content h1 {
-    font-size: 2.5em;
+  .hero-section h1 {
+    font-size: 2.8em;
     color: var(--text-dark);
     font-weight: 600;
-    margin: 0 0 15px 0;
+    margin: 0 0 20px 0;
+    border: none;
   }
 
-  .hero-content .hero-subtitle {
-    font-size: 1.2em;
+  .hero-section .hero-subtitle {
+    font-size: 1.25em;
     color: var(--text-light);
-    max-width: 700px;
-    margin: 0 auto 30px;
-    line-height: 1.6;
-  }
-
-  .hero-cta a {
-    text-decoration: none;
-    padding: 12px 28px;
-    border-radius: 6px;
-    font-weight: 500;
-    margin: 0 10px;
-    transition: all 0.3s ease;
-  }
-
-  .btn-primary {
-    background: var(--brand-blue);
-    color: white;
-  }
-  .btn-primary:hover {
-    background: #1e4a70;
-  }
-
-  .btn-secondary {
-    background: transparent;
-    color: var(--brand-blue);
-    border: 1px solid var(--brand-blue);
-  }
-  .btn-secondary:hover {
-    background: rgba(42, 100, 150, 0.1);
+    max-width: 720px;
+    margin: 0 auto;
+    line-height: 1.7;
   }
 
   .page-section {
-    padding: 60px 20px;
+    padding: 70px 20px;
   }
 
-  .bg-light {
-    background: #f9f9f9;
-  }
+  .bg-white { background: white; }
+  .bg-light { background: #f9fafb; }
 
   .container {
     max-width: 1100px;
@@ -89,161 +59,203 @@ title: Commons Engineering — The Pattern Library
   .section-header h2 {
     font-size: 2em;
     color: var(--text-dark);
-    margin-bottom: 10px;
+    margin-bottom: 12px;
+    border: none;
   }
 
   .section-header p {
-    font-size: 1.1em;
+    font-size: 1.15em;
     color: var(--text-light);
-    max-width: 600px;
+    max-width: 650px;
     margin: 0 auto;
-  }
-
-  .card-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 25px;
-  }
-
-  .card {
-    background: white;
-    border: 1px solid var(--border-color);
-    border-radius: 8px;
-    padding: 25px;
-    text-decoration: none;
-    color: inherit;
-    transition: all 0.3s ease;
-  }
-
-  a.card:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 8px 20px rgba(0,0,0,0.06);
-  }
-
-  .card .card-icon {
-    font-size: 2em;
-    margin-bottom: 15px;
-  }
-
-  .card h3 {
-    margin: 0 0 10px 0;
-    font-size: 1.2em;
-  }
-
-  .card p {
-    color: var(--text-light);
-    margin-bottom: 15px;
     line-height: 1.6;
   }
 
-  .card .card-meta {
-    font-size: 0.9em;
-    font-weight: 500;
-    color: var(--brand-blue);
+  /* Carousel */
+  .carousel-wrapper {
+    position: relative;
+    padding: 0 50px;
   }
 
-  .card .card-meta.coming {
-    color: #999;
+  .carousel-track {
+    display: flex;
+    gap: 24px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    padding: 10px 0;
   }
 
-  .cta-section {
-    background: var(--brand-blue);
-    color: white;
-    padding: 50px 20px;
-    text-align: center;
-    border-radius: 8px;
+  .carousel-track::-webkit-scrollbar {
+    display: none;
   }
 
-  .cta-section h2 {
-    margin: 0 0 15px 0;
-    color: white;
-  }
-
-  .cta-section p {
-    max-width: 500px;
-    margin: 0 auto 25px;
-    opacity: 0.9;
-  }
-
-  .cta-section a {
+  .carousel-card {
+    flex: 0 0 300px;
+    scroll-snap-align: start;
     background: white;
-    color: var(--brand-blue);
-    padding: 12px 28px;
-    border-radius: 6px;
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 30px;
     text-decoration: none;
-    font-weight: 500;
+    color: inherit;
+    transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .bg-white .carousel-card {
+    background: var(--brand-light-blue);
+    border-color: transparent;
+  }
+
+  .carousel-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+  }
+
+  .carousel-card .card-icon {
+    font-size: 2.2em;
+    margin-bottom: 15px;
+  }
+
+  .carousel-card h3 {
+    font-size: 1.3em;
+    color: var(--text-dark);
+    margin: 0 0 10px 0;
+  }
+
+  .carousel-card p {
+    color: var(--text-light);
+    line-height: 1.6;
+    font-size: 0.95em;
+    flex-grow: 1;
+    margin-bottom: 15px;
+  }
+
+  .carousel-card .card-meta {
+    font-size: 0.9em;
+    font-weight: 600;
+    color: var(--brand-blue);
+  }
+
+  .carousel-card .card-meta.coming {
+    color: #999;
+    font-weight: 400;
+  }
+
+  .carousel-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: white;
+    border: 1px solid var(--border-color);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    cursor: pointer;
+    font-size: 1.3em;
+    color: var(--text-dark);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
+    z-index: 2;
+  }
+
+  .carousel-btn:hover {
+    background: var(--brand-light-blue);
+    border-color: var(--brand-blue);
+  }
+
+  .carousel-btn.prev { left: 0; }
+  .carousel-btn.next { right: 0; }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .hero-section { padding: 50px 20px; }
+    .hero-section h1 { font-size: 2em; }
+    .carousel-wrapper { padding: 0 10px; }
+    .carousel-card { flex: 0 0 260px; padding: 24px; }
+    .carousel-btn { display: none; }
   }
 </style>
 
+<!-- Hero -->
 <div class="hero-section">
-  <div class="hero-content">
-    <div class="hero-icon">⬡</div>
-    <h1>The Pattern Library</h1>
-    <p class="hero-subtitle">A living library of proven, reusable solutions for building vital systems. Navigate by curated collections or explore by domain.</p>
-    <div class="hero-cta">
-      <a href="https://github.com/Commons-OS/patterns" class="btn btn-secondary" target="_blank">View on GitHub</a>
-    </div>
-  </div>
+  <div class="hero-icon">⬡</div>
+  <h1>Explore Patterns</h1>
+  <p class="hero-subtitle">A living library of proven solutions for building vital systems. Browse curated collections or explore by domain.</p>
 </div>
 
-<div class="page-section">
+<!-- Curated Collections -->
+<div class="page-section bg-white">
   <div class="container">
     <div class="section-header">
       <h2>Curated Collections</h2>
       <p>Guided paths through the pattern library. Each collection is a coherent set of patterns designed to work together.</p>
     </div>
-    <div class="card-grid">
-      <a href="{{ site.baseurl }}/commons-blueprint/" class="card">
-        <div class="card-icon">🗺️</div>
-        <h3>The Commons Blueprint</h3>
-        <p>A foundational collection for designing and building resilient, self-governing organizations from the ground up.</p>
-        <div class="card-meta">42 Patterns</div>
-      </a>
+    <div class="carousel-wrapper">
+      <button class="carousel-btn prev" onclick="scroll_carousel('collections', -1)">&#8249;</button>
+      <div class="carousel-track" id="collections">
+        <a href="{{ site.baseurl }}/commons-blueprint/" class="carousel-card">
+          <div class="card-icon">🗺️</div>
+          <h3>The Commons Blueprint</h3>
+          <p>41 foundational patterns for designing and building resilient, self-governing organizations from the ground up.</p>
+          <div class="card-meta">41 Patterns — Explore Collection →</div>
+        </a>
+        <!-- Future collections will appear here as new carousel cards -->
+      </div>
+      <button class="carousel-btn next" onclick="scroll_carousel('collections', 1)">&#8250;</button>
     </div>
   </div>
 </div>
 
+<!-- Commons Domains -->
 <div class="page-section bg-light">
   <div class="container">
     <div class="section-header">
       <h2>Commons Domains</h2>
-      <p>Patterns organized by the domain of practice they serve.</p>
+      <p>Patterns are organized by the living systems they serve. Each domain represents a different scale of human endeavor.</p>
     </div>
-    <div class="card-grid">
-      <a href="{{ site.baseurl }}/business/" class="card">
-        <div class="card-icon">🏢</div>
-        <h3>Business</h3>
-        <p>Patterns for designing vital organizations, value streams, and governance models.</p>
-        <div class="card-meta">{{ site.patterns.size }} Patterns</div>
-      </a>
-      <div class="card">
-        <div class="card-icon">🏙️</div>
-        <h3>Urban</h3>
-        <p>Patterns for cultivating resilient cities, neighborhoods, and public spaces.</p>
-        <div class="card-meta coming">Coming Soon</div>
+    <div class="carousel-wrapper">
+      <button class="carousel-btn prev" onclick="scroll_carousel('domains', -1)">&#8249;</button>
+      <div class="carousel-track" id="domains">
+        <a href="{{ site.baseurl }}/business/" class="carousel-card">
+          <div class="card-icon">🏢</div>
+          <h3>Business</h3>
+          <p>Patterns for designing vital organizations, governance models, value streams, and collaborative ecosystems.</p>
+          <div class="card-meta">{{ site.patterns.size }} Patterns — Browse Domain →</div>
+        </a>
+        <a href="{{ site.baseurl }}/urban/" class="carousel-card">
+          <div class="card-icon">🏙️</div>
+          <h3>Urban</h3>
+          <p>Patterns for cultivating resilient cities, neighborhoods, public spaces, and civic infrastructure.</p>
+          <div class="card-meta coming">Coming Soon</div>
+        </a>
+        <a href="{{ site.baseurl }}/ecology/" class="carousel-card">
+          <div class="card-icon">🌿</div>
+          <h3>Ecology</h3>
+          <p>Patterns for stewarding regenerative ecosystems, bioregional economies, and natural commons.</p>
+          <div class="card-meta coming">Coming Soon</div>
+        </a>
+        <a href="{{ site.baseurl }}/life/" class="carousel-card">
+          <div class="card-icon">🌱</div>
+          <h3>Life</h3>
+          <p>Core patterns of living systems — the deep structures that underpin all other domains.</p>
+          <div class="card-meta coming">Coming Soon</div>
+        </a>
       </div>
-      <div class="card">
-        <div class="card-icon">🌿</div>
-        <h3>Ecology</h3>
-        <p>Patterns for stewarding regenerative ecosystems and bioregional economies.</p>
-        <div class="card-meta coming">Coming Soon</div>
-      </div>
-      <div class="card">
-        <div class="card-icon">🌱</div>
-        <h3>Life</h3>
-        <p>Core patterns of living systems that underpin all other domains.</p>
-        <div class="card-meta coming">Coming Soon</div>
-      </div>
+      <button class="carousel-btn next" onclick="scroll_carousel('domains', 1)">&#8250;</button>
     </div>
   </div>
 </div>
 
-<div class="page-section">
-  <div class="container">
-    <div class="cta-section">
-      <h2>Become a Co-Creator</h2>
-      <p>This is a living library, tended by a community of peers. Help us cultivate it.</p>
-      <a href="{{ site.baseurl }}/suggest/">Suggest a Pattern</a>
-    </div>
-  </div>
-</div>
+<script>
+  function scroll_carousel(id, direction) {
+    var track = document.getElementById(id);
+    track.scrollBy({ left: 324 * direction, behavior: 'smooth' });
+  }
+</script>

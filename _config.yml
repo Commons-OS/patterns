@@ -16,6 +16,12 @@ author:
 markdown: kramdown
 highlighter: rouge
 
+# Use shared layout from the main site
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: Commons-OS/commons-os.github.io
+
 # Kramdown settings
 kramdown:
   input: GFM
