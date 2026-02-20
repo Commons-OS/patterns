@@ -144,7 +144,10 @@ full_width: true
 
 {% assign biz_patterns = "" | split: "" %}
 {% for p in site.patterns %}
-  {% if p.ontology.commons_domain contains 'business' or p.classification.commons_domain contains 'business' %}
+  {% assign cd = p.commons_domain %}
+  {% assign cd_class = p.classification.commons_domain %}
+  {% assign cd_onto = p.ontology.commons_domain %}
+  {% if cd contains 'business' or cd contains 'startup' or cd contains 'security' or cd contains 'platform' or cd_class contains 'business' or cd_class contains 'startup' or cd_class contains 'security' or cd_class contains 'platform' or cd_onto contains 'business' or cd_onto contains 'startup' or cd_onto contains 'security' or cd_onto contains 'platform' %}
     {% assign biz_patterns = biz_patterns | push: p %}
   {% endif %}
 {% endfor %}

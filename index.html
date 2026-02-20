@@ -236,12 +236,13 @@ full_width: true
       {% comment %}Count patterns per commons_domain (checking both classification and ontology nesting){% endcomment %}
       {% assign business_count = 0 %}{% assign urban_count = 0 %}{% assign ecology_count = 0 %}{% assign life_count = 0 %}
       {% for p in site.patterns %}
+        {% assign cd = p.commons_domain %}
         {% assign cd_class = p.classification.commons_domain %}
         {% assign cd_onto = p.ontology.commons_domain %}
-        {% if cd_class contains 'business' or cd_onto contains 'business' %}{% assign business_count = business_count | plus: 1 %}{% endif %}
-        {% if cd_class contains 'urban' or cd_onto contains 'urban' %}{% assign urban_count = urban_count | plus: 1 %}{% endif %}
-        {% if cd_class contains 'ecology' or cd_onto contains 'ecology' %}{% assign ecology_count = ecology_count | plus: 1 %}{% endif %}
-        {% if cd_class contains 'life' or cd_onto contains 'life' %}{% assign life_count = life_count | plus: 1 %}{% endif %}
+        {% if cd contains 'business' or cd contains 'startup' or cd contains 'security' or cd contains 'platform' or cd_class contains 'business' or cd_class contains 'startup' or cd_class contains 'security' or cd_class contains 'platform' or cd_onto contains 'business' or cd_onto contains 'startup' or cd_onto contains 'security' or cd_onto contains 'platform' %}{% assign business_count = business_count | plus: 1 %}{% endif %}
+        {% if cd contains 'urban' or cd_class contains 'urban' or cd_onto contains 'urban' %}{% assign urban_count = urban_count | plus: 1 %}{% endif %}
+        {% if cd contains 'ecology' or cd_class contains 'ecology' or cd_onto contains 'ecology' %}{% assign ecology_count = ecology_count | plus: 1 %}{% endif %}
+        {% if cd contains 'life' or cd_class contains 'life' or cd_onto contains 'life' %}{% assign life_count = life_count | plus: 1 %}{% endif %}
       {% endfor %}
       <div class="carousel-track" id="domains">
         <a href="{{ site.baseurl }}/business/" class="carousel-card">
