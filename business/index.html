@@ -142,10 +142,17 @@ full_width: true
   <p class="sub-desc">Organizations, enterprises, cooperatives, and ventures</p>
 </div>
 
+{% assign biz_patterns = "" | split: "" %}
+{% for p in site.patterns %}
+  {% if p.ontology.commons_domain contains 'business' or p.classification.commons_domain contains 'business' %}
+    {% assign biz_patterns = biz_patterns | push: p %}
+  {% endif %}
+{% endfor %}
+
 <div class="stats-row">
   <div class="stat-item">
-    <div class="number">{{ site.patterns.size }}</div>
-    <div class="label">Total Patterns</div>
+    <div class="number">{{ biz_patterns.size }}</div>
+    <div class="label">Business Patterns</div>
   </div>
   <div class="stat-item">
     <div class="number">5</div>
@@ -167,7 +174,7 @@ full_width: true
 </div>
 
 <div class="patterns-grid" id="patterns-container">
-  {% for pattern in site.patterns %}
+  {% for pattern in biz_patterns %}
   {% assign universality = pattern.tags.universality | default: "domain" %}
   <a href="{{ site.baseurl }}{{ pattern.url }}" class="pattern-card" data-universality="{{ universality }}">
     <h3>{{ pattern.title }}</h3>

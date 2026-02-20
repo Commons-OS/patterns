@@ -233,30 +233,40 @@ full_width: true
     </div>
     <div class="carousel-wrapper">
       <button class="carousel-btn prev" onclick="scroll_carousel('domains', -1)">&#8249;</button>
+      {% comment %}Count patterns per commons_domain (checking both classification and ontology nesting){% endcomment %}
+      {% assign business_count = 0 %}{% assign urban_count = 0 %}{% assign ecology_count = 0 %}{% assign life_count = 0 %}
+      {% for p in site.patterns %}
+        {% assign cd_class = p.classification.commons_domain %}
+        {% assign cd_onto = p.ontology.commons_domain %}
+        {% if cd_class contains 'business' or cd_onto contains 'business' %}{% assign business_count = business_count | plus: 1 %}{% endif %}
+        {% if cd_class contains 'urban' or cd_onto contains 'urban' %}{% assign urban_count = urban_count | plus: 1 %}{% endif %}
+        {% if cd_class contains 'ecology' or cd_onto contains 'ecology' %}{% assign ecology_count = ecology_count | plus: 1 %}{% endif %}
+        {% if cd_class contains 'life' or cd_onto contains 'life' %}{% assign life_count = life_count | plus: 1 %}{% endif %}
+      {% endfor %}
       <div class="carousel-track" id="domains">
         <a href="{{ site.baseurl }}/business/" class="carousel-card">
           <div class="card-icon"><i data-lucide="building-2"></i></div>
           <h3>Business</h3>
           <p>Patterns for designing vital organizations, governance models, value streams, and collaborative ecosystems.</p>
-          <div class="card-meta">{{ site.patterns.size }} Patterns — Browse Domain →</div>
+          <div class="card-meta">{{ business_count }} Patterns — Browse Domain →</div>
         </a>
         <a href="{{ site.baseurl }}/urban/" class="carousel-card">
           <div class="card-icon"><i data-lucide="landmark"></i></div>
           <h3>Urban</h3>
           <p>Patterns for cultivating resilient cities, neighborhoods, public spaces, and civic infrastructure.</p>
-          <div class="card-meta">0 Patterns — Browse Domain →</div>
+          <div class="card-meta">{{ urban_count }} Patterns — Browse Domain →</div>
         </a>
         <a href="{{ site.baseurl }}/ecology/" class="carousel-card">
           <div class="card-icon"><i data-lucide="trees"></i></div>
           <h3>Ecology</h3>
           <p>Patterns for stewarding regenerative ecosystems, bioregional economies, and natural commons.</p>
-          <div class="card-meta">0 Patterns — Browse Domain →</div>
+          <div class="card-meta">{{ ecology_count }} Patterns — Browse Domain →</div>
         </a>
         <a href="{{ site.baseurl }}/life/" class="carousel-card">
           <div class="card-icon"><i data-lucide="sprout"></i></div>
           <h3>Life</h3>
           <p>Core patterns of living systems — the deep structures that underpin all other domains.</p>
-          <div class="card-meta">0 Patterns — Browse Domain →</div>
+          <div class="card-meta">{{ life_count }} Patterns — Browse Domain →</div>
         </a>
       </div>
       <button class="carousel-btn next" onclick="scroll_carousel('domains', 1)">&#8250;</button>

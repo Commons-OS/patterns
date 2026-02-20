@@ -3,10 +3,11 @@ layout: default
 title: Life Patterns - Commons Engineering
 full_width: true
 ---
+
 <style>
   .domain-hero {
     text-align: center;
-    padding: 60px 20px 50px;
+    padding: 60px 20px 40px;
   }
   .domain-hero .hero-icon {
     color: #3AAADC;
@@ -19,25 +20,112 @@ full_width: true
   .domain-hero h1 {
     font-size: 2.4em;
     color: #2c3e50;
-    margin: 0 0 15px 0;
+    margin: 0 0 10px 0;
     font-weight: 600;
   }
-  .domain-hero p {
+  .domain-hero .subtitle {
     color: #5a738e;
     font-size: 1.15em;
     max-width: 600px;
-    margin: 0 auto 30px;
+    margin: 0 auto 10px;
     line-height: 1.7;
   }
-  .domain-hero .status-badge {
-    display: inline-block;
-    background: #f0f4f8;
-    color: #5a738e;
-    padding: 8px 20px;
-    border-radius: 6px;
-    font-weight: 500;
+  .domain-hero .sub-desc {
+    color: #8899aa;
     font-size: 0.95em;
+    margin: 0;
   }
+
+  .stats-row {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin: 30px auto;
+    flex-wrap: wrap;
+    max-width: 600px;
+  }
+  .stat-item { text-align: center; }
+  .stat-item .number {
+    font-size: 2em;
+    font-weight: 700;
+    color: #3AAADC;
+  }
+  .stat-item .label {
+    color: #5a738e;
+    font-size: 0.9em;
+  }
+
+  .filter-bar {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin: 0 auto 30px;
+    padding: 16px 20px;
+    background: #f9fafb;
+    border-radius: 10px;
+    max-width: 900px;
+    justify-content: center;
+  }
+  .filter-btn {
+    padding: 8px 16px;
+    border: 1px solid #e6e9ed;
+    border-radius: 6px;
+    background: white;
+    cursor: pointer;
+    font-size: 0.9em;
+    color: #5a738e;
+    transition: all 0.2s ease;
+  }
+  .filter-btn:hover, .filter-btn.active {
+    border-color: #3AAADC;
+    background: #f0f4f8;
+    color: #3AAADC;
+  }
+
+  .patterns-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 16px;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  .pattern-card {
+    background: white;
+    border-radius: 8px;
+    padding: 20px;
+    border: 1px solid #e6e9ed;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    color: inherit;
+    border-left: 3px solid transparent;
+  }
+  .pattern-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.06);
+    border-left-color: #3AAADC;
+  }
+  .pattern-card h3 {
+    margin: 0 0 8px 0;
+    color: #2c3e50;
+    font-size: 1.05em;
+    font-weight: 500;
+  }
+  .pattern-card .summary {
+    color: #5a738e;
+    font-size: 0.85em;
+    line-height: 1.5;
+    margin: 0 0 10px 0;
+  }
+  .pattern-card .meta { display: flex; gap: 8px; flex-wrap: wrap; }
+  .pattern-card .tag {
+    background: #f0f4f8;
+    padding: 3px 10px;
+    border-radius: 4px;
+    font-size: 0.75em;
+    color: #3AAADC;
+  }
+
   .back-link {
     display: inline-flex;
     align-items: center;
@@ -48,9 +136,7 @@ full_width: true
     font-weight: 500;
     font-size: 0.95em;
   }
-  .back-link:hover {
-    color: #1e4a70;
-  }
+  .back-link:hover { color: #1e4a70; }
 </style>
 
 <a href="{{ site.baseurl }}/" class="back-link">← Back to Patterns</a>
@@ -58,6 +144,60 @@ full_width: true
 <div class="domain-hero">
   <div class="hero-icon"><i data-lucide="sprout"></i></div>
   <h1>Life Patterns</h1>
-  <p>Core patterns of living systems — the deep structures that underpin all other domains. For Life Engineers crafting meaningful, resilient lives.</p>
-  <span class="status-badge">Coming Soon</span>
+  <p class="subtitle">Core patterns of living systems — the deep structures that underpin all other domains.</p>
+  <p class="sub-desc">For Life Engineers crafting meaningful, resilient lives.</p>
 </div>
+
+{% assign life_patterns = "" | split: "" %}
+{% for p in site.patterns %}
+  {% if p.ontology.commons_domain contains 'life' or p.classification.commons_domain contains 'life' %}
+    {% assign life_patterns = life_patterns | push: p %}
+  {% endif %}
+{% endfor %}
+
+<div class="stats-row">
+  <div class="stat-item">
+    <div class="number">{{ life_patterns.size }}</div>
+    <div class="label">Life Patterns</div>
+  </div>
+</div>
+
+<div class="filter-bar">
+  <button class="filter-btn active" data-filter="all">All Patterns</button>
+  <button class="filter-btn" data-filter="universal">Universal</button>
+  <button class="filter-btn" data-filter="human-universal">Human-Universal</button>
+  <button class="filter-btn" data-filter="domain">Domain</button>
+  <button class="filter-btn" data-filter="context-specific">Context-Specific</button>
+  <button class="filter-btn" data-filter="implementation">Implementation</button>
+</div>
+
+<div class="patterns-grid" id="patterns-container">
+  {% for pattern in life_patterns %}
+  {% assign universality = pattern.tags.universality | default: "domain" %}
+  <a href="{{ site.baseurl }}{{ pattern.url }}" class="pattern-card" data-universality="{{ universality }}">
+    <h3>{{ pattern.title }}</h3>
+    <div class="meta">
+      <span class="tag">{{ universality | capitalize }}</span>
+      {% if pattern.ontology.domain %}<span class="tag">{{ pattern.ontology.domain }}</span>{% endif %}
+    </div>
+  </a>
+  {% endfor %}
+</div>
+
+<script>
+document.querySelectorAll('.filter-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    
+    const filter = btn.dataset.filter;
+    document.querySelectorAll('.pattern-card').forEach(card => {
+      if (filter === 'all' || card.dataset.universality === filter) {
+        card.style.display = 'block';
+      } else {
+        card.style.display = 'none';
+      }
+    });
+  });
+});
+</script>
