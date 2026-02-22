@@ -1,24 +1,26 @@
 {
-  "timestamp": "2026-02-08T04:32:33.250187Z",
+  "timestamp": "2026-02-22T04:18:56.160848Z",
   "issues": [],
   "warnings": [
     "283 relationships point to non-existent entities",
-    "921 patterns have no relationships",
-    "1254 patterns still in draft status"
+    "3210 patterns have no relationships",
+    "3544 patterns still in draft status"
   ],
   "stats": {
-    "total_patterns": 1282,
+    "total_patterns": 3571,
     "total_lighthouses": 0,
     "total_relationships": 3309,
     "patterns_by_status": {
-      "draft": 1254,
-      "published": 28
+      "draft": 3544,
+      "published": 27
     },
     "patterns_by_domain": {
-      "startup": 1176,
-      "business": 1227,
-      "security": 721
+      "startup": 1166,
+      "business": 3232,
+      "security": 716,
+      "platform": 270,
+      "life": 16
     },
-    "multi_domain_patterns": 1225
+    "multi_domain_patterns": 1217
   }
 }
