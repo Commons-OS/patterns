@@ -2619,6 +2619,17 @@
     "score": 3
   },
   {
+    "title": "Authentic Visibility",
+    "url": "/patterns/authentic-visibility/",
+    "classification": [],
+    "description": "Making your actual self, perspective, and uncertainty visible\u2014without performing, self-promoting, or simplifying what cannot be simplified.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Authentic vs Strategic Self-Presentation",
     "url": "/patterns/authentic-vs-strategic-self/",
     "classification": [],
@@ -3713,6 +3724,17 @@
     "score": 3
   },
   {
+    "title": "Blueprint Application",
+    "url": "/patterns/blueprint-application/",
+    "classification": [],
+    "description": "Transition from theoretical knowledge to practical application by implementing the 9-layer Commons Blueprint architecture in a real-world system.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Board Committee Participation",
     "url": "/patterns/board-committee-participation/",
     "classification": [],
@@ -3904,6 +3926,17 @@
     "url": "/patterns/body-of-work-as-category-proof/",
     "classification": [],
     "description": "Recognising that a coherent, distinctive body of work is the most credible evidence that a new category exists and that one occupies its defining position \u2014 the lived demonstration of category creatio",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Body of Work Cultivation",
+    "url": "/patterns/body-of-work-cultivation/",
+    "classification": [],
+    "description": "Deliberately building a visible, cumulative portfolio of contributions that demonstrates your practice over time \u2014 your body of work speaks when you are not in the room.",
     "domains": [
       "business"
     ],
@@ -5110,6 +5143,28 @@
     "url": "/patterns/ce-as-ai-native/",
     "classification": [],
     "description": "The Commons Engineer who has never known a world without AI has fundamentally different identity possibilities than displaced knowledge workers. This pattern explores the cohort advantage of those who",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Learning in Public",
+    "url": "/patterns/ce-learning-in-public/",
+    "classification": [],
+    "description": "Sharing your thinking process \u2014 not just conclusions \u2014 to build trust through transparency and invite collaboration.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Leverage Point Identification",
+    "url": "/patterns/ce-leverage-point-identification/",
+    "classification": [],
+    "description": "Finding the places in a system where a small, well-designed intervention produces disproportionate change.",
     "domains": [
       "business"
     ],
@@ -6341,6 +6396,17 @@
     "score": 3
   },
   {
+    "title": "Collaborative Governance",
+    "url": "/patterns/collaborative-governance/",
+    "classification": [],
+    "description": "Designing decision-making structures for shared work that distribute authority, maintain trust, and hold under pressure.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Collecting as Practice",
     "url": "/patterns/collecting-as-practice/",
     "classification": [],
@@ -6474,6 +6540,17 @@
     "url": "/patterns/collective-play-community/",
     "classification": [],
     "description": "Shared play\u2014from sports to games to festivals\u2014builds community, establishes shared culture, and creates memory and belonging more effectively than serious work alone. Commons festivals and play ritual",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Collective Sensing",
+    "url": "/patterns/collective-sensing/",
+    "classification": [],
+    "description": "Building the capacity for a group to perceive, interpret, and respond to its environment as a coherent whole \u2014 sensing together what no individual can sense alone.",
     "domains": [
       "business"
     ],
@@ -6630,6 +6707,17 @@
     "score": 3
   },
   {
+    "title": "Commons as Practice",
+    "url": "/patterns/commons-as-practice/",
+    "classification": [],
+    "description": "Understanding the commons not as a resource to be managed but as a living system to be stewarded through active participation of all stewards.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Commons-Based Economics",
     "url": "/patterns/commons-based-economics/",
     "classification": [],
@@ -6733,6 +6821,17 @@
     "url": "/patterns/commons-curriculum-design/",
     "classification": [],
     "description": "Designing curricula oriented toward building the knowledge, skills, and identity of commons stewards \u2014 integrating systems thinking, collaborative knowledge creation, governance literacy, and value cr",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Commons Engineer",
+    "url": "/patterns/commons-engineer/",
+    "classification": [],
+    "description": "A comprehensive, domain-agnostic framework for developing the capabilities, character, and community needed to become a Commons Engineer \u2014 a practitioner who can see, design, build, and steward living",
     "domains": [
       "business"
     ],
@@ -7430,6 +7529,17 @@
     "score": 3
   },
   {
+    "title": "Complementary Capability Matching",
+    "url": "/patterns/complementary-capability-matching/",
+    "classification": [],
+    "description": "Finding and forming partnerships where combined capabilities exceed what either party could achieve alone.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Complementary Currencies - Parallel Systems",
     "url": "/patterns/complementary-currencies-parallel-systems/",
     "classification": [
@@ -7792,6 +7902,17 @@
     "score": 3
   },
   {
+    "title": "Conflict as Signal",
+    "url": "/patterns/conflict-as-signal/",
+    "classification": [],
+    "description": "Treating disagreement not as failure but as diagnostic information about misalignment in the system. Conflict is the system talking.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Conflict Facilitation",
     "url": "/patterns/conflict-facilitation/",
     "classification": [],
@@ -8107,6 +8228,17 @@
     "url": "/patterns/consistent-intellectual-voice/",
     "classification": [],
     "description": "Develop a consistent, recognizable intellectual voice across platforms and contexts. Stay true to core themes while allowing evolution.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Consistent Presence",
+    "url": "/patterns/consistent-presence/",
+    "classification": [],
+    "description": "Showing up reliably in your chosen channels and communities\u2014the compound interest of trust. Not about volume, but about rhythm.",
     "domains": [
       "business"
     ],
@@ -13878,6 +14010,17 @@
     "score": 0.7
   },
   {
+    "title": "Engineering Attitude",
+    "url": "/patterns/engineering-attitude/",
+    "classification": [],
+    "description": "The discipline of diagnose-before-prescribe, design-before-build, test-before-scale, iterate-before-conclude \u2014 engineering as an attitude, not a profession.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Enmeshment vs Disengagement",
     "url": "/patterns/enmeshment-vs-disengagement/",
     "classification": [],
@@ -14380,6 +14523,17 @@
     "url": "/patterns/evidence-based-advocacy/",
     "classification": [],
     "description": "Ground advocacy arguments in data, research, and documented outcomes. Build credibility through rigorous evidence while remaining accessible to broader audiences.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Evidence-Based Practice",
+    "url": "/patterns/evidence-based-practice/",
+    "classification": [],
+    "description": "Grounding claims in observable outcomes rather than theory alone\u2014making systems thinking land in the real world with proof.",
     "domains": [
       "business"
     ],
@@ -17131,6 +17285,17 @@
     "score": 3
   },
   {
+    "title": "Generative Exit",
+    "url": "/patterns/generative-exit/",
+    "classification": [],
+    "description": "Designing your departure from a system so that it thrives after you leave \u2014 the ultimate test of commons engineering. The system must outlive the engineer.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Generativity vs Stagnation",
     "url": "/patterns/generativity-vs-stagnation/",
     "classification": [],
@@ -18833,6 +18998,17 @@
     "url": "/patterns/hobby-portfolio-design/",
     "classification": [],
     "description": "Cultivate multiple hobbies across different types of activity (creative, physical, intellectual, social) as means of full-spectrum engagement and resilience.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Holding a View",
+    "url": "/patterns/holding-a-view/",
+    "classification": [],
+    "description": "Having a position before all the evidence is in, and holding it openly while remaining genuinely revisable. The antidote to analysis paralysis.",
     "domains": [
       "business"
     ],
@@ -21027,6 +21203,28 @@
     "score": 3
   },
   {
+    "title": "Integrity Under Pressure",
+    "url": "/patterns/integrity-under-pressure/",
+    "classification": [],
+    "description": "Maintaining your values and commitments when the system pushes back, incentives misalign, or the crowd moves elsewhere. The backbone of stewardship.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Intellectual Asset Design",
+    "url": "/patterns/intellectual-asset-design/",
+    "classification": [],
+    "description": "Designing insights as durable, shareable assets that compound over time and build your intellectual estate.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Intellectual Community of Practice",
     "url": "/patterns/intellectual-community-of-practice/",
     "classification": [],
@@ -22406,6 +22604,17 @@
     "score": 3
   },
   {
+    "title": "Knowledge Productization",
+    "url": "/patterns/knowledge-productization/",
+    "classification": [],
+    "description": "Turning expertise into reusable artifacts\u2014patterns, frameworks, tools\u2014that create value independently of your presence. The shift from consulting to compounding.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Knowledge Ritualisation",
     "url": "/patterns/knowledge-ritualisation/",
     "classification": [],
@@ -23682,6 +23891,17 @@
     "score": 3
   },
   {
+    "title": "Lighthouse Initiation",
+    "url": "/patterns/lighthouse-initiation/",
+    "classification": [],
+    "description": "Identifying and documenting a vital system in the world as a Lighthouse\u2014making the invisible visible for others to learn from.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Lightness Without Bypassing",
     "url": "/patterns/lightness-without-bypassing/",
     "classification": [],
@@ -23840,6 +24060,17 @@
     ],
     "domain": "business",
     "score": 5
+  },
+  {
+    "title": "Living System Design",
+    "url": "/patterns/living-system-design/",
+    "classification": [],
+    "description": "The integrative practice of designing systems that are adaptive, resilient, and generative \u2014 systems that breathe.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
   },
   {
     "title": "Living Within Planetary Boundaries",
@@ -25360,6 +25591,17 @@
     "score": 3
   },
   {
+    "title": "Method Documentation",
+    "url": "/patterns/method-documentation/",
+    "classification": [],
+    "description": "Making your approach repeatable and inspectable by documenting how you work, not just what you produce\u2014the shift from artisan to engineer.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Micro-Expression Reading",
     "url": "/patterns/micro-expression-reading/",
     "classification": [],
@@ -26670,6 +26912,17 @@
     "score": 3
   },
   {
+    "title": "Mutual Accountability",
+    "url": "/patterns/mutual-accountability/",
+    "classification": [],
+    "description": "Designing structures where community members hold each other to their own stated growth commitments \u2014 without coercion, with care.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Mutual Aid Networks - Solidarity-Based",
     "url": "/patterns/mutual-aid-networks-solidarity-based/",
     "classification": [
@@ -26813,6 +27066,17 @@
     "url": "/patterns/narrative-coherence-through-change/",
     "classification": [],
     "description": "Maintaining a coherent sense of personal story and identity while incorporating significant change \u2014 updating the narrative without losing the thread that makes life feel continuous and meaningful.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Narrative Courage",
+    "url": "/patterns/narrative-courage/",
+    "classification": [],
+    "description": "Telling the story of what you see \u2014 even when it challenges the dominant narrative or invites misunderstanding. The moral imperative of the systems thinker.",
     "domains": [
       "business"
     ],
@@ -27744,6 +28008,17 @@
     "score": 3
   },
   {
+    "title": "Observer to Participant",
+    "url": "/patterns/observer-to-participant/",
+    "classification": [],
+    "description": "The critical shift from analyzing systems from the outside to stepping into them as a visible agent of change.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Occasion Dressing",
     "url": "/patterns/occasion-dressing/",
     "classification": [],
@@ -27781,6 +28056,17 @@
     "url": "/patterns/odyssey-planning/",
     "classification": [],
     "description": "Designing three alternative five-year plans simultaneously \u2014 rather than committing to one \u2014 builds genuine flexibility and surfaces options that linear planning forecloses. This pattern covers the Bu",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Offering Design",
+    "url": "/patterns/offering-design/",
+    "classification": [],
+    "description": "Structuring what you offer so others can apply it without you present \u2014 the shift from trading time to building leverage.",
     "domains": [
       "business"
     ],
@@ -32577,6 +32863,17 @@
     "score": 4
   },
   {
+    "title": "Purpose Articulation",
+    "url": "/patterns/purpose-articulation/",
+    "classification": [],
+    "description": "Making your personal 'why' legible to yourself and others \u2014 the anchor that prevents drift and the magnet that attracts aligned collaboration.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Purpose Definition",
     "url": "/patterns/purpose-definition/",
     "classification": [],
@@ -33114,6 +33411,17 @@
     "url": "/patterns/recipe-as-heritage/",
     "classification": [],
     "description": "Preserve, adapt, and pass forward family and cultural recipes as living documents of heritage, identity, and intergenerational connection.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Reciprocity Design",
+    "url": "/patterns/reciprocity-design/",
+    "classification": [],
+    "description": "Creating explicit structures of mutual benefit that make collaboration sustainable and generative over time. Beyond goodwill to designed reciprocity.",
     "domains": [
       "business"
     ],
@@ -33719,10 +34027,32 @@
     "score": 5
   },
   {
+    "title": "Relationship as Capital",
+    "url": "/patterns/relationship-as-capital/",
+    "classification": [],
+    "description": "Treating relationships as compounding investments \u2014 building durable partnerships with mutual returns over time.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Relationship Design Around Startup Demands",
     "url": "/patterns/relationship-design-around-startup-demands/",
     "classification": [],
     "description": "Partners and family members are affected by startup demands; explicit communication and design is more functional than hoping they'll understand. This pattern explores how to involve intimate relation",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Relationship Engineering",
+    "url": "/patterns/relationship-engineering/",
+    "classification": [],
+    "description": "Designing partnerships with clear structure, reciprocity, and shared governance \u2014 not just 'working together' but engineering relationships that compound.",
     "domains": [
       "business"
     ],
@@ -34087,6 +34417,17 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Reputation Compounding",
+    "url": "/patterns/reputation-compounding/",
+    "classification": [],
+    "description": "Understanding how credibility, once established, generates opportunities that further build credibility \u2014 the flywheel of trust that makes you increasingly valuable.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
   },
   {
     "title": "Reputation Score Design",
@@ -39798,6 +40139,17 @@
     "score": 4
   },
   {
+    "title": "Systems Seeing",
+    "url": "/patterns/systems-seeing/",
+    "classification": [],
+    "description": "Perceiving the world as interconnected living systems \u2014 seeing the flows, feedback loops, and interdependencies that others miss.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Systems Storytelling",
     "url": "/patterns/systems-story-telling/",
     "classification": [],
@@ -42582,6 +42934,17 @@
     "score": 4
   },
   {
+    "title": "Value Capture Ethics",
+    "url": "/patterns/value-capture-ethics/",
+    "classification": [],
+    "description": "Designing fair value capture that sustains your practice without extracting from the commons you serve.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Value Chain Analysis - Porter",
     "url": "/patterns/value-chain-analysis-porter/",
     "classification": [
@@ -43215,6 +43578,17 @@
     "score": 3
   },
   {
+    "title": "Vitality Diagnosis",
+    "url": "/patterns/vitality-diagnosis/",
+    "classification": [],
+    "description": "Assessing the health of a living system\u2014reading the signs of life and the early warnings of decay. The diagnostic art of the Commons Engineer.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Vocabulary Bridging",
     "url": "/patterns/vocabulary-bridging/",
     "classification": [],
@@ -43352,6 +43726,17 @@
     "url": "/patterns/vulnerability-as-bridge/",
     "classification": [],
     "description": "Use appropriate self-disclosure and emotional openness as the primary mechanism for deepening trust and connection.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Vulnerability as Leadership",
+    "url": "/patterns/vulnerability-as-leadership/",
+    "classification": [],
+    "description": "Using openness about uncertainty and limitation as a source of trust and connection \u2014 stewardship leadership, not dominance.",
     "domains": [
       "business"
     ],

@@ -2190,6 +2190,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c8c21221676dd9ed3e9435f",
+    "title": "Authentic Visibility",
+    "slug": "authentic-visibility",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01khvcxdf7f17rngg27v6y9cw3",
     "title": "Authentic vs Strategic Self-Presentation",
     "slug": "authentic-vs-strategic-self",
@@ -3110,6 +3120,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c8c2122167d96ba18121935",
+    "title": "Blueprint Application",
+    "slug": "blueprint-application",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01khvcxchrezms4c9qbmcpbpkv",
     "title": "Board Committee Participation",
     "slug": "board-committee-participation",
@@ -3278,6 +3298,16 @@
     "id": "pat_01khvcxd1segyrkxn2vrcvgw1j",
     "title": "Body of Work as Category Proof",
     "slug": "body-of-work-as-category-proof",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c8c2122167afdb69a82ae10",
+    "title": "Body of Work Cultivation",
+    "slug": "body-of-work-cultivation",
     "domains": [
       "business"
     ],
@@ -4315,6 +4345,26 @@
     "id": "pat_01khvcxd5mfp9v0s0b92c2vv8p",
     "title": "CE as AI-Native",
     "slug": "ce-as-ai-native",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c8c212216733a8608e72ead",
+    "title": "Learning in Public",
+    "slug": "ce-learning-in-public",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c8c2122167e42bf5dbfd565",
+    "title": "Leverage Point Identification",
+    "slug": "ce-leverage-point-identification",
     "domains": [
       "business"
     ],
@@ -5371,6 +5421,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c8c212216761fb6f6a1975d",
+    "title": "Collaborative Governance",
+    "slug": "collaborative-governance",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01khvcxcsbezfvhsd1y4qsnmqn",
     "title": "Collecting as Practice",
     "slug": "collecting-as-practice",
@@ -5481,6 +5541,16 @@
     "id": "pat_01khvcxdjvfhdvdf8aa5dp0qf7",
     "title": "Collective Play and Community",
     "slug": "collective-play-community",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c8c21221675729bfcbd3460",
+    "title": "Collective Sensing",
+    "slug": "collective-sensing",
     "domains": [
       "business"
     ],
@@ -5620,6 +5690,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c8c2122167658b2f07a3dfa",
+    "title": "Commons as Practice",
+    "slug": "commons-as-practice",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01khvcxdtdfgg9583bq5092h52",
     "title": "Commons-Based Economics",
     "slug": "commons-based-economics",
@@ -5713,6 +5793,16 @@
     "id": "pat_01khvcxd4xf3nsywt43s0ysxd1",
     "title": "Commons Curriculum Design",
     "slug": "commons-curriculum-design",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c8c212216731a9d0c7e8af0",
+    "title": "Commons Engineer",
+    "slug": "commons-engineer",
     "domains": [
       "business"
     ],
@@ -6301,6 +6391,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c8c2122167b80a7b14877ba",
+    "title": "Complementary Capability Matching",
+    "slug": "complementary-capability-matching",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023y1e8htjshmc8jxka48",
     "title": "Complementary Currencies - Parallel Systems",
     "slug": "complementary-currencies-parallel-systems",
@@ -6600,6 +6700,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c8c212216779d94180e2164",
+    "title": "Conflict as Signal",
+    "slug": "conflict-as-signal",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01khvcxd4rfqpvyf9fmdpjp2rw",
     "title": "Conflict Facilitation",
     "slug": "conflict-facilitation",
@@ -6860,6 +6970,16 @@
     "id": "pat_01khvcxd9zec29myk0t26eswx4",
     "title": "Consistent Intellectual Voice",
     "slug": "consistent-intellectual-voice",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c8c2122167b6da8e66786ae",
+    "title": "Consistent Presence",
+    "slug": "consistent-presence",
     "domains": [
       "business"
     ],
@@ -11718,6 +11838,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c8c21221672e7a7ba5d6d77",
+    "title": "Engineering Attitude",
+    "slug": "engineering-attitude",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01khvcxcj9fpg9syyad3jeec5h",
     "title": "Enmeshment vs Disengagement",
     "slug": "enmeshment-vs-disengagement",
@@ -12144,6 +12274,16 @@
     "id": "pat_01khvcxd87e2wtz2v25j0143jc",
     "title": "Evidence-Based Advocacy",
     "slug": "evidence-based-advocacy",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c8c2122167e998df60b0c18",
+    "title": "Evidence-Based Practice",
+    "slug": "evidence-based-practice",
     "domains": [
       "business"
     ],
@@ -14473,6 +14613,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c8c2122167272a2c95b9ee5",
+    "title": "Generative Exit",
+    "slug": "generative-exit",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01khvcxdh3fnat8g0cmgg6d4fh",
     "title": "Generativity vs Stagnation",
     "slug": "generativity-vs-stagnation",
@@ -15917,6 +16067,16 @@
     "id": "pat_01khvcxcspfmat46z8ymwwepam",
     "title": "Hobby Portfolio Design",
     "slug": "hobby-portfolio-design",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c8c21221676c8a3881d220a",
+    "title": "Holding a View",
+    "slug": "holding-a-view",
     "domains": [
       "business"
     ],
@@ -17769,6 +17929,26 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c8c21221676158c60897918",
+    "title": "Integrity Under Pressure",
+    "slug": "integrity-under-pressure",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c8c2122167047bd058b8ef0",
+    "title": "Intellectual Asset Design",
+    "slug": "intellectual-asset-design",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01khvcxdbmfwcawb9b53zyyxne",
     "title": "Intellectual Community of Practice",
     "slug": "intellectual-community-of-practice",
@@ -18939,6 +19119,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c8c212216799baf7c83d04c",
+    "title": "Knowledge Productization",
+    "slug": "knowledge-productization",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01khvcxcznf01tdp7sa2z3cewc",
     "title": "Knowledge Ritualisation",
     "slug": "knowledge-ritualisation",
@@ -20036,6 +20226,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c8c2122167ec286109dccd2",
+    "title": "Lighthouse Initiation",
+    "slug": "lighthouse-initiation",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01khvcxdsqf5h8arb5chjv9mnk",
     "title": "Lightness Without Bypassing",
     "slug": "lightness-without-bypassing",
@@ -20166,6 +20366,16 @@
       "business",
       "startup",
       "security"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c8c2122167e3d91c26d8b0c",
+    "title": "Living System Design",
+    "slug": "living-system-design",
+    "domains": [
+      "business"
     ],
     "domain": "business",
     "status": "draft"
@@ -21464,6 +21674,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c8c2122167aa48905467845",
+    "title": "Method Documentation",
+    "slug": "method-documentation",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01khvcxccfejs9wjw11az48fet",
     "title": "Micro-Expression Reading",
     "slug": "micro-expression-reading",
@@ -22576,6 +22796,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c8c21221670a9b6dec31752",
+    "title": "Mutual Accountability",
+    "slug": "mutual-accountability",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023zgfwgbwk0kb4radh12",
     "title": "Mutual Aid Networks - Solidarity-Based",
     "slug": "mutual-aid-networks-solidarity-based",
@@ -22689,6 +22919,16 @@
     "id": "pat_01khvcxd2ceysawmtzbfxxcyg4",
     "title": "Narrative Coherence Through Change",
     "slug": "narrative-coherence-through-change",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c8c2122167f5b846f44a5ac",
+    "title": "Narrative Courage",
+    "slug": "narrative-courage",
     "domains": [
       "business"
     ],
@@ -23489,6 +23729,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c8c21221670918bad4f5b85",
+    "title": "Observer to Participant",
+    "slug": "observer-to-participant",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01khvcxcw7ehe9wat2v2cyj7dw",
     "title": "Occasion Dressing",
     "slug": "occasion-dressing",
@@ -23522,6 +23772,16 @@
     "id": "pat_01khvcxdy9eqc9chwkj4e8f22q",
     "title": "Odyssey Planning",
     "slug": "odyssey-planning",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c8c2122167230b834e8c699",
+    "title": "Offering Design",
+    "slug": "offering-design",
     "domains": [
       "business"
     ],
@@ -27544,6 +27804,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c8c2122167596b4202003a9",
+    "title": "Purpose Articulation",
+    "slug": "purpose-articulation",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01khndsajjfkrrg6jrkh9anw3e",
     "title": "Purpose Definition",
     "slug": "purpose-definition",
@@ -27988,6 +28258,16 @@
     "id": "pat_01khvcxct6ezgt0wj1ze8jvkmn",
     "title": "Recipe as Heritage",
     "slug": "recipe-as-heritage",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c8c2122167ac9a7870db8ec",
+    "title": "Reciprocity Design",
+    "slug": "reciprocity-design",
     "domains": [
       "business"
     ],
@@ -28494,9 +28774,29 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c8c212216715d98fdd29db5",
+    "title": "Relationship as Capital",
+    "slug": "relationship-as-capital",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01khvcxd7tfwdskdkmdnpaatmd",
     "title": "Relationship Design Around Startup Demands",
     "slug": "relationship-design-around-startup-demands",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c8c21221675c7960538076f",
+    "title": "Relationship Engineering",
+    "slug": "relationship-engineering",
     "domains": [
       "business"
     ],
@@ -28803,6 +29103,16 @@
       "business",
       "startup",
       "security"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c8c2122167c88861d545238",
+    "title": "Reputation Compounding",
+    "slug": "reputation-compounding",
+    "domains": [
+      "business"
     ],
     "domain": "business",
     "status": "draft"
@@ -33579,6 +33889,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c8c21221678e6964075e594",
+    "title": "Systems Seeing",
+    "slug": "systems-seeing",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01khvcxczxfaxv26195ax03wfb",
     "title": "Systems Storytelling",
     "slug": "systems-story-telling",
@@ -35915,6 +36235,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c8c2122167a94b564d1370b",
+    "title": "Value Capture Ethics",
+    "slug": "value-capture-ethics",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023w9f70agabwh58wpeba",
     "title": "Value Chain Analysis - Porter",
     "slug": "value-chain-analysis-porter",
@@ -36438,6 +36768,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c8c2122167ab8b6bd18c7f5",
+    "title": "Vitality Diagnosis",
+    "slug": "vitality-diagnosis",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01khvcxcz3e4g8xdtpp6z57ks5",
     "title": "Vocabulary Bridging",
     "slug": "vocabulary-bridging",
@@ -36556,6 +36896,16 @@
     "id": "pat_01khvcxc1derttf8tnej7wqtd8",
     "title": "Vulnerability as Bridge",
     "slug": "vulnerability-as-bridge",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c8c212216786bb197cf3c74",
+    "title": "Vulnerability as Leadership",
+    "slug": "vulnerability-as-leadership",
     "domains": [
       "business"
     ],
