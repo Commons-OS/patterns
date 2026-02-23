@@ -3488,6 +3488,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c8c21221671fb840cd7a30d",
+    "title": "Boundary Negotiation",
+    "slug": "boundary-negotiation",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01khvcxcz8e06a853rr71d10j0",
     "title": "Boundary Object Creation",
     "slug": "boundary-object-creation",
@@ -5950,6 +5960,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c8c21221671e7b7603e6194",
+    "title": "Community as Resilience",
+    "slug": "community-as-resilience",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01kg5023y0eh0v55ey4zj5zv74",
     "title": "Community-Based Resource Management",
     "slug": "community-based-resource-management",
@@ -6176,6 +6196,16 @@
     "id": "pat_01khvcxdrwf75rkwv0mx718hs1",
     "title": "Community Memory and Archive",
     "slug": "community-memory-and-archive",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c8c2122167802af02dec3d5",
+    "title": "Community of Practice Design",
+    "slug": "community-of-practice-design",
     "domains": [
       "business"
     ],
@@ -7198,6 +7228,16 @@
     "id": "pat_01khvcxcf6fm1tk73bchmbzefr",
     "title": "Context Batching",
     "slug": "context-batching",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c8c21221675f4954ca260b3",
+    "title": "Context Diagnosis",
+    "slug": "context-diagnosis",
     "domains": [
       "business"
     ],
@@ -12634,6 +12674,16 @@
     "id": "pat_01khvcxdbwe1w94vcd5hw8ej6c",
     "title": "Failure as Learning Accelerator",
     "slug": "failure-as-learning-accelerator",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c8c2122167270a8c18b1a31",
+    "title": "Failure Disclosure",
+    "slug": "failure-disclosure",
     "domains": [
       "business"
     ],
@@ -21508,6 +21558,16 @@
     "status": "draft"
   },
   {
+    "id": "pat_019c8c212216781d8680ab747d",
+    "title": "Mental Model Externalization",
+    "slug": "mental-model-externalization",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
     "id": "pat_01khvcxck1edrswfcxxsb1nny8",
     "title": "Mentee to Mentor Transition",
     "slug": "mentee-to-mentor-transition",
@@ -24784,6 +24844,16 @@
     "id": "pat_01khvcxcypejga13tp06482zk0",
     "title": "Pattern Recognition as Practice",
     "slug": "pattern-recognition-as-practice",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c8c21221670dea6d5d73b0c",
+    "title": "Pattern Sharing Practice",
+    "slug": "pattern-sharing-practice",
     "domains": [
       "business"
     ],
@@ -33088,6 +33158,16 @@
       "business",
       "startup",
       "security"
+    ],
+    "domain": "business",
+    "status": "draft"
+  },
+  {
+    "id": "pat_019c8c21221673598032064a03",
+    "title": "Stewardship Rotation",
+    "slug": "stewardship-rotation",
+    "domains": [
+      "business"
     ],
     "domain": "business",
     "status": "draft"

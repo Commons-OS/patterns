@@ -4140,6 +4140,17 @@
     "score": 3
   },
   {
+    "title": "Boundary Negotiation",
+    "url": "/patterns/boundary-negotiation/",
+    "classification": [],
+    "description": "Defining what is shared and what is sovereign in any collaborative relationship \u2014 the architecture of healthy partnerships.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Boundary Object Creation",
     "url": "/patterns/boundary-object-creation/",
     "classification": [],
@@ -7002,6 +7013,17 @@
     "score": 3
   },
   {
+    "title": "Community as Resilience",
+    "url": "/patterns/community-as-resilience/",
+    "classification": [],
+    "description": "In a world of accelerating change, community is not optional infrastructure\u2014it is the practitioner's immune system.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Community-Based Resource Management",
     "url": "/patterns/community-based-resource-management/",
     "classification": [
@@ -7275,6 +7297,17 @@
     "url": "/patterns/community-memory-and-archive/",
     "classification": [],
     "description": "Intentionally preserving and making accessible community history, stories, knowledge, and decisions\u2014collective memory as commons resource. Archive as identity and learning container.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Community of Practice Design",
+    "url": "/patterns/community-of-practice-design/",
+    "classification": [],
+    "description": "Designing communities that collectively sense context faster, share patterns more efficiently, and hold each other accountable to growth.",
     "domains": [
       "business"
     ],
@@ -8500,6 +8533,17 @@
     "url": "/patterns/context-batching/",
     "classification": [],
     "description": "Grouping similar tasks requiring identical mental frameworks minimizes context-switching costs and leverages momentum within a cognitive domain.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Context Diagnosis",
+    "url": "/patterns/context-diagnosis/",
+    "classification": [],
+    "description": "Reading the forces, tensions, and life-energy at play in a situation before prescribing solutions.",
     "domains": [
       "business"
     ],
@@ -14964,6 +15008,17 @@
     "url": "/patterns/failure-as-learning-accelerator/",
     "classification": [],
     "description": "Failure contains information that success cannot provide \u2014 specifically, the location of the gap between current model and reality. This pattern addresses how to extract maximum learning from failure:",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Failure Disclosure",
+    "url": "/patterns/failure-disclosure/",
+    "classification": [],
+    "description": "Sharing what didn't work as openly as what did \u2014 the practice that separates credible practitioners from performers. Failure is data.",
     "domains": [
       "business"
     ],
@@ -25398,6 +25453,17 @@
     "score": 3
   },
   {
+    "title": "Mental Model Externalization",
+    "url": "/patterns/mental-model-externalization/",
+    "classification": [],
+    "description": "Moving your internal maps of reality into visible, testable, shareable artifacts that others can engage with.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
     "title": "Mentee to Mentor Transition",
     "url": "/patterns/mentee-to-mentor-transition/",
     "classification": [],
@@ -29273,6 +29339,17 @@
     "url": "/patterns/pattern-recognition-as-practice/",
     "classification": [],
     "description": "Deliberately training the ability to perceive recurring structures, archetypes, and dynamics across different contexts in everyday life \u2014 turning observation into a generative cognitive habit.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
+  },
+  {
+    "title": "Pattern Sharing Practice",
+    "url": "/patterns/pattern-sharing-practice/",
+    "classification": [],
+    "description": "The discipline of contributing observations, insights, and tested patterns back to the shared knowledge base.",
     "domains": [
       "business"
     ],
@@ -39183,6 +39260,17 @@
     ],
     "domain": "business",
     "score": 4
+  },
+  {
+    "title": "Stewardship Rotation",
+    "url": "/patterns/stewardship-rotation/",
+    "classification": [],
+    "description": "Distributing leadership and maintenance responsibilities across community members to prevent burnout, capture, and single points of failure.",
+    "domains": [
+      "business"
+    ],
+    "domain": "business",
+    "score": 3
   },
   {
     "title": "Sticky Engine of Growth",
