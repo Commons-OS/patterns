@@ -1,4 +1,3 @@
-
 ---
 id: pat_019c8c2122167802af02dec3d5
 slug: community-of-practice-design

@@ -1,4 +1,3 @@
-
 ---
 # GROUP 1: CORE IDENTITY
 id: pat_019c8c21221675f4954ca260b3
