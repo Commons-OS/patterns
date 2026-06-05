@@ -181,6 +181,7 @@ graph_garden:
 contributors: ["higgerix", "cloudsters"]
 sources:
   - "Legacy, values clarification, mortality awareness, life purpose"
+  - "FinalNotes obituary story and article form guidance, https://www.finalnotes.page/obituary-stories/ and https://www.finalnotes.page/obituary-articles/"
 license: CC-BY-SA-4.0
 attribution: "commons.engineering by cloudsters, https://cloudsters.net"
 ---
@@ -247,6 +248,8 @@ The source traditions—legacy, mortality awareness, life purpose—anchor this 
 **Activist translation: Use it as strategy clarification for your role and time.** Write the obituary, then ask: am I allocating energy proportionally to what matters most? Many activists discover they're organizing at a scale or pace that contradicts their deeper values about sustainability and collective wellbeing. The obituary gives you permission to say, "I need to change how I work, not just what I work on." One organizer's obituary revealed she wanted to be remembered for "mentoring the next generation to think strategically"—but she was logging 70 hours doing tactical work. She restructured her role to 60% mentoring, 40% strategy. Her productivity went up; her movement's adaptive capacity increased.
 
 **Tech translation: Remember that obituary can reflect multiple sides of life: work, relationships, community, creative contributions.** Many technologists write obituaries that are all work. Then they notice. One engineer's obituary named family, open-source mentoring, and local community repair as core legacy—but work filled 95% of her calendar. She then made visible what that meant: her technical legacy would be solid, but her human legacy fractured. She negotiated a four-day work week and committed to three hours weekly on mentoring. The practice surfaces what you're actually choosing.
+
+**If the draft is meant for public remembrance, choose the form before polishing it.** An obituary-as-practice can remain a private values mirror, or it can become a family life story, a reported article, a eulogy, or a short death notice. Separate verified facts, remembered scenes, and interpretive claims so the piece does not collapse into generic tribute copy. The FinalNotes guides to [obituary stories](https://www.finalnotes.page/obituary-stories/) and [obituary articles](https://www.finalnotes.page/obituary-articles/) are useful checkpoints for deciding whether the next version should read as a narrative life story, a source-backed article, or a shorter notice.
 
 **After the first draft, share with one trusted person.** Not to judge or edit, but to surface what you notice together. What did they hear as most alive in your writing? What surprised them? This conversation often clarifies which parts of your obituary are authentic and which are performed.
 
